@@ -34,17 +34,6 @@
 "also": []
 },
 {
-"t": "2026-10-13T00:00:00Z",
-"bank": "Fed",
-"speaker": "Waller",
-"hl": "The signaling value of the summary of economic projections",
-"url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
 "t": "2026-10-12T21:44:39Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -130,7 +119,9 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-10-08T06:00:00Z",
@@ -199,89 +190,12 @@
 "also": []
 },
 {
-"t": "2026-10-07T13:36:25Z",
-"bank": "BoE",
-"speaker": "",
-"hl": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-"url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-"src": "Bank of England news",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
 "t": "2026-10-07T12:15:00Z",
 "bank": "SNB",
-"speaker": "",
+"speaker": "Martin",
 "hl": "2026-10-07 - Antoine Martin: The SNB and its monetary policy",
 "url": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261007_anmar",
 "src": "Swiss National Bank news",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-07T00:00:00Z",
-"bank": "BoC",
-"speaker": "Rogers",
-"hl": "Canada’s housing affordability dilemma",
-"url": "https://www.bis.org/speeches/20261007-canadas-housing-affordability-dilemma",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-07T00:00:00Z",
-"bank": "Fed",
-"speaker": "Waller",
-"hl": "The data version of Godzilla versus Kong - FRED takes on AI",
-"url": "https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-07T00:00:00Z",
-"bank": "Fed",
-"speaker": "Jefferson",
-"hl": "The US economy and monetary policy",
-"url": "https://www.bis.org/speeches/20261007-us-economy-and-monetary-policy",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-07T00:00:00Z",
-"bank": "ECB",
-"speaker": "",
-"hl": "Diagnostic challenges for ECB monetary policy",
-"url": "https://www.bis.org/speeches/20261007-diagnostic-challenges-ecb-monetary-policy",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-07T00:00:00Z",
-"bank": "ECB",
-"speaker": "Schnabel",
-"hl": "Monetary policy in a world of overlapping shocks",
-"url": "https://www.bis.org/speeches/20261007-monetary-policy-world-overlapping-shocks",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-06T13:07:03Z",
-"bank": "BoE",
-"speaker": "",
-"hl": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-"url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-"src": "Bank of England news",
 "tier": "official",
 "tone": "",
 "also": []
@@ -299,43 +213,10 @@
 },
 {
 "t": "2026-10-06T00:00:00Z",
-"bank": "Fed",
-"speaker": "Cook",
-"hl": "The dual mandate in rural America",
-"url": "https://www.bis.org/speeches/20261006-dual-mandate-rural-america",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-06T00:00:00Z",
 "bank": "ECB",
 "speaker": "",
 "hl": "Resilience, integration and competitiveness - building the future of European banking",
 "url": "https://www.bis.org/speeches/20261006-resilience-integration-and-competitiveness-building-future-european-banking",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-06T00:00:00Z",
-"bank": "BoC",
-"speaker": "Gravelle",
-"hl": "Repo markets and monetary policy implementation",
-"url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-06T00:00:00Z",
-"bank": "Fed",
-"speaker": "Barr",
-"hl": "Economic conditions and monetary policy",
-"url": "https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy",
 "src": "BIS central bankers' speeches",
 "tier": "official",
 "tone": "",
@@ -350,7 +231,9 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-10-02T13:00:00Z",
@@ -372,12 +255,14 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-10-01T15:20:12Z",
 "bank": "BoC",
-"speaker": "Carolyn",
+"speaker": "Rogers",
 "hl": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria",
 "url": "https://www.bankofcanada.ca/multimedia/speech-greater-victoria-chamber-of-commerce-and-cfa-society-victoria-2026-10-1/",
 "src": "Bank of Canada speeches",
@@ -388,13 +273,15 @@
 {
 "t": "2026-10-01T15:05:48Z",
 "bank": "BoC",
-"speaker": "Carolyn",
+"speaker": "Rogers",
 "hl": "Canada’s housing affordability dilemma",
 "url": "https://www.bankofcanada.ca/2026/10/canadas-housing-affordability-dilemma/",
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-10-01T14:00:00Z",
@@ -405,18 +292,9 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
-},
-{
-"t": "2026-10-01T13:00:00Z",
-"bank": "BoE",
-"speaker": "",
-"hl": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
-"url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
-"src": "Bank of England news",
-"tier": "official",
-"tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-09-30T19:25:00Z",
@@ -427,7 +305,9 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-09-30T17:00:00Z",
@@ -449,7 +329,9 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-09-30T09:30:00Z",
@@ -471,7 +353,9 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-09-29T15:00:00Z",
@@ -487,13 +371,15 @@
 {
 "t": "2026-09-29T13:20:51Z",
 "bank": "BoC",
-"speaker": "Toni",
+"speaker": "Gravelle",
 "hl": "Repo markets and monetary policy implementation",
 "url": "https://www.bankofcanada.ca/2026/09/repo-markets-monetary-policy-implementation/",
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [
+"BIS central bankers' speeches"
+]
 },
 {
 "t": "2026-09-28T17:25:00Z",
@@ -502,17 +388,6 @@
 "hl": "Cook, An Update on AI and the Economy",
 "url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
 "src": "Federal Reserve speeches",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-09-25T06:30:00Z",
-"bank": "BoE",
-"speaker": "",
-"hl": "Minutes of the Market Participants Group meeting – 24 September 2026",
-"url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
-"src": "Bank of England news",
 "tier": "official",
 "tone": "",
 "also": []
@@ -542,7 +417,7 @@
 {
 "t": "2026-09-21T12:30:50Z",
 "bank": "BoC",
-"speaker": "Availability",
+"speaker": "",
 "hl": "Media Availability: Halifax Partnership",
 "url": "https://www.bankofcanada.ca/multimedia/media-availability-halifax-partnership/",
 "src": "Bank of Canada speeches",
@@ -551,9 +426,20 @@
 "also": []
 },
 {
+"t": "2026-09-21T11:20:45Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Speech: Halifax Partnership",
+"url": "https://www.bankofcanada.ca/multimedia/speech-halifax-partnership-2026-09-21/",
+"src": "Bank of Canada speeches",
+"tier": "official",
+"tone": "",
+"also": []
+},
+{
 "t": "2026-09-21T11:05:59Z",
 "bank": "BoC",
-"speaker": "Tiff",
+"speaker": "Macklem",
 "hl": "Adapting to structural forces, navigating uncertainty",
 "url": "https://www.bankofcanada.ca/2026/09/adapting-structural-forces-navigating-uncertainty/",
 "src": "Bank of Canada speeches",
@@ -573,33 +459,11 @@
 "also": []
 },
 {
-"t": "2026-09-18T11:00:00Z",
-"bank": "BoE",
-"speaker": "",
-"hl": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
-"url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
-"src": "Bank of England news",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
 "t": "2026-09-17T13:30:00Z",
 "bank": "BoE",
 "speaker": "",
 "hl": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
 "url": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
-"src": "Bank of England news",
-"tier": "official",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-09-17T13:30:00Z",
-"bank": "BoE",
-"speaker": "",
-"hl": "Monetary Policy Committee dates for 2027",
-"url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
@@ -683,11 +547,11 @@
 "also": []
 },
 {
-"t": "2026-09-03T13:20:44Z",
+"t": "2026-09-03T13:00:29Z",
 "bank": "BoC",
-"speaker": "Tiff",
-"hl": "Unveiling of Vertical $20 Bank Note",
-"url": "https://www.bankofcanada.ca/2026/09/unveiling-of-vertical-20-bank-note/",
+"speaker": "Macklem",
+"hl": "Unveiling Canada’s new $20 bank note - Speech (Webcasts)",
+"url": "https://www.bankofcanada.ca/multimedia/unveiling-canadas-new-20-bank-note-speech-webcasts/",
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
