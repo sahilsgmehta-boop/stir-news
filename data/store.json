@@ -1,6 +1,17 @@
 {
 "items": [
 {
+"t": "2026-10-13T18:31:49Z",
+"bank": "Fed",
+"speaker": "Barkin",
+"hl": "Fed’s Barkin says persistent inflation warrants policy action",
+"url": "https://www.fxstreet.com/news/feds-barkin-says-persistent-inflation-warrants-policy-action-202610131831",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": []
+},
+{
 "t": "2026-10-13T18:20:39Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -9,7 +20,9 @@
 "src": "investingLive central banks",
 "tier": "comment",
 "tone": "",
-"also": []
+"also": [
+"FXStreet"
+]
 },
 {
 "t": "2026-10-13T18:00:00Z",
