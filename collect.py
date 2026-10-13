@@ -148,7 +148,9 @@ OFFICIAL_DROP = re.compile(
     r"prudential|\bPRA\b|cyber|climate|data portal|statistic|fintech|crypto|"
     r"stablecoin|financial inclusion|appointment|vacanc|consultation|"
     r"Money Market Committee|resolution regime|anti-money|sanction|"
-    r"enforcement|bank capital|capital requirement|stress test|operational resilience",
+    r"enforcement|bank capital|capital requirement|stress test|operational resilience|"
+    r"Sub[- ]?Committee|Court of Directors|Market Participants Group|Taskforce|"
+    r"\bFXJSC\b|Committee dates|Money Markets Code",
     re.I)
 
 NAME_STOP = set("""The A An Minutes Rate Rates Policy Survey Beige Book Board Staff
@@ -157,7 +159,8 @@ Chair Chairman President Governor Vice Deputy Officials Official Member Members 
 Central New York Chicago St Louis Atlanta Dallas San Francisco Cleveland Richmond
 Minneapolis Boston Philadelphia Kansas City Fed ECB BoE BOE BoC BOC SNB FOMC MPC
 Speech Remarks Interview Testimony Press Release Is Will May Could Should Accounts
-Account Data Survey Staff Projections""".split())
+Account Data Survey Staff Projections Availability Media Opening Fireside Panel
+Webinar Discussion Lecture Keynote Conference""".split())
 
 SPEAKER_PATS = [
     re.compile(_B + r"\s+([A-Z][A-Za-z\-]+)\s*:"),                # Fed Williams: ...
@@ -280,6 +283,28 @@ _LEAD_COLON = re.compile(r"^((?:[A-Z][\w\.\-’']+\s+){0,3}[A-Z][\w\-’']+)\s*:
 _LEAD_COMMA = re.compile(r"^([A-Z][a-z][\w\-]+),\s+[A-Z]")
 
 
+_ROSTER_PAT = None
+
+
+def roster_find(bank, text):
+    """First roster member of `bank` named in `text`, accent- and case-blind."""
+    global _ROSTER_PAT
+    if _ROSTER_PAT is None:
+        _ROSTER_PAT = {}
+        people, _ = load_roster()
+        for p in people:
+            for n in [p["name"]] + list(p.get("aliases", [])):
+                _ROSTER_PAT.setdefault(p["bank"], []).append(
+                    (re.compile(r"\b" + re.escape(fold(n)) + r"\b"), p["name"]))
+    t = fold(text)
+    best = None
+    for pat, name in _ROSTER_PAT.get(bank, []):
+        m = pat.search(t)
+        if m and (best is None or m.start() < best[0]):
+            best = (m.start(), name)
+    return best[1] if best else ""
+
+
 def official_speaker(title, desc):
     m = _LEAD_COLON.match(title)
     if m:
@@ -351,7 +376,8 @@ def classify(src, it, now, near=None):
             bank = next((b for b, p in BIS_PAT.items() if p.search(blob)), None)
             if not bank:
                 return None
-        speaker = official_speaker(title, desc)
+        speaker = (roster_find(bank, title) or roster_find(bank, desc[:400])
+                   or official_speaker(title, desc))
         tier = "official"
     else:
         bank = find_bank(title, curated=(kind == "curated"))
@@ -361,7 +387,7 @@ def classify(src, it, now, near=None):
             if near is not None and len(near) < 10:
                 near.append(title[:160])
             return None
-        speaker = find_speaker(title)
+        speaker = find_speaker(title) or roster_find(bank, title)
         tier = "comment"
 
     return dict(t=t.strftime("%Y-%m-%dT%H:%M:%SZ"), bank=bank, speaker=speaker,
@@ -383,7 +409,8 @@ def merge(store, new):
             if x["bank"] != n["bank"] or x["tier"] != n["tier"]:
                 continue
             x_time = datetime.strptime(x["t"], "%Y-%m-%dT%H:%M:%SZ")
-            if abs((x_time - n_time).total_seconds()) > 36 * 3600:
+            window = 10 * 86400 if n["tier"] == "official" else 36 * 3600
+            if abs((x_time - n_time).total_seconds()) > window:
                 continue
             s = similar(tokens(x["hl"]), nt)
             same_person = n["speaker"] and n["speaker"] == x["speaker"]
@@ -426,9 +453,16 @@ def load_roster():
         print("speakers.json unreadable, continuing without leans:", e)
         return [], {}
     index = {}
+    firsts = {}
     for p in people:
         for n in [p["name"]] + list(p.get("aliases", [])):
             index[p["bank"] + "|" + fold(n)] = p["name"]
+        first = p.get("full", "").split()[0] if p.get("full") else ""
+        if first:
+            firsts.setdefault(p["bank"] + "|" + fold(first), []).append(p["name"])
+    for k, names in firsts.items():                 # "Carolyn" -> Rogers, if unambiguous
+        if len(names) == 1 and k not in index:
+            index[k] = names[0]
     return people, index
 
 
@@ -438,14 +472,21 @@ def write_outputs(store, health, now):
                 if not (x["tier"] == "official" and OFFICIAL_DROP.search(x["hl"]))]
     for x in store:
         if x["tier"] == "official":
-            sp = official_speaker(x["hl"], "")
+            sp = roster_find(x["bank"], x["hl"]) or official_speaker(x["hl"], "")
             if sp:
                 x["speaker"] = sp
+            elif x["speaker"] in NAME_STOP:
+                x["speaker"] = ""
         elif not x["speaker"]:
-            x["speaker"] = find_speaker(x["hl"])
+            x["speaker"] = find_speaker(x["hl"]) or roster_find(x["bank"], x["hl"])
     for x in store:                              # one spelling per person
         if x["speaker"]:
             x["speaker"] = index.get(x["bank"] + "|" + fold(x["speaker"]), x["speaker"])
+    # Re-run de-duplication over everything held, oldest first, so a rule
+    # change also folds together pairs that arrived before it existed.
+    fresh = []
+    merge(fresh, sorted(store, key=lambda x: x["t"]))
+    store[:] = fresh
 
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
     os.makedirs(os.path.dirname(OUT_JS), exist_ok=True)
