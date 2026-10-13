@@ -1,5 +1,5 @@
 {
- "built": "2026-10-13T18:31:15Z",
+ "built": "2026-10-13T18:33:16Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 12,
-   "added": 12,
+   "added": 0,
    "error": ""
   },
   {
@@ -19,7 +19,12 @@
    "fetched": 30,
    "kept": 0,
    "added": 0,
-   "error": ""
+   "error": "",
+   "near_misses": [
+    "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
+    "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI looms",
+    "British Pound: Firmer ground with BoE hike risk \u2013 ING"
+   ]
   },
   {
    "id": "il_all",
@@ -27,9 +32,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
-   "error": ""
+   "error": "",
+   "near_misses": [
+    "Connecting the dots: How the AI boom could turn into the Fed's next inflation headache"
+   ]
   },
   {
    "id": "cnbc",
@@ -39,7 +47,15 @@
    "fetched": 30,
    "kept": 0,
    "added": 0,
-   "error": ""
+   "error": "",
+   "near_misses": [
+    "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+    "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+    "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+    "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed"
+   ]
   },
   {
    "id": "mw",
@@ -49,17 +65,8 @@
    "fetched": 10,
    "kept": 0,
    "added": 0,
-   "error": ""
-  },
-  {
-   "id": "yahoo",
-   "name": "Yahoo Finance",
-   "kind": "headline",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "fed_sp",
@@ -67,8 +74,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 15,
-   "added": 15,
+   "kept": 10,
+   "added": 0,
    "error": ""
   },
   {
@@ -78,7 +85,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 15,
-   "added": 15,
+   "added": 11,
    "error": ""
   },
   {
@@ -88,7 +95,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 6,
-   "added": 6,
+   "added": 0,
    "error": ""
   },
   {
@@ -97,8 +104,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 32,
-   "added": 27,
+   "kept": 18,
+   "added": 6,
    "error": ""
   },
   {
@@ -108,7 +115,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 10,
-   "added": 6,
+   "added": 0,
    "error": ""
   },
   {
@@ -117,8 +124,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 20,
-   "kept": 7,
-   "added": 6,
+   "kept": 2,
+   "added": 0,
    "error": ""
   },
   {
@@ -127,8 +134,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 17,
-   "added": 17,
+   "kept": 11,
+   "added": 0,
    "error": ""
   }
  ]
