@@ -71,8 +71,6 @@ SOURCES = [
          url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
     dict(id="mw", name="MarketWatch", kind="headline",
          url="https://feeds.content.dowjones.io/public/rss/mw_topstories"),
-    dict(id="yahoo", name="Yahoo Finance", kind="headline",
-         url="https://finance.yahoo.com/news/rssindex"),
 
     dict(id="fed_sp", name="Federal Reserve speeches", kind="official", bank="Fed",
          url="https://www.federalreserve.gov/feeds/speeches.xml"),
@@ -129,6 +127,7 @@ ATTRIBUTION = [
     re.compile(_B + r"\s+" + _ROLE + r"\b"),                          # ECB President ...
     re.compile(r"\b(?:%s) Fed(?:'s|’s)?\s+(?:President\s+)?[A-Z]" % _REGIONS),
     re.compile(r"\b(?:Lagarde|Macklem)\b"),
+    re.compile(_B + r"\s+[A-Z][A-Za-z\-]+\s*:"),                  # Fed Williams: ...
     re.compile(_B + r"\b.*\b(?:minutes|decision|statement|accounts|press conference|"
                r"testimony|holds|hikes|raises|cuts|keeps|leaves|rate decision)\b", re.I),
     re.compile(r"\bBeige Book\b|\bdot plot\b", re.I),
@@ -142,14 +141,26 @@ OFFICIAL_KEEP = re.compile(
     r"podcast|letter|rate|inflation|economic outlook|projection|Monetary Policy Report|"
     r"Financial Stability", re.I)
 
+# Official items that are not about rates or the economy. Checked against the
+# title and the start of the description, for every official feed.
+OFFICIAL_DROP = re.compile(
+    r"digital euro|tokeni[sz]|payment|banknote|counterfeit|supervis|regulat|"
+    r"prudential|\bPRA\b|cyber|climate|data portal|statistic|fintech|crypto|"
+    r"stablecoin|financial inclusion|appointment|vacanc|consultation|"
+    r"Money Market Committee|resolution regime|anti-money|sanction|"
+    r"enforcement|bank capital|capital requirement|stress test|operational resilience",
+    re.I)
+
 NAME_STOP = set("""The A An Minutes Rate Rates Policy Survey Beige Book Board Staff
 Monetary Decision Statement Says Said Sees See Warns Expects Report Economic Outlook
 Chair Chairman President Governor Vice Deputy Officials Official Member Members Bank
 Central New York Chicago St Louis Atlanta Dallas San Francisco Cleveland Richmond
 Minneapolis Boston Philadelphia Kansas City Fed ECB BoE BOE BoC BOC SNB FOMC MPC
-Speech Remarks Interview Testimony Press Release Is Will May Could Should""".split())
+Speech Remarks Interview Testimony Press Release Is Will May Could Should Accounts
+Account Data Survey Staff Projections""".split())
 
 SPEAKER_PATS = [
+    re.compile(_B + r"\s+([A-Z][A-Za-z\-]+)\s*:"),                # Fed Williams: ...
     re.compile(_B + r"(?:'s|’s)\s+([A-Z][A-Za-z\-]+)"),
     re.compile(r"\b(?:%s) Fed(?:'s|’s)?\s+(?:President\s+)?([A-Z][A-Za-z\-]+)" % _REGIONS),
     re.compile(_ROLE + r"(?:\s+for\s+Supervision)?\s+([A-Z][A-Za-z\-]+)"),
@@ -265,6 +276,22 @@ _BYLINE = re.compile(r"\b(?:Interview with|Speech by|Remarks by|Statement by|"
                      r"((?:[A-Z][\w\.\-]*\s+){0,3}[A-Z][\w\-]+)")
 
 
+_LEAD_COLON = re.compile(r"^((?:[A-Z][\w\.\-’']+\s+){0,3}[A-Z][\w\-’']+)\s*:\s")
+_LEAD_COMMA = re.compile(r"^([A-Z][a-z][\w\-]+),\s+[A-Z]")
+
+
+def official_speaker(title, desc):
+    m = _LEAD_COLON.match(title)
+    if m:
+        last = m.group(1).split()[-1]
+        if last not in NAME_STOP:
+            return last
+    m = _LEAD_COMMA.match(title)
+    if m and m.group(1) not in NAME_STOP:
+        return m.group(1)
+    return find_speaker(title) or find_speaker(desc[:300])
+
+
 def find_speaker(text):
     m = _BYLINE.search(text)
     if m:
@@ -301,7 +328,7 @@ def canon_url(u):
 
 
 # ---------------------------------------------------------------------------
-def classify(src, it, now):
+def classify(src, it, now, near=None):
     title = clean(it["title"])
     desc = clean(it["desc"])
     if not title:
@@ -313,6 +340,8 @@ def classify(src, it, now):
     kind = src["kind"]
 
     if kind == "official":
+        if OFFICIAL_DROP.search(title + " " + desc[:300]):
+            return None
         if src.get("bank"):
             bank = src["bank"]
             if src["id"] in ("ecb", "boe", "snb") and not OFFICIAL_KEEP.search(title + " " + desc[:300]):
@@ -322,17 +351,15 @@ def classify(src, it, now):
             bank = next((b for b, p in BIS_PAT.items() if p.search(blob)), None)
             if not bank:
                 return None
-        speaker = find_speaker(title) or find_speaker(desc[:300])
-        if src["id"] == "bis":
-            m = re.match(r"([A-Z][\w\.\- ]+?):", title)       # "Christine Lagarde: ..."
-            if m:
-                speaker = m.group(1).split()[-1]
+        speaker = official_speaker(title, desc)
         tier = "official"
     else:
         bank = find_bank(title, curated=(kind == "curated"))
         if not bank:
             return None
         if kind == "headline" and not attributed(title):
+            if near is not None and len(near) < 10:
+                near.append(title[:160])
             return None
         speaker = find_speaker(title)
         tier = "comment"
@@ -407,6 +434,15 @@ def load_roster():
 
 def write_outputs(store, health, now):
     people, index = load_roster()
+    store[:] = [x for x in store
+                if not (x["tier"] == "official" and OFFICIAL_DROP.search(x["hl"]))]
+    for x in store:
+        if x["tier"] == "official":
+            sp = official_speaker(x["hl"], "")
+            if sp:
+                x["speaker"] = sp
+        elif not x["speaker"]:
+            x["speaker"] = find_speaker(x["hl"])
     for x in store:                              # one spelling per person
         if x["speaker"]:
             x["speaker"] = index.get(x["bank"] + "|" + fold(x["speaker"]), x["speaker"])
@@ -425,7 +461,7 @@ def write_outputs(store, health, now):
     payload = {
         "built": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "cols": ["t", "bank", "speaker", "headline", "tone", "url", "source", "tier", "also"],
-        "sources": health,
+        "sources": [{k: v for k, v in h.items() if k != "near_misses"} for h in health],
         "speakers": [[p["bank"], p["name"], p["full"], p["role"], p["lean"],
                       p["confidence"], p["basis"], p["asof"]] for p in people],
         "items": [[x["t"], x["bank"], x["speaker"], x["hl"], x["tone"], x["url"],
@@ -468,7 +504,10 @@ def main():
                 raw = fetch(src["url"])
             items = parse_feed(raw)
             rec["fetched"] = len(items)
-            kept = [k for k in (classify(src, it, now) for it in items) if k]
+            near = []
+            kept = [k for k in (classify(src, it, now, near) for it in items) if k]
+            if src["kind"] == "headline":
+                rec["near_misses"] = near
             rec["kept"] = len(kept)
             rec["added"] = merge(store, kept)
             total_new += rec["added"]
