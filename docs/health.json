@@ -1,0 +1,135 @@
+{
+ "built": "2026-10-13T18:31:15Z",
+ "sources": [
+  {
+   "id": "il_cb",
+   "name": "investingLive central banks",
+   "kind": "curated",
+   "ok": true,
+   "fetched": 25,
+   "kept": 12,
+   "added": 12,
+   "error": ""
+  },
+  {
+   "id": "fxs",
+   "name": "FXStreet",
+   "kind": "headline",
+   "ok": true,
+   "fetched": 30,
+   "kept": 0,
+   "added": 0,
+   "error": ""
+  },
+  {
+   "id": "il_all",
+   "name": "investingLive",
+   "kind": "headline",
+   "ok": true,
+   "fetched": 25,
+   "kept": 0,
+   "added": 0,
+   "error": ""
+  },
+  {
+   "id": "cnbc",
+   "name": "CNBC Economy",
+   "kind": "headline",
+   "ok": true,
+   "fetched": 30,
+   "kept": 0,
+   "added": 0,
+   "error": ""
+  },
+  {
+   "id": "mw",
+   "name": "MarketWatch",
+   "kind": "headline",
+   "ok": true,
+   "fetched": 10,
+   "kept": 0,
+   "added": 0,
+   "error": ""
+  },
+  {
+   "id": "yahoo",
+   "name": "Yahoo Finance",
+   "kind": "headline",
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "id": "fed_sp",
+   "name": "Federal Reserve speeches",
+   "kind": "official",
+   "ok": true,
+   "fetched": 15,
+   "kept": 15,
+   "added": 15,
+   "error": ""
+  },
+  {
+   "id": "fed_mp",
+   "name": "Federal Reserve monetary policy",
+   "kind": "official",
+   "ok": true,
+   "fetched": 15,
+   "kept": 15,
+   "added": 15,
+   "error": ""
+  },
+  {
+   "id": "ecb",
+   "name": "ECB press, speeches, interviews",
+   "kind": "official",
+   "ok": true,
+   "fetched": 15,
+   "kept": 6,
+   "added": 6,
+   "error": ""
+  },
+  {
+   "id": "boe",
+   "name": "Bank of England news",
+   "kind": "official",
+   "ok": true,
+   "fetched": 50,
+   "kept": 32,
+   "added": 27,
+   "error": ""
+  },
+  {
+   "id": "boc",
+   "name": "Bank of Canada speeches",
+   "kind": "official",
+   "ok": true,
+   "fetched": 10,
+   "kept": 10,
+   "added": 6,
+   "error": ""
+  },
+  {
+   "id": "snb",
+   "name": "Swiss National Bank news",
+   "kind": "official",
+   "ok": true,
+   "fetched": 20,
+   "kept": 7,
+   "added": 6,
+   "error": ""
+  },
+  {
+   "id": "bis",
+   "name": "BIS central bankers' speeches",
+   "kind": "official",
+   "ok": true,
+   "fetched": 50,
+   "kept": 17,
+   "added": 17,
+   "error": ""
+  }
+ ]
+}
