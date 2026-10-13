@@ -160,7 +160,8 @@ Central New York Chicago St Louis Atlanta Dallas San Francisco Cleveland Richmon
 Minneapolis Boston Philadelphia Kansas City Fed ECB BoE BOE BoC BOC SNB FOMC MPC
 Speech Remarks Interview Testimony Press Release Is Will May Could Should Accounts
 Account Data Survey Staff Projections Availability Media Opening Fireside Panel
-Webinar Discussion Lecture Keynote Conference""".split())
+Webinar Discussion Lecture Keynote Conference Facility Notice Asset Purchase
+Market Markets Notice Gilt Sales""".split())
 
 SPEAKER_PATS = [
     re.compile(_B + r"\s+([A-Z][A-Za-z\-]+)\s*:"),                # Fed Williams: ...
