@@ -1,6 +1,39 @@
 {
 "items": [
 {
+"t": "2026-10-13T20:33:16Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Fed’s Collins says uncertainty is elevated as she watches breadth of inflation pressures",
+"url": "https://investinglive.com/central-banks/fed-s-collins-says-uncertainty-is-elevated-as-she-watches-breadth-of-inflation-pressures/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": []
+},
+{
+"t": "2026-10-13T20:16:22Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Fed's Collins backs September hike, sees Oil and AI driving inflation",
+"url": "https://www.fxstreet.com/news/feds-collins-backs-september-hike-sees-oil-and-ai-driving-inflation-202610132016",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": []
+},
+{
+"t": "2026-10-13T20:08:15Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Fed’s Collins backs another rate hike by year-end, flags three inflation pressures",
+"url": "https://investinglive.com/central-banks/fed-s-collins-backs-another-rate-hike-by-year-end-flags-three-inflation-pressures/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": []
+},
+{
 "t": "2026-10-13T18:31:49Z",
 "bank": "Fed",
 "speaker": "Barkin",
