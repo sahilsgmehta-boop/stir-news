@@ -1,0 +1,631 @@
+{
+ "_about": "Standing lean of each policymaker RELATIVE TO THEIR OWN COMMITTEE in the current cycle. Hand-assessed; edit freely. lean: hawk|dove|neutral. confidence: high = votes or explicit repeated calls; medium = recent remarks plus tracker; low = little evidence or a consensus body.",
+ "speakers": [
+  {
+   "bank": "Fed",
+   "name": "Warsh",
+   "full": "Kevin Warsh",
+   "role": "Chair",
+   "lean": "neutral",
+   "confidence": "medium",
+   "basis": "Chair steers the consensus; led the 12-0 September hike to 3.75-4.00%.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Jefferson",
+   "full": "Philip Jefferson",
+   "role": "Vice Chair",
+   "lean": "neutral",
+   "confidence": "medium",
+   "basis": "Middle of the committee on the 90-day tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Bowman",
+   "full": "Michelle Bowman",
+   "role": "Vice Chair for Supervision",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Too few recent policy remarks to place.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Waller",
+   "full": "Christopher Waller",
+   "role": "Governor",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "8 Oct: more hikes are needed, flexible on pace.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Cook",
+   "full": "Lisa Cook",
+   "role": "Governor",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Tracker places her mid-to-hawkish; few direct rate calls.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Barr",
+   "full": "Michael Barr",
+   "role": "Governor",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "29 Sep: further rate hikes are likely to be needed.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Williams",
+   "full": "John Williams",
+   "role": "New York Fed President",
+   "lean": "dove",
+   "confidence": "medium",
+   "basis": "29 Sep: no need for urgency. Lowest tracker score on the committee.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Hammack",
+   "full": "Beth Hammack",
+   "role": "Cleveland Fed President (2026 voter)",
+   "lean": "hawk",
+   "confidence": "high",
+   "basis": "12 Oct: more tightening needed to cool demand. Highest tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Logan",
+   "full": "Lorie Logan",
+   "role": "Dallas Fed President (2026 voter)",
+   "lean": "hawk",
+   "confidence": "high",
+   "basis": "Second-highest tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Kashkari",
+   "full": "Neel Kashkari",
+   "role": "Minneapolis Fed President (2026 voter)",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "Top-tier tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Musalem",
+   "full": "Alberto Musalem",
+   "role": "St Louis Fed President",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "8 Oct: more monetary policy firming will be required.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Schmid",
+   "full": "Jeffrey Schmid",
+   "role": "Kansas City Fed President",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "Top-tier tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Collins",
+   "full": "Susan Collins",
+   "role": "Boston Fed President",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Mid-table tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Goolsbee",
+   "full": "Austan Goolsbee",
+   "role": "Chicago Fed President",
+   "lean": "neutral",
+   "confidence": "medium",
+   "basis": "Low 90-day score, but 29 Sep called above-target inflation 'playing with fire'. Moving hawkish.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Paulson",
+   "full": "Anna Paulson",
+   "role": "Philadelphia Fed President (2026 voter)",
+   "lean": "dove",
+   "confidence": "low",
+   "basis": "Among the lowest tracker scores.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Daly",
+   "full": "Mary Daly",
+   "role": "San Francisco Fed President",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "No recent score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "Fed",
+   "name": "Barkin",
+   "full": "Tom Barkin",
+   "role": "Richmond Fed President",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "No recent data.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Lagarde",
+   "full": "Christine Lagarde",
+   "role": "President",
+   "lean": "neutral",
+   "confidence": "medium",
+   "basis": "Chair convention; 28 Sep: a moderate response remains appropriate.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Vujcic",
+   "full": "Boris Vujčić",
+   "role": "Vice-President",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "High tracker score.",
+   "aliases": [
+    "Vujčić"
+   ],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Schnabel",
+   "full": "Isabel Schnabel",
+   "role": "Executive Board",
+   "lean": "hawk",
+   "confidence": "high",
+   "basis": "Highest tracker score on the Executive Board.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Lane",
+   "full": "Philip Lane",
+   "role": "Chief Economist",
+   "lean": "dove",
+   "confidence": "medium",
+   "basis": "Below-median score; characterised as dovish by the tracker.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Cipollone",
+   "full": "Piero Cipollone",
+   "role": "Executive Board",
+   "lean": "dove",
+   "confidence": "medium",
+   "basis": "Characterised as dovish by the tracker.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Elderson",
+   "full": "Frank Elderson",
+   "role": "Executive Board",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Rarely speaks on rates.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Nagel",
+   "full": "Joachim Nagel",
+   "role": "Bundesbank",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "Above-median tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Wunsch",
+   "full": "Pierre Wunsch",
+   "role": "National Bank of Belgium",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "High tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Simkus",
+   "full": "Gediminas Šimkus",
+   "role": "Bank of Lithuania",
+   "lean": "hawk",
+   "confidence": "high",
+   "basis": "Second-highest tracker score.",
+   "aliases": [
+    "Šimkus"
+   ],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Panetta",
+   "full": "Fabio Panetta",
+   "role": "Banca d'Italia",
+   "lean": "dove",
+   "confidence": "medium",
+   "basis": "Low score; near the dovish edge.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Sleijpen",
+   "full": "Olaf Sleijpen",
+   "role": "De Nederlandsche Bank",
+   "lean": "dove",
+   "confidence": "low",
+   "basis": "Negative tracker score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Kocher",
+   "full": "Martin Kocher",
+   "role": "Oesterreichische Nationalbank",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Near-zero score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Zigman",
+   "full": "Ante Žigman",
+   "role": "Croatian National Bank",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Near-zero score.",
+   "aliases": [
+    "Žigman"
+   ],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Dolenc",
+   "full": "Primož Dolenc",
+   "role": "Banka Slovenije",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Low positive score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Moulin",
+   "full": "Emmanuel Moulin",
+   "role": "Banque de France",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "New in post; no score yet.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Kaasik",
+   "full": "Ülo Kaasik",
+   "role": "Eesti Pank",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "No score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Stournaras",
+   "full": "Yannis Stournaras",
+   "role": "Bank of Greece",
+   "lean": "dove",
+   "confidence": "low",
+   "basis": "Long dovish record; no 2026 score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Escriva",
+   "full": "José Luis Escrivá",
+   "role": "Banco de España",
+   "lean": "dove",
+   "confidence": "low",
+   "basis": "Dovish-leaning record; no 2026 score.",
+   "aliases": [
+    "Escrivá"
+   ],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Kazaks",
+   "full": "Mārtiņš Kazāks",
+   "role": "Latvijas Banka",
+   "lean": "hawk",
+   "confidence": "low",
+   "basis": "Hawkish-leaning record; no 2026 score.",
+   "aliases": [
+    "Kazāks"
+   ],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Rehn",
+   "full": "Olli Rehn",
+   "role": "Bank of Finland",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "No 2026 score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "ECB",
+   "name": "Makhlouf",
+   "full": "Gabriel Makhlouf",
+   "role": "Central Bank of Ireland",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "No 2026 score.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Greene",
+   "full": "Megan Greene",
+   "role": "External MPC member",
+   "lean": "hawk",
+   "confidence": "high",
+   "basis": "Voted to hike in September; 13 Oct: waiting for second-round effects would be too late.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Mann",
+   "full": "Catherine Mann",
+   "role": "External MPC member",
+   "lean": "hawk",
+   "confidence": "high",
+   "basis": "Voted to hike in September.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Pill",
+   "full": "Huw Pill",
+   "role": "Chief Economist",
+   "lean": "hawk",
+   "confidence": "high",
+   "basis": "Voted to hike in September.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Bailey",
+   "full": "Andrew Bailey",
+   "role": "Governor",
+   "lean": "neutral",
+   "confidence": "medium",
+   "basis": "Voted hold in September; 8 Oct: unwavering commitment to the target.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Breeden",
+   "full": "Sarah Breeden",
+   "role": "Deputy Governor",
+   "lean": "neutral",
+   "confidence": "medium",
+   "basis": "Voted hold in September.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Lombardelli",
+   "full": "Clare Lombardelli",
+   "role": "Deputy Governor",
+   "lean": "neutral",
+   "confidence": "medium",
+   "basis": "Voted hold in September; balanced on wages versus energy.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Ramsden",
+   "full": "Dave Ramsden",
+   "role": "Deputy Governor",
+   "lean": "dove",
+   "confidence": "low",
+   "basis": "Voted hold in September; dovish-leaning record.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Dhingra",
+   "full": "Swati Dhingra",
+   "role": "External MPC member",
+   "lean": "dove",
+   "confidence": "medium",
+   "basis": "Voted hold in September; long-standing dove.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoE",
+   "name": "Taylor",
+   "full": "Alan Taylor",
+   "role": "External MPC member",
+   "lean": "dove",
+   "confidence": "medium",
+   "basis": "Voted hold in September; dovish record since joining.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoC",
+   "name": "Macklem",
+   "full": "Tiff Macklem",
+   "role": "Governor",
+   "lean": "hawk",
+   "confidence": "medium",
+   "basis": "23 Sep: does not want to be late to hike; dropped the 'right level' language.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoC",
+   "name": "Rogers",
+   "full": "Carolyn Rogers",
+   "role": "Senior Deputy Governor",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Decides by consensus; no individual votes are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoC",
+   "name": "Gravelle",
+   "full": "Toni Gravelle",
+   "role": "Deputy Governor",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Decides by consensus; no individual votes are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoC",
+   "name": "Gosselin",
+   "full": "Marc-André Gosselin",
+   "role": "Deputy Governor",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Decides by consensus; no individual votes are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoC",
+   "name": "Vincent",
+   "full": "Nicolas Vincent",
+   "role": "Deputy Governor",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Decides by consensus; no individual votes are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "BoC",
+   "name": "Alexopoulos",
+   "full": "Michelle Alexopoulos",
+   "role": "External Deputy Governor",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Decides by consensus; no individual votes are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "SNB",
+   "name": "Schlegel",
+   "full": "Martin Schlegel",
+   "role": "Chairman",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Board decides by consensus; no individual leans are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "SNB",
+   "name": "Martin",
+   "full": "Antoine Martin",
+   "role": "Vice Chairman",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Board decides by consensus; no individual leans are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  },
+  {
+   "bank": "SNB",
+   "name": "Tschudin",
+   "full": "Petra Tschudin",
+   "role": "Member of the Governing Board",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Board decides by consensus; no individual leans are published.",
+   "aliases": [],
+   "asof": "2026-10-13"
+  }
+ ]
+}
