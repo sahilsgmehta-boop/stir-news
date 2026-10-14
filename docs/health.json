@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14T03:35:32Z",
+ "built": "2026-10-14T04:10:34Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 12,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 30,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
@@ -32,7 +32,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
