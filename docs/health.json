@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14T09:37:38Z",
+ "built": "2026-10-14T10:37:35Z",
  "sources": [
   {
    "id": "il_cb",
@@ -15,15 +15,11 @@
    "id": "fxs",
    "name": "FXStreet",
    "kind": "headline",
-   "ok": true,
-   "fetched": 30,
-   "kept": 2,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "US CPI data expected to rise in September as markets reassess Fed rate outlook",
-    "US Dollar: Fed inflation focus into October FOMC \u2013 Danske Bank"
-   ]
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "id": "il_all",
@@ -134,7 +130,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 12,
    "added": 0,
    "error": ""
   }
