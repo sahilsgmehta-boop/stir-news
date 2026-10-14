@@ -165,7 +165,8 @@ def _saron_six(start):
                         pass
             if out:
                 return out, url
-            errs.append(url.rsplit("/", 1)[-1] + ": no rows")
+            head = " | ".join(txt.splitlines()[:6])[:400]
+            errs.append(url.rsplit("/", 1)[-1] + ": no rows [" + head + "]")
         except Exception as e:
             errs.append(url.rsplit("/", 1)[-1] + ": " + str(e)[:50])
     return None, "; ".join(errs)
