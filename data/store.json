@@ -1,6 +1,28 @@
 {
 "items": [
 {
+"t": "2026-10-14T02:37:08Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde: no second-round effects yet, but ECB can’t wait until they are in full view",
+"url": "https://investinglive.com/central-banks/lagarde-no-second-round-effects-yet-but-ecb-can-t-wait-until-they-are-in-full-view/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": []
+},
+{
+"t": "2026-10-14T02:36:44Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde speech: We're not seeing any second round effects yet",
+"url": "https://www.fxstreet.com/news/lagarde-speech-were-not-seeing-any-second-round-effects-yet-202610140236",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": []
+},
+{
 "t": "2026-10-13T23:34:13Z",
 "bank": "Fed",
 "speaker": "Williams",
