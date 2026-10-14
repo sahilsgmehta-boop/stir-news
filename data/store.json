@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-14T20:09:39Z",
+"bank": "BoE",
+"speaker": "",
+"hl": "Economic and event calendar in Asia - Aussie jobs, BoJ and BoE speakers",
+"url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-aussie-jobs-boj-and-boe-speakers/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "352b73c4a7be",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-14T19:24:33Z",
 "bank": "Fed",
 "speaker": "Goolsbee",
@@ -8,11 +22,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-goolsbee-cpi-was-discouraging-more-bad-months-would-be-unacceptable/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "hawk",
 "also": [],
 "id": "74ace65458e2",
-"score": null,
-"read": ""
+"score": 5,
+"read": "Calls CPI discouraging and says further bad prints would be unacceptable, stressing upside inflation risk."
 },
 {
 "t": "2026-10-14T18:03:15Z",
@@ -22,11 +36,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-beige-book-nine-of-12-districts-report-growth-as-price-pressures-broaden/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "hawk",
 "also": [],
 "id": "5bbeec51338c",
-"score": null,
-"read": ""
+"score": 4,
+"read": "Broad growth and broadening price pressures argue against easing and support a firmer path."
 },
 {
 "t": "2026-10-14T13:11:55Z",
