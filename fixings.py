@@ -4,6 +4,7 @@
     sonia        Bank of England statistical database (series IUDSOIA)
     corra        Bank of Canada Valet API (series AVG.INTWO)
     estr         ECB Data Portal (EST.B.EU000A2X2A25.WT)
+    saron        SNB data portal, or SIX's public SARON history
 
 
 Runs in the same GitHub Action as collect.py. Free, official, no key.
@@ -132,6 +133,53 @@ def fetch_estr(start, end):
     return out, None
 
 
+def fetch_saron(start, end):
+    # SARON is not in the NY Fed / BoE / BoC / ECB style APIs. Try the SNB data
+    # portal (daily cubes), then SIX's public history file. Whichever answers
+    # with daily dates wins; the status line says which.
+    errors = []
+    for cube in ("snbgwdzid", "zimoma"):
+        try:
+            txt = get("https://data.snb.ch/api/cube/%s/data/csv/en" % cube, "text/csv")
+            out = {}
+            for line in txt.splitlines():
+                parts = [x.strip().strip('"') for x in line.split(";")]
+                if len(parts) < 3 or "SARON" not in ";".join(parts[1:-1]).upper():
+                    continue
+                if len(parts[0]) == 10 and parts[0] >= start:
+                    keep(out, parts[0], parts[-1])
+            if out:
+                return out, None
+            errors.append(cube + ": no daily SARON rows")
+        except Exception as e:
+            errors.append(cube + ": " + str(e)[:60])
+    for url in ("https://www.six-group.com/exchanges/downloads/indexdata/hsrron.csv",):
+        try:
+            txt = get(url, "text/csv")
+            out = {}
+            for line in txt.splitlines():
+                parts = [x.strip().strip('"') for x in line.replace(",", ";").split(";")]
+                if not parts or len(parts) < 2:
+                    continue
+                try:
+                    day = dt.datetime.strptime(parts[0], "%d.%m.%Y").date()
+                except ValueError:
+                    continue
+                if day.isoformat() < start:
+                    continue
+                for x in parts[1:]:
+                    try:
+                        keep(out, day, float(x)); break
+                    except ValueError:
+                        pass
+            if out:
+                return out, None
+            errors.append("six: no rows")
+        except Exception as e:
+            errors.append("six: " + str(e)[:60])
+    raise ValueError("; ".join(errors))
+
+
 def fetch_nyfed(path):
     def f(start, end):
         return fetch(path, start, end)
@@ -139,7 +187,8 @@ def fetch_nyfed(path):
 
 
 SOURCES = [("sofr", fetch_nyfed("secured/sofr")), ("effr", fetch_nyfed("unsecured/effr")),
-           ("sonia", fetch_sonia), ("corra", fetch_corra), ("estr", fetch_estr)]
+           ("sonia", fetch_sonia), ("corra", fetch_corra), ("estr", fetch_estr),
+           ("saron", fetch_saron)]
 KEYS = [k for k, _ in SOURCES]
 
 
