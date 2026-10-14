@@ -12,6 +12,17 @@
 "also": []
 },
 {
+"t": "2026-10-14T04:09:37Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Gold refreshes weekly low, below $4,150 as traders look to US CPI for Fed rate cuts",
+"url": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": []
+},
+{
 "t": "2026-10-14T02:37:08Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -335,6 +346,17 @@
 "also": [
 "BIS central bankers' speeches"
 ]
+},
+{
+"t": "2026-10-05T00:00:00Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Unwavering dedication",
+"url": "https://www.bis.org/speeches/20261005-unwavering-dedication",
+"src": "BIS central bankers' speeches",
+"tier": "official",
+"tone": "",
+"also": []
 },
 {
 "t": "2026-10-02T13:00:00Z",

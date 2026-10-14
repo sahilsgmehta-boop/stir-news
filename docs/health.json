@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14T07:43:40Z",
+ "built": "2026-10-14T08:38:58Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,10 +18,10 @@
    "ok": true,
    "fetched": 30,
    "kept": 2,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Gold struggles around $4,150 as Fed hike bets counter USD weakness ahead of US CPI report",
+    "US CPI data expected to rise in September as markets reassess Fed rate outlook",
     "US Dollar: Fed inflation focus into October FOMC \u2013 Danske Bank",
     "Swiss Franc strengthens as US Dollar slips on dovish Fed signals",
     "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks"
@@ -136,8 +136,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
-   "added": 0,
+   "kept": 12,
+   "added": 1,
    "error": ""
   }
  ]
