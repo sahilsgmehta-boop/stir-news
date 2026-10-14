@@ -1,0 +1,152 @@
+{
+ "_about": "Per-comment hawk/dove labels for the dashboard, written by the scheduled labelling task. Keyed by item id from collect.py. score: +10 most hawkish to -10 most dovish, judged as likely market impact against current pricing.",
+ "tones": {
+  "261aa8a99be3": {
+   "tone": "dove",
+   "score": -3,
+   "read": "A hawk trimming four-hike pricing: still wants a hike, just not that many.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "bf31356173fc": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Signals the ECB will act pre-emptively rather than wait for proof.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "c009203552f8": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Reads soft alone; the full line adds that the ECB can't wait.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "adc956e2f7c1": {
+   "tone": "dove",
+   "score": -5,
+   "read": "Williams leaning against further hikes.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "8e94ae824059": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Mixed: hawkish chorus, but Williams rules out a 2027 hike.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "091f88973a38": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Watchful, no new signal on the path.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "bab9f745987e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Endorses past tightening and names live inflation drivers.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "0b1e1ba1fcd2": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Explicit support for one more hike this year.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "c7870eb6db5e": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calls for policy action on sticky inflation.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "0c68f09edb5c": {
+   "tone": "dove",
+   "score": -5,
+   "read": "The vice chair of the FOMC capping the cycle.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "56b6ce7923aa": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Argues for hiking before second-round effects show.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "01e0d0218e70": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Wants more tightening, flexible only on pace.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "891ca9fca9f6": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Implies financial conditions are not yet restrictive.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "74c409b09e7d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Direction unclear from the headline alone.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "54311a0db0f9": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says more tightening will be required.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "0b9b1d46557b": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Firm on the target without committing to a hike.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "b1151b4ddae0": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Flags wage-driven second-round risk.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "934d23549285": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "More hikes needed; brushes off weak payrolls.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "7447c9d15f92": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Data: rising expectations add pressure to hike.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "2163394a9656": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Minutes: most see another hike by year end.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  },
+  "c92ff939ce03": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Minutes: most see another hike by year end.",
+   "at": "2026-10-14T11:45:12Z",
+   "by": "claude"
+  }
+ }
+}

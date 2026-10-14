@@ -24,6 +24,7 @@ Standard library only, so nothing has to be installed on the runner.
 import argparse
 import email.utils
 import html
+import hashlib
 import json
 import os
 import re
@@ -39,6 +40,7 @@ STORE = os.path.join(HERE, "data", "store.json")
 OUT_JS = os.path.join(HERE, "docs", "cb.js")
 OUT_HEALTH = os.path.join(HERE, "docs", "health.json")
 ROSTER = os.path.join(HERE, "speakers.json")
+TONES = os.path.join(HERE, "tones.json")      # written by the labelling task
 
 KEEP_DAYS = 45          # held in the store
 SHOW_DAYS = 30          # written to cb.js
@@ -129,7 +131,8 @@ ATTRIBUTION = [
     re.compile(r"\b(?:Lagarde|Macklem)\b"),
     re.compile(_B + r"\s+[A-Z][A-Za-z\-]+\s*:"),                  # Fed Williams: ...
     re.compile(_B + r"\b.*\b(?:minutes|decision|statement|accounts|press conference|"
-               r"testimony|holds|hikes|raises|cuts|keeps|leaves|rate decision)\b", re.I),
+               r"testimony|rate decision)\b", re.I),
+    re.compile(_B + r"\s+(?:holds|hikes|raises|cuts|keeps|leaves)\b"),
     re.compile(r"\bBeige Book\b|\bdot plot\b", re.I),
 ]
 
@@ -467,6 +470,22 @@ def load_roster():
     return people, index
 
 
+def item_id(x):
+    """Stable key for an item, so a label attaches to it across runs."""
+    basis = canon_url(x.get("url")) or (x["bank"] + "|" + x["hl"])
+    return hashlib.sha1(basis.encode("utf-8")).hexdigest()[:12]
+
+
+def load_tones():
+    """tones.json - per-comment labels written by the scheduled labelling task.
+    {"tones": {id: {"tone": hawk|dove|neutral, "score": -10..10, "read": "..."}}}"""
+    try:
+        with open(TONES, encoding="utf-8") as f:
+            return json.load(f).get("tones", {})
+    except (OSError, ValueError):
+        return {}
+
+
 def write_outputs(store, health, now):
     people, index = load_roster()
     store[:] = [x for x in store
@@ -488,6 +507,17 @@ def write_outputs(store, health, now):
     fresh = []
     merge(fresh, sorted(store, key=lambda x: x["t"]))
     store[:] = fresh
+    # comments that no longer pass today's attribution rules leave history too
+    store[:] = [x for x in store
+                if not (x["tier"] == "comment" and x["src"] != "investingLive central banks"
+                        and not attributed(x["hl"]))]
+    tones = load_tones()
+    for x in store:
+        x["id"] = item_id(x)
+        t = tones.get(x["id"]) or {}
+        x["tone"] = t.get("tone", "") if t.get("tone") in ("hawk", "dove", "neutral") else ""
+        x["score"] = t.get("score") if isinstance(t.get("score"), (int, float)) else None
+        x["read"] = str(t.get("read", ""))[:200]
 
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
     os.makedirs(os.path.dirname(OUT_JS), exist_ok=True)
@@ -502,12 +532,14 @@ def write_outputs(store, health, now):
     show = [x for x in store if x["t"] >= cut_show][:MAX_SHOW]
     payload = {
         "built": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "cols": ["t", "bank", "speaker", "headline", "tone", "url", "source", "tier", "also"],
+        "cols": ["t", "bank", "speaker", "headline", "tone", "url", "source", "tier", "also",
+                 "id", "score", "read"],
         "sources": [{k: v for k, v in h.items() if k != "near_misses"} for h in health],
         "speakers": [[p["bank"], p["name"], p["full"], p["role"], p["lean"],
                       p["confidence"], p["basis"], p["asof"]] for p in people],
         "items": [[x["t"], x["bank"], x["speaker"], x["hl"], x["tone"], x["url"],
-                   x["src"], x["tier"], x["also"]] for x in show],
+                   x["src"], x["tier"], x["also"], x["id"], x["score"], x["read"]]
+                  for x in show],
     }
     body = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
     # json.dumps cannot produce "</script>", but escape "</" anyway so the file
