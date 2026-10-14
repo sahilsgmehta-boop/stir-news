@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14T17:36:51Z",
+ "built": "2026-10-14T18:11:43Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 12,
-   "added": 0,
+   "kept": 13,
+   "added": 1,
    "error": ""
   },
   {
@@ -27,7 +27,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
