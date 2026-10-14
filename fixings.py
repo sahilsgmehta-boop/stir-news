@@ -27,6 +27,7 @@ data/fixings.json and re-published unchanged. This script never exits with an
 error, so a NY Fed outage cannot stop the news collector either.
 """
 import csv
+import re
 import datetime as dt
 import io
 import json
@@ -134,15 +135,33 @@ def fetch_estr(start, end):
 
 
 SARON_SRC = []
+SARON_LINKS = []
 
 
 def _saron_six(start):
     # SIX publishes SARON to 6 decimals; its public history file is tried in a
     # few known locations (the site has moved files before)
     errs = []
-    for url in ("https://www.six-group.com/exchanges/downloads/indexdata/hsrron.csv",
-                "https://www.six-group.com/exchanges/downloads/indexdata/h_saron.csv",
-                "https://www.six-group.com/dam/download/market-data/indices/swiss-reference-rates/saron/hsrron.csv"):
+    urls = ["https://indexdata.six-group.com/download/online/hsrron.csv",
+            "https://indexdata.six-group.com/download/online/h_saron.csv",
+            "https://indexdata.six-group.com/download/online/saron.csv"]
+    # SIX's reference-rates page links its free history files; follow those too
+    try:
+        page = get("https://indexdata.six-group.com/swiss_reference_rates/reference_rates.html", "text/html")
+        for href in re.findall(r'href="([^"]+)"', page):
+            if re.search(r"(saron|srron|\.csv)", href, re.I):
+                if href.startswith("/"):
+                    href = "https://indexdata.six-group.com" + href
+                elif not href.startswith("http"):
+                    href = "https://indexdata.six-group.com/swiss_reference_rates/" + href
+                if href not in urls:
+                    urls.append(href)
+        SARON_LINKS[:] = [u for u in urls[3:]][:8]
+    except Exception as e:
+        errs.append("page: " + str(e)[:40])
+    for url in urls:
+        if not re.search(r"\.(csv|txt)(\?|$)", url, re.I):
+            continue
         try:
             txt = get(url, "text/csv")
             out = {}
@@ -165,7 +184,7 @@ def _saron_six(start):
                         pass
             if out:
                 return out, url
-            head = " | ".join(txt.splitlines()[:6])[:400]
+            head = " | ".join(txt.splitlines()[:4])[:200]
             errs.append(url.rsplit("/", 1)[-1] + ": no rows [" + head + "]")
         except Exception as e:
             errs.append(url.rsplit("/", 1)[-1] + ": " + str(e)[:50])
@@ -200,7 +219,8 @@ def fetch_saron(start, end):
         return six, None
     snb, why_snb = _saron_snb(start)
     if snb:
-        SARON_SRC.append(why_snb + " (2dp; SIX failed: " + why_six + ")")
+        SARON_SRC.append(why_snb + " (2dp; SIX failed: " + why_six + "; links seen: "
+                         + ", ".join(SARON_LINKS) + ")")
         return snb, None
     raise ValueError("SIX: " + why_six + " | SNB: " + why_snb)
 
