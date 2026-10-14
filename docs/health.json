@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14T15:49:25Z",
+ "built": "2026-10-14T16:39:14Z",
  "sources": [
   {
    "id": "il_cb",
@@ -32,8 +32,7 @@
    "error": "",
    "near_misses": [
     "Today's Federal Reserve speaker slate suddenly got much more interesting",
-    "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate hike pressure",
-    "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?"
+    "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate hike pressure"
    ]
   },
   {
@@ -62,7 +61,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma"
+   ]
   },
   {
    "id": "fed_sp",
