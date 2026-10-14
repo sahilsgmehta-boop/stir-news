@@ -8,19 +8,11 @@
 "url": "https://www.fxstreet.com/news/boes-pill-says-a-bit-more-sceptical-about-market-pricing-of-four-rate-hikes-over-the-next-year-202610140617",
 "src": "FXStreet",
 "tier": "comment",
-"tone": "",
-"also": []
-},
-{
-"t": "2026-10-14T04:09:37Z",
-"bank": "Fed",
-"speaker": "",
-"hl": "Gold refreshes weekly low, below $4,150 as traders look to US CPI for Fed rate cuts",
-"url": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409",
-"src": "FXStreet",
-"tier": "comment",
-"tone": "",
-"also": []
+"tone": "dove",
+"also": [],
+"id": "261aa8a99be3",
+"score": -3,
+"read": "A hawk trimming four-hike pricing: still wants a hike, just not that many."
 },
 {
 "t": "2026-10-14T02:37:08Z",
@@ -30,8 +22,11 @@
 "url": "https://investinglive.com/central-banks/lagarde-no-second-round-effects-yet-but-ecb-can-t-wait-until-they-are-in-full-view/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "bf31356173fc",
+"score": 4,
+"read": "Signals the ECB will act pre-emptively rather than wait for proof."
 },
 {
 "t": "2026-10-14T02:36:44Z",
@@ -41,8 +36,11 @@
 "url": "https://www.fxstreet.com/news/lagarde-speech-were-not-seeing-any-second-round-effects-yet-202610140236",
 "src": "FXStreet",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "neutral",
+"also": [],
+"id": "c009203552f8",
+"score": -1,
+"read": "Reads soft alone; the full line adds that the ECB can't wait."
 },
 {
 "t": "2026-10-13T23:34:13Z",
@@ -52,8 +50,11 @@
 "url": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334",
 "src": "FXStreet",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "dove",
+"also": [],
+"id": "adc956e2f7c1",
+"score": -5,
+"read": "Williams leaning against further hikes."
 },
 {
 "t": "2026-10-13T22:04:58Z",
@@ -63,8 +64,11 @@
 "url": "https://investinglive.com/central-banks/icymi-three-fed-officials-signal-inflation-fight-continues-williams-sees-no-2027-hike/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "neutral",
+"also": [],
+"id": "8e94ae824059",
+"score": 1,
+"read": "Mixed: hawkish chorus, but Williams rules out a 2027 hike."
 },
 {
 "t": "2026-10-13T20:33:16Z",
@@ -74,8 +78,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-collins-says-uncertainty-is-elevated-as-she-watches-breadth-of-inflation-pressures/",
 "src": "investingLive",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "neutral",
+"also": [],
+"id": "091f88973a38",
+"score": 1,
+"read": "Watchful, no new signal on the path."
 },
 {
 "t": "2026-10-13T20:16:22Z",
@@ -85,8 +92,11 @@
 "url": "https://www.fxstreet.com/news/feds-collins-backs-september-hike-sees-oil-and-ai-driving-inflation-202610132016",
 "src": "FXStreet",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "bab9f745987e",
+"score": 4,
+"read": "Endorses past tightening and names live inflation drivers."
 },
 {
 "t": "2026-10-13T20:08:15Z",
@@ -96,8 +106,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-collins-backs-another-rate-hike-by-year-end-flags-three-inflation-pressures/",
 "src": "investingLive",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "0b1e1ba1fcd2",
+"score": 5,
+"read": "Explicit support for one more hike this year."
 },
 {
 "t": "2026-10-13T18:31:49Z",
@@ -107,8 +120,11 @@
 "url": "https://www.fxstreet.com/news/feds-barkin-says-persistent-inflation-warrants-policy-action-202610131831",
 "src": "FXStreet",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "c7870eb6db5e",
+"score": 5,
+"read": "Calls for policy action on sticky inflation."
 },
 {
 "t": "2026-10-13T18:20:39Z",
@@ -118,10 +134,13 @@
 "url": "https://investinglive.com/central-banks/fed-williams-sees-no-need-for-rate-hike-in-2027-at-this-time/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "dove",
 "also": [
 "FXStreet"
-]
+],
+"id": "0c68f09edb5c",
+"score": -5,
+"read": "The vice chair of the FOMC capping the cycle."
 },
 {
 "t": "2026-10-13T18:00:00Z",
@@ -132,7 +151,10 @@
 "src": "Federal Reserve monetary policy",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "d85e5d360934",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-13T03:17:40Z",
@@ -142,8 +164,11 @@
 "url": "https://investinglive.com/central-banks/boe-s-greene-warns-waiting-for-second-round-inflation-effects-would-be-too-late/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "56b6ce7923aa",
+"score": 7,
+"read": "Argues for hiking before second-round effects show."
 },
 {
 "t": "2026-10-12T21:44:39Z",
@@ -153,8 +178,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-hammack-says-more-tightening-needed-to-cool-demand-keeps-open-mind-on-pace/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "01e0d0218e70",
+"score": 6,
+"read": "Wants more tightening, flexible only on pace."
 },
 {
 "t": "2026-10-12T17:50:08Z",
@@ -164,8 +192,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-hammack-treasury-rates-are-modest-by-historical-standards/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "891ca9fca9f6",
+"score": 3,
+"read": "Implies financial conditions are not yet restrictive."
 },
 {
 "t": "2026-10-09T05:03:42Z",
@@ -175,8 +206,11 @@
 "url": "https://investinglive.com/central-banks/ecb-president-lagarde-talks-of-unwarranted-market-moves-but-who-gets-to-decide-what-is-warranted/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "neutral",
+"also": [],
+"id": "74c409b09e7d",
+"score": 0,
+"read": "Direction unclear from the headline alone."
 },
 {
 "t": "2026-10-08T18:12:24Z",
@@ -186,8 +220,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-musalem-says-more-monetary-policy-firming-will-be-required/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "54311a0db0f9",
+"score": 6,
+"read": "Says more tightening will be required."
 },
 {
 "t": "2026-10-08T12:22:08Z",
@@ -197,8 +234,11 @@
 "url": "https://investinglive.com/central-banks/boe-s-bailey-mon-pol-needs-an-unwavering-commitment-to-returning-inflation-to-target/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "0b9b1d46557b",
+"score": 3,
+"read": "Firm on the target without committing to a hike."
 },
 {
 "t": "2026-10-08T10:00:47Z",
@@ -208,8 +248,11 @@
 "url": "https://investinglive.com/central-banks/boe-policymaker-greene-warns-of-second-round-uk-inflation-risks-voices-concern-over-wage-growth/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "b1151b4ddae0",
+"score": 5,
+"read": "Flags wage-driven second-round risk."
 },
 {
 "t": "2026-10-08T08:38:03Z",
@@ -219,8 +262,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-waller-says-more-hikes-are-needed-but-can-be-flexible-about-the-pace-downplays-september-nfp-weakness/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "934d23549285",
+"score": 5,
+"read": "More hikes needed; brushes off weak payrolls."
 },
 {
 "t": "2026-10-08T08:30:00Z",
@@ -233,7 +279,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "f5d6fc297d1a",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-08T06:00:00Z",
@@ -244,7 +293,10 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "aa8623d070d6",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-08T00:00:00Z",
@@ -255,7 +307,10 @@
 "src": "BIS central bankers' speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "c977a7aa543c",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-07T22:44:48Z",
@@ -265,8 +320,11 @@
 "url": "https://investinglive.com/central-banks/ny-fed-survey-us-one-year-inflation-expectations-jump-to-3-9-highest-since-may-2023/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "7447c9d15f92",
+"score": 4,
+"read": "Data: rising expectations add pressure to hike."
 },
 {
 "t": "2026-10-07T22:14:44Z",
@@ -276,8 +334,11 @@
 "url": "https://investinglive.com/central-banks/icymi-fed-minutes-most-officials-see-another-hike-by-year-end-after-unanimous-rise-to-3-75-4/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "2163394a9656",
+"score": 5,
+"read": "Minutes: most see another hike by year end."
 },
 {
 "t": "2026-10-07T18:01:08Z",
@@ -287,8 +348,11 @@
 "url": "https://investinglive.com/central-banks/fomc-minutes-most-participants-assessed-another-hike-would-likely-be-appropriate-by-year-end/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
-"also": []
+"tone": "hawk",
+"also": [],
+"id": "c92ff939ce03",
+"score": 5,
+"read": "Minutes: most see another hike by year end."
 },
 {
 "t": "2026-10-07T18:00:00Z",
@@ -299,7 +363,10 @@
 "src": "Federal Reserve monetary policy",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "eeb8f6b78f01",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-07T12:15:00Z",
@@ -310,7 +377,10 @@
 "src": "Swiss National Bank news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "e32c4add5a75",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-06T07:00:00Z",
@@ -321,7 +391,10 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "985fd00dec50",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-06T00:00:00Z",
@@ -332,7 +405,10 @@
 "src": "BIS central bankers' speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "bc7d8b269025",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-05T08:00:00Z",
@@ -345,7 +421,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "517b42d1a3c0",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-05T00:00:00Z",
@@ -356,7 +435,10 @@
 "src": "BIS central bankers' speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "55480021c794",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-02T13:00:00Z",
@@ -367,7 +449,10 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "cb6784f470aa",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-01T17:30:00Z",
@@ -380,7 +465,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "0f8a88c61725",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-01T15:20:12Z",
@@ -391,7 +479,10 @@
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "db66422dfd59",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-01T15:05:48Z",
@@ -404,7 +495,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "914864e194f2",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-10-01T14:00:00Z",
@@ -417,7 +511,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "e1dfff34bb8c",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-30T19:25:00Z",
@@ -430,7 +527,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "5b13dd92b3e8",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-30T17:00:00Z",
@@ -441,7 +541,10 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "1b0f79c60aff",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-30T15:45:00Z",
@@ -454,7 +557,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "9e3a13c4decf",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-30T09:30:00Z",
@@ -465,7 +571,10 @@
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "22ded81bd152",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-29T16:40:00Z",
@@ -478,7 +587,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "96198714a74b",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-29T15:00:00Z",
@@ -489,7 +601,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "15941f2780d8",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-29T13:20:51Z",
@@ -502,7 +617,10 @@
 "tone": "",
 "also": [
 "BIS central bankers' speeches"
-]
+],
+"id": "0e15cfefb731",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-28T17:25:00Z",
@@ -513,7 +631,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "279aa2af0206",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-23T14:05:00Z",
@@ -524,7 +645,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "d8e4ec431c85",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-22T14:20:00Z",
@@ -535,7 +659,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "2a7a1859c4f8",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-21T12:30:50Z",
@@ -546,7 +673,10 @@
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "abf0f550a93b",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-21T11:20:45Z",
@@ -557,7 +687,10 @@
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "a6cb88fd9ed2",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-21T11:05:59Z",
@@ -568,7 +701,10 @@
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "831d649e04c6",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-18T13:30:00Z",
@@ -579,7 +715,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "a4923049fc3d",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-17T13:30:00Z",
@@ -590,7 +729,10 @@
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "fa3f95fda199",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-17T11:00:00Z",
@@ -601,7 +743,10 @@
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "f48fb68d4e7c",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-17T11:00:00Z",
@@ -612,7 +757,10 @@
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "f1db7052911e",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-17T11:00:00Z",
@@ -623,7 +771,10 @@
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "5d6d3fae5b3e",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-16T18:00:00Z",
@@ -634,7 +785,10 @@
 "src": "Federal Reserve monetary policy",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "fe283a4d738a",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-16T18:00:00Z",
@@ -645,7 +799,10 @@
 "src": "Federal Reserve monetary policy",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "96bceaa064df",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-15T08:09:58Z",
@@ -656,7 +813,10 @@
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "d0e10fff7c73",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-10T09:00:00Z",
@@ -667,7 +827,10 @@
 "src": "Bank of England news",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "b4b64f2ef8f5",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-03T13:00:29Z",
@@ -678,7 +841,10 @@
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "8d1bcb89173e",
+"score": null,
+"read": ""
 },
 {
 "t": "2026-09-03T12:30:00Z",
@@ -689,7 +855,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "",
-"also": []
+"also": [],
+"id": "a89335cf0468",
+"score": null,
+"read": ""
 }
 ]
 }
