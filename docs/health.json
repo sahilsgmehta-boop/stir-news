@@ -1,5 +1,5 @@
 {
- "built": "2026-10-13T23:59:17Z",
+ "built": "2026-10-14T00:46:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 15,
+   "kept": 12,
    "added": 0,
    "error": ""
   },
@@ -17,15 +17,14 @@
    "kind": "headline",
    "ok": true,
    "fetched": 30,
-   "kept": 4,
-   "added": 0,
+   "kept": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
     "US Dollar: Fed pricing leg looks stretched \u2013 Societe Generale",
     "Swiss Franc strengthens on dovish Fed rhetoric as US CPI looms",
-    "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
-    "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI looms"
+    "British Pound finds fresh momentum as BoE hawks set stage for US CPI"
    ]
   },
   {
