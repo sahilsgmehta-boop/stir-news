@@ -29,6 +29,10 @@ jobs:
       - name: Collect
         run: python collect.py
 
+      # SOFR and EFFR daily fixings for the dashboard pricer. Never fails the run.
+      - name: Fixings
+        run: python fixings.py
+
       - name: Publish
         run: |
           git config user.name  "stir-news-bot"
