@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14T12:44:26Z",
+ "built": "2026-10-14T13:41:34Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 12,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -27,10 +27,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Today's Federal Reserve speaker slate suddenly got much more interesting",
     "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate hike pressure",
     "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?"
    ]
@@ -129,7 +130,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
