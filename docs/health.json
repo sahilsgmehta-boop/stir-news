@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14T23:32:34Z",
+ "built": "2026-10-14T23:57:31Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 14,
-   "added": 0,
+   "kept": 15,
+   "added": 1,
    "error": ""
   },
   {
@@ -31,8 +31,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Economic and event calendar in Asia - Aussie jobs, BoJ and BoE speakers",
-    "Today's Federal Reserve speaker slate suddenly got much more interesting"
+    "ICYMI: Citi now expects a December Fed rate hike after hotter September US inflation",
+    "Economic and event calendar in Asia - Aussie jobs, BoJ and BoE speakers"
    ]
   },
   {
@@ -129,7 +129,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 12,
    "added": 0,
    "error": ""
   }
