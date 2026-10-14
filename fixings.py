@@ -133,11 +133,46 @@ def fetch_estr(start, end):
     return out, None
 
 
-def fetch_saron(start, end):
-    # SARON is not in the NY Fed / BoE / BoC / ECB style APIs. Try the SNB data
-    # portal (daily cubes), then SIX's public history file. Whichever answers
-    # with daily dates wins; the status line says which.
-    errors = []
+SARON_SRC = []
+
+
+def _saron_six(start):
+    # SIX publishes SARON to 6 decimals; its public history file is tried in a
+    # few known locations (the site has moved files before)
+    errs = []
+    for url in ("https://www.six-group.com/exchanges/downloads/indexdata/hsrron.csv",
+                "https://www.six-group.com/exchanges/downloads/indexdata/h_saron.csv",
+                "https://www.six-group.com/dam/download/market-data/indices/swiss-reference-rates/saron/hsrron.csv"):
+        try:
+            txt = get(url, "text/csv")
+            out = {}
+            for line in txt.splitlines():
+                parts = [x.strip().strip('"') for x in line.replace(",", ";").split(";")]
+                if len(parts) < 2:
+                    continue
+                day = None
+                for fmt in ("%d.%m.%Y", "%Y-%m-%d", "%d/%m/%Y"):
+                    try:
+                        day = dt.datetime.strptime(parts[0], fmt).date(); break
+                    except ValueError:
+                        pass
+                if day is None or day.isoformat() < start:
+                    continue
+                for x in parts[1:]:
+                    try:
+                        keep(out, day, float(x)); break
+                    except ValueError:
+                        pass
+            if out:
+                return out, url
+            errs.append(url.rsplit("/", 1)[-1] + ": no rows")
+        except Exception as e:
+            errs.append(url.rsplit("/", 1)[-1] + ": " + str(e)[:50])
+    return None, "; ".join(errs)
+
+
+def _saron_snb(start):
+    errs = []
     for cube in ("snbgwdzid", "zimoma"):
         try:
             txt = get("https://data.snb.ch/api/cube/%s/data/csv/en" % cube, "text/csv")
@@ -149,35 +184,24 @@ def fetch_saron(start, end):
                 if len(parts[0]) == 10 and parts[0] >= start:
                     keep(out, parts[0], parts[-1])
             if out:
-                return out, None
-            errors.append(cube + ": no daily SARON rows")
+                return out, "snb:" + cube
+            errs.append(cube + ": no daily SARON rows")
         except Exception as e:
-            errors.append(cube + ": " + str(e)[:60])
-    for url in ("https://www.six-group.com/exchanges/downloads/indexdata/hsrron.csv",):
-        try:
-            txt = get(url, "text/csv")
-            out = {}
-            for line in txt.splitlines():
-                parts = [x.strip().strip('"') for x in line.replace(",", ";").split(";")]
-                if not parts or len(parts) < 2:
-                    continue
-                try:
-                    day = dt.datetime.strptime(parts[0], "%d.%m.%Y").date()
-                except ValueError:
-                    continue
-                if day.isoformat() < start:
-                    continue
-                for x in parts[1:]:
-                    try:
-                        keep(out, day, float(x)); break
-                    except ValueError:
-                        pass
-            if out:
-                return out, None
-            errors.append("six: no rows")
-        except Exception as e:
-            errors.append("six: " + str(e)[:60])
-    raise ValueError("; ".join(errors))
+            errs.append(cube + ": " + str(e)[:50])
+    return None, "; ".join(errs)
+
+
+def fetch_saron(start, end):
+    # SIX first (6 decimals), SNB data portal second (2 decimals only)
+    six, why_six = _saron_six(start)
+    if six:
+        SARON_SRC.append("six")
+        return six, None
+    snb, why_snb = _saron_snb(start)
+    if snb:
+        SARON_SRC.append(why_snb + " (2dp; SIX failed: " + why_six + ")")
+        return snb, None
+    raise ValueError("SIX: " + why_six + " | SNB: " + why_snb)
 
 
 def fetch_nyfed(path):
@@ -213,6 +237,8 @@ def main():
             if key == "effr" and rng:
                 store["range"] = rng
             status[key] = "ok, %d fixings, latest %s" % (len(got), max(got))
+            if key == "saron" and SARON_SRC:
+                status[key] += " via " + SARON_SRC[-1]
         except Exception as e:                # keep the last good data
             status[key] = "FAILED (%s), kept %d stored" % (e, len(store[key]))
     print("fixings:", status)
