@@ -1,5 +1,5 @@
 {
- "built": "2026-10-15T20:48:54Z",
+ "built": "2026-10-15T21:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 15,
-   "added": 0,
+   "added": 3,
    "error": ""
   },
   {
@@ -31,6 +31,9 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Preview: Nagel and Klingbeil in Bangkok: three themes as the ECB weighs a December hike",
+    "BOE, Bailey, Bangkok. What could possibly go wrong? Preview and 3 questions for the Governor",
+    "Economic and event calendar in Asia Friday, October 16, 2026 - Federal Reserve Chair Warsh speaking",
     "US October Philly Fed business index +20.9 vs +28.4 expected"
    ]
   },

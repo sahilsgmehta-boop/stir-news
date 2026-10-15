@@ -1,6 +1,48 @@
 {
 "items": [
 {
+"t": "2026-10-15T20:56:00Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "Preview: Nagel and Klingbeil in Bangkok: three themes as the ECB weighs a December hike",
+"url": "https://investinglive.com/central-banks/preview-nagel-and-klingbeil-in-bangkok-three-themes-as-the-ecb-weighs-a-december-hike/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "2562936d2f70",
+"score": null,
+"read": ""
+},
+{
+"t": "2026-10-15T20:33:15Z",
+"bank": "BoE",
+"speaker": "Bailey",
+"hl": "BOE, Bailey, Bangkok. What could possibly go wrong? Preview and 3 questions for the Governor",
+"url": "https://investinglive.com/central-banks/boe-bailey-bangkok-what-could-possibly-go-wrong-preview-and-3-questions-for-the-governor/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "a116fd33d26a",
+"score": null,
+"read": ""
+},
+{
+"t": "2026-10-15T20:18:39Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Economic and event calendar in Asia Friday, October 16, 2026 - Federal Reserve Chair Warsh speaking",
+"url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-october-16-2026-federal-reserve-chair-warsh-speaking/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "77db663a3432",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-15T16:47:03Z",
 "bank": "Fed",
 "speaker": "GDPNow",
