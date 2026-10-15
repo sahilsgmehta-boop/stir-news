@@ -60,7 +60,7 @@ PRODUCTS = [
     ("3141", "Ultra Bond"),
 ]
 
-LOOKBACK_DAYS = 42      # calendar days kept - about 30 sessions, enough for 1 month
+LOOKBACK_DAYS = 32      # rolling one month: ~22 sessions, just enough for the 1-month change
 RECENT_DAYS = 4         # preliminary or empty days younger than this are re-asked
 SETTLE_DAYS = 7         # settles only matter for the latest session shown
 MAX_MONTHS = 24         # contract months kept per product
@@ -254,7 +254,7 @@ def main():
                    else "CME not answering - stopped after %d failures" % MAX_FAILS)
 
     # drop history older than the window
-    cutoff = (today - dt.timedelta(days=LOOKBACK_DAYS + 3)).isoformat()
+    cutoff = (today - dt.timedelta(days=LOOKBACK_DAYS)).isoformat()
     for iso in [k for k in days if k < cutoff]:
         del days[iso]
     for k in [k for k in empty if k[:10] < cutoff]:
