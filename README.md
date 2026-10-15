@@ -16,6 +16,8 @@ Nothing here needs your computer, Excel, or a password.
 | `docs/cb.js` | The output the dashboard reads. Written by the robot. |
 | `docs/health.json` | Which sources worked on the last run, and how many items each gave. |
 | `data/store.json` | Rolling 45-day history, so items survive feeds that only keep a few hours. |
+| `fixings.py` | Daily SOFR, EFFR, SONIA, CORRA, €STR and SARON fixings → `docs/fixings.js`. |
+| `oi.py` | CME open interest and volume (SOFR, SR1, fed funds, Treasuries) → `docs/oi.js`. Replaces the old Excel macro, which read the settlements page and so ran one day late. |
 
 ## Is it working?
 
