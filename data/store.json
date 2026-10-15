@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-15T10:30:00Z",
+"bank": "SNB",
+"speaker": "Tschudin",
+"hl": "2026-10-15 - Petra Tschudin: Current economic developments and the SNB's monetary policy",
+"url": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261015_gpe",
+"src": "Swiss National Bank news",
+"tier": "official",
+"tone": "",
+"also": [],
+"id": "8985c0748ad8",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-15T02:27:53Z",
 "bank": "ECB",
 "speaker": "Santos",
