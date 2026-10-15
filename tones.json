@@ -168,6 +168,41 @@
    "read": "Broad growth and broadening price pressures argue against easing and support a firmer path.",
    "at": "2026-10-14T20:48:10Z",
    "by": "claude"
+  },
+  "cb37285c5c1b": {
+   "tone": "dove",
+   "score": -4,
+   "read": "Says inflation isn't broadening beyond energy, undercutting the case for further ECB tightening.",
+   "at": "2026-10-15T06:49:35Z",
+   "by": "claude"
+  },
+  "46df0c0b099e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-15T06:49:35Z",
+   "by": "claude"
+  },
+  "17d87ccc88a0": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "A usual dove concedes more hikes are likely, though she sees no October urgency.",
+   "at": "2026-10-15T06:49:35Z",
+   "by": "claude"
+  },
+  "a4b03d302155": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Goolsbee calls CPI discouraging and Beige Book flags fuel-driven price pressure: upside inflation risk.",
+   "at": "2026-10-15T06:49:35Z",
+   "by": "claude"
+  },
+  "352b73c4a7be": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-15T06:49:35Z",
+   "by": "claude"
   }
  }
 }
