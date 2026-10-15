@@ -18,6 +18,7 @@ Nothing here needs your computer, Excel, or a password.
 | `data/store.json` | Rolling 45-day history, so items survive feeds that only keep a few hours. |
 | `fixings.py` | Daily SOFR, EFFR, SONIA, CORRA, €STR and SARON fixings → `docs/fixings.js`. |
 | `oi.py` | CME open interest and volume (SOFR, SR1, fed funds, Treasuries) → `docs/oi.js`. Replaces the old Excel macro, which read the settlements page and so ran one day late. |
+| `fx.py` | G10 currencies: ECB history (Frankfurter) plus live spot from Twelve Data → `docs/fx.js`. The Twelve Data key is the repository secret `TWELVE_DATA_KEY`, never in the code. |
 
 ## Is it working?
 

@@ -38,6 +38,15 @@ jobs:
       - name: Open interest
         run: python oi.py
 
+      # G10 currencies for the dashboard. The Twelve Data key is a repository
+      # SECRET (Settings > Secrets and variables > Actions > TWELVE_DATA_KEY);
+      # it is never in the code or the output. Without it the page still works
+      # from ECB fixes.
+      - name: Currencies
+        env:
+          TWELVE_DATA_KEY: ${{ secrets.TWELVE_DATA_KEY }}
+        run: python fx.py
+
       - name: Publish
         run: |
           git config user.name  "stir-news-bot"
