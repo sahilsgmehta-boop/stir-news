@@ -36,7 +36,9 @@ import datetime as dt
 import json
 import os
 import sys
+import subprocess
 import time
+import urllib.error
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -79,6 +81,22 @@ SETTLE = ("https://www.cmegroup.com/CmeWS/mvc/Settlements/Futures/Settlements/{p
           "?strategy=DEFAULT&tradeDate={mdy}&pageSize=500")
 
 
+def curl(url):
+    out = subprocess.run(
+        ["curl", "-sS", "--compressed", "--max-time", "25", "-w", "\n%{http_code}",
+         "-H", "User-Agent: " + UA,
+         "-H", "Accept: application/json, text/plain, */*",
+         "-H", "Accept-Language: en-US,en;q=0.9",
+         "-H", "Referer: https://www.cmegroup.com/markets/interest-rates.html",
+         "-H", "Sec-Fetch-Site: same-origin", "-H", "Sec-Fetch-Mode: cors",
+         "-H", "Sec-Fetch-Dest: empty", url],
+        capture_output=True, text=True, timeout=40)
+    body, _, code = out.stdout.rpartition("\n")
+    if code.strip() != "200":
+        raise RuntimeError("curl HTTP " + code.strip())
+    return body
+
+
 class Budget(Exception):
     pass
 
@@ -100,8 +118,16 @@ class Net:
             "User-Agent": UA, "Accept": "application/json, text/plain, */*",
             "Referer": "https://www.cmegroup.com/"})
         try:
-            with urllib.request.urlopen(req, timeout=25) as r:
-                body = json.loads(r.read().decode("utf-8", "replace"))
+            try:
+                with urllib.request.urlopen(req, timeout=25) as r:
+                    body = json.loads(r.read().decode("utf-8", "replace"))
+            except urllib.error.HTTPError as he:
+                if he.code != 403:
+                    raise
+                # CME's edge refuses some clients by how they connect rather
+                # than by what they ask; curl with a browser's headers is a
+                # second, independent attempt
+                body = json.loads(curl(url))
             self.fails = 0
             return body
         except Exception as e:
