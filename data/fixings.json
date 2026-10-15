@@ -1,5 +1,5 @@
 {
- "built": "2026-10-15T13:20:18Z",
+ "built": "2026-10-15T22:07:17Z",
  "corra": {
   "2026-03-30": 2.27,
   "2026-03-31": 2.27,
@@ -846,6 +846,6 @@
   "estr": "ok, 140 fixings, latest 2026-10-14",
   "saron": "ok, 135 fixings, latest 2026-10-09 via snb:snbgwdzid (2dp; SIX failed: hsrron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; h_saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; links seen: )",
   "sofr": "ok, 137 fixings, latest 2026-10-14",
-  "sonia": "ok, 137 fixings, latest 2026-10-13"
+  "sonia": "FAILED (empty response), kept 137 stored"
  }
 }

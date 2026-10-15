@@ -1,6 +1,48 @@
 {
 "items": [
 {
+"t": "2026-10-15T21:47:09Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed's Hammack questions whether Fed policy is tight enough as inflation risks build",
+"url": "https://investinglive.com/central-banks/fed-s-hammack-questions-whether-fed-policy-is-tight-enough-as-inflation-risks-build/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "c945143e28ea",
+"score": null,
+"read": ""
+},
+{
+"t": "2026-10-15T21:20:53Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?",
+"url": "https://investinglive.com/central-banks/warsh-speaks-in-bangkok-after-hot-cpi-is-a-second-fed-hike-coming-in-october/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "2179d7367ebd",
+"score": null,
+"read": ""
+},
+{
+"t": "2026-10-15T21:11:20Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Macklem in Bangkok: oil, tariffs and job losses test the Bank of Canada’s hike case",
+"url": "https://investinglive.com/central-banks/macklem-in-bangkok-oil-tariffs-and-job-losses-test-the-bank-of-canada-s-hike-case/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "0dfb8ccfee09",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-15T20:56:00Z",
 "bank": "ECB",
 "speaker": "Nagel",
