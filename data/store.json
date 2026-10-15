@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-15T16:47:03Z",
+"bank": "Fed",
+"speaker": "GDPNow",
+"hl": "Atlanta Fed GDPNow holds at 3.6% for Q3 as consumer spending outlook improves",
+"url": "https://investinglive.com/central-banks/atlanta-fed-gdpnow-holds-at-3-6-for-q3-as-consumer-spending-outlook-improves/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "8587e53ec1b5",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-15T10:30:00Z",
 "bank": "SNB",
 "speaker": "Tschudin",

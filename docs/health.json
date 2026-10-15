@@ -1,5 +1,5 @@
 {
- "built": "2026-10-15T16:08:38Z",
+ "built": "2026-10-15T17:10:51Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 14,
-   "added": 0,
+   "kept": 15,
+   "added": 1,
    "error": ""
   },
   {
@@ -27,12 +27,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "US October Philly Fed business index +20.9 vs +28.4 expected",
-    "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma"
+    "US October Philly Fed business index +20.9 vs +28.4 expected"
    ]
   },
   {
