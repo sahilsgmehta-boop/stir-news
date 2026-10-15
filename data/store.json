@@ -8,11 +8,11 @@
 "url": "https://investinglive.com/central-banks/ecb-s-santos-pereira-says-euro-zone-inflation-is-not-spreading-beyond-energy/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "dove",
 "also": [],
 "id": "cb37285c5c1b",
-"score": null,
-"read": ""
+"score": -4,
+"read": "Says inflation isn't broadening beyond energy, undercutting the case for further ECB tightening."
 },
 {
 "t": "2026-10-14T23:29:14Z",
@@ -22,11 +22,11 @@
 "url": "https://investinglive.com/central-banks/icymi-citi-now-expects-a-december-fed-rate-hike-after-hotter-september-us-inflation/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "46df0c0b099e",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-14T21:44:30Z",
@@ -36,11 +36,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-daly-more-rate-hikes-likely-needed-but-no-urgency-to-move-in-october/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "hawk",
 "also": [],
 "id": "17d87ccc88a0",
-"score": null,
-"read": ""
+"score": 3,
+"read": "A usual dove concedes more hikes are likely, though she sees no October urgency."
 },
 {
 "t": "2026-10-14T21:36:20Z",
@@ -50,11 +50,11 @@
 "url": "https://investinglive.com/central-banks/fed-catch-up-goolsbee-calls-cpi-discouraging-as-beige-book-flags-diesel-fuelled-price-pressure/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "hawk",
 "also": [],
 "id": "a4b03d302155",
-"score": null,
-"read": ""
+"score": 5,
+"read": "Goolsbee calls CPI discouraging and Beige Book flags fuel-driven price pressure: upside inflation risk."
 },
 {
 "t": "2026-10-14T20:09:39Z",
@@ -64,11 +64,11 @@
 "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-aussie-jobs-boj-and-boe-speakers/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "352b73c4a7be",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-14T19:24:33Z",
