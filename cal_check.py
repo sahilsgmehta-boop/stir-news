@@ -22,4 +22,5 @@ for u, h in [("https://calendar-api.fxstreet.com/en/api/v1/eventDates/2026-10-12
              ("https://economic-calendar.tradingview.com/events?from=2026-10-12T00:00:00.000Z&to=2026-10-17T00:00:00.000Z&countries=US,EU,GB,CA,CH", ("-H","Origin: https://www.tradingview.com","-H","Referer: https://www.tradingview.com/"))]:
     code, b = get(u, h)
     out.append(f"== {code} {u[:90]} bytes={len(b)}  {b[:1500]}")
+import os; os.makedirs("probe", exist_ok=True)
 open("probe/CAL.txt","w").write("\n".join(out)+"\n")
