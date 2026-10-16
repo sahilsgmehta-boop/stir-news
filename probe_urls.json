@@ -1,0 +1,7 @@
+{
+ "eurex_detail": "https://www.eurex.com/api/v1/overallstatistics/34656?filtertype=detail&productdate=20261208&busdate=20261015&contracttype=M",
+ "ms_v1": "https://www.eurex.com/ex-en/data/statistics/market-statistics-online/100!onlineStats?viewType=1&busDate=20261015",
+ "ms_v3": "https://www.eurex.com/ex-en/data/statistics/market-statistics-online/100!onlineStats?productGroupId=13328&productId=34656&viewType=3&busDate=20261015",
+ "ms_v4": "https://www.eurex.com/ex-en/data/statistics/market-statistics-online/100!onlineStats?productGroupId=13328&productId=34656&viewType=4&busDate=20261015&cp=&month=&year=",
+ "ms_v2": "https://www.eurex.com/ex-en/data/statistics/market-statistics-online/100!onlineStats?productGroupId=13328&viewType=2&busDate=20261015"
+}
