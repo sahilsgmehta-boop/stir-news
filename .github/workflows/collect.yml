@@ -50,6 +50,11 @@ jobs:
       - name: Calendar
         run: python calendar_feed.py
 
+      # Government curves (CNBC) and US nominal and TIPS curves (Treasury) for
+      # the Curves page. History refetched once a day. Never fails the run.
+      - name: Curves
+        run: python curves.py
+
       # Cross-asset performance for the Markets page (Yahoo Finance, CNBC).
       # Every run; the full history is refetched once a day. Never fails the run.
       - name: Markets
