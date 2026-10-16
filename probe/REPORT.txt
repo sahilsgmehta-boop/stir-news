@@ -1,0 +1,122 @@
+200 ^GSPC                  US proxy                     n=1255 first=2021-10-18 price=7716.9 prev=4471.37 ccy=USD t=2026-10-16 15:46
+200 ^GSPC                  S&P 500                      n=1255 first=2021-10-18 price=7716.9 prev=4471.37 ccy=USD t=2026-10-16 15:46
+200 ^NDX                   Nasdaq 100                   n=1255 first=2021-10-18 price=29534.695 prev=15146.92 ccy=USD t=2026-10-16 15:46
+200 ^DJI                   Dow Jones                    n=1255 first=2021-10-18 price=52319.01 prev=35294.76 ccy=USD t=2026-10-16 15:46
+200 ^RUT                   Russell 2000                 n=1255 first=2021-10-18 price=2751.073 prev=2265.65 ccy=USD t=2026-10-16 15:31
+200 RSP                    S&P 500 equal weight         n=1255 first=2021-10-18 price=214.97 prev=155.7 ccy=USD t=2026-10-16 15:46
+200 XLK                    Technology                   n=1255 first=2021-10-18 price=185.809 prev=77.955 ccy=USD t=2026-10-16 15:46
+200 XLF                    Financials                   n=1255 first=2021-10-18 price=55.75 prev=39.51 ccy=USD t=2026-10-16 15:46
+200 XLE                    Energy                       n=1255 first=2021-10-18 price=67.31 prev=28.665 ccy=USD t=2026-10-16 15:46
+200 XLV                    Health care                  n=1255 first=2021-10-18 price=177.2 prev=127.97 ccy=USD t=2026-10-16 15:46
+200 XLI                    Industrials                  n=1255 first=2021-10-18 price=168.2 prev=102.89 ccy=USD t=2026-10-16 15:46
+200 XLY                    Consumer discretionary       n=1255 first=2021-10-18 price=113.67 prev=94.505 ccy=USD t=2026-10-16 15:46
+200 XLP                    Consumer staples             n=1255 first=2021-10-18 price=87.649 prev=70.81 ccy=USD t=2026-10-16 15:46
+200 XLU                    Utilities                    n=1255 first=2021-10-18 price=42.18 prev=32.84 ccy=USD t=2026-10-16 15:46
+200 XLB                    Materials                    n=1255 first=2021-10-18 price=51.115 prev=42.075 ccy=USD t=2026-10-16 15:46
+200 XLRE                   Real estate                  n=1255 first=2021-10-18 price=42.38 prev=46.2 ccy=USD t=2026-10-16 15:46
+200 XLC                    Communications               n=1255 first=2021-10-18 price=111.72 prev=80.32 ccy=USD t=2026-10-16 15:46
+200 IWF                    Growth                       n=1255 first=2021-10-18 price=122.918 prev=71.302 ccy=USD t=2026-10-16 15:46
+200 IWD                    Value                        n=1255 first=2021-10-18 price=256.55 prev=162.71 ccy=USD t=2026-10-16 15:45
+200 MTUM                   Momentum                     n=1255 first=2021-10-18 price=296.35 prev=183.94 ccy=USD t=2026-10-16 15:46
+200 QUAL                   Quality                      n=1255 first=2021-10-18 price=226.045 prev=137.06 ccy=USD t=2026-10-16 15:45
+200 USMV                   Low volatility               n=1255 first=2021-10-18 price=101.4 prev=75.71 ccy=USD t=2026-10-16 15:46
+200 IWM                    Small caps                   n=1255 first=2021-10-18 price=272.94 prev=225.16 ccy=USD t=2026-10-16 15:46
+200 ^STOXX                 Europe proxy                 n=1257 first=2021-10-18 price=644.6 prev=469.39 ccy=EUR t=2026-10-16 15:30
+200 ^STOXX                 Stoxx 600                    n=1257 first=2021-10-18 price=644.6 prev=469.39 ccy=EUR t=2026-10-16 15:30
+200 ^STOXX50E              Euro Stoxx 50                n=1257 first=2021-10-18 price=6203.1 prev=4182.91 ccy=EUR t=2026-10-16 15:30
+200 ^GDAXI                 DAX                          n=1275 first=2021-10-18 price=25622.42 prev=15587.36 ccy=EUR t=2026-10-16 15:30
+200 ^FCHI                  CAC 40                       n=1281 first=2021-10-18 price=7954.11 prev=6727.52 ccy=EUR t=2026-10-16 15:31
+200 ^FTSE                  FTSE 100                     n=1262 first=2021-10-18 price=10879.74 prev=7234.0 ccy=GBP t=2026-10-16 15:29
+200 FTSEMIB.MI             FTSE MIB                     n=1271 first=2021-10-18 price=49870.0 prev=26489.0 ccy=EUR t=2026-10-16 15:29
+200 ^IBEX                  IBEX 35                      n=1279 first=2021-10-18 price=19335.9 prev=8997.0 ccy=EUR t=2026-10-16 15:31
+200 ^SSMI                  SMI                          n=1257 first=2021-10-18 price=14391.31 prev=11961.34 ccy=CHF t=2026-10-16 15:31
+200 ^N225                  Nikkei 225                   n=1221 first=2021-10-18 price=65324.29 prev=29068.63 ccy=JPY t=2026-10-16 06:45
+200 ^HSI                   Hang Seng                    n=1230 first=2021-10-18 price=24186.83 prev=25330.96 ccy=HKD t=2026-10-16 08:08
+200 000001.SS              Shanghai Composite           n=1212 first=2021-10-18 price=3716.284 prev=3572.37 ccy=CNY t=2026-10-16 07:00
+200 000300.SS              CSI 300                      n=1 first=2026-10-16 price=4170.613 prev=4166.012 ccy=CNY t=2026-10-16 07:00
+200 ^KS11                  Kospi                        n=1221 first=2021-10-18 price=5668.05 prev=3015.06 ccy=KRW t=2026-10-16 11:05
+200 ^TWII                  Taiwan                       n=1214 first=2021-10-18 price=47111.26 prev=16781.19 ccy=TWD t=2026-10-16 05:33
+200 ^AXJO                  ASX 200                      n=1266 first=2021-10-17 price=8806.7 prev=7362.0 ccy=AUD t=2026-10-16 05:56
+200 ^NSEI                  India proxy                  n=1237 first=2021-10-18 price=23146.15 prev=18338.55 ccy=INR t=2026-10-16 10:01
+200 ^NSEI                  Nifty 50                     n=1237 first=2021-10-18 price=23146.15 prev=18338.55 ccy=INR t=2026-10-16 10:01
+200 ^BSESN                 Sensex                       n=1237 first=2021-10-18 price=74729.27 prev=61305.95 ccy=INR t=2026-10-16 10:02
+200 ^NSEBANK               Nifty Bank                   n=1237 first=2021-10-18 price=55844.0 prev=39340.9 ccy=INR t=2026-10-16 10:01
+200 NIFTY_MIDCAP_100.NS    Nifty Midcap 100             n=1 first=2026-10-16 price=59129.75 prev=59197.25 ccy=INR t=2026-10-16 10:01
+200 EEM                    Emerging markets proxy       n=1255 first=2021-10-18 price=63.33 prev=51.94 ccy=USD t=2026-10-16 15:46
+200 EEM                    MSCI EM (EEM)                n=1255 first=2021-10-18 price=63.33 prev=51.94 ccy=USD t=2026-10-16 15:46
+200 ^BVSP                  Brazil Bovespa               n=1248 first=2021-10-18 price=204832.33 prev=114648.0 ccy=BRL t=2026-10-16 15:31
+200 ^MXX                   Mexico IPC                   n=1258 first=2021-10-18 price=68548.05 prev=52798.38 ccy=MXN t=2026-10-16 15:26
+200 EZA                    South Africa (EZA)           n=1255 first=2021-10-18 price=65.42 prev=49.94 ccy=USD t=2026-10-16 15:45
+200 stooq:10dey.b          Germany                      rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:10uky.b          UK                           rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:10jpy.b          Japan                        rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:10fry.b          France                       rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:10ity.b          Italy                        rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:10esy.b          Spain                        rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:10cay.b          Canada                       rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:10auy.b          Australia                    rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:2dey.b           Germany                      rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:2uky.b           UK                           rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:2jpy.b           Japan                        rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:2fry.b           France                       rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRv
+200 stooq:2ity.b           Italy                        rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRw
+200 stooq:2cay.b           Canada                       rows=3 last=</script></body></html> first=(async()=>{const c="AAAAAGrSRw
+200 SHY                    Treasuries 1-3Y              n=1255 first=2021-10-18 price=81.35 prev=85.95 ccy=USD t=2026-10-16 15:47
+200 IEF                    Treasuries 7-10Y             n=1255 first=2021-10-18 price=90.405 prev=114.59 ccy=USD t=2026-10-16 15:47
+200 TLT                    Treasuries 20Y+              n=1255 first=2021-10-18 price=80.16 prev=145.03 ccy=USD t=2026-10-16 15:47
+200 TIP                    TIPS                         n=1255 first=2021-10-18 price=105.505 prev=128.56 ccy=USD t=2026-10-16 15:47
+200 LQD                    Investment grade             n=1255 first=2021-10-18 price=103.576 prev=133.22 ccy=USD t=2026-10-16 15:47
+200 HYG                    High yield                   n=1255 first=2021-10-18 price=77.07 prev=87.22 ccy=USD t=2026-10-16 15:46
+200 EMB                    EM dollar bonds              n=1255 first=2021-10-18 price=91.72 prev=109.93 ccy=USD t=2026-10-16 15:47
+404 ^BCOM                  Broad proxy                  ERR 'NoneType' object is not subscriptable {"chart":{"result":null,"error":{"code":"Not Found","description":"No data found, symbol may be delisted"}}}
+404 ^BCOM                  Bloomberg Commodity          ERR 'NoneType' object is not subscriptable {"chart":{"result":null,"error":{"code":"Not Found","description":"No data found, symbol may be delisted"}}}
+200 ^SPGSCI                S&P GSCI                     n=1255 first=2021-10-18 price=741.971 prev=591.73 ccy=USD t=2026-10-16 15:47
+200 DBC                    Invesco commodity fund       n=1255 first=2021-10-18 price=33.285 prev=21.68 ccy=USD t=2026-10-16 15:45
+200 DBE                    Energy proxy                 n=1255 first=2021-10-18 price=38.742 prev=18.48 ccy=USD t=2026-10-16 15:05
+200 CL=F                   WTI crude                    n=1260 first=2021-10-18 price=95.82 prev=82.28 ccy=USD t=2026-10-16 15:37
+200 BZ=F                   Brent crude                  n=1260 first=2021-10-18 price=105.95 prev=84.86 ccy=USD t=2026-10-16 15:37
+200 NG=F                   US natural gas               n=1260 first=2021-10-18 price=3.136 prev=5.41 ccy=USD t=2026-10-16 15:37
+200 TTF=F                  Dutch TTF gas                n=1260 first=2021-10-18 price=86.54 prev=93.648 ccy=EUR t=2026-10-15 14:02
+200 RB=F                   Gasoline                     n=1260 first=2021-10-18 price=3.063 prev=2.4864 ccy=USD t=2026-10-16 15:37
+200 HO=F                   Heating oil                  n=1260 first=2021-10-18 price=4.5844 prev=2.5737 ccy=USD t=2026-10-16 15:37
+200 DBP                    Precious metals proxy        n=1255 first=2021-10-18 price=94.985 prev=47.83 ccy=USD t=2026-10-16 14:52
+200 GC=F                   Gold                         n=1260 first=2021-10-18 price=4196.1 prev=1768.3 ccy=USD t=2026-10-16 15:37
+200 SI=F                   Silver                       n=1260 first=2021-10-18 price=57.56 prev=23.328 ccy=USD t=2026-10-16 15:37
+200 PL=F                   Platinum                     n=1260 first=2021-10-18 price=1644.5 prev=1056.7 ccy=USD t=2026-10-16 15:37
+200 PA=F                   Palladium                    n=1260 first=2021-10-18 price=1124.0 prev=2079.4 ccy=USD t=2026-10-16 15:36
+200 DBB                    Industrial metals proxy      n=1255 first=2021-10-18 price=24.77 prev=23.91 ccy=USD t=2026-10-16 15:44
+200 HG=F                   Copper                       n=1260 first=2021-10-18 price=6.599 prev=4.734 ccy=USD t=2026-10-16 15:37
+200 ALI=F                  Aluminium                    n=1260 first=2021-10-18 price=3093.5 prev=3171.0 ccy=USD t=2026-10-16 15:25
+200 DBA                    Grains proxy                 n=1255 first=2021-10-18 price=28.169 prev=19.2 ccy=USD t=2026-10-16 15:47
+200 ZW=F                   Wheat (Chicago)              n=1260 first=2021-10-18 price=658.5 prev=734.0 ccy=USX t=2026-10-16 15:37
+200 KE=F                   Wheat (Kansas)               n=1260 first=2021-10-18 price=701.75 prev=743.75 ccy=USX t=2026-10-16 15:37
+200 ZC=F                   Corn                         n=1260 first=2021-10-18 price=473.75 prev=525.75 ccy=USX t=2026-10-16 15:37
+200 ZS=F                   Soybeans                     n=1260 first=2021-10-18 price=1257.5 prev=1217.75 ccy=USX t=2026-10-16 15:37
+200 ZM=F                   Soybean meal                 n=1260 first=2021-10-18 price=357.3 prev=316.6 ccy=USD t=2026-10-16 15:37
+200 ZL=F                   Soybean oil                  n=1260 first=2021-10-18 price=67.0 prev=61.29 ccy=USX t=2026-10-16 15:37
+200 KC=F                   Coffee                       n=1260 first=2021-10-18 price=300.85 prev=203.4 ccy=USX t=2026-10-16 15:27
+200 SB=F                   Sugar                        n=1260 first=2021-10-18 price=20.62 prev=19.8 ccy=USX t=2026-10-16 15:27
+200 CC=F                   Cocoa                        n=1260 first=2021-10-18 price=5672.0 prev=2607.0 ccy=USD t=2026-10-16 15:27
+200 CT=F                   Cotton                       n=1520 first=2021-10-18 price=80.19 prev=107.33 ccy=USX t=2026-10-16 15:30
+200 OJ=F                   Orange juice                 n=1260 first=2021-10-18 price=140.4 prev=121.9 ccy=USX t=2026-10-16 15:25
+200 LE=F                   Live cattle                  n=1260 first=2021-10-18 price=228.425 prev=125.975 ccy=USX t=2026-10-16 15:37
+200 GF=F                   Feeder cattle                n=1260 first=2021-10-18 price=341.925 prev=157.575 ccy=USX t=2026-10-16 15:37
+200 HE=F                   Lean hogs                    n=1260 first=2021-10-18 price=66.75 prev=78.275 ccy=USX t=2026-10-16 15:37
+200 DX-Y.NYB               Dollar index (DXY)           n=1520 first=2021-10-18 price=101.731 prev=93.94 ccy=USD t=2026-10-16 15:37
+200 INR=X                  Indian rupee                 n=1306 first=2021-10-17 price=94.95 prev=74.995 ccy=INR t=2026-10-16 15:35
+200 CNH=X                  Chinese yuan (offshore)      n=1 first=2026-10-16 price=6.6839 prev=6.6884 ccy=CNH t=2026-10-16 15:47
+200 KRW=X                  Korean won                   n=1306 first=2021-10-17 price=1333.31 prev=1182.13 ccy=KRW t=2026-10-16 15:47
+200 BRL=X                  Brazilian real               n=1306 first=2021-10-17 price=5.083 prev=5.5122 ccy=BRL t=2026-10-16 15:47
+200 MXN=X                  Mexican peso                 n=1306 first=2021-10-17 price=18.4838 prev=20.5418 ccy=MXN t=2026-10-16 15:47
+200 ZAR=X                  South African rand           n=1306 first=2021-10-17 price=16.4541 prev=14.7603 ccy=ZAR t=2026-10-16 15:47
+200 TRY=X                  Turkish lira                 n=1306 first=2021-10-17 price=49.5146 prev=9.1901 ccy=TRY t=2026-10-16 15:47
+200 BTC-USD                Bitcoin                      n=1827 first=2021-10-16 price=81574.75 prev=60892.18 ccy=USD t=2026-10-16 15:47
+200 ETH-USD                Ether                        n=1827 first=2021-10-16 price=2439.8 prev=3830.382 ccy=USD t=2026-10-16 15:47
+200 SOL-USD                Solana                       n=1827 first=2021-10-16 price=104.54 prev=157.53882 ccy=USD t=2026-10-16 15:47
+200 ^VIX                   VIX                          n=1305 first=2021-10-18 price=16.36 prev=16.3 ccy=USD t=2026-10-16 15:32
+200 ^MOVE                  MOVE (Treasury vol)          n=1255 first=2021-10-18 price=100.3164 prev=62.7 ccy=USD t=2026-10-16 15:32
+404 ^V2TX                  VSTOXX                       ERR 'NoneType' object is not subscriptable {"chart":{"result":null,"error":{"code":"Not Found","description":"No data found, symbol may be delisted"}}}
+200 ^INDIAVIX              India VIX                    n=1237 first=2021-10-18 price=14.025 prev=15.77 ccy=INR t=2026-10-16 10:00
+200 VNQ                    US REITs                     n=1255 first=2021-10-18 price=92.16 prev=106.38 ccy=USD t=2026-10-16 15:47
+200 REET                   Global REITs                 n=1255 first=2021-10-18 price=26.02 prev=28.77 ccy=USD t=2026-10-16 15:47
+200 UST CSV: Date,"1 Mo","1.5 Month","2 Mo","3 Mo","4 Mo","6 Mo","1 Yr","2 Yr","3 Yr","5 Yr","7 Yr","10 Yr","20 Yr","30 Yr" | 10/15/2026,4.17,4.15,4.19,4.28,4.35,4.35,4.49,4.77,4.85,4.91,5.00,5.10,5.48,5.43 | 10/14/2026,4.11,4.15,4.15,4.28,4.36,4.37,4.53,4.82,4.92,5.00,5.09,5.19,5.57,5.52
