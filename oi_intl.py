@@ -184,23 +184,51 @@ def mx_quotes(p, today):
     return day.isoformat(), rows
 
 
+# Montreal's history file records each session's open interest on the NEXT
+# session's row (the row for 15 Oct carries the open interest after 14 Oct),
+# while the quotes page shows the open interest after the last close. So a
+# day's open interest is taken from the following row, and the latest day's
+# from the quotes page; volume and settle stay on their own row.
+MX_OI_NEXT_ROW = True
+
+
 def run_mx(store, today):
     for p in MX:
-        got = {}
+        hist, qday, qrows = {}, None, []
         try:
-            got = mx_csv(p, today)
+            hist = mx_csv(p, today)
         except Exception as e:  # noqa: BLE001
             health["errors"].append(f"Montreal {p['name']} history: {e}"[:200])
-        if not got:
-            try:
-                day, rows = mx_quotes(p, today)
+        try:
+            qday, qrows = mx_quotes(p, today)
+        except Exception as e:  # noqa: BLE001
+            health["errors"].append(f"Montreal {p['name']} quotes: {e}"[:200])
+
+        got = {}
+        if hist and MX_OI_NEXT_ROW:
+            days = sorted(hist)
+            for i, d in enumerate(days):
+                if i + 1 < len(days):
+                    nxt = {r[0]: r[3] for r in hist[days[i + 1]]}
+                elif qday == d and qrows:
+                    nxt = {r[0]: r[3] for r in qrows}
+                else:
+                    continue            # its open interest is not out yet
+                rows = [[r[0], r[1], r[2], nxt[r[0]]] for r in hist[d] if nxt.get(r[0])]
                 if rows:
-                    got = {day: rows}
-                    health["mx_mode"] = "quotes page"
-            except Exception as e:  # noqa: BLE001
-                health["errors"].append(f"Montreal {p['name']} quotes: {e}"[:200])
-        else:
+                    got[d] = rows
+            health["mx_mode"] = "history csv, open interest from the next row"
+        elif hist:
+            got = hist
             health["mx_mode"] = "history csv"
+        if qday and qrows and qday not in got:
+            # the history file is a day behind; the page's volume is the
+            # session in progress, so it is left out
+            got[qday] = [[r[0], r[1], None, r[3]] for r in qrows]
+            health["mx_mode"] = health.get("mx_mode", "") + " + quotes page"
+        if got:                         # rebuilt in full every run
+            for day in store:
+                store[day].pop(p["pid"], None)
         for day, rows in got.items():
             store.setdefault(day, {})[p["pid"]] = rows
 
