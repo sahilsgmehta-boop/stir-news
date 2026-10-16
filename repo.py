@@ -44,8 +44,10 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
 HISTORY_DAYS = 400          # a little over a year on the charts
 AHEAD_DAYS = 125           # issuance projection: three full calendar months ahead
-MIN_GAP_HOURS = 3           # the data change daily; no need every 30 minutes
-VERSION = 3                 # bump when the output changes: forces a run past the gap
+RUN_AFTER_IST = (19, 0)     # once a day, after 7pm India time: the New York Fed has
+                            # published the previous day's rates by then (8am New York)
+IST = timezone(timedelta(hours=5, minutes=30))
+VERSION = 4                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -335,6 +337,43 @@ def ofr(mnemonic, start):
     d = jget(f"https://data.financialresearch.gov/v1/series/timeseries?mnemonic={mnemonic}"
              f"&start_date={start}")
     return {r[0]: r[1] for r in d if isinstance(r, list) and len(r) == 2 and r[1] is not None}
+
+
+FEEDS = [("Liberty Street Economics", "https://libertystreeteconomics.newyorkfed.org/feed/"),
+         ("NY Fed Teller Window", "https://tellerwindow.newyorkfed.org/feed/"),
+         ("Federal Reserve speeches", "https://www.federalreserve.gov/feeds/speeches.xml"),
+         ("Federal Reserve FEDS notes", "https://www.federalreserve.gov/feeds/feds_notes.xml")]
+FEED_WORDS = re.compile(r"\brepo|\breserves\b|money market|funding market|liquidity|balance sheet|"
+                        r"\bSOFR\b|Treasury market|\bT-bills?\b|standing repo|overnight rate|"
+                        r"plumbing|\bSOMA\b|ample", re.I)
+
+
+def research_feed():
+    """Recent Fed research and speeches that touch funding markets."""
+    items = []
+    for name, url in FEEDS:
+        try:
+            xml = get(url, "application/rss+xml, application/xml, text/xml")
+        except Exception as e:  # noqa: BLE001
+            note(f"{name} feed: {e}")
+            continue
+        for it in re.findall(r"<item\b.*?</item>", xml, re.S)[:40]:
+            def tag(t):
+                m = re.search(r"<" + t + r"[^>]*>(.*?)</" + t + ">", it, re.S)
+                v = m.group(1) if m else ""
+                v = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", v, flags=re.S)
+                return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", v)).strip()
+            title, link, desc, pub = tag("title"), tag("link"), tag("description"), tag("pubDate")
+            if not title or not FEED_WORDS.search(title + " " + desc[:400]):
+                continue
+            try:
+                d = datetime.strptime(pub[:16].strip(), "%a, %d %b %Y").date()
+            except ValueError:
+                d = None
+            items.append({"date": d2s(d) if d else "", "source": name, "title": title,
+                          "url": link, "summary": desc[:260]})
+    items.sort(key=lambda x: x["date"], reverse=True)
+    return items[:14]
 
 
 def gdp():
@@ -671,9 +710,12 @@ def main():
         store = {}
     if not ("--force" in args or MODE["dump"] or MODE["cache"]):
         last = store.get("built")
-        if (last and store.get("version") == VERSION and
-                (now - datetime.fromisoformat(last.replace("Z", "+00:00"))) < timedelta(hours=MIN_GAP_HOURS)):
-            print("repo: ran within the last", MIN_GAP_HOURS, "hours, skipping")
+        ist = now.astimezone(IST)
+        last_ist = (datetime.fromisoformat(last.replace("Z", "+00:00")).astimezone(IST)
+                    if last else None)
+        due = (ist.hour, ist.minute) >= RUN_AFTER_IST and (last_ist is None or last_ist.date() < ist.date())
+        if last and store.get("version") == VERSION and not due:
+            print("repo: already updated today (runs once a day after 19:00 IST), skipping")
             return
     start = d2s(today - timedelta(days=HISTORY_DAYS))
 
@@ -754,8 +796,18 @@ def main():
     built = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     store["built"] = built
     store["version"] = VERSION
+    try:
+        views = json.load(open(os.path.join(HERE, "repo_views.json")))
+    except Exception as e:  # noqa: BLE001
+        note(f"views file: {e}")
+        views = None
+    try:
+        feed = research_feed()
+    except Exception as e:  # noqa: BLE001
+        note(f"research feed: {e}")
+        feed = []
     payload = {"built": built, "daily": {"dates": days, **cols}, "weekly": weekly,
-               "gdp": g, "issuance": iss, "health": health}
+               "gdp": g, "issuance": iss, "views": views, "feed": feed, "health": health}
     if not MODE["cache"]:
         os.makedirs(os.path.dirname(STORE), exist_ok=True)
         json.dump(store, open(STORE, "w"), separators=(",", ":"))
