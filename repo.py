@@ -34,7 +34,7 @@ python repo.py --force       run regardless
 python repo.py --dump DIR    save every raw download to DIR
 python repo.py --cache DIR   read raw downloads from DIR instead of the web
 """
-import json, os, re, subprocess, sys, time, hashlib
+import html, json, os, re, subprocess, sys, time, hashlib
 from datetime import date, datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -47,7 +47,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 RUN_AFTER_IST = (19, 0)     # once a day, after 7pm India time: the New York Fed has
                             # published the previous day's rates by then (8am New York)
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 5                 # bump when the output changes: forces a run straight away
+VERSION = 6                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -366,7 +366,7 @@ def research_feed():
                 m = re.search(r"<" + t + r"[^>]*>(.*?)</" + t + ">", it, re.S)
                 v = m.group(1) if m else ""
                 v = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", v, flags=re.S)
-                return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", v)).strip()
+                return html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html.unescape(v)))).strip()
             title, link, desc, pub = tag("title"), tag("link"), tag("description"), tag("pubDate")
             if not title or not (FEED_WORDS.search(title) or STRONG_WORDS.search(desc[:400])):
                 continue
