@@ -22,7 +22,10 @@ def get(url, data=None, HDRS=()):
     p = subprocess.run(cmd, capture_output=True)
     out = p.stdout.decode("utf-8", "replace")
     body, _, st = out.rpartition("\n@@STATUS ")
-    return st.strip() or ("curl-error " + p.stderr.decode()[:200]), body
+    st = st.strip()
+    if not st or st.startswith("000"):
+        st = (st + " curl-error " + p.stderr.decode()[:200]).strip()
+    return st, body
 
 summary = []
 for name, item in URLS.items():

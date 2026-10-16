@@ -1,16 +1,15 @@
 {
- "nyf_sofr": "https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2026-10-01&endDate=2026-10-16",
- "nyf_tgcr": "https://markets.newyorkfed.org/api/rates/secured/tgcr/search.json?startDate=2026-10-01&endDate=2026-10-16",
- "nyf_effr": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-01&endDate=2026-10-16",
- "nyf_rrp": "https://markets.newyorkfed.org/api/rp/reverserepo/propositions/search.json?startDate=2026-10-01&endDate=2026-10-16",
- "nyf_repo": "https://markets.newyorkfed.org/api/rp/repo/all/results/search.json?startDate=2026-09-25&endDate=2026-10-16",
- "nyf_soma_dates": "https://markets.newyorkfed.org/api/soma/asofdates/list.json",
  "fred_iorb": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IORB",
- "fred_wresbal": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WRESBAL",
- "fred_gdp": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDP",
- "fd_tga": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/operating_cash_balance?filter=record_date:gte:2026-10-01&page%5Bsize%5D=50",
- "fd_auctions": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=issue_date:gte:2026-10-01&page%5Bsize%5D=5",
- "td_upcoming": "https://www.treasurydirect.gov/TA_WS/securities/upcoming?format=json",
- "ofr_search": "https://data.financialresearch.gov/v1/metadata/search?query=GCF",
- "ofr_mnem": "https://data.financialresearch.gov/v1/metadata/mnemonics?dataset=repo"
+ "fred_txt": "https://fred.stlouisfed.org/data/WRESBAL.txt",
+ "h41_current": "https://www.federalreserve.gov/releases/h41/current/default.htm",
+ "h41_dated": "https://www.federalreserve.gov/releases/h41/20261015/",
+ "ddp_h41": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41",
+ "ddp_prates": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=PRATES",
+ "dbn_gdp": "https://api.db.nomics.world/v22/series/BEA/NIPA-T10105/A191RC-Q?observations=1",
+ "dbn_search": "https://api.db.nomics.world/v22/search?q=reserve%20balances%20with%20federal%20reserve%20banks&limit=10",
+ "nyf_rrp_res": "https://markets.newyorkfed.org/api/rp/reverserepo/all/results/last/3.json",
+ "nyf_repo_last": "https://markets.newyorkfed.org/api/rp/repo/all/results/last/5.json",
+ "nyf_repo_search": "https://markets.newyorkfed.org/api/rp/repo/all/results/search.json?startDate=2026-09-25&endDate=2026-10-16",
+ "nyf_soma_tsy": "https://markets.newyorkfed.org/api/soma/tsy/get/asof/2026-10-14.json",
+ "fd_mspd": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/debt/mspd/mspd_table_3_market?filter=record_date:eq:2026-09-30&page%5Bsize%5D=3"
 }

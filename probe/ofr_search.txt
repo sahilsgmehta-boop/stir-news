@@ -1,9 +1,0 @@
-URL https://data.financialresearch.gov/v1/metadata/search?query=GCF
-STATUS 200 application/json
-BYTES 2
-
---- LINKS ---
-
-
---- BODY  ---
-[]
