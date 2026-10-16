@@ -43,7 +43,7 @@ OUT = os.path.join(HERE, "docs", "repo.js")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
 HISTORY_DAYS = 400          # a little over a year on the charts
-AHEAD_DAYS = 100            # issuance projection: the next ~3 months
+AHEAD_DAYS = 125           # issuance projection: three full calendar months ahead
 MIN_GAP_HOURS = 3           # the data change daily; no need every 30 minutes
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
