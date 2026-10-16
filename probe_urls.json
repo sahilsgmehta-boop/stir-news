@@ -1,0 +1,16 @@
+{
+ "nyf_sofr": "https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2026-10-01&endDate=2026-10-16",
+ "nyf_tgcr": "https://markets.newyorkfed.org/api/rates/secured/tgcr/search.json?startDate=2026-10-01&endDate=2026-10-16",
+ "nyf_effr": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-01&endDate=2026-10-16",
+ "nyf_rrp": "https://markets.newyorkfed.org/api/rp/reverserepo/propositions/search.json?startDate=2026-10-01&endDate=2026-10-16",
+ "nyf_repo": "https://markets.newyorkfed.org/api/rp/repo/all/results/search.json?startDate=2026-09-25&endDate=2026-10-16",
+ "nyf_soma_dates": "https://markets.newyorkfed.org/api/soma/asofdates/list.json",
+ "fred_iorb": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IORB",
+ "fred_wresbal": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WRESBAL",
+ "fred_gdp": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDP",
+ "fd_tga": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/operating_cash_balance?filter=record_date:gte:2026-10-01&page%5Bsize%5D=50",
+ "fd_auctions": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=issue_date:gte:2026-10-01&page%5Bsize%5D=5",
+ "td_upcoming": "https://www.treasurydirect.gov/TA_WS/securities/upcoming?format=json",
+ "ofr_search": "https://data.financialresearch.gov/v1/metadata/search?query=GCF",
+ "ofr_mnem": "https://data.financialresearch.gov/v1/metadata/mnemonics?dataset=repo"
+}
