@@ -44,8 +44,11 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
 HISTORY_DAYS = 400          # a little over a year on the charts
 AHEAD_DAYS = 125           # issuance projection: three full calendar months ahead
-RUN_AFTER_IST = (19, 0)     # once a day, after 7pm India time: the New York Fed has
-                            # published the previous day's rates by then (8am New York)
+# Twice a day, India time: 19:00, after the New York Fed publishes the previous
+# day's rates (8am New York), and 23:45, after Treasury's auction announcements
+# (11am New York) and the day's auction results, so new bill sizes replace the
+# estimates the same evening.
+RUN_SLOTS_IST = [(19, 0), (23, 45)]
 IST = timezone(timedelta(hours=5, minutes=30))
 VERSION = 6                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
@@ -717,9 +720,13 @@ def main():
         ist = now.astimezone(IST)
         last_ist = (datetime.fromisoformat(last.replace("Z", "+00:00")).astimezone(IST)
                     if last else None)
-        due = (ist.hour, ist.minute) >= RUN_AFTER_IST and (last_ist is None or last_ist.date() < ist.date())
+        # the latest slot that has already passed, today or yesterday
+        slots = [ist.replace(hour=h, minute=m, second=0, microsecond=0) - timedelta(days=back)
+                 for back in (0, 1) for h, m in RUN_SLOTS_IST]
+        passed = max(t for t in slots if t <= ist)
+        due = last_ist is None or last_ist < passed
         if last and store.get("version") == VERSION and not due:
-            print("repo: already updated today (runs once a day after 19:00 IST), skipping")
+            print("repo: already updated since the last slot (19:00 and 23:45 IST), skipping")
             return
     start = d2s(today - timedelta(days=HISTORY_DAYS))
 
