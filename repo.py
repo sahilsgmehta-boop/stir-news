@@ -47,7 +47,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 RUN_AFTER_IST = (19, 0)     # once a day, after 7pm India time: the New York Fed has
                             # published the previous day's rates by then (8am New York)
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 4                 # bump when the output changes: forces a run straight away
+VERSION = 5                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -348,6 +348,10 @@ FEED_WORDS = re.compile(r"\brepo|\breserves\b|money market|funding market|liquid
                         r"plumbing|\bSOMA\b|ample", re.I)
 
 
+STRONG_WORDS = re.compile(r"\brepo\b|repurchase agreement|\bSOFR\b|money market fund|standing repo|"
+                          r"ample reserves|reserve balances", re.I)
+
+
 def research_feed():
     """Recent Fed research and speeches that touch funding markets."""
     items = []
@@ -364,7 +368,7 @@ def research_feed():
                 v = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", v, flags=re.S)
                 return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", v)).strip()
             title, link, desc, pub = tag("title"), tag("link"), tag("description"), tag("pubDate")
-            if not title or not FEED_WORDS.search(title + " " + desc[:400]):
+            if not title or not (FEED_WORDS.search(title) or STRONG_WORDS.search(desc[:400])):
                 continue
             try:
                 d = datetime.strptime(pub[:16].strip(), "%a, %d %b %Y").date()
