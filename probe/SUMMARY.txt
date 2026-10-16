@@ -1,6 +1,0 @@
-eurex_api_bund               200 application/json;charset=UTF-8           1085 bytes  'open interest' x1
-eurex_api_estr               200 application/json;charset=UTF-8           5463 bytes  'open interest' x1
-ice_rc_main                  200 application/x-javascript                40286 bytes  'open interest' x0
-ice_report_main              200 application/x-javascript                 6161 bytes  'open interest' x0
-ice_rc_const                 200 application/x-javascript                   44 bytes  'open interest' x0
-ice_rc_meta                  200 application/x-javascript                 3614 bytes  'open interest' x0

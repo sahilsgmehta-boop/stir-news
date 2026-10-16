@@ -1,8 +1,8 @@
 {
- "eurex_api_bund": "https://www.eurex.com/api/v1/overallstatistics/34656?busdate=20261015&filtertype=overview",
- "eurex_api_estr": "https://www.eurex.com/api/v1/overallstatistics/3402482?busdate=20261015&filtertype=overview",
- "ice_rc_main": "https://static.ice.com/cms/41.10.18/chunks/cms-components/ice-report-center/Main-Drn7Y03K.js",
- "ice_report_main": "https://static.ice.com/cms/41.10.18/chunks/cms-components/report/Main-bjpvGmm9.js",
- "ice_rc_const": "https://static.ice.com/cms/41.10.18/chunks/shared/apis/wmd/ice-report-center/utils/constants-BwRcF6-a.js",
- "ice_rc_meta": "https://static.ice.com/cms/41.10.18/chunks/shared/apis/wmd/ice-report-center/useMeta-pmckbE5G.js"
+ "ice_meta_10": "https://www.ice.com/marketdata/api/reports/metadata/10",
+ "ice_meta_26": "https://www.ice.com/marketdata/api/reports/metadata/26",
+ "ice_meta_176": "https://www.ice.com/marketdata/api/reports/metadata/176",
+ "ice_crit_10": "https://www.ice.com/marketdata/api/reports/10/criteria",
+ "ice_crit_26": "https://www.ice.com/marketdata/api/reports/26/criteria",
+ "ice_crit_176": "https://www.ice.com/marketdata/api/reports/176/criteria"
 }
