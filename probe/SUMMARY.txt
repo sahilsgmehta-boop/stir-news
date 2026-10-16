@@ -1,0 +1,10 @@
+eurex_euribor                200 text/html;charset=UTF-8                197892 bytes  'open interest' x4
+eurex_estr                   200 text/html;charset=UTF-8                193214 bytes  'open interest' x4
+eurex_bund                   200 text/html;charset=UTF-8                198294 bytes  'open interest' x4
+eurex_lt                     200 text/html;charset=UTF-8                181123 bytes  'open interest' x0
+eurex_msonline               200 text/html;charset=UTF-8                161329 bytes  'open interest' x50
+ice_report_114               200 text/html; charset=utf-8               115882 bytes  'open interest' x33
+ice_euribor_data             200 text/html; charset=utf-8                83107 bytes  'open interest' x0
+ice_hydrate                  200 application/x-javascript               225066 bytes  'open interest' x0
+mx_hist_dl2                  200 text/csv;charset=UTF-8                    401 bytes  'open interest' x1
+mx_cgb_quotes                200 text/html; charset=UTF-8                84542 bytes  'open interest' x18
