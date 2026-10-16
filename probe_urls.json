@@ -1,15 +1,9 @@
 {
- "fred_iorb": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IORB",
- "fred_txt": "https://fred.stlouisfed.org/data/WRESBAL.txt",
- "h41_current": "https://www.federalreserve.gov/releases/h41/current/default.htm",
- "h41_dated": "https://www.federalreserve.gov/releases/h41/20261015/",
- "ddp_h41": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H41",
- "ddp_prates": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=PRATES",
- "dbn_gdp": "https://api.db.nomics.world/v22/series/BEA/NIPA-T10105/A191RC-Q?observations=1",
- "dbn_search": "https://api.db.nomics.world/v22/search?q=reserve%20balances%20with%20federal%20reserve%20banks&limit=10",
- "nyf_rrp_res": "https://markets.newyorkfed.org/api/rp/reverserepo/all/results/last/3.json",
- "nyf_repo_last": "https://markets.newyorkfed.org/api/rp/repo/all/results/last/5.json",
- "nyf_repo_search": "https://markets.newyorkfed.org/api/rp/repo/all/results/search.json?startDate=2026-09-25&endDate=2026-10-16",
- "nyf_soma_tsy": "https://markets.newyorkfed.org/api/soma/tsy/get/asof/2026-10-14.json",
- "fd_mspd": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/debt/mspd/mspd_table_3_market?filter=record_date:eq:2026-09-30&page%5Bsize%5D=3"
+ "fred_iorb": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IORB,RRPONTSYAWARD,WRESBAL,WALCL,WTREGEN&cosd=2025-09-01",
+ "fred_gdp": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDP&cosd=2024-01-01",
+ "nyf_repo_600": "https://markets.newyorkfed.org/api/rp/repo/all/results/last/600.json",
+ "nyf_rrp_year": "https://markets.newyorkfed.org/api/rp/reverserepo/all/results/last/300.json",
+ "nyf_sofr_year": "https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2025-09-01&endDate=2026-10-16",
+ "ofr_gcf": "https://data.financialresearch.gov/v1/series/timeseries?mnemonic=REPO-GCF_AR_T-P&start_date=2025-09-01",
+ "ofr_gcf_f": "https://data.financialresearch.gov/v1/series/timeseries?mnemonic=REPO-GCF_AR_T-F&start_date=2026-09-01"
 }

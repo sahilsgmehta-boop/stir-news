@@ -11,7 +11,7 @@ os.makedirs("probe", exist_ok=True)
 KEY = re.compile(r"open.?interest|statistic|report|csv|xls|download|volume|settle", re.I)
 
 def get(url, data=None, HDRS=()):
-    cmd = ["curl", "-sS", "-L", "-m", "40", "--compressed", "-A", UA,
+    cmd = ["curl", "-sS", "-L", "-m", "60", "--http1.1", "--compressed", "-A", UA,
            "-H", "Accept: text/html,application/json,*/*;q=0.8",
            "-H", "Accept-Language: en-GB,en;q=0.9",
            "-w", "\n@@STATUS %{http_code} %{content_type}", url]

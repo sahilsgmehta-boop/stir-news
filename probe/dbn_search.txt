@@ -1,9 +1,0 @@
-URL https://api.db.nomics.world/v22/search?q=reserve%20balances%20with%20federal%20reserve%20banks&limit=10
-STATUS 200 application/json
-BYTES 518
-
---- LINKS ---
-
-
---- BODY  ---
-{"_meta":{"args":{"limit":10,"offset":0,"q":"reserve balances with federal reserve banks"},"version":"22.1.17"},"results":{"docs":[{"code":"H41","dir_hash":"93810cf939121260714ddcefa49be3bd9788cf1a","indexed_at":"2026-10-16T01:30:55.726Z","name":"H41 Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks","nb_matching_series":94,"nb_series":1332,"provider_code":"FED","provider_name":"Federal Reserve Board of Governors"}],"limit":10,"num_found":1,"offset":0}}
