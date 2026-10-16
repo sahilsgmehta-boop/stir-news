@@ -36,6 +36,13 @@ EUREX = [
     {"pid": "FST3", "id": "3402482", "name": "3M €STR"},
 ]
 MX = [{"pid": "CRA", "name": "3M CORRA"}]
+
+# Eurex's free statistics are its UNADJUSTED open interest, which does not
+# match Bloomberg (Bund Dec 26 on 15 Oct: 2,145,945 here, 1.691M on
+# Bloomberg, and the day's change even has the opposite sign). Until a source
+# for the adjusted figure is found the Eurex products are still collected
+# into data/oi_intl.json, but left off the page.
+PUBLISH_EUREX = False
 ORDER = [p["pid"] for p in EUREX] + [p["pid"] for p in MX]
 
 LOOKBACK_DAYS = 32      # rolling month, like the US page
@@ -252,6 +259,8 @@ def main():
     rows = []
     for d in sorted(store):
         for pid in ORDER:
+            if not PUBLISH_EUREX and pid in {p["pid"] for p in EUREX}:
+                continue
             for r in store[d].get(pid, []):
                 st = round(r[1], 6) if isinstance(r[1], float) else r[1]
                 rows.append([d, pid, names[pid], r[0], st, r[2], r[3], "F"])
@@ -265,7 +274,7 @@ def main():
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
     json.dump({"built": built, "days": store, "health": health}, open(STORE, "w"),
               separators=(",", ":"))
-    payload = {"built": built, "source": "Eurex and Montreal Exchange statistics",
+    payload = {"built": built, "source": "Montreal Exchange" if not PUBLISH_EUREX else "Eurex and Montreal Exchange statistics",
                "cols": ["date", "pid", "product", "month", "settle", "volume", "oi", "status"],
                "rows": rows, "health": health}
     with open(OUT, "w") as f:
