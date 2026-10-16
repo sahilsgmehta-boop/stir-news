@@ -19,7 +19,7 @@ OUT = os.path.join(HERE, "docs", "calendar.js")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
 COUNTRIES = ["US", "EU", "DE", "FR", "IT", "ES", "GB", "CA", "CH"]
-BACK_DAYS, AHEAD_DAYS = 14, 35
+BACK_DAYS, AHEAD_DAYS = 1, 35        # the page shows only what is still to come
 MODE = {"dump": None, "cache": None}
 health = {"errors": [], "source": None}
 
