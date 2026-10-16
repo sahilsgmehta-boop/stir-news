@@ -1,0 +1,8 @@
+ice_report_10                200 text/html; charset=utf-8               110474 bytes  'open interest' x4
+mx_cra_quotes                200 text/html; charset=UTF-8                95477 bytes  'open interest' x34
+mx_historical                200 text/html; charset=UTF-8               117166 bytes  'open interest' x35
+mx_hist_dl                   200 text/csv;charset=UTF-8                    401 bytes  'open interest' x1
+mx_monthly_oi                200 text/html; charset=UTF-8               621175 bytes  'open interest' x3683
+eurex_mon                    200 text/html;charset=UTF-8                148214 bytes  'open interest' x0
+eurex_fix                    404 text/html;charset=UTF-8                133142 bytes  'open interest' x0
+eurex_stats                  200 text/html;charset=UTF-8                135086 bytes  'open interest' x3
