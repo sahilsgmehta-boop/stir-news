@@ -45,6 +45,11 @@ jobs:
       - name: Open interest (non-US)
         run: python oi_intl.py
 
+      # Economic calendar (US, euro area, UK, Canada, Switzerland) from
+      # TradingView's public feed. One request. Never fails the run.
+      - name: Calendar
+        run: python calendar_feed.py
+
       # Cross-asset performance for the Markets page (Yahoo Finance, CNBC).
       # Every run; the full history is refetched once a day. Never fails the run.
       - name: Markets
