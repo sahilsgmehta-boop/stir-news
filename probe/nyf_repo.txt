@@ -1,0 +1,8 @@
+URL https://markets.newyorkfed.org/api/rp/repo/all/results/search.json?startDate=2026-09-25&endDate=2026-10-16
+STATUS 400 application/json;charset=utf-8
+BYTES 0
+
+--- LINKS ---
+
+
+--- BODY  ---

@@ -1,0 +1,14 @@
+nyf_sofr                     200 application/json;charset=utf-8           2398 bytes  'open interest' x0
+nyf_tgcr                     200 application/json;charset=utf-8           2398 bytes  'open interest' x0
+nyf_effr                     200 application/json;charset=utf-8           2848 bytes  'open interest' x0
+nyf_rrp                      200 application/json;charset=utf-8           1456 bytes  'open interest' x0
+nyf_repo                     400 application/json;charset=utf-8              0 bytes  'open interest' x0
+nyf_soma_dates               200 application/json;charset=utf-8          15820 bytes  'open interest' x0
+fred_iorb                    000                                             0 bytes  'open interest' x0
+fred_wresbal                 000                                             0 bytes  'open interest' x0
+fred_gdp                     000                                             0 bytes  'open interest' x0
+fd_tga                       200 application/json                        19023 bytes  'open interest' x0
+fd_auctions                  200 application/json                        28743 bytes  'open interest' x0
+td_upcoming                  200 application/json                        16415 bytes  'open interest' x0
+ofr_search                   200 application/json                            2 bytes  'open interest' x0
+ofr_mnem                     200 application/json                        19888 bytes  'open interest' x0
