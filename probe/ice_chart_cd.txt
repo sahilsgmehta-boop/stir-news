@@ -1,0 +1,209 @@
+URL https://www.ice.com/marketdata/api/productguide/charting/contract-data?productId=15275&hubId=17455
+STATUS 200 application/json
+BYTES 5063
+
+--- LINKS ---
+
+
+--- BODY  ---
+[ {
+  "marketId" : 8820755,
+  "marketStrip" : "Oct26",
+  "endDate" : 1793419200000,
+  "lastPrice" : 97.3450,
+  "volume" : 12936,
+  "lastTime" : "10/16/2026 01:28 PM GMT",
+  "change" : 0.004109265366089201
+}, {
+  "marketId" : 8870674,
+  "marketStrip" : "Nov26",
+  "endDate" : 1796014800000,
+  "lastPrice" : 97.2250,
+  "volume" : 3921,
+  "lastTime" : "10/16/2026 01:31 PM GMT",
+  "change" : 0.0
+}, {
+  "marketId" : 6545123,
+  "marketStrip" : "Dec26",
+  "endDate" : 1798693200000,
+  "lastPrice" : 97.1050,
+  "volume" : 94607,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : 0.0
+}, {
+  "marketId" : 8978745,
+  "marketStrip" : "Jan27",
+  "endDate" : 1801371600000,
+  "lastPrice" : 97.0000,
+  "volume" : 3380,
+  "lastTime" : "10/16/2026 01:24 PM GMT",
+  "change" : -0.005154373485898101
+}, {
+  "marketId" : 9030008,
+  "marketStrip" : "Feb27",
+  "endDate" : 1803790800000,
+  "lastPrice" : 96.9150,
+  "volume" : 114,
+  "lastTime" : "10/16/2026 10:54 AM GMT",
+  "change" : -0.005158893933136043
+}, {
+  "marketId" : 6637370,
+  "marketStrip" : "Mar27",
+  "endDate" : 1806465600000,
+  "lastPrice" : 96.8400,
+  "volume" : 68765,
+  "lastTime" : "10/16/2026 01:31 PM GMT",
+  "change" : -0.005162889152765194
+}, {
+  "marketId" : 6705684,
+  "marketStrip" : "Jun27",
+  "endDate" : 1814328000000,
+  "lastPrice" : 96.7000,
+  "volume" : 51363,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : 0.0
+}, {
+  "marketId" : 6777731,
+  "marketStrip" : "Sep27",
+  "endDate" : 1822276800000,
+  "lastPrice" : 96.6500,
+  "volume" : 61167,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : -0.005173038125286278
+}, {
+  "marketId" : 6874584,
+  "marketStrip" : "Dec27",
+  "endDate" : 1830229200000,
+  "lastPrice" : 96.6550,
+  "volume" : 69936,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : -0.005172770535894323
+}, {
+  "marketId" : 6981224,
+  "marketStrip" : "Mar28",
+  "endDate" : 1838088000000,
+  "lastPrice" : 96.6700,
+  "volume" : 45784,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : -0.005171967933794107
+}, {
+  "marketId" : 7064365,
+  "marketStrip" : "Jun28",
+  "endDate" : 1845950400000,
+  "lastPrice" : 96.6750,
+  "volume" : 53681,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : -0.010342866008176155
+}, {
+  "marketId" : 7148630,
+  "marketStrip" : "Sep28",
+  "endDate" : 1853899200000,
+  "lastPrice" : 96.6800,
+  "volume" : 49069,
+  "lastTime" : "10/16/2026 01:31 PM GMT",
+  "change" : -0.010342331161434383
+}, {
+  "marketId" : 7236634,
+  "marketStrip" : "Dec28",
+  "endDate" : 1861851600000,
+  "lastPrice" : 96.6750,
+  "volume" : 33508,
+  "lastTime" : "10/16/2026 01:27 PM GMT",
+  "change" : -0.015513496742166273
+}, {
+  "marketId" : 7329525,
+  "marketStrip" : "Mar29",
+  "endDate" : 1869624000000,
+  "lastPrice" : 96.6700,
+  "volume" : 27323,
+  "lastTime" : "10/16/2026 01:27 PM GMT",
+  "change" : -0.015514299012256884
+}, {
+  "marketId" : 7419387,
+  "marketStrip" : "Jun29",
+  "endDate" : 1877486400000,
+  "lastPrice" : 96.6650,
+  "volume" : 33805,
+  "lastTime" : "10/16/2026 01:30 PM GMT",
+  "change" : -0.015515101365329508
+}, {
+  "marketId" : 7501063,
+  "marketStrip" : "Sep29",
+  "endDate" : 1885435200000,
+  "lastPrice" : 96.6600,
+  "volume" : 27102,
+  "lastTime" : "10/16/2026 01:31 PM GMT",
+  "change" : -0.01551590380139702
+}, {
+  "marketId" : 7599802,
+  "marketStrip" : "Dec29",
+  "endDate" : 1893387600000,
+  "lastPrice" : 96.6550,
+  "volume" : 23137,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : -0.020687871735191127
+}, {
+  "marketId" : 7698212,
+  "marketStrip" : "Mar30",
+  "endDate" : 1901160000000,
+  "lastPrice" : 96.6450,
+  "volume" : 11296,
+  "lastTime" : "10/16/2026 01:27 PM GMT",
+  "change" : -0.02586117720079206
+}, {
+  "marketId" : 7789657,
+  "marketStrip" : "Jun30",
+  "endDate" : 1909022400000,
+  "lastPrice" : 96.6400,
+  "volume" : 8957,
+  "lastTime" : "10/16/2026 01:32 PM GMT",
+  "change" : -0.02586251487095193
+}, {
+  "marketId" : 7873425,
+  "marketStrip" : "Sep30",
+  "endDate" : 1916971200000,
+  "lastPrice" : 96.6300,
+  "volume" : 9224,
+  "lastTime" : "10/16/2026 01:29 PM GMT",
+  "change" : -0.031036623215395343
+}, {
+  "marketId" : 8024183,
+  "marketStrip" : "Dec30",
+  "endDate" : 1924923600000,
+  "lastPrice" : 96.6250,
+  "volume" : 2235,
+  "lastTime" : "10/16/2026 01:31 PM GMT",
+  "change" : -0.031038228751747075
+}, {
+  "marketId" : 8176002,
+  "marketStrip" : "Mar31",
+  "endDate" : 1932696000000,
+  "lastPrice" : 96.6150,
+  "volume" : 5053,
+  "lastTime" : "10/16/2026 01:31 PM GMT",
+  "change" : -0.031041440322832157
+}, {
+  "marketId" : 8326026,
+  "marketStrip" : "Jun31",
+  "endDate" : 1940558400000,
+  "lastPrice" : 96.6050,
+  "volume" : 3807,
+  "lastTime" : "10/16/2026 01:31 PM GMT",
+  "change" : -0.031044652558597955
+}, {
+  "marketId" : 8455881,
+  "marketStrip" : "Sep31",
+  "endDate" : 1948507200000,
+  "lastPrice" : 96.5900,
+  "volume" : 2621,
+  "lastTime" : "10/16/2026 01:28 PM GMT",
+  "change" : -0.03622250970245443
+}, {
+  "marketId" : 8636023,
+  "marketStrip" : "Dec31",
+  "endDate" : 1956459600000,
+  "lastPrice" : null,
+  "volume" : 42,
+  "lastTime" : null,
+  "change" : 0.0
+} ]
