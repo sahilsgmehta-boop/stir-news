@@ -1,9 +1,0 @@
-{
- "fred_iorb": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IORB,RRPONTSYAWARD,WRESBAL,WALCL,WTREGEN&cosd=2025-09-01",
- "fred_gdp": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDP&cosd=2024-01-01",
- "nyf_repo_600": "https://markets.newyorkfed.org/api/rp/repo/all/results/last/600.json",
- "nyf_rrp_year": "https://markets.newyorkfed.org/api/rp/reverserepo/all/results/last/300.json",
- "nyf_sofr_year": "https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2025-09-01&endDate=2026-10-16",
- "ofr_gcf": "https://data.financialresearch.gov/v1/series/timeseries?mnemonic=REPO-GCF_AR_T-P&start_date=2025-09-01",
- "ofr_gcf_f": "https://data.financialresearch.gov/v1/series/timeseries?mnemonic=REPO-GCF_AR_T-F&start_date=2026-09-01"
-}

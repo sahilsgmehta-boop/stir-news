@@ -45,7 +45,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 HISTORY_DAYS = 400          # a little over a year on the charts
 AHEAD_DAYS = 100            # issuance projection: the next ~3 months
 MIN_GAP_HOURS = 3           # the data change daily; no need every 30 minutes
-H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "30"))   # weekly H.4.1 pages per run while backfilling
+H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
 MODE = {"dump": None, "cache": None}
@@ -302,7 +302,7 @@ def upcoming():
             "cmb": (r.get("cashManagementBillCMB") or "").lower() == "yes",
             "pubmat": num(r.get("estimatedAmountOfPubliclyHeldMaturingSecuritiesByType")),
             "rate": num(r.get("interestRate")),
-            "tips": (r.get("inflationIndexSecurity") or "").lower() == "yes",
+            "tips": "yes" in ((r.get("tips") or "") + (r.get("inflationIndexSecurity") or "")).lower(),
             "frn": (r.get("floatingRate") or "").lower() == "yes",
             "spread": num(r.get("spread")), "hir": None, "announced": True,
         })
@@ -425,6 +425,35 @@ def sec_key(a):
     return f"{kind} {a['oterm']}"
 
 
+def month_end(y, m):
+    return date(y + (m == 12), m % 12 + 1, 1) - timedelta(days=1)
+
+
+def next_year_slot(d0, mat):
+    """Where last year's coupon settlement falls this year. Coupons settle on
+    their maturity day of the month (the 15th, or month end) moved to the next
+    business day, so the rule is applied afresh rather than copying a date that
+    was itself shifted by a weekend (15 Nov 2025 was a Saturday)."""
+    y = d0.year + 1
+    # which nominal day produced last year's date?
+    for back in range(0, 5):
+        n = d0 - timedelta(days=back)
+        if n.month != d0.month and back:
+            # e.g. 2 Nov settling a 31 Oct month-end issue
+            if mat.day >= 28 and n == month_end(n.year, n.month):
+                return next_bd(month_end(y, n.month))
+            break
+        if n.day == mat.day or (mat.day >= 28 and n == month_end(n.year, n.month)):
+            if next_bd(n) == d0:
+                if mat.day >= 28 and n == month_end(n.year, n.month):
+                    return next_bd(month_end(y, n.month))
+                return next_bd(date(y, n.month, min(n.day, month_end(y, n.month).day)))
+    try:
+        return next_bd(d0.replace(year=y))
+    except ValueError:
+        return next_bd(d0 + timedelta(days=365))
+
+
 def project(hist, ann, today, until):
     """Auctions not yet announced, settling between today and `until`."""
     known = hist + ann
@@ -459,7 +488,9 @@ def project(hist, ann, today, until):
                 iss = next_bd(nd)
                 if iss > s2d(lastx["issue"]):
                     proj.append({"key": k, "type": "Bill", "issue": d2s(iss),
-                                 "maturity": d2s(next_bd(iss + timedelta(days=tenor))),
+                                 # bills mature on the regular weekday even when a
+                                 # holiday pushed the issue back a day
+                                 "maturity": d2s(next_bd(nd + timedelta(days=tenor))),
                                  "offer": lastx["offer"], "projected": True})
                 n += 1
         else:
@@ -468,14 +499,7 @@ def project(hist, ann, today, until):
             size_re = next((a["offer"] for a in reversed(xs) if a["reopen"]), size_new)
             for a in xs:
                 d0 = s2d(a["issue"])
-                try:
-                    d1 = d0.replace(year=d0.year + 1)
-                except ValueError:
-                    d1 = d0 + timedelta(days=365)
-                # month-end settlers stay at month end
-                if (d0 + timedelta(days=4)).month != d0.month or d0.day <= 2:
-                    pass
-                iss = next_bd(d1)
+                iss = next_year_slot(d0, s2d(a["maturity"]))
                 if not (today < iss <= until) or iss <= s2d(lastx["issue"]):
                     continue
                 if any(abs((s2d(b["issue"]) - iss).days) <= 10 for b in xs if b.get("announced")):
@@ -531,7 +555,7 @@ def interest_by_date(ms, soma, frn_rate, start, until):
     return out
 
 
-def issuance(hist, ann, ms, soma, today):
+def issuance(hist, ann, ms, soma, today, mspd_date=None):
     start = today - timedelta(days=HISTORY_DAYS)
     until = today + timedelta(days=AHEAD_DAYS)
     announced_cusips = {(a["cusip"], a["issue"]) for a in ann}
@@ -574,10 +598,17 @@ def issuance(hist, ann, ms, soma, today):
         d = s2d(o["maturity"])
         if not (start <= d <= until):
             continue
-        amt = ms[c]["out"] if c in ms and ms[c]["out"] and d > today else o["amt"]
+        # bills: every auction of the CUSIP (a 13-week reopens a 26-week). Coupons:
+        # the month-end debt statement (net of buybacks) plus reopenings since
+        amt = o["amt"]
+        if not o["bill"] and c in ms and ms[c]["out"] and mspd_date:
+            amt = ms[c]["out"] + sum(a["accepted"] or 0 for a in hist
+                                     if a["cusip"] == c and a["issue"] > mspd_date)
         held = soma.get(c, o["soma_at_auction"]) if d >= today - timedelta(days=7) else o["soma_at_auction"]
         add(d2s(next_bd(d)), "bills_mat" if o["bill"] else "cpn_mat", max(amt - held, 0.0))
-    for a in proj + [x for x in ann_future if x["cusip"] not in outst]:
+    # announced and projected issues add to what matures later; an announced
+    # reopening's earlier tranches are already counted under its CUSIP above
+    for a in proj + ann_future:
         if a.get("maturity") and a.get("offer") and s2d(a["maturity"]) <= until:
             bill = a["type"].lower() in ("bill", "cmb")
             add(d2s(next_bd(s2d(a["maturity"]))), "bills_mat" if bill else "cpn_mat", a["offer"])
@@ -614,8 +645,10 @@ def issuance(hist, ann, ms, soma, today):
     return {"cols": ["date", "bills_net", "coupons_net", "interest", "net", "status",
                      "bills_gross", "bills_maturing", "coupons_gross", "coupons_maturing"],
             "rows": rows,
-            "announced": [[a["issue"], a["type"], a["term"], round((a["offer"] or 0) / 1e9, 1)]
-                          for a in sorted(ann_future + hist_future, key=lambda a: a["issue"])],
+            "announced": [[a["issue"], ("TIPS" if a["tips"] else "FRN" if a["frn"] else a["type"]),
+                           a["term"], round(a["offer"] / 1e9, 1)]
+                          for a in sorted(ann_future + hist_future, key=lambda a: a["issue"])
+                          if a.get("offer")],
             "projected": [[p["issue"], p["key"], round(p["offer"] / 1e9, 1)]
                           for p in sorted(proj, key=lambda p: p["issue"])]}
 
@@ -693,7 +726,7 @@ def main():
         except Exception as e:  # noqa: BLE001
             note(f"MSPD: {e}")
             ms_date, ms = None, {}
-        iss = issuance(hist, ann, ms, soma, today)
+        iss = issuance(hist, ann, ms, soma, today, ms_date)
         iss["soma_asof"], iss["mspd_asof"] = soma_asof, ms_date
     except Exception as e:  # noqa: BLE001
         note(f"issuance: {e}")
@@ -707,6 +740,9 @@ def main():
               "obfr", "obfr_vol", "tlo", "thi", "iorb", "rrp_rate", "rrp_amt", "rrp_cpty",
               "srf_amt", "srf_rate", "tga", "gcf", "dvp"]
     days = sorted(k for k in daily if k >= start and k <= d2s(today) and is_bd(s2d(k)))
+    # end on the last day anything was published (today's rates print tomorrow)
+    while days and all(daily[days[-1]].get(f) is None for f in ("sofr", "effr", "tga", "rrp_amt")):
+        days.pop()
     cols = {f: [daily[k].get(f) for k in days] for f in fields}
     weeks = sorted(store["h41"])
     weekly = {"dates": weeks,
