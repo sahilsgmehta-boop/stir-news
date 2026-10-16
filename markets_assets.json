@@ -1,0 +1,79 @@
+{
+  "note": "Assets on the dashboard's Markets page. src: yahoo symbol, or 'ust:<tenor>' (US Treasury curve), or 'stooq:<symbol>'. kind: price (percent change) or yield (bp change). A sub-category's 'proxy' is the line shown for the sub-category itself; without one it is the average of its members.",
+  "groups": [
+    {"name": "Equities", "subs": [
+      {"name": "US", "proxy": "^GSPC", "items": [
+        ["S&P 500", "^GSPC"], ["Nasdaq 100", "^NDX"], ["Dow Jones", "^DJI"], ["Russell 2000", "^RUT"],
+        ["S&P 500 equal weight", "RSP"]]},
+      {"name": "US sectors", "items": [
+        ["Technology", "XLK"], ["Financials", "XLF"], ["Energy", "XLE"], ["Health care", "XLV"],
+        ["Industrials", "XLI"], ["Consumer discretionary", "XLY"], ["Consumer staples", "XLP"],
+        ["Utilities", "XLU"], ["Materials", "XLB"], ["Real estate", "XLRE"], ["Communications", "XLC"]]},
+      {"name": "US styles", "items": [
+        ["Growth", "IWF"], ["Value", "IWD"], ["Momentum", "MTUM"], ["Quality", "QUAL"],
+        ["Low volatility", "USMV"], ["Small caps", "IWM"]]},
+      {"name": "Europe", "proxy": "^STOXX", "items": [
+        ["Stoxx 600", "^STOXX"], ["Euro Stoxx 50", "^STOXX50E"], ["DAX", "^GDAXI"], ["CAC 40", "^FCHI"],
+        ["FTSE 100", "^FTSE"], ["FTSE MIB", "FTSEMIB.MI"], ["IBEX 35", "^IBEX"], ["SMI", "^SSMI"]]},
+      {"name": "Asia-Pacific", "items": [
+        ["Nikkei 225", "^N225"], ["Hang Seng", "^HSI"], ["Shanghai Composite", "000001.SS"],
+        ["CSI 300", "000300.SS"], ["Kospi", "^KS11"], ["Taiwan", "^TWII"], ["ASX 200", "^AXJO"]]},
+      {"name": "India", "proxy": "^NSEI", "items": [
+        ["Nifty 50", "^NSEI"], ["Sensex", "^BSESN"], ["Nifty Bank", "^NSEBANK"],
+        ["Nifty Midcap 100", "NIFTY_MIDCAP_100.NS"]]},
+      {"name": "Emerging markets", "proxy": "EEM", "items": [
+        ["MSCI EM (EEM)", "EEM"], ["Brazil Bovespa", "^BVSP"], ["Mexico IPC", "^MXX"],
+        ["South Africa (EZA)", "EZA"]]}
+    ]},
+    {"name": "Rates", "subs": [
+      {"name": "US Treasury yields", "kind": "yield", "items": [
+        ["1M", "ust:1 Mo"], ["3M", "ust:3 Mo"], ["6M", "ust:6 Mo"], ["1Y", "ust:1 Yr"], ["2Y", "ust:2 Yr"],
+        ["5Y", "ust:5 Yr"], ["10Y", "ust:10 Yr"], ["30Y", "ust:30 Yr"]]},
+      {"name": "Global 10-year yields", "kind": "yield", "items": [
+        ["Germany", "stooq:10dey.b"], ["UK", "stooq:10uky.b"], ["Japan", "stooq:10jpy.b"],
+        ["France", "stooq:10fry.b"], ["Italy", "stooq:10ity.b"], ["Spain", "stooq:10esy.b"],
+        ["Canada", "stooq:10cay.b"], ["Australia", "stooq:10auy.b"]]},
+      {"name": "Global 2-year yields", "kind": "yield", "items": [
+        ["Germany", "stooq:2dey.b"], ["UK", "stooq:2uky.b"], ["Japan", "stooq:2jpy.b"],
+        ["France", "stooq:2fry.b"], ["Italy", "stooq:2ity.b"], ["Canada", "stooq:2cay.b"]]},
+      {"name": "Bond funds", "items": [
+        ["Treasuries 1-3Y", "SHY"], ["Treasuries 7-10Y", "IEF"], ["Treasuries 20Y+", "TLT"],
+        ["TIPS", "TIP"], ["Investment grade", "LQD"], ["High yield", "HYG"], ["EM dollar bonds", "EMB"]]}
+    ]},
+    {"name": "Commodities", "subs": [
+      {"name": "Broad", "proxy": "^BCOM", "items": [
+        ["Bloomberg Commodity", "^BCOM"], ["S&P GSCI", "^SPGSCI"], ["Invesco commodity fund", "DBC"]]},
+      {"name": "Energy", "proxy": "DBE", "items": [
+        ["WTI crude", "CL=F"], ["Brent crude", "BZ=F"], ["US natural gas", "NG=F"], ["Dutch TTF gas", "TTF=F"],
+        ["Gasoline", "RB=F"], ["Heating oil", "HO=F"]]},
+      {"name": "Precious metals", "proxy": "DBP", "items": [
+        ["Gold", "GC=F"], ["Silver", "SI=F"], ["Platinum", "PL=F"], ["Palladium", "PA=F"]]},
+      {"name": "Industrial metals", "proxy": "DBB", "items": [
+        ["Copper", "HG=F"], ["Aluminium", "ALI=F"]]},
+      {"name": "Grains", "proxy": "DBA", "items": [
+        ["Wheat (Chicago)", "ZW=F"], ["Wheat (Kansas)", "KE=F"], ["Corn", "ZC=F"], ["Soybeans", "ZS=F"],
+        ["Soybean meal", "ZM=F"], ["Soybean oil", "ZL=F"]]},
+      {"name": "Softs", "items": [
+        ["Coffee", "KC=F"], ["Sugar", "SB=F"], ["Cocoa", "CC=F"], ["Cotton", "CT=F"], ["Orange juice", "OJ=F"]]},
+      {"name": "Livestock", "items": [
+        ["Live cattle", "LE=F"], ["Feeder cattle", "GF=F"], ["Lean hogs", "HE=F"]]}
+    ]},
+    {"name": "FX", "subs": [
+      {"name": "Dollar", "items": [["Dollar index (DXY)", "DX-Y.NYB"]]},
+      {"name": "EM currencies vs USD", "invert": true, "items": [
+        ["Indian rupee", "INR=X"], ["Chinese yuan (offshore)", "CNH=X"], ["Korean won", "KRW=X"],
+        ["Brazilian real", "BRL=X"], ["Mexican peso", "MXN=X"], ["South African rand", "ZAR=X"],
+        ["Turkish lira", "TRY=X"]]}
+    ]},
+    {"name": "Crypto", "subs": [
+      {"name": "Crypto", "items": [["Bitcoin", "BTC-USD"], ["Ether", "ETH-USD"], ["Solana", "SOL-USD"]]}
+    ]},
+    {"name": "Volatility", "subs": [
+      {"name": "Volatility indices", "items": [
+        ["VIX", "^VIX"], ["MOVE (Treasury vol)", "^MOVE"], ["VSTOXX", "^V2TX"], ["India VIX", "^INDIAVIX"]]}
+    ]},
+    {"name": "Real estate", "subs": [
+      {"name": "REITs", "items": [["US REITs", "VNQ"], ["Global REITs", "REET"]]}
+    ]}
+  ]
+}
