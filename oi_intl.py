@@ -253,7 +253,8 @@ def main():
     for d in sorted(store):
         for pid in ORDER:
             for r in store[d].get(pid, []):
-                rows.append([d, pid, names[pid], r[0], r[1], r[2], r[3], "F"])
+                st = round(r[1], 6) if isinstance(r[1], float) else r[1]
+                rows.append([d, pid, names[pid], r[0], st, r[2], r[3], "F"])
 
     latest = {}
     for d in store:

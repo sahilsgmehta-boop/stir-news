@@ -1,6 +1,0 @@
-ice_meta_10                  200 application/json                          242 bytes  'open interest' x0
-ice_meta_26                  200 application/json                          240 bytes  'open interest' x0
-ice_meta_176                 200 application/json                          248 bytes  'open interest' x0
-ice_crit_10                  409 text/html;charset=UTF-8                   274 bytes  'open interest' x0
-ice_crit_26                  409 text/html;charset=UTF-8                   274 bytes  'open interest' x0
-ice_crit_176                 409 text/html;charset=UTF-8                   274 bytes  'open interest' x0
