@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-16T07:07:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+"url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+"src": "MarketWatch",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "5a2ba1d18e47",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-16T02:25:17Z",
 "bank": "BoE",
 "speaker": "Bailey",
@@ -8,11 +22,11 @@
 "url": "https://investinglive.com/central-banks/bailey-says-uk-second-round-inflation-effects-subdued-so-far-too-early-to-judge/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "dove",
 "also": [],
 "id": "050ab98e3f1a",
-"score": null,
-"read": ""
+"score": -3,
+"read": "Subdued second-round effects and 'too early to judge' undercut urgency for further BoE hikes."
 },
 {
 "t": "2026-10-16T01:16:16Z",
@@ -22,11 +36,11 @@
 "url": "https://investinglive.com/central-banks/goldman-warsh-s-quieter-fed-why-less-guidance-could-mean-more-market-volatility/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "6c166c8c8d67",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-15T21:47:09Z",
@@ -36,11 +50,11 @@
 "url": "https://investinglive.com/central-banks/fed-s-hammack-questions-whether-fed-policy-is-tight-enough-as-inflation-risks-build/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "hawk",
 "also": [],
 "id": "c945143e28ea",
-"score": null,
-"read": ""
+"score": 7,
+"read": "Questioning whether policy is tight enough signals appetite for more Fed hikes."
 },
 {
 "t": "2026-10-15T21:20:53Z",
@@ -50,11 +64,11 @@
 "url": "https://investinglive.com/central-banks/warsh-speaks-in-bangkok-after-hot-cpi-is-a-second-fed-hike-coming-in-october/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "2179d7367ebd",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-15T21:11:20Z",
@@ -64,11 +78,11 @@
 "url": "https://investinglive.com/central-banks/macklem-in-bangkok-oil-tariffs-and-job-losses-test-the-bank-of-canada-s-hike-case/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "0dfb8ccfee09",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-15T20:56:00Z",
@@ -78,11 +92,11 @@
 "url": "https://investinglive.com/central-banks/preview-nagel-and-klingbeil-in-bangkok-three-themes-as-the-ecb-weighs-a-december-hike/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "2562936d2f70",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-15T20:33:15Z",
@@ -92,11 +106,11 @@
 "url": "https://investinglive.com/central-banks/boe-bailey-bangkok-what-could-possibly-go-wrong-preview-and-3-questions-for-the-governor/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "a116fd33d26a",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-15T20:18:39Z",
@@ -106,11 +120,11 @@
 "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-october-16-2026-federal-reserve-chair-warsh-speaking/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "77db663a3432",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-15T16:47:03Z",
