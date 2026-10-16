@@ -1,0 +1,83 @@
+== 200 https://nfs.faireconomy.media/ff_calendar_thisweek.json bytes=14762
+   n=111 keys=['title', 'country', 'date', 'impact', 'forecast', 'previous']
+   {"title": "ECB President Lagarde Speaks", "country": "EUR", "date": "2026-10-13T22:10:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "BOE Gov Bailey Speaks", "country": "GBP", "date": "2026-10-14T01:30:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "BOC Gov Macklem Speaks", "country": "CAD", "date": "2026-10-14T02:05:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "ECB President Lagarde Speaks", "country": "EUR", "date": "2026-10-14T04:30:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "EU Economic Summit", "country": "EUR", "date": "2026-10-14T06:15:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "Core CPI m/m", "country": "USD", "date": "2026-10-14T08:30:00-04:00", "impact": "High", "forecast": "0.2%", "previous": "0.3%"}
+   {"title": "Core CPI y/y", "country": "USD", "date": "2026-10-14T08:30:00-04:00", "impact": "High", "forecast": "2.5%", "previous": "2.4%"}
+   {"title": "CPI m/m", "country": "USD", "date": "2026-10-14T08:30:00-04:00", "impact": "High", "forecast": "0.6%", "previous": "0.4%"}
+   {"title": "CPI y/y", "country": "USD", "date": "2026-10-14T08:30:00-04:00", "impact": "High", "forecast": "3.6%", "previous": "3.4%"}
+   {"title": "SNB Chairman Schlegel Speaks", "country": "CHF", "date": "2026-10-15T00:30:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "GDP m/m", "country": "GBP", "date": "2026-10-15T02:00:00-04:00", "impact": "High", "forecast": "-0.1%", "previous": "0.4%"}
+   {"title": "BOE Gov Bailey Speaks", "country": "GBP", "date": "2026-10-15T03:30:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "EU Economic Summit", "country": "EUR", "date": "2026-10-15T06:15:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "Core PPI m/m", "country": "USD", "date": "2026-10-15T08:30:00-04:00", "impact": "High", "forecast": "0.3%", "previous": "0.2%"}
+   {"title": "Core Retail Sales m/m", "country": "USD", "date": "2026-10-15T08:30:00-04:00", "impact": "High", "forecast": "0.6%", "previous": "1.4%"}
+   {"title": "PPI m/m", "country": "USD", "date": "2026-10-15T08:30:00-04:00", "impact": "High", "forecast": "0.6%", "previous": "0.4%"}
+   {"title": "Retail Sales m/m", "country": "USD", "date": "2026-10-15T08:30:00-04:00", "impact": "High", "forecast": "0.3%", "previous": "1.2%"}
+   {"title": "Philly Fed Manufacturing Index", "country": "USD", "date": "2026-10-15T08:30:00-04:00", "impact": "Medium", "forecast": "28.2", "previous": "37.8"}
+   {"title": "Unemployment Claims", "country": "USD", "date": "2026-10-15T08:30:00-04:00", "impact": "Medium", "forecast": "199K", "previous": "197K"}
+   {"title": "BOE Gov Bailey Speaks", "country": "GBP", "date": "2026-10-15T22:00:00-04:00", "impact": "High", "forecast": "", "previous": ""}
+   {"title": "Fed Chairman Warsh Speaks", "country": "USD", "date": "2026-10-15T23:30:00-04:00", "impact": "High", "forecast": "", "previous": ""}
+   {"title": "BOC Gov Macklem Speaks", "country": "CAD", "date": "2026-10-16T00:15:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+   {"title": "BOE Gov Bailey Speaks", "country": "GBP", "date": "2026-10-17T02:45:00-04:00", "impact": "Medium", "forecast": "", "previous": ""}
+== 404 https://nfs.faireconomy.media/ff_calendar_nextweek.json bytes=548
+   <html> <head><title>404 Not Found</title></head> <body> <center><h1>404 Not Found</h1></center> <hr><center>nginx</center> </body> </html> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> 
+== 404 https://nfs.faireconomy.media/ff_calendar_lastweek.json bytes=548
+   <html> <head><title>404 Not Found</title></head> <body> <center><h1>404 Not Found</h1></center> <hr><center>nginx</center> </body> </html> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding to disable MSIE and Chrome friendly error page --> 
+== 200 https://nfs.faireconomy.media/ff_calendar_thisweek.xml bytes=37574
+   <?xml version="1.0" encoding="windows-1252"?> <weeklyevents> 	<event> 		<title>Bank Holiday</title> 		<country>JPY</country> 		<date><![CDATA[10-11-2026]]></date> 		<time><![CDATA[11:00pm]]></time> 		<impact><![CDATA[Holiday]]></impact> 		<forecast /> 		<previous /> 		<url><![CDATA[https://www.forexfactory.com/calendar/393-jn-bank-holiday]]></url> 	</event> 	<event> 		<title>MPC Member Breeden Speaks</title> 		<country>GBP</country> 		<date><![CDATA[10-12-2026]]></date> 		<time><![CDATA[9:30am]]></time> 		<impact><![CDATA[Low]]></impact> 		<forecast /> 		<previous /> 		<url><![CDATA[https://ww
+== 200 https://calendar-api.fxstreet.com/en/api/v1/eventDates/2026-10-12T00:00:00Z/2026-10-17T00: bytes=5208  [{"id":"cbe30686-e724-42b1-b883-36bd8925fe5a","eventId":"c28721ec-1bde-4fa5-bba7-86a3755288ca","dateUtc":"2026-10-14T12:30:00Z","periodDateUtc":"2026-09-01T00:00:00Z","periodType":"MONTH","actual":0.600,"revised":null,"consensus":0.600,"ratioDeviation":0.00000,"previous":0.400,"isBetterThanExpected":null,"name":"Consumer Price Index (MoM)","countryCode":"US","currencyCode":"USD","unit":"%","potency":null,"volatility":"HIGH","isAllDay":false,"isTentative":false,"isPreliminary":false,"isReport":false,"isSpeech":false,"lastUpdated":1791981011,"previousIsPreliminary":false,"categoryId":"33303f5e-1e3c-4016-ab2d-ac87e98f57ca","hasHistorical":true},{"id":"1e25f809-a3a8-4256-a9f1-de86b4f61f4a","eventId":"6f846eaa-9a12-43ab-930d-f059069c6646","dateUtc":"2026-10-14T12:30:00Z","periodDateUtc":"2026-09-01T00:00:00Z","periodType":"MONTH","actual":3.700,"revised":null,"consensus":3.600,"ratioDeviation":0.74000,"previous":3.400,"isBetterThanExpected":true,"name":"Consumer Price Index (YoY)","countryCode":"US","currencyCode":"USD","unit":"%","potency":null,"volatility":"HIGH","isAllDay":false,"isTentative":false,"isPreliminary":false,"isReport":false,"isSpeech":false,"lastUpdated":1791981010,"previousIsPreliminary":false,"categoryId":"33303f5e-1e3c-4016-ab2d-ac87e98f57ca","hasHistorical":true},{"id":"cfaffea7-7471-4647-926d-581b3eecb400","eventId":"4abee304-9984-47cf-80ab-dca1114165f5","dateUtc":"2026-10-14T12:30:00Z","periodDateUtc":"2026-09-01T00:00:00Z","periodType":"MONTH","actual":0.300
+== 401 https://www.marketwatch.com/economy-politics/calendar bytes=775  <html lang="en"><head><title>marketwatch.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script data-cfasync="false">var dd={'rt':'c','cid':'AHrlqAAAAAMAUltVMrMy3hUAFA-jZg==','hsh':'D428D51E28968797BC27FB9153435D','t':'fe','qp':'','s':47891,'e':'a1845b0b696ae3aaf824275dde6372492d236431a7b09a5ca49e0ae61c1fd6bead0d044707550a245294a556c6020651','host':'geo.captcha-delivery.com','cookie':'Zx5I9q0Fh0vk9b1GfXXl4ajxMTFyEWOH99l57IEwhCr54otBoydH1hD6gDV66SrRdf395EgEnzuepJqdmLBq0a1SQmwbWE~f9JkQQxrr1Ptr~LyX55OM~qGUh7NsJK_B'}</script><script data-cfasync="false" src="https://ct.captcha-delivery.com/c.js"></script></body></html>
+== 200 https://economic-calendar.tradingview.com/events?from=2026-10-12T00:00:00.000Z&to=2026-10- bytes=161949  {
+    "status": "ok",
+    "result": [
+        {
+            "id": "416492",
+            "title": "Columbus Day",
+            "country": "US",
+            "indicator": "Holidays",
+            "category": "gov",
+            "period": "",
+            "referenceDate": null,
+            "source": "",
+            "source_url": "",
+            "actual": null,
+            "previous": null,
+            "forecast": null,
+            "actualRaw": null,
+            "previousRaw": null,
+            "forecastRaw": null,
+            "currency": "USD",
+            "importance": -1,
+            "date": "2026-10-12T00:00:00.000Z"
+        },
+        {
+            "id": "416485",
+            "title": "Thanksgiving Day",
+            "country": "CA",
+            "indicator": "Holidays",
+            "category": "gov",
+            "period": "",
+            "referenceDate": null,
+            "source": "",
+            "source_url": "",
+            "actual": null,
+            "previous": null,
+            "forecast": null,
+            "actualRaw": null,
+            "previousRaw": null,
+            "forecastRaw": null,
+            "currency": "CAD",
+            "importance": -1,
+            "date": "2026-10-12T00:00:00.000Z"
+        },
+        {
+            "id": "421552",
+            "title": "BoE Breeden Speech",
+            "country": "GB",
+            "indicator": "Interest Rate",
+            "ticker": "ECONOMICS:GBINTR",
+            "comment": "In the United Kingdom, benchmark interest rate is set 
