@@ -28,11 +28,11 @@ for name, item in URLS.items():
     data = None if isinstance(item, str) else item.get("data")
     st, body = get(url, data)
     links = sorted({urljoin(url, h) for h in re.findall(r'href=["\']([^"\'#]+)', body)
-                    if KEY.search(h)})[:150]
+                    })[:2000]
     with open(f"probe/{name}.txt", "w") as f:
         f.write(f"URL {url}\nSTATUS {st}\nBYTES {len(body)}\n\n--- LINKS ---\n")
         f.write("\n".join(links))
-        f.write("\n\n--- BODY (first 60k) ---\n" + body[:60000])
+        f.write("\n\n--- BODY  ---\n" + body[:3000000])
     oi = len(re.findall(r"open.?interest", body, re.I))
     summary.append(f"{name:28s} {st:40s} {len(body):>8d} bytes  'open interest' x{oi}")
     time.sleep(2)
