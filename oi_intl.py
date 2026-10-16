@@ -95,7 +95,7 @@ def eurex_day(p, ymd):
         if not oi and not vol:
             continue
         st = num(r.get("dSettle"))
-        rows.append([label(int(ds[:4]), int(ds[4:6])), st or None,
+        rows.append([label(int(ds[:4]), int(ds[4:6])), round(st, 6) if st else None,
                      int(vol or 0), int(oi or 0), ds])
     rows.sort(key=lambda r: r[4])
     dates = []
