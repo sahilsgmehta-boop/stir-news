@@ -1,5 +1,0 @@
-eurex_detail                 200 application/json;charset=UTF-8            114 bytes  'open interest' x0
-ms_v1                        200 text/html;charset=UTF-8                161796 bytes  'open interest' x50
-ms_v3                        200 text/html;charset=UTF-8                132967 bytes  'open interest' x0
-ms_v4                        200 text/html;charset=UTF-8                132967 bytes  'open interest' x0
-ms_v2                        200 text/html;charset=UTF-8                143203 bytes  'open interest' x0
