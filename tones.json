@@ -210,6 +210,62 @@
    "read": "Model nowcast, not a remark; firm 3.6% growth tilts slightly against near-term easing.",
    "at": "2026-10-15T20:48:38Z",
    "by": "claude"
+  },
+  "050ab98e3f1a": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Subdued second-round effects and 'too early to judge' undercut urgency for further BoE hikes.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
+  },
+  "6c166c8c8d67": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
+  },
+  "c945143e28ea": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Questioning whether policy is tight enough signals appetite for more Fed hikes.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
+  },
+  "2179d7367ebd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
+  },
+  "0dfb8ccfee09": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
+  },
+  "2562936d2f70": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
+  },
+  "a116fd33d26a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
+  },
+  "77db663a3432": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-16T06:49:43Z",
+   "by": "claude"
   }
  }
 }
