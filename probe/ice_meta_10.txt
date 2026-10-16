@@ -1,0 +1,17 @@
+URL https://www.ice.com/marketdata/api/reports/metadata/10
+STATUS 200 application/json
+BYTES 242
+
+--- LINKS ---
+
+
+--- BODY  ---
+{
+  "id" : 10,
+  "name" : "End of Day Report - ICE Futures Europe - Futures",
+  "reportTemplateURL" : "/report/10",
+  "exchange" : "ICE Futures Europe",
+  "categoryName" : "End of Day Report",
+  "active" : true,
+  "recaptchaRequired" : true
+}

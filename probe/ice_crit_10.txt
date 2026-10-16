@@ -1,0 +1,9 @@
+URL https://www.ice.com/marketdata/api/reports/10/criteria
+STATUS 409 text/html;charset=UTF-8
+BYTES 274
+
+--- LINKS ---
+
+
+--- BODY  ---
+<html><body><h1>Whitelabel Error Page</h1><p>This application has no explicit mapping for /error, so you are seeing this as a fallback.</p><div id='created'>Fri Oct 16 09:47:03 EDT 2026</div><div>There was an unexpected error (type=Conflict, status=409).</div></body></html>
