@@ -289,9 +289,10 @@ def main():
             kind = s.get("kind", "price")
             inv = s.get("invert", False)
             items = [row(n, sym, kind, inv) for n, sym in s["items"]]
-            if s.get("proxy"):
-                head = row(s["name"], s["proxy"], kind, inv)
-                head["proxy"] = next((n for n, sym in s["items"] if sym == s["proxy"]), s["proxy"])
+            proxy = s.get("proxy") or (s["items"][0][1] if len(s["items"]) == 1 else None)
+            if proxy:
+                head = row(s["name"], proxy, kind, inv)
+                head["proxy"] = next((n for n, sym in s["items"] if sym == proxy), proxy)
             else:
                 avg = {}
                 for h in HORIZONS:
