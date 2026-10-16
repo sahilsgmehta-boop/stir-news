@@ -639,7 +639,7 @@ def issuance(hist, ann, ms, soma, today, mspd_date=None):
         net = r["bills"] - r["bills_mat"] + r["cpn"] - r["cpn_mat"] - r["interest"]
         rows.append([day, round((r["bills"] - r["bills_mat"]) / 1e9, 2),
                      round((r["cpn"] - r["cpn_mat"]) / 1e9, 2), round(-r["interest"] / 1e9, 2),
-                     round(net / 1e9, 2), r["status"][0].upper(),
+                     round(net / 1e9, 2), {"actual": "A", "announced": "N"}.get(r["status"], "P"),
                      round(r["bills"] / 1e9, 1), round(r["bills_mat"] / 1e9, 1),
                      round(r["cpn"] / 1e9, 1), round(r["cpn_mat"] / 1e9, 1)])
     return {"cols": ["date", "bills_net", "coupons_net", "interest", "net", "status",
