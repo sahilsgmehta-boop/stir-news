@@ -1,5 +1,5 @@
 {
- "built": "2026-10-16T01:35:18Z",
+ "built": "2026-10-16T02:08:24Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 16,
-   "added": 0,
+   "kept": 17,
+   "added": 1,
    "error": ""
   },
   {
@@ -27,10 +27,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Goldman: Warsh\u2019s quieter Fed: why less guidance could mean more market volatility",
     "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?",
     "Preview: Nagel and Klingbeil in Bangkok: three themes as the ECB weighs a December hike",
     "BOE, Bailey, Bangkok. What could possibly go wrong? Preview and 3 questions for the Governor",
