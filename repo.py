@@ -45,6 +45,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 HISTORY_DAYS = 400          # a little over a year on the charts
 AHEAD_DAYS = 125           # issuance projection: three full calendar months ahead
 MIN_GAP_HOURS = 3           # the data change daily; no need every 30 minutes
+VERSION = 3                 # bump when the output changes: forces a run past the gap
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -670,7 +671,8 @@ def main():
         store = {}
     if not ("--force" in args or MODE["dump"] or MODE["cache"]):
         last = store.get("built")
-        if last and (now - datetime.fromisoformat(last.replace("Z", "+00:00"))) < timedelta(hours=MIN_GAP_HOURS):
+        if (last and store.get("version") == VERSION and
+                (now - datetime.fromisoformat(last.replace("Z", "+00:00"))) < timedelta(hours=MIN_GAP_HOURS)):
             print("repo: ran within the last", MIN_GAP_HOURS, "hours, skipping")
             return
     start = d2s(today - timedelta(days=HISTORY_DAYS))
@@ -751,6 +753,7 @@ def main():
               "supply_wed": [store["h41"][w].get("supply_wed") for w in weeks]}
     built = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     store["built"] = built
+    store["version"] = VERSION
     payload = {"built": built, "daily": {"dates": days, **cols}, "weekly": weekly,
                "gdp": g, "issuance": iss, "health": health}
     if not MODE["cache"]:
