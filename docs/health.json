@@ -1,5 +1,5 @@
 {
- "built": "2026-10-16T12:44:43Z",
+ "built": "2026-10-16T13:44:13Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 18,
+   "kept": 16,
    "added": 0,
    "error": ""
   },
@@ -31,8 +31,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Dow Jones futures analysis: Fed risks and key levels for October 16",
-    "Goldman: Warsh\u2019s quieter Fed: why less guidance could mean more market volatility"
+    "Dow Jones futures analysis: Fed risks and key levels for October 16"
    ]
   },
   {
