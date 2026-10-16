@@ -38,6 +38,11 @@ jobs:
       - name: Open interest
         run: python oi.py
 
+      # Eurex (Bund, Bobl, Schatz, Buxl, OAT, BTP, 3M ESTR) and Montreal
+      # (3M CORRA) open interest. Never fails the run.
+      - name: Open interest (non-US)
+        run: python oi_intl.py
+
       # G10 currencies for the dashboard. The Twelve Data key is a repository
       # SECRET (Settings > Secrets and variables > Actions > TWELVE_DATA_KEY);
       # it is never in the code or the output. Without it the page still works
