@@ -1,5 +1,5 @@
 name: probe
-# Temporary test run for non-US open interest sources. Manual only.
+# Temporary: saves the Repo page's raw downloads for testing. Manual only.
 on:
   workflow_dispatch: {}
 permissions:
@@ -10,10 +10,10 @@ concurrency:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - run: python3 probe.py
+      - run: REPO_H41_MAX=3 python3 repo.py --dump probe/raw --force | tee probe/SUMMARY.txt
       - run: |
           git config user.name  "stir-news-bot"
           git config user.email "stir-news-bot@users.noreply.github.com"

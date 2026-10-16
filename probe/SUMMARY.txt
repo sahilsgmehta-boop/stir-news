@@ -1,7 +1,0 @@
-fred_iorb                    000 curl-error curl: (28) Operation timed out after 60000 milliseconds with 0 bytes received        0 bytes  'open interest' x0
-fred_gdp                     000 curl-error curl: (28) Operation timed out after 60002 milliseconds with 0 bytes received        0 bytes  'open interest' x0
-nyf_repo_600                 200 application/json;charset=utf-8         497042 bytes  'open interest' x0
-nyf_rrp_year                 200 application/json;charset=utf-8         260779 bytes  'open interest' x0
-nyf_sofr_year                200 application/json;charset=utf-8          66658 bytes  'open interest' x0
-ofr_gcf                      200 application/json                         6103 bytes  'open interest' x0
-ofr_gcf_f                    200 application/json                            2 bytes  'open interest' x0

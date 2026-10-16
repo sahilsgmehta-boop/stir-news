@@ -1,8 +1,0 @@
-URL https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDP&cosd=2024-01-01
-STATUS 000 curl-error curl: (28) Operation timed out after 60002 milliseconds with 0 bytes received
-BYTES 0
-
---- LINKS ---
-
-
---- BODY  ---
