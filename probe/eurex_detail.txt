@@ -1,0 +1,9 @@
+URL https://www.eurex.com/api/v1/overallstatistics/34656?filtertype=detail&productdate=20261208&busdate=20261015&contracttype=M
+STATUS 200 application/json;charset=UTF-8
+BYTES 114
+
+--- LINKS ---
+
+
+--- BODY  ---
+{"meta":{"productCode":"FGBL","isin":"DE0009652644","productType":"F"},"header":{"date":null,"contractType":null}}
