@@ -1,10 +1,12 @@
 {
- "ice_report_10": "https://www.ice.com/report/10",
- "mx_cra_quotes": "https://www.m-x.ca/en/trading/data/quotes?symbol=CRA*",
- "mx_historical": "https://www.m-x.ca/en/trading/data/historical?symbol=CRA",
- "mx_hist_dl": "https://www.m-x.ca/en/trading/data/historical?symbol=CRAZ26&fwd=1&dnld=1#quotes",
- "mx_monthly_oi": "https://www.m-x.ca/en/trading/data/monthly-volumes-and-open-interest",
- "eurex_mon": "https://www.eurex.com/ex-en/markets/int/mon",
- "eurex_fix": "https://www.eurex.com/ex-en/markets/int/fix",
- "eurex_stats": "https://www.eurex.com/ex-en/data/statistics"
+ "eurex_euribor": "https://www.eurex.com/ex-en/markets/int/mon/euribor-derivatives/euribor/Three-Month-EURIBOR-Futures-137458",
+ "eurex_estr": "https://www.eurex.com/ex-en/markets/int/mon/3m-euro-str-futures/estr/Three-Month-Euro-STR-Futures-3402480",
+ "eurex_bund": "https://www.eurex.com/ex-en/markets/int/long-term-interest-rates/fix/government-bonds/Euro-Bund-Futures-137298",
+ "eurex_lt": "https://www.eurex.com/ex-en/markets/int/long-term-interest-rates",
+ "eurex_msonline": "https://www.eurex.com/ex-en/data/statistics/market-statistics-online",
+ "ice_report_114": "https://www.ice.com/report/114",
+ "ice_euribor_data": "https://www.ice.com/products/38527986/Three-Month-Euribor-Futures/data",
+ "ice_hydrate": "https://static.ice.com/cms/41.10.18/hydrate.js",
+ "mx_hist_dl2": "https://www.m-x.ca/en/trading/data/historical?symbol=CRAZ26&fwd=1&dnld=1&from=2026-09-15&to=2026-10-15#quotes",
+ "mx_cgb_quotes": "https://www.m-x.ca/en/trading/data/quotes?symbol=CGB*"
 }
