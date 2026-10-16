@@ -152,6 +152,16 @@ def main():
     except (OSError, ValueError):
         store = {}
 
+    # The job runs every 15 minutes, but the free Twelve Data plan allows 800
+    # credits a day and each refresh costs 9, so currencies refresh at most
+    # every 25 minutes (about 450 credits a day, even if every run happens).
+    last = store.get("built")
+    if last:
+        age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(last.replace("Z", "+00:00"))
+        if age < dt.timedelta(minutes=25):
+            print(f"fx: refreshed {int(age.total_seconds() // 60)} minutes ago, skipping")
+            return
+
     today = dt.datetime.now(dt.timezone.utc).date()
     status = {}
 

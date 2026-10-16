@@ -1,10 +1,12 @@
 name: collect
 
-# Every 30 minutes. GitHub can start scheduled runs a few minutes late under
-# load, which is well inside the two-hour tolerance this feed was built for.
+# Every 15 minutes. GitHub starts scheduled runs late under load and sometimes
+# skips one altogether, so the schedule is denser than the data needs: a
+# skipped run costs 15 minutes, not an hour. Steps that have limits pace
+# themselves (currencies at most every 25 minutes, repo twice a day).
 on:
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}        # the "Run workflow" button, for testing
 
 permissions:
