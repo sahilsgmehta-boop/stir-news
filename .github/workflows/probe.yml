@@ -1,0 +1,22 @@
+name: probe
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: collect
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 cal_check.py
+      - run: |
+          git config user.name  "stir-news-bot"
+          git config user.email "stir-news-bot@users.noreply.github.com"
+          git add probe
+          git commit -m "probe $(date -u +%H:%MZ)" || exit 0
+          git pull --rebase origin main
+          git push
