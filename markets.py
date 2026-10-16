@@ -27,7 +27,7 @@ OUT = os.path.join(HERE, "docs", "markets.js")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
 HORIZONS = ["1D", "1W", "MTD", "1M", "3M", "6M", "YTD", "1Y", "3Y", "5Y"]
-KEEP_DAYS = 5 * 366 + 20
+KEEP_DAYS = 5 * 366 + 45
 health = {"errors": [], "requests": 0}
 MODE = {"dump": None, "cache": None}
 
@@ -76,6 +76,11 @@ def yahoo(sym, rng):
     off = int(r["meta"].get("gmtoffset") or 0)
     ts = r.get("timestamp") or []
     cl = (r["indicators"]["quote"][0].get("close") or [])
+    # funds: the dividend-adjusted close, so bond and commodity funds count
+    # their payouts (for futures and indices it equals the close)
+    adj = ((r["indicators"].get("adjclose") or [{}])[0].get("adjclose") or [])
+    if len(adj) == len(cl) and any(a is not None for a in adj):
+        cl = [a if a is not None else c for a, c in zip(adj, cl)]
     out = {}
     for t, c in zip(ts, cl):
         if c is None:
@@ -231,7 +236,8 @@ def main():
         if sym.startswith("cnbc:"):
             continue
         try:
-            got, info = yahoo(sym, "5y" if full or sym not in hist else "5d")
+            # "5y" starts a couple of days short of five years, so ask for ten
+            got, info = yahoo(sym, "10y" if full or sym not in hist else "5d")
             h = hist.setdefault(sym, {})
             h.update(got)
             meta[sym] = info
