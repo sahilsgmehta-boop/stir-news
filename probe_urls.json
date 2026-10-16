@@ -1,12 +1,8 @@
 {
- "eurex_euribor": "https://www.eurex.com/ex-en/markets/int/mon/euribor-derivatives/euribor/Three-Month-EURIBOR-Futures-137458",
- "eurex_estr": "https://www.eurex.com/ex-en/markets/int/mon/3m-euro-str-futures/estr/Three-Month-Euro-STR-Futures-3402480",
- "eurex_bund": "https://www.eurex.com/ex-en/markets/int/long-term-interest-rates/fix/government-bonds/Euro-Bund-Futures-137298",
- "eurex_lt": "https://www.eurex.com/ex-en/markets/int/long-term-interest-rates",
- "eurex_msonline": "https://www.eurex.com/ex-en/data/statistics/market-statistics-online",
- "ice_report_114": "https://www.ice.com/report/114",
- "ice_euribor_data": "https://www.ice.com/products/38527986/Three-Month-Euribor-Futures/data",
- "ice_hydrate": "https://static.ice.com/cms/41.10.18/hydrate.js",
- "mx_hist_dl2": "https://www.m-x.ca/en/trading/data/historical?symbol=CRAZ26&fwd=1&dnld=1&from=2026-09-15&to=2026-10-15#quotes",
- "mx_cgb_quotes": "https://www.m-x.ca/en/trading/data/quotes?symbol=CGB*"
+ "ice_main_js": "https://static.ice.com/cms/41.10.18/chunks/__generated__/components/main-DPdnDY7I.js",
+ "ice_delayed": {"url": "https://www.ice.com/marketdata/DelayedMarkets.shtml?getContractsAsJson=&productId=15275&hubId=17455", "headers": ["Referer: https://www.ice.com/products/38527986/Three-Month-Euribor-Futures/data", "X-Requested-With: XMLHttpRequest"]},
+ "ice_chart_cd": {"url": "https://www.ice.com/marketdata/api/productguide/charting/contract-data?productId=15275&hubId=17455", "headers": ["Referer: https://www.ice.com/products/38527986/Three-Month-Euribor-Futures/data"]},
+ "ice_report_26": "https://www.ice.com/report/26",
+ "eurex_ps_js": "https://www.eurex.com/resource/themes/eurex-facelift/js/prices-statistics-3466696-65.js",
+ "mx_historical": "https://www.m-x.ca/en/trading/data/historical?symbol=CRA"
 }

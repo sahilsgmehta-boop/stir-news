@@ -10,13 +10,15 @@ URLS = json.load(open("probe_urls.json"))
 os.makedirs("probe", exist_ok=True)
 KEY = re.compile(r"open.?interest|statistic|report|csv|xls|download|volume|settle", re.I)
 
-def get(url, data=None):
+def get(url, data=None, HDRS=()):
     cmd = ["curl", "-sS", "-L", "-m", "40", "--compressed", "-A", UA,
            "-H", "Accept: text/html,application/json,*/*;q=0.8",
            "-H", "Accept-Language: en-GB,en;q=0.9",
            "-w", "\n@@STATUS %{http_code} %{content_type}", url]
     if data:
         cmd[1:1] = ["--data", data]
+    for h in HDRS:
+        cmd[1:1] = ["-H", h]
     p = subprocess.run(cmd, capture_output=True)
     out = p.stdout.decode("utf-8", "replace")
     body, _, st = out.rpartition("\n@@STATUS ")
@@ -26,7 +28,8 @@ summary = []
 for name, item in URLS.items():
     url = item if isinstance(item, str) else item["url"]
     data = None if isinstance(item, str) else item.get("data")
-    st, body = get(url, data)
+    hd = () if isinstance(item, str) else item.get("headers", ())
+    st, body = get(url, data, hd)
     links = sorted({urljoin(url, h) for h in re.findall(r'href=["\']([^"\'#]+)', body)
                     })[:2000]
     with open(f"probe/{name}.txt", "w") as f:

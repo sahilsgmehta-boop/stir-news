@@ -1,9 +1,0 @@
-URL https://www.m-x.ca/en/trading/data/historical?symbol=CRAZ26&fwd=1&dnld=1&from=2026-09-15&to=2026-10-15#quotes
-STATUS 200 text/csv;charset=UTF-8
-BYTES 401
-
---- LINKS ---
-
-
---- BODY  ---
-"Date","Symbol","Class Symbol","Root Symbol","Underlying Symbol","Strike Price","Expiry Date","Call/Put","Ins. Type","Bid Price","Ask Price","Bid Size","Ask Size","Last Price","Volume","Last Close Price","Net Change","Open Price","High Price","Low Price","Total Value","Nb. Trades","Settlement Price","Open Interest","Implied Volatility","Accrued Financing Value","Accrued Financing Date","CORRA Rate"
