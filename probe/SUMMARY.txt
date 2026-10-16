@@ -1,6 +1,0 @@
-ice_main_js                  200 application/x-javascript               134336 bytes  'open interest' x0
-ice_delayed                  403 text/html; charset=UTF-8                 4542 bytes  'open interest' x0
-ice_chart_cd                 200 application/json                         5063 bytes  'open interest' x0
-ice_report_26                200 text/html; charset=utf-8               110270 bytes  'open interest' x7
-eurex_ps_js                  200 text/javascript;charset=UTF-8          601178 bytes  'open interest' x22
-mx_historical                200 text/html; charset=UTF-8               117166 bytes  'open interest' x35

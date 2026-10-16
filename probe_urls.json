@@ -1,8 +1,8 @@
 {
- "ice_main_js": "https://static.ice.com/cms/41.10.18/chunks/__generated__/components/main-DPdnDY7I.js",
- "ice_delayed": {"url": "https://www.ice.com/marketdata/DelayedMarkets.shtml?getContractsAsJson=&productId=15275&hubId=17455", "headers": ["Referer: https://www.ice.com/products/38527986/Three-Month-Euribor-Futures/data", "X-Requested-With: XMLHttpRequest"]},
- "ice_chart_cd": {"url": "https://www.ice.com/marketdata/api/productguide/charting/contract-data?productId=15275&hubId=17455", "headers": ["Referer: https://www.ice.com/products/38527986/Three-Month-Euribor-Futures/data"]},
- "ice_report_26": "https://www.ice.com/report/26",
- "eurex_ps_js": "https://www.eurex.com/resource/themes/eurex-facelift/js/prices-statistics-3466696-65.js",
- "mx_historical": "https://www.m-x.ca/en/trading/data/historical?symbol=CRA"
+ "eurex_api_bund": "https://www.eurex.com/api/v1/overallstatistics/34656?busdate=20261015&filtertype=overview",
+ "eurex_api_estr": "https://www.eurex.com/api/v1/overallstatistics/3402482?busdate=20261015&filtertype=overview",
+ "ice_rc_main": "https://static.ice.com/cms/41.10.18/chunks/cms-components/ice-report-center/Main-Drn7Y03K.js",
+ "ice_report_main": "https://static.ice.com/cms/41.10.18/chunks/cms-components/report/Main-bjpvGmm9.js",
+ "ice_rc_const": "https://static.ice.com/cms/41.10.18/chunks/shared/apis/wmd/ice-report-center/utils/constants-BwRcF6-a.js",
+ "ice_rc_meta": "https://static.ice.com/cms/41.10.18/chunks/shared/apis/wmd/ice-report-center/useMeta-pmckbE5G.js"
 }
