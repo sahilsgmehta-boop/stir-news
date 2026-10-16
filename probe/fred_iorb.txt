@@ -1,0 +1,8 @@
+URL https://fred.stlouisfed.org/graph/fredgraph.csv?id=IORB,RRPONTSYAWARD,WRESBAL,WALCL,WTREGEN&cosd=2025-09-01
+STATUS 000 curl-error curl: (28) Operation timed out after 60000 milliseconds with 0 bytes received
+BYTES 0
+
+--- LINKS ---
+
+
+--- BODY  ---

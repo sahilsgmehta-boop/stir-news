@@ -1,0 +1,9 @@
+URL https://data.financialresearch.gov/v1/series/timeseries?mnemonic=REPO-GCF_AR_T-F&start_date=2026-09-01
+STATUS 200 application/json
+BYTES 2
+
+--- LINKS ---
+
+
+--- BODY  ---
+[]
