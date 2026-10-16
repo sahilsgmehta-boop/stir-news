@@ -1,0 +1,13 @@
+fred_iorb                    000 curl-error curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)        0 bytes  'open interest' x0
+fred_txt                     000 curl-error curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)        0 bytes  'open interest' x0
+h41_current                  200 text/html                              703919 bytes  'open interest' x0
+h41_dated                    200 text/html                              703919 bytes  'open interest' x0
+ddp_h41                      200 text/html; charset=utf-8                88881 bytes  'open interest' x0
+ddp_prates                   200 text/html; charset=utf-8                84420 bytes  'open interest' x0
+dbn_gdp                      200 application/json                        13069 bytes  'open interest' x0
+dbn_search                   200 application/json                          518 bytes  'open interest' x0
+nyf_rrp_res                  200 application/json;charset=utf-8           1998 bytes  'open interest' x0
+nyf_repo_last                200 application/json;charset=utf-8           3862 bytes  'open interest' x0
+nyf_repo_search              400 application/json;charset=utf-8              0 bytes  'open interest' x0
+nyf_soma_tsy                 200 application/json;charset=utf-8         136953 bytes  'open interest' x0
+fd_mspd                      200 application/json                         4716 bytes  'open interest' x0

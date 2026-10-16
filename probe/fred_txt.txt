@@ -1,0 +1,8 @@
+URL https://fred.stlouisfed.org/data/WRESBAL.txt
+STATUS 000 curl-error curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)
+BYTES 0
+
+--- LINKS ---
+
+
+--- BODY  ---
