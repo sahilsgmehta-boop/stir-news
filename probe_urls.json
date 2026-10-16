@@ -1,0 +1,16 @@
+{
+ "ice_report_center": "https://www.ice.com/report-center",
+ "ice_report_10": "https://www.ice.com/report/10",
+ "ice_euribor_product": "https://www.ice.com/products/38527986/Three-Month-Euribor-Futures",
+ "ice_euribor_data": "https://www.ice.com/products/38527986/Three-Month-Euribor-Futures/data",
+ "ice_delayed_euribor": "https://www.ice.com/marketdata/DelayedMarkets.shtml?getContractsAsJson=&productId=1386&hubId=2183",
+ "ice_volume_oi": "https://www.ice.com/marketdata/reports/volume-and-oi",
+ "eurex_bund": "https://www.eurex.com/ex-en/markets/int/fix/government-bonds/Euro-Bund-Futures-137298",
+ "eurex_ir_list": "https://www.eurex.com/ex-en/markets/int",
+ "eurex_mon": "https://www.eurex.com/ex-en/markets/int/mon",
+ "eurex_stats": "https://www.eurex.com/ex-en/data/statistics",
+ "mx_stats": "https://www.m-x.ca/en/trading/data/statistics",
+ "mx_cra_quotes": "https://www.m-x.ca/en/trading/data/quotes?symbol=CRA*",
+ "mx_old_quotes": "https://www.m-x.ca/nego_cotes_en.php?symbol=CRA*",
+ "mx_historical": "https://www.m-x.ca/en/trading/data/historical?symbol=CRA"
+}
