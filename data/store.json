@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-17T05:00:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Christine Lagarde: IMFC Statement",
+"url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+"src": "ECB press, speeches, interviews",
+"tier": "official",
+"tone": "",
+"also": [],
+"id": "e545c030814a",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-16T07:07:00Z",
 "bank": "Fed",
 "speaker": "Warsh",
