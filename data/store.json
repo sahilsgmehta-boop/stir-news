@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-17T11:00:00Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Fed interest-rate decision this month is a closer call than markets think",
+"url": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+"src": "MarketWatch",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "ec1f237ae9e9",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-17T05:00:00Z",
 "bank": "ECB",
 "speaker": "Lagarde",
