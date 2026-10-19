@@ -2,7 +2,8 @@
 Positioning page: SOFR, fed funds and Treasury futures, about three years of
 weekly reports from the CFTC's free public API (publicreporting.cftc.gov).
 Refreshed at most every 6 hours (the report comes out on Friday afternoons
-ET, for the Tuesday before). Never fails the run.
+ET, for the Tuesday before). Never fails the run. Checked against the
+InTouch weekly report for 13 Oct 2026: positions and DV01 totals match.
 """
 import json, os, subprocess, sys, time, urllib.parse
 from datetime import datetime, timedelta, timezone
