@@ -68,8 +68,18 @@ def main():
 
 
 if __name__ == "__main__":
+    import io, contextlib, traceback
+    buf = io.StringIO()
     try:
-        main()
-    except Exception as e:  # noqa: BLE001
-        import traceback; traceback.print_exc()
+        with contextlib.redirect_stdout(buf):
+            main()
+    except Exception:  # noqa: BLE001
+        buf.write(traceback.format_exc())
+    print(buf.getvalue())
+    # a short status note next to the output, so a failure can be seen without the run log
+    try:
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "cftc_status.txt"), "w") as f:
+            f.write(datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ ") + buf.getvalue()[-1500:])
+    except Exception:  # noqa: BLE001
+        pass
     sys.exit(0)
