@@ -293,11 +293,14 @@ def main():
     # official curves, refetched in full once a day
     off = store.setdefault("official", {})
     start = (now.date() - timedelta(days=KEEP_DAYS)).isoformat()
-    for c, fn in (("DE", lambda: off_bundesbank(start if full else (now.date() - timedelta(days=20)).isoformat())),
-                  ("CA", lambda: off_boc(start if full else (now.date() - timedelta(days=20)).isoformat())),
-                  ("JP", lambda: off_mof(full)),
-                  ("UK", lambda: off_boe(not store.get("boe_archive")))):
-        if not full and c in off and store.get("off_hour", {}).get(c) == now.strftime("%Y-%m-%dT%H"):
+    recent = (now.date() - timedelta(days=20)).isoformat()
+    # a country with no stored history gets the full fetch whatever the run
+    deep = lambda c: full or len(((off.get(c) or {}).get("10Y")) or {}) < 200
+    for c, fn in (("DE", lambda: off_bundesbank(start if deep("DE") else recent)),
+                  ("CA", lambda: off_boc(start if deep("CA") else recent)),
+                  ("JP", lambda: off_mof(deep("JP"))),
+                  ("UK", lambda: off_boe(not store.get("boe_archive") or deep("UK")))):
+        if not deep(c) and store.get("off_hour", {}).get(c) == now.strftime("%Y-%m-%dT%H"):
             continue
         try:
             got = fn()
