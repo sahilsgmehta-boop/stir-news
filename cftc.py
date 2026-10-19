@@ -11,11 +11,13 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "cftc.js"
 URL = "https://publicreporting.cftc.gov/resource/gpe5-46if.json"
 # name match -> short key, label, contract DV01 in $ per bp (approx, for risk-weighting)
 MARKETS = [
-    ("SOFR-3M", "SR3", "SOFR 3M", 25), ("SOFR-1M", "SR1", "SOFR 1M", 41.67),
+    # DV01 per contract in $ per bp. Treasuries: Bloomberg's CTD-based figures as used in
+    # the InTouch weekly report (Oct 2026); they drift slowly as the CTDs change.
+    ("SOFR-3M", "SR3", "SOFR 3M", 25.0), ("SOFR-1M", "SR1", "SOFR 1M", 41.67),
     ("FED FUNDS", "FF", "Fed funds", 41.67),
-    ("UST 2Y NOTE", "TU", "2Y note", 38), ("UST 5Y NOTE", "FV", "5Y note", 45),
-    ("UST 10Y NOTE", "TY", "10Y note", 65), ("ULTRA UST 10Y", "TN", "Ultra 10Y", 95),
-    ("UST BOND", "US", "Bond", 130), ("ULTRA UST BOND", "UB", "Ultra bond", 230),
+    ("UST 2Y NOTE", "TU", "2Y note", 37.62), ("UST 5Y NOTE", "FV", "5Y note", 41.45),
+    ("UST 10Y NOTE", "TY", "10Y note", 61.53), ("ULTRA UST 10Y", "TN", "Ultra 10Y", 82.05),
+    ("UST BOND", "US", "Bond", 126.76), ("ULTRA UST BOND", "UB", "Ultra bond", 158.84),
 ]
 F = ["open_interest_all", "dealer_positions_long_all", "dealer_positions_short_all",
      "asset_mgr_positions_long", "asset_mgr_positions_short",
@@ -49,7 +51,7 @@ def main():
     rows = get(URL + "?" + urllib.parse.urlencode(q))
     if not isinstance(rows, list) or not rows:
         print("cftc: nothing returned; keeping the old file", str(rows)[:200]); return
-    out, seen = {}, set()
+    out, seen, meta = {}, {}, {}
     for r in rows:
         nm = (r.get("market_and_exchange_names") or "").upper()
         # the most specific name wins (ULTRA UST BOND before UST BOND)
@@ -60,11 +62,15 @@ def main():
         if not hit or ("ULTRA" in nm and "ULTRA" not in hit[0]):
             continue
         d = r["report_date_as_yyyy_mm_dd"][:10]
-        if (hit[1], d) in seen:
-            continue
-        seen.add((hit[1], d))
         v = [int(float(r.get(k) or 0)) for k in F]
-        out.setdefault(hit[1], {"label": hit[2], "dv01": hit[3], "name": nm.title(), "rows": []})["rows"].append([d] + v)
+        # a name can match more than one listed contract (the CFTC also lists small
+        # look-alikes): keep the one with the most open interest on each date
+        if (hit[1], d) in seen and seen[(hit[1], d)][1] >= v[0]:
+            continue
+        seen[(hit[1], d)] = ([d] + v, v[0])
+        meta.setdefault(hit[1], {"label": hit[2], "dv01": hit[3], "name": nm.title()})
+    for (k, d), (row, _) in sorted(seen.items(), key=lambda x: x[0][1]):
+        out.setdefault(k, dict(meta[k], rows=[]))["rows"].append(row)
     payload = {"built": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                "fields": ["date", "oi", "dealer_l", "dealer_s", "am_l", "am_s", "lev_l", "lev_s", "oth_l", "oth_s", "nr_l", "nr_s"],
                "markets": out}
