@@ -26,8 +26,15 @@ def keep(e):
 
 def main():
     now = datetime.now(timezone.utc)
-    if os.path.exists(OUT) and time.time() - os.path.getmtime(OUT) < 20 * 3600 and "--force" not in sys.argv:
-        print("events_past: fresh, skipped"); return
+    # a fresh checkout resets file times, so the age comes from the "built" stamp inside
+    if os.path.exists(OUT) and "--force" not in sys.argv:
+        try:
+            txt = open(OUT).read(200)
+            b = datetime.strptime(txt.split('"built":"')[1][:20], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            if datetime.now(timezone.utc) - b < timedelta(hours=20):
+                print("events_past: fresh, skipped"); return
+        except Exception:  # noqa: BLE001
+            pass
     start = now - timedelta(days=BACK_DAYS)
     out, errs, a = {}, [], start
     while a < now:

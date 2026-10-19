@@ -32,8 +32,15 @@ def get(url):
 
 
 def main():
-    if os.path.exists(OUT) and time.time() - os.path.getmtime(OUT) < 6 * 3600 and "--force" not in sys.argv:
-        print("cftc: fresh, skipped"); return
+    # a fresh checkout resets file times, so the age comes from the "built" stamp inside
+    if os.path.exists(OUT) and "--force" not in sys.argv:
+        try:
+            txt = open(OUT).read(200)
+            b = datetime.strptime(txt.split('"built":"')[1][:20], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            if datetime.now(timezone.utc) - b < timedelta(hours=6):
+                print("cftc: fresh, skipped"); return
+        except Exception:  # noqa: BLE001
+            pass
     since = (datetime.now(timezone.utc) - timedelta(days=3 * 366)).strftime("%Y-%m-%dT00:00:00")
     names = " OR ".join("upper(market_and_exchange_names) like '%" + m[0] + "%'" for m in MARKETS)
     q = {"$where": f"report_date_as_yyyy_mm_dd >= '{since}' AND ({names})",
