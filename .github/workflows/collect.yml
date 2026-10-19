@@ -78,6 +78,14 @@ jobs:
           TWELVE_DATA_KEY: ${{ secrets.TWELVE_DATA_KEY }}
         run: python fx.py
 
+      # Past high-impact events (once a day) for the Event reaction page, and
+      # CFTC positioning (every 6 hours) for the Positioning page. Free public
+      # feeds; never fail the run.
+      - name: Past events
+        run: python events_past.py
+      - name: CFTC positioning
+        run: python cftc.py
+
       - name: Publish
         run: |
           git config user.name  "stir-news-bot"
