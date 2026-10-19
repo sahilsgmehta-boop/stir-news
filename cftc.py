@@ -12,12 +12,11 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "cftc.js"
 URL = "https://publicreporting.cftc.gov/resource/gpe5-46if.json"
 # name match -> short key, label, contract DV01 in $ per bp (approx, for risk-weighting)
 MARKETS = [
-    # DV01 per contract in $ per bp, as used in the InTouch weekly report (Bloomberg,
-    # Oct 2026), so the dashboard's DV01 totals match it. Treasuries are CTD-based and
-    # drift slowly. Note the report's fed funds (20.825) and SOFR 1M (25) figures are
-    # below the exchange's $41.67 per bp for both contracts.
-    ("SOFR-3M", "SR3", "SOFR 3M", 25.0), ("SOFR-1M", "SR1", "SOFR 1M", 25.0),
-    ("FED FUNDS", "FF", "Fed funds", 20.825),
+    # DV01 per contract in $ per bp. Treasuries: Bloomberg's CTD-based figures as used in
+    # the InTouch weekly report (Oct 2026); they drift slowly. SOFR 3M is $25. SOFR 1M and
+    # fed funds are $41.67 ($5m x 1bp x 30/360); the report uses 25 and 20.825 for them.
+    ("SOFR-3M", "SR3", "SOFR 3M", 25.0), ("SOFR-1M", "SR1", "SOFR 1M", 41.67),
+    ("FED FUNDS", "FF", "Fed funds", 41.67),
     ("UST 2Y NOTE", "TU", "2Y note", 37.624263), ("UST 5Y NOTE", "FV", "5Y note", 41.44505),
     ("UST 10Y NOTE", "TY", "10Y note", 61.531348), ("ULTRA UST 10Y", "TN", "Ultra 10Y", 82.045936),
     ("UST BOND", "US", "Bond", 126.757887), ("ULTRA UST BOND", "UB", "Ultra bond", 158.838235),
