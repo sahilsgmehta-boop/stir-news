@@ -3,7 +3,7 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 def getb(url):
     p = subprocess.run(["curl","-sS","-L","-m","120","-A",UA,"-w","\n@@%{http_code}",url],capture_output=True)
     b = p.stdout; i = b.rfind(b"\n@@"); return b[i+3:].decode(), b[:i]
-subprocess.run(["pip","install","-q","openpyxl"])
+
 import openpyxl
 for url in ["https://www.bankofengland.co.uk/-/media/boe/files/statistics/yield-curves/latest-yield-curve-data.zip",
             "https://www.bankofengland.co.uk/-/media/boe/files/statistics/yield-curves/glcnominalddata.zip"]:
