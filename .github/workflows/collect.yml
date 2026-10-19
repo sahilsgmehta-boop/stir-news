@@ -8,6 +8,11 @@ on:
   schedule:
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}        # the "Run workflow" button, for testing
+  # a change to a collector script runs it straight away (the bot's own
+  # commits only touch docs/ and data/, so this never loops)
+  push:
+    branches: [main]
+    paths: ["*.py", ".github/workflows/collect.yml"]
 
 permissions:
   contents: write
