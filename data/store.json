@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-19T21:11:38Z",
+"bank": "BoC",
+"speaker": "",
+"hl": "Bank of Canada preview: Scotiabank expects a 25 bp hike next week despite softer core CPI",
+"url": "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "12ff8d309e67",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-19T00:00:00Z",
 "bank": "BoE",
 "speaker": "Bailey",
