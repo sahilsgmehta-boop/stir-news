@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-19T00:00:00Z",
+"bank": "BoE",
+"speaker": "Bailey",
+"hl": "Financial resilience in an age of repeated shocks",
+"url": "https://www.bis.org/speeches/20261019-financial-resilience-age-repeated-shocks",
+"src": "BIS central bankers' speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"id": "96745708f437",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-17T11:00:00Z",
 "bank": "Fed",
 "speaker": "",
