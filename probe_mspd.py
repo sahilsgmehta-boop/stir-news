@@ -1,22 +1,17 @@
-"""Temporary probe: how MSPD writes interest pay dates. Removed after use."""
-import json, collections, sys
+"""Temporary probe: coupon interest by payment day. Removed after use."""
+import sys
+from datetime import date
 sys.path.insert(0, ".")
 import repo
 rd, ms = repo.mspd()
-fmt = collections.Counter()
-ex = {}
-raw = repo.fd_all("/v1/debt/mspd/mspd_table_3_market", f"filter=record_date:eq:{rd}")
-for r in raw:
-    for i in (1, 2, 3, 4):
-        p = r.get(f"interest_pay_date_{i}")
-        if p:
-            import re
-            k = re.sub(r"\d", "9", p)
-            fmt[k] += 1
-            ex.setdefault(k, (p, r.get("security_class1_desc"), r.get("security_class2_desc"), r.get("interest_rate_pct")))
-cls = collections.Counter(s["cls"] for s in ms.values())
-nopay = collections.Counter(s["cls"] for s in ms.values() if not s["pays"])
-sample = [r for r in raw if (r.get("security_class1_desc") or "").startswith("Bond")][:3]
-with open("docs/probe_mspd.txt", "w") as f:
-    f.write(f"record {rd}\nformats {dict(fmt)}\nexamples {ex}\nclasses {dict(cls)}\nno pays {dict(nopay)}\n")
-    f.write(json.dumps(sample, indent=1)[:4000])
+asof, soma = repo.soma_holdings()
+st, un = date(2026, 10, 1), date(2027, 3, 1)
+a = repo.interest_by_date(ms, soma, 4.0, st, un)
+b = repo.interest_by_date(ms, {}, 4.0, st, un)
+lines = [f"mspd {rd} soma {asof} n_ms {len(ms)} n_soma {len(soma)} soma_total {sum(soma.values())/1e9:.0f}bn ms_total {sum(s['out'] for s in ms.values())/1e9:.0f}bn"]
+for d in sorted(set(a) | set(b)):
+    lines.append(f"{d} public {a.get(d,0)/1e9:.2f} all {b.get(d,0)/1e9:.2f}")
+big = sorted(((s["out"], c, s["cls"], s["rate"], s["pays"], s["maturity"]) for c, s in ms.items() if "11/15" in s["pays"]), reverse=True)[:15]
+for x in big:
+    lines.append(f"{x[1]} {x[2]} {x[3]} {x[4]} {x[5]} out {x[0]/1e9:.1f}bn soma {soma.get(x[1],0)/1e9:.1f}bn")
+open("docs/probe_mspd.txt", "w").write("\n".join(lines))
