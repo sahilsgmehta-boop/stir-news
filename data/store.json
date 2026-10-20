@@ -79,7 +79,9 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "",
-"also": [],
+"also": [
+"BIS central bankers' speeches"
+],
 "id": "e545c030814a",
 "score": null,
 "read": ""
