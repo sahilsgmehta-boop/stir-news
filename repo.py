@@ -327,6 +327,13 @@ def mspd():
             continue
         cls = (r.get("security_class1_desc") or "")
         pays = [r.get(f"interest_pay_date_{i}") for i in (1, 2, 3, 4)]
+        # a CUSIP can appear on more than one line (reopenings are listed under the
+        # original issue, with the amounts on only one of them). Keeping whichever
+        # line came last threw away the 10-year notes' amounts - every one of them
+        # read as zero - so the big 15 Feb/May/Aug/Nov coupon days were badly short.
+        amt = (num(r.get("outstanding_amt")) or 0) * 1e6
+        if c in out and out[c]["out"] >= amt:
+            continue
         out[c] = {"cls": cls, "rate": num(r.get("interest_rate_pct")),
                   "out": (num(r.get("outstanding_amt")) or 0) * 1e6,
                   "infl": (num(r.get("inflation_adj_amt")) or 0) * 1e6,
