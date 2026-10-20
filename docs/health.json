@@ -1,5 +1,5 @@
 {
- "built": "2026-10-20T01:38:01Z",
+ "built": "2026-10-20T02:11:53Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   },
@@ -31,8 +31,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada preview: Scotiabank expects a 25 bp hike next week despite softer core CPI",
-    "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior"
+    "Bank of Canada preview: Scotiabank expects a 25 bp hike next week despite softer core CPI"
    ]
   },
   {
