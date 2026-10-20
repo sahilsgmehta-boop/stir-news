@@ -85,8 +85,6 @@ jobs:
 
       # CFTC positioning (every 6 hours) for the Positioning page, from the
       # CFTC's free public API. Never fails the run.
-      - name: Probe MSPD (temporary)
-        run: python probe_mspd.py || true
       - name: CFTC positioning
         run: python cftc.py
 
