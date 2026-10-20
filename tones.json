@@ -287,6 +287,13 @@
    "read": "Not a policy remark.",
    "at": "2026-10-20T06:48:13Z",
    "by": "claude"
+  },
+  "173aa976679b": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Greene repeats hawkish warnings and notes more MPC members now share her inflation concerns.",
+   "at": "2026-10-20T20:48:56Z",
+   "by": "claude"
   }
  }
 }
