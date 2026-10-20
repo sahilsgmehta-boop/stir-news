@@ -549,7 +549,9 @@ def project(hist, ann, today, until):
                 iss = next_year_slot(d0, s2d(a["maturity"]))
                 if not (today < iss <= until) or iss <= s2d(lastx["issue"]):
                     continue
-                if any(abs((s2d(b["issue"]) - iss).days) <= 10 for b in xs if b.get("announced")):
+                ref = size_re if a["reopen"] else size_new
+                if any(abs((s2d(b["issue"]) - iss).days) <= 10 and (not ref or not b.get("offer") or b["offer"] >= 0.6 * ref)
+                       for b in xs if b.get("announced")):
                     continue
                 try:
                     mat = s2d(a["maturity"]).replace(year=s2d(a["maturity"]).year + 1)
@@ -602,7 +604,28 @@ def interest_by_date(ms, soma, frn_rate, start, until):
     return out
 
 
+def fix_flags(hist, ann):
+    """TreasuryDirect's list of announced auctions sometimes drops the TIPS flag, so
+    an October 5-year TIPS ($26bn, settling 30 Oct) arrived as a plain "Note
+    5-Year". Taken as the nominal 5-year, it then stood in for the real one ($70bn,
+    settling 2 Nov), which went missing from the projection. An announced coupon is
+    marked TIPS when the auction history has TIPS of that term at about its size and
+    the nominal series of that term is far bigger."""
+    for a in ann:
+        if a.get("tips") or a.get("frn") or (a["type"] or "").lower() == "bill" or not a.get("offer"):
+            continue
+        same = [h for h in hist if h["oterm"] == a["oterm"] and h.get("offer")]
+        tips = [h["offer"] for h in same if h["tips"]][-4:]
+        nom = [h["offer"] for h in same if not h["tips"] and not h["frn"]][-4:]
+        if tips and nom:
+            t, n = sum(tips) / len(tips), sum(nom) / len(nom)
+            if abs(a["offer"] - t) <= 0.35 * t and a["offer"] < 0.6 * n:
+                a["tips"] = True
+    return ann
+
+
 def issuance(hist, ann, ms, soma, today, mspd_date=None):
+    ann = fix_flags(hist, ann)
     start = today - timedelta(days=HISTORY_DAYS)
     until = today + timedelta(days=AHEAD_DAYS)
     announced_cusips = {(a["cusip"], a["issue"]) for a in ann}
