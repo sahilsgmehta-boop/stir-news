@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-20T07:00:00Z",
+"bank": "ECB",
+"speaker": "Elderson",
+"hl": "Frank Elderson: Interview with Die Presse",
+"url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+"src": "ECB press, speeches, interviews",
+"tier": "official",
+"tone": "",
+"also": [],
+"id": "18ada448671f",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-19T21:11:38Z",
 "bank": "BoC",
 "speaker": "",
