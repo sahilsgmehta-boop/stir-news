@@ -1,5 +1,5 @@
 {
- "built": "2026-10-21T14:52:41Z",
+ "built": "2026-10-21T15:35:12Z",
  "sources": [
   {
    "id": "il_cb",
@@ -31,8 +31,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
-    "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in"
+    "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations"
    ]
   },
   {
@@ -130,7 +129,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": ""
   }
