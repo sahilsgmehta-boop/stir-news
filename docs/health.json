@@ -1,5 +1,5 @@
 {
- "built": "2026-10-21T05:06:13Z",
+ "built": "2026-10-21T05:35:56Z",
  "sources": [
   {
    "id": "il_cb",
@@ -31,7 +31,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
     "Economic and event calendar in Asia Wednesday, October 21, 2026: ECB Lane speaking"
    ]
   },
@@ -130,7 +129,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 9,
+   "kept": 7,
    "added": 0,
    "error": ""
   }
