@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-21T00:00:00Z",
+"bank": "ECB",
+"speaker": "Lane",
+"hl": "Euro liquidity lines and the international monetary system",
+"url": "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system",
+"src": "BIS central bankers' speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"id": "85d17e8dc909",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-20T20:29:24Z",
 "bank": "ECB",
 "speaker": "Lane",
