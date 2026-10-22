@@ -1,5 +1,5 @@
 {
- "built": "2026-10-22T06:43:13Z",
+ "built": "2026-10-22T08:57:58Z",
  "corra": {
   "2026-03-30": 2.27,
   "2026-03-31": 2.27,
@@ -864,7 +864,8 @@
   "2026-10-14": 3.7324,
   "2026-10-15": 3.7335,
   "2026-10-16": 3.7344,
-  "2026-10-19": 3.7337
+  "2026-10-19": 3.7337,
+  "2026-10-20": 3.734
  },
  "status": {
   "corra": "ok, 136 fixings, latest 2026-10-20",
@@ -872,6 +873,6 @@
   "estr": "ok, 141 fixings, latest 2026-10-21",
   "saron": "ok, 136 fixings, latest 2026-10-16 via snb:snbgwdzid (2dp; SIX failed: hsrron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; h_saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; links seen: )",
   "sofr": "ok, 137 fixings, latest 2026-10-20",
-  "sonia": "ok, 137 fixings, latest 2026-10-19"
+  "sonia": "ok, 138 fixings, latest 2026-10-20"
  }
 }

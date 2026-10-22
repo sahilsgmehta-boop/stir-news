@@ -1,5 +1,5 @@
 {
- "built": "2026-10-22T08:13:42Z",
+ "built": "2026-10-22T08:57:35Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Why a global bank is slashing thousands of jobs \u2014 and what the Fed says about AI replacing workers"
+   ]
   },
   {
    "id": "fed_sp",
@@ -120,7 +122,7 @@
    "ok": true,
    "fetched": 20,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
