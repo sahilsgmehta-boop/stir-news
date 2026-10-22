@@ -1,5 +1,5 @@
 {
- "built": "2026-10-22T13:30:09Z",
+ "built": "2026-10-22T21:52:22Z",
  "corra": {
   "2026-03-30": 2.27,
   "2026-03-31": 2.27,
@@ -875,7 +875,7 @@
   "effr": "ok, 139 fixings, latest 2026-10-21",
   "estr": "ok, 141 fixings, latest 2026-10-21",
   "saron": "ok, 136 fixings, latest 2026-10-16 via snb:snbgwdzid (2dp; SIX failed: hsrron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; h_saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; links seen: )",
-  "sofr": "ok, 138 fixings, latest 2026-10-21",
+  "sofr": "FAILED (HTTP Error 504: Gateway Time-out), kept 142 stored",
   "sonia": "ok, 138 fixings, latest 2026-10-20"
  }
 }
