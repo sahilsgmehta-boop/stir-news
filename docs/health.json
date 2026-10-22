@@ -1,5 +1,5 @@
 {
- "built": "2026-10-22T22:49:26Z",
+ "built": "2026-10-22T23:13:49Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 6,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -31,6 +31,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
     "The market now sees a 22% chance the Fed doesn't hike again this year"
    ]
   },
