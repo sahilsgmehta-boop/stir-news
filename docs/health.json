@@ -1,5 +1,5 @@
 {
- "built": "2026-10-22T19:14:24Z",
+ "built": "2026-10-22T19:51:26Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 5,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -30,7 +30,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "The market now sees a 22% chance the Fed doesn't hike again this year"
+   ]
   },
   {
    "id": "cnbc",
