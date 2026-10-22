@@ -1,6 +1,20 @@
 {
 "items": [
 {
+"t": "2026-10-21T23:44:12Z",
+"bank": "BoE",
+"speaker": "",
+"hl": "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation above 4%",
+"url": "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"id": "224b29cc5849",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-21T00:00:00Z",
 "bank": "ECB",
 "speaker": "Lane",
