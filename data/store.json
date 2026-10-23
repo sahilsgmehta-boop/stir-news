@@ -311,7 +311,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"AOL.com"
+],
 "desc": "",
 "id": "8febe860b90c",
 "score": 0,

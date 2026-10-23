@@ -1,5 +1,5 @@
 {
- "built": "2026-10-23T20:56:33Z",
+ "built": "2026-10-23T21:19:03Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,8 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Earnings macro week ahead: The Fed and Big Tech report on the same day",
-    "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive"
+    "Earnings macro week ahead: The Fed and Big Tech report on the same day"
    ]
   },
   {
@@ -58,8 +57,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 3,
+   "fetched": 45,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -71,8 +70,8 @@
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Fed\u2019s hawkish credentials established",
     "The Fed\u2019s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
-    "Fed\u2019s Fifth District continues to see moderate growth",
-    "How Might Stock, Bond, And Oil Markets React To The Fed's Rate Decision"
+    "How Might Stock, Bond, And Oil Markets React To The Fed's Rate Decision",
+    "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street"
    ]
   },
   {
@@ -82,7 +81,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 74,
-   "added": 6,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
@@ -102,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 79,
+   "fetched": 80,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -124,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -145,7 +144,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 45,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -167,7 +166,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -176,6 +175,7 @@
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
     "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
     "David Rosenberg: Bank of Canada rate hike right now would be playing with economic fire",
+    "The Bank of Canada at an inflection point: Inflation fears live on",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
     "Will the BoC hike next week? Nail-biter decision awaits variable mortgage rate holders"
