@@ -8,11 +8,11 @@
 "url": "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "id": "8af7a39eee40",
-"score": null,
-"read": ""
+"score": 0,
+"read": "Not a policy remark."
 },
 {
 "t": "2026-10-22T21:31:52Z",
@@ -22,11 +22,11 @@
 "url": "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/",
 "src": "investingLive central banks",
 "tier": "comment",
-"tone": "",
+"tone": "dove",
 "also": [],
 "id": "d969038af48d",
-"score": null,
-"read": ""
+"score": -3,
+"read": "Flagging higher yields as a growth drag argues against adding tightening via more hikes."
 },
 {
 "t": "2026-10-22T18:19:58Z",
