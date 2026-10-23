@@ -388,6 +388,22 @@ PUB_DROP = re.compile(r"coin|crypto|bitget|bloomingbit|biggo|kucoin|binance|"
                       r"motley fool|tradingview|traders union|invezz|economies\.com", re.I)
 
 
+def news_ok(title):
+    """Stricter test for open-web (Google News) headlines: a roster member is named,
+    with their bank (or full name) in the headline, and the remark is attributed."""
+    rb, _ = roster_said(title)
+    if rb and BANK_PAT[rb].search(title):
+        return True
+    bank = find_bank(title)
+    if rb and not bank:
+        people, _ = load_roster()
+        full = {p["name"]: fold(p.get("full", "")) for p in people}
+        return any(f and f in fold(title) for f in full.values())
+    if not bank or not roster_find(bank, title):
+        return False
+    return any(ATTRIBUTION[i].search(title) for i in (0, 1, 2, 4))
+
+
 def roster_said(title):
     """(bank, surname) when the headline attributes a remark to a roster member."""
     global _SAID_PAT
@@ -469,9 +485,9 @@ def classify(src, it, now, near=None):
         if kind == "news":
             if PUB_DROP.search(pub) or re.search(r"[^\x00-\u024f]", pub) or len(re.findall(r"[^\x00-\u024f\u2018-\u201f\u2013\u2014\u2026\u2212]", title)) > 3:
                 return None
-            # from the open web, only a named person counts - "Fed decision key
-            # for bitcoin" style pieces match the release patterns otherwise
-            if not (rb or any(p.search(title) for p in ATTRIBUTION[:5])):
+            # from the open web, only a named policymaker counts - "Fed decision key
+            # for bitcoin" or "Fed's balance sheet" pieces match the looser patterns
+            if not news_ok(title):
                 if near is not None and len(near) < 10:
                     near.append(title[:160])
                 return None
@@ -604,6 +620,11 @@ def write_outputs(store, health, now):
     store[:] = [x for x in store
                 if not (x["tier"] == "comment" and x["src"] != "investingLive central banks"
                         and not attributed(x["hl"]))]
+    # open-web headlines (their source is a publisher, not one of our feeds) must
+    # pass the stricter test, so rule changes also clear earlier arrivals
+    ours = {src["name"] for src in SOURCES}
+    store[:] = [x for x in store
+                if not (x["tier"] == "comment" and x["src"] not in ours and not news_ok(x["hl"]))]
     for x in store:
         x.setdefault("desc", "")
     tones = load_tones()
