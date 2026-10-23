@@ -2,6 +2,9 @@ name: probe
 on:
   push:
     branches: [probe]
+    paths: [urls.txt, .github/workflows/probe.yml]
+permissions:
+  contents: write
 jobs:
   p:
     runs-on: ubuntu-latest
@@ -13,5 +16,6 @@ jobs:
             code=$(curl -sS -L -m 25 -A "Mozilla/5.0 (compatible; stir-news/1.0; +https://github.com)" -o out/$id.xml -w "%{http_code}" "$u" || echo ERR)
             echo "$id $code $(wc -c < out/$id.xml 2>/dev/null)" | tee -a out/_status.txt
           done < urls.txt
-      - uses: actions/upload-artifact@v4
-        with: {name: probe, path: out}
+      - run: |
+          git config user.name probe; git config user.email probe@users.noreply.github.com
+          git add out; git commit -qm "probe out [skip ci]"; git push origin HEAD:probe
