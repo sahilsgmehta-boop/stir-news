@@ -1,5 +1,5 @@
 {
- "built": "2026-10-23T16:24:11Z",
+ "built": "2026-10-23T17:56:57Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,8 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
-    "UK retail sales fall more than expected in September, complicating BOE rate hike outlook"
+    "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive"
    ]
   },
   {
@@ -58,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 46,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -66,8 +65,8 @@
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
-    "The Fed Can Pause, But Inflation Won\u2019t",
     "Finance expert weighs in on Fed\u2019s dilemma days before midterm elections",
+    "The Fed Can Pause, But Inflation Won\u2019t",
     "Fed\u2019s hawkish credentials established",
     "The Fed\u2019s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
     "Fed\u2019s Fifth District continues to see moderate growth",
@@ -80,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 74,
-   "added": 4,
+   "fetched": 34,
+   "kept": 10,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
-    "Bets on Fed rate hold in October strengthen after Warsh comments",
-    "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
-    "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
-    "Fed chairman Warsh stays quiet on interest rates",
-    "The Fed's long-term interest rate problem",
-    "Fighting inflation likely to be 'painful,' Chicago Fed president says",
-    "Waller breaks with Warsh on Fed forward guidance, hints at October rate hold",
-    "Fed policymakers lean against October rate hike"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "The Fed - Live Video",
+    "Federal Reserve holds interest rates steady as Trump\u2019s new chairman faces fresh inflation woes",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+    "WATCH: New Fed chair Kevin Warsh holds first news conference after leaving interest rate unchanged",
+    "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+    "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'"
    ]
   },
   {
@@ -102,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 9,
+   "fetched": 78,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -113,6 +112,7 @@
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "Kuehne+Nagel sees air revenues and profits soar in Q3",
     "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB",
+    "ECB on course for another rate rise in 2026",
     "ECB\u2019s Pereira calls for deeper EU single market integration",
     "ECB\u2019s Pereira calls for deeper EU single market integration By Investing.com",
     "Climate and nature-related risks in banking: developments in the ECB\u2019s supervisory approach"
@@ -123,20 +123,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 15,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Ready for a French test?: Five questions for the ECB",
     "ECB Set to Raise Rates in December After Pause, Economists Say",
-    "ECB caught in the French drama",
     "Panetta warns on long-term interest rate risks",
-    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
-    "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
-    "The ECB has no reason to accelerate its hiking cycle: ECB preview",
-    "ECB Consumer Expectations Survey results \u2013 September 2026",
-    "ECB Euro Backstop Draws Interest From More Than 30 Central Banks"
+    "ECB Euro Backstop Draws Interest From More Than 30 Central Banks",
+    "The ECB has no reason to accelerate its hiking cycle: ECB preview"
    ]
   },
   {
@@ -144,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 40,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -152,13 +148,13 @@
     "Is time to reconsider the Bank of England\u2019s mandate? - MHA\u2019s Joe Nellis",
     "U.K. CPI Goes Off the Rails Ahead of BOE Meeting",
     "Bank of England Hike Count Keeps Rising in Analyst Forecasts",
-    "Bank of England chief warns over AI borrowing binge",
     "Andy Haldane hits out at the Bank of England",
     "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
     "Bank of England chief sounds alarm over AI borrowing binge that could trigger market crash",
+    "Bank of England: Firm UK inflation brings November hike into forecast \u2013 Danske Bank",
     "Bank of England: Danske Bank adds November hike as UK inflation holds firm",
     "The Bank of England just got its clearest reason to hike. Here's what it's really watching",
-    "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank"
+    "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation above 4%"
    ]
   },
   {
@@ -166,11 +162,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
     "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
@@ -248,7 +245,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 72,
-   "added": 72,
+   "added": 70,
    "error": ""
   },
   {
