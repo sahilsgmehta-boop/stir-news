@@ -1,0 +1,3651 @@
+<html lang="en"><head><link type="text/css" rel="stylesheet" href="">
+
+
+
+
+
+	
+		<meta charset="utf-8">
+		
+		
+			
+		
+		<title>Reuters News Agency</title>
+		<meta name="description" content="">
+		
+		<link rel="SHORTCUT ICON" href="https://reutersagency.com/hubfs/Favicon-1.png">
+		<style>html, body { font-family: sans-serif; background: #fff; } body { opacity: 0; transition-property: opacity; transition-duration: 0.25s; transition-delay: 0.25s; margin: 0; } img, video { max-width: 100%; height: auto; } .btn, .btn-wrapper .cta_button, .btn-wrapper .cta-button, .btn-wrapper input[type="submit"], .btn-wrapper input[type="button"], input[type="submit"], input[type="button"]  {  font-family: Poppins, sans-serif; font-style: normal; font-weight: 600; text-decoration: none; font-size: 0.875rem; line-height: 1.1812500000000001rem;  border-radius: 3px; min-height: 3.5rem;  text-align: center; padding: 0 1.5625rem ; border: 1px solid; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; } .sr-padding-zero { padding-top: 0; padding-bottom: 0; } .sr-padding-half { padding-top: 3.125rem; padding-bottom: 3.125rem; } .sr-padding-full { padding-top: 6.25rem; padding-bottom: 6.25rem; } @media(min-width:576px) { .sr-padding-sm-zero { padding-top: 0; padding-bottom: 0; } .sr-padding-sm-half { padding-top: 3.125rem; padding-bottom: 3.125rem; } .sr-padding-sm-full { padding-top: 6.25rem; padding-bottom: 6.25rem; } } @media(min-width:768px) { .sr-padding-md-zero { padding-top: 0; padding-bottom: 0; } .sr-padding-md-half { padding-top: 3.125rem; padding-bottom: 3.125rem; } .sr-padding-md-full { padding-top: 6.25rem; padding-bottom: 6.25rem; } } @media(min-width:992px) { .sr-padding-lg-zero { padding-top: 0; padding-bottom: 0; } .sr-padding-lg-half { padding-top: 3.125rem; padding-bottom: 3.125rem; } .sr-padding-lg-full { padding-top: 6.25rem; padding-bottom: 6.25rem; } } .sr-spacer-25 { padding-top: 1.5625rem; padding-bottom: 1.5625rem; } .sr-spacer-top-25 { padding-top: 1.5625rem; } .sr-spacer-bottom-25 { padding-bottom: 1.5625rem; } .sr-spacer-50 { padding-top: 3.125rem; padding-bottom: 3.125rem; } .sr-spacer-top-50 { padding-top: 3.125rem; } .sr-spacer-bottom-50 { padding-bottom: 3.125rem; } .sr-spacer-75 { padding-top: 4.6875rem; padding-bottom: 4.6875rem; } .sr-spacer-top-75 { padding-top: 4.6875rem; } .sr-spacer-bottom-75 { padding-bottom: 4.6875rem; } .sr-spacer-100 { padding-top: 6.25rem; padding-bottom: 6.25rem; } .sr-spacer-top-100 { padding-top: 6.25rem; } .sr-spacer-bottom-100 { padding-bottom: 6.25rem; } .sr-row { row-gap: 3.125rem } .sr-multicol-media .sr-valign-top { -webkit-box-align: flex-start; -ms-flex-align: flex-start; align-items: flex-start; } .sr-multicol-media .sr-valign-center { -webkit-box-align: center; -ms-flex-align: center; align-items: center; } .sr-multicol-media .sr-valign-bottom { -webkit-box-align: flex-end; -ms-flex-align: flex-end; align-items: flex-end; } .sr-multicol-media .sr-valign-stretch { -webkit-box-align: stretch; -ms-flex-align: stretch; align-items: stretch; } .navbar-nav { display: -ms-flexbox; display: flex; -ms-flex-direction: column; flex-direction: column; padding-left: 0; margin-bottom: 0; list-style: none; } .nav-link { display: block; } .dropdown-menu { position: absolute; left: 0; z-index: 1000; display: none; text-align: left; list-style: none; } .navbar .container, .navbar .container-fluid, .navbar .container-lg, .navbar .container-md, .navbar .container-sm, .navbar .container-xl { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; -ms-flex-align: center; align-items: center; -ms-flex-pack: justify; justify-content: space-between } @media (min-width: 1200px) { .navbar-expand-xl>.container, .navbar-expand-xl>.container-fluid, .navbar-expand-xl>.container-lg, .navbar-expand-xl>.container-md, .navbar-expand-xl>.container-sm, .navbar-expand-xl>.container-xl { -ms-flex-wrap: nowrap; flex-wrap: nowrap; } .navbar-expand-xl .navbar-nav { -ms-flex-direction: row; flex-direction: row; } } dl, ol, ul { margin-top: 0; margin-bottom: 1rem; } .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl { width: 100%; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto } @media (min-width:576px) { .container, .container-sm { max-width: 540px } } @media (min-width:768px) { .container, .container-md, .container-sm { max-width: 720px } } @media (min-width:992px) { .container, .container-lg, .container-md, .container-sm { max-width: 960px } } @media (min-width:1200px) { .container, .container-lg, .container-md, .container-sm, .container-xl { max-width: 1140px } } .container-fluid { max-width: 2560px } body > .container-fluid, .sr-tabs-split-screen > .container-fluid, [data-global-resource-path] > div { width: auto; max-width: none; padding: 0; } body > .body-container-wrapper > .body-container.container-fluid { padding: 0; max-width: none; } .container-fluid:before, .container-fluid:after { display: none !important; } .row { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; margin-right: -15px; margin-left: -15px } .no-gutters { margin-right: 0; margin-left: 0 } .no-gutters > .col, .no-gutters > [class*=col-] { padding-right: 0; padding-left: 0 } .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto { position: relative; width: 100%; padding-right: 15px; padding-left: 15px } .col { -ms-flex-preferred-size: 0; flex-basis: 0; -ms-flex-positive: 1; flex-grow: 1; max-width: 100% } .col-auto { -ms-flex: 0 0 auto; flex: 0 0 auto; width: auto; max-width: 100% } .col-1 { -ms-flex: 0 0 8.333333%; flex: 0 0 8.333333%; max-width: 8.333333% } .col-2 { -ms-flex: 0 0 16.666667%; flex: 0 0 16.666667%; max-width: 16.666667% } .col-3 { -ms-flex: 0 0 25%; flex: 0 0 25%; max-width: 25% } .col-4 { -ms-flex: 0 0 33.333333%; flex: 0 0 33.333333%; max-width: 33.333333% } .col-5 { -ms-flex: 0 0 41.666667%; flex: 0 0 41.666667%; max-width: 41.666667% } .col-6 { -ms-flex: 0 0 50%; flex: 0 0 50%; max-width: 50% } .col-7 { -ms-flex: 0 0 58.333333%; flex: 0 0 58.333333%; max-width: 58.333333% } .col-8 { -ms-flex: 0 0 66.666667%; flex: 0 0 66.666667%; max-width: 66.666667% } .col-9 { -ms-flex: 0 0 75%; flex: 0 0 75%; max-width: 75% } .col-10 { -ms-flex: 0 0 83.333333%; flex: 0 0 83.333333%; max-width: 83.333333% } .col-11 { -ms-flex: 0 0 91.666667%; flex: 0 0 91.666667%; max-width: 91.666667% } .col-12 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100% } .offset-1 { margin-left: 8.333333% } .offset-2 { margin-left: 16.666667% } .offset-3 { margin-left: 25% } .offset-4 { margin-left: 33.333333% } .offset-5 { margin-left: 41.666667% } .offset-6 { margin-left: 50% } .offset-7 { margin-left: 58.333333% } .offset-8 { margin-left: 66.666667% } .offset-9 { margin-left: 75% } .offset-10 { margin-left: 83.333333% } .offset-11 { margin-left: 91.666667% } .sr-col { order: 99; } .order-first { -ms-flex-order: -1; order: -1 } .order-last { -ms-flex-order: 13; order: 13 } .order-0 { -ms-flex-order: 0; order: 0 } .order-1 { -ms-flex-order: 1; order: 1 } .order-2 { -ms-flex-order: 2; order: 2 } .order-3 { -ms-flex-order: 3; order: 3 } .order-4 { -ms-flex-order: 4; order: 4 } .order-5 { -ms-flex-order: 5; order: 5 } .order-6 { -ms-flex-order: 6; order: 6 } .order-7 { -ms-flex-order: 7; order: 7 } .order-8 { -ms-flex-order: 8; order: 8 } .order-9 { -ms-flex-order: 9; order: 9 } .order-10 { -ms-flex-order: 10; order: 10 } .order-11 { -ms-flex-order: 11; order: 11 } .order-12 { -ms-flex-order: 12; order: 12 } @media (min-width:576px) { .col-sm { -ms-flex-preferred-size: 0; flex-basis: 0; -ms-flex-positive: 1; flex-grow: 1; max-width: 100% } .col-sm-auto { -ms-flex: 0 0 auto; flex: 0 0 auto; width: auto; max-width: 100% } .col-sm-1 { -ms-flex: 0 0 8.333333%; flex: 0 0 8.333333%; max-width: 8.333333% } .col-sm-2 { -ms-flex: 0 0 16.666667%; flex: 0 0 16.666667%; max-width: 16.666667% } .col-sm-3 { -ms-flex: 0 0 25%; flex: 0 0 25%; max-width: 25% } .col-sm-4 { -ms-flex: 0 0 33.333333%; flex: 0 0 33.333333%; max-width: 33.333333% } .col-sm-5 { -ms-flex: 0 0 41.666667%; flex: 0 0 41.666667%; max-width: 41.666667% } .col-sm-6 { -ms-flex: 0 0 50%; flex: 0 0 50%; max-width: 50% } .col-sm-7 { -ms-flex: 0 0 58.333333%; flex: 0 0 58.333333%; max-width: 58.333333% } .col-sm-8 { -ms-flex: 0 0 66.666667%; flex: 0 0 66.666667%; max-width: 66.666667% } .col-sm-9 { -ms-flex: 0 0 75%; flex: 0 0 75%; max-width: 75% } .col-sm-10 { -ms-flex: 0 0 83.333333%; flex: 0 0 83.333333%; max-width: 83.333333% } .col-sm-11 { -ms-flex: 0 0 91.666667%; flex: 0 0 91.666667%; max-width: 91.666667% } .col-sm-12 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100% } .order-sm-first { -ms-flex-order: -1; order: -1 } .order-sm-last { -ms-flex-order: 13; order: 13 } .order-sm-0 { -ms-flex-order: 0; order: 0 } .order-sm-1 { -ms-flex-order: 1; order: 1 } .order-sm-2 { -ms-flex-order: 2; order: 2 } .order-sm-3 { -ms-flex-order: 3; order: 3 } .order-sm-4 { -ms-flex-order: 4; order: 4 } .order-sm-5 { -ms-flex-order: 5; order: 5 } .order-sm-6 { -ms-flex-order: 6; order: 6 } .order-sm-7 { -ms-flex-order: 7; order: 7 } .order-sm-8 { -ms-flex-order: 8; order: 8 } .order-sm-9 { -ms-flex-order: 9; order: 9 } .order-sm-10 { -ms-flex-order: 10; order: 10 } .order-sm-11 { -ms-flex-order: 11; order: 11 } .order-sm-12 { -ms-flex-order: 12; order: 12 } .offset-sm-0 { margin-left: 0 } .offset-sm-1 { margin-left: 8.333333% } .offset-sm-2 { margin-left: 16.666667% } .offset-sm-3 { margin-left: 25% } .offset-sm-4 { margin-left: 33.333333% } .offset-sm-5 { margin-left: 41.666667% } .offset-sm-6 { margin-left: 50% } .offset-sm-7 { margin-left: 58.333333% } .offset-sm-8 { margin-left: 66.666667% } .offset-sm-9 { margin-left: 75% } .offset-sm-10 { margin-left: 83.333333% } .offset-sm-11 { margin-left: 91.666667% } } @media (min-width:768px) { .col-md { -ms-flex-preferred-size: 0; flex-basis: 0; -ms-flex-positive: 1; flex-grow: 1; max-width: 100% } .col-md-auto { -ms-flex: 0 0 auto; flex: 0 0 auto; width: auto; max-width: 100% } .col-md-1 { -ms-flex: 0 0 8.333333%; flex: 0 0 8.333333%; max-width: 8.333333% } .col-md-2 { -ms-flex: 0 0 16.666667%; flex: 0 0 16.666667%; max-width: 16.666667% } .col-md-3 { -ms-flex: 0 0 25%; flex: 0 0 25%; max-width: 25% } .col-md-4 { -ms-flex: 0 0 33.333333%; flex: 0 0 33.333333%; max-width: 33.333333% } .col-md-5 { -ms-flex: 0 0 41.666667%; flex: 0 0 41.666667%; max-width: 41.666667% } .col-md-6 { -ms-flex: 0 0 50%; flex: 0 0 50%; max-width: 50% } .col-md-7 { -ms-flex: 0 0 58.333333%; flex: 0 0 58.333333%; max-width: 58.333333% } .col-md-8 { -ms-flex: 0 0 66.666667%; flex: 0 0 66.666667%; max-width: 66.666667% } .col-md-9 { -ms-flex: 0 0 75%; flex: 0 0 75%; max-width: 75% } .col-md-10 { -ms-flex: 0 0 83.333333%; flex: 0 0 83.333333%; max-width: 83.333333% } .col-md-11 { -ms-flex: 0 0 91.666667%; flex: 0 0 91.666667%; max-width: 91.666667% } .col-md-12 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100% } .order-md-first { -ms-flex-order: -1; order: -1 } .order-md-last { -ms-flex-order: 13; order: 13 } .order-md-0 { -ms-flex-order: 0; order: 0 } .order-md-1 { -ms-flex-order: 1; order: 1 } .order-md-2 { -ms-flex-order: 2; order: 2 } .order-md-3 { -ms-flex-order: 3; order: 3 } .order-md-4 { -ms-flex-order: 4; order: 4 } .order-md-5 { -ms-flex-order: 5; order: 5 } .order-md-6 { -ms-flex-order: 6; order: 6 } .order-md-7 { -ms-flex-order: 7; order: 7 } .order-md-8 { -ms-flex-order: 8; order: 8 } .order-md-9 { -ms-flex-order: 9; order: 9 } .order-md-10 { -ms-flex-order: 10; order: 10 } .order-md-11 { -ms-flex-order: 11; order: 11 } .order-md-12 { -ms-flex-order: 12; order: 12 } .offset-md-0 { margin-left: 0 } .offset-md-1 { margin-left: 8.333333% } .offset-md-2 { margin-left: 16.666667% } .offset-md-3 { margin-left: 25% } .offset-md-4 { margin-left: 33.333333% } .offset-md-5 { margin-left: 41.666667% } .offset-md-6 { margin-left: 50% } .offset-md-7 { margin-left: 58.333333% } .offset-md-8 { margin-left: 66.666667% } .offset-md-9 { margin-left: 75% } .offset-md-10 { margin-left: 83.333333% } .offset-md-11 { margin-left: 91.666667% } } @media (min-width:992px) { .col-lg { -ms-flex-preferred-size: 0; flex-basis: 0; -ms-flex-positive: 1; flex-grow: 1; max-width: 100% } .col-lg-auto { -ms-flex: 0 0 auto; flex: 0 0 auto; width: auto; max-width: 100% } .col-lg-1 { -ms-flex: 0 0 8.333333%; flex: 0 0 8.333333%; max-width: 8.333333% } .col-lg-2 { -ms-flex: 0 0 16.666667%; flex: 0 0 16.666667%; max-width: 16.666667% } .col-lg-3 { -ms-flex: 0 0 25%; flex: 0 0 25%; max-width: 25% } .col-lg-4 { -ms-flex: 0 0 33.333333%; flex: 0 0 33.333333%; max-width: 33.333333% } .col-lg-5 { -ms-flex: 0 0 41.666667%; flex: 0 0 41.666667%; max-width: 41.666667% } .col-lg-6 { -ms-flex: 0 0 50%; flex: 0 0 50%; max-width: 50% } .col-lg-7 { -ms-flex: 0 0 58.333333%; flex: 0 0 58.333333%; max-width: 58.333333% } .col-lg-8 { -ms-flex: 0 0 66.666667%; flex: 0 0 66.666667%; max-width: 66.666667% } .col-lg-9 { -ms-flex: 0 0 75%; flex: 0 0 75%; max-width: 75% } .col-lg-10 { -ms-flex: 0 0 83.333333%; flex: 0 0 83.333333%; max-width: 83.333333% } .col-lg-11 { -ms-flex: 0 0 91.666667%; flex: 0 0 91.666667%; max-width: 91.666667% } .col-lg-12 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100% } .order-lg-first { -ms-flex-order: -1; order: -1 } .order-lg-last { -ms-flex-order: 13; order: 13 } .order-lg-0 { -ms-flex-order: 0; order: 0 } .order-lg-1 { -ms-flex-order: 1; order: 1 } .order-lg-2 { -ms-flex-order: 2; order: 2 } .order-lg-3 { -ms-flex-order: 3; order: 3 } .order-lg-4 { -ms-flex-order: 4; order: 4 } .order-lg-5 { -ms-flex-order: 5; order: 5 } .order-lg-6 { -ms-flex-order: 6; order: 6 } .order-lg-7 { -ms-flex-order: 7; order: 7 } .order-lg-8 { -ms-flex-order: 8; order: 8 } .order-lg-9 { -ms-flex-order: 9; order: 9 } .order-lg-10 { -ms-flex-order: 10; order: 10 } .order-lg-11 { -ms-flex-order: 11; order: 11 } .order-lg-12 { -ms-flex-order: 12; order: 12 } .offset-lg-0 { margin-left: 0 } .offset-lg-1 { margin-left: 8.333333% } .offset-lg-2 { margin-left: 16.666667% } .offset-lg-3 { margin-left: 25% } .offset-lg-4 { margin-left: 33.333333% } .offset-lg-5 { margin-left: 41.666667% } .offset-lg-6 { margin-left: 50% } .offset-lg-7 { margin-left: 58.333333% } .offset-lg-8 { margin-left: 66.666667% } .offset-lg-9 { margin-left: 75% } .offset-lg-10 { margin-left: 83.333333% } .offset-lg-11 { margin-left: 91.666667% } } @media (min-width:1200px) { .col-xl { -ms-flex-preferred-size: 0; flex-basis: 0; -ms-flex-positive: 1; flex-grow: 1; max-width: 100% } .col-xl-auto { -ms-flex: 0 0 auto; flex: 0 0 auto; width: auto; max-width: 100% } .col-xl-1 { -ms-flex: 0 0 8.333333%; flex: 0 0 8.333333%; max-width: 8.333333% } .col-xl-2 { -ms-flex: 0 0 16.666667%; flex: 0 0 16.666667%; max-width: 16.666667% } .col-xl-3 { -ms-flex: 0 0 25%; flex: 0 0 25%; max-width: 25% } .col-xl-4 { -ms-flex: 0 0 33.333333%; flex: 0 0 33.333333%; max-width: 33.333333% } .col-xl-5 { -ms-flex: 0 0 41.666667%; flex: 0 0 41.666667%; max-width: 41.666667% } .col-xl-6 { -ms-flex: 0 0 50%; flex: 0 0 50%; max-width: 50% } .col-xl-7 { -ms-flex: 0 0 58.333333%; flex: 0 0 58.333333%; max-width: 58.333333% } .col-xl-8 { -ms-flex: 0 0 66.666667%; flex: 0 0 66.666667%; max-width: 66.666667% } .col-xl-9 { -ms-flex: 0 0 75%; flex: 0 0 75%; max-width: 75% } .col-xl-10 { -ms-flex: 0 0 83.333333%; flex: 0 0 83.333333%; max-width: 83.333333% } .col-xl-11 { -ms-flex: 0 0 91.666667%; flex: 0 0 91.666667%; max-width: 91.666667% } .col-xl-12 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100% } .order-xl-first { -ms-flex-order: -1; order: -1 } .order-xl-last { -ms-flex-order: 13; order: 13 } .order-xl-0 { -ms-flex-order: 0; order: 0 } .order-xl-1 { -ms-flex-order: 1; order: 1 } .order-xl-2 { -ms-flex-order: 2; order: 2 } .order-xl-3 { -ms-flex-order: 3; order: 3 } .order-xl-4 { -ms-flex-order: 4; order: 4 } .order-xl-5 { -ms-flex-order: 5; order: 5 } .order-xl-6 { -ms-flex-order: 6; order: 6 } .order-xl-7 { -ms-flex-order: 7; order: 7 } .order-xl-8 { -ms-flex-order: 8; order: 8 } .order-xl-9 { -ms-flex-order: 9; order: 9 } .order-xl-10 { -ms-flex-order: 10; order: 10 } .order-xl-11 { -ms-flex-order: 11; order: 11 } .order-xl-12 { -ms-flex-order: 12; order: 12 } .offset-xl-0 { margin-left: 0 } .offset-xl-1 { margin-left: 8.333333% } .offset-xl-2 { margin-left: 16.666667% } .offset-xl-3 { margin-left: 25% } .offset-xl-4 { margin-left: 33.333333% } .offset-xl-5 { margin-left: 41.666667% } .offset-xl-6 { margin-left: 50% } .offset-xl-7 { margin-left: 58.333333% } .offset-xl-8 { margin-left: 66.666667% } .offset-xl-9 { margin-left: 75% } .offset-xl-10 { margin-left: 83.333333% } .offset-xl-11 { margin-left: 91.666667% } } .m-auto { margin: auto !important } .mt-auto, .my-auto { margin-top: auto !important } .mr-auto, .mx-auto { margin-right: auto !important } .mb-auto, .my-auto { margin-bottom: auto !important } .ml-auto, .mx-auto { margin-left: auto !important } .cta-group { gap: 1rem ; display: flex; flex-wrap: wrap; align-items: center;} .sr-valign-stretch .content-wrapper{display:flex;flex-direction:column} .sr-valign-stretch .cta-group { width: 100%; align-self: flex-end; margin-top: auto; } .text-left .cta-group{-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}.text-right .cta-group{-webkit-box-pack:end!important;-ms-flex-pack:end!important;justify-content:flex-end!important}.text-center .cta-group{-webkit-box-pack:center!important;-ms-flex-pack:center!important;justify-content:center!important}@media (min-width:576px){.text-sm-left .cta-group{-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}.text-sm-right .cta-group{-webkit-box-pack:end!important;-ms-flex-pack:end!important;justify-content:flex-end!important}.text-sm-center .cta-group{-webkit-box-pack:center!important;-ms-flex-pack:center!important;justify-content:center!important}}@media (min-width:768px){.text-md-left .cta-group{-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}.text-md-right .cta-group{-webkit-box-pack:end!important;-ms-flex-pack:end!important;justify-content:flex-end!important}.text-md-center .cta-group{-webkit-box-pack:center!important;-ms-flex-pack:center!important;justify-content:center!important}}@media (min-width:992px){.text-lg-left .cta-group{-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}.text-lg-right .cta-group{-webkit-box-pack:end!important;-ms-flex-pack:end!important;justify-content:flex-end!important}.text-lg-center .cta-group{-webkit-box-pack:center!important;-ms-flex-pack:center!important;justify-content:center!important}}@media (min-width:1200px){.text-xl-left .cta-group{-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}.text-xl-right .cta-group{-webkit-box-pack:end!important;-ms-flex-pack:end!important;justify-content:flex-end!important}.text-xl-center .cta-group{-webkit-box-pack:center!important;-ms-flex-pack:center!important;justify-content:center!important}}.text-justify{text-align:justify!important}.text-left{text-align:left!important}.text-right{text-align:right!important}.text-center{text-align:center!important}@media (min-width:576px){.text-sm-left{text-align:left!important}.text-sm-right{text-align:right!important}.text-sm-center{text-align:center!important}}@media (min-width:768px){.text-md-left{text-align:left!important}.text-md-right{text-align:right!important}.text-md-center{text-align:center!important}}@media (min-width:992px){.text-lg-left{text-align:left!important}.text-lg-right{text-align:right!important}.text-lg-center{text-align:center!important}}@media (min-width:1200px){.text-xl-left{text-align:left!important}.text-xl-right{text-align:right!important}.text-xl-center{text-align:center!important}} .d-none { display: none !important } .d-inline { display: inline !important } .d-inline-block { display: inline-block !important } .d-block { display: block !important } .d-flex { display: -ms-flexbox !important; display: flex !important } .d-inline-flex { display: -ms-inline-flexbox !important; display: inline-flex !important } @media (min-width:576px) { .d-sm-none { display: none !important } .d-sm-inline { display: inline !important } .d-sm-inline-block { display: inline-block !important } .d-sm-block { display: block !important } .d-sm-table { display: table !important } .d-sm-table-row { display: table-row !important } .d-sm-table-cell { display: table-cell !important } .d-sm-flex { display: -ms-flexbox !important; display: flex !important } .d-sm-inline-flex { display: -ms-inline-flexbox !important; display: inline-flex !important } } @media (min-width:768px) { .d-md-none { display: none !important } .d-md-inline { display: inline !important } .d-md-inline-block { display: inline-block !important } .d-md-block { display: block !important } .d-md-flex { display: -ms-flexbox !important; display: flex !important } .d-md-inline-flex { display: -ms-inline-flexbox !important; display: inline-flex !important } } @media (min-width:992px) { .d-lg-none { display: none !important } .d-lg-inline { display: inline !important } .d-lg-inline-block { display: inline-block !important } .d-lg-block { display: block !important } .d-lg-table { display: table !important } .d-lg-table-row { display: table-row !important } .d-lg-table-cell { display: table-cell !important } .d-lg-flex { display: -ms-flexbox !important; display: flex !important } .d-lg-inline-flex { display: -ms-inline-flexbox !important; display: inline-flex !important } } @media (min-width:1200px) { .d-xl-none { display: none !important } .d-xl-inline { display: inline !important } .d-xl-inline-block { display: inline-block !important } .d-xl-block { display: block !important } .d-xl-table { display: table !important } .d-xl-table-row { display: table-row !important } .d-xl-table-cell { display: table-cell !important } .d-xl-flex { display: -ms-flexbox !important; display: flex !important } .d-xl-inline-flex { display: -ms-inline-flexbox !important; display: inline-flex !important } } .flex-row { -ms-flex-direction: row !important; flex-direction: row !important } .flex-column { -ms-flex-direction: column !important; flex-direction: column !important } .flex-row-reverse { -ms-flex-direction: row-reverse !important; flex-direction: row-reverse !important } .flex-column-reverse { -ms-flex-direction: column-reverse !important; flex-direction: column-reverse !important } .flex-wrap { -ms-flex-wrap: wrap !important; flex-wrap: wrap !important } .flex-nowrap { -ms-flex-wrap: nowrap !important; flex-wrap: nowrap !important } .flex-wrap-reverse { -ms-flex-wrap: wrap-reverse !important; flex-wrap: wrap-reverse !important } .justify-content-start { -ms-flex-pack: start !important; justify-content: flex-start !important } .justify-content-end { -ms-flex-pack: end !important; justify-content: flex-end !important } .justify-content-center { -ms-flex-pack: center !important; justify-content: center !important } .justify-content-between { -ms-flex-pack: justify !important; justify-content: space-between !important } .justify-content-around { -ms-flex-pack: distribute !important; justify-content: space-around !important } .align-items-start { -ms-flex-align: start !important; align-items: flex-start !important } .align-items-end { -ms-flex-align: end !important; align-items: flex-end !important } .align-items-center { -ms-flex-align: center !important; align-items: center !important } .align-items-baseline { -ms-flex-align: baseline !important; align-items: baseline !important } .align-items-stretch { -ms-flex-align: stretch !important; align-items: stretch !important } .align-content-start { -ms-flex-line-pack: start !important; align-content: flex-start !important } .align-content-end { -ms-flex-line-pack: end !important; align-content: flex-end !important } .align-content-center { -ms-flex-line-pack: center !important; align-content: center !important } .align-content-between { -ms-flex-line-pack: justify !important; align-content: space-between !important } .align-content-around { -ms-flex-line-pack: distribute !important; align-content: space-around !important } .align-content-stretch { -ms-flex-line-pack: stretch !important; align-content: stretch !important } @media (min-width:576px) { .flex-sm-row { -ms-flex-direction: row !important; flex-direction: row !important } .flex-sm-column { -ms-flex-direction: column !important; flex-direction: column !important } .flex-sm-row-reverse { -ms-flex-direction: row-reverse !important; flex-direction: row-reverse !important } .flex-sm-column-reverse { -ms-flex-direction: column-reverse !important; flex-direction: column-reverse !important } .flex-sm-wrap { -ms-flex-wrap: wrap !important; flex-wrap: wrap !important } .flex-sm-nowrap { -ms-flex-wrap: nowrap !important; flex-wrap: nowrap !important } .flex-sm-wrap-reverse { -ms-flex-wrap: wrap-reverse !important; flex-wrap: wrap-reverse !important } .justify-content-sm-start { -ms-flex-pack: start !important; justify-content: flex-start !important } .justify-content-sm-end { -ms-flex-pack: end !important; justify-content: flex-end !important } .justify-content-sm-center { -ms-flex-pack: center !important; justify-content: center !important } .justify-content-sm-between { -ms-flex-pack: justify !important; justify-content: space-between !important } .justify-content-sm-around { -ms-flex-pack: distribute !important; justify-content: space-around !important } .align-items-sm-start { -ms-flex-align: start !important; align-items: flex-start !important } .align-items-sm-end { -ms-flex-align: end !important; align-items: flex-end !important } .align-items-sm-center { -ms-flex-align: center !important; align-items: center !important } .align-items-sm-baseline { -ms-flex-align: baseline !important; align-items: baseline !important } .align-items-sm-stretch { -ms-flex-align: stretch !important; align-items: stretch !important } .align-content-sm-start { -ms-flex-line-pack: start !important; align-content: flex-start !important } .align-content-sm-end { -ms-flex-line-pack: end !important; align-content: flex-end !important } .align-content-sm-center { -ms-flex-line-pack: center !important; align-content: center !important } .align-content-sm-between { -ms-flex-line-pack: justify !important; align-content: space-between !important } .align-content-sm-around { -ms-flex-line-pack: distribute !important; align-content: space-around !important } .align-content-sm-stretch { -ms-flex-line-pack: stretch !important; align-content: stretch !important } } @media (min-width:768px) { .flex-md-row { -ms-flex-direction: row !important; flex-direction: row !important } .flex-md-column { -ms-flex-direction: column !important; flex-direction: column !important } .flex-md-row-reverse { -ms-flex-direction: row-reverse !important; flex-direction: row-reverse !important } .flex-md-column-reverse { -ms-flex-direction: column-reverse !important; flex-direction: column-reverse !important } .flex-md-wrap { -ms-flex-wrap: wrap !important; flex-wrap: wrap !important } .flex-md-nowrap { -ms-flex-wrap: nowrap !important; flex-wrap: nowrap !important } .flex-md-wrap-reverse { -ms-flex-wrap: wrap-reverse !important; flex-wrap: wrap-reverse !important } .justify-content-md-start { -ms-flex-pack: start !important; justify-content: flex-start !important } .justify-content-md-end { -ms-flex-pack: end !important; justify-content: flex-end !important } .justify-content-md-center { -ms-flex-pack: center !important; justify-content: center !important } .justify-content-md-between { -ms-flex-pack: justify !important; justify-content: space-between !important } .justify-content-md-around { -ms-flex-pack: distribute !important; justify-content: space-around !important } .align-items-md-start { -ms-flex-align: start !important; align-items: flex-start !important } .align-items-md-end { -ms-flex-align: end !important; align-items: flex-end !important } .align-items-md-center { -ms-flex-align: center !important; align-items: center !important } .align-items-md-baseline { -ms-flex-align: baseline !important; align-items: baseline !important } .align-items-md-stretch { -ms-flex-align: stretch !important; align-items: stretch !important } .align-content-md-start { -ms-flex-line-pack: start !important; align-content: flex-start !important } .align-content-md-end { -ms-flex-line-pack: end !important; align-content: flex-end !important } .align-content-md-center { -ms-flex-line-pack: center !important; align-content: center !important } .align-content-md-between { -ms-flex-line-pack: justify !important; align-content: space-between !important } .align-content-md-around { -ms-flex-line-pack: distribute !important; align-content: space-around !important } .align-content-md-stretch { -ms-flex-line-pack: stretch !important; align-content: stretch !important } } @media (min-width:992px) { .flex-lg-row { -ms-flex-direction: row !important; flex-direction: row !important } .flex-lg-column { -ms-flex-direction: column !important; flex-direction: column !important } .flex-lg-row-reverse { -ms-flex-direction: row-reverse !important; flex-direction: row-reverse !important } .flex-lg-column-reverse { -ms-flex-direction: column-reverse !important; flex-direction: column-reverse !important } .flex-lg-wrap { -ms-flex-wrap: wrap !important; flex-wrap: wrap !important } .flex-lg-nowrap { -ms-flex-wrap: nowrap !important; flex-wrap: nowrap !important } .flex-lg-wrap-reverse { -ms-flex-wrap: wrap-reverse !important; flex-wrap: wrap-reverse !important } .justify-content-lg-start { -ms-flex-pack: start !important; justify-content: flex-start !important } .justify-content-lg-end { -ms-flex-pack: end !important; justify-content: flex-end !important } .justify-content-lg-center { -ms-flex-pack: center !important; justify-content: center !important } .justify-content-lg-between { -ms-flex-pack: justify !important; justify-content: space-between !important } .justify-content-lg-around { -ms-flex-pack: distribute !important; justify-content: space-around !important } .align-items-lg-start { -ms-flex-align: start !important; align-items: flex-start !important } .align-items-lg-end { -ms-flex-align: end !important; align-items: flex-end !important } .align-items-lg-center { -ms-flex-align: center !important; align-items: center !important } .align-items-lg-baseline { -ms-flex-align: baseline !important; align-items: baseline !important } .align-items-lg-stretch { -ms-flex-align: stretch !important; align-items: stretch !important } .align-content-lg-start { -ms-flex-line-pack: start !important; align-content: flex-start !important } .align-content-lg-end { -ms-flex-line-pack: end !important; align-content: flex-end !important } .align-content-lg-center { -ms-flex-line-pack: center !important; align-content: center !important } .align-content-lg-between { -ms-flex-line-pack: justify !important; align-content: space-between !important } .align-content-lg-around { -ms-flex-line-pack: distribute !important; align-content: space-around !important } .align-content-lg-stretch { -ms-flex-line-pack: stretch !important; align-content: stretch !important } } @media (min-width:1200px) { .flex-xl-row { -ms-flex-direction: row !important; flex-direction: row !important } .flex-xl-column { -ms-flex-direction: column !important; flex-direction: column !important } .flex-xl-row-reverse { -ms-flex-direction: row-reverse !important; flex-direction: row-reverse !important } .flex-xl-column-reverse { -ms-flex-direction: column-reverse !important; flex-direction: column-reverse !important } .flex-xl-wrap { -ms-flex-wrap: wrap !important; flex-wrap: wrap !important } .flex-xl-nowrap { -ms-flex-wrap: nowrap !important; flex-wrap: nowrap !important } .flex-xl-wrap-reverse { -ms-flex-wrap: wrap-reverse !important; flex-wrap: wrap-reverse !important } .justify-content-xl-start { -ms-flex-pack: start !important; justify-content: flex-start !important } .justify-content-xl-end { -ms-flex-pack: end !important; justify-content: flex-end !important } .justify-content-xl-center { -ms-flex-pack: center !important; justify-content: center !important } .justify-content-xl-between { -ms-flex-pack: justify !important; justify-content: space-between !important } .justify-content-xl-around { -ms-flex-pack: distribute !important; justify-content: space-around !important } .align-items-xl-start { -ms-flex-align: start !important; align-items: flex-start !important } .align-items-xl-end { -ms-flex-align: end !important; align-items: flex-end !important } .align-items-xl-center { -ms-flex-align: center !important; align-items: center !important } .align-items-xl-baseline { -ms-flex-align: baseline !important; align-items: baseline !important } .align-items-xl-stretch { -ms-flex-align: stretch !important; align-items: stretch !important } .align-content-xl-start { -ms-flex-line-pack: start !important; align-content: flex-start !important } .align-content-xl-end { -ms-flex-line-pack: end !important; align-content: flex-end !important } .align-content-xl-center { -ms-flex-line-pack: center !important; align-content: center !important } .align-content-xl-between { -ms-flex-line-pack: justify !important; align-content: space-between !important } .align-content-xl-around { -ms-flex-line-pack: distribute !important; align-content: space-around !important } .align-content-xl-stretch { -ms-flex-line-pack: stretch !important; align-content: stretch !important } }
+		</style>
+<!--     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js' crossorigin="anonymous"></script> -->
+		
+		
+		<!-- Global include of Slick CSS -->
+		
+		
+		
+		
+		
+		
+		
+		<!-- HubSpot video cookie-consent gate: inlined so it runs BEFORE HubSpot's
+		     video loader and can defer .hs-video-widget players until consent.
+		     NOTE: the include below bakes the JS in at COMPILE time — re-upload
+		     THIS file whenever js/hs-video-consent-gate.js changes (gate v4). -->
+		<script>/* ---------------------------------------------------------------------------
+   HubSpot video cookie-consent gate + accessible transcript toggle
+   (Reuters AODA — permanent fixture)
+
+   Inlined EARLY in <head> (before the standard_header_includes tag) so it strips
+   HubSpot video widgets BEFORE HubSpot's own video loader processes them.
+
+   What it does:
+   - Defers every HubSpot-hosted video (<div class="hs-video-widget"
+     data-hsv-embed-id="...">) until the visitor has accepted FUNCTIONALITY
+     cookies (HubSpot consent category 3). Until then the player iframe is never
+     given its src, so no player and no per-video tracking loads.
+   - Shows an accessible placeholder with a "Cookie settings" button that
+     reopens the HubSpot consent banner.
+   - On consent it restores the widget and re-inserts it, so HubSpot's own
+     MutationObserver renders the player normally.
+   - Wires accessible disclosure toggles for video transcripts
+     (.ra-video-transcript, rendered by the shared `video` macro).
+
+   No-op on pages without HubSpot video or transcripts.
+   --------------------------------------------------------------------------- */
+(function () {
+  'use strict';
+
+  var CONSENT_CATEGORY = '3'; // HubSpot "functionality" cookies
+  var TEXT = {
+    notice: 'This video is hosted by a third party and needs functionality cookies to play.',
+    button: 'Cookie settings',
+    show: 'Show video transcript',
+    hide: 'Hide video transcript'
+  };
+
+  /* ---- consent ---------------------------------------------------------- */
+
+  function hasFunctionalConsent() {
+    var raw = document.cookie.split('; ').filter(function (r) {
+      return r.indexOf('__hs_cookie_cat_pref=') === 0;
+    })[0];
+    if (!raw) return false;
+    var val;
+    try { val = decodeURIComponent(raw.split('=')[1]); } catch (e) { val = raw.split('=')[1]; }
+    return val.split('_').some(function (c) {
+      var p = c.split(':');
+      return p[0] === CONSENT_CATEGORY && p[1] === 'true';
+    });
+  }
+
+  function openCookieSettings(e) {
+    if (e) e.preventDefault();
+    // Reset the stored choice so the banner reappears and offers a fresh decision.
+    document.cookie = '__hs_cookie_cat_pref=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/';
+    if (window._hsp && typeof window._hsp.push === 'function') {
+      window._hsp.push(['showBanner']);
+    }
+  }
+
+  /* ---- video gate ------------------------------------------------------- */
+
+  var gated = [];      // HubSpot widgets we've deferred
+  var vimeoGated = []; // Vimeo iframes we've deferred
+
+  function buildPlaceholder() {
+    var ph = document.createElement('div');
+    ph.className = 'ra-video-consent';
+    ph.setAttribute('role', 'group');
+    ph.setAttribute('aria-label', 'Video requires cookie consent');
+
+    var notice = document.createElement('p');
+    notice.className = 'ra-video-consent__text';
+    notice.textContent = TEXT.notice;
+
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'ra-video-consent__btn';
+    btn.textContent = TEXT.button;
+    btn.addEventListener('click', openCookieSettings);
+
+    ph.appendChild(notice);
+    ph.appendChild(btn);
+    return ph;
+  }
+
+  function gate(widget) {
+    if (widget.getAttribute('data-hsv-embed-id-deferred')) return; // already gated
+    var id = widget.getAttribute('data-hsv-embed-id');
+    if (!id) return;
+    // Removing the trigger attribute makes HubSpot's loader selector
+    // (div.hs-video-widget[data-hsv-embed-id]:not([data-hsv-status])) skip it.
+    widget.setAttribute('data-hsv-embed-id-deferred', id);
+    widget.removeAttribute('data-hsv-embed-id');
+    widget.classList.add('ra-video--gated');
+    if (!widget.querySelector('.ra-video-consent')) {
+      widget.appendChild(buildPlaceholder());
+    }
+    if (gated.indexOf(widget) === -1) gated.push(widget);
+  }
+
+  function restore(widget) {
+    var id = widget.getAttribute('data-hsv-embed-id-deferred');
+    if (!id) return;
+    var ph = widget.querySelector('.ra-video-consent');
+    if (ph && ph.parentNode) ph.parentNode.removeChild(ph);
+    widget.classList.remove('ra-video--gated');
+    widget.removeAttribute('data-hsv-embed-id-deferred');
+    // Re-insert a fresh node carrying the embed id; HubSpot's persistent
+    // MutationObserver picks up the added node and renders the player.
+    var fresh = widget.cloneNode(true);
+    fresh.setAttribute('data-hsv-embed-id', id);
+    fresh.removeAttribute('data-hsv-status');
+    if (widget.parentNode) widget.parentNode.replaceChild(fresh, widget);
+  }
+
+  // ---- Vimeo (third-party iframe) -------------------------------------
+  // Migrated embeds ship the player URL in data-ra-vimeo-src (no src) so the
+  // iframe never loads until consent. Legacy raw embeds with a live src are
+  // also caught defensively — the src is moved to data-ra-vimeo-src (which
+  // cancels the in-flight load) so they gate too.
+  function gateVimeo(frame) {
+    if (frame.getAttribute('data-ra-gated')) return;
+    var src = frame.getAttribute('data-ra-vimeo-src');
+    if (!src && frame.src && /player\.vimeo\.com/.test(frame.src)) {
+      src = frame.src;
+      frame.setAttribute('data-ra-vimeo-src', src);
+      frame.removeAttribute('src');
+    }
+    if (!src) return;
+    frame.setAttribute('data-ra-gated', '1');
+    frame.style.display = 'none';
+    var wrap = (frame.closest && frame.closest('.ra-vimeo-embed')) || frame.parentNode;
+    if (wrap) {
+      wrap.classList.add('ra-vimeo--gated');
+      if (!wrap.querySelector('.ra-video-consent')) wrap.appendChild(buildPlaceholder());
+    }
+    if (vimeoGated.indexOf(frame) === -1) vimeoGated.push(frame);
+  }
+
+  function restoreVimeo(frame) {
+    var wrap = (frame.closest && frame.closest('.ra-vimeo-embed')) || frame.parentNode;
+    if (wrap) {
+      var ph = wrap.querySelector('.ra-video-consent');
+      if (ph && ph.parentNode) ph.parentNode.removeChild(ph);
+      wrap.classList.remove('ra-vimeo--gated');
+    }
+    activateVimeo(frame);
+  }
+
+  // With consent present we OWN the Vimeo src (HubSpot has no loader for these).
+  // Build a BRAND-NEW iframe and set its src via the .src PROPERTY — neither
+  // setAttribute('src') on the parsed src-less iframe nor a cloneNode+setAttribute
+  // reliably navigates it (the load is dropped and the frame stays blank); a
+  // freshly-created element with a property-assigned src loads correctly.
+  // Legacy frames already carrying a live src are left as-is.
+  var COPY_ATTRS = ['frameborder', 'allow', 'allowfullscreen', 'title', 'class', 'style', 'width', 'height', 'referrerpolicy', 'sandbox'];
+  function activateVimeo(frame) {
+    if (frame.getAttribute('data-ra-gated') === 'done') return;
+    var src = frame.getAttribute('data-ra-vimeo-src');
+    if (!src) { frame.setAttribute('data-ra-gated', 'done'); return; }
+    var fresh = document.createElement('iframe');
+    for (var i = 0; i < COPY_ATTRS.length; i++) {
+      if (frame.hasAttribute(COPY_ATTRS[i])) fresh.setAttribute(COPY_ATTRS[i], frame.getAttribute(COPY_ATTRS[i]));
+    }
+    fresh.setAttribute('data-ra-gated', 'done');
+    fresh.style.display = '';
+    if (frame.parentNode) frame.parentNode.replaceChild(fresh, frame);
+    fresh.src = src;
+  }
+
+  function scanAndGate() {
+    var consent = hasFunctionalConsent();
+    if (!consent) {
+      var list = document.querySelectorAll('.hs-video-widget[data-hsv-embed-id]');
+      for (var i = 0; i < list.length; i++) gate(list[i]);
+    }
+    var frames = document.querySelectorAll('iframe[data-ra-vimeo-src], iframe[src*="player.vimeo.com"]');
+    for (var j = 0; j < frames.length; j++) {
+      if (consent) activateVimeo(frames[j]); else gateVimeo(frames[j]);
+    }
+  }
+
+  // Catch widgets as they are parsed/injected, before HubSpot's loader scans.
+  var observer = null;
+  if (typeof MutationObserver === 'function') {
+    observer = new MutationObserver(scanAndGate);
+    try { observer.observe(document, { childList: true, subtree: true }); } catch (e) { observer = null; }
+  }
+  if (document.readyState !== 'loading') scanAndGate();
+  document.addEventListener('DOMContentLoaded', scanAndGate);
+
+  // Once consent is granted (banner accepted later), load every deferred video.
+  var poll = setInterval(function () {
+    if (!hasFunctionalConsent()) return;
+    clearInterval(poll);
+    if (observer) { observer.disconnect(); observer = null; }
+    gated.slice().forEach(restore);
+    gated.length = 0;
+    vimeoGated.slice().forEach(restoreVimeo);
+    vimeoGated.length = 0;
+  }, 1000);
+
+  /* ---- transcript disclosure ------------------------------------------- */
+
+  var transcriptSeq = 0;
+
+  function wireTranscripts() {
+    var toggles = document.querySelectorAll('.ra-video-transcript__toggle');
+    for (var i = 0; i < toggles.length; i++) {
+      (function (btn) {
+        if (btn.getAttribute('data-ra-wired')) return;
+        btn.setAttribute('data-ra-wired', '1');
+
+        var panel = document.getElementById(btn.getAttribute('aria-controls') || '');
+        if (!panel) {
+          panel = btn.parentNode && btn.parentNode.querySelector('.ra-video-transcript__panel');
+        }
+        if (!panel) return;
+        if (!panel.id) {
+          panel.id = 'ra-transcript-' + (++transcriptSeq);
+        }
+        btn.setAttribute('aria-controls', panel.id);
+        if (!btn.hasAttribute('aria-expanded')) btn.setAttribute('aria-expanded', 'false');
+        panel.hidden = btn.getAttribute('aria-expanded') !== 'true';
+
+        var label = btn.querySelector('.ra-video-transcript__label') || btn;
+
+        btn.addEventListener('click', function () {
+          var expanded = btn.getAttribute('aria-expanded') === 'true';
+          btn.setAttribute('aria-expanded', String(!expanded));
+          panel.hidden = expanded;
+          label.textContent = expanded ? TEXT.show : TEXT.hide;
+        });
+      })(toggles[i]);
+    }
+  }
+
+  if (document.readyState !== 'loading') wireTranscripts();
+  document.addEventListener('DOMContentLoaded', wireTranscripts);
+})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:description" content="">
+    <meta property="og:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link class="hs-async-css" rel="preload" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/118481670706/1792771056819/template_bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/118481670706/1792771056819/template_bootstrap.min.css"></noscript>
+<link class="hs-async-css" rel="preload" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/118481670729/1792771057471/template_sr-base.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/118481670729/1792771057471/template_sr-base.min.css"></noscript>
+<link class="hs-async-css" rel="preload" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/191351337853/1792771056046/template_slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/191351337853/1792771056046/template_slick.min.css"></noscript>
+<link class="hs-async-css" rel="preload" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/191351367231/1792771051424/template_slick-theme.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/191351367231/1792771051424/template_slick-theme.min.css"></noscript>
+<link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/217569671496/1792771061473/template_forms-aoda.min.css">
+<link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/214773931316/1792771052566/template_video-consent.min.css">
+<link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/223233115459/1792771054516/template_shared.min.css">
+<link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/181341344621/1792771055450/template_child.min.css">
+<link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/module_assets/1/181803742842/1780325482677/module_RA_Nav_Dropdown_01.min.css">
+
+<style>
+  .top-bar {
+    background-color: rgba(#null, 1.0);
+    color: rgba(204, 204, 204, 1.0);
+  }
+  .top-bar svg,
+  .top-bar svg g {
+    fill: rgba(204, 204, 204, 1.0);
+  }
+  .close-top-bar i {
+    color: rgba(204, 204, 204, 1.0);
+    opacity: 0.8;
+    position: absolute;
+    right: 15px;
+    font-size: 1.3rem;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .navbar-nav .nav-link:not(.btn) {
+    padding-right: 0;
+    padding-left: 0
+  }
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center
+  }
+  .navbar-toggler {
+    padding: 0;
+    font-size: 1.3375rem;
+    line-height: 1;
+    background-color: transparent;
+    border: .0625rem solid transparent;
+    border-radius: .25rem
+  }
+  @media (max-width:1200px) {
+    .navbar-toggler {
+      font-size: calc(1.25875rem + .105vw)
+    }
+  }
+  .navbar-toggler:focus,
+  .navbar-toggler:hover {
+    text-decoration: none
+  }
+  .navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background-image: none !Important;
+  }
+  .mobile-only {
+    display:block;
+  }
+  .top-bar ul {
+    display:none;
+  }
+  @media (min-width:1200px) {
+    .language-wrapper {
+      margin-right: -.75rem;
+    }
+    .mobile-only {
+      display:none;
+    }
+    .top-bar ul {
+      display:block;
+    }
+    .navbar-expand-xl .navbar-nav .nav-link {
+      /*       padding-right: 0.75rem;
+      padding-left: 0.75rem; */
+      padding-right: 16.5px;
+      padding-left: 16.5px;
+    }
+    .navbar-expand-xl .navbar-toggler {
+      display: none
+    }
+  }
+  .sr-navbar .navbar-toggler {
+    color: #2f3338;
+    border-color: transparent;
+    border: none;
+  }
+  .headroom {
+    will-change: transform;
+    background-color: inherit;
+    transition: all .2s ease
+  }
+  .headroom--pinned,
+  .headroom--unpinned,
+  .position-fixed {
+    position: fixed!important
+  }
+  @media (prefers-reduced-motion:reduce) {
+    .headroom {
+      transition: none
+    }
+  }
+  .headroom--pinned {
+    transform: translateY(0)
+  }
+  .headroom--not-top .navbar-theme-default .navbar-brand-light,
+  .navbar-theme-default .navbar-brand-dark {
+    display: none
+  }
+  .headroom--not-top .navbar-theme-default .navbar-brand-dark {
+    display: block
+  }
+  .navbar .dropdown-menu {
+    border: 0;
+    padding:35px 35px 82px;
+    margin: 0;
+    /*     box-shadow: 0 1rem 3rem rgb(11 11 12 / 5%); */
+    box-shadow: 0px 25px 66px #0000001A;
+    /*     border: 3px solid; */
+    background-color: rgba(255, 255, 255, 1.0);
+    min-width:290px;
+  }
+  @keyframes show-navbar-collapse {
+    0% {
+      opacity: 0;
+      transform: scale(.95);
+      transform-origin: 100% 0
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1)
+    }
+  }
+  .navbar-main {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    -webkit-box-shadow: 15px 10px 20px 0 rgba(0, 0, 0, 0.0);
+    box-shadow: 15px 10px 20px 0 rgba(0, 0, 0, 0.0);
+    -webkit-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+  }
+  .headroom--not-top .navbar-main {
+    -webkit-box-shadow: 15px 10px 20px 0 rgba(0, 0, 0, 0.05);
+    box-shadow: 15px 10px 20px 0 rgba(0, 0, 0, 0.05);
+  }
+  .navbar .navbar-nav .nav-item .media:not(:last-child) {
+    margin-bottom: 1.5rem
+  }
+  .navbar .navbar-nav .dropdown .dropdown-menu {
+    top: 100%;
+  }
+  .dropdown-menu.show {
+    display: block !important;
+  }
+  .navbar .navbar-nav .dropdown-submenu {
+    position: relative
+  }
+  .navbar .navbar-nav .dropdown-submenu .dropdown-menu {
+    display: none;
+    top: -5px;
+    left: 100%;
+    opacity: 0
+  }
+  .dropdown-toggle::after {
+    display: none;
+  }
+  .nav-ctas {
+    align-self: center;
+  }
+  .navbar-nav .nav-link.disabled-pointer {
+    pointer-events: none;
+  }
+  @media (min-width:1200px) {
+    .nav-ctas {
+      margin-left: 1.25rem;
+    }
+    .navbar-nav > .nav-item {
+      position: relative
+    }
+    .navbar-nav > .nav-item [data-toggle=dropdown]::after {
+      transition: all .2s ease
+    }
+    .navbar-nav > .nav-item.show [data-toggle=dropdown]::after {
+      transform: rotate(180deg)
+    }
+    .navbar-nav > .nav-item:not(.dropdown):after, .navbar-nav .nav-item.active:after {
+      content: '';
+      height: 3px;
+      transition: .3s ease all;
+      position: absolute;
+      bottom: 12px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 0
+    }
+    .navbar-nav > .nav-item:not(.dropdown):hover:after, .navbar-nav > .nav-item.active:after {
+      width: 80%
+    }
+    .navbar-nav .nav-item.dropdown.active:after {
+      left: 46%;
+    }
+    .navbar-nav > .nav-item.dropdown.active:after {
+      width: 76%
+    }
+    .navbar-nav .nav-link {
+      /*       padding-top: 2rem;
+      padding-bottom: 2rem;
+      border-radius: .25rem */
+      padding-top:26.5px;
+      padding-bottom:26.5px;
+    }
+    .navbar-nav .nav-link i {
+      margin-right: .3rem;
+      font-size: 1.25rem;
+    }
+    .navbar-nav .nav-link-icon {
+      padding-left: .5rem;
+      padding-right: .5rem;
+      font-size: 1rem;
+      border-radius: .25rem
+    }
+    .navbar-nav .nav-link-icon i {
+      margin-right: 0
+    }
+    .navbar-nav .dropdown-menu-right:before {
+      right: 20px;
+      left: auto
+    }
+    .navbar-nav .dropdown-menu.show {
+      opacity: 1;
+      pointer-events: auto;
+      animation: show-navbar-dropdown .25s ease forwards
+    }
+    .navbar-nav .dropdown-menu.close {
+      display: block;
+      animation: hide-navbar-dropdown .15s ease backwards
+    }
+    .navbar-nav .dropdown-menu {
+      display: block;
+      opacity: 0;
+      pointer-events: none;
+      transition: all .2s ease;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
+    .navbar-nav .dropdown-submenu:hover > .dropdown-menu,
+    .navbar-nav .dropdown:hover > .dropdown-menu {
+      display: block;
+      opacity: 1;
+      pointer-events: auto;
+      visibility: visible;
+      transform: translate(0, -7.5px);
+    }
+    /* Show dropdown when .show class is present (keyboard or touch users) */
+    .navbar-nav > .dropdown.show > .dropdown-menu {
+      display: block;
+      opacity: 1;
+      pointer-events: auto;
+      visibility: visible;
+      transform: translate(0, -7.5px);
+    }
+
+    .navbar-nav .dropdown-menu-inner {
+      position: relative;
+      padding: 1rem
+    }
+    .navbar-collapse > .container,
+    .navbar-collapse > .container-fluid {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -ms-flex-align: center;
+      align-items: center;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      padding: 0;
+    }
+  }
+  .navbar-collapse-header {
+    display: none
+  }
+  @media (max-width:1199.98px) {
+    .navbar .navbar-nav .dropdown-submenu.show .dropdown-menu {
+      display: block !important;
+      opacity: 1 !important;
+      pointer-events: all !important;
+      margin-left: 2rem;
+    }
+    .navbar-nav .nav-link {
+      padding: .85rem 0
+    }
+    .navbar-nav .dropdown-menu {
+      box-shadow: none;
+      min-width: auto
+    }
+    .navbar-nav .dropdown-menu .media svg {
+      width: 30px
+    }
+    .navbar-collapse {
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1050;
+      overflow-y: auto;
+      height: calc(100vh)!important;
+      opacity: 0
+    }
+    .navbar-collapse .navbar-toggler {
+      position: relative;
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      padding: 0
+    }
+    .navbar-collapse .navbar-toggler span {
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 2px;
+      border-radius: 2px;
+      opacity: 1;
+      background: #283448
+    }
+    .navbar-collapse .navbar-collapse-header {
+      display: block;
+      padding-bottom: 1rem;
+    }
+    .navbar-collapse .collapse-close {
+      text-align: right
+    }
+    .navbar-collapse.collapsing,
+    .navbar-collapse.show {
+      padding: 1rem;
+      border-radius: .2rem;
+      background-color: rgba(255, 255, 255, 1.0);
+      animation: show-navbar-collapse .2s ease forwards;
+      box-shadow: 0 0 20px rgba(0, 0, 0, .1)
+    }
+    .navbar-collapse.collapsing-out {
+      animation: hide-navbar-collapse .2s ease forwards
+    }
+    @keyframes hide-navbar-collapse {
+      from {
+        opacity: 1;
+        transform: scale(1);
+        transform-origin: 100% 0
+      }
+      to {
+        opacity: 0;
+        transform: scale(.95)
+      }
+    }
+    @keyframes show-navbar-dropdown {
+      0% {
+        opacity: 0;
+        transform: translate(0, 10px) perspective(200px) rotateX(-2deg);
+        transition: visibility .45s, opacity .45s, transform .45s
+      }
+      100% {
+        transform: translate(0, 0);
+        opacity: 1
+      }
+    }
+
+    @keyframes hide-navbar-dropdown {
+      from {
+        opacity: 1
+      }
+      to {
+        opacity: 0;
+        transform: translate(0, 10px)
+      }
+    }
+    @keyframes show-dropdown {
+      0% {
+        opacity: 0;
+        transform-origin: perspective(200px) rotateX(-2deg);
+        transition: visibility .45s, opacity .5s
+      }
+      100% {
+        opacity: 1
+      }
+    }
+    @keyframes hide-dropdown {
+      from {
+        opacity: 1
+      }
+      to {
+        opacity: 0;
+        transform: translate(0, 10px)
+      }
+    }
+  }
+  .navbar-main {
+    padding: 0.5rem 1rem;
+  }
+  @media (min-width: 1200px) {
+    .navbar-main {
+      padding: 0rem 5rem;
+    }
+  }
+  /*   .dropdown-menu {
+  min-width: 14rem
+  } */
+  .dropdown-menu .dropdown-header,
+  .dropdown-menu .dropdown-item {
+    padding: .7rem 1.85rem;
+  }
+  .dropdown-menu .dropdown-header {
+    color: #4b4d58;
+    font-weight: 600
+  }
+  .show .dropdown-menu {
+    animation: show-dropdown .2s ease forwards !important;
+  }
+  .dropdown-toggle:after,
+  .dropleft .dropdown-toggle:before,
+  .dropright .dropdown-toggle:after,
+  .dropup .dropdown-toggle:after {
+    display: none
+  }
+  .headroom--not-top .navbar-theme-default {
+    background-color: rgba(255, 255, 255, 1.0);
+    box-shadow: 0 0 30px 0 rgba(119,131,143,0.20);
+  }
+  .navbar-nav > .nav-item:not(.dropdown):after, .navbar-nav .nav-item.active:after {
+    background: rgba(214, 64, 0, 1.0);;
+  }
+  .sr-navbar .navbar-nav .nav-link,
+  .sr-navbar .navbar-nav .active > .nav-link,
+  .globe_class {
+    color: rgba(33, 34, 35, 1.0);
+  }
+  .sr-navbar .navbar-nav svg,
+  .sr-navbar .navbar-nav svg g,
+  .navbar-collapse .collapse-close svg g {
+    fill: rgba(33, 34, 35, 1.0) !important;
+  }
+  .sr-navbar .navbar-nav .nav-link:focus svg,
+  .sr-navbar .navbar-nav .nav-link:hover svg g,
+  .dropdown-item:focus svg,
+  .dropdown-item:hover svg g {
+    fill: rgba(214, 64, 0, 1.0); !important;
+  }
+  .toggler path {
+    stroke: rgba(33, 34, 35, 1.0);
+  }
+  .dropdown-item,
+  .lang_list_class li a {
+    
+    color: rgba(33, 34, 35, 1.0) !important;
+    
+  }
+  .sr-navbar .navbar-nav .nav-link.disabled {
+    color: rgba(33, 34, 35, 1.0) !important;
+  }
+  .navbar .navbar-nav .dropdown .dropdown-item,
+  .navbar .navbar-nav .nav-link,
+  .lang_list_class li a {
+    
+    font-weight: normal; text-decoration: none; font-family: arial, helvetica, sans-serif; font-style: normal;
+    font-size: 15px;
+    
+    
+  }
+  
+  .headroom--not-top .navbar-theme-default .nav-link,
+  .headroom--not-top .navbar-theme-default .active > .nav-link,
+  .headroom--not-top .globe_class,
+  .headroom--not-top .lang_list_class li a{
+    color: rgba(33, 34, 35, 1.0) !important;
+  }
+  .headroom--not-top .navbar-nav svg,
+  .headroom--not-top .navbar-nav svg g {
+    fill: rgba(33, 34, 35, 1.0) !important;
+  }
+  .headroom--not-top .navbar-theme-default > .nav-item:not(.dropdown):after,
+  .headroom--not-top .navbar-theme-default .nav-item.active:after,
+  .headroom--not-top .navbar-theme-default .nav-item:not(.dropdown):after,
+  .headroom--not-top .navbar-theme-default .nav-item:after {
+    background: rgba(214, 64, 0, 1.0);;
+  }
+  .headroom--not-top .navbar-theme-default .toggler path {
+    stroke: rgba(33, 34, 35, 1.0);
+  }
+  
+  .sr-navbar .navbar-nav .nav-link:focus,
+  .sr-navbar .navbar-nav .nav-link:hover,
+  .dropdown-item:focus,
+  .dropdown-item:hover,
+  .lang_list_class li a:hover,
+  .globe_class:hover {
+    color: rgba(214, 64, 0, 1.0) !important;
+    background: none;
+  }
+  
+
+  
+  .navbar-main {
+    position: relative;
+    background-color: rgba(255, 255, 255, 1.0)
+  }
+  body {
+    -webkit-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+  }
+  
+  
+  
+  .headroom--unpinned {
+    transform: translateY(-100%)
+  }
+  
+  @media (max-width:1199.98px) {
+    .navbar .navbar-nav .dropdown .dropdown-menu {
+      /*       border-top: 0;
+      border-left: 3px solid; */
+      border-radius: 0;
+    }
+  }
+  .navbar-collapse-header .container {
+    display: block;
+  }
+  /** Search CSS **/
+  .search {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: relative;
+  }
+  input.hs-search-field__input.form-control {
+    padding: 0;
+    height: auto;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #d9d9d9;
+    border-radius: 0;
+  }
+  .navbar-search-form-wrapper {
+    position: absolute;
+    background: #fff;
+    
+    right: 100%;
+    
+    width: 0;
+    -webkit-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    opacity: 0;
+  }
+  .navbar-search-form-wrapper.open {
+    opacity: 1;
+  }
+  .navbar-search-form-wrapper.open {
+    width: 250px;
+  }
+  .navbar-search-form-wrapper .hs-search-field {
+    width: 100%;
+    -webkit-box-shadow: 0 3px 20px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 3px 20px 0 rgba(0,0,0,0.1);
+  }
+  span.sr-search-toggle {
+    position: relative;
+    z-index: 1;
+  }
+  input.hs-search-field__input.form-control {
+    color: #262628;
+  }
+  .sr-nav .hs-menu-depth-1 > a:not(.cta-button), .show-search {
+    color: #FFFFFF;
+    -webkit-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+  }
+  .mobile-nav {
+    display:none;
+  }
+  .desktop-nav {
+    display:flex;
+  }
+  .lang_switcher_class {
+    border-color: inherit;
+  }
+  .globe_class:before {
+    content: "\f0ac";
+  }
+  .globe_class {
+    font-family: FontAwesome;
+    font-size: 1.5rem;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: none !important;
+    position: relative;
+    padding: 2.7rem 1.5rem 2.7rem 2.25rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border-color: inherit;
+  }
+  .lang_list_class {
+    top: 100% !important;
+    left: 60% !important;
+    box-shadow: 0 1rem 3rem rgb(11 11 12 / 5%);
+    border-top: 2px solid;
+    border-color: inherit;
+    padding: 0;
+    min-width: 12rem;
+    padding: .7rem 0;
+    background: #fff;
+    text-align: left;
+  }
+  .lang_list_class li {
+    border: none !important;
+    padding: 0 !important;
+  }
+  .lang_list_class li a {
+    padding: 1rem 1.85rem;
+    display: block;
+  }
+  .lang_list_class:after,
+  .lang_list_class:before {
+    display: none;
+  }
+  
+  @media (max-width: 1199.98px) {
+    .sr-navbar .navbar-nav .nav-link,
+    .sr-navbar .navbar-nav .active > .nav-link,
+    .globe_class,
+    .lang_list_class li a {
+      
+      color: rgba(33, 34, 35, 1.0) !important;
+      
+    }
+    .sr-navbar .navbar-nav svg,
+    .sr-navbar .navbar-nav svg g,
+    .navbar-collapse .collapse-close svg g{
+      
+      fill: rgba(33, 34, 35, 1.0) !important;
+      
+    }
+    .globe_class {
+      padding: 1rem 0 2rem 0;
+      margin-top: 1.5rem;
+      width: 100%;
+      font-size: 2rem;
+      -webkit-box-pack: start;
+      -ms-flex-pack: start;
+      justify-content: flex-start;
+    }
+    .globe_class:hover .lang_list_class {
+      display: block;
+      left: 0 !important;
+      transform: none;
+      text-align: left;
+      box-shadow: none;
+      border-left: 2px solid;
+      border-color: inherit;
+      border-top: 0;
+      width: 100%;
+    }
+    .mobile-nav {
+      display:block;
+    }
+    .desktop-nav {
+      display:none;
+    }
+    .navbar-collapse .container,
+    .navbar-collapse .container-fluid {
+      display: block;
+      padding: 0;
+    }
+    .search {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+      flex-direction: row-reverse;
+      -webkit-box-pack: end;
+      -ms-flex-pack: end;
+      justify-content: flex-end;
+      margin: 0.5rem 0;
+    }
+    .navbar-search-form-wrapper {
+      width: 100% !important;
+      max-width:400px;
+/*       margin-right: 1rem; */
+      margin-right: 0;
+      left: 0;
+      right: 0;
+      opacity: 1;
+      position: relative;
+    }
+    .navbar-search-form-wrapper .hs-search-field {
+      -webkit-box-shadow: none;
+      box-shadow: none;
+    }
+    .sr-nav .hs-menu-depth-1 > a:not(.cta-button):hover {
+      color: #333;
+      opacity: .6;
+    }
+    input.hs-search-field__input.form-control {
+      color: rgba(85,85,8, 5);
+    }
+    input.hs-search-field__input.form-control {
+      border-bottom: 1px solid #333;
+    }
+  }
+
+  /** Top Bar **/
+  .top-bar {
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-align:space-between;
+    -ms-flex-align:space-between;
+    align-items:space-between;
+    width:100%;
+  }
+  .top-bar .right {
+    text-align:right;
+  }
+  .top-bar ul {
+    padding-left:0;
+    margin:0;
+  }
+  .top-bar ul li {
+    list-style-type:none;
+    display:inline-block;
+    padding:.5rem 0;
+  }
+  .top-bar ul li a {
+    padding-right:2rem;
+    color:#fff;
+    font-size:0.8rem;
+  }
+  .top-bar ul li a:hover {
+    filter: brightness(110%);
+  }
+  .top-bar ul li:last-child a {
+    padding-right:0;
+  }
+  nav#navbar-main {
+    width:100%;
+    left: 0;
+    top:0;
+    z-index:100;
+  }
+  .top-bar-text p {
+    margin:0;
+    font-size:0.9rem;
+  }
+  .top-bar-text {
+    padding:0.25rem 2rem;
+    text-align:center;
+  }
+  .close-top-bar i:hover {
+    cursor:pointer;
+    opacity:1;
+  }
+  .hubspot-disable-focus-styles {
+    margin: 0 !important
+  }
+  .hubspot-disable-focus-styles nav#navbar-main {
+    position: relative !important;
+  }
+</style>
+
+<link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/module_assets/1/182435256419/1784548627712/module_RA_Footer_04.min.css">
+<style>
+  @font-face {
+    font-family: "Poppins";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Poppins/700.woff2") format("woff2"), url("/_hcms/googlefonts/Poppins/700.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Poppins";
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Poppins/300.woff2") format("woff2"), url("/_hcms/googlefonts/Poppins/300.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Poppins";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Poppins/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Poppins/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Poppins";
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Poppins/600.woff2") format("woff2"), url("/_hcms/googlefonts/Poppins/600.woff") format("woff");
+  }
+</style>
+
+    
+
+    
+    <link rel="canonical" href="https://reutersagency.com/404">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T8JPVB');</script>
+<!-- End Google Tag Manager -->
+ 
+<style>
+  #hs-banner-parent #hs-eu-cookie-confirmation {
+    max-width: 100% !important;
+    max-height: 100% !important;
+}
+  div#hs-eu-cookie-confirmation {
+    height: 100% !important;
+    background-color: #000000b8 !important;
+    width: 100% !important;
+    padding: 10% 18%;
+    border-radius: 0px !important;
+}
+  div#hs-eu-cookie-confirmation-inner {
+    background-color: #fff !important;
+}
+ p {
+   line-height: 1.5rem;
+</style>
+<meta property="og:url" content="https://reutersagency.com/404">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+
+
+
+
+
+
+
+    <link rel="preload" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/181803746710/1792771050649/template_custom-styles.min.css?v=1.0.1" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/181803746710/1792771050649/template_custom-styles.min.css?v=1.0.1"></noscript>		
+		
+		
+		
+		
+	<meta name="generator" content="HubSpot"></head>
+
+<body class="">
+  <a class="bb-SkipLink" href="#main-content">Skip to main content</a>
+
+  
+  
+  
+  <div data-global-resource-path="Reuters Agency Theme/templates/partials/site_header.html"><div class="container-fluid">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1729693345235" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+<nav id="navbar-main" class="ra-nav-dropdown headroom headroom--not-bottom headroom--pinned headroom--top" aria-label="Global navigation">
+  <!-- CLI Update -->
+  
+  <div class="top-bar">
+    <div class="container">
+      <div class="row">
+        
+        
+        <div class="col-8 left">
+          
+              <div class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" data-sitemap-name="default">
+                <nav aria-label="Related company websites navigation">
+                  <ul>
+                    
+                      <li class="hs-menu-item hs-menu-depth-1 primary">
+                        
+                        
+                        <a href="">
+                          Reuters News Agency
+                        </a>
+                      </li>
+                    
+                      <li class="hs-menu-item hs-menu-depth-1 secondary">
+                        
+                        
+                        <a href="https://www.reutersconnect.com/">
+                          Reuters Connect
+                        </a>
+                      </li>
+                    
+                      <li class="hs-menu-item hs-menu-depth-1 secondary">
+                        
+                        
+                        <a href="https://www.reutersprofessional.com/homepage/p/1">
+                          Reuters Professional
+                        </a>
+                      </li>
+                    
+                  </ul>
+                </nav>
+              </div>
+            
+        </div>
+        <div class="col-4 right">
+  <div class="d-flex">
+
+    
+    <div class="search-group d-flex align-items-center">
+
+      
+      
+        <div class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" data-sitemap-name="default">
+          <nav aria-label="Customer Support">
+            <ul>
+              
+                <li class="hs-menu-item hs-menu-depth-1 primary">
+                  
+                  
+                  <a href="https://liaison.reuters.com/contact-us">
+                    Customer Support
+                  </a>
+                </li>
+              
+            </ul>
+          </nav>
+        </div>
+      
+
+      
+      
+      <div class="search">
+        <span class="nav-link sr-search-toggle">
+          <button id="searchbutton" class="show-search" type="button" aria-label="Search the Reuters Agency site" aria-expanded="false" aria-controls="searchtarget">
+            <!--?xml version="1.0" encoding="UTF-8"?-->
+            <svg width="15px" height="15px" viewbox="0 0 15 15" role="img" aria-hidden="true" focusable="false">
+              <title>Search</title>
+                <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+                  <g id="Homepage" transform="translate(-1227.000000, -55.000000)" fill="#262628" fill-rule="nonzero">
+                    <g id="masthead">
+                      <g id="nav" transform="translate(50.000000, 34.000000)">
+                        <g id="Group-23" transform="translate(496.000000, 0.000000)">
+                          <g id="Group-22" transform="translate(0.000000, 18.000000)">
+                            <g id="magnifying-glass-(1)" transform="translate(681.000000, 3.000000)">
+                              <path d="M14.8702595,14.2350333 L11.2242182,10.5898004 C12.2022621,9.46563193 12.7944112,7.99889135 12.7944112,6.39578714 C12.7944112,2.86696231 9.92348636,0 6.39720559,0 C2.86759814,0 0,2.87028825 0,6.39578714 C0,9.92128603 2.87092482,12.7915743 6.39720559,12.7915743 C8.00066534,12.7915743 9.4677312,12.1995565 10.592149,11.2217295 L14.2381903,14.8669623 C14.324684,14.9534368 14.4411178,15 14.5542249,15 C14.667332,15 14.7837658,14.9567627 14.8702595,14.8669623 C15.0432468,14.6940133 15.0432468,14.4079823 14.8702595,14.2350333 Z M0.894876913,6.39578714 C0.894876913,3.36252772 3.36327345,0.898004435 6.39387891,0.898004435 C9.42781104,0.898004435 11.8928809,3.36585366 11.8928809,6.39578714 C11.8928809,9.42572062 9.42781104,11.8968958 6.39387891,11.8968958 C3.36327345,11.8968958 0.894876913,9.42904656 0.894876913,6.39578714 Z" id="icon-search"></path>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+            </svg>
+          </button>
+        </span>
+        <div id="searchtarget" class="navbar-search-form-wrapper active" role="search" aria-hidden="true" data-focus-scope>
+          <div class="hs-search-field">
+            <div class="hs-search-field__bar">
+              <form action="/hs-search-results">
+                <input id="site-search-input" type="text" class="hs-search-field__input form-control" name="term" autocomplete="off" aria-label="Search" tabindex="-1">
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+
+    </div>
+    
+
+    
+    <div class="cta-group ">
+      <div class="btn-wrapper btn-primary-wrapper btn-wrapper-sm">
+        
+        
+        <a class="cta-button" href="https://reutersagency.com/contact-us/">
+          
+          <span>Contact Us</span>
+          
+        </a>
+      </div>
+    </div>
+    
+
+  </div>
+</div>
+        
+      </div>
+    </div>
+  </div>
+  
+  <nav aria-label="Primary navigation">
+  <div class="navbar navbar-main navbar-expand-xl navbar-theme-default sr-navbar bottom-bar-exists">
+    <div class="container">
+      <a class="navbar-brand" href="https://reutersagency.com" aria-label="Reuters - Home" title="Reuters - Home">
+
+        
+        <img src="https://reutersagency.com/hubfs/reuters-logo.svg" class="navbar-brand-light" alt="" loading="eager" width="123" height="34">
+
+      </a>
+      <div class="navbar-collapse collapse" id="navbar_global">
+
+        <div class="container">
+          <div class="navbar-collapse-header">
+            <div class="row">
+              <div class="col-6 collapse-brand">
+                <a id="mobile-menu-nav" href="https://reutersagency.com" aria-label="reuters-logo Home">
+                  <img src="https://reutersagency.com/hubfs/reuters-logo.svg" alt="" loading="eager" width="180" height="50">
+                </a>
+              </div>
+              <div class="col-6 collapse-close">
+                <a href="#navbar_global" role="button" data-toggle="collapse" data-target="#navbar_global" aria-controls="navbar_global" aria-expanded="false" aria-label="Toggle navigation">
+                  <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 352 512" width="20" aria-hidden="true"><g id="Times1_layer"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z" /></g></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          
+
+          
+
+          
+
+          <ul class="navbar-nav navbar-nav-hover justify-content-center ml-auto desktop-nav">
+            
+            
+            <li class="nav-item  dropdown">
+                 
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/content/"><span class="nav-link-inner-text mr-1">Content</span></a>
+               <button class="dropdown-trigger" aria-expanded="false" aria-controls="dropdown-Content">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10">
+                  <g id="chevron-down2_layer">
+                    <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                  </g>
+                </svg>
+                <span class="sr-only">Toggle dropdown</span>
+               </button>
+              
+              
+              <div class="dropdown-menu mega">
+                
+                
+                <div class="dropdown-mega">
+                  <div class="megamenu-content three">
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content/content-types/" tabindex="-1"> Content Types
+                        </a>
+                        </h2>
+                        
+                        
+                        <ul class="box-links">
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/text/" tabindex="-1">Text</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/pictures/" tabindex="-1">Pictures</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/video/" tabindex="-1">Video</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/audio/" tabindex="-1">Audio</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/graphics/" tabindex="-1">Graphics</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/ready-to-publish" tabindex="-1">Ready to Publish</a>
+                          </li>
+                          
+                          
+                        </ul>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content/coverage-expertise/" tabindex="-1"> Coverage Expertise
+                        </a>
+                        </h2>
+                        
+                        
+                        <ul class="box-links">
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/breaking-news/" tabindex="-1">Breaking News</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/user-generated-content/" tabindex="-1">User Generated Content</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/sports" tabindex="-1">Sports</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/politics/" tabindex="-1">Politics</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/business-finance/" tabindex="-1">Business &amp; Finance</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/climate/" tabindex="-1">Climate</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/human-interest/" tabindex="-1">Human Interest</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/technology/" tabindex="-1">Technology</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/entertainment/" tabindex="-1">Entertainment</a>
+                          </li>
+                          
+                          
+                        </ul>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content/archive/" tabindex="-1"> Archive
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Access the most iconic moments in history to enhance your storytelling</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/partners" tabindex="-1"> Content Partners
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Find out more about our 100+ Reuters Connect content partners</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/reuters-usa-today-network" tabindex="-1"> USA TODAY Network Partnership
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Access top stories from state and local publications across the United States</p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                  </div>
+                </div>
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown">
+                 
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/who-we-serve/"><span class="nav-link-inner-text mr-1">Who We Serve</span></a>
+               <button class="dropdown-trigger" aria-expanded="false" aria-controls="dropdown-Who We Serve">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10">
+                  <g id="chevron-down2_layer">
+                    <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                  </g>
+                </svg>
+                <span class="sr-only">Toggle dropdown</span>
+               </button>
+              
+              
+              <div class="dropdown-menu mega">
+                
+                
+                <div class="dropdown-mega">
+                  <div class="megamenu-content three">
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/media/" tabindex="-1"> Media
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Powerful content solutions for media organizations</span></p></div>
+                        
+                        <ul class="box-links">
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/who-we-serve/broadcasters/" tabindex="-1">Broadcasters</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/who-we-serve/publishers/" tabindex="-1">Publishers</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/who-we-serve/news-creators" tabindex="-1">News Creators</a>
+                          </li>
+                          
+                          
+                        </ul>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/advertising-agencies" tabindex="-1"> Ad Agencies
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Authentic visuals for advertising and creative teams</p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/corporates-government/" tabindex="-1"> Corporates &amp; Government
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Strategic solutions for decision makers in business and government</span></p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/sports-leagues-federations/" tabindex="-1"> Sports Leagues &amp; Federations
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Media management and content monetization for Sports Leagues and Federations</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/financial-institutions/" tabindex="-1"> Financial Institutions
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>News and insights delivered through our exclusive partnership with LSEG</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/production-houses" tabindex="-1"> Production Houses
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Archival&nbsp;Footage for TV &amp; Film Production Companies</p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                  </div>
+                </div>
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown">
+                 
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/content-delivery-platforms/"><span class="nav-link-inner-text mr-1">Products &amp; Solutions</span></a>
+               <button class="dropdown-trigger" aria-expanded="false" aria-controls="dropdown-Products &amp; Solutions">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10">
+                  <g id="chevron-down2_layer">
+                    <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                  </g>
+                </svg>
+                <span class="sr-only">Toggle dropdown</span>
+               </button>
+              
+              
+              <div class="dropdown-menu mega">
+                
+                
+                <div class="dropdown-mega">
+                  <div class="megamenu-content three">
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content-delivery-platforms/reuters-connect/" tabindex="-1"> Reuters Connect: One platform powering your content needs
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Access all Reuters content and over 100 media brands in one platform<br><br></p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/verification-services/" tabindex="-1"> Verification &amp; Fact Checking
+                        </a>
+                        </h2>
+                        <div class="box-description"><div style="color: #212529; background-color: #ffffff;">
+<p style="line-height: 20px; color: #30343b;"><span style="color: #30343b; line-height: 20px;">Separate fact from fiction with Reuters</span></p>
+</div></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/content-distribution/" tabindex="-1"> Content Distribution &amp; Monetization
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span style="color: #30343b; background-color: #ffffff;">Streamline your content operations and monetize your media assets</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content-delivery-platforms/satellite-delivery/" tabindex="-1"> World News Express: Satellite Delivery 
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Integrate Reuters Video and Live Video into your broadcast workflows flows via satellite with simplicity and ease</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/ai-training-rag/" tabindex="-1"> AI Training &amp; RAG
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span style="color: #30343b; background-color: #ffffff;">Harness the accuracy and authority of Reuters to supercharge your AI model</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content-delivery-platforms/content-delivery" tabindex="-1"> Reuters content delivery: Streamline your workflows
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Power your workflows with Reuters multimedia content, delivered through flexible methods that fit your needs</span></p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                        
+                        <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/advertising/" tabindex="-1"> Advertising
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span style="color: #30343b; background-color: #ffffff;">Unlock unparalleled opportunities for your brand</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                  </div>
+                </div>
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item ">
+                 
+              
+              
+              <a class="nav-link" href="https://reutersagency.com/technology-ai/">Technology &amp; AI
+              </a>
+              
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown">
+                 
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/events-and-webinars"><span class="nav-link-inner-text mr-1">What's New</span></a>
+               <button class="dropdown-trigger" aria-expanded="false" aria-controls="dropdown-What's New">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10">
+                  <g id="chevron-down2_layer">
+                    <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                  </g>
+                </svg>
+                <span class="sr-only">Toggle dropdown</span>
+               </button>
+              
+              
+              <div class="dropdown-menu simple">
+                
+                <div class="dropdown-simple">
+                  
+                  <ul class="dropdown-menu-links">
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/editorial-highlights" tabindex="-1">Editorial Highlights</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/technology-highlights" tabindex="-1">Technology Highlights</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/events-and-webinars" tabindex="-1">Events</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://www.reuters.com/media-center/" target="_blank" rel="noopener" tabindex="-1">Media Centre</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/insights" tabindex="-1">Insights</a></h2>
+                      </li>
+                      
+                    
+                  </ul>
+                  
+                </div>
+                
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown last-item">
+                 
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/about/"><span class="nav-link-inner-text mr-1">Company</span></a>
+               <button class="dropdown-trigger" aria-expanded="false" aria-controls="dropdown-Company">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10">
+                  <g id="chevron-down2_layer">
+                    <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                  </g>
+                </svg>
+                <span class="sr-only">Toggle dropdown</span>
+               </button>
+              
+              
+              <div class="dropdown-menu simple">
+                
+                <div class="dropdown-simple">
+                  
+                  <ul class="dropdown-menu-links">
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/reuters-175-years" tabindex="-1">Reuters 175 Years</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/about/our-trust-principles/" tabindex="-1">Our Trust Principles</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/about/leadership-team/" tabindex="-1">Leadership Team</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/award-winning-reuters-journalism" tabindex="-1">Awards</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/careers" tabindex="-1">Careers</a></h2>
+                      </li>
+                      
+                    
+                      
+                      <li class="dd-item">
+                        
+                        
+                        <h2 class="h5 box-heading">
+                          <a class="dd-item-link" href="https://reutersagency.com/about/" tabindex="-1">About Us</a></h2>
+                      </li>
+                      
+                    
+                  </ul>
+                  
+                </div>
+                
+                
+              </div>
+              
+            </li>
+            
+            
+
+            
+
+            <!-- topbar left menu -->
+            
+            <!-- topbar right menu -->
+            
+          </ul>
+          <!-- mobile nav -->
+          <ul class="navbar-nav navbar-nav-hover justify-content-center ml-auto mobile-nav">
+            
+            
+            <li class="nav-item  dropdown">
+              
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/content/"><span class="nav-link-inner-text mr-1">Content</span> <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10" aria-hidden="true" role="presentation" focusable="false">
+                <g id="chevron-down2_layer">
+                  <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                </g>
+                </svg></a>
+              
+              
+              <div class="dropdown-menu mega">
+                
+                
+                <div class="dropdown-mega">
+                  <div class="megamenu-content three">
+                    <h2 class="h5 box-heading static">
+	<a class="nav-link-inner" href="https://reutersagency.com/content/">Content</a></h2>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content/content-types/"> Content Types
+                        </a>
+                        </h2>
+                        
+                        
+                        <ul class="box-links">
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/text/">Text</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/pictures/">Pictures</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/video/">Video</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/audio/">Audio</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/graphics/">Graphics</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/content-types/ready-to-publish">Ready to Publish</a>
+                          </li>
+                          
+                          
+                        </ul>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content/coverage-expertise/"> Coverage Expertise
+                        </a>
+                        </h2>
+                        
+                        
+                        <ul class="box-links">
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/breaking-news/">Breaking News</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/user-generated-content/">User Generated Content</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/sports">Sports</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/politics/">Politics</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/business-finance/">Business &amp; Finance</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/climate/">Climate</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/human-interest/">Human Interest</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/technology/">Technology</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/content/coverage-expertise/entertainment/">Entertainment</a>
+                          </li>
+                          
+                          
+                        </ul>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content/archive/"> Archive
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Access the most iconic moments in history to enhance your storytelling</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/partners"> Content Partners
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Find out more about our 100+ Reuters Connect content partners</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/reuters-usa-today-network"> USA TODAY Network Partnership
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Access top stories from state and local publications across the United States</p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                  </div>
+                </div>
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown">
+              
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/who-we-serve/"><span class="nav-link-inner-text mr-1">Who We Serve</span> <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10" aria-hidden="true" role="presentation" focusable="false">
+                <g id="chevron-down2_layer">
+                  <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                </g>
+                </svg></a>
+              
+              
+              <div class="dropdown-menu mega">
+                
+                
+                <div class="dropdown-mega">
+                  <div class="megamenu-content three">
+                    <h2 class="h5 box-heading static">
+	<a class="nav-link-inner" href="https://reutersagency.com/who-we-serve/">Who We Serve</a></h2>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/media/"> Media
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Powerful content solutions for media organizations</span></p></div>
+                        
+                        <ul class="box-links">
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/who-we-serve/broadcasters/">Broadcasters</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/who-we-serve/publishers/">Publishers</a>
+                          </li>
+                          
+                          
+                          
+                          <li>
+                            
+                            
+                            <a href="https://reutersagency.com/who-we-serve/news-creators">News Creators</a>
+                          </li>
+                          
+                          
+                        </ul>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/advertising-agencies"> Ad Agencies
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Authentic visuals for advertising and creative teams</p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/corporates-government/"> Corporates &amp; Government
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Strategic solutions for decision makers in business and government</span></p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/sports-leagues-federations/"> Sports Leagues &amp; Federations
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Media management and content monetization for Sports Leagues and Federations</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/financial-institutions/"> Financial Institutions
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>News and insights delivered through our exclusive partnership with LSEG</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/who-we-serve/production-houses"> Production Houses
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Archival&nbsp;Footage for TV &amp; Film Production Companies</p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                  </div>
+                </div>
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown">
+              
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/content-delivery-platforms/"><span class="nav-link-inner-text mr-1">Products &amp; Solutions</span> <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10" aria-hidden="true" role="presentation" focusable="false">
+                <g id="chevron-down2_layer">
+                  <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                </g>
+                </svg></a>
+              
+              
+              <div class="dropdown-menu mega">
+                
+                
+                <div class="dropdown-mega">
+                  <div class="megamenu-content three">
+                    <h2 class="h5 box-heading static">
+	<a class="nav-link-inner" href="https://reutersagency.com/content-delivery-platforms/">Products &amp; Solutions</a></h2>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content-delivery-platforms/reuters-connect/"> Reuters Connect: One platform powering your content needs
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Access all Reuters content and over 100 media brands in one platform<br><br></p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/verification-services/"> Verification &amp; Fact Checking
+                        </a>
+                        </h2>
+                        <div class="box-description"><div style="color: #212529; background-color: #ffffff;">
+<p style="line-height: 20px; color: #30343b;"><span style="color: #30343b; line-height: 20px;">Separate fact from fiction with Reuters</span></p>
+</div></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/content-distribution/"> Content Distribution &amp; Monetization
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span style="color: #30343b; background-color: #ffffff;">Streamline your content operations and monetize your media assets</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content-delivery-platforms/satellite-delivery/"> World News Express: Satellite Delivery 
+                        </a>
+                        </h2>
+                        <div class="box-description"><p>Integrate Reuters Video and Live Video into your broadcast workflows flows via satellite with simplicity and ease</p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/ai-training-rag/"> AI Training &amp; RAG
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span style="color: #30343b; background-color: #ffffff;">Harness the accuracy and authority of Reuters to supercharge your AI model</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="content-column">
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/content-delivery-platforms/content-delivery"> Reuters content delivery: Streamline your workflows
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span>Power your workflows with Reuters multimedia content, delivered through flexible methods that fit your needs</span></p></div>
+                        
+                      </div>
+                      
+                      <div class="content-box">
+                            <h2 class="h5 box-heading">
+                        
+                        
+                        <a href="https://reutersagency.com/solutions/advertising/"> Advertising
+                        </a>
+                        </h2>
+                        <div class="box-description"><p><span style="color: #30343b; background-color: #ffffff;">Unlock unparalleled opportunities for your brand</span></p></div>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                  </div>
+                </div>
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item ">
+              
+              
+              
+              <a class="nav-link" href="https://reutersagency.com/technology-ai/">Technology &amp; AI
+              </a>
+              
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown">
+              
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/events-and-webinars"><span class="nav-link-inner-text mr-1">What's New</span> <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10" aria-hidden="true" role="presentation" focusable="false">
+                <g id="chevron-down2_layer">
+                  <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                </g>
+                </svg></a>
+              
+              
+              <div class="dropdown-menu simple">
+                
+                <div class="dropdown-simple">
+                  
+                  <ul class="dropdown-menu-links">
+                      <li class="dd-item">
+                       <h2 class="h5 box-heading">
+                         <a class="dd-item-link" href="https://reutersagency.com/events-and-webinars" tabindex="-1">What's New
+                         </a>
+                       </h2>
+                     </li>
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/editorial-highlights" tabindex="-1">Editorial Highlights
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/technology-highlights" tabindex="-1">Technology Highlights
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/events-and-webinars" tabindex="-1">Events
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://www.reuters.com/media-center/" target="_blank" rel="noopener" tabindex="-1">Media Centre
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/insights" tabindex="-1">Insights
+                      </a>
+                    </li>
+                    
+                    
+                  </ul>
+                  
+                </div>
+                
+                
+              </div>
+              
+            </li>
+            
+            
+            
+            <li class="nav-item  dropdown">
+              
+              
+              
+               <a class="nav-link nav-link-d d-flex align-items-center" data-toggle="dropdown" role="button" href="https://reutersagency.com/about/"><span class="nav-link-inner-text mr-1">Company</span> <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" width="10" aria-hidden="true" role="presentation" focusable="false">
+                <g id="chevron-down2_layer">
+                  <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+                </g>
+                </svg></a>
+              
+              
+              <div class="dropdown-menu simple">
+                
+                <div class="dropdown-simple">
+                  
+                  <ul class="dropdown-menu-links">
+                      <li class="dd-item">
+                       <h2 class="h5 box-heading">
+                         <a class="dd-item-link" href="https://reutersagency.com/about/" tabindex="-1">Company
+                         </a>
+                       </h2>
+                     </li>
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/reuters-175-years" tabindex="-1">Reuters 175 Years
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/about/our-trust-principles/" tabindex="-1">Our Trust Principles
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/about/leadership-team/" tabindex="-1">Leadership Team
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/award-winning-reuters-journalism" tabindex="-1">Awards
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/careers" tabindex="-1">Careers
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="dd-item">
+                      
+                      
+                      <a class="dd-item-link" href="https://reutersagency.com/about/" tabindex="-1">About Us
+                      </a>
+                    </li>
+                    
+                    
+                  </ul>
+                  
+                </div>
+                
+                
+              </div>
+              
+            </li>
+            
+            
+            
+
+            <!-- topbar left menu -->
+            
+
+            <!-- topbar right menu -->
+            
+
+            
+            <li>
+              <div class="search">
+                <span class="nav-link sr-search-toggle">
+                  <a class="show-search" href="#">
+                    <!--?xml version="1.0" encoding="UTF-8"?--> <svg width="15px" height="15px" viewbox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024"> <g id="Homepage" transform="translate(-1227.000000, -55.000000)" fill="#262628" fill-rule="nonzero"> <g id="masthead"> <g id="nav" transform="translate(50.000000, 34.000000)"> <g id="Group-23" transform="translate(496.000000, 0.000000)"> <g id="Group-22" transform="translate(0.000000, 18.000000)"> <g id="magnifying-glass-(1)" transform="translate(681.000000, 3.000000)"> <path d="M14.8702595,14.2350333 L11.2242182,10.5898004 C12.2022621,9.46563193 12.7944112,7.99889135 12.7944112,6.39578714 C12.7944112,2.86696231 9.92348636,0 6.39720559,0 C2.86759814,0 0,2.87028825 0,6.39578714 C0,9.92128603 2.87092482,12.7915743 6.39720559,12.7915743 C8.00066534,12.7915743 9.4677312,12.1995565 10.592149,11.2217295 L14.2381903,14.8669623 C14.324684,14.9534368 14.4411178,15 14.5542249,15 C14.667332,15 14.7837658,14.9567627 14.8702595,14.8669623 C15.0432468,14.6940133 15.0432468,14.4079823 14.8702595,14.2350333 Z M0.894876913,6.39578714 C0.894876913,3.36252772 3.36327345,0.898004435 6.39387891,0.898004435 C9.42781104,0.898004435 11.8928809,3.36585366 11.8928809,6.39578714 C11.8928809,9.42572062 9.42781104,11.8968958 6.39387891,11.8968958 C3.36327345,11.8968958 0.894876913,9.42904656 0.894876913,6.39578714 Z" id="icon-search"></path> </g> </g> </g> </g> </g> </g> </g> </svg>
+                  </a>
+                </span>
+                <div class="navbar-search-form-wrapper active">
+                  <div class="hs-search-field">
+                    <div class="hs-search-field__bar">
+                      <form action="/hs-search-results">
+                        <input type="text" class="hs-search-field__input form-control" name="term" autocomplete="off" aria-label="Search">
+                        <button class="btn-submit" type="submit">
+                            <!--?xml version="1.0" encoding="UTF-8"?-->
+                  <svg width="15px" height="15px" viewbox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+                      <g id="Homepage" transform="translate(-1227.000000, -55.000000)" fill="#262628" fill-rule="nonzero">
+                        <g id="masthead">
+                          <g id="nav" transform="translate(50.000000, 34.000000)">
+                            <g id="Group-23" transform="translate(496.000000, 0.000000)">
+                              <g id="Group-22" transform="translate(0.000000, 18.000000)">
+                                <g id="magnifying-glass-(1)" transform="translate(681.000000, 3.000000)">
+                                  <path d="M14.8702595,14.2350333 L11.2242182,10.5898004 C12.2022621,9.46563193 12.7944112,7.99889135 12.7944112,6.39578714 C12.7944112,2.86696231 9.92348636,0 6.39720559,0 C2.86759814,0 0,2.87028825 0,6.39578714 C0,9.92128603 2.87092482,12.7915743 6.39720559,12.7915743 C8.00066534,12.7915743 9.4677312,12.1995565 10.592149,11.2217295 L14.2381903,14.8669623 C14.324684,14.9534368 14.4411178,15 14.5542249,15 C14.667332,15 14.7837658,14.9567627 14.8702595,14.8669623 C15.0432468,14.6940133 15.0432468,14.4079823 14.8702595,14.2350333 Z M0.894876913,6.39578714 C0.894876913,3.36252772 3.36327345,0.898004435 6.39387891,0.898004435 C9.42781104,0.898004435 11.8928809,3.36585366 11.8928809,6.39578714 C11.8928809,9.42572062 9.42781104,11.8968958 6.39387891,11.8968958 C3.36327345,11.8968958 0.894876913,9.42904656 0.894876913,6.39578714 Z" id="icon-search"></path>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </svg>
+                        </button>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                
+            <div class="cta-group cta-group-xs" style="display:none">
+              <div class="btn-wrapper btn-primary-wrapper btn-wrapper-sm">
+                
+                
+                <a class="cta-button" href="https://reutersagency.com/contact-us/">
+                  
+                  <span>Contact Us</span>
+                  
+                </a>
+              </div>
+            </div>
+            
+            </li>
+            
+
+          </ul>
+          
+
+          
+
+          
+        </div>
+      </div>
+      <div class="d-flex d-xl-none align-items-center">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar_global" aria-controls="navbar_global" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"><svg class="toggler" viewbox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><path stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22" /></svg></span></button>
+      </div>
+    </div>
+  </div>
+  </nav>
+  
+  <div class="bottom-bar">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 bottom-bar-text">
+          
+            
+            
+            <a href="https://reutersagency.com/digital-news-report-2026-regional-webinar-series">
+          
+              
+                  <span class="stop-animate"><strong>Watch On-Demand&nbsp;&gt; Digital News Report 2026 Regional Webinar Series</strong></span>
+              
+          
+            </a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</nav>
+
+
+
+
+
+
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_17515322305843" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span>
+  <span id="hs_cos_wrapper_module_17515322305843_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"></span>
+</span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div></div>
+  
+  
+
+  
+  
+  <main id="main-content" class="body-container-wrapper">
+    <section class="content-wrapper">
+      <div class="error-page" data-error="404">
+        <div id="hs_cos_wrapper_content" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_content_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1>Error 404. Page not found.</h1></span></div>
+       <a href="https://reutersagency.com/">Go to Home</a>
+      </div>
+    </section>
+  </main>
+  
+
+
+  
+  
+  
+  <div data-global-resource-path="Reuters Agency Theme/templates/partials/site_footer.html"><div class="container-fluid">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1730894150164" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+	
+
+	
+
+	<footer class="sr-footer sr-footer-04 widget_1730894150164 ">
+		<div class="sr-footer-nav">
+			<div class="top">
+				<div class="container">
+					<div class="row">
+						<div class="col-md">
+							<div class="footer-logo">
+								<a href="/">
+									<img src="https://reutersagency.com/hubfs/reuters-logo.svg" alt="reuters-logo" loading="lazy" width="123" height="34">
+								</a>
+							</div>
+						</div>
+						<div class="col-md">
+							<div class="menu-wrapper">
+								
+								<h2 class="h6">Contact</h2>
+								
+								<ul class="list-unstyled">
+									
+										<li>
+											<a href="https://reutersagency.com/contact-us/">Ways to contact us</a>
+										</li>
+									
+										<li>
+											<a href="https://reutersagency.com/contact-us/enquire/">Contact sales</a>
+										</li>
+									
+										<li>
+											<a href="https://liaison.reuters.com/contact-us">Contact customer services</a>
+										</li>
+									
+										<li>
+											<a href="https://www.thomsonreuters.com/en/careers.html">Explore careers at Reuters</a>
+										</li>
+									
+								</ul>
+							</div>
+						</div>
+						<div class="col-md">
+							<div class="menu-wrapper">
+								<h2 class="h6">Useful Links</h2>
+								
+								<ul class="list-unstyled">
+									
+										<li>
+											<a href="https://reutersagency.com/protection-of-reuters-copyright-rights/">Protection of Reuters Copyrights</a>
+										</li>
+									
+										<li>
+											<a href="https://reutersagency.com/license-reuters-content/">License Reuters Content</a>
+										</li>
+									
+										<li>
+											<a href="https://reutersagency.com/brand-attribution-guidelines/">Brand Attribution Guidelines</a>
+										</li>
+									
+										<li>
+											<a href="https://reutersagency.com/lang-disclaimer/">Automated Translation Disclaimer</a>
+										</li>
+									
+										<li>
+											<a href="https://reutersagency.com/events-archive/">Events Archive</a>
+										</li>
+									
+								</ul>
+							</div>
+						</div>
+						<div class="col-md">
+							
+								<ul class="social text-md-right">
+									
+									<li>
+											<a class="no-decoration" href="https://www.instagram.com/reuters/" target="_blank" rel="nofollow noopener" aria-label="Follow Us on Instagram">
+											<i class="icon-1">
+												<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" height="16" aria-hidden="true"><g id="Instagram2_layer"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></g></svg>
+											</i>
+										</a>
+									</li>
+									
+									<li>
+											<a class="no-decoration" href="https://x.com/ReutersAgency" target="_blank" rel="nofollow noopener" aria-label="Follow Us on X (Twitter)">
+											<i class="icon-2">
+												<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" height="16" aria-hidden="true"><g id="X Twitter3_layer"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></g></svg>
+											</i>
+										</a>
+									</li>
+									
+									<li>
+											<a class="no-decoration" href="https://www.linkedin.com/company/reuters-news-agency/" target="_blank" rel="nofollow noopener" aria-label="Follow Us on LinkedIn">
+											<i class="icon-3">
+												<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" height="16" aria-hidden="true"><g id="LinkedIn In4_layer"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z" /></g></svg>
+											</i>
+										</a>
+									</li>
+									
+									<li>
+											<a class="no-decoration" href="https://www.youtube.com/@reuters_connect" target="_blank" rel="nofollow noopener" aria-label="Follow Us on YouTube">
+											<i class="icon-4">
+												<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" height="16" aria-hidden="true"><g id="YouTube5_layer"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></g></svg>
+											</i>
+										</a>
+									</li>
+									
+								</ul>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="bottom-bar">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-9">
+							<div class="menu-wrapper">
+								
+								<ul>
+									
+										<li>
+											<a href="https://www.thomsonreuters.com/en/privacy-statement.html">Privacy Policy</a>
+										</li>
+									
+										<li>
+											<a href="https://www.thomsonreuters.com/en/privacy-statement.html#CookieIBA">Cookie Policy</a>
+										</li>
+									
+										<li>
+											<a href="#modify-cookie-settings">Cookie Settings</a>
+										</li>
+									
+										<li>
+											<a href="https://www.thomsonreuters.com/en/policies/copyright.html">Copyright</a>
+										</li>
+									
+										<li>
+											<a href="https://www.thomsonreuters.com/en/terms-of-use.html">Terms</a>
+										</li>
+									
+										<li>
+											<a href="https://www.thomsonreuters.com/en/modern-slavery-act.html">Supply Chain Transparency</a>
+										</li>
+									
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="copyright">
+								<p class="small">2026 Copyright ©. All rights reserved.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="subfooter">
+				<div class="container">
+					<p class="small">Built by <a href="//www.innovationvisual.com/" target="_blank">Innovation Visual</a></p>
+				</div>
+			</div>
+		</div>
+		
+	</footer>
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div></div>
+  
+  
+
+  
+<script src="https://reutersagency.com/hubfs/hub_generated/template_assets/1/118481670717/1792771052725/template_jquery.min.js" crossorigin="anonymous"></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+
+<!-- HubSpot performance collection script -->
+<script defer src="/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js"></script>
+<script src="https://reutersagency.com/hubfs/hub_generated/template_assets/1/181331297673/1792771054758/template_child.min.js"></script>
+<script defer src="https://reutersagency.com/hubfs/hub_generated/template_assets/1/217565124408/1792771050605/template_forms-aoda.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="https://reutersagency.com/hubfs/jquery.marquee.min.js"></script>
+<script src="https://reutersagency.com/hubfs/hub_generated/module_assets/1/181803742842/1780325482677/module_RA_Nav_Dropdown_01.min.js"></script>
+<script defer src="https://reutersagency.com/hubfs/hub_generated/template_assets/1/119341055082/1792771061000/template_headroom.min.js"></script>
+
+<script>
+  var w = getViewport();
+
+  function getViewport() {
+    var viewPortWidth;
+
+    if (typeof window.innerWidth != 'undefined') {
+      viewPortWidth = window.innerWidth;
+    } else if (typeof document.documentElement != 'undefined' && typeof document.documentElement.clientWidth != 'undefined' && document.documentElement.clientWidth != 0) {
+      viewPortWidth = document.documentElement.clientWidth;
+    } else {
+      viewPortWidth = document.getElementsByTagName('body')[0].clientWidth;
+    }
+    return viewPortWidth;
+  }
+
+  $(document).on('click', '.navbar-nav > .dropdown', function(e) {
+    if (w > 1200) {
+      e.stopPropagation();
+    }
+  });
+
+  $(document).on('click', '.navbar-nav > .dropdown a.nav-link, .navbar-nav > .dropdown a.dropdown-item', function(e) {
+    if (w > 1200) {
+      if ($(this).attr('target') == '_blank') {
+        window.open($(this).attr("href"), '_blank');
+      } else {
+        window.location = $(this).attr("href");
+      }
+    }
+  });
+
+  var $navbarCollapse = $('.navbar-main .collapse');
+  // Collapse navigation
+  $navbarCollapse.on('hide.bs.collapse', function() {
+    var $this = $(this);
+    $this.addClass('collapsing-out');
+  });
+
+  $navbarCollapse.on('hidden.bs.collapse', function() {
+    var $this = $(this);
+    $this.removeClass('collapsing-out');
+  });
+
+  $('.navbar-main .dropdown').on('hide.bs.dropdown', function() {
+    var $this = $(this).find('.dropdown-menu');
+    $this.addClass('close');
+    setTimeout(function() {
+      $this.removeClass('close');
+    }, 200);
+  });
+
+  $('.nav-link').not(".nav-link-d").on('click', function() {
+    $('.navbar-collapse').collapse('hide');
+  });
+
+  // Close top bar button
+  $('.close-top-bar i').click(function() {
+    $('.top-bar-text').css("display", "none");
+    var navbarHeight = $('#navbar-main').outerHeight();
+    $('body').attr('style', 'margin-top:' + navbarHeight + 'px');
+  });
+
+  
+  $(document).ready(function() {
+    
+    window.addEventListener("resize", function() {
+      var navbarHeight = document.querySelector("#navbar-main").clientHeight;
+      document.querySelector("body").style.marginTop = navbarHeight + "px";
+    });
+    window.dispatchEvent(new Event("resize"));
+    
+    if ($('.headroom')[0]) {
+      var headroom = new Headroom(document.querySelector("#navbar-main"), {
+        offset: 0,
+        tolerance: {
+          up: 1,
+          down: 0
+        },
+      });
+      headroom.init();
+    }
+  });
+  
+
+  (function() {
+    let trapElement = null;
+    let focusableElements = [];
+    let firstFocusable = null;
+    let lastFocusable = null;
+
+    function getFocusableElements(container) {
+      return container.querySelectorAll(
+        'a[href], area[href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), button:not([disabled]), iframe, object, embed, [tabindex]:not([tabindex="-1"]), [contenteditable]'
+      );
+    }
+
+    function trapFocusIn(element) {
+      trapElement = element;
+      focusableElements = Array.from(getFocusableElements(trapElement)).filter(el => el.offsetParent !== null);
+
+      if (focusableElements.length) {
+        firstFocusable = focusableElements[0];
+        lastFocusable = focusableElements[focusableElements.length - 1];
+        firstFocusable.focus();
+      }
+
+      document.addEventListener('keydown', handleTrapKeydown);
+    }
+
+    function releaseFocusTrap() {
+      document.removeEventListener('keydown', handleTrapKeydown);
+      trapElement = null;
+      focusableElements = [];
+      firstFocusable = null;
+      lastFocusable = null;
+    }
+
+    function handleTrapKeydown(e) {
+      if (!trapElement) return;
+
+      if (e.key === 'Tab') {
+        const active = document.activeElement;
+        const isFirst = active === firstFocusable;
+        const isLast = active === lastFocusable;
+
+        if (e.shiftKey) {
+          if (isFirst) {
+            e.preventDefault();
+            lastFocusable.focus();
+          }
+        } else {
+          if (isLast) {
+            e.preventDefault();
+            firstFocusable.focus();
+          }
+        }
+      }
+
+      // Optional: Allow ESC to close the mobile nav
+      if (e.key === 'Escape') {
+        $('.navbar-collapse').collapse('hide');
+      }
+    }
+
+    $(document).on('shown.bs.collapse', '.navbar-collapse', function () {
+      trapFocusIn(this);
+    });
+
+    $(document).on('hidden.bs.collapse', '.navbar-collapse', function () {
+      releaseFocusTrap();
+      $('.navbar-toggler').focus();
+    });
+
+  })();
+</script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/reutersagency.com\/404"]);
+_hsq.push(["setPageId", ""]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": null,
+    "legacyPageId": null,
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": null,
+    "languageCode": "en",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/19565931.js?businessUnitId=1827112"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "83fc154f-85dc-403f-8c3a-f1f45bd26dd8",
+    ticks: 1792772121791,
+    page_id: 0,
+    
+    content_group_id: 0,
+    portal_id: 19565931,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    
+    analytics_page_id: "null",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.640/js/index.js"></script>
+
+
+
+
+<script defer src="https://reutersagency.com/hubfs/hub_generated/template_assets/1/118481670716/1792771057694/template_interaction.min.js"></script>
+
+
+<script>window.SR_PLYR_JS = "//19565931.fs1.hubspotusercontent-na1.net/hubfs/19565931/hub_generated/template_assets/1/223313565082/1792771053154/template_plyr.min.js"; window.SR_PLYR_CSS = "//19565931.fs1.hubspotusercontent-na1.net/hubfs/19565931/hub_generated/template_assets/1/223313925207/1792771053589/template_plyr.min.css";</script>
+<link rel="stylesheet" href="https://reutersagency.com/hubfs/hub_generated/template_assets/1/223313925209/1792771053534/template_video-player.min.css">
+<script defer src="https://reutersagency.com/hubfs/hub_generated/template_assets/1/223313925205/1792771050638/template_video-player.min.js"></script>
+
+
+
+<!-- Global include of Slick JS -->
+<script src="https://reutersagency.com/hubfs/hub_generated/template_assets/1/191351367235/1792771058468/template_slick.min.js"></script>
+
+<script>
+	document.addEventListener('focusin', function(event) {
+	  // Check if focus has moved into a Slick slider (or any element inside it)
+	  const focusedSlider = event.target.closest('.slick-slider');
+
+	  if (focusedSlider) {
+			console.log("focussed in")
+	    // Loop over all Slick sliders on the page
+	    $('.slick-slider.slick-initialized').each(function() {
+	      // Pause each one (whether it's the focused one or not)
+	      $(this).slick('slickPause');
+//				$(this).slick('slickSetOption', 'autoplay', false, true);
+	    });
+	  }
+	});
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+
+		function clearHubSpotCookieConsent() {
+		  // HubSpot cookie names can vary, but these are typical ones to clear consent state
+			const cookiesToClear = [
+        '__hs_cookie_cat_pref',
+        '__hs_opt_out',
+        '__hs_do_not_track',
+        'hubspotutk'
+      ];
+
+      cookiesToClear.forEach(name => {
+        document.cookie = `${name}=; path=/; domain=${location.hostname}; expires=Thu, 01 Jan 1970 00:00:00 GMT`;
+        document.cookie = `${name}=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT`; // fallback without domain
+      });
+		}
+
+    // Poll for the banner's "Cookies settings" button and click it, so the
+    // footer link opens the detailed preferences modal (#hs-modal) directly
+    // rather than leaving the user on the Accept/Decline banner.
+    function openCookieSettings(attempts = 0) {
+      const btn = document.getElementById('hs-eu-cookie-settings-button');
+      if (btn) {
+        btn.click();
+      } else if (attempts < 25) {
+        setTimeout(() => openCookieSettings(attempts + 1), 150);
+      }
+    }
+
+    // Match the "Cookie Settings" link by its href, not by a menu-wrapper class.
+    // The footer link lives in `.menu-wrapper` (not `.hs-menu-wrapper`), and the
+    // href may be relative (#modify-cookie-settings) or absolute
+    // (https://…/#modify-cookie-settings), so match on the hash suffix.
+    const cookieLinks = document.querySelectorAll('a[href$="#modify-cookie-settings"]');
+    cookieLinks.forEach(link => {
+      link.addEventListener("click", function (e) {
+        e.preventDefault();
+        // AODA 1217165 (2.4.3): remember the control that opened the cookie UI so focus can
+        // return to it when the dialog closes.
+        window.__raCookieReturnFocus = this;
+        // Open HubSpot cookie settings modal
+        clearHubSpotCookieConsent();
+        if (window._hsp) {
+          console.log("Cookie showBanner modal called");
+          window._hsp.push(['showBanner']);
+          // Re-apply the accessibility treatment (inert background + focus
+          // trap) to the re-shown banner — waitForCookieModal only runs on
+          // the initial page load, so a re-opened banner would otherwise miss it.
+          if (typeof waitForCookieModal === 'function') waitForCookieModal();
+          // Then open the detailed cookie-preferences modal directly.
+          openCookieSettings();
+          // AODA 1217165 (2.4.3): move focus INTO the dialog. Retries because the banner's
+          // buttons load async, so the first attempt can find no focusable target.
+          if (typeof focusCookieDialog === 'function') focusCookieDialog();
+        } else {
+          console.warn("Cookie banner not found.");
+        }
+      });
+    });
+  });
+</script>
+
+<script>
+  // AODA 1217165 (2.4.3): move keyboard focus into the open cookie dialog. Picks the topmost
+  // cookie surface (the detailed #hs-modal if visible, else the #hs-eu-cookie-confirmation banner)
+  // and focuses its first interactive element. Retries because the buttons/links load async.
+  function focusCookieDialog(attempts) {
+    attempts = attempts || 0;
+    var modal = document.getElementById('hs-modal');
+    var banner = document.getElementById('hs-eu-cookie-confirmation');
+    var dialog = (modal && modal.offsetParent !== null) ? modal : banner;
+    var target = null;
+    if (dialog) {
+      var focusables = dialog.querySelectorAll(
+        'a[href], button:not([disabled]), input:not([disabled]), select, textarea, [tabindex]:not([tabindex="-1"])'
+      );
+      target = focusables[0] || null;
+    }
+    if (target) {
+      target.focus();
+      // If focus didn't take (element not yet focusable), retry.
+      if (document.activeElement !== target && attempts < 20) {
+        setTimeout(function () { focusCookieDialog(attempts + 1); }, 150);
+      }
+    } else if (attempts < 20) {
+      setTimeout(function () { focusCookieDialog(attempts + 1); }, 150);
+    }
+  }
+
+  // AODA 1217165/1217166 (2.4.3): return focus to the trigger, but ONLY once the whole cookie UI is
+  // dismissed — closing the detailed modal via its "X" can drop back to the banner, and while a
+  // surface is still visible focus must stay in it. Deferred callers run this after HubSpot's own
+  // close/focus handling (which otherwise leaves focus on the banner container).
+  function cookieSurfaceVisible(el) {
+    if (!el || el.offsetParent === null) return false;
+    var s = getComputedStyle(el);
+    return s.opacity !== '0' && s.visibility !== 'hidden' && s.display !== 'none';
+  }
+  function anyCookieSurfaceVisible() {
+    return cookieSurfaceVisible(document.getElementById('hs-modal')) ||
+           cookieSurfaceVisible(document.getElementById('hs-eu-cookie-confirmation'));
+  }
+  // Debounced: banner↔modal transitions (e.g. opening the detailed modal hides the banner for a
+  // moment) briefly leave BOTH surfaces invisible, which must NOT be read as "dismissed". Wait for
+  // the UI to SETTLE as gone, then focus the trigger and hold it against HubSpot's own focus moves.
+  function returnCookieFocus() {
+    clearTimeout(window.__raCookieFocusTimer);
+    window.__raCookieFocusTimer = setTimeout(function () {
+      if (anyCookieSurfaceVisible()) return; // reopened / still transitioning
+      // The cookie UI is gone — but closing via "X" doesn't always fire the banner's dismissal
+      // observer, so the background can still be `inert` (which makes the trigger unfocusable) and
+      // the focus-trap sentinels can linger. Clear both before returning focus.
+      restoreBackground();
+      var sentinels = document.querySelectorAll('#focus-start, #focus-end');
+      for (var i = 0; i < sentinels.length; i++) sentinels[i].remove();
+      var trigger = window.__raCookieReturnFocus;
+      if (!trigger || !document.contains(trigger) || trigger.offsetParent === null) {
+        window.__raCookieReturnFocus = null;
+        return;
+      }
+      trigger.focus();
+      var tries = 0;
+      var hold = setInterval(function () {
+        if (anyCookieSurfaceVisible()) { clearInterval(hold); return; } // reopened — leave it
+        if (document.activeElement === trigger || tries++ > 8) {
+          clearInterval(hold);
+          window.__raCookieReturnFocus = null;
+          return;
+        }
+        trigger.focus(); // HubSpot stole focus (onto the hidden banner) — take it back
+      }, 100);
+    }, 350);
+  }
+
+  function restoreBackground() {
+    // Undo the inert state once the banner is gone so content isn't left hidden.
+    // NB: this also fires when the banner hides to OPEN the detailed modal, so it must NOT drive
+    // focus-return — that is triggered only by a genuine close control (see the click handler).
+    document.querySelectorAll('[data-cookie-inert]').forEach(el => {
+      el.removeAttribute('inert');
+      el.removeAttribute('data-cookie-inert');
+    });
+  }
+
+  function watchForDismissal(modal) {
+    const isVisible = () =>
+      document.body.contains(modal) &&
+      getComputedStyle(modal).display !== 'none' &&
+      getComputedStyle(modal).visibility !== 'hidden';
+    const obs = new MutationObserver(() => {
+      if (!isVisible()) { restoreBackground(); obs.disconnect(); }
+    });
+    obs.observe(document.body, {
+      childList: true, subtree: true,
+      attributes: true, attributeFilter: ['style', 'class', 'hidden']
+    });
+  }
+
+  function waitForCookieModal(attempts = 0) {
+    const modal = document.getElementById("hs-eu-cookie-confirmation");
+
+    if (modal) {
+      console.log("✅ Cookie modal found!");
+
+      // 1. Add accessible name
+      modal.setAttribute("aria-label", "Cookie preferences dialog");
+
+      // 2. Make background inert (removes it from focus order AND the
+      //    accessibility tree) instead of aria-hidden, so focusable content
+      //    isn't hidden-but-focusable (WCAG 4.1.2 / axe aria-hidden-focus).
+      //    HubSpot wraps the banner in a body-level container (#hs-banner-parent),
+      //    so skip the banner's OWN top-level wrapper — computed dynamically —
+      //    not just the banner id, otherwise the wrapper (and the banner's
+      //    Accept/Decline buttons inside it) become inert and unclickable.
+      const modalTop = modal.closest('body > *') || modal;
+      document.querySelectorAll('body > *').forEach(el => {
+        if (el === modalTop) return;
+        if (el.id === 'focus-start' || el.id === 'focus-end') return;
+        if (el.tagName === 'SCRIPT' || el.tagName === 'STYLE') return;
+        el.setAttribute('inert', '');
+        el.setAttribute('data-cookie-inert', '');
+      });
+
+      // 3. Add focus trap sentinels
+      addFocusSentinels(modal);
+
+      // 4. Restore the background (clear inert) once the banner is dismissed
+      watchForDismissal(modal);
+
+    } else if (attempts < 20) {
+      setTimeout(() => waitForCookieModal(attempts + 1), 250);
+    } else {
+      console.warn("⚠️ Cookie modal dismissed.");
+    }
+  }
+
+  function addFocusSentinels(modal) {
+    // Drop any sentinels from a previous showing so re-opening the banner
+    // (via the footer "Cookie Settings" link) doesn't accumulate duplicates.
+    document.querySelectorAll('#focus-start, #focus-end').forEach(s => s.remove());
+    const focusableSelectors = 'a[href], button:not([disabled]), textarea, input, select, [tabindex]:not([tabindex="-1"])';
+    const focusableEls = modal.querySelectorAll(focusableSelectors);
+    if (focusableEls.length === 0) return;
+
+    const firstEl = focusableEls[0];
+    const lastEl = focusableEls[focusableEls.length - 1];
+
+    // Create invisible sentinels
+    const startTrap = document.createElement('div');
+    startTrap.tabIndex = 0;
+    startTrap.id = 'focus-start';
+    startTrap.style.cssText = 'position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;';
+    startTrap.addEventListener('focus', () => lastEl.focus());
+
+    const endTrap = document.createElement('div');
+    endTrap.tabIndex = 0;
+    endTrap.id = 'focus-end';
+    endTrap.style.cssText = 'position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;';
+    endTrap.addEventListener('focus', () => firstEl.focus());
+
+    // Insert before and after modal
+    modal.parentNode.insertBefore(startTrap, modal);
+    modal.parentNode.insertBefore(endTrap, modal.nextSibling);
+
+    // Focus first focusable element
+    firstEl.focus();
+  }
+
+  // AODA 1217162 (1.3.1): the detailed cookie-preferences modal (#hs-modal) shows visual headings —
+  // "About Cookies" (a <span>) and the category labels ("Necessary", "Analytics", … which are
+  // expand buttons) — with no heading semantics, so heading navigation skipped them. Mark them up.
+  // The modal is HubSpot-injected on demand, so treat it whenever it appears. Idempotent (guarded),
+  // so the observer can call it repeatedly without duplicating work.
+  function markCookiePrefsHeadings() {
+    var title = document.querySelector('#hs-modal-introduction > span, #hs-modal-header span, #hs-modal-introduction span');
+    if (title && title.getAttribute('role') !== 'heading') {
+      title.setAttribute('role', 'heading');
+      title.setAttribute('aria-level', '2');
+    }
+    // ARIA accordion pattern: wrap each expand button in an <h3>. display:contents keeps the
+    // existing flex layout untouched (the button stays the visual/flex element).
+    var labels = document.querySelectorAll('.hs-category-label');
+    for (var i = 0; i < labels.length; i++) {
+      var btn = labels[i];
+      if (btn.getAttribute('data-ra-heading') === '1') continue;
+      if (btn.closest('h1,h2,h3,h4,h5,h6')) { btn.setAttribute('data-ra-heading', '1'); continue; }
+      var h = document.createElement('h3');
+      h.style.display = 'contents';
+      h.setAttribute('data-ra-cookie-heading', '1');
+      btn.parentNode.insertBefore(h, btn);
+      h.appendChild(btn);
+      btn.setAttribute('data-ra-heading', '1');
+    }
+  }
+
+  // AODA 1217163 (1.3.2): a collapsed category description is only visually hidden (max-height:0 /
+  // opacity:0), which does NOT remove it from the accessibility tree — and its container has
+  // tabindex="0" with a focusable "Learn more" link inside. So collapsed descriptions were reachable
+  // by keyboard and readable by NVDA. Mark each description `inert` while its category is collapsed
+  // (inert removes it from focus order AND the a11y tree) and clear it when expanded.
+  function syncCookiePrefsInert() {
+    var labels = document.querySelectorAll('.hs-category-label');
+    for (var i = 0; i < labels.length; i++) {
+      var btn = labels[i];
+      var desc = document.getElementById(btn.getAttribute('aria-controls') || '');
+      if (!desc) continue;
+      if (btn.getAttribute('aria-expanded') === 'true') desc.removeAttribute('inert');
+      else desc.setAttribute('inert', '');
+    }
+  }
+
+  function applyCookiePrefsA11y() {
+    if (!document.getElementById('hs-categories-container')) return;
+    markCookiePrefsHeadings();
+    syncCookiePrefsInert();
+    // Re-sync inert whenever a category's aria-expanded flips (attribute we don't write → no loop).
+    var container = document.getElementById('hs-categories-container');
+    if (container && !container.getAttribute('data-ra-expand-obs')) {
+      container.setAttribute('data-ra-expand-obs', '1');
+      new MutationObserver(syncCookiePrefsInert).observe(container, {
+        subtree: true, attributes: true, attributeFilter: ['aria-expanded']
+      });
+    }
+  }
+
+  function watchForCookiePrefsModal() {
+    applyCookiePrefsA11y();
+    // Watch childList (never attributes we write) → no observer loop; guards make it idempotent.
+    var obs = new MutationObserver(applyCookiePrefsA11y);
+    obs.observe(document.body, { childList: true, subtree: true });
+  }
+
+  // AODA 1217166 (2.4.3): a genuine cookie CLOSE control (the modal "X", Accept, Decline, Save
+  // settings, Accept All) should hand focus back to the trigger. Delegated so it catches HubSpot's
+  // dynamically-injected buttons. Must exclude controls that keep a surface open — "Cookie settings"
+  // (opens the modal) and the category toggles — otherwise focus-return would fire during the
+  // banner→modal transition and consume the stored trigger.
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest) return;
+    var byId = e.target.closest('#hs-modal-close-button, .hs-close-button, #hs-eu-confirmation-button, #hs-eu-decline-button');
+    var textBtn = e.target.closest('#hs-modal button, #hs-eu-cookie-confirmation button');
+    var isClose = byId || (textBtn && /^(accept|decline|reject|save settings|accept all)\b/i.test(textBtn.textContent.trim()));
+    if (!isClose) return;
+    returnCookieFocus();
+  });
+
+  document.addEventListener("DOMContentLoaded", function () {
+    waitForCookieModal();
+    watchForCookiePrefsModal();
+  });
+</script>
+
+
+
+<style>
+
+.error-page {
+    padding: 6.25em;
+    height: 70%;
+    text-align:center;
+}
+</style></body></html>

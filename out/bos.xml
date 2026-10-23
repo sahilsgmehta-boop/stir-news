@@ -1,0 +1,600 @@
+﻿<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="msapplication-config" content="browserconfig.xml" />
+    <meta name="application-name" content="Federal Reserve Bank of Boston" />
+    <meta name="author" content="Federal Reserve Bank of Boston" />
+    <meta name="copyright" content="Federal Reserve Bank of Boston" />
+    <meta name="distribution" content="global" />
+    <meta name="language" content="en" />
+    <meta name="msapplication-notification" content="frequency=30; polling-uri=assets/frbnotification1.xml; polling-uri2=assets/frbnotification2.xml; polling-uri3=assets/frbnotification3.xml; polling-uri4=assets/frbnotification4.xml; polling-uri5=assets/frbnotification5.xml;" />
+    <meta name="msapplication-square150x150logo" content="/-/media/FRB/FavIcons/ms-icon-150x150_png.png" />
+    <meta name="msapplication-square310x310logo" content="/-/media/FRB/FavIcons/ms-icon-310x310_png.png" />
+    <meta name="msapplication-square70x70logo" content="/-/media/FRB/FavIcons/ms-icon-70x70_png.png" />
+    <meta name="msapplication-tilecolor" content="#003A5D" />
+    <meta name="msapplication-tileimage" content="/-/media/FRB/FavIcons/ms-icon-310x310_png.png?mh=150&mw=310" />
+    <meta name="msapplication-wide310x150logo" content="/-/media/FRB/FavIcons/ms-icon-310x150_png.png" />
+    <meta itemprop="name" content="$name" />
+    <meta name="noemail" content="/Legal/NoSpamHarvesting" />
+    <meta property="og:site_name" content="Federal Reserve Bank of Boston" />
+    <meta property="og:title" content="$name" />
+    <meta name="rating" content="Safe for Kids" />
+    <meta name="twitter:creator" content="Federal Reserve Bank of Boston" />
+    <meta name="twitter:image_src" content="/-/media/FRB/FavIcons/ms-icon-310x310_png.png" />
+    <meta name="twitter:site" content="Federal Reserve Bank of Boston" />
+    <meta name="twitter:title" content="$name" />
+    <meta name="publication_date" content="2017-08-22T17:19:22.405Z" />
+    <meta http-equiv="last-modified" content="2017-08-22T17:19:22Z" />
+    <meta name="robots" content="noindex,noimageindex,noodp" />
+    <meta name="googlebot" content="noindex,noimageindex,noodp" />
+    <title>404 - Federal Reserve Bank of Boston</title>
+    <link rel="canonical" href="/errors/404.aspx" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/-/media/FRB/FavIcons/favicon-16x16_png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/-/media/FRB/FavIcons/favicon-32x32_png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/-/media/FRB/FavIcons/favicon-96x96_png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/-/media/FRB/FavIcons/favicon-96x96_png" />
+    <link rel="icon" type="image/png" sizes="194x194" href="/-/media/FRB/FavIcons/favicon-194x194_png" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="alternate" type="application/rss+xml" title="BostonFed RSS News" href="/feeds/rss_news.xml" />
+    <link rel="alternate" type="application/rss+xml" title="BostonFed RSS Research" href="/feeds/rss_research.xml" />
+    <link rel="alternate" type="application/rss+xml" title="BostonFed RSS Speeches" href="/feeds/rss_speeches.xml" />
+    <link href="/Content/bootstrap/v3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/Content/misc/media-query-change-detection-hack.css" rel="stylesheet" />
+    <link href="/Content/website.css" rel="stylesheet" />
+    <link href="/Content/components/topbar/topbar.min.css" rel="stylesheet" />
+    <link href="/Content/components/navbar/frb-navbar.css" rel="stylesheet" />
+    <link href="/Content/components/footer/footer.min.css" rel="stylesheet" />
+    <link href="/Content/components/back-to-top/back-to-top.min.css" rel="stylesheet" />
+    <link href="/Content/components/skip-to-content/skip-to-content.css" rel="stylesheet" />
+    <link href="/Content/508.css" rel="stylesheet" />
+    <link href="/Content/components/carousel/carousel.min.css" rel="stylesheet" />
+    <link href="/Content/components/footer-social-graphics/footer-social-graphics.min.css" rel="stylesheet" />
+    <link href="/Content/components/featured-card/featured-card.css" rel="stylesheet" />
+    <link href="/Content/components/featured-cards-list/featured-cards-list.css" rel="stylesheet" />
+    <link href="/Content/components/columns-grid/columns-grid.css" rel="stylesheet" />
+    <link href="/Content/components/card/card.css" rel="stylesheet" />
+    <link href="/Content/components/person-profile-card/person-profile-card.css" rel="stylesheet" />
+    <link href="/Content/components/person-detail/person-detail.css" rel="stylesheet" />
+    <link href="/Content/components/hero/focal-img-hero.css" rel="stylesheet" />
+    <link href="/Content/components/anchors-menu/anchors-smart-menu.css" rel="stylesheet" />
+    <link href="/Content/components/organization-card/organization-card.css" rel="stylesheet" />
+    <link href="/Content/components/related-contributing-business-areas/related-contributing-business-areas.css" rel="stylesheet" />
+    <link href="/Content/components/tagbox/tagbox.min.css" rel="stylesheet" />
+    <link href="/Content/components/person-card-2/person-card-2.css" rel="stylesheet" />
+    <link href="/Content/components/related-links/related-links.css" rel="stylesheet" />
+    <link href="/Content/components/scheduled-tagbox/scheduled-tagbox.css" rel="stylesheet" />
+    <link href="/Content/components/topiccard/topic-card.css" rel="stylesheet" />
+    <link href="/Content/components/gallery/gallery.css" rel="stylesheet" />
+    <link href="/Content/components/gallery/image-slide.css" rel="stylesheet" />
+    <link href="/Content/components/gallery/aside-image.css" rel="stylesheet" />
+    <link href="/Content/components/event-agenda/agenda.css" rel="stylesheet" />
+    <link href="/Content/components/download-button/download-button.css" rel="stylesheet" />
+    <link href="/Content/components/super-video-wallpaper/super-video-wallpaper.css" rel="stylesheet" />
+    <link href="/Content/components/dates/date.css" rel="stylesheet" />
+    <link href="/Content/components/event-card/event-card.css" rel="stylesheet" />
+    <link href="/Content/components/event-card/event-card-list.css" rel="stylesheet" />
+    <link href="/Content/components/links/links.css" rel="stylesheet" />
+    <link href="/Content/components/multi-step/multi-step.css" rel="stylesheet" />
+    <link href="/Content/components/bullet/bullet.css" rel="stylesheet" />
+    <link href="/Content/components/search-component/close-button-round.css" rel="stylesheet" />
+    <link href="/Content/components/site-search/site-search.css" rel="stylesheet" />
+    <link href="/Content/components/accordion/accordion.css" rel="stylesheet" />
+    <link href="/Content/components/parallax-scrolling/parallax.css" rel="stylesheet" />
+    <link href="/Content/components/issue-card/issue-card.css" rel="stylesheet" />
+    <link href="/Content/components/subscribe-card/subscribe-card.css" rel="stylesheet" />
+    <link href="/Content/components/article-list/article-list-noless.css" rel="stylesheet" />
+    <link href="/Content/components/breadcrumbs/breadcrumbs.css" rel="stylesheet" />
+    <link href="/Content/components/misc-card/president-card.css" rel="stylesheet" />
+    <link href="/Content/components/misc-card/mslp-card.css" rel="stylesheet" />
+    <link href="/Content/components/misc-card/social-card.css" rel="stylesheet" />
+    <link href="/Content/components/wp-initiative-label/wp-inititiave-label.css" rel="stylesheet" />
+    <link href="/Content/components/feedback-form/feedback-form.css" rel="stylesheet" />
+    <link href="/Content/misc/responsive-col-heights.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600" />
+    <link href="/Content/vendor/focuspoint/focuspoint.css" rel="stylesheet" />
+</head>
+<body class="">
+    <!-- Google Tag Manager (no script) -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRN9JH" height="0" width="0" style="display: none; visibility: hidden;" title="ga"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (no script) -->
+    <!--googleoff: index-->
+    <a class="skip-to-content" href="#main-content">Skip to Content</a>
+    <script src="/Scripts/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <script src="/Scripts/vendor/bootstrap/bootstrap-4.0.0.min.js"></script>
+    <script src="/Scripts/vendor/picturefill/pf.mutation.min.js"></script>
+    <script src="/Scripts/vendor/picturefill/picturefill.js"></script>
+    <script src="/Scripts/misc/media-query-change-detection-hack.js"></script>
+    <div class="header-section">
+        <div id="topbar">
+            <ul class="list-inline">
+                <li>
+                    <span>
+                        Public Service That Makes a Difference <sup>®</sup>
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <nav class="navbar navbar-default" role="navigation" aria-label="Main Navigation">
+            <div class="container-fluid">
+                <div class="navbar-header" style="">
+                    <a href="/Home.aspx" class="navbar-brand " role="presentation">
+                        <img src="/-/media/FRB/GlobalHeader/logo1xpng.svg" alt="Boston Fed logo)" role="presentation">
+                    </a>
+                </div>
+                <button type="button" class="navbar-toggle " onclick="FRB.header.toggleMenu()" aria-controls="primary-menu-container">
+                    <span class="mobile-menu-expand">Menu</span>
+                    <div class="mobile-menu-expand-icon">
+                        <img src="/-/media/FRB/GlobalHeader/nav_down_arrow_svg.svg" class="mme-open" alt="Open Navigation Menu">
+                        <img src="/-/media/FRB/GlobalHeader/close_icon_svg.svg" class="mme-close" alt="Close Navigation">
+                    </div>
+                </button>
+                <div class="navbar-search " style="float: right;">
+                    <a href="javascript:void(0);" class="navbar-brand nav-search-icon" role="presentation">
+                        <img src="/-/media/FRB/GlobalHeader/searchicon1xpng.svg" alt="Search)" role="presentation">
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse secondary-menu-container" style="">
+                    <ul class="nav navbar-nav top-menu">
+                        <li>
+                            <a href="/publications-and-data.aspx" title="Publications &amp; Data">Publications &amp; Data</a>
+                        </li>
+                        <li>
+                            <a href="/news-and-events.aspx" title="News &amp; Events">News &amp; Events</a>
+                        </li>
+                        <li>
+                            <a href="/careers.aspx" title="Careers">Careers</a>
+                        </li>
+                        <li>
+                            <a href="/about-the-boston-fed.aspx" title="About Us">About Us</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="primary-menu-container" class="navbar-collapse visible-lg-block visible-md-block" style="">
+                    <div class="measuringWrapper">
+                        <div class="nav-list-wrapper">
+                            <ul class="nav navbar-nav bottom-menu">
+                                <!-- Mobile version of menu item -->
+                                <li class="dropdown has-children clearfix">
+                                    <a href="/office-of-the-president.aspx" class="dropdown-toggle child-link" title="Office of the President">
+                                        <span class="primary-menu-title-text">Office of the President</span>
+                                    </a>
+                                </li>
+                                <!-- Lg and Md version of menu item-->
+                                <li class="hidden-xs hidden-sm dropdown clearfix">
+                                    <a class="primary-menu-title" href="/office-of-the-president.aspx">
+                                        <div class="nav-menu-card-img-wrapper">
+
+                                        </div>
+                                        <span class="primary-menu-title-text">Office of the President</span>
+                                    </a>
+                                </li>
+                                <!-- Mobile version of menu item -->
+                                <li class="dropdown has-children clearfix">
+                                    <a href="/monetary-policy-and-economic-research.aspx" class="dropdown-toggle child-link" title="Monetary Policy &amp; Economic Research Test">
+                                        <span class="primary-menu-title-text">Monetary Policy &amp; Economic Research Test</span>
+                                    </a>
+                                </li>
+                                <!-- Lg and Md version of menu item-->
+                                <li class="hidden-xs hidden-sm dropdown clearfix">
+                                    <a class="primary-menu-title" href="/monetary-policy-and-economic-research.aspx">
+                                        <div class="nav-menu-card-img-wrapper">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="54px" viewBox="0 0 35 54" version="1.1" class="svg-get-data replaced-svg">
+                                                <g id="Symbols-248" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <g id="icn-monetary_policy-965" fill="#6BA2B9">
+                                                        <path d="M30.02,5.8525 L5.02,5.8525 C4.744,5.8525 4.52,5.6285 4.52,5.3525 C4.52,5.0765 4.744,4.8525 5.02,4.8525 L30.02,4.8525 C30.296,4.8525 30.52,5.0765 30.52,5.3525 C30.52,5.6285 30.296,5.8525 30.02,5.8525" id="Fill-233-521-929"></path>
+                                                        <path d="M30.02,9.8525 L5.02,9.8525 C4.744,9.8525 4.52,9.6285 4.52,9.3525 C4.52,9.0765 4.744,8.8525 5.02,8.8525 L30.02,8.8525 C30.296,8.8525 30.52,9.0765 30.52,9.3525 C30.52,9.6285 30.296,9.8525 30.02,9.8525" id="Fill-233-521-8"></path>
+                                                        <path d="M18.02,13.8525 L5.02,13.8525 C4.744,13.8525 4.52,13.6285 4.52,13.3525 C4.52,13.0765 4.744,12.8525 5.02,12.8525 L18.02,12.8525 C18.296,12.8525 18.52,13.0765 18.52,13.3525 C18.52,13.6285 18.296,13.8525 18.02,13.8525" id="Fill-233-521-906"></path>
+                                                        <path d="M16.02,39.8525 L5.02,39.8525 C4.744,39.8525 4.52,39.6285 4.52,39.3525 C4.52,39.0765 4.744,38.8525 5.02,38.8525 L16.02,38.8525 C16.296,38.8525 16.52,39.0765 16.52,39.3525 C16.52,39.6285 16.296,39.8525 16.02,39.8525" id="Fill-233-521-407"></path>
+                                                        <path d="M16.02,43.8525 L5.02,43.8525 C4.744,43.8525 4.52,43.6285 4.52,43.3525 C4.52,43.0765 4.744,42.8525 5.02,42.8525 L16.02,42.8525 C16.296,42.8525 16.52,43.0765 16.52,43.3525 C16.52,43.6285 16.296,43.8525 16.02,43.8525" id="Fill-233-521-66"></path>
+                                                        <path d="M30.02,34.8525 L5.52,34.8525 C5.244,34.8525 5.02,34.6285 5.02,34.3525 L5.02,18.8525 C5.02,18.5765 5.244,18.3525 5.52,18.3525 C5.796,18.3525 6.02,18.5765 6.02,18.8525 L6.02,33.8525 L30.02,33.8525 C30.296,33.8525 30.52,34.0765 30.52,34.3525 C30.52,34.6285 30.296,34.8525 30.02,34.8525" id="Fill-233-521-390"></path>
+                                                        <path d="M34,47.51 C34,47.78 33.78,48 33.51,48 L31,48 L31,42.5 C31,42.49 31,42.48 30.99,42.47 C31,42.44 31,42.41 31,42.38 C31,39.34 28.53,36.88 25.5,36.88 C22.47,36.88 20,39.34 20,42.38 C20,42.41 20,42.44 20.01,42.47 C20,42.48 20,42.49 20,42.5 L20,48 L1.49,48 C1.22,48 1,47.78 1,47.51 L1,1.49 C1,1.22 1.22,1 1.49,1 L33.51,1 C33.78,1 34,1.22 34,1.49 L34,47.51 Z M21,42.38 C21,39.89 23.02,37.88 25.5,37.88 C27.98,37.88 30,39.89 30,42.38 C30,44.86 27.98,46.88 25.5,46.88 C23.02,46.88 21,44.86 21,42.38 L21,42.38 Z M30,52.51 L25.8,49.44 C25.71,49.37 25.6,49.34 25.5,49.34 C25.4,49.34 25.29,49.37 25.2,49.44 L21,52.51 L21,49 L21,48 L21,45.53 C22,46.94 23.64,47.88 25.5,47.88 C27.36,47.88 29,46.94 30,45.53 L30,48 L30,49 L30,52.51 Z M33.51,0 L1.49,0 C0.67,0 0,0.67 0,1.49 L0,47.51 C0,48.33 0.67,49 1.49,49 L20,49 L20,53.5 C20,53.69 20.11,53.86 20.27,53.95 C20.44,54.03 20.64,54.02 20.8,53.9 L25.5,50.46 L30.2,53.9 C30.29,53.97 30.4,54 30.5,54 C30.58,54 30.65,53.98 30.73,53.95 C30.89,53.86 31,53.69 31,53.5 L31,49 L33.51,49 C34.33,49 35,48.33 35,47.51 L35,1.49 C35,0.67 34.33,0 33.51,0 L33.51,0 Z" id="Fill-233-521-255"></path>
+                                                        <path d="M7.6035,32.686 C7.4685,32.686 7.3335,32.632 7.2355,32.524 C7.0485,32.321 7.0615,32.005 7.2655,31.818 L12.4315,27.068 C12.6285,26.888 12.9355,26.893 13.1235,27.082 L15.1845,29.143 L21.2655,22.979 C21.3585,22.884 21.4875,22.831 21.6215,22.831 L21.6215,22.831 C21.7555,22.831 21.8845,22.885 21.9785,22.98 L23.6705,24.706 L30.1485,17.518 C30.3335,17.311 30.6495,17.296 30.8545,17.481 C31.0605,17.666 31.0765,17.982 30.8915,18.187 L24.0585,25.77 C23.9655,25.873 23.8345,25.933 23.6975,25.936 C23.5505,25.945 23.4265,25.885 23.3295,25.786 L21.6205,24.043 L15.5425,30.204 C15.4485,30.298 15.3215,30.352 15.1875,30.353 C15.0925,30.359 14.9275,30.3 14.8325,30.206 L12.7555,28.128 L7.9415,32.554 C7.8455,32.643 7.7245,32.686 7.6035,32.686" id="Fill-233-521-275"></path>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <span class="primary-menu-title-text">Monetary Policy &amp; Economic Research Test</span>
+                                    </a>
+                                </li>
+                                <!-- Mobile version of menu item -->
+                                <li class="dropdown has-children clearfix">
+                                    <a href="/supervision-and-regulation.aspx" class="dropdown-toggle child-link" title="Supervision &amp; Credit">
+                                        <span class="primary-menu-title-text">Supervision &amp; Credit</span>
+                                    </a>
+                                </li>
+                                <!-- Lg and Md version of menu item-->
+                                <li class="hidden-xs hidden-sm dropdown clearfix">
+                                    <a class="primary-menu-title" href="/supervision-and-regulation.aspx">
+                                        <div class="nav-menu-card-img-wrapper">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56px" height="49px" viewBox="0 0 56 49" version="1.1" class="svg-get-data replaced-svg">
+                                                <g id="Symbols-811" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <g id="icn-supervision_and_credit-872" fill="#6BA2B9">
+                                                        <path d="M47.03,31.3075 C45.7,33.9875 43.4,35.9875 40.57,36.9375 C37.73,37.8875 34.69,37.6875 32.01,36.3475 C29.33,35.0175 27.33,32.7175 26.38,29.8875 C25.43,27.0475 25.64,24.0075 26.97,21.3275 C28.3,18.6475 30.6,16.6475 33.44,15.6975 C34.61,15.3075 35.81,15.1075 37.01,15.1075 C38.72,15.1075 40.42,15.5075 41.99,16.2875 C44.67,17.6175 46.67,19.9175 47.62,22.7575 C48.57,25.5875 48.36,28.6275 47.03,31.3075 L47.03,31.3075 Z M37,39.9975 L37,38.5175 C38.02,38.5175 39.02,38.3875 40,38.1375 L40,39.9975 L37,39.9975 Z M27,39.9975 L27,33.3075 C28.15,34.9675 29.71,36.3175 31.57,37.2475 C33,37.9575 34.5,38.3475 36,38.4675 L36,39.9975 L27,39.9975 Z M5,43.9975 L44,43.9975 L44,40.9975 L5,40.9975 L5,43.9975 Z M1,47.9975 L48,47.9975 L48,44.9975 L1,44.9975 L1,47.9975 Z M9,39.9975 L12,39.9975 L12,20.9975 L9,20.9975 L9,39.9975 Z M7,19.9975 L14,19.9975 L14,18.9975 L7,18.9975 L7,19.9975 Z M21,20.9975 L22,20.9975 L22,39.9975 L13,39.9975 L13,20.9975 L14,20.9975 C14.55,20.9975 15,20.5475 15,19.9975 L15,18.9975 L20,18.9975 L20,19.9975 C20,20.5475 20.45,20.9975 21,20.9975 L21,20.9975 Z M21,19.9975 L21,18.9975 L27.24,18.9975 C27.01,19.3175 26.78,19.6475 26.57,19.9975 L21,19.9975 Z M25.43,30.2075 C25.59,30.6775 25.79,31.1375 26,31.5775 L26,39.9975 L23,39.9975 L23,20.9975 L26,20.9975 L26,21.0575 C24.62,23.9375 24.42,27.1675 25.43,30.2075 L25.43,30.2075 Z M5,17.9975 L5,14.9975 L32.49,14.9975 C30.79,15.6675 29.29,16.6875 28.07,17.9975 L5,17.9975 Z M44,14.9975 L44,16.3375 C43.51,15.9975 42.99,15.6675 42.44,15.3975 C42.14,15.2475 41.84,15.1175 41.53,14.9975 L44,14.9975 Z M1,13.9975 L1,10.8275 L24.5,1.0375 L48,10.8275 L48,13.9975 L1,13.9975 Z M55.55,35.9475 L47.76,32.0675 C47.81,31.9675 47.87,31.8575 47.93,31.7575 C50.45,26.6775 49.09,20.6775 45,17.1175 L45,14.9975 L48.5,14.9975 C48.78,14.9975 49,14.7775 49,14.4975 L49,10.4975 C49,10.2975 48.88,10.1175 48.69,10.0375 L24.69,0.0375 C24.57,-0.0125 24.43,-0.0125 24.31,0.0375 L0.31,10.0375 C0.12,10.1175 0,10.2975 0,10.4975 L0,14.4975 C0,14.7775 0.22,14.9975 0.5,14.9975 L4,14.9975 L4,18.4975 C4,18.7775 4.22,18.9975 4.5,18.9975 L6,18.9975 L6,19.9975 C6,20.5475 6.45,20.9975 7,20.9975 L8,20.9975 L8,39.9975 L4.5,39.9975 C4.22,39.9975 4,40.2175 4,40.4975 L4,43.9975 L0.5,43.9975 C0.22,43.9975 0,44.2175 0,44.4975 L0,48.4975 C0,48.7775 0.22,48.9975 0.5,48.9975 L48.5,48.9975 C48.78,48.9975 49,48.7775 49,48.4975 L49,44.4975 C49,44.2175 48.78,43.9975 48.5,43.9975 L45,43.9975 L45,40.4975 C45,40.2175 44.78,39.9975 44.5,39.9975 L41,39.9975 L41,37.8375 C43.51,36.9675 45.73,35.2775 47.25,32.9375 L55.11,36.8475 C55.18,36.8775 55.26,36.8975 55.33,36.8975 C55.52,36.8975 55.69,36.7975 55.78,36.6175 C55.9,36.3675 55.8,36.0675 55.55,35.9475 L55.55,35.9475 Z" id="Fill-220-983-581"></path>
+                                                        <path d="M43.3,20.3525 C43.3,20.6325 43.08,20.8525 42.8,20.8525 L31.8,20.8525 C31.53,20.8525 31.3,20.6325 31.3,20.3525 C31.3,20.0725 31.53,19.8525 31.8,19.8525 L42.8,19.8525 C43.08,19.8525 43.3,20.0725 43.3,20.3525" id="Fill-220-983-767"></path>
+                                                        <path d="M43.3,23.3525 C43.3,23.6325 43.08,23.8525 42.8,23.8525 L31.8,23.8525 C31.53,23.8525 31.3,23.6325 31.3,23.3525 C31.3,23.0725 31.53,22.8525 31.8,22.8525 L42.8,22.8525 C43.08,22.8525 43.3,23.0725 43.3,23.3525" id="Fill-220-983-726"></path>
+                                                        <path d="M43.3,26.3525 C43.3,26.6325 43.08,26.8525 42.8,26.8525 L31.8,26.8525 C31.53,26.8525 31.3,26.6325 31.3,26.3525 C31.3,26.0725 31.53,25.8525 31.8,25.8525 L42.8,25.8525 C43.08,25.8525 43.3,26.0725 43.3,26.3525" id="Fill-220-983-929"></path>
+                                                        <path d="M43.3,29.3525 C43.3,29.6325 43.08,29.8525 42.8,29.8525 L31.8,29.8525 C31.53,29.8525 31.3,29.6325 31.3,29.3525 C31.3,29.0725 31.53,28.8525 31.8,28.8525 L42.8,28.8525 C43.08,28.8525 43.3,29.0725 43.3,29.3525" id="Fill-220-983-16"></path>
+                                                        <path d="M39.3,32.3525 C39.3,32.6325 39.08,32.8525 38.8,32.8525 L31.8,32.8525 C31.53,32.8525 31.3,32.6325 31.3,32.3525 C31.3,32.0725 31.53,31.8525 31.8,31.8525 L38.8,31.8525 C39.08,31.8525 39.3,32.0725 39.3,32.3525" id="Fill-220-983-568"></path>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <span class="primary-menu-title-text">Supervision &amp; Credit</span>
+                                    </a>
+                                </li>
+                                <!-- Mobile version of menu item -->
+                                <li class="dropdown has-children clearfix">
+                                    <a href="/payments-innovation.aspx" class="dropdown-toggle child-link" title="Payments Innovation">
+                                        <span class="primary-menu-title-text">Payments Innovation</span>
+                                    </a>
+                                </li>
+                                <!-- Lg and Md version of menu item-->
+                                <li class="hidden-xs hidden-sm dropdown clearfix">
+                                    <a class="primary-menu-title" href="/payments-innovation.aspx">
+                                        <div class="nav-menu-card-img-wrapper">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54px" height="30px" viewBox="0 0 54 30" version="1.1" class="svg-get-data replaced-svg">
+                                                <g id="Symbols-920" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <g id="icn-payment_studies_alt-737">
+                                                        <path d="M0.5,0 C0.223857625,0 0,0.223857625 0,0.5 L0,29.5 C0,29.7761424 0.223857625,30 0.5,30 L42,30 C42.2761424,30 42.5,29.7761424 42.5,29.5 C42.5,29.2238576 42.2761424,29 42,29 L0.5,29 L1,29.5 L1,0.5 L0.5,1 L20,1 C20.2761424,1 20.5,0.776142375 20.5,0.5 C20.5,0.223857625 20.2761424,0 20,0 L0.5,0 Z" id="Page-1-411-289" fill="#6BA2B9"></path>
+                                                        <polygon id="Page-1-411-936" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round" points="45.5 5.5 50.5 5.5 50.5 0.5 45.5 0.5"></polygon>
+                                                        <polygon id="Page-1-411-118" fill="#6BA2B9" points="42 6 43 6 43 0.001 42 0.001"></polygon>
+                                                        <polygon id="Page-1-411-448" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round" points="34.5 5.5 39.5 5.5 39.5 0.5 34.5 0.5"></polygon>
+                                                        <polygon id="Page-1-411-373" fill="#6BA2B9" points="53 6 54 6 54 0.001 53 0.001"></polygon>
+                                                        <polygon id="Page-1-411-285" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round" points="48.5 13.5 53.5 13.5 53.5 8.5 48.5 8.5"></polygon>
+                                                        <polygon id="Page-1-411-358" fill="#6BA2B9" points="31 6 32.001 6 32.001 0.001 31 0.001"></polygon>
+                                                        <polygon id="Page-1-411-160" fill="#6BA2B9" points="45 14 46 14 46 8.001 45 8.001"></polygon>
+                                                        <polygon id="Page-1-411-601" fill="#6BA2B9" points="42 22 43 22 43 16 42 16"></polygon>
+                                                        <polygon id="Page-1-411-711" fill="#6BA2B9" points="34 14 35 14 35 8.001 34 8.001"></polygon>
+                                                        <polygon id="Page-1-411-897" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round" points="23.5 5.5 28.5 5.5 28.5 0.5 23.5 0.5"></polygon>
+                                                        <polygon id="Page-1-411-321" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round" points="37.5 13.5 42.5 13.5 42.5 8.5 37.5 8.5"></polygon>
+                                                        <polygon id="Page-1-411-966" fill="#6BA2B9" points="53 22 54 22 54 16 53 16"></polygon>
+                                                        <polygon id="Page-1-411-341" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round" points="45.5 21.5 50.5 21.5 50.5 16.5 45.5 16.5"></polygon>
+                                                        <polygon id="Page-1-411-603" fill="#6BA2B9" points="45 30 46 30 46 24 45 24"></polygon>
+                                                        <polygon id="Page-1-411-192" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round" points="48.5 29.5 53.5 29.5 53.5 24.5 48.5 24.5"></polygon>
+                                                        <path d="M25.0005,19.8638 C25.0005,21.3208 26.2685,22.5008 27.8335,22.5008 C29.3985,22.5008 30.6665,21.3208 30.6665,19.8638 C30.6665,18.4068 29.3985,17.2268 27.8335,17.2268 C26.2685,17.2268 25.0005,16.0458 25.0005,14.5888 C25.0005,13.1318 26.2685,11.9518 27.8335,11.9518 C29.3985,11.9518 30.6665,13.1318 30.6665,14.5888" id="Page-1-411-543" stroke="#6BA2B9" stroke-width="1.227" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M27.5,24 L27.5,10" id="Page-1-411-896" stroke="#6BA2B9" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <span class="primary-menu-title-text">Payments Innovation</span>
+                                    </a>
+                                </li>
+                                <!-- Mobile version of menu item -->
+                                <li class="dropdown has-children clearfix">
+                                    <a href="/community-development.aspx" class="dropdown-toggle child-link" title="Community Development">
+                                        <span class="primary-menu-title-text">Community Development</span>
+                                    </a>
+                                </li>
+                                <!-- Lg and Md version of menu item-->
+                                <li class="hidden-xs hidden-sm dropdown clearfix">
+                                    <a class="primary-menu-title" href="/community-development.aspx">
+                                        <div class="nav-menu-card-img-wrapper">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56px" height="57px" viewBox="0 0 56 57" version="1.1" class="svg-get-data replaced-svg">
+                                                <g id="Symbols-378" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <g id="icn-community_development-472">
+                                                        <path d="M19.02,12.853 L22.02,12.853 L22.02,7.853 L19.02,7.853 L19.02,12.853 Z M22.52,6.853 L18.52,6.853 C18.24,6.853 18.02,7.073 18.02,7.353 L18.02,13.353 C18.02,13.633 18.24,13.853 18.52,13.853 L22.52,13.853 C22.8,13.853 23.02,13.633 23.02,13.353 L23.02,7.353 C23.02,7.073 22.8,6.853 22.52,6.853 L22.52,6.853 Z" id="Fill-205-425-878" fill="#6BA2B9"></path>
+                                                        <path d="M26.02,12.853 L29.02,12.853 L29.02,7.853 L26.02,7.853 L26.02,12.853 Z M29.52,6.853 L25.52,6.853 C25.24,6.853 25.02,7.073 25.02,7.353 L25.02,13.353 C25.02,13.633 25.24,13.853 25.52,13.853 L29.52,13.853 C29.8,13.853 30.02,13.633 30.02,13.353 L30.02,7.353 C30.02,7.073 29.8,6.853 29.52,6.853 L29.52,6.853 Z" id="Fill-205-425-679" fill="#6BA2B9"></path>
+                                                        <path d="M33.02,12.853 L36.02,12.853 L36.02,7.853 L33.02,7.853 L33.02,12.853 Z M36.52,6.853 L32.52,6.853 C32.24,6.853 32.02,7.073 32.02,7.353 L32.02,13.353 C32.02,13.633 32.24,13.853 32.52,13.853 L36.52,13.853 C36.8,13.853 37.02,13.633 37.02,13.353 L37.02,7.353 C37.02,7.073 36.8,6.853 36.52,6.853 L36.52,6.853 Z" id="Fill-205-425-442" fill="#6BA2B9"></path>
+                                                        <path d="M19.02,21.853 L22.02,21.853 L22.02,16.853 L19.02,16.853 L19.02,21.853 Z M22.52,15.853 L18.52,15.853 C18.24,15.853 18.02,16.073 18.02,16.353 L18.02,22.353 C18.02,22.633 18.24,22.853 18.52,22.853 L22.52,22.853 C22.8,22.853 23.02,22.633 23.02,22.353 L23.02,16.353 C23.02,16.073 22.8,15.853 22.52,15.853 L22.52,15.853 Z" id="Fill-205-425-284" fill="#6BA2B9"></path>
+                                                        <path d="M26.02,21.853 L29.02,21.853 L29.02,16.853 L26.02,16.853 L26.02,21.853 Z M29.52,15.853 L25.52,15.853 C25.24,15.853 25.02,16.073 25.02,16.353 L25.02,22.353 C25.02,22.633 25.24,22.853 25.52,22.853 L29.52,22.853 C29.8,22.853 30.02,22.633 30.02,22.353 L30.02,16.353 C30.02,16.073 29.8,15.853 29.52,15.853 L29.52,15.853 Z" id="Fill-205-425-419" fill="#6BA2B9"></path>
+                                                        <path d="M6.02,25.853 L9.02,25.853 L9.02,20.853 L6.02,20.853 L6.02,25.853 Z M9.52,19.853 L5.52,19.853 C5.24,19.853 5.02,20.073 5.02,20.353 L5.02,26.353 C5.02,26.633 5.24,26.853 5.52,26.853 L9.52,26.853 C9.8,26.853 10.02,26.633 10.02,26.353 L10.02,20.353 C10.02,20.073 9.8,19.853 9.52,19.853 L9.52,19.853 Z" id="Fill-205-425-517" fill="#6BA2B9"></path>
+                                                        <path d="M33.02,21.853 L36.02,21.853 L36.02,16.853 L33.02,16.853 L33.02,21.853 Z M36.52,15.853 L32.52,15.853 C32.24,15.853 32.02,16.073 32.02,16.353 L32.02,22.353 C32.02,22.633 32.24,22.853 32.52,22.853 L36.52,22.853 C36.8,22.853 37.02,22.633 37.02,22.353 L37.02,16.353 C37.02,16.073 36.8,15.853 36.52,15.853 L36.52,15.853 Z" id="Fill-205-425-909" fill="#6BA2B9"></path>
+                                                        <path id="Fill-205-425-721" fill="#FFFFFF"></path>
+                                                        <path d="M55,41 L44.07,41 L43.23,39.14 C43.12,38.88 42.91,38.68 42.64,38.58 C42.38,38.48 42.09,38.49 41.83,38.6 L39.99,39.37 C39.47,38.7 38.85,38.11 38.12,37.54 L38.8,35.75 C38.9,35.49 38.89,35.2 38.78,34.94 C38.66,34.68 38.45,34.48 38.19,34.38 L37,33.93 L37,26.75 L46,21.21 L55,26.75 L55,41 Z M41.43,42.49 C40.99,42.69 40.74,43.16 40.82,43.65 C40.95,44.39 40.96,45.14 40.87,45.88 C40.81,46.37 41.08,46.84 41.54,47.01 L43.42,47.8 L42.53,49.94 L40.65,49.22 C40.21,49.05 39.7,49.21 39.42,49.6 C38.98,50.2 38.46,50.74 37.88,51.2 C37.5,51.5 37.37,52.02 37.57,52.46 L38.36,54.4 L36.21,55.29 L35.37,53.41 C35.18,52.97 34.7,52.72 34.22,52.8 C33.51,52.92 32.78,52.94 32.06,52.86 C31.58,52.81 31.12,53.08 30.95,53.53 L30.12,55.5 L27.97,54.61 L28.71,52.67 C28.88,52.23 28.72,51.72 28.33,51.43 C27.73,51.01 27.2,50.51 26.75,49.95 C26.54,49.69 26.23,49.54 25.92,49.54 C25.77,49.54 25.63,49.57 25.49,49.63 L23.52,50.45 L22.63,48.3 L24.48,47.47 C24.92,47.27 25.17,46.79 25.09,46.31 C24.96,45.59 24.94,44.85 25.01,44.12 C25.07,43.64 24.79,43.18 24.34,43.01 L22.42,42.21 L23.31,40.06 L25.15,40.76 C25.61,40.93 26.13,40.77 26.41,40.36 C26.83,39.75 27.34,39.2 27.93,38.72 C28.31,38.42 28.44,37.9 28.25,37.46 L27.48,35.59 L29.63,34.7 L30.42,36.47 C30.62,36.91 31.09,37.16 31.58,37.07 C32.32,36.94 33.08,36.92 33.84,37 C34.32,37.05 34.78,36.78 34.95,36.33 L35.72,34.51 L37.87,35.4 L37.18,37.18 C37.01,37.63 37.17,38.14 37.57,38.42 C38.19,38.87 38.74,39.39 39.21,39.98 C39.51,40.37 40.03,40.5 40.47,40.31 L42.32,39.55 L43.21,41.7 L41.43,42.49 Z M21.81,41 L15,41 L15,4 L40,4 L40,23.73 L36.24,26.05 C36.09,26.14 36,26.3 36,26.47 L36,33.56 C35.47,33.4 34.9,33.66 34.7,34.19 L33.95,36.01 C33.09,35.91 32.24,35.94 31.33,36.06 L30.54,34.3 C30.43,34.04 30.22,33.84 29.95,33.74 C29.68,33.63 29.4,33.64 29.14,33.76 L27.07,34.68 C26.81,34.8 26.61,35.01 26.51,35.27 C26.41,35.54 26.42,35.83 26.54,36.09 L27.3,37.95 C26.64,38.48 26.06,39.1 25.51,39.82 L23.67,39.12 C23.12,38.91 22.51,39.19 22.3,39.74 L21.81,41 Z M14,1.5 C14,1.22 14.22,1 14.5,1 L40.5,1 C40.78,1 41,1.22 41,1.5 L41,3 L14,3 L14,1.5 Z M1,41 L14,41 L14,18 L1,18 L1,41 Z M55.76,26.05 L46.26,20.2 C46.1,20.1 45.9,20.1 45.74,20.2 L41,23.12 L41,4 L41.5,4 C41.78,4 42,3.78 42,3.5 L42,1.5 C42,0.67 41.33,0 40.5,0 L14.5,0 C13.67,0 13,0.67 13,1.5 L13,3.5 C13,3.78 13.22,4 13.5,4 L14,4 L14,17 L0.5,17 C0.22,17 0,17.22 0,17.5 L0,41.5 C0,41.78 0.22,42 0.5,42 L21.46,42 C21.41,42.22 21.42,42.45 21.51,42.66 C21.63,42.92 21.84,43.12 22.1,43.22 L24.02,44.02 C23.93,44.84 23.96,45.67 24.07,46.56 L22.22,47.38 C21.96,47.5 21.77,47.71 21.66,47.98 C21.56,48.24 21.57,48.53 21.69,48.79 L22.61,50.85 C22.73,51.11 22.94,51.31 23.2,51.41 C23.47,51.52 23.76,51.51 24.02,51.39 L25.97,50.57 C26.48,51.21 27.08,51.77 27.78,52.32 L27.04,54.25 C26.94,54.52 26.95,54.81 27.06,55.07 C27.18,55.33 27.39,55.52 27.65,55.63 L29.77,56.43 C29.89,56.48 30.02,56.5 30.15,56.5 C30.57,56.5 30.98,56.24 31.14,55.82 L31.95,53.85 C32.76,53.94 33.58,53.92 34.46,53.81 L35.3,55.7 C35.54,56.23 36.17,56.48 36.71,56.24 L38.77,55.31 C39.03,55.2 39.23,54.99 39.33,54.72 C39.43,54.46 39.42,54.17 39.31,53.91 L38.5,51.98 C39.15,51.47 39.73,50.86 40.23,50.19 L40.3,50.16 L42.17,50.87 C42.44,50.97 42.73,50.97 42.99,50.85 C43.25,50.73 43.45,50.52 43.55,50.26 L44.35,48.16 C44.56,47.61 44.28,46.99 43.73,46.78 L41.86,46 C41.97,45.17 41.95,44.32 41.84,43.41 L43.62,42.61 C43.88,42.49 44.08,42.28 44.18,42.02 L44.18,42 L55.5,42 C55.78,42 56,41.78 56,41.5 L56,26.47 C56,26.3 55.91,26.14 55.76,26.05 L55.76,26.05 Z" id="Fill-205-425-25" fill="#6BA2B9"></path>
+                                                        <path d="M41.02,32.853 L44.02,32.853 L44.02,27.853 L41.02,27.853 L41.02,32.853 Z M44.52,26.853 L40.52,26.853 C40.24,26.853 40.02,27.073 40.02,27.353 L40.02,33.353 C40.02,33.633 40.24,33.853 40.52,33.853 L44.52,33.853 C44.8,33.853 45.02,33.633 45.02,33.353 L45.02,27.353 C45.02,27.073 44.8,26.853 44.52,26.853 L44.52,26.853 Z" id="Fill-205-425-436" fill="#6BA2B9"></path>
+                                                        <path d="M48.02,32.853 L51.02,32.853 L51.02,27.853 L48.02,27.853 L48.02,32.853 Z M51.52,26.853 L47.52,26.853 C47.24,26.853 47.02,27.073 47.02,27.353 L47.02,33.353 C47.02,33.633 47.24,33.853 47.52,33.853 L51.52,33.853 C51.8,33.853 52.02,33.633 52.02,33.353 L52.02,27.353 C52.02,27.073 51.8,26.853 51.52,26.853 L51.52,26.853 Z" id="Fill-205-425-463" fill="#6BA2B9"></path>
+                                                        <path d="M32.9399,47.8425 C31.2899,47.8425 29.9499,46.5025 29.9499,44.8525 C29.9499,43.2025 31.2899,41.8625 32.9399,41.8625 C34.5899,41.8625 35.9299,43.2025 35.9299,44.8525 C35.9299,46.5025 34.5899,47.8425 32.9399,47.8425 M32.9399,40.8625 C30.7399,40.8625 28.9499,42.6525 28.9499,44.8525 C28.9499,47.0525 30.7399,48.8425 32.9399,48.8425 C35.1399,48.8425 36.9299,47.0525 36.9299,44.8525 C36.9299,42.6525 35.1399,40.8625 32.9399,40.8625" id="Fill-205-425-3" fill="#6BA2B9"></path>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <span class="primary-menu-title-text">Community Development</span>
+                                    </a>
+                                </li>
+                                <!-- Mobile version of menu item -->
+                                <li class="dropdown has-children clearfix">
+                                    <a href="/in-the-region.aspx" class="dropdown-toggle child-link" title="In the Region">
+                                        <span class="primary-menu-title-text">In the Region</span>
+                                    </a>
+                                </li>
+                                <!-- Lg and Md version of menu item-->
+                                <li class="hidden-xs hidden-sm dropdown clearfix">
+                                    <a class="primary-menu-title" href="/in-the-region.aspx">
+                                        <div class="nav-menu-card-img-wrapper">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="59px" viewBox="0 0 40 59" version="1.1" class="svg-get-data replaced-svg">
+
+
+
+
+                                                <g id="Symbols-438" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <g id="icn-in_the_region-828">
+                                                        <path d="M14.4008,49.2637 L14.4628,49.2497 C14.4188,49.1577 14.3788,49.0727 14.3448,49.0077 C14.3448,49.0067 14.3438,49.0057 14.3438,49.0047 C14.1378,48.7817 13.8918,48.5767 13.6388,48.4347 C13.3868,48.3897 13.0658,48.4197 12.6508,48.4867 C12.3258,48.8937 12.4768,49.5567 12.7438,50.4827 C12.9018,51.0347 13.0528,51.5557 13.0298,52.0367 C13.0218,52.2127 12.9798,52.4357 12.9338,52.6717 C12.8918,52.8837 12.8178,53.2567 12.8378,53.4277 C12.8638,53.4177 12.9168,53.4107 12.9918,53.3917 C13.5478,53.2507 14.1938,52.7797 14.2308,52.3287 C14.2438,52.1717 14.2008,51.7717 14.1638,51.4187 C14.0408,50.2717 14.0138,49.7377 14.2688,49.4257 L14.4008,49.2637 Z" id="Fill-200-455-178" fill="#FFFFFF"></path>
+                                                        <path d="M37.6799,21.4225 C37.3499,21.4525 36.8399,21.4925 36.4599,21.9525 C36.1199,22.3725 36.2099,22.7925 36.2499,23.0125 C36.2599,23.0325 36.2599,23.0525 36.2599,23.0725 C36.1799,23.0625 36.0699,23.0425 35.9899,23.0325 C35.6599,22.9825 35.1099,22.9025 34.8399,23.3825 C34.6999,23.6225 34.7399,23.8425 34.8099,23.9825 C34.6499,24.1425 33.6399,24.8425 33.2799,25.0225 C33.1099,25.0025 32.8299,24.9725 32.3099,24.9125 L32.1899,24.9125 C31.8399,24.8225 31.5899,25.0425 31.3799,25.2125 C31.0899,25.4625 30.9799,25.5225 30.8699,25.4625 L30.5999,25.3725 L30.3899,25.4825 C30.1199,25.6225 30.0599,25.9025 29.9799,26.2525 C29.9499,26.4025 29.8699,26.7425 29.7899,26.9025 C29.7599,26.8725 29.7299,26.8525 29.7099,26.8325 C29.5699,26.6925 29.4099,26.5425 29.1899,26.4725 C29.2699,26.3925 29.3399,26.2825 29.3799,26.1525 C29.4999,25.7225 29.4699,24.7125 29.1399,24.1925 C28.9699,23.9125 28.7499,23.8125 28.5899,23.7825 C27.9099,23.6625 27.5499,24.4725 27.3599,24.9125 L27.3299,24.9925 C27.2799,25.0425 27.0999,25.1325 26.9999,25.1825 C26.6799,25.3425 26.2799,25.5425 26.1699,25.9525 C26.1099,26.2025 26.1999,26.4525 26.3999,26.9425 C26.4899,27.1525 26.6299,27.5025 26.6399,27.5825 C26.6099,27.8125 26.5399,28.0125 26.4499,28.2425 C26.3599,28.4725 26.2699,28.7325 26.2199,29.0425 C26.1799,29.2825 26.2599,29.5225 26.3599,29.8025 C26.3799,29.8625 26.4099,29.9425 26.4399,30.0225 C26.3999,30.0325 26.3699,30.0525 26.3399,30.0625 C26.2999,30.0825 26.2599,30.1025 26.2199,30.1125 C26.2099,30.0325 26.1899,29.9525 26.1299,29.8725 L25.9199,29.6125 L25.6699,29.6125 C25.3699,29.5825 25.0699,29.7625 24.3999,30.6225 C24.3499,30.6125 24.3099,30.6125 24.2499,30.6025 C23.2899,30.5025 23.0199,30.5025 22.7999,30.6925 L22.6299,30.8425 L22.6199,31.0525 C22.5999,31.2625 22.6799,31.4625 22.7699,31.6825 C22.7699,31.6925 22.7799,31.7125 22.7799,31.7225 C22.7299,31.7125 22.6999,31.7025 22.6899,31.6925 C22.6199,31.6725 22.5599,31.6525 22.4999,31.6425 C22.4199,31.4825 22.3099,31.3125 22.1299,31.2125 L21.8699,31.0725 L21.6299,31.2225 L21.2899,31.3925 C20.7399,31.6825 19.9799,32.0725 19.8299,32.8425 C19.7999,32.9525 19.7899,33.1825 19.7699,33.4625 C19.7599,33.7025 19.7399,34.1325 19.6999,34.3125 C19.2299,34.8225 18.4399,36.3525 18.3699,36.6425 L18.2999,36.9025 C18.1499,37.5825 18.0099,37.9525 17.9099,38.0225 C17.9099,38.0225 17.8699,38.0125 17.7699,37.9425 C17.3699,37.6525 17.1199,36.7825 16.9599,36.2125 L16.8799,35.9425 C16.6199,35.0625 16.4199,34.2125 16.2999,33.4225 C16.0899,32.0825 15.9299,30.7125 15.7599,29.3825 C15.4999,27.2525 15.2299,25.0425 14.7899,22.8825 C14.7499,22.7225 14.6899,22.5125 14.6199,22.2825 C14.4899,21.8325 14.2299,20.9425 14.3899,20.5625 C14.3899,20.5725 14.3999,20.5725 14.3999,20.5725 C14.5699,20.6525 14.8199,20.7825 15.1499,20.7225 C16.1099,20.5425 16.6899,18.6725 16.6699,18.4325 C16.6499,18.0425 16.8499,17.7325 17.1599,17.2625 C17.9999,15.9525 18.3899,14.9525 18.5799,13.5425 C18.6899,12.7025 18.8999,11.9025 19.1099,11.0625 C19.1999,10.6925 19.2999,10.3325 19.3799,9.9525 C19.4499,9.6625 19.5099,9.3625 19.5699,9.0625 C19.7699,8.1025 19.9599,7.1925 20.3899,6.3325 C20.5799,5.9725 20.7699,5.6125 20.9699,5.2525 C21.2799,4.6825 21.6099,4.0825 21.8899,3.4425 L21.9699,3.2425 C22.1699,2.7625 22.5499,1.8825 22.9699,1.7925 C23.1699,1.7325 23.3899,2.0625 23.6799,2.5225 C23.9399,2.9125 24.1999,3.3225 24.5899,3.5325 C25.6499,4.1025 26.5799,3.3925 27.3199,2.8125 C27.6599,2.5525 28.0199,2.2725 28.3099,2.1925 C29.9199,1.7225 30.7599,4.0925 30.9199,4.5725 C31.5299,6.5125 31.9199,8.6225 32.0499,10.6925 C32.0699,11.1125 32.0499,11.5325 32.0199,11.9825 C31.9899,12.4525 31.9599,12.9425 31.9999,13.4325 C32.0999,14.9125 33.0999,15.1925 33.9099,15.4225 C34.6699,15.6325 34.6499,15.9225 34.5899,16.6925 C34.5599,17.1925 34.5099,17.8125 34.8099,18.3925 C35.0399,18.8425 35.6499,19.2825 36.6399,19.9425 C37.1499,20.2925 37.9999,20.8625 38.1599,21.1225 C38.1099,21.3925 38.0499,21.3925 37.6799,21.4225 L37.6799,21.4225 Z M18.1399,42.4525 C18.1799,42.4725 18.2099,42.5025 18.2299,42.5225 C18.1999,42.5525 18.1699,42.5725 18.1299,42.5925 L17.9499,42.7325 C17.3699,43.1625 17.0299,43.6925 16.9599,44.2425 C16.9099,44.6925 17.0499,45.1525 17.3799,45.5525 C17.5999,45.8325 17.8699,46.0125 18.1099,46.1725 C18.3399,46.3325 18.5399,46.4625 18.6699,46.6625 C18.8099,46.8625 18.8999,47.1225 18.9999,47.4125 C19.0399,47.5425 19.0899,47.6825 19.1699,47.8825 C19.4699,48.6725 19.8899,49.7425 20.8799,50.1425 C21.4299,50.3725 22.1099,50.3425 22.6899,50.0625 C23.1999,49.8125 23.5699,49.4025 23.7099,48.9025 C23.8899,48.3025 23.4799,47.7325 23.1099,47.2225 C23.6899,47.7425 24.3499,48.8525 24.4099,49.1325 C24.6199,50.1525 24.2699,50.5825 24.2099,50.6225 C24.0199,50.5225 23.5299,50.2825 22.7399,50.4725 C22.1599,50.6125 21.5299,51.1625 20.8599,51.7525 C20.5299,52.0325 20.0199,52.4825 19.6499,52.7025 C19.9199,52.2325 20.2999,51.3525 19.2699,50.6825 C19.0199,50.5225 18.7799,50.4525 18.5499,50.4525 C18.0499,50.4525 17.6199,50.7525 17.3299,50.9625 C17.1999,51.0525 16.9299,51.2525 16.8499,51.2325 C16.5799,51.1725 16.1099,50.4225 15.4599,49.0225 C15.3699,48.8325 15.2999,48.6725 15.2299,48.5525 C14.5099,47.1425 13.2599,47.3625 12.2499,47.5425 C11.3899,47.6925 10.5399,47.6925 9.6399,47.6925 C9.2699,47.6925 8.8999,47.6925 8.5299,47.7125 C7.5899,47.7325 6.6499,47.8625 5.7499,47.9925 C5.2799,48.0525 4.8099,48.1125 4.3499,48.1625 L4.0599,48.2025 C3.3099,48.2925 2.3799,48.4025 1.9999,47.9125 C1.7299,47.5625 1.8799,46.9925 2.0399,46.4325 L2.1799,45.8925 C2.5899,44.2125 2.9199,43.1625 4.3199,42.8625 C5.7399,42.5625 7.3299,42.7225 8.8699,42.8925 C9.3199,42.9325 9.7699,42.9825 10.1999,43.0125 L10.4399,43.0325 C11.9999,43.1625 13.9399,43.3225 15.3099,42.1125 C15.4499,41.9825 15.5999,41.8325 15.7399,41.6725 C16.1199,41.2425 16.3799,40.9825 16.6899,41.0425 C16.9599,41.0925 17.2999,41.5025 17.5699,41.8325 C17.7699,42.0625 17.9499,42.2725 18.1399,42.4525 L18.1399,42.4525 Z M14.3999,49.2625 L14.2699,49.4225 C14.0099,49.7325 14.0399,50.2725 14.1599,51.4225 C14.1999,51.7725 14.2399,52.1725 14.2299,52.3325 C14.1899,52.7825 13.5499,53.2525 12.9899,53.3925 C12.9199,53.4125 12.8599,53.4225 12.8399,53.4225 C12.8199,53.2525 12.8899,52.8825 12.9299,52.6725 C12.9799,52.4325 13.0199,52.2125 13.0299,52.0325 C13.0499,51.5525 12.8999,51.0325 12.7399,50.4825 C12.4799,49.5525 12.3299,48.8925 12.6499,48.4825 C13.0699,48.4225 13.3899,48.3925 13.6399,48.4325 C13.8899,48.5725 14.1399,48.7825 14.3399,49.0025 L14.3499,49.0125 C14.3799,49.0725 14.4199,49.1525 14.4599,49.2525 L14.3999,49.2625 Z M11.9599,51.4225 C11.9499,51.7825 11.9399,52.1225 11.9599,52.4425 C11.9599,52.4525 11.9499,52.4625 11.9499,52.4825 C11.8999,52.7325 11.8599,52.9925 11.8499,53.2525 C11.8199,53.3325 11.7999,53.4025 11.7799,53.4925 L11.7699,53.4925 C11.4499,53.4625 11.0899,53.4225 10.7099,53.5625 C10.0299,53.8125 8.7899,53.9925 7.6999,54.1525 C6.5899,54.3125 5.6299,54.4525 5.1599,54.6725 C4.8199,54.8225 4.3599,55.1725 3.8099,55.5725 C3.2199,56.0125 1.6499,57.1725 1.2899,57.0125 C1.1899,56.9625 1.1799,56.9125 1.1799,56.8925 C1.1599,56.7925 1.2099,56.6125 1.3799,56.4425 C1.4299,56.3925 1.4899,56.3425 1.5699,56.2825 C1.7599,56.1525 2.0299,55.9825 2.1599,55.6025 C2.3299,55.1125 2.1699,54.6225 2.0399,54.2225 C1.9899,54.0925 1.9499,53.9625 1.9199,53.8425 C1.8499,53.4725 1.8599,53.0925 1.8599,52.6925 C1.8699,52.4725 1.8699,52.2525 1.8599,52.0325 C1.8499,51.7925 1.8199,51.5225 1.7899,51.2625 C1.7099,50.5525 1.6299,49.8125 1.9499,49.3125 C1.9999,49.2425 2.0599,49.1925 2.1099,49.1425 C2.7899,49.3525 3.5899,49.2625 4.1799,49.1925 L4.4499,49.1625 C4.8999,49.1125 5.3399,49.0525 5.7799,48.9925 C6.3599,48.9925 6.9299,48.9625 7.4999,48.8925 C7.8299,48.8525 8.1799,48.7825 8.5399,48.7125 L8.5599,48.7125 C8.9199,48.6925 9.2799,48.6925 9.6399,48.6925 C10.1299,48.6925 10.6199,48.6925 11.1199,48.6625 C11.2599,48.7225 11.3799,48.7925 11.4799,48.8825 C11.4299,49.5025 11.6099,50.1725 11.7799,50.7625 C11.8499,50.9925 11.9099,51.2125 11.9599,51.4125 L11.9599,51.4225 Z M2.3799,35.4325 C2.1799,35.3025 1.9799,35.2325 1.8199,35.1725 C1.5599,35.0825 1.5199,35.0625 1.4799,34.9525 C1.4199,34.8125 1.4699,34.4725 1.4999,34.2225 C1.5299,34.0225 1.5499,33.8225 1.5499,33.6625 C1.5499,33.4025 1.5299,33.1425 1.4999,32.8825 C1.4799,32.6525 1.4599,32.4125 1.4599,32.1725 C1.4599,31.7525 1.5499,31.3225 1.6499,30.8625 C1.7899,30.1625 1.9499,29.4325 1.7899,28.6625 C1.7499,28.4325 1.6699,28.2125 1.5799,27.9925 C1.4999,27.7725 1.4199,27.5725 1.3999,27.3825 C1.3699,27.1725 1.4099,26.9325 1.4499,26.6825 C1.4999,26.3525 1.5499,25.9925 1.4799,25.6025 C1.3199,24.7225 1.3199,24.3025 1.7199,24.0825 C2.1999,23.8225 2.9199,23.8825 3.5999,23.9525 C3.9599,23.9825 4.3299,24.0225 4.6599,24.0125 C5.2799,23.9925 5.8999,23.9225 6.4899,23.8525 C7.0099,23.8025 7.5399,23.7425 8.0599,23.7125 C8.3299,23.7025 8.6699,23.6525 9.0199,23.5925 C9.6899,23.4725 10.6199,23.3125 10.9299,23.5925 C11.0399,23.6925 11.0899,23.8825 11.0699,24.1625 C11.0599,24.3625 11.0399,24.5625 11.0099,24.7525 C10.9699,25.0725 10.9399,25.3825 10.9399,25.7025 L10.9399,25.9525 C10.9599,26.8125 10.9499,27.2325 10.4299,27.6425 C10.2599,27.7725 10.0799,27.8825 9.9099,27.9825 C9.4299,28.2825 8.8899,28.6225 8.5999,29.3525 C8.3899,29.8925 8.3599,30.4525 8.3299,30.9825 C8.3099,31.4425 8.2899,31.8625 8.1599,32.2525 C8.0399,32.6125 7.8999,32.9525 7.7599,33.3025 C7.4899,33.9325 7.2199,34.5925 7.0899,35.3325 C6.9999,35.8525 6.9799,36.3825 6.9499,36.8925 C6.9299,37.2825 6.9099,37.6625 6.8599,38.0425 C6.8199,38.3325 6.7699,38.6325 6.7099,38.9325 C6.5499,39.8225 6.3999,40.7925 6.6299,41.7025 C5.7799,41.6725 4.9299,41.7125 4.1099,41.8825 C3.7699,41.9625 3.4899,42.0725 3.2299,42.2125 C3.1699,42.1625 3.0999,42.1225 3.0399,42.0625 C2.3399,41.3725 2.5099,40.5225 2.8699,39.2025 C3.0799,38.4525 3.2899,37.6725 3.1999,36.9225 C3.1399,36.4825 2.9899,35.8425 2.3799,35.4325 L2.3799,35.4325 Z M11.9499,26.3125 C11.9699,25.9425 12.0399,25.5725 12.1099,25.1825 C12.1899,24.7825 12.2699,24.3625 12.2999,23.9325 L12.2999,23.8125 C12.2999,23.5325 12.2699,23.2525 12.2399,22.9825 C12.1499,22.2125 12.1199,21.6925 12.4399,21.3925 C12.7899,21.0825 13.0699,20.9025 13.3299,20.8225 C13.3199,21.3825 13.4999,22.0125 13.6599,22.5625 C13.7199,22.7725 13.7799,22.9525 13.8099,23.0925 C14.2499,25.2125 14.5099,27.3925 14.7699,29.5025 C14.9299,30.8425 15.0999,32.2225 15.3099,33.5725 C15.3599,33.9125 15.4399,34.2525 15.5099,34.6025 C15.5099,34.6425 15.5199,34.6725 15.5199,34.7125 C15.5499,35.3425 15.5699,35.9825 15.8299,36.6225 C15.9699,36.9525 16.1499,37.2425 16.3399,37.5125 C16.5099,37.9425 16.7399,38.3325 17.0499,38.6225 L17.0599,38.6225 C17.1299,38.7825 17.2599,39.0425 17.2599,39.2425 C17.2599,39.3525 17.1999,39.4925 17.1399,39.6525 C17.0899,39.7625 17.0499,39.8725 17.0099,40.0025 C16.9299,40.0125 16.8599,40.0425 16.7799,40.0525 C15.9499,39.9525 15.3999,40.5525 14.9999,41.0025 C14.8999,41.1125 14.8099,41.2025 14.7099,41.3025 C14.6399,41.3525 14.5599,41.4225 14.4899,41.4725 C13.6999,41.9625 12.7699,41.9625 11.7899,41.9625 L11.0599,41.9625 C10.8399,41.9725 10.5999,41.9925 10.3599,42.0225 L10.2799,42.0225 C9.8499,41.9825 9.4199,41.9425 8.9799,41.8925 C8.5499,41.8525 8.1199,41.8025 7.6799,41.7725 C7.4799,41.2925 7.4699,40.7525 7.5299,40.1925 C7.5499,40.1225 7.5599,40.0725 7.5899,40.0025 L7.7099,39.6125 C7.9499,38.7825 7.9799,37.9425 7.9999,37.1325 C8.0299,36.4525 8.0499,35.8125 8.1899,35.1825 C8.2799,34.7825 8.4299,34.4025 8.5899,33.9925 C8.6799,33.7425 8.7699,33.5025 8.8599,33.2525 C8.8699,33.2225 8.8699,33.1925 8.8799,33.1625 C8.9599,32.9625 9.0399,32.7725 9.1099,32.5625 C9.2799,32.0525 9.3099,31.5325 9.3299,31.0425 C9.3399,30.8825 9.3599,30.7325 9.3699,30.5825 C9.5699,29.8725 9.9699,29.4525 10.5699,28.8825 C10.7099,28.7525 10.8599,28.6025 11.0099,28.4525 C11.0199,28.4425 11.0299,28.4425 11.0399,28.4325 C11.8399,27.8025 11.9399,27.0625 11.9499,26.3125 L11.9499,26.3125 Z M37.1999,19.1125 C36.6499,18.7525 35.8299,18.1925 35.6999,17.9425 C35.5299,17.6025 35.5599,17.2025 35.5899,16.7725 C35.6499,15.9725 35.7299,14.8925 34.1799,14.4525 C33.2799,14.2025 33.0399,14.0625 32.9899,13.3625 C32.9599,12.9325 32.9899,12.5025 33.0199,12.0425 C33.0499,11.5825 33.0799,11.1125 33.0499,10.6325 C32.9099,8.4825 32.5099,6.2825 31.8699,4.2725 C31.2899,2.4325 29.9699,0.6625 28.0299,1.2325 C27.5599,1.3725 27.1199,1.7025 26.7099,2.0225 C25.9899,2.5825 25.5199,2.8925 25.0599,2.6525 C24.8999,2.5625 24.6999,2.2525 24.5299,1.9825 C24.1599,1.4125 23.6599,0.6225 22.7599,0.8125 C21.8299,1.0125 21.3599,2.1225 21.0499,2.8525 L20.9699,3.0525 C20.7099,3.6425 20.4099,4.1925 20.0899,4.7725 C19.8899,5.1425 19.6899,5.5125 19.4999,5.8925 C19.0099,6.8625 18.7999,7.8825 18.5999,8.8625 C18.5399,9.1525 18.4799,9.4425 18.4099,9.7325 C18.3199,10.0925 18.2299,10.4525 18.1399,10.8125 C17.9299,11.6525 17.7099,12.5125 17.5899,13.4125 C17.4199,14.6625 17.0799,15.5325 16.2799,16.7825 C15.9799,17.2325 15.6499,17.7525 15.6699,18.4325 C15.5799,18.8025 15.1699,19.6525 14.9799,19.7325 C14.9599,19.7325 14.8899,19.7025 14.8499,19.6725 C14.6499,19.5825 14.1799,19.3525 13.7299,19.7925 C12.9199,19.7225 12.2399,20.2325 11.7699,20.6525 C11.1799,21.1825 11.1399,21.9225 11.1999,22.6125 C10.5299,22.3225 9.6499,22.4725 8.8499,22.6025 C8.5399,22.6525 8.2499,22.7025 8.0199,22.7225 C7.4699,22.7425 6.9299,22.8025 6.3799,22.8625 C5.8099,22.9225 5.2099,22.9925 4.6299,23.0125 C4.3399,23.0125 4.0299,22.9825 3.6999,22.9525 C2.8999,22.8825 1.9899,22.7925 1.2399,23.2025 C0.1399,23.8025 0.3599,25.0425 0.4999,25.7825 C0.5099,25.8425 0.5199,25.9125 0.5199,25.9825 C0.5199,26.1525 0.4899,26.3425 0.4599,26.5325 C0.4099,26.8225 0.3599,27.1525 0.4099,27.5025 C0.4399,27.8125 0.5499,28.0925 0.6499,28.3425 C0.7099,28.5125 0.7799,28.6825 0.8099,28.8625 C0.9299,29.4325 0.7999,30.0225 0.6699,30.6625 C0.5699,31.1525 0.4599,31.6525 0.4599,32.1725 C0.4599,32.4425 0.4799,32.7125 0.5099,32.9825 C0.5299,33.2125 0.5499,33.4325 0.5499,33.6625 C0.5499,33.7925 0.5299,33.9325 0.5099,34.0925 C0.4599,34.4925 0.3999,34.9425 0.5499,35.3125 C0.7599,35.8625 1.1999,36.0225 1.4999,36.1225 C1.6199,36.1625 1.7299,36.2025 1.8199,36.2625 C2.0399,36.4125 2.1499,36.6425 2.1999,37.0525 C2.2799,37.6025 2.0999,38.2525 1.9099,38.9325 C1.5699,40.1925 1.1799,41.6225 2.3299,42.7725 C2.3599,42.7925 2.3899,42.8125 2.4099,42.8325 C1.7199,43.5925 1.4499,44.6625 1.2099,45.6525 L1.0699,46.1625 C0.8899,46.8525 0.6299,47.7825 1.2099,48.5325 C1.2299,48.5525 1.2499,48.5625 1.2699,48.5925 C1.2199,48.6425 1.1599,48.6925 1.1199,48.7625 C0.5899,49.5625 0.6999,50.5225 0.7999,51.3725 C0.8199,51.6125 0.8499,51.8525 0.8599,52.0725 C0.8699,52.2725 0.8699,52.4725 0.8599,52.6825 C0.8599,53.1125 0.8499,53.5725 0.9399,54.0325 C0.9699,54.1925 1.0299,54.3625 1.0899,54.5425 C1.1799,54.8025 1.2799,55.1025 1.2199,55.2725 C1.1899,55.3325 1.1499,55.3625 1.0099,55.4625 C0.8999,55.5325 0.7699,55.6225 0.6499,55.7525 C0.2799,56.1425 0.1099,56.6425 0.1999,57.0825 C0.2699,57.4525 0.5099,57.7525 0.8699,57.9125 C1.0199,57.9825 1.1799,58.0125 1.3399,58.0125 C2.1199,58.0125 3.1299,57.3225 4.4099,56.3725 C4.8899,56.0225 5.3299,55.6925 5.5799,55.5825 C5.9199,55.4225 6.8999,55.2825 7.8499,55.1425 C9.0399,54.9625 10.2699,54.7825 11.0599,54.5025 C11.2099,54.4425 11.4199,54.4625 11.6699,54.4925 C11.8799,54.5125 12.0999,54.5325 12.3099,54.5125 L12.9299,54.4625 L12.9099,54.4025 C13.0099,54.4025 13.1199,54.3925 13.2399,54.3625 C14.1399,54.1325 15.1499,53.3725 15.2299,52.4125 C15.2499,52.1625 15.2099,51.7625 15.1599,51.3125 C15.1399,51.1025 15.0999,50.8025 15.0899,50.5325 C15.5499,51.3925 16.0299,52.0725 16.6199,52.2025 C17.1199,52.3225 17.5599,52.0225 17.9099,51.7825 C18.3899,51.4425 18.5299,51.3925 18.7299,51.5225 C19.0099,51.7025 19.0399,51.7825 18.7099,52.3425 C18.5399,52.6325 18.3599,52.9325 18.4499,53.2825 C18.4899,53.4125 18.5899,53.6025 18.8299,53.7325 C18.9799,53.8125 19.1299,53.8425 19.2899,53.8425 C19.9699,53.8425 20.7199,53.1925 21.5099,52.5025 C22.0099,52.0625 22.6399,51.5225 22.9699,51.4425 C23.4099,51.3425 23.6399,51.4525 23.7599,51.5125 L23.8599,51.5625 C24.1799,51.6825 24.5499,51.6025 24.8499,51.3525 C25.3999,50.8825 25.5999,49.9825 25.3899,48.9325 C25.2899,48.4225 24.2099,46.5025 23.1399,46.0625 C22.7599,45.9125 22.3899,45.9325 22.0899,46.1325 L22.0799,46.1325 C21.9199,46.2425 21.8099,46.4125 21.7799,46.6025 C21.7099,47.0025 21.9699,47.3625 22.2799,47.7925 C22.4299,47.9925 22.7799,48.4725 22.7499,48.6225 C22.6699,48.9225 22.3999,49.0825 22.2599,49.1625 C21.9399,49.3125 21.5399,49.3325 21.2499,49.2125 C20.6699,48.9825 20.3499,48.1725 20.0699,47.4525 C20.0199,47.3325 19.9799,47.2125 19.9399,47.0925 C19.8299,46.7725 19.7099,46.4125 19.4999,46.0925 C19.2599,45.7425 18.9499,45.5325 18.6699,45.3425 C18.4699,45.2125 18.2899,45.0825 18.1599,44.9225 C17.9999,44.7325 17.9299,44.5425 17.9599,44.3625 C17.9899,44.0925 18.2099,43.7925 18.5499,43.5325 L18.7199,43.4025 C19.0299,43.1825 19.3199,42.9625 19.3399,42.5825 C19.3499,42.1925 19.0599,41.9225 18.7899,41.6925 C18.6499,41.5625 18.4999,41.3825 18.3399,41.1925 C18.2299,41.0525 18.0999,40.9125 17.9799,40.7725 L17.9499,40.4725 C17.9399,40.3525 17.9999,40.2025 18.0599,40.0225 C18.1499,39.8025 18.2599,39.5525 18.2599,39.2425 C18.2599,39.1425 18.2499,39.0525 18.2299,38.9625 L18.2399,38.9625 C18.9099,38.7125 19.1199,37.8025 19.2799,37.1325 L19.3299,36.9025 C19.4099,36.6325 20.1999,35.2225 20.3599,35.0425 C20.6899,34.8525 20.7199,34.4625 20.7699,33.5125 C20.7799,33.3025 20.7899,33.1225 20.8099,33.0425 C20.8599,32.7525 21.3099,32.5125 21.6899,32.3125 C21.7699,32.5225 21.9099,32.8125 22.2499,32.8225 C22.3499,32.8325 22.4799,32.8125 22.5999,32.7125 C22.7599,32.7325 22.9499,32.7425 23.2099,32.7125 C23.5399,32.6725 23.6999,32.4825 23.7699,32.3725 C23.9299,32.1125 23.8799,31.8225 23.7899,31.5625 C23.9299,31.5725 24.0599,31.5925 24.1499,31.6025 C24.6799,31.6525 24.8499,31.6725 25.0299,31.4325 C25.1399,31.2925 25.2299,31.1725 25.3099,31.0825 L25.4799,31.2625 L25.6999,31.2725 C26.0499,31.3025 26.4399,31.1125 26.7499,30.9725 C26.8499,30.9225 26.9399,30.8825 26.9999,30.8625 C27.1799,30.8225 27.3199,30.7025 27.3999,30.5425 C27.5699,30.2125 27.4399,29.8325 27.3099,29.4625 C27.2699,29.3625 27.2099,29.2025 27.1999,29.2025 C27.2399,28.9925 27.3099,28.7925 27.3899,28.5925 C27.4799,28.3325 27.5899,28.0525 27.6299,27.6925 C27.6599,27.4125 27.5399,27.0825 27.3299,26.5725 C27.2899,26.4625 27.2299,26.3225 27.1899,26.2125 C27.2699,26.1725 27.3699,26.1125 27.4499,26.0825 C27.7299,25.9425 28.0499,25.7825 28.1999,25.4825 C28.2199,25.4425 28.2399,25.3925 28.2699,25.3225 C28.3199,25.2125 28.3599,25.1225 28.3999,25.0425 C28.4499,25.3325 28.4799,25.6925 28.4599,25.8025 C28.4299,25.8425 28.3799,25.8725 28.3399,25.9025 C28.1699,26.0425 27.9099,26.2425 27.8799,26.5725 C27.8599,26.7125 27.8799,26.9125 28.0499,27.1325 C28.2899,27.4225 28.6499,27.4325 28.8699,27.4225 C28.8999,27.4325 28.9699,27.5125 29.0199,27.5525 C29.2199,27.7425 29.5299,28.0325 29.9299,27.9525 C30.6599,27.8025 30.8399,26.9825 30.9499,26.4825 C31.4399,26.4825 31.8199,26.1525 32.0299,25.9725 C32.0599,25.9525 32.0899,25.9225 32.1199,25.9025 C32.1499,25.9025 32.1799,25.9025 32.2099,25.9125 C32.4999,25.9425 33.0299,25.9925 33.1599,26.0225 L33.1599,26.0125 C33.8799,26.1525 35.5799,24.6225 35.5899,24.6025 C35.7399,24.3925 35.7699,24.1925 35.7699,24.0125 C35.7899,24.0125 35.8199,24.0225 35.8399,24.0225 C36.1799,24.0725 36.7099,24.1625 37.0599,23.7325 C37.3499,23.3825 37.2699,23.0025 37.2299,22.8025 C37.1899,22.6325 37.1999,22.6325 37.2299,22.5825 C37.3299,22.4625 37.4599,22.4425 37.7599,22.4225 C38.1799,22.3825 38.9699,22.3225 39.1599,21.2225 C39.2699,20.5525 38.5299,20.0125 37.1999,19.1125 L37.1999,19.1125 Z" id="Fill-200-455-987" fill="#6BA2B9"></path>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <span class="primary-menu-title-text">In the Region</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <ul class="nav navbar-nav top-menu">
+                            <li>
+                                <a href="/publications-and-data.aspx" title="Publications &amp; Data">Publications &amp; Data</a>
+                            </li>
+                            <li>
+                                <a href="/news-and-events.aspx" title="News &amp; Events">News &amp; Events</a>
+                            </li>
+                            <li>
+                                <a href="/careers.aspx" title="Careers">Careers</a>
+                            </li>
+                            <li>
+                                <a href="/about-the-boston-fed.aspx" title="About Us">About Us</a>
+                            </li>
+                        </ul>
+                        <div class="nav-list-wrapper">
+                            <ul class="nav navbar-nav third-level-menu">
+                                <li>
+                                    <a href="/contact-us.aspx" title="Contact Us">Contact Us</a>
+                                </li>
+                                <li>
+                                    <a href="/about-the-boston-fed/visitor-information-and-directions.aspx" title="Directions &amp; Visitor Info">Directions &amp; Visitor Information</a>
+                                </li>
+                                <li>
+                                    <a href="/reserve-bank-services.aspx" title="Reserve Bank Services">Reserve Bank Services</a>
+                                </li>
+                                <li>
+                                    <a href="/WebForms/e-mail-alerts-subscribe.aspx">Subscribe</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div id="search-container">
+        <div>
+            <input id="s" class="" name="s" type="search" required="required" data-js="searchInput" />
+        </div>
+    </div>
+    <div id="search-container-label">
+        <div>
+            <label for="s">Search</label>
+        </div>
+    </div>
+    <script type="text/javascript"></script>
+    <!--googleon: index-->
+    <main id="main-content" role="main" tabindex="-1">
+        <div class="container">
+            <div class="row title-row margin-top-35">
+                <div class="col-lg-11 col-md-11 col-sm-11 col-xs-11 col-lg-push-1 col-md-push-1 col-sm-push-1 col-xs-push-1">
+                    <div class="tag-box-container text-left">
+                        <div class="tag-box-content clearfix">
+                            <h1 style="font-weight: 600; font-size: 40px; color: #003a5d; line-height: 43px;">Page not found</h1>
+                            <p> Our apologies, the page you have requested does not appear to exist. You can go to our <a href="/">home page</a> or use the search box below to find what you&rsquo;re looking for. </p>
+                            <br />
+                            <form action="/site-search.aspx" method="get">
+                                <div class="input-group col-lg-8 col-md-10 col-md-push-0">
+                                    <span class="input-group-addon text-search-icon" id="basic-addon1">
+                                        <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                                    </span>
+                                    <input type="text" class="form-control dark-blue ng-pristine ng-untouched ng-valid ng-not-empty" placeholder="Search" id="q" name="q" />
+                                </div>
+                                <input type="submit" style="position: absolute; left: -9999px; width: 1px; height: 1px;" tabindex="-1" />
+                            </form>
+                            <br />
+                            <p>
+                                For further support, please contact our Webmaster at <a href="mailto:bos.webmaster@bos.frb.org">bos.webmaster@bos.frb.org</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!--googleoff: index-->
+    <footer style="clear: both;" role="contentinfo" aria-label="footer">
+        <div class="footer-container">
+            <div class="container">
+                <div class="footer-wrapper-row">
+                    <div class="row" id="GridRow">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="footer-tweets" style="visibility: hidden;">
+                                <a href="https://x.com/BostonFed" alt="Boston Fed X" title="Twitter" class="twitter-logo"></a>
+                                <span class="tweet-container" id="tweet-container"></span>
+                            </div>
+                            <script type="text/javascript">
+                                var FRBTwitter = FRBTwitter || {};
+                                FRBTwitter.ScreenName = "bostonfed";
+                            </script>
+                            <script src="/Vendors/twitter-post-fetcher/twitter-post-fetcher.js"></script>
+                            <script src="/Scripts/misc/tweets-processor.js" defer></script>
+                        </div>
+                    </div>
+                    <div class="row footer-sections-container" id="GridRow3">
+                        <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12">
+                            <div class="row" id="GridRow2">
+                                                                <div class="col-lg-3 col-md-11 col-sm-4 col-xs-12 section-container">
+                                    <h3>
+                                        <a href="/about-the-boston-fed.aspx" title="About Us">About Us</a>
+                                    </h3>
+                                    <ul class="footer-links list-unstyled">
+                                        <li>
+                                            <a href="/about-the-boston-fed.aspx#vip1" title="Leadership &amp; Organization">Leadership &amp; Organization</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-the-boston-fed/doing-business-with-us.aspx" title="Doing Business with Us">Doing Business With Us</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-3 col-md-11 col-sm-4 col-xs-12 section-container">
+                                    <h3>
+                                        <a href="/reserve-bank-services.aspx" title="Reserve Bank Services">Reserve Bank Services</a>
+                                    </h3>
+                                    <ul class="footer-links list-unstyled">
+                                        <li>
+                                            <a href="/about-the-boston-fed/business-areas/cash-services.aspx">Cash Services</a>
+                                        </li>
+                                        <li>
+                                            <a href="/reserve-bank-services.aspx#district" title="Wholesale Payments">Wholesale Payments</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-2 col-md-11 col-sm-4 col-xs-12 section-container">
+                                    <h3>
+                                        <a href="/careers.aspx" title="Careers">Careers</a>
+                                    </h3>
+                                    <ul class="footer-links list-unstyled"></ul>
+                                </div>
+                                <div class="col-lg-2 col-md-11 col-sm-3 col-xs-12 col-md-push-0 col-sm-push-1 section-container">
+                                    <h3>
+                                        <a href="/contact-us.aspx" title="Contact Us">Contact Us</a>
+                                    </h3>
+                                    <ul class="footer-links list-unstyled"></ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 section-container">
+                            <div class="row" id="GridRow1">
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="text-right footer-img-container">
+                                        <img src="/-/media/FRB/GlobalFooter/frbb-building_jpg.jpg?h=101&amp;w=101&amp;la=en&amp;hash=799EE20491C4F1A3A854418047B31039" class="img-circle img-thumbnail" alt="frbb-building_jpg" />
+                                    </div>
+                                    <div class="text-right footer-directions-text">
+                                        <h3>
+                                            <a href="/about-the-boston-fed/visitor-information-and-directions.aspx">Visitor Information &amp; Directions</a>
+                                        </h3>
+                                        <address>
+                                            <ul class="list-unstyled">
+                                                <li tabindex="0">600 Atlantic Avenue</li>
+                                                <li tabindex="0">Boston, MA 02210-2204</li>
+                                                <li>
+                                                    <a href="https://www.google.com/maps/place/Federal+Reserve+Bank+of+Boston/@42.352723,-71.0556968,17z/data=!4m5!3m4!1s0x89e37081e94d9b6b:0x6e38db4571273a5!8m2!3d42.3527331!4d-71.0536419" class="open-map" rel="noopener noreferrer" target="_blank" title="Map"> map </a>
+                                                </li>
+                                            </ul>
+                                            <a href="tel:+16179733000">(617) 973-3000</a>
+                                        </address>
+                                    </div>
+                                    <script type="application/ld+json">
+                                        {
+                                          "@context": "https://schema.org",
+                                          "@type": "LocalBusiness",
+                                          "name": "Federal Reserve Bank of Boston",
+                                          "telephone": "(617) 973.3000",
+                                          "address": {
+                                            "@type": "PostalAddress",
+                                            "streetAddress": "600 Atlantic Avenue",
+                                            "addressLocality": "Boston",
+                                            "addressRegion": "MA",
+                                            "postalCode": "02210-2204"
+                                          }
+                                        }
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" id="GridRow4">
+                        <div class="col-lg-12 col-md-12 col-sm-5 col-xs-12 col-md-push-0 col-sm-push-7 social-links text-right">
+                            <ul class="list-inline" id="FooterSocialGraphics_5de4d64c52f748268b12cbb620fb9d3b">
+                                <li style="" class="">
+                                    <a href="/WebForms/e-mail-alerts-subscribe.aspx">
+                                        <img src="/-/media/FRB/GlobalFooter/email.svg?la=en&amp;hash=A205A707D087C7AA10494A6096D91334" class="svg social-icon" alt="email" />
+                                    </a>
+                                </li>
+                                <li style="margin-left: -5px;" class="">
+                                    <a href="https://www.facebook.com/bostonfed" rel="noopener noreferrer" title="Facebook" target="_blank">
+                                        <img src="/-/media/FRB/GlobalFooter/facebook-social-share-footer.svg?la=en&amp;hash=E75301A7734084134B19E66E1193FECF" class="svg social-icon" alt="facebook-social-share-footer" />
+                                    </a>
+                                </li>
+                                <li style="margin-left: -5px;" class="">
+                                    <a href="https://x.com/BostonFed" rel="noopener noreferrer" title="Twitter" target="_blank">
+                                        <img src="/-/media/FRB/GlobalFooter/x-logo-bostonfed-footer.svg?la=en&amp;hash=D196D0824564C5906480E77AB48E4911" class="svg social-icon" alt="X" />
+                                    </a>
+                                </li>
+                                <li style="margin-left: -5px;" class="">
+                                    <a href="https://www.youtube.com/user/FederalReserveBoston" rel="noopener noreferrer" title="YouTube" target="_blank">
+                                        <img src="/-/media/FRB/GlobalFooter/youtube_icon_svg.svg?la=en&amp;hash=CBAA5C47EB01C1EDC19FDA9F8250C87C" class="svg social-icon" alt="YouTube" />
+                                    </a>
+                                </li>
+                                <li style="margin-left: -5px;" class="">
+                                    <a href="https://www.linkedin.com/company/bostonfed" rel="noopener noreferrer" title="LinkedIn" target="_blank">
+                                        <img src="/-/media/FRB/GlobalFooter/linkedin_icon_svg.svg?la=en&amp;hash=0F46F7BC751295B1B50C107C38F11B12" class="svg social-icon" alt="LinkedIn" />
+                                    </a>
+                                </li>
+                                <li style="margin-left: -5px;" class="">
+                                    <a href="/feeds.aspx" title="The Federal Reserve Bank of Boston RSS 1.0 Feeds">
+                                        <img src="/-/media/FRB/GlobalFooter/rss_icon_svg.svg?la=en&amp;hash=8A5B9FDCDA5ACBE3D1B1BA3270230D2E" class="svg social-icon" alt="RSS Feeds" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <script type="text/javascript">
+                                $(document).ready(function () {
+                                    FRB.svgImgToInlineSvg.replaceSvgImgWithSvgInline("#FooterSocialGraphics_5de4d64c52f748268b12cbb620fb9d3b img");
+                                });
+                            </script>
+                            <p class="class">
+                                <a id="SuperLinkButton_83ffe67d08be4315bd8b54a3c4696628" class="get-updates-link-container" href="/WebForms/e-mail-alerts-subscribe.aspx" role="button" aria-pressed="false" aria-label="Get email updates from the BostonFed"> Get email updates from the BostonFed </a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row footer-utility-container-row" id="GridRow5">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-utility-container">
+                            <div class="footer-utility-inner">
+                                <ul class="list-inline footer-utility-list">
+                                    <li>
+                                        <a href="/about-the-boston-fed/termsofuse.aspx" title="Terms of Use &amp; Privacy">Terms of Use &amp; Privacy</a>
+                                    </li>
+                                    <li>
+                                        <a href="/data-privacy.aspx">Data Privacy</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-the-boston-fed/site-accessibility.aspx" title="Site Accessibility">Site Accessibility</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-the-boston-fed/feedback.aspx" title="Feedback">Feedback</a>
+                                    </li>
+                                </ul>
+                                <span tabindex="0" class="footer-utility-copyright text-right">© Federal Reserve Bank of Boston</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/Scripts/misc/utilities.js"></script>
+    <script src="/Scripts/Components/Header/headtacular.js"></script>
+    <script src="/Scripts/Components/Header/header-nav.js"></script>
+    <script src="/Scripts/vendor/focuspoint/focuspoint-v2.js"></script>
+    <script src="/Scripts/vendor/type-it/typeit.min.js"></script>
+    <script src="/Scripts/jquery.waitforimages.min.js"></script>
+    <script src="/Scripts/misc/svg-img-to-inline-svg.js"></script>
+    <script src="/Scripts/components/gallery/gallery.js"></script>
+    <script src="/scripts/Components/VideoWallpaper/VideoWallpaper.js"></script>
+    <script src="/Scripts/components/modaliframe/modaliframe.js"></script>
+    <div id="mediaQueryJsHack"></div>
+    <script>
+        var FRB = FRB || {};
+        FRB.hash = "9UjiqK9hczECKCKXt/u45F6T1tYWg8lkDPz1o8aoghU=";
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".focuspoint").focusPoint({
+                reCalcOnWindowResize: false,
+                customReCalcTrigger: FRB.mediaQueries.registerForAllBreakpoints
+            });
+        });
+    </script>
+<script type="text/javascript"  src="/UvF-2Kb3Z4BppoabnMc9Hc-pbs4/7aE9bDkXmDzkDh/CW89H103/IX/ItczRkBAk"></script></body>
+</html>
