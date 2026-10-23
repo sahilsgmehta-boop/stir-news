@@ -11,13 +11,19 @@ data/markets.json: the full history (5 years) is fetched once a day, and every
 other run (each 30 minutes) only fetches the last few days and the latest price.
 
 Returns are in each asset's own currency. Yields are changes in basis points.
-Futures are the front contract, so they jump a little when the contract rolls.
+Futures (=F) are Yahoo's front contract, which jumps when it rolls to the next
+month (natural gas into winter can jump 10-15%). Each run looks up the actual
+contract behind the =F symbol (e.g. NGZ26.NYM), finds the day the front
+contract switched, and keeps the price ratio between the two contracts in
+data/markets.json ("rolls"). Prices before each roll are scaled by it, so every
+return compares the same contract. A Sunday-evening futures price counts for
+Monday, and weekend dates are dropped for futures.
 
 python markets.py              normal run
 python markets.py --full       refetch all history
 python markets.py --dump DIR   save raw downloads   --cache DIR  read them back
 """
-import hashlib, json, os, subprocess, sys, time
+import hashlib, json, os, re, subprocess, sys, time
 from datetime import date, datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -70,7 +76,7 @@ def num(v):
 
 
 # ------------------------------------------------------------- Yahoo
-def yahoo(sym, rng):
+def yahoo(sym, rng, fut=None):
     d = json.loads(get(f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}?range={rng}&interval=1d"))
     r = d["chart"]["result"][0]
     off = int(r["meta"].get("gmtoffset") or 0)
@@ -87,12 +93,88 @@ def yahoo(sym, rng):
             continue
         out[datetime.fromtimestamp(t + off, timezone.utc).date().isoformat()] = round(c, 6)
     m = r["meta"]
+    fut = is_future(sym) if fut is None else fut
+    if fut:   # futures trade Sunday evening: a weekend date is never a trading day
+        out = {d: v for d, v in out.items() if date.fromisoformat(d).weekday() < 5}
     px, mt = m.get("regularMarketPrice"), m.get("regularMarketTime")
     if px is not None and mt:
-        out[datetime.fromtimestamp(mt + off, timezone.utc).date().isoformat()] = round(px, 6)
+        loc = datetime.fromtimestamp(mt + off, timezone.utc)
+        d = loc.date()
+        # futures: the evening session (from 5pm exchange time) belongs to the next trading day
+        if fut and loc.hour >= 17:
+            d += timedelta(days=1)
+        while fut and d.weekday() >= 5:
+            d += timedelta(days=1)
+        out[d.isoformat()] = round(px, 6)
     info = {"ccy": m.get("currency"), "at": (datetime.fromtimestamp(mt, timezone.utc)
-            .strftime("%Y-%m-%dT%H:%M:%SZ") if mt else None)}
+            .strftime("%Y-%m-%dT%H:%M:%SZ") if mt else None),
+            "name": m.get("shortName") or m.get("longName"), "exch": m.get("exchangeName")}
     return out, info
+
+
+# ------------------------------------------------------------- futures rolls
+def is_future(sym):
+    return sym.endswith("=F")
+
+
+MONTH_CODE = {"jan": "F", "feb": "G", "mar": "H", "apr": "J", "may": "K", "jun": "M",
+              "jul": "N", "aug": "Q", "sep": "U", "oct": "V", "nov": "X", "dec": "Z"}
+
+
+def contract_symbol(sym, info):
+    """The actual contract behind a Yahoo =F symbol, from its name ('Natural Gas Dec 26' -> NGZ26.NYM)."""
+    name, exch = (info or {}).get("name") or "", (info or {}).get("exch") or ""
+    hits = re.findall(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*'?(\d{2})\b", name.lower())
+    if not hits or not exch:
+        return None
+    mon, yy = hits[-1]
+    return f"{sym[:-2]}{MONTH_CODE[mon]}{yy}.{exch}"
+
+
+def find_roll(cont, expl, tol=0.003):
+    """Where the =F series switched to this contract: walk back over the dates both series
+    have; while they agree it is the same contract. Returns (first date of the new contract,
+    new / old price ratio on the last day of the old one), or None if no roll in the window."""
+    common = [d for d in sorted(set(cont) & set(expl), reverse=True) if cont[d] and expl[d]]
+    same = None
+    for i, d in enumerate(common):
+        a, b = cont[d], expl[d]
+        if abs(a / b - 1) < tol:
+            same = d
+            continue
+        if same is None:          # the latest prices already differ: not this contract
+            return None
+        # confirm on the day before too, so one stray price is not taken for a roll
+        if i + 1 >= len(common):
+            return None
+        d2 = common[i + 1]
+        if abs((expl[d2] / cont[d2]) / (b / a) - 1) > 0.005:
+            return None
+        return same, b / a
+    return None
+
+
+def agrees_before(cont, expl, d, tol=0.003):
+    """True if both series have the day before d and agree there (so d is no roll for this data)."""
+    prev = [x for x in sorted(set(cont) & set(expl)) if x < d]
+    if not prev or not cont[prev[-1]] or not expl[prev[-1]]:
+        return False
+    return abs(cont[prev[-1]] / expl[prev[-1]] - 1) < tol
+
+
+def roll_adjust(s, rolls):
+    """Scale prices before each roll date by that roll's ratio, so the series is one contract."""
+    if not rolls:
+        return s
+    R = sorted(rolls.items())
+    out = []
+    for d, v in s:
+        f = 1.0
+        for rd, r in R:
+            if d < rd and r:
+                f *= r
+        out.append((d, round(v * f, 6)))
+    return out
 
 
 # ------------------------------------------------------------- CNBC
@@ -205,6 +287,34 @@ def spark(s, kind, invert):
     return pts
 
 
+def check_roll(sym, info, h, store):
+    """Look up the contract behind sym and record a roll if the =F series switched to it lately."""
+    fut = health.setdefault("futures", {})
+    x = contract_symbol(sym, info)
+    fut[sym] = {"name": info.get("name"), "contract": x}
+    if not x:
+        return
+    try:
+        if not MODE["cache"]:
+            time.sleep(0.25)
+        expl, _ = yahoo(x, "1mo", fut=True)
+    except Exception as e:  # noqa: BLE001
+        fut[sym]["error"] = str(e)[:80]
+        return
+    R = store.setdefault("rolls", {}).setdefault(sym, {})
+    r = find_roll(h, expl)
+    if r:
+        R[r[0]] = round(r[1], 6)
+    # a recorded roll the data no longer shows (Yahoo rewrote its history): drop it
+    for d in [d for d in R if (not r or d != r[0]) and agrees_before(h, expl, d)]:
+        del R[d]
+    rolls = R or None
+    if not R:
+        store["rolls"].pop(sym, None)
+    if rolls:
+        fut[sym]["rolls"] = rolls
+
+
 # ------------------------------------------------------------- main
 def main():
     args = sys.argv[1:]
@@ -239,8 +349,13 @@ def main():
             # "5y" starts a couple of days short of five years, so ask for ten
             got, info = yahoo(sym, "10y" if full or sym not in hist else "5d")
             h = hist.setdefault(sym, {})
+            if is_future(sym):    # weekend dates kept from earlier runs
+                for d in [d for d in h if date.fromisoformat(d).weekday() >= 5]:
+                    del h[d]
             h.update(got)
             meta[sym] = info
+            if is_future(sym):
+                check_roll(sym, info, h, store)
         except Exception as e:  # noqa: BLE001
             note(f"Yahoo {sym}: {e}")
         if not MODE["cache"]:
@@ -273,9 +388,12 @@ def main():
     cutoff = (now.date() - timedelta(days=KEEP_DAYS)).isoformat()
     for sym in list(hist):
         hist[sym] = {d: v for d, v in hist[sym].items() if d >= cutoff}
+    for sym, R in store.get("rolls", {}).items():
+        for d in [d for d in R if d < cutoff]:
+            del R[d]
 
     def row(name, sym, kind, invert):
-        s = series_from(hist.get(sym, {}))
+        s = roll_adjust(series_from(hist.get(sym, {})), store.get("rolls", {}).get(sym))
         ret, asof = returns(s, kind, invert)
         m = meta.get(sym, {})
         return {"name": name, "sym": sym.replace("cnbc:", ""), "kind": kind, "invert": bool(invert),
