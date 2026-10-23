@@ -157,7 +157,9 @@ def find_roll(cont, expl, tol=0.003):
         if i + 1 >= len(common):
             return None
         d2 = common[i + 1]
-        if abs((expl[d2] / cont[d2]) / (b / a) - 1) > 0.005:
+        # (the gap between two contracts moves from day to day, ~1% for gas and crude)
+        r2 = expl[d2] / cont[d2]
+        if abs(r2 - 1) < tol or abs(r2 / (b / a) - 1) > 0.03:
             return None
         return same, b / a
     return None
