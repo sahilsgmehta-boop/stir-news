@@ -1,5 +1,5 @@
 {
- "built": "2026-10-23T08:35:12Z",
+ "built": "2026-10-23T09:10:45Z",
  "sources": [
   {
    "id": "il_cb",
@@ -31,6 +31,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
     "UK retail sales fall more than expected in September, complicating BOE rate hike outlook",
     "Heads up: UK retail sales to test the case for further BOE rate hikes"
    ]
@@ -100,8 +101,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 14,
-   "added": 5,
+   "kept": 15,
+   "added": 6,
    "error": ""
   },
   {
@@ -121,7 +122,7 @@
    "ok": true,
    "fetched": 20,
    "kept": 5,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {

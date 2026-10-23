@@ -57,6 +57,20 @@
 "read": "Not a policy remark."
 },
 {
+"t": "2026-10-22T15:35:53Z",
+"bank": "BoE",
+"speaker": "",
+"hl": "Minutes of the Securities Lending Committee meeting – September 2026",
+"url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
+"src": "Bank of England news",
+"tier": "official",
+"tone": "",
+"also": [],
+"id": "43cb47e71f2b",
+"score": null,
+"read": ""
+},
+{
 "t": "2026-10-22T07:30:00Z",
 "bank": "SNB",
 "speaker": "",
