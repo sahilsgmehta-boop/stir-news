@@ -327,7 +327,295 @@
    "tone": "dove",
    "score": -3,
    "read": "Flagging higher yields as a growth drag argues against adding tightening via more hikes.",
-   "at": "2026-10-23T06:49:52Z",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude",
+   "lead": "73e3533a2fb1"
+  },
+  "a4028f26fec0": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Refusing to treat the oil shock as transitory supports further Fed tightening.",
+   "sum": "Schmid warned against treating the oil-price shock as transitory, signalling he is wary of looking through energy-driven inflation.",
+   "pts": [
+    "Warned the oil shock should not be viewed as transitory.",
+    "Implies energy costs could feed into broader inflation.",
+    "Stance argues against looking through the shock in setting policy."
+   ],
+   "rr": "Leans toward keeping another Fed hike on the table this year and against early easing in 2027 pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "73e3533a2fb1": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Structural point on real wages in the US versus Germany and Italy; little rate signal.",
+   "sum": "Panetta said rising bond yields will restrain euro-area growth, calling them a drag rather than a crisis, ahead of the ECB meeting.",
+   "pts": [
+    "Said higher bond yields will brake euro-area growth.",
+    "Described rising yields as a drag on growth, not a crisis.",
+    "Contrasted US real wage gains of about 50% over 30 years with much smaller gains in Germany and Italy.",
+    "Opposed a ceiling on banks' sovereign bond holdings."
+   ],
+   "rr": "Tighter financial conditions doing some of the ECB's work argues against adding to the two hikes priced ahead; leans dovish for the front end. Only news paraphrases were available.",
+   "ev": "Remarks ahead of ECB rate meeting",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "780b88717171": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Saying higher yields will restrain the economy argues against extra tightening.",
+   "lead": "73e3533a2fb1",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "89ac73c78139": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Higher yields braking growth implies markets are already tightening for the ECB.",
+   "lead": "73e3533a2fb1",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "3aa5c8c10234": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Regulatory view on banks' sovereign holdings; no rate signal.",
+   "lead": "73e3533a2fb1",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "c02b2abecb1e": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Voter flags lasting global oil supply gap, an upside risk to inflation.",
+   "sum": "Logan warned US oil production will not fill the global supply gap, pointing to persistent energy-price pressure.",
+   "pts": [
+    "Said US oil output cannot offset the global supply shortfall.",
+    "Implies energy prices may stay elevated for longer.",
+    "Adds to upside inflation risk from the energy shock."
+   ],
+   "rr": "As a 2026 voter, supports keeping a further Fed hike in play rather than pricing it out. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "da7a08c1a544": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About EU integration, not the rate path.",
+   "sum": "Santos Pereira pushed for deeper EU economic and financial integration.",
+   "pts": [
+    "Called for deeper EU integration.",
+    "No comments on the rate path were reported."
+   ],
+   "rr": "No implication for ECB meeting pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "8febe860b90c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "898e976e03f3": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says rates may need to rise if inflation stays high, endorsing hike pricing.",
+   "sum": "Kazaks said ECB rates may need to rise if inflation stays high.",
+   "pts": [
+    "Rates may need to rise if inflation remains elevated.",
+    "Hike framed as conditional on inflation persistence."
+   ],
+   "rr": "Supports the ECB hikes priced ahead; conditional framing leaves timing to incoming inflation data. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "32be3c948a2e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "36618f4ad80c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Long-run view on AI and policy conduct; no near-term rate signal.",
+   "sum": "Warsh said AI will change how monetary policy is conducted.",
+   "pts": [
+    "Expects AI to change the conduct of monetary policy.",
+    "No near-term rate guidance reported."
+   ],
+   "rr": "No direct implication for upcoming FOMC pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "1e10d74072e6": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Sees AI productivity upside but keeps inflation focus; mixed signal.",
+   "sum": "Warsh highlighted AI's productivity potential while saying the Fed remains focused on inflation.",
+   "pts": [
+    "Sees AI as a potential productivity boost.",
+    "Said the focus remains on inflation."
+   ],
+   "rr": "Productivity optimism is a mild argument against extended hikes, offset by the inflation focus; little change to pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "babe3ec015ad": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability warning on AI agents; no rate signal.",
+   "sum": "Bailey told the G30 that concerns over AI agents must be addressed, calling rapid AI development a major financial-stability issue.",
+   "pts": [
+    "Said regulators 'have got to address' AI agent concerns.",
+    "Flagged rapid AI development as a major financial-stability issue."
+   ],
+   "rr": "No implication for November MPC pricing. Only news paraphrases were available.",
+   "ev": "G30 remarks",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "2b7eca250330": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Press conference listing for the October MPR; no remarks available yet.",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "8bd67b451c42": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on physical shocks and resilience; no clear rate signal from the title.",
+   "sum": "Talbot spoke on physical shocks and economic resilience from a central bank perspective.",
+   "rr": "No identifiable implication for the November MPC from the title alone. Only news paraphrases were available.",
+   "ev": "Speech, James Talbot",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "6c6c684b1164": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Record of September deliberations; no new signal identified.",
+   "sum": "The SNB published the summary of discussion from its September 2026 monetary policy assessment.",
+   "rr": "Content was not reviewed; no change to SNB pricing assumed. Only news paraphrases were available.",
+   "ev": "Summary of discussion, September assessment",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "f5e8960e0004": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Blog on euro-area resilience to shocks; no rate signal from the title.",
+   "sum": "ECB blog on how the euro-area economy is weathering the current shock and preparing for the next.",
+   "rr": "No identifiable implication for ECB meeting pricing. Only news paraphrases were available.",
+   "ev": "ECB Blog",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "85d17e8dc909": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About euro liquidity lines and the international system; no rate signal.",
+   "sum": "Lane spoke on euro liquidity lines and their role in the international monetary system.",
+   "rr": "No implication for ECB rate pricing. Only news paraphrases were available.",
+   "ev": "Speech (via BIS)",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "4cafd6da09f6": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Less slack and sticky wages; wants to proactively lean against second-round effects.",
+   "sum": "Greene said there is less labour-market slack than thought and the MPC should proactively lean against second-round effects of the energy shock.",
+   "pts": [
+    "Said 'there is less slack than we thought' and it 'may have peaked'; unemployment fell from 5.2% to 4.7%.",
+    "Underlying pay growth about 3.4% (AWE) to 4.5% (RTI), plateauing 'closer to 3.5% than 3%', risks to the upside.",
+    "Expects inflation above 4% during the January–April 2027 pay round.",
+    "Household inflation expectations up to 4.5% short-term and 4.3% longer-term; firms' price expectations 3.7%.",
+    "Called the energy shock 'protracted'; said it is 'not obvious' policy is meaningfully restrictive.",
+    "'I continue to believe we should proactively lean against the risk of second-round effects.'"
+   ],
+   "rr": "Supports the November hike priced and argues against pricing early cuts in 2027; one of the more hawkish MPC voices.",
+   "ev": "Speech, LSE Economics Society (London)",
+   "basis": "verbatim",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "154decd76c6c": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Blog questions whether food inflation is fading; mild easing signal at most.",
+   "sum": "ECB blog asks whether food inflation has lost its bite.",
+   "rr": "At most a mild offset to energy-driven inflation concerns; no change to ECB pricing. Only news paraphrases were available.",
+   "ev": "ECB Blog",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "18ada448671f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Interview content not reviewed; no clear rate signal identified.",
+   "sum": "Elderson gave an interview to Die Presse.",
+   "rr": "No identifiable implication for ECB pricing. Only news paraphrases were available.",
+   "ev": "Interview, Die Presse",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "96745708f437": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-resilience theme; no rate signal.",
+   "sum": "Bailey spoke on financial resilience in an age of repeated shocks.",
+   "rr": "No implication for November MPC pricing. Only news paraphrases were available.",
+   "ev": "Speech (via BIS)",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "d280b371dd5d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural AI theme; no rate signal.",
+   "sum": "Lane spoke on the AI opportunity for Europe.",
+   "rr": "No implication for ECB rate pricing. Only news paraphrases were available.",
+   "ev": "Speech (via BIS)",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
+   "by": "claude"
+  },
+  "e545c030814a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Standard IMFC statement; no new rate signal identified.",
+   "sum": "Lagarde delivered the ECB's statement to the IMFC.",
+   "rr": "No identifiable change to ECB pricing. Only news paraphrases were available.",
+   "ev": "IMFC statement, IMF/World Bank meetings",
+   "basis": "reports",
+   "at": "2026-10-23T20:56:15Z",
    "by": "claude"
   }
  }
