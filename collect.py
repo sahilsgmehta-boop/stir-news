@@ -62,11 +62,11 @@ UA = "Mozilla/5.0 (compatible; stir-news/1.0; +https://github.com)"
 # list was written. The rest are believed correct but were not reachable from
 # where this was built - the health report after each run says which work.
 # ---------------------------------------------------------------------------
+GN = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q="
 SOURCES = [
     dict(id="il_cb", name="investingLive central banks", kind="curated",
          url="https://investinglive.com/feed/centralbank/", checked=True),
-    dict(id="fxs", name="FXStreet", kind="headline",
-         url="https://www.fxstreet.com/rss/news", checked=True),
+    # FXStreet dropped 23 Oct 2026: it answers 403 to feed readers (bot wall).
     dict(id="il_all", name="investingLive", kind="headline",
          url="https://investinglive.com/feed/", checked=True),
     dict(id="cnbc", name="CNBC Economy", kind="headline",
@@ -74,16 +74,49 @@ SOURCES = [
     dict(id="mw", name="MarketWatch", kind="headline",
          url="https://feeds.content.dowjones.io/public/rss/mw_topstories"),
 
+    # Google News search feeds pick up the wire headlines (Reuters, Bloomberg,
+    # MarketWatch, WSJ...) that no single free feed carries. Each query is about
+    # one bank; the attribution rules below still decide what is kept, and the
+    # publisher's name becomes the source. "when:2d" keeps each answer fresh.
+    dict(id="gn_fed", name="Google News: Fed", kind="news",
+         url=GN + "%22Fed%27s%22+OR+%22Fed+President%22+OR+%22Fed+Governor%22+OR+%22Fed+Chair%22+OR+%22Fed+Vice+Chair%22+when:2d"),
+    dict(id="gn_fed2", name="Google News: Fed names", kind="news", roster="Fed",
+         url=GN + "(Warsh+OR+Jefferson+OR+Waller+OR+Bowman+OR+Williams+OR+Hammack+OR+Logan+OR+Kashkari+OR+Paulson+OR+Musalem+OR+Schmid+OR+Goolsbee+OR+Daly+OR+Barkin+OR+Collins)+Fed+(says+OR+said+OR+warns+OR+sees)+when:2d"),
+    dict(id="gn_ecb", name="Google News: ECB", kind="news",
+         url=GN + "%22ECB%27s%22+OR+%22ECB+President%22+OR+%22ECB+policymaker%22+OR+%22ECB+chief+economist%22+OR+Lagarde+OR+Schnabel+OR+Nagel+when:2d"),
+    dict(id="gn_ecb2", name="Google News: ECB names", kind="news", roster="ECB",
+         url=GN + "(Lane+OR+Vujcic+OR+Cipollone+OR+Moulin+OR+Panetta+OR+Wunsch+OR+Kazaks+OR+Rehn+OR+Makhlouf+OR+Stournaras+OR+Escriva+OR+Kocher+OR+Simkus+OR+Sleijpen)+ECB+when:2d"),
+    dict(id="gn_boe", name="Google News: BoE", kind="news", roster="BoE",
+         url=GN + "%22BoE%27s%22+OR+%22BOE%27s%22+OR+%22Bank+of+England%27s%22+OR+%22MPC+member%22+OR+Bailey+OR+Greene+OR+Mann+OR+Pill+OR+Lombardelli+OR+Breeden+OR+Ramsden+OR+Dhingra+OR+Taylor+%22Bank+of+England%22+when:2d"),
+    dict(id="gn_boc", name="Google News: BoC", kind="news", roster="BoC",
+         url=GN + "%22Bank+of+Canada%22+(Macklem+OR+Rogers+OR+Gravelle+OR+Gosselin+OR+Vincent+OR+%22deputy+governor%22+OR+governor)+when:2d"),
+    dict(id="gn_snb", name="Google News: SNB", kind="news", roster="SNB",
+         url=GN + "%22SNB%22+(Schlegel+OR+Tschudin+OR+%22Antoine+Martin%22+OR+chairman)+when:2d"),
+    dict(id="ft_cb", name="FT central banks", kind="headline",
+         url="https://www.ft.com/central-banks?format=rss"),
+
     dict(id="fed_sp", name="Federal Reserve speeches", kind="official", bank="Fed",
          url="https://www.federalreserve.gov/feeds/speeches.xml"),
     dict(id="fed_mp", name="Federal Reserve monetary policy", kind="official", bank="Fed",
          url="https://www.federalreserve.gov/feeds/press_monetary.xml"),
+    dict(id="fed_ts", name="Federal Reserve testimony", kind="official", bank="Fed",
+         url="https://www.federalreserve.gov/feeds/testimony.xml"),
+    dict(id="dal", name="Dallas Fed speeches", kind="official", bank="Fed",
+         url="https://www.dallasfed.org/rss/speeches.xml"),
     dict(id="ecb", name="ECB press, speeches, interviews", kind="official", bank="ECB",
          url="https://www.ecb.europa.eu/rss/press.html"),
     dict(id="boe", name="Bank of England news", kind="official", bank="BoE",
          url="https://www.bankofengland.co.uk/rss/news"),
+    dict(id="ecb_blog", name="ECB blog", kind="official", bank="ECB",
+         url="https://www.ecb.europa.eu/rss/blog.html"),
+    dict(id="boe_sp", name="Bank of England speeches", kind="official", bank="BoE",
+         url="https://www.bankofengland.co.uk/rss/speeches"),
     dict(id="boc", name="Bank of Canada speeches", kind="official", bank="BoC",
          url="https://www.bankofcanada.ca/content_type/speeches/feed/"),
+    dict(id="boc_pr", name="Bank of Canada press releases", kind="official", bank="BoC",
+         url="https://www.bankofcanada.ca/content_type/press-releases/feed/"),
+    dict(id="snb_sp", name="Swiss National Bank speeches", kind="official", bank="SNB",
+         url="https://www.snb.ch/public/en/rss/speeches"),
     dict(id="snb", name="Swiss National Bank news", kind="official", bank="SNB",
          url="https://www.snb.ch/public/en/rss/news"),
     dict(id="bis", name="BIS central bankers' speeches", kind="official", bank=None,
@@ -153,7 +186,8 @@ OFFICIAL_DROP = re.compile(
     r"Money Market Committee|resolution regime|anti-money|sanction|"
     r"enforcement|bank capital|capital requirement|stress test|operational resilience|"
     r"Sub[- ]?Committee|Court of Directors|Market Participants Group|Taskforce|"
-    r"\bFXJSC\b|Committee dates|Money Markets Code",
+    r"\bFXJSC\b|Committee dates|Money Markets Code|bank note|\bposition\b|Coordination Exercise|"
+    r"\bPRA\b|Prudential Regulation|insurance|Nobel|Brunner|workforce",
     re.I)
 
 NAME_STOP = set("""The A An Minutes Rate Rates Policy Survey Beige Book Board Staff
@@ -229,7 +263,8 @@ def parse_feed(raw):
                 link = g
         date = _child_text(el, "pubDate", "published", "updated", "date")
         desc = _child_text(el, "description", "summary", "encoded")
-        out.append(dict(title=title, link=link, date=date, desc=desc))
+        pub = _child_text(el, "source")              # Google News: the publisher
+        out.append(dict(title=title, link=link, date=date, desc=desc, pub=pub))
     return out
 
 
@@ -336,7 +371,41 @@ def find_speaker(text):
 
 
 def attributed(title):
-    return any(p.search(title) for p in ATTRIBUTION)
+    return any(p.search(title) for p in ATTRIBUTION) or bool(roster_said(title)[0])
+
+
+# "Bailey says...", "Schnabel warns...", "Logan: ..." - a roster member's surname
+# followed by a reporting verb or a colon. Surnames that are also common words or
+# first names (Martin, Lane, Cook, Mann...) only count with their bank named too.
+_SAID = r"(?:\s+(?:says?|said|warns?|sees|signals?|backs?|urges?|expects?|calls?|flags?|"
+_SAID += r"repeats?|reiterates?|stresses|cautions?|argues?|thinks|believes|suggests?|tells|"
+_SAID += r"pushes back|favou?rs?|wants?|rules? out|is open to|open to|not ruling out)\b|\s*:)"
+_AMBIG = {"martin", "lane", "cook", "mann", "taylor", "greene", "rogers", "vincent",
+          "collins", "daly", "pill", "williams", "logan", "jefferson", "lombardelli"}
+_SAID_PAT = None
+# Google News publishers that repost wire headlines for crypto or SEO audiences
+PUB_DROP = re.compile(r"coin|crypto|bitget|bloomingbit|biggo|kucoin|binance|"
+                      r"motley fool|tradingview|traders union|invezz|economies\.com", re.I)
+
+
+def roster_said(title):
+    """(bank, surname) when the headline attributes a remark to a roster member."""
+    global _SAID_PAT
+    if _SAID_PAT is None:
+        _SAID_PAT = []
+        people, _ = load_roster()
+        for p in people:
+            for n in [p["name"]] + list(p.get("aliases", [])):
+                _SAID_PAT.append((p["bank"], p["name"], fold(n), fold(p.get("full", "")),
+                                  re.compile(r"\b" + re.escape(fold(n)) + _SAID)))
+    t = fold(title)
+    for bank, name, n, full, pat in _SAID_PAT:
+        if not pat.search(t):
+            continue
+        if n in _AMBIG and not (full and full in t) and not BANK_PAT[bank].search(title):
+            continue
+        return bank, name
+    return None, ""
 
 
 def tokens(s):
@@ -373,7 +442,7 @@ def classify(src, it, now, near=None):
             return None
         if src.get("bank"):
             bank = src["bank"]
-            if src["id"] in ("ecb", "boe", "snb") and not OFFICIAL_KEEP.search(title + " " + desc[:300]):
+            if src["id"] in ("ecb", "boe", "snb", "boc_pr") and not OFFICIAL_KEEP.search(title + " " + desc[:300]):
                 return None
         else:                                           # BIS: every bank in the world
             blob = title + " " + desc[:400]
@@ -384,18 +453,40 @@ def classify(src, it, now, near=None):
                    or official_speaker(title, desc))
         tier = "official"
     else:
-        bank = find_bank(title, curated=(kind == "curated"))
+        pub = clean(it.get("pub", ""))
+        if kind == "news":                          # Google News: "<title> - <publisher>"
+            if pub and title.endswith(" - " + pub):
+                title = title[:-len(pub) - 3].strip()
+            elif " - " in title:
+                title, pub = title.rsplit(" - ", 1)[0].strip(), pub or title.rsplit(" - ", 1)[1].strip()
+            desc = ""                               # only repeats the title
+        rb, rname = roster_said(title)
+        bank = find_bank(title, curated=(kind == "curated")) or rb
         if not bank:
             return None
-        if kind == "headline" and not attributed(title):
+        if re.search(r"\bformer\b|\bex-", title, re.I):   # ex-officials speak for no one
+            return None
+        if kind == "news":
+            if PUB_DROP.search(pub) or re.search(r"[^\x00-\u024f]", pub) or len(re.findall(r"[^\x00-\u024f\u2018-\u201f\u2013\u2014\u2026\u2212]", title)) > 3:
+                return None
+            # from the open web, only a named person counts - "Fed decision key
+            # for bitcoin" style pieces match the release patterns otherwise
+            if not (rb or any(p.search(title) for p in ATTRIBUTION[:5])):
+                if near is not None and len(near) < 10:
+                    near.append(title[:160])
+                return None
+        if kind in ("headline", "news") and not attributed(title):
             if near is not None and len(near) < 10:
                 near.append(title[:160])
             return None
-        speaker = find_speaker(title) or roster_find(bank, title)
+        speaker = (rname if rb == bank else "") or find_speaker(title) or roster_find(bank, title)
         tier = "comment"
+        if kind == "news" and pub:
+            src = dict(src, name=pub[:60])
 
+    d = desc[:600] if desc and fold(desc[:80]) != fold(title[:80]) else ""
     return dict(t=t.strftime("%Y-%m-%dT%H:%M:%SZ"), bank=bank, speaker=speaker,
-                hl=title, url=url, src=src["name"], tier=tier, tone="", also=[])
+                hl=title, url=url, src=src["name"], tier=tier, tone="", also=[], desc=d)
 
 
 def merge(store, new):
@@ -426,6 +517,8 @@ def merge(store, new):
                 dup["also"].append(n["src"])
             if not dup["speaker"] and n["speaker"]:
                 dup["speaker"] = n["speaker"]
+            if len(n.get("desc", "")) > len(dup.get("desc", "")):
+                dup["desc"] = n["desc"]
             continue
         store.append(n)
         if cu:
@@ -511,6 +604,8 @@ def write_outputs(store, health, now):
     store[:] = [x for x in store
                 if not (x["tier"] == "comment" and x["src"] != "investingLive central banks"
                         and not attributed(x["hl"]))]
+    for x in store:
+        x.setdefault("desc", "")
     tones = load_tones()
     for x in store:
         x["id"] = item_id(x)
@@ -518,6 +613,12 @@ def write_outputs(store, health, now):
         x["tone"] = t.get("tone", "") if t.get("tone") in ("hawk", "dove", "neutral") else ""
         x["score"] = t.get("score") if isinstance(t.get("score"), (int, float)) else None
         x["read"] = str(t.get("read", ""))[:200]
+        # the fuller brief, when the labelling run wrote one
+        x["sum"] = str(t.get("sum", ""))[:300]
+        x["pts"] = [str(v)[:240] for v in (t.get("pts") or []) if str(v).strip()][:8]
+        x["rr"] = str(t.get("rr", ""))[:500]
+        x["ev"] = str(t.get("ev", ""))[:160]
+        x["basis"] = t.get("basis") if t.get("basis") in ("verbatim", "reports") else ""
 
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
     os.makedirs(os.path.dirname(OUT_JS), exist_ok=True)
@@ -533,12 +634,13 @@ def write_outputs(store, health, now):
     payload = {
         "built": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "cols": ["t", "bank", "speaker", "headline", "tone", "url", "source", "tier", "also",
-                 "id", "score", "read"],
+                 "id", "score", "read", "sum", "pts", "rr", "ev", "basis"],
         "sources": [{k: v for k, v in h.items() if k != "near_misses"} for h in health],
         "speakers": [[p["bank"], p["name"], p["full"], p["role"], p["lean"],
-                      p["confidence"], p["basis"], p["asof"]] for p in people],
+                      p["confidence"], p["basis"], p["asof"], p.get("vote", "")] for p in people],
         "items": [[x["t"], x["bank"], x["speaker"], x["hl"], x["tone"], x["url"],
-                   x["src"], x["tier"], x["also"], x["id"], x["score"], x["read"]]
+                   x["src"], x["tier"], x["also"], x["id"], x["score"], x["read"],
+                   x["sum"], x["pts"], x["rr"], x["ev"], x["basis"]]
                   for x in show],
     }
     body = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
@@ -580,7 +682,7 @@ def main():
             rec["fetched"] = len(items)
             near = []
             kept = [k for k in (classify(src, it, now, near) for it in items) if k]
-            if src["kind"] == "headline":
+            if src["kind"] in ("headline", "news"):
                 rec["near_misses"] = near
             rec["kept"] = len(kept)
             rec["added"] = merge(store, kept)

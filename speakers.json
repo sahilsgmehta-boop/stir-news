@@ -1,5 +1,5 @@
 {
- "_about": "Standing lean of each policymaker RELATIVE TO THEIR OWN COMMITTEE in the current cycle. Hand-assessed; edit freely. lean: hawk|dove|neutral. confidence: high = votes or explicit repeated calls; medium = recent remarks plus tracker; low = little evidence or a consensus body.",
+ "_about": "Standing lean of each policymaker RELATIVE TO THEIR OWN COMMITTEE in the current cycle. Hand-assessed; edit freely. lean: hawk|dove|neutral. confidence: high = votes or explicit repeated calls; medium = recent remarks plus tracker; low = little evidence or a consensus body. vote: the person's voting status, hand-kept (FOMC rotation changes every January).",
  "speakers": [
   {
    "bank": "Fed",
@@ -10,7 +10,8 @@
    "confidence": "medium",
    "basis": "Chair steers the consensus; led the 12-0 September hike to 3.75-4.00%.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in FOMC"
   },
   {
    "bank": "Fed",
@@ -21,7 +22,8 @@
    "confidence": "medium",
    "basis": "Middle of the committee on the 90-day tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in FOMC"
   },
   {
    "bank": "Fed",
@@ -32,7 +34,8 @@
    "confidence": "low",
    "basis": "Too few recent policy remarks to place.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in FOMC"
   },
   {
    "bank": "Fed",
@@ -43,7 +46,8 @@
    "confidence": "medium",
    "basis": "8 Oct: more hikes are needed, flexible on pace.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in FOMC"
   },
   {
    "bank": "Fed",
@@ -54,7 +58,8 @@
    "confidence": "low",
    "basis": "Tracker places her mid-to-hawkish; few direct rate calls.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in FOMC"
   },
   {
    "bank": "Fed",
@@ -65,7 +70,8 @@
    "confidence": "medium",
    "basis": "29 Sep: further rate hikes are likely to be needed.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in FOMC"
   },
   {
    "bank": "Fed",
@@ -76,7 +82,8 @@
    "confidence": "medium",
    "basis": "29 Sep: no need for urgency. Lowest tracker score on the committee.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in FOMC"
   },
   {
    "bank": "Fed",
@@ -87,7 +94,8 @@
    "confidence": "high",
    "basis": "12 Oct: more tightening needed to cool demand. Highest tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "FOMC voter in 2026"
   },
   {
    "bank": "Fed",
@@ -98,7 +106,8 @@
    "confidence": "high",
    "basis": "Second-highest tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "FOMC voter in 2026"
   },
   {
    "bank": "Fed",
@@ -109,7 +118,8 @@
    "confidence": "medium",
    "basis": "Top-tier tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "FOMC voter in 2026"
   },
   {
    "bank": "Fed",
@@ -120,7 +130,8 @@
    "confidence": "medium",
    "basis": "8 Oct: more monetary policy firming will be required.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Non-voter in 2026, rotates in later"
   },
   {
    "bank": "Fed",
@@ -131,7 +142,8 @@
    "confidence": "medium",
    "basis": "Top-tier tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Non-voter in 2026, rotates in later"
   },
   {
    "bank": "Fed",
@@ -142,7 +154,8 @@
    "confidence": "low",
    "basis": "Mid-table tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Non-voter in 2026, rotates in later"
   },
   {
    "bank": "Fed",
@@ -153,7 +166,8 @@
    "confidence": "medium",
    "basis": "Low 90-day score, but 29 Sep called above-target inflation 'playing with fire'. Moving hawkish.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Non-voter in 2026, rotates in later"
   },
   {
    "bank": "Fed",
@@ -164,7 +178,8 @@
    "confidence": "low",
    "basis": "Among the lowest tracker scores.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "FOMC voter in 2026"
   },
   {
    "bank": "Fed",
@@ -175,7 +190,8 @@
    "confidence": "low",
    "basis": "No recent score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Non-voter in 2026, rotates in later"
   },
   {
    "bank": "Fed",
@@ -186,7 +202,8 @@
    "confidence": "low",
    "basis": "No recent data.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Non-voter in 2026, rotates in later"
   },
   {
    "bank": "ECB",
@@ -197,7 +214,8 @@
    "confidence": "medium",
    "basis": "Chair convention; 28 Sep: a moderate response remains appropriate.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in ECB meeting"
   },
   {
    "bank": "ECB",
@@ -210,7 +228,8 @@
    "aliases": [
     "Vujčić"
    ],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in ECB meeting"
   },
   {
    "bank": "ECB",
@@ -221,7 +240,8 @@
    "confidence": "high",
    "basis": "Highest tracker score on the Executive Board.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in ECB meeting"
   },
   {
    "bank": "ECB",
@@ -232,7 +252,8 @@
    "confidence": "medium",
    "basis": "Below-median score; characterised as dovish by the tracker.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in ECB meeting"
   },
   {
    "bank": "ECB",
@@ -243,7 +264,8 @@
    "confidence": "medium",
    "basis": "Characterised as dovish by the tracker.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in ECB meeting"
   },
   {
    "bank": "ECB",
@@ -254,7 +276,8 @@
    "confidence": "low",
    "basis": "Rarely speaks on rates.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Always votes in ECB meeting"
   },
   {
    "bank": "ECB",
@@ -265,7 +288,8 @@
    "confidence": "medium",
    "basis": "Above-median tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -276,7 +300,8 @@
    "confidence": "medium",
    "basis": "High tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -289,7 +314,8 @@
    "aliases": [
     "Šimkus"
    ],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -300,7 +326,8 @@
    "confidence": "medium",
    "basis": "Low score; near the dovish edge.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -311,7 +338,8 @@
    "confidence": "low",
    "basis": "Negative tracker score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -322,7 +350,8 @@
    "confidence": "low",
    "basis": "Near-zero score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -335,7 +364,8 @@
    "aliases": [
     "Žigman"
    ],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -346,7 +376,8 @@
    "confidence": "low",
    "basis": "Low positive score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -357,7 +388,8 @@
    "confidence": "low",
    "basis": "New in post; no score yet.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -368,7 +400,8 @@
    "confidence": "low",
    "basis": "No score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -379,7 +412,8 @@
    "confidence": "low",
    "basis": "Long dovish record; no 2026 score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -392,7 +426,8 @@
    "aliases": [
     "Escrivá"
    ],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -405,7 +440,8 @@
    "aliases": [
     "Kazāks"
    ],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -416,7 +452,8 @@
    "confidence": "low",
    "basis": "No 2026 score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "ECB",
@@ -427,7 +464,22 @@
    "confidence": "low",
    "basis": "No 2026 score.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, votes on rotation"
+  },
+  {
+   "bank": "ECB",
+   "name": "Santos Pereira",
+   "full": "Álvaro Santos Pereira",
+   "role": "Banco de Portugal",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Few policy remarks on record yet.",
+   "aliases": [
+    "Santos"
+   ],
+   "asof": "2026-10-23",
+   "vote": "Governing Council, votes on rotation"
   },
   {
    "bank": "BoE",
@@ -438,7 +490,8 @@
    "confidence": "high",
    "basis": "Voted to hike in September; 13 Oct: waiting for second-round effects would be too late.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -449,7 +502,8 @@
    "confidence": "high",
    "basis": "Voted to hike in September.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -460,7 +514,8 @@
    "confidence": "high",
    "basis": "Voted to hike in September.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -471,7 +526,8 @@
    "confidence": "medium",
    "basis": "Voted hold in September; 8 Oct: unwavering commitment to the target.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -482,7 +538,8 @@
    "confidence": "medium",
    "basis": "Voted hold in September.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -493,7 +550,8 @@
    "confidence": "medium",
    "basis": "Voted hold in September; balanced on wages versus energy.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -504,7 +562,8 @@
    "confidence": "low",
    "basis": "Voted hold in September; dovish-leaning record.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -515,7 +574,8 @@
    "confidence": "medium",
    "basis": "Voted hold in September; long-standing dove.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoE",
@@ -526,7 +586,8 @@
    "confidence": "medium",
    "basis": "Voted hold in September; dovish record since joining.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Votes at every MPC meeting"
   },
   {
    "bank": "BoC",
@@ -537,7 +598,8 @@
    "confidence": "medium",
    "basis": "23 Sep: does not want to be late to hike; dropped the 'right level' language.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, decides the policy rate"
   },
   {
    "bank": "BoC",
@@ -548,7 +610,8 @@
    "confidence": "low",
    "basis": "Decides by consensus; no individual votes are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, decides the policy rate"
   },
   {
    "bank": "BoC",
@@ -559,7 +622,8 @@
    "confidence": "low",
    "basis": "Decides by consensus; no individual votes are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, decides the policy rate"
   },
   {
    "bank": "BoC",
@@ -570,7 +634,8 @@
    "confidence": "low",
    "basis": "Decides by consensus; no individual votes are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, decides the policy rate"
   },
   {
    "bank": "BoC",
@@ -581,7 +646,8 @@
    "confidence": "low",
    "basis": "Decides by consensus; no individual votes are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, decides the policy rate"
   },
   {
    "bank": "BoC",
@@ -592,7 +658,8 @@
    "confidence": "low",
    "basis": "Decides by consensus; no individual votes are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Council, decides the policy rate"
   },
   {
    "bank": "SNB",
@@ -603,7 +670,8 @@
    "confidence": "low",
    "basis": "Board decides by consensus; no individual leans are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Board, decides policy"
   },
   {
    "bank": "SNB",
@@ -614,7 +682,8 @@
    "confidence": "low",
    "basis": "Board decides by consensus; no individual leans are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Board, decides policy"
   },
   {
    "bank": "SNB",
@@ -625,7 +694,8 @@
    "confidence": "low",
    "basis": "Board decides by consensus; no individual leans are published.",
    "aliases": [],
-   "asof": "2026-10-13"
+   "asof": "2026-10-13",
+   "vote": "Governing Board, decides policy"
   }
  ]
 }

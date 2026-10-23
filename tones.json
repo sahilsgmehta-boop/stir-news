@@ -1,5 +1,5 @@
 {
- "_about": "Per-comment hawk/dove labels for the dashboard, written by the scheduled labelling task. Keyed by item id from collect.py. score: +10 most hawkish to -10 most dovish, judged as likely market impact against current pricing.",
+ "_about": "Per-comment hawk/dove labels for the dashboard, written by the scheduled labelling task. Keyed by item id from collect.py. score: +10 most hawkish to -10 most dovish, judged as likely market impact against current pricing. Optional brief fields (from 23 Oct 2026): sum = one bold sentence; pts = 2-6 key points; rr = rates read, what it means for pricing; ev = event/venue; basis = verbatim (read the bank's own text) or reports (news paraphrase only).",
  "tones": {
   "261aa8a99be3": {
    "tone": "dove",
