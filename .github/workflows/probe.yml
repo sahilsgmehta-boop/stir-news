@@ -1,0 +1,17 @@
+name: probe
+on:
+  push:
+    branches: [probe]
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir out
+          while read id u; do
+            code=$(curl -sS -L -m 25 -A "Mozilla/5.0 (compatible; stir-news/1.0; +https://github.com)" -o out/$id.xml -w "%{http_code}" "$u" || echo ERR)
+            echo "$id $code $(wc -c < out/$id.xml 2>/dev/null)" | tee -a out/_status.txt
+          done < urls.txt
+      - uses: actions/upload-artifact@v4
+        with: {name: probe, path: out}
