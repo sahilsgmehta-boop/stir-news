@@ -121,14 +121,23 @@ MONTH_CODE = {"jan": "F", "feb": "G", "mar": "H", "apr": "J", "may": "K", "jun":
               "jul": "N", "aug": "Q", "sep": "U", "oct": "V", "nov": "X", "dec": "Z"}
 
 
-def contract_symbol(sym, info):
-    """The actual contract behind a Yahoo =F symbol, from its name ('Natural Gas Dec 26' -> NGZ26.NYM)."""
+CODES = "FGHJKMNQUVXZ"
+
+
+def contract_symbols(sym, info, ahead=3):
+    """The contract a Yahoo =F symbol names ('Natural Gas Dec 26' -> NGZ26.NYM, 'Corn Futures,Dec-2026'
+    -> ZCZ26.CBT), then the next few months: Yahoo's name can lag the roll."""
     name, exch = (info or {}).get("name") or "", (info or {}).get("exch") or ""
-    hits = re.findall(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*'?(\d{2})\b", name.lower())
+    hits = re.findall(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[\s.,'-]*(\d{4}|\d{2})\b", name.lower())
     if not hits or not exch:
-        return None
-    mon, yy = hits[-1]
-    return f"{sym[:-2]}{MONTH_CODE[mon]}{yy}.{exch}"
+        return []
+    mon, yr = hits[-1]
+    m, y = CODES.index(MONTH_CODE[mon]), int(yr[-2:])
+    out = []
+    for k in range(ahead + 1):
+        mm, yy = (m + k) % 12, (y + (m + k) // 12) % 100
+        out.append(f"{sym[:-2]}{CODES[mm]}{yy:02d}.{exch}")
+    return out
 
 
 def find_roll(cont, expl, tol=0.003):
@@ -290,17 +299,24 @@ def spark(s, kind, invert):
 def check_roll(sym, info, h, store):
     """Look up the contract behind sym and record a roll if the =F series switched to it lately."""
     fut = health.setdefault("futures", {})
-    x = contract_symbol(sym, info)
-    fut[sym] = {"name": info.get("name"), "contract": x}
-    if not x:
+    fut[sym] = {"name": info.get("name"), "contract": None}
+    last = max(h) if h else None
+    expl = None
+    # the contract whose latest price is the =F price; months that are not listed just fail
+    for x in contract_symbols(sym, info):
+        try:
+            if not MODE["cache"]:
+                time.sleep(0.25)
+            e, _ = yahoo(x, "1mo", fut=True)
+        except Exception:  # noqa: BLE001
+            continue
+        if last and last in e and h[last] and e[last] and abs(e[last] / h[last] - 1) < 0.002:
+            expl, fut[sym]["contract"] = e, x
+            break
+    if expl is None:
         return
-    try:
-        if not MODE["cache"]:
-            time.sleep(0.25)
-        expl, _ = yahoo(x, "1mo", fut=True)
-    except Exception as e:  # noqa: BLE001
-        fut[sym]["error"] = str(e)[:80]
-        return
+    common = sorted(set(h) & set(expl))[-6:]
+    fut[sym]["chk"] = [[d, round(h[d], 4), round(expl[d], 4)] for d in common]
     R = store.setdefault("rolls", {}).setdefault(sym, {})
     r = find_roll(h, expl)
     if r:
