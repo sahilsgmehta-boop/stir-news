@@ -15,8 +15,9 @@ Futures (=F) are Yahoo's front contract, which jumps when it rolls to the next
 month (natural gas into winter can jump 10-15%). Each run looks up the actual
 contract behind the =F symbol (e.g. NGZ26.NYM), finds the day the front
 contract switched, and keeps the price ratio between the two contracts in
-data/markets.json ("rolls"). Prices before each roll are scaled by it, so every
-return compares the same contract. A Sunday-evening futures price counts for
+data/markets.json ("rolls"). The last month comes from that contract itself
+("expl"); prices before it, and before each roll, are scaled to join it, so
+every return compares the same contract. A Sunday-evening futures price counts for
 Monday, and weekend dates are dropped for futures.
 
 python markets.py              normal run
@@ -173,6 +174,29 @@ def agrees_before(cont, expl, d, tol=0.003):
     return abs(cont[prev[-1]] / expl[prev[-1]] - 1) < tol
 
 
+def splice(s, rolls, E):
+    """The last month from the current contract itself (E), older prices scaled to join it.
+    Without E, the recorded roll ratios alone (roll_adjust)."""
+    cd = dict(s)
+    common = sorted(d for d in (E or {}) if d in cd and cd[d] and E[d])
+    if not common:
+        return roll_adjust(s, rolls)
+    w0 = common[0]
+    k = E[w0] / cd[w0]
+    older = {d: r for d, r in (rolls or {}).items() if d <= w0}
+    out = []
+    for d, v in s:
+        if d >= w0:
+            out.append((d, E.get(d, v)))
+            continue
+        f = k
+        for rd, r in older.items():
+            if d < rd and r:
+                f *= r
+        out.append((d, round(v * f, 6)))
+    return out
+
+
 def roll_adjust(s, rolls):
     """Scale prices before each roll date by that roll's ratio, so the series is one contract."""
     if not rolls:
@@ -316,7 +340,9 @@ def check_roll(sym, info, h, store):
             expl, fut[sym]["contract"] = e, x
             break
     if expl is None:
+        store.get("expl", {}).pop(sym, None)
         return
+    store.setdefault("expl", {})[sym] = expl
     common = sorted(set(h) & set(expl))[-6:]
     fut[sym]["chk"] = [[d, round(h[d], 4), round(expl[d], 4)] for d in common]
     R = store.setdefault("rolls", {}).setdefault(sym, {})
@@ -411,7 +437,9 @@ def main():
             del R[d]
 
     def row(name, sym, kind, invert):
-        s = roll_adjust(series_from(hist.get(sym, {})), store.get("rolls", {}).get(sym))
+        s = series_from(hist.get(sym, {}))
+        if is_future(sym):
+            s = splice(s, store.get("rolls", {}).get(sym), store.get("expl", {}).get(sym))
         ret, asof = returns(s, kind, invert)
         m = meta.get(sym, {})
         return {"name": name, "sym": sym.replace("cnbc:", ""), "kind": kind, "invert": bool(invert),
