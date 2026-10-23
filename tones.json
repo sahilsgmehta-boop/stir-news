@@ -315,6 +315,20 @@
    "read": "Not a policy remark.",
    "at": "2026-10-22T20:49:14Z",
    "by": "claude"
+  },
+  "8af7a39eee40": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-23T06:49:52Z",
+   "by": "claude"
+  },
+  "d969038af48d": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Flagging higher yields as a growth drag argues against adding tightening via more hikes.",
+   "at": "2026-10-23T06:49:52Z",
+   "by": "claude"
   }
  }
 }
