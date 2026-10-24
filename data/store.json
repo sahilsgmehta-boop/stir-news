@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-24T06:00:00Z",
+"bank": "ECB",
+"speaker": "Cipollone",
+"hl": "Piero Cipollone: Interview with Milano Finanza",
+"url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+"src": "ECB press, speeches, interviews",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "23d46987719e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-23T16:18:43Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -864,7 +884,9 @@
 "src": "AFP.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance Singapore"
+],
 "desc": "",
 "id": "9bb13c4be423",
 "score": null,
