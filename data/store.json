@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-24T14:29:44Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Trump Criticizes Fed Chair Warsh as Rate Hikes Threaten Stocks",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYbVdRZEIyOUU2bHpqZTYwWVhaYXhyWHBPRURoM2tfcHFJbWlld050eXlmZGFLa3lhSkVZSlJRNDZ5UWpfWFFYdzUzTGpObElrZ2ZPZm14NXpMLWo5Y3MyUVJMUGU?oc=5",
+"src": "SuaraGarut.ID",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "412a0bbb6f9e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-24T06:00:00Z",
 "bank": "ECB",
 "speaker": "Cipollone",
@@ -1875,6 +1895,26 @@
 "basis": ""
 },
 {
+"t": "2026-10-12T07:00:00Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed’s Hammack Says Smaller, Frequent Rate Adjustments Preferable",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTW4yaDdqVy1ES3hBYzVFYVhEV1dJVUlSZFhleVlYQmY3OHZpN2k0UTFtdWVwSjZxakdXUW5JS0RPUzJrd2tSQ2Z1TXNIZjUyRjdSM1l4aFpBbFpuNEs0M3RzR1Jic2tTbUgzU0tEcnFZQXh2Wi01QmZHRExtYnVRWlF6MW90eVA3N2dXMHdSWjJhd3pRMi1Sek1kSDJNWFB3aERZT3VTRzhXQmZsU3NYX00wcS0?oc=5",
+"src": "Bloomberg",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4e57d9833e14",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-09T05:03:42Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -2047,7 +2087,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg"
+],
 "desc": "",
 "id": "7d9ac177c4e9",
 "score": null,
