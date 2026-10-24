@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T19:04:10Z",
+ "built": "2026-10-24T20:54:08Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 24,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -68,9 +68,9 @@
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
     "The Fed Can Pause, But Inflation Won\u2019t",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Is the Bank of Canada about to make a big mistake?",
-    "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street",
     "Fed\u2019s hawkish credentials established"
    ]
   },
@@ -81,7 +81,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 76,
-   "added": 3,
+   "added": 5,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 33,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -111,8 +111,8 @@
     "Ready for a French test?: Five questions for the ECB",
     "Five key factors shaping the ECB\u2019s rate decision",
     "Is the ECB about to bail out France?",
-    "Could France's bond turmoil force the ECB's hand?",
     "Eurogroup Extends ECB Board-Application Deadline by a Month",
+    "Could France's bond turmoil force the ECB's hand?",
     "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB"
    ]
   },
@@ -121,21 +121,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 28,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Set to Raise Rates in December After Pause, Economists Say",
     "Ready for a French test?: Five questions for the ECB",
+    "ECB Set to Raise Rates in December After Pause, Economists Say",
     "Could France's bond turmoil force the ECB's hand?",
     "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
+    "Five key factors shaping the ECB\u2019s rate decision",
     "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Deepening China-euro area financial dialogue benefits both sides: ECB official",
     "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
     "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
-    "The ECB has no reason to accelerate its hiking cycle: ECB preview",
-    "ECB Consumer Expectations Survey results \u2013 September 2026"
+    "The ECB has no reason to accelerate its hiking cycle: ECB preview"
    ]
   },
   {
@@ -143,7 +143,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 24,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -170,6 +170,7 @@
     "Is the Bank of Canada about to make a big mistake?",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
+    "Bank of Canada: Preemptive tightening focus \u2013 RBC",
     "Will the BoC hike next week? Nail-biter decision awaits variable mortgage rate holders"
    ]
   },
