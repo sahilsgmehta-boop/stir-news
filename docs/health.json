@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T09:03:57Z",
+ "built": "2026-10-24T11:59:48Z",
  "sources": [
   {
    "id": "il_cb",
@@ -50,14 +50,16 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "\u2018Non-answers\u2019 aren\u2019t working. This is what investors really need from the Fed."
+   ]
   },
   {
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 46,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -65,12 +67,12 @@
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
     "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
-    "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
     "The Fed\u2019s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
-    "Is the Bank of Canada about to make a big mistake?",
-    "Swiss Franc retreats as markets turn to Fed's interest rate decision",
+    "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
     "How Might Stock, Bond, And Oil Markets React To The Fed's Rate Decision",
+    "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "The Fed Can Pause, But Inflation Won\u2019t",
+    "Is the Bank of Canada about to make a big mistake?",
     "Fed\u2019s hawkish credentials established"
    ]
   },
@@ -81,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 76,
-   "added": 4,
+   "added": 3,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
@@ -101,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
+   "fetched": 58,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
     "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
-    "Could France's bond turmoil force the ECB's hand?",
     "Ready for a French test?: Five questions for the ECB",
     "Five key factors shaping the ECB\u2019s rate decision",
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
+    "Could France's bond turmoil force the ECB's hand?",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
-    "Kuehne+Nagel sees air revenues and profits soar in Q3",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "ECB on course for another rate rise in 2026",
-    "ECB\u2019s Pereira calls for deeper EU single market integration"
+    "ECB\u2019s Pereira calls for deeper EU single market integration",
+    "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB"
    ]
   },
   {
@@ -123,18 +125,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
-    "Panetta warns on long-term interest rate risks",
-    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
     "Ready for a French test?: Five questions for the ECB",
-    "The ECB has no reason to accelerate its hiking cycle: ECB preview",
+    "Could France's bond turmoil force the ECB's hand?",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
+    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
     "ECB Set to Raise Rates in December After Pause, Economists Say",
+    "The ECB has no reason to accelerate its hiking cycle: ECB preview",
     "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
     "ECB caught in the French drama",
     "Deepening China-euro area financial dialogue benefits both sides: ECB official"
@@ -145,21 +147,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 21,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
     "Is it time to reconsider the Bank of England\u2019s mandate? - MHA\u2019s Joe Nellis",
-    "The Bank of England just got its clearest reason to hike. Here's what it's really watching",
-    "Andy Haldane hits out at the Bank of England",
     "Bank of England: Firm UK inflation brings November hike into forecast \u2013 Danske Bank",
     "Bank of England Hike Count Keeps Rising in Analyst Forecasts",
-    "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
+    "Bank of England expert returns to Mansfield to inspire next generation",
+    "The Bank of England just got its clearest reason to hike. Here's what it's really watching",
     "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
     "Bank of England: Danske Bank adds November hike as UK inflation holds firm",
-    "Bank of England expert returns to Mansfield to inspire next generation",
-    "RSPCA backs new Bank of England chief cashier to boost wildlife awareness"
+    "Martin Lewis says 'I'm concerned' ahead of Bank of England November 5 announcement",
+    "Martin Lewis issues worrying 2 word statement before Bank of England announcement"
    ]
   },
   {
@@ -167,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 23,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -187,12 +189,11 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 2,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Swiss central bank sees less need to intervene in forex markets, SNB minutes say",
     "SNB sees positive signals for the economy in the third quarter",
     "Swiss National Bank to continue technical aid to Azerbaijan\u2019s central bank (Exclusive)"
    ]
@@ -260,7 +261,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 5,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
