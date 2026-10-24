@@ -1,5 +1,5 @@
 {
- "built": "2026-10-23T23:53:17Z",
+ "built": "2026-10-24T04:24:39Z",
  "sources": [
   {
    "id": "il_cb",
@@ -64,10 +64,10 @@
    "near_misses": [
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
-    "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
-    "The Fed Can Pause, But Inflation Won\u2019t",
+    "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
     "The Fed\u2019s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
+    "The Fed Can Pause, But Inflation Won\u2019t",
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Fed\u2019s hawkish credentials established",
     "How Might Stock, Bond, And Oil Markets React To The Fed's Rate Decision",
@@ -81,7 +81,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 75,
-   "added": 4,
+   "added": 6,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 79,
+   "fetched": 78,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -109,13 +109,13 @@
     "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
     "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "Could France's bond turmoil force the ECB's hand?",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Ready for a French test?: Five questions for the ECB",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "Kuehne+Nagel sees air revenues and profits soar in Q3",
     "ECB on course for another rate rise in 2026",
-    "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB",
     "ECB\u2019s Pereira calls for deeper EU single market integration",
-    "ECB\u2019s Pereira calls for deeper EU single market integration By Investing.com"
+    "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB"
    ]
   },
   {
@@ -123,18 +123,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 13,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Panetta warns on long-term interest rate risks",
     "Ready for a French test?: Five questions for the ECB",
+    "Panetta warns on long-term interest rate risks",
     "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
     "The ECB has no reason to accelerate its hiking cycle: ECB preview",
-    "ECB caught in the French drama",
-    "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
-    "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "ECB Consumer Expectations Survey results \u2013 September 2026"
    ]
   },
@@ -143,20 +140,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 43,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Is it time to reconsider the Bank of England\u2019s mandate? - MHA\u2019s Joe Nellis",
+    "The Bank of England just got its clearest reason to hike. Here's what it's really watching",
     "Andy Haldane hits out at the Bank of England",
     "Bank of England Hike Count Keeps Rising in Analyst Forecasts",
-    "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
     "Bank of England chief sounds alarm over AI borrowing binge that could trigger market crash",
     "Bank of England: Firm UK inflation brings November hike into forecast \u2013 Danske Bank",
     "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
+    "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
     "Bank of England: Danske Bank adds November hike as UK inflation holds firm",
-    "The Bank of England just got its clearest reason to hike. Here's what it's really watching",
     "Martin Lewis says 'I'm concerned' ahead of Bank of England November 5 announcement"
    ]
   },
@@ -172,6 +169,7 @@
    "near_misses": [
     "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
+    "Is the Bank of Canada about to make a big mistake?",
     "David Rosenberg: Bank of Canada rate hike right now would be playing with economic fire",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
