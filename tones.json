@@ -617,6 +617,16 @@
    "basis": "reports",
    "at": "2026-10-23T20:56:15Z",
    "by": "claude"
+  },
+  "23d46987719e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Interview text could not be read; no rate signal identified from the title.",
+   "sum": "Cipollone gave an interview to Milano Finanza; its content could not be retrieved for this brief.",
+   "ev": "Interview, Milano Finanza",
+   "basis": "reports",
+   "at": "2026-10-24T11:59:31Z",
+   "by": "claude"
   }
  }
 }
