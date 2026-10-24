@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T20:54:08Z",
+ "built": "2026-10-24T21:32:43Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 46,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
-    "Fed holds interest rates steady as inflation hits 3-year high",
     "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
+    "Fed holds interest rates steady as inflation hits 3-year high",
     "The Fed Can Pause, But Inflation Won\u2019t",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Is the Bank of Canada about to make a big mistake?",
-    "Fed\u2019s hawkish credentials established"
+    "Will the Fed raise interest rates this year? Divided economists weigh in"
    ]
   },
   {
@@ -81,7 +81,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 76,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
@@ -101,18 +101,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 3,
+   "fetched": 29,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
-    "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "Ready for a French test?: Five questions for the ECB",
     "Five key factors shaping the ECB\u2019s rate decision",
     "Is the ECB about to bail out France?",
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Could France's bond turmoil force the ECB's hand?",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB"
    ]
   },
@@ -121,20 +120,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 3,
+   "fetched": 9,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Ready for a French test?: Five questions for the ECB",
-    "ECB Set to Raise Rates in December After Pause, Economists Say",
-    "Could France's bond turmoil force the ECB's hand?",
-    "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
-    "Five key factors shaping the ECB\u2019s rate decision",
     "Eurogroup Extends ECB Board-Application Deadline by a Month",
-    "Deepening China-euro area financial dialogue benefits both sides: ECB official",
+    "Ready for a French test?: Five questions for the ECB",
     "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
-    "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
     "The ECB has no reason to accelerate its hiking cycle: ECB preview"
    ]
   },
@@ -143,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -160,7 +153,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 25,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -169,7 +162,7 @@
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
     "Is the Bank of Canada about to make a big mistake?",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
-    "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
+    "Canadian Dollar May Rise on Possible Bank of Canada Rate Hike Next Week, UBS Says",
     "Bank of Canada: Preemptive tightening focus \u2013 RBC",
     "Will the BoC hike next week? Nail-biter decision awaits variable mortgage rate holders"
    ]
