@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T16:40:56Z",
+ "built": "2026-10-24T19:04:10Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 43,
    "kept": 2,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
-    "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
+    "Fed holds interest rates steady as inflation hits 3-year high",
     "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
+    "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
     "The Fed Can Pause, But Inflation Won\u2019t",
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Is the Bank of Canada about to make a big mistake?",
     "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street",
-    "Fed\u2019s hawkish credentials established",
-    "Fed's flexible rate outlook offers emerging markets temporary relief-INP"
+    "Fed\u2019s hawkish credentials established"
    ]
   },
   {
@@ -81,19 +81,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 76,
-   "added": 5,
+   "added": 3,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
-    "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
     "Bets on Fed rate hold in October strengthen after Warsh comments",
+    "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
     "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
     "Fed consolidates bank supervision structure",
     "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
     "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
     "Fed policymakers lean against October rate hike",
     "Fed chairman Warsh stays quiet on interest rates",
-    "The Fed's long-term interest rate problem"
+    "Fighting inflation likely to be 'painful,' Chicago Fed president says"
    ]
   },
   {
@@ -101,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 8,
+   "fetched": 35,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -111,10 +111,8 @@
     "Ready for a French test?: Five questions for the ECB",
     "Five key factors shaping the ECB\u2019s rate decision",
     "Is the ECB about to bail out France?",
-    "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Could France's bond turmoil force the ECB's hand?",
-    "ECB\u2019s Pereira calls for deeper EU single market integration",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB"
    ]
   },
@@ -123,15 +121,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
-   "kept": 5,
+   "fetched": 26,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Set to Raise Rates in December After Pause, Economists Say",
     "Ready for a French test?: Five questions for the ECB",
+    "Could France's bond turmoil force the ECB's hand?",
+    "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "Eurogroup Extends ECB Board-Application Deadline by a Month",
+    "Deepening China-euro area financial dialogue benefits both sides: ECB official",
     "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
-    "The ECB has no reason to accelerate its hiking cycle: ECB preview"
+    "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
+    "The ECB has no reason to accelerate its hiking cycle: ECB preview",
+    "ECB Consumer Expectations Survey results \u2013 September 2026"
    ]
   },
   {
@@ -145,10 +149,8 @@
    "error": "",
    "near_misses": [
     "Is it time to reconsider the Bank of England\u2019s mandate? - MHA\u2019s Joe Nellis",
-    "Bank of England: Firm UK inflation brings November hike into forecast \u2013 Danske Bank",
     "Bank of England Hike Count Keeps Rising in Analyst Forecasts",
     "Bank of England expert returns to Mansfield to inspire next generation",
-    "Bank of England: Danske Bank adds November hike as UK inflation holds firm",
     "Martin Lewis says 'I'm concerned' ahead of Bank of England November 5 announcement",
     "Martin Lewis issues worrying 2 word statement before Bank of England announcement"
    ]
@@ -166,7 +168,6 @@
     "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
     "Is the Bank of Canada about to make a big mistake?",
-    "David Rosenberg: Bank of Canada rate hike right now would be playing with economic fire",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
     "Will the BoC hike next week? Nail-biter decision awaits variable mortgage rate holders"
