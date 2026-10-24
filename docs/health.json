@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T11:59:48Z",
+ "built": "2026-10-24T13:15:52Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 44,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -67,13 +67,13 @@
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
     "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
-    "The Fed\u2019s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
-    "How Might Stock, Bond, And Oil Markets React To The Fed's Rate Decision",
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "The Fed Can Pause, But Inflation Won\u2019t",
     "Is the Bank of Canada about to make a big mistake?",
-    "Fed\u2019s hawkish credentials established"
+    "Fed\u2019s hawkish credentials established",
+    "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street",
+    "Fed's flexible rate outlook offers emerging markets temporary relief-INP"
    ]
   },
   {
@@ -83,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 76,
-   "added": 3,
+   "added": 4,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
+   "fetched": 52,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -112,12 +112,12 @@
     "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "Ready for a French test?: Five questions for the ECB",
     "Five key factors shaping the ECB\u2019s rate decision",
-    "Could France's bond turmoil force the ECB's hand?",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
+    "Could France's bond turmoil force the ECB's hand?",
     "ECB on course for another rate rise in 2026",
     "ECB\u2019s Pereira calls for deeper EU single market integration",
-    "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB"
+    "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB",
+    "ECB\u2019s Pereira calls for deeper EU single market integration By Investing.com"
    ]
   },
   {
@@ -132,14 +132,14 @@
    "near_misses": [
     "Ready for a French test?: Five questions for the ECB",
     "Could France's bond turmoil force the ECB's hand?",
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
+    "ECB Set to Raise Rates in December After Pause, Economists Say",
     "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
-    "ECB Set to Raise Rates in December After Pause, Economists Say",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "The ECB has no reason to accelerate its hiking cycle: ECB preview",
     "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
-    "ECB caught in the French drama",
-    "Deepening China-euro area financial dialogue benefits both sides: ECB official"
+    "Deepening China-euro area financial dialogue benefits both sides: ECB official",
+    "Panetta warns on long-term interest rate risks"
    ]
   },
   {
@@ -147,7 +147,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 34,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -160,8 +160,8 @@
     "The Bank of England just got its clearest reason to hike. Here's what it's really watching",
     "Bank of England: November hike added as UK inflation stays firm \u2013 Danske Bank",
     "Bank of England: Danske Bank adds November hike as UK inflation holds firm",
-    "Martin Lewis says 'I'm concerned' ahead of Bank of England November 5 announcement",
-    "Martin Lewis issues worrying 2 word statement before Bank of England announcement"
+    "RSPCA backs new Bank of England chief cashier to boost wildlife awareness",
+    "Martin Lewis says 'I'm concerned' ahead of Bank of England November 5 announcement"
    ]
   },
   {
@@ -169,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -178,10 +178,10 @@
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
     "Is the Bank of Canada about to make a big mistake?",
     "David Rosenberg: Bank of Canada rate hike right now would be playing with economic fire",
+    "The Bank of Canada at an inflection point: Inflation fears live on",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
     "News of the day: Macklem rolls the dice, losing faith in housing, credit rating help, Joly threatens steel lawsuit, small business exits and more",
-    "Will the BoC hike next week? Nail-biter decision awaits variable mortgage rate holders",
-    "The Bank of Canada at an inflection point: Inflation fears live on"
+    "Will the BoC hike next week? Nail-biter decision awaits variable mortgage rate holders"
    ]
   },
   {
