@@ -1,5 +1,5 @@
 {
- "built": "2026-10-25T01:44:37Z",
+ "built": "2026-10-25T06:57:59Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 2,
-   "added": 0,
+   "fetched": 45,
+   "kept": 4,
+   "added": 2,
    "error": "",
    "near_misses": [
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
-    "Fed expected to hold rates steady days ahead of US midterms",
-    "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
+    "Fed expected to hold rates steady days ahead of US midterms",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
-    "Fed holds interest rates steady as inflation hits 3-year high",
     "The Fed Can Pause, But Inflation Won\u2019t",
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
-    "Fed\u2019s hawkish credentials established"
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "Fed\u2019s hawkish credentials established",
+    "Is the Bank of Canada about to make a big mistake?"
    ]
   },
   {
@@ -85,7 +85,6 @@
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
-    "Bets on Fed rate hold in October strengthen after Warsh comments",
     "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
     "Fed consolidates bank supervision structure",
     "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
@@ -93,7 +92,8 @@
     "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
     "Fed policymakers lean against October rate hike",
     "Fed chairman Warsh stays quiet on interest rates",
-    "Fighting inflation likely to be 'painful,' Chicago Fed president says"
+    "Fighting inflation likely to be 'painful,' Chicago Fed president says",
+    "The Fed's long-term interest rate problem"
    ]
   },
   {
@@ -101,19 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 1,
+   "fetched": 36,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "WEF could appoint Lagarde as next chair as early as November: Sources",
     "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
-    "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
     "Ready for a French test?: Five questions for the ECB",
+    "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
     "Is the ECB about to bail out France?",
     "Could France's bond turmoil force the ECB's hand?",
-    "Five key factors shaping the ECB\u2019s rate decision",
     "Eurogroup Extends ECB Board-Application Deadline by a Month",
-    "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB"
+    "Five key factors shaping the ECB\u2019s rate decision",
+    "Hern\u00e1ndez de Cos stands out among economists as the favorite replacement for Lagarde at the ECB",
+    "Ready for a French test?: Five questions for the ECB | Gulf Times"
    ]
   },
   {
@@ -121,21 +123,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 1,
+   "fetched": 24,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Set to Raise Rates in December After Pause, Economists Say",
     "Ready for a French test?: Five questions for the ECB",
+    "ECB Rate Decision: What to Expect on Thursday",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
-    "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "Could France's bond turmoil force the ECB's hand?",
     "Deepening China-euro area financial dialogue benefits both sides: ECB official",
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
-    "Five key factors shaping the ECB\u2019s rate decision",
+    "ECB Consumer Expectations Survey results \u2013 September 2026",
     "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
-    "The ECB has no reason to accelerate its hiking cycle: ECB preview"
+    "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
+    "Ready for a French test?: Five questions for the ECB | Gulf Times"
    ]
   },
   {
@@ -143,7 +145,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -151,7 +153,6 @@
     "Is it time to reconsider the Bank of England\u2019s mandate? - MHA\u2019s Joe Nellis",
     "Bank of England Hike Count Keeps Rising in Analyst Forecasts",
     "Bank of England expert returns to Mansfield to inspire next generation",
-    "RSPCA backs new Bank of England chief cashier to boost wildlife awareness",
     "Martin Lewis says 'I'm concerned' ahead of Bank of England November 5 announcement",
     "Martin Lewis issues worrying 2 word statement before Bank of England announcement"
    ]
@@ -169,23 +170,22 @@
     "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
     "Is the Bank of Canada about to make a big mistake?",
-    "Canadian Dollar May Rise on Possible Bank of Canada Rate Hike Next Week, UBS Says",
+    "CMHC's chief economist warns Bank of Canada rate hikes could arrive by early 2027, sooner than expected",
     "Bank of Canada: Preemptive tightening focus \u2013 RBC",
-    "CMHC's chief economist warns Bank of Canada rate hikes could arrive by early 2027, sooner than expected"
+    "Bank of Canada: Pre-emptive tightening takes centre stage \u2013 RBC",
+    "Canadian Dollar May Rise on Possible Bank of Canada Rate Hike Next Week, UBS Says"
    ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Swiss National Bank to continue technical aid to Azerbaijan\u2019s central bank (Exclusive)"
-   ]
+   "error": "feed returned no items",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
