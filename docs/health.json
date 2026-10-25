@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T23:37:30Z",
+ "built": "2026-10-25T01:44:37Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
+   "fetched": 54,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
+    "Fed expected to hold rates steady days ahead of US midterms",
     "Dallas Fed\u2019s Third Quarter Survey Highlights Continued Growth",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
     "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "The Fed Can Pause, But Inflation Won\u2019t",
     "Swiss Franc retreats as markets turn to Fed's interest rate decision",
-    "Is the Bank of Canada about to make a big mistake?",
-    "Will the Fed raise interest rates this year? Divided economists weigh in"
+    "Fed\u2019s hawkish credentials established"
    ]
   },
   {
@@ -80,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 77,
+   "kept": 78,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -101,14 +101,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 29,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
     "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
-    "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
     "Ready for a French test?: Five questions for the ECB",
     "Is the ECB about to bail out France?",
     "Could France's bond turmoil force the ECB's hand?",
@@ -130,10 +129,10 @@
     "ECB Set to Raise Rates in December After Pause, Economists Say",
     "Ready for a French test?: Five questions for the ECB",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
-    "Could France's bond turmoil force the ECB's hand?",
     "ECB's de Cos seen as the most likely to succeed President Lagarde, Bloomberg's survey shows; Knot is in second place",
-    "Eurogroup Extends ECB Board-Application Deadline by a Month",
+    "Could France's bond turmoil force the ECB's hand?",
     "Deepening China-euro area financial dialogue benefits both sides: ECB official",
+    "Eurogroup Extends ECB Board-Application Deadline by a Month",
     "Five key factors shaping the ECB\u2019s rate decision",
     "ECB Says Consumers\u2019 Inflation Expectations Edge Up in September",
     "The ECB has no reason to accelerate its hiking cycle: ECB preview"
@@ -162,7 +161,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 25,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -170,6 +169,8 @@
     "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
     "Is the Bank of Canada about to make a big mistake?",
+    "Canadian Dollar May Rise on Possible Bank of Canada Rate Hike Next Week, UBS Says",
+    "Bank of Canada: Preemptive tightening focus \u2013 RBC",
     "CMHC's chief economist warns Bank of Canada rate hikes could arrive by early 2027, sooner than expected"
    ]
   },
