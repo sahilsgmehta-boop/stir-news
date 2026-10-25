@@ -1,5 +1,5 @@
 {
- "built": "2026-10-25T11:54:59Z",
+ "built": "2026-10-25T12:30:27Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,8 +59,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 4,
+   "fetched": 21,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -68,12 +68,12 @@
     "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
-    "If this happens, we can reach the 'vicinity' of the Fed's 2% inflation target",
     "Fed expected to hold rates steady days ahead of US midterms",
-    "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Fed holds interest rates steady as inflation hits 3-year high",
+    "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Is the Bank of Canada about to make a big mistake?",
-    "Will the Fed raise interest rates this year? Divided economists weigh in"
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
+    "Investors seek clear Fed strategy as Chair Wars..."
    ]
   },
   {
@@ -83,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 78,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 36,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -114,7 +114,8 @@
     "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
     "Five key factors shaping the ECB\u2019s rate decision",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
-    "Ready for a French test?: Five questions for the ECB | Gulf Times"
+    "Ready for a French test?: Five questions for the ECB | Gulf Times",
+    "ECB set to raise rates in December, economists say"
    ]
   },
   {
@@ -127,8 +128,9 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
+    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
-    "Deepening China-euro area financial dialogue benefits both sides: ECB official",
     "Five key factors shaping the ECB\u2019s rate decision",
     "Ready for a French test?: Five questions for the ECB | Gulf Times"
    ]
@@ -138,15 +140,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Is it time to reconsider the Bank of England\u2019s mandate? - MHA\u2019s Joe Nellis",
-    "Bank of England expert returns to Mansfield to inspire next generation",
     "Martin Lewis issues worrying 2 word statement before Bank of England announcement",
-    "RSPCA backs new Bank of England chief cashier to boost wildlife awareness"
+    "Bank of England expert returns to Mansfield to inspire next generation"
    ]
   },
   {
@@ -154,14 +155,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
-    "Canadian Dollar May Rise on Possible Bank of Canada Rate Hike Next Week, UBS Says",
     "Bank of Canada: Preemptive tightening focus \u2013 RBC",
     "Is the Bank of Canada about to make a big mistake?",
     "Bank of Canada: Pre-emptive tightening takes centre stage \u2013 RBC"
@@ -188,6 +188,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Will the Fed drop any hints on rate rises?",
     "ECB on course for another rate rise in 2026",
     "The hunt for Fed October",
     "French central bank chief says ECB intervention not needed to ease bond rout",
@@ -251,7 +252,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 15,
-   "added": 5,
+   "added": 6,
    "error": ""
   },
   {
