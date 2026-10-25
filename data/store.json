@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-25T15:00:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Warsh Tells Traders to Watch the Data. They Still Follow the Fed",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9LMWRyT2twSklnZmlGUkxQV3RHTzg1dDVXcVdRUWJuUHdqUWdjS1J6YXVNdEY4SDRXWXBhcnZ1VlhHTDNlck9ySXM4SlhvMTkwZVBYaHI0LWFBQ2lRdjVMdENfNHRwU0N4Yk9nTTJjM0RxcEhnMndDVDl3dS15QUIzejNORm1yWkQ3UWVqZGZXOWt3NnRxeTVKdE9Gbm9Ic2kzaTNBcVIyNE5xdzR6STFUcEg?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b45879453352",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-24T23:34:12Z",
 "bank": "Fed",
 "speaker": "Bowman",
@@ -911,7 +931,9 @@
 "tone": "",
 "also": [
 "The Korea Times",
-"KWSN"
+"KWSN",
+"Macon Telegraph",
+"Y100 WNCY"
 ],
 "desc": "",
 "id": "a94b35f028bc",
@@ -3558,6 +3580,26 @@
 "basis": ""
 },
 {
+"t": "2026-09-22T07:00:00Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed’s Williams Says Treasuries Clearing Moving Ahead of Schedule",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRk5JZzFFdG5rWGJVWXV3Z3NOemttQTIwUXJVR0pBVjFDZ1RublA0VHlLTTR1N0JTZlFONEx6ZE8xclVnaDhwQXpRS1lnbTZ1ZmYtTlZXeDRqdG96amN0UDhpT2hjYWJlMGNXb09GODNHLVZVWWJtN0dhVW9Bend0b29IN3ZQTVprUmZXcEowMXpVUzZPXzVTY3RDcnNhMHJzekdKZDZnOVFoLWJFOTlNX0ZhN01Vdw?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b1c81fb990db",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-09-21T12:30:50Z",
 "bank": "BoC",
 "speaker": "",
@@ -3651,6 +3693,26 @@
 "score": null,
 "read": "",
 "desc": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-09-18T07:00:00Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed's Bowman says overhaul of bank stress test will make process more transparent",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVhMeF8xaElKaXVlUmExRzVBU244d3pfR3k5V25FdlZJel9nOElkbTlXb1lILXhremYwQV9kTTZ2SGZBdjlMVWR2QU9JM3o4Q0E5OHpjSGlidkFUdG5vdkhkajZ0Q2hKUl9yZ2xfaXBMQU5vbHBjVHRhbk83ZVB0T2pRYlZzYUI3R2dCQkozekRHT0V4UFBRZUJYa3Nqa2c5R1Z0eUhCNXltdw?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1296e47a4d20",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",

@@ -1,5 +1,5 @@
 {
- "built": "2026-10-25T12:30:27Z",
+ "built": "2026-10-25T16:44:48Z",
  "sources": [
   {
    "id": "il_cb",
@@ -51,6 +51,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "\u2018Nonanswers\u2019 aren\u2019t working. This is what investors really need from the Fed.",
     "Here\u2019s the real signal to watch for the Fed\u2019s next move"
    ]
   },
@@ -59,21 +60,19 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 19,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "Opinion: Here\u2019s the real signal to watch for the Fed\u2019s next move",
-    "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
+    "Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts",
     "What turns gold around? Watch the Fed\u2019s breaking point, not the headlines",
-    "Fed expected to hold rates steady days ahead of US midterms",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Swiss Franc retreats as markets turn to Fed's interest rate decision",
     "Is the Bank of Canada about to make a big mistake?",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
-    "Investors seek clear Fed strategy as Chair Wars..."
+    "Fed expected to hold rates steady days ahead of US midterms"
    ]
   },
   {
@@ -83,19 +82,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 78,
-   "added": 4,
+   "added": 15,
    "error": "",
    "near_misses": [
     "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
+    "Fighting inflation likely to be 'painful,' Chicago Fed president says",
     "Fed sees AI boom adding to inflation challenges with uneven economic impact",
+    "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
     "Fed consolidates bank supervision structure",
     "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
-    "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
-    "Fed policymakers lean against October rate hike",
-    "Fed chairman Warsh stays quiet on interest rates",
-    "Fighting inflation likely to be 'painful,' Chicago Fed president says",
-    "Waller breaks with Warsh on Fed forward guidance, hints at October rate hold"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Fed policymakers lean against October rate hike"
    ]
   },
   {
@@ -103,19 +102,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 31,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Lagarde at the Petit Palais in Elegant Couture - 2011-08-17 - Christine Lagarde's Power Dressing",
     "WEF could appoint Lagarde as next chair as early as November: Sources",
     "ECB Rate Decision: What to Expect on Thursday",
-    "Could France's bond turmoil force the ECB's hand?",
     "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
+    "France's bond drama takes centre stage ahead of ECB rate decision",
     "Five key factors shaping the ECB\u2019s rate decision",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
     "Ready for a French test?: Five questions for the ECB | Gulf Times",
-    "ECB set to raise rates in December, economists say"
+    "Burning Man 2025 \ud83d\udd25 Cinematic Aftermovie & Highlights, Incl. Drone Footage (4k) Christine Lagarde (8nOOrlHPH1)"
    ]
   },
   {
@@ -123,16 +123,17 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
-    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
     "Five key factors shaping the ECB\u2019s rate decision",
-    "Ready for a French test?: Five questions for the ECB | Gulf Times"
+    "Ready for a French test?: Five questions for the ECB | Gulf Times",
+    "ECB Rate Decision: What to Expect on Thursday",
+    "France's bond drama takes centre stage ahead of ECB rate decision"
    ]
   },
   {
@@ -140,13 +141,11 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Is it time to reconsider the Bank of England\u2019s mandate? - MHA\u2019s Joe Nellis",
-    "Martin Lewis issues worrying 2 word statement before Bank of England announcement",
     "Bank of England expert returns to Mansfield to inspire next generation"
    ]
   },
@@ -155,16 +154,15 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 28,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
-    "Bank of Canada: Preemptive tightening focus \u2013 RBC",
     "Is the Bank of Canada about to make a big mistake?",
-    "Bank of Canada: Pre-emptive tightening takes centre stage \u2013 RBC"
+    "Bank of Canada Poised to Raise Interest Rates for the First Time in Three Years as Inflation Concerns Mount"
    ]
   },
   {
