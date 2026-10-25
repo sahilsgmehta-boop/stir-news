@@ -634,6 +634,38 @@
    "read": "Not a policy remark.",
    "at": "2026-10-24T20:53:48Z",
    "by": "claude"
+  },
+  "232650826b6a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Bank supervision accountability after SVB; no signal on the path of rates.",
+   "sum": "Bowman called for clearer accountability in bank supervision, drawing lessons from the Silicon Valley Bank failure.",
+   "pts": [
+    "Called for clearer accountability within the Fed's bank supervision.",
+    "Framed the push around lessons from the SVB collapse.",
+    "Made no reported comment on inflation, jobs or the rate path."
+   ],
+   "rr": "No read-across for Fed pricing; leaves expectations for the next FOMC meeting unchanged. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-25T11:54:44Z",
+   "by": "claude"
+  },
+  "83c397879d3c": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Upbeat AI-productivity view hints at supply-side relief but carries no explicit rate guidance.",
+   "sum": "Warsh called AI a 'revolution' and said the US is likely to be a big winner in the AI race.",
+   "pts": [
+    "Described AI as a revolution for the economy.",
+    "Said the US is likely to be the big winner in the AI race.",
+    "No reported comment on the next rate decision."
+   ],
+   "rr": "Productivity optimism is a mild argument against needing many more hikes, but too general to shift pricing for the remaining 2026 meetings. Only news paraphrases were available.",
+   "ev": "Interview, ABC News",
+   "basis": "reports",
+   "at": "2026-10-25T11:54:44Z",
+   "by": "claude"
   }
  }
 }
