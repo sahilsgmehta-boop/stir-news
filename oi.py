@@ -60,7 +60,7 @@ PRODUCTS = [
     ("3141", "Ultra Bond"),
 ]
 
-LOOKBACK_DAYS = 32      # rolling one month: ~22 sessions, just enough for the 1-month change
+LOOKBACK_DAYS = 70      # about 10 weeks: the daily-change chart on the Open interest page (was 32)
 RECENT_DAYS = 4         # preliminary or empty days younger than this are re-asked
 SETTLE_DAYS = 7         # settles only matter for the latest session shown
 MAX_MONTHS = 24         # contract months kept per product
