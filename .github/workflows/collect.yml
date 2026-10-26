@@ -72,7 +72,9 @@ jobs:
       # US repo and funding data for the Repo page (NY Fed, H.4.1, Treasury,
       # OFR, BEA via DBnomics). Runs at most every 3 hours; never fails the run.
       - name: Repo
-        run: python repo.py
+        run: |
+          pip install -q pypdf || true
+          python repo.py
 
       # G10 currencies for the dashboard. The Twelve Data key is a repository
       # SECRET (Settings > Secrets and variables > Actions > TWELVE_DATA_KEY);

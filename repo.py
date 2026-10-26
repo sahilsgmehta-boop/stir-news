@@ -50,7 +50,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 # estimates the same evening.
 RUN_SLOTS_IST = [(19, 0), (23, 45)]
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 8                 # bump when the output changes: forces a run straight away
+VERSION = 10                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -138,6 +138,12 @@ def is_bd(d):
     if d.year not in _HOL:
         _HOL[d.year] = holidays(d.year)
     return d not in _HOL[d.year]
+
+
+def prev_bd(d):
+    while not is_bd(d):
+        d -= timedelta(days=1)
+    return d
 
 
 def next_bd(d):
@@ -368,6 +374,62 @@ def merge_recent(hist, recent):
     return added, filled
 
 
+# Treasury's tentative auction schedule (published with each quarterly refunding, about
+# six months of auctions with their settlement dates). Its coupon settlement dates replace
+# the rules above wherever it has the auction - Treasury moves dates (holidays, the 2026
+# change to 20-year reopenings) in ways last year's calendar can't show.
+TAS_URL = "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ{q}{y}.pdf"
+_TAS_ROW = re.compile(r"(\d+)-(Year|Week)\s+(NOTE|BOND|TIPS|FRN|BILL)((?:\s+[RT])*)\s+\w+day, (\w+ \d\d, \d{4})"
+                      r"\s+\w+day, (\w+ \d\d, \d{4})\s+\w+day, (\w+ \d\d, \d{4})")
+
+
+def tas_text(pdf_bytes):
+    import io
+    from pypdf import PdfReader            # installed by the workflow; without it the rules apply
+    return "\n".join(p.extract_text() or "" for p in PdfReader(io.BytesIO(pdf_bytes)).pages)
+
+
+def tas_parse(text):
+    out = []
+    for m in _TAS_ROW.finditer(text):
+        n, unit, kind, flags = m.group(1), m.group(2), m.group(3), m.group(4).split()
+        if kind == "BILL":
+            continue
+        out.append({"term": f"{n}-{unit}", "kind": kind, "reopen": "R" in flags,
+                    "auction": d2s(datetime.strptime(m.group(6), "%B %d, %Y").date()),
+                    "settle": d2s(datetime.strptime(m.group(7), "%B %d, %Y").date())})
+    return out
+
+
+def tas_schedule(today):
+    """Coupon rows of the latest two tentative schedules (the newer one wins)."""
+    q_now = {2: 1, 3: 1, 4: 1, 5: 2, 6: 2, 7: 2, 8: 3, 9: 3, 10: 3, 11: 4, 12: 4, 1: 4}[today.month]
+    y_now = today.year - (1 if today.month == 1 else 0)
+    labels = [(y_now, q_now), (y_now - (q_now == 1), 4 if q_now == 1 else q_now - 1)]
+    rows = {}
+    for y, q in reversed(labels):
+        url = TAS_URL.format(q=q, y=y)
+        try:
+            if MODE["cache"]:
+                txt = get(url)
+            else:
+                p = subprocess.run(["curl", "-sS", "-L", "-m", "60", "-A", UA, "-w", "\n@@%{http_code}", url],
+                                   capture_output=True)
+                body, _, code = p.stdout.rpartition(b"\n@@")
+                health["requests"] += 1
+                if code != b"200" or not body.startswith(b"%PDF"):
+                    continue                     # not published yet
+                txt = tas_text(body)
+                if MODE["dump"]:
+                    key = hashlib.sha1(url.encode()).hexdigest()[:16]
+                    open(os.path.join(MODE["dump"], key), "w", encoding="utf-8").write(txt)
+            for r in tas_parse(txt):
+                rows[(r["term"], r["kind"], r["reopen"], r["settle"][:7])] = r
+        except Exception as e:  # noqa: BLE001
+            note(f"tentative schedule {y} Q{q}: {e}")
+    return list(rows.values())
+
+
 def mspd():
     """Marketable debt outstanding by CUSIP at the latest month end."""
     d = jget(f"{FD}/v1/debt/mspd/mspd_table_3_market?sort=-record_date&page%5Bsize%5D=1")
@@ -563,7 +625,27 @@ def next_year_slot(d0, mat):
         return next_bd(d0 + timedelta(days=365))
 
 
-def project(hist, ann, today, until):
+def tas_kind(a):
+    if a.get("tips"):
+        return "TIPS"
+    if a.get("frn"):
+        return "FRN"
+    return "BOND" if (a.get("type") or "").lower() == "bond" else "NOTE"
+
+
+def snap_to_schedule(iss, a, k, sched):
+    """The tentative schedule's settlement date for this projected coupon, if it has it."""
+    if not sched:
+        return iss
+    term = k.split(" ", 1)[1]                    # "Bond 20-Year" -> "20-Year"
+    cands = [r for r in sched if r["term"] == term and r["kind"] == tas_kind(a)
+             and r["reopen"] == bool(a["reopen"]) and abs((s2d(r["settle"]) - iss).days) <= 20]
+    if not cands:
+        return iss
+    return s2d(min(cands, key=lambda r: abs((s2d(r["settle"]) - iss).days))["settle"])
+
+
+def project(hist, ann, today, until, sched=None):
     """Auctions not yet announced, settling between today and `until`."""
     known = hist + ann
     by = {}
@@ -622,6 +704,18 @@ def project(hist, ann, today, until):
                     iss = s2d(a["auction"]) + timedelta(days=364)    # same weekday next year
                     for _ in range(2):
                         iss = next_bd(iss + timedelta(days=1))
+                elif a["tips"] and at_month_end:
+                    # TIPS settle on the last business day of the month, never the next
+                    # month (29 Jan 2027, not 1 Feb; 30 Oct 2026, not 2 Nov)
+                    m = d0 if d0.day > 3 else d0 - timedelta(days=d0.day)
+                    iss = prev_bd(month_end(m.year + 1, m.month))
+                elif a["frn"] and a["reopen"]:
+                    # FRN reopenings settle on the last Friday of the month (27 Nov 2026,
+                    # 25 Sep, 28 Aug), the next business day if that is a holiday
+                    m = d0 if d0.day > 3 else d0 - timedelta(days=d0.day)
+                    e = month_end(m.year + 1, m.month)
+                    iss = next_bd(e - timedelta(days=(e.weekday() - 4) % 7))
+                iss = snap_to_schedule(iss, a, k, sched)
                 if not (today < iss <= until) or iss <= s2d(lastx["issue"]):
                     continue
                 ref = size_re if a["reopen"] else size_new
@@ -706,7 +800,7 @@ def fix_flags(hist, ann):
     return ann
 
 
-def issuance(hist, ann, ms, soma, today, mspd_date=None):
+def issuance(hist, ann, ms, soma, today, mspd_date=None, soma_asof=None, sched=None):
     ann = fix_flags(hist, ann)
     start = today - timedelta(days=HISTORY_DAYS)
     until = today + timedelta(days=AHEAD_DAYS)
@@ -714,7 +808,7 @@ def issuance(hist, ann, ms, soma, today, mspd_date=None):
     hist = [a for a in hist if (a["cusip"], a["issue"]) not in announced_cusips]
     ann_future = [a for a in ann if a["issue"] and s2d(a["issue"]) >= today]
     hist_future = [a for a in hist if a["issue"] and s2d(a["issue"]) >= today]  # auctioned, not settled
-    proj = project(hist, ann, today, until)
+    proj = project(hist, ann, today, until, sched)
     days = {}
 
     def add(day, k, v):
@@ -751,6 +845,10 @@ def issuance(hist, ann, ms, soma, today, mspd_date=None):
                                           "soma_at_auction": 0.0})
             outst[a["cusip"]]["amt"] += amt
             outst[a["cusip"]]["soma_at_auction"] += a["soma"] or 0.0
+            # the Fed's add-on in a tranche settling after the SOMA report isn't in that
+            # report yet (the 4-week of 27 Oct 2026: $7.9bn, so 24 Nov read $8bn short)
+            if soma_asof and a["issue"] and a["issue"] > soma_asof:
+                outst[a["cusip"]]["soma_since"] = outst[a["cusip"]].get("soma_since", 0.0) + (a["soma"] or 0.0)
     for c, o in outst.items():
         d = s2d(o["maturity"])
         if not (start <= d <= until):
@@ -758,11 +856,16 @@ def issuance(hist, ann, ms, soma, today, mspd_date=None):
         # bills: every auction of the CUSIP (a 13-week reopens a 26-week). Coupons:
         # the month-end debt statement (net of buybacks) plus reopenings since
         amt = o["amt"]
+        uplift = 1.0
         if not o["bill"] and c in ms and ms[c]["out"] and mspd_date:
             amt = ms[c]["out"] + sum(a["accepted"] or 0 for a in hist
                                      if a["cusip"] == c and a["issue"] > mspd_date)
-        held = soma.get(c, o["soma_at_auction"]) if d >= today - timedelta(days=7) else o["soma_at_auction"]
-        add(d2s(next_bd(d)), "bills_mat" if o["bill"] else "cpn_mat", max(amt - held, 0.0))
+            # TIPS repay their inflation-adjusted principal, not par
+            if "inflation" in ms[c]["cls"].lower() and ms[c]["infl"] > 0:
+                uplift = 1 + ms[c]["infl"] / ms[c]["out"]
+        held = (soma[c] + o.get("soma_since", 0.0)) if (c in soma and d >= today - timedelta(days=7)) \
+            else o["soma_at_auction"]
+        add(d2s(next_bd(d)), "bills_mat" if o["bill"] else "cpn_mat", max(amt - held, 0.0) * uplift)
     # announced and projected issues add to what matures later; an announced
     # reopening's earlier tranches are already counted under its CUSIP above
     for a in proj + ann_future:
@@ -896,7 +999,13 @@ def main():
         except Exception as e:  # noqa: BLE001
             note(f"MSPD: {e}")
             ms_date, ms = None, {}
-        iss = issuance(hist, ann, ms, soma, today, ms_date)
+        try:
+            sched = tas_schedule(today)
+            print(f"repo: tentative schedule, {len(sched)} coupon auctions")
+        except Exception as e:  # noqa: BLE001
+            note(f"tentative schedule: {e}")
+            sched = []
+        iss = issuance(hist, ann, ms, soma, today, ms_date, soma_asof, sched)
         iss["soma_asof"], iss["mspd_asof"] = soma_asof, ms_date
     except Exception as e:  # noqa: BLE001
         note(f"issuance: {e}")
