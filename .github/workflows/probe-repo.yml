@@ -10,13 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
       - run: |
-          mkdir -p td
-          for q in "auctioned?format=json&days=21" "auctioned?format=json&type=CMB&days=60" "search?format=json&type=CMB&dateFieldName=issueDate&startDate=2026-09-01&endDate=2026-12-31" "upcoming?format=json"; do
-            f=td/$(echo "$q" | tr -c 'a-zA-Z0-9' '_').json
-            curl -sS -L -m 60 -A "Mozilla/5.0" -o "$f" -w "$q %{http_code} %{size_download}\n" "https://www.treasurydirect.gov/TA_WS/securities/$q" | tee -a td/_status.txt
+          pip install -q pypdf
+          mkdir -p tas
+          for q in Q32026 Q42026 Q12027; do
+            curl -sS -L -m 60 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -o tas/$q.pdf -w "$q %{http_code} %{size_download} %{content_type}\n" "https://home.treasury.gov/system/files/221/TentativeAuctionSchedule$q.pdf" | tee -a tas/_status.txt
+            python -c "import pypdf; r=pypdf.PdfReader('tas/$q.pdf'); open('tas/$q.txt','w').write('\n'.join(p.extract_text() for p in r.pages))" 2>>tas/_status.txt || true
           done
-          curl -sS -m 60 -o td/fd_cmb.json "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=issue_date:gte:2026-10-01&fields=cusip,security_type,security_term,auction_date,issue_date,maturity_date,offering_amt,total_accepted,cash_management_bill_cmb&page%5Bsize%5D=1000"
       - run: |
           git config user.name probe; git config user.email probe@users.noreply.github.com
-          git add -f td; git commit -qm "td dump [skip ci]"; git push origin HEAD:probe-repo
+          git add -f tas; git commit -qm "tas dump [skip ci]"; git push origin HEAD:probe-repo
