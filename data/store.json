@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-26T00:43:59Z",
+"bank": "ECB",
+"speaker": "",
+"hl": "ECB set to hold at 2.50% as Morgan Stanley sees December as natural moment for next hike",
+"url": "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "With a hold almost fully priced, the euro’s reaction will turn on whether Lagarde validates December hike expectations or keeps full optionality, and a noncommittal message could see some tightening priced out and weigh on the single currency. The Fed decision a day earlier sets the backdrop for EUR/USD, so a hawkish Fed followed by a cautious ECB would be the most euro-negative combination. Higher oil linked to the Middle East conflict remains the main upside risk to eurozone inflation and to hike pricing. French government bonds are exposed to any sign that the ECB sees the recent rise in yi",
+"id": "1077e251f850",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-25T22:54:43Z",
 "bank": "BoC",
 "speaker": "",
@@ -953,7 +973,8 @@
 "The Korea Times",
 "KWSN",
 "Macon Telegraph",
-"Y100 WNCY"
+"Y100 WNCY",
+"Zawya"
 ],
 "desc": "",
 "id": "a94b35f028bc",
@@ -1583,7 +1604,9 @@
 "src": "Moomoo",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com"
+],
 "desc": "",
 "id": "82d64ebebf3f",
 "score": null,
