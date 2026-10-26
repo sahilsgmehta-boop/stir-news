@@ -1,5 +1,5 @@
 {
- "built": "2026-10-26T04:57:49Z",
+ "built": "2026-10-26T06:55:38Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -59,19 +59,19 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Fed expected to hold rates steady this week despite hot inflation \u2014 but signal they're not done hiking",
     "Opinion: Here\u2019s the real signal to watch for the Fed\u2019s next move",
     "Gold Price Forecast: XAU/USD gains at start of Fed\u2019s policy week",
+    "Fed expected to hold rates steady this week despite hot inflation \u2014 but signal they're not done hiking",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Fed expected to hold rates steady days ahead of US midterms",
+    "Gold steadies after weekly drop as focus shifts to Fed meeting",
     "Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
-    "Is the Bank of Canada about to make a big mistake?",
+    "Fed expected to hold rates steady days ahead of US midterms",
     "Everyday Economics: The Fed can pause. Americans still won\u2019t get much relief",
     "Federal Reserve raises interest rates for the 1st time since 2023"
    ]
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 81,
-   "added": 4,
+   "kept": 79,
+   "added": 5,
    "error": "",
    "near_misses": [
     "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
     "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
     "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
+    "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
     "Fed policymakers lean against October rate hike",
     "Fighting inflation likely to be 'painful,' Chicago Fed president says",
     "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
     "Fed chairman Warsh stays quiet on interest rates",
     "A Top Fed Official Casts Further Doubt on a Rate Rise This Month",
-    "Waller breaks with Warsh on Fed forward guidance, hints at October rate hold",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Waller breaks with Warsh on Fed forward guidance, hints at October rate hold"
    ]
   },
   {
@@ -103,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 32,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "WEF could appoint Lagarde as next chair as early as November: Sources",
-    "ECB Rate Decision: What to Expect on Thursday",
+    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
     "France\u2019s debt woes in focus as ECB meets",
     "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
     "France's bond drama takes centre stage ahead of ECB rate decision",
+    "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
     "Five key factors shaping the ECB\u2019s rate decision",
-    "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
-    "Burning Man 2025 \ud83d\udd25 Cinematic Aftermovie & Highlights, Incl. Drone Footage (4k) Christine Lagarde (8nOOrlHPH1)"
+    "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted"
    ]
   },
   {
@@ -125,18 +125,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
+    "Euro-Zone Slowdown Will Help Keep ECB Rates on Hold for Now",
     "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control",
     "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019",
-    "ECB Rate Decision: What to Expect on Thursday",
     "France's bond drama takes centre stage ahead of ECB rate decision",
-    "Five key factors shaping the ECB\u2019s rate decision",
     "WEF could appoint Lagarde as next chair as early as November: Sources",
+    "Five key factors shaping the ECB\u2019s rate decision",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
     "ECB Official: Digital Euro Is Crucial For EU Financial Sovereignty",
     "ECB Official Flags Digital Euro Role In Safeguarding EU Sovereignty"
@@ -147,11 +147,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
     "Bank of England expert returns to Mansfield to inspire next generation"
    ]
   },
@@ -160,7 +161,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -191,6 +192,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
     "Will the Fed drop any hints on rate rises?",
     "ECB on course for another rate rise in 2026",
     "The hunt for Fed October",
@@ -244,7 +246,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": ""
   },
