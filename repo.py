@@ -50,7 +50,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 # estimates the same evening.
 RUN_SLOTS_IST = [(19, 0), (23, 45)]
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 6                 # bump when the output changes: forces a run straight away
+VERSION = 7                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -663,14 +663,19 @@ def issuance(hist, ann, ms, soma, today, mspd_date=None):
             r["status"] = "announced"
 
     # maturities: outstanding less SOMA, by CUSIP
+    # Treasury's results data lags by about a week: an auction that has settled can still
+    # have no accepted amount (the 6-week bill of 22 Oct 2026 went missing from 3 Dec's
+    # maturities that way, overstating that day by $95bn). Until the result arrives, the
+    # offered amount stands in - the same basis the issuance side already uses.
     outst = {}
     for a in hist:
-        if a["accepted"]:
+        amt = a["accepted"] or a.get("offer")
+        if amt:
             outst.setdefault(a["cusip"], {"amt": 0.0, "maturity": a["maturity"],
                                           "bill": a["type"].lower() in ("bill", "cmb"),
                                           "soma_at_auction": 0.0})
-            outst[a["cusip"]]["amt"] += a["accepted"]
-            outst[a["cusip"]]["soma_at_auction"] += a["soma"]
+            outst[a["cusip"]]["amt"] += amt
+            outst[a["cusip"]]["soma_at_auction"] += a["soma"] or 0.0
     for c, o in outst.items():
         d = s2d(o["maturity"])
         if not (start <= d <= until):
