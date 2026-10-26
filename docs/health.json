@@ -1,5 +1,5 @@
 {
- "built": "2026-10-25T21:53:24Z",
+ "built": "2026-10-26T00:07:11Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
-   "added": 0,
+   "kept": 5,
+   "added": 1,
    "error": ""
   },
   {
@@ -21,6 +21,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
+    "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists split",
     "Earnings macro week ahead: The Fed and Big Tech report on the same day"
    ]
   },
@@ -57,8 +59,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 2,
+   "fetched": 30,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,10 +69,10 @@
     "Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "Fed expected to hold rates steady days ahead of US midterms",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Is the Bank of Canada about to make a big mistake?",
-    "Fed expected to hold rates steady this week despite hot inflation \u2014 but signal they're not done hiking",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Everyday Economics: The Fed can pause. Americans still won\u2019t get much relief",
+    "Fed expected to hold rates steady this week despite hot inflation \u2014 but signal they're not done hiking",
     "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms"
    ]
   },
@@ -79,21 +81,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 12,
-   "added": 6,
+   "fetched": 100,
+   "kept": 80,
+   "added": 7,
    "error": "",
    "near_misses": [
-    "Federal Reserve holds interest rates steady as Trump\u2019s new chairman faces fresh inflation woes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-    "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
-    "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'",
-    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-    "Kevin Warsh sworn in as Fed chair as Trump seeks interest rate cuts",
-    "Kevin Warsh sworn in as Fed chair at pivotal moment for US economy | CNN Business",
-    "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed"
+    "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
+    "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
+    "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
+    "Fed policymakers lean against October rate hike",
+    "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
+    "Fighting inflation likely to be 'painful,' Chicago Fed president says",
+    "Fed chairman Warsh stays quiet on interest rates",
+    "A Top Fed Official Casts Further Doubt on a Rate Rise This Month",
+    "Waller breaks with Warsh on Fed forward guidance, hints at October rate hold",
+    "The Fed's long-term interest rate problem"
    ]
   },
   {
@@ -101,19 +103,18 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 28,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
-    "WEF could appoint Lagarde as next chair as early as November: Sources",
     "ECB Rate Decision: What to Expect on Thursday",
-    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
     "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
     "France's bond drama takes centre stage ahead of ECB rate decision",
     "Five key factors shaping the ECB\u2019s rate decision",
+    "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
     "Burning Man 2025 \ud83d\udd25 Cinematic Aftermovie & Highlights, Incl. Drone Footage (4k) Christine Lagarde (8nOOrlHPH1)"
    ]
@@ -123,17 +124,17 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
+    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
     "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control",
     "ECB Rate Decision: What to Expect on Thursday",
+    "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019",
     "France's bond drama takes centre stage ahead of ECB rate decision",
-    "WEF could appoint Lagarde as next chair as early as November: Sources",
     "Five key factors shaping the ECB\u2019s rate decision",
     "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
     "ECB Official: Digital Euro Is Crucial For EU Financial Sovereignty",
@@ -145,12 +146,11 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 24,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "5 G10 Central Banks Meet; Reserve Bank of New Zealand & Bank of Canada Most Likely To Hike",
     "Week ahead: Fed and ECB Decisions, US GDP and PCE Data",
     "Bank of England expert returns to Mansfield to inspire next generation"
    ]
@@ -160,13 +160,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "BoC expected to raise benchmark rate for first time in three years as oil shock persists",
-    "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
     "Is the Bank of Canada about to make a big mistake?"
    ]

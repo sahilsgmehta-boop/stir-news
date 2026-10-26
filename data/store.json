@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-25T22:54:43Z",
+"bank": "BoC",
+"speaker": "",
+"hl": "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists split",
+"url": "https://investinglive.com/central-banks/bank-of-canada-preview-81-chance-of-first-hike-in-a-year-to-2-50-economists-split/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "With a hike close to fully priced, the Canadian dollar’s reaction will likely turn on the Monetary Policy Report and forward guidance rather than the decision itself. A hold would be a sizeable surprise, likely sending the loonie sharply lower and pulling short-dated Canadian yields down. A hike signalling further tightening would support the currency and push the front end higher, while a “one and watch” message could see pricing for a follow-up move by March trimmed. Oil is the external wildcard: higher crude both lifts Canadian headline inflation and supports the commodity-linked loonie, so",
+"id": "d3ae474fad62",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-25T15:00:00Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -1575,6 +1595,26 @@
 "basis": ""
 },
 {
+"t": "2026-10-14T10:59:42Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed’s Bowman Says Inflation Above Goal, But No Urgency to Act",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQy1vLWxVdHppOC1HaVlmSWtXY0cyNG1FNExuOGRyUjVKU2lOWFl3TlllSEJmOHBxUXoxR0ZrVmpzZ1paTjJzUDBzWFhDSFZMNnNkbmZjSTdXbXUwMXFaOXp1bGFKdEdKS0QxeUZORW03T0ZyamVadkNqOFVocWZ3S1ZjYl9uR094S3Z0SGNTcnlnZmVPSVBwaW5TWThNQlVxTVNCS1ViYjdkcnh4WVU1TjhB?oc=5",
+"src": "WSJ",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b47e6fefa038",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-14T07:00:00Z",
 "bank": "Fed",
 "speaker": "Goolsbee",
@@ -1925,6 +1965,26 @@
 "basis": ""
 },
 {
+"t": "2026-10-13T07:00:00Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Exclusive / AI is an inflation problem, Fed’s Goolsbee says",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTRLUUx1WW5BQnFpMV91b3ExVk1fZGtUMlFHQUhEc1Robm93eXZMLVo2dGV3R0JJNDdNcnRzR1NfWlUtd3pTMHRJUlpNcUwxckNpdGd2Z25Ga2k3RXdzMS1JT1lfQXdybmhTLUFpX2lLYURuMTZoNEpRSUhwZXNpbVNhUGxIWG1OZ0M2ZURWUVlSdw?oc=5",
+"src": "Semafor",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c18390c656be",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-13T03:41:39Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -2036,6 +2096,26 @@
 "also": [],
 "desc": "",
 "id": "cd3ca98f61b4",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-10-12T07:00:00Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRWdUXzU4TE1qSExlakQ2Nk9qM0ljX2tRaXg2d3ZhdG56Vmc4TTJqdGMyQmE2aFNQT3l1eHRlb0tWdWgtbWJOXzk2OXJoUlVfU05TaU5TRy1QOXlVQlNpcjAtdkFPRFFiajBIOU9DY3ZEcWUwMDJWdWx30gF_QVVfeXFMT0RHU1ZWNllmUG93MHhmemF0dzQ3VHRvX2JYcGV4RmxrMHNvRnotcEZZanBJYTdjemxLS1pnNDRLZEloYXpqeEp6ZHQ0X01ZQkN1a0JtWEpXdjNqUVdsZWE2X2M2Q1dwQjFsMk8wQUw1UzllTmJmNFZHcHFzQ01rVQ?oc=5",
+"src": "CNBC",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4ef1d7b7362c",
 "score": null,
 "read": "",
 "sum": "",
@@ -2500,7 +2580,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"American Banker"
+"American Banker",
+"Reuters"
 ],
 "desc": "",
 "id": "040f23e86ee5",
