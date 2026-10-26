@@ -1,5 +1,5 @@
 {
- "built": "2026-10-26T11:50:12Z",
+ "built": "2026-10-26T12:12:52Z",
  "sources": [
   {
    "id": "il_cb",
@@ -23,8 +23,7 @@
    "near_misses": [
     "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
     "What is the FOMC blackout period and why do central banks have one",
-    "Gold could rebound in the near-term as growth and US strikes fears subside; eyes on the FOMC next",
-    "ECB set to hold at 2.50% as Morgan Stanley sees December as natural moment for next hike"
+    "Gold could rebound in the near-term as growth and US strikes fears subside; eyes on the FOMC next"
    ]
   },
   {
@@ -60,21 +59,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 29,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
-    "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
     "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
+    "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
+    "Fed's 'tailoring' initiative may be easier said than done",
     "Fed to hit pause on rate hikes, but maybe not for long",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
     "Silver Price Forecast: XAG/USD looks vulnerable near $54, Fed\u2019s policy in focus",
     "The 19 People in the Room When the Fed Sets Interest Rates",
     "Opinion: Here\u2019s the real signal to watch for the Fed\u2019s next move",
-    "Monday morning, the JCI turned weak to 5,420.98 ahead of the Fed's decision",
-    "Gold, Silver Price Forecast: Will Fed\u2019s October 27-28 Meeting Trigger A Rebound? What To Expect This Week"
+    "Monday morning, the JCI turned weak to 5,420.98 ahead of the Fed's decision"
    ]
   },
   {
@@ -84,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 79,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed's 'tailoring' initiative may be easier said than done",
@@ -104,21 +103,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Market Minute: ECB to hold rates in October, with hikes to come",
+    "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "GRAPHIC-Ready for a French test?: Five questions for the ECB",
     "WEF could appoint Lagarde as next chair as early as November: Sources",
     "France\u2019s debt woes in focus as ECB meets",
     "Alain Lagarde - Say Who - le m\u00e9dia des communaut\u00e9s influentes de notre \u00e9poque",
-    "Burning Man 2025 \ud83d\udd25 Cinematic Aftermovie & Highlights, Incl. Drone Footage (4k) Christine Lagarde (8nOOrlHPH1)",
-    "ECB Rate Decision: What to Expect on Thursday",
-    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame"
+    "Market Minute: ECB to hold rates in October, with hikes to come",
+    "Burning Man 2025 \ud83d\udd25 Cinematic Aftermovie & Highlights, Incl. Drone Footage (4k) Christine Lagarde (8nOOrlHPH1)"
    ]
   },
   {
@@ -126,15 +123,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "ECB targets 2029 digital euro launch as legislation advances",
-    "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
     "Euro-Zone Slowdown Will Help Keep ECB Rates on Hold for Now",
+    "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
     "ECB outlines digital euro ahead of 2029 launch",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
     "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control",
@@ -170,8 +167,8 @@
    "near_misses": [
     "Why economists think the Bank of Canada may hike rates on Wednesday",
     "The Bank of Canada's inflation dilemma",
-    "Bank of Canada now expected to hike key rate as it faces \u2018pivotal decision\u2019",
     "Bank of Canada expected to hike rate on Wednesday to stem spillover of energy inflation",
+    "Bank of Canada now expected to hike key rate as it faces 'pivotal decision'",
     "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists split",
     "BoC expected to raise benchmark rate for first time in three years as oil shock persists",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo"
