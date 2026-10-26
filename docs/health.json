@@ -1,5 +1,5 @@
 {
- "built": "2026-10-26T17:07:26Z",
+ "built": "2026-10-26T17:16:50Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,21 +83,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
-   "kept": 12,
-   "added": 6,
+   "fetched": 100,
+   "kept": 77,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed's 'tailoring' initiative may be easier said than done",
     "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them",
     "Fed to hit pause on rate hikes, but maybe not for long",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "The Fed - Live Video",
-    "Federal Reserve holds interest rates steady as Trump\u2019s new chairman faces fresh inflation woes",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'",
-    "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-    "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman"
+    "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
+    "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
+    "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
+    "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
+    "Fighting inflation likely to be 'painful,' Chicago Fed president says",
+    "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
+    "Fed chairman Warsh stays quiet on interest rates"
    ]
   },
   {
@@ -105,13 +105,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 36,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "Market Minute: ECB to hold rates in October, with hikes to come",
+    "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "ECB Rate Decision: What to Expect on Thursday",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
@@ -140,8 +140,8 @@
     "ECB targets 2029 digital euro launch as legislation advances",
     "GRAPHIC-Ready for a French test?: Five questions for the ECB",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
-    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
-    "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control"
+    "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control",
+    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame"
    ]
   },
   {
@@ -155,8 +155,8 @@
    "error": "",
    "near_misses": [
     "Why Bank of England Hawks Are Gaining Ground as Inflation Heads Above 4%",
-    "How many times will the BoE increase interest rates?",
     "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
+    "How many times will the BoE increase interest rates?",
     "Bank of England flags insurance gaps as a systemic economic concern",
     "Ready for a French test?: Five questions for the ECB"
    ]
