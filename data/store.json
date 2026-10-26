@@ -2442,7 +2442,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters"
+],
 "desc": "",
 "id": "bb4ac22e5330",
 "score": null,

@@ -1,5 +1,5 @@
 {
- "built": "2026-10-26T17:16:50Z",
+ "built": "2026-10-26T21:39:59Z",
  "sources": [
   {
    "id": "il_cb",
@@ -22,10 +22,7 @@
    "error": "",
    "near_misses": [
     "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
-    "Morning Kickstart: Dollar higher as Fed, earnings and data flood loom",
-    "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
-    "What is the FOMC blackout period and why do central banks have one",
-    "Gold could rebound in the near-term as growth and US strikes fears subside; eyes on the FOMC next"
+    "Morning Kickstart: Dollar higher as Fed, earnings and data flood loom"
    ]
   },
   {
@@ -61,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 32,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Fed\u2019s Debit Card Swipe Fee Rule Quashed By Appeals Court",
     "Finance expert weighs in on Fed\u2019s dilemma days before midterm elections | Newswise",
+    "A top economist says bond investors are doing the Fed's job, and more rate hikes aren't needed",
+    "Fed to hit pause on rate hikes, but maybe not for long",
     "Fed's 'tailoring' initiative may be easier said than done; Why Affirm is incorporating transformer tech into its underwriting\u2014more in Bankers' Hours",
     "Fed's 'tailoring' initiative may be easier said than done",
     "Fed\u2019s Long-Standing Debit Swipe Fee Rule Tossed by Appeals Court",
-    "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
-    "Fed to hit pause on rate hikes, but maybe not for long",
-    "S&P 500 Dips As Investors Focus On Fed's Next Moves",
     "The 19 People in the Room When the Fed Sets Interest Rates",
-    "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
-    "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade"
+    "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
+    "S&P 500 Dips As Investors Focus On Fed's Next Moves"
    ]
   },
   {
@@ -84,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 77,
-   "added": 4,
+   "kept": 73,
+   "added": 3,
    "error": "",
    "near_misses": [
+    "Watch Markets Have 'Misunderstanding' of Warsh Fed, Says Axel Merk",
     "Fed's 'tailoring' initiative may be easier said than done",
     "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them",
     "Fed to hit pause on rate hikes, but maybe not for long",
+    "\u2018Nonanswers\u2019 aren\u2019t working. This is what investors really need from the Fed.",
+    "Bets on Fed rate hold in October strengthen after Warsh comments",
     "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
     "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
     "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
-    "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
-    "Fighting inflation likely to be 'painful,' Chicago Fed president says",
-    "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
-    "Fed chairman Warsh stays quiet on interest rates"
+    "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds"
    ]
   },
   {
@@ -116,10 +113,10 @@
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "WEF could appoint Lagarde as next chair as early as November: Sources",
+    "France\u2019s debt woes in focus as ECB meets",
     "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
     "ECB set to hold rates as eurozone slows down despite Irish lift",
-    "ECB Calls Digital Euro a Tool for Europe\u2019s Payment Sovereignty",
-    "France\u2019s debt woes in focus as ECB meets"
+    "Fujairah CP reviews ECB\u2019s role and mandate"
    ]
   },
   {
@@ -127,7 +124,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -137,10 +134,10 @@
     "Euro-Zone Slowdown Will Help Keep ECB Rates on Hold for Now",
     "ECB outlines digital euro ahead of 2029 launch",
     "ECB Calls Digital Euro a Tool for Europe\u2019s Payment Sovereignty",
+    "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
     "ECB targets 2029 digital euro launch as legislation advances",
     "GRAPHIC-Ready for a French test?: Five questions for the ECB",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
-    "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control",
     "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame"
    ]
   },
@@ -149,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 27,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -166,21 +163,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Why economists think the Bank of Canada may hike rates on Wednesday",
-    "Bank of Canada expected to hike rate on Wednesday to stem spillover of energy inflation",
     "Bank of Canada May Hike Rates This Week Amid Energy Inflation from Iran war",
-    "Bank of Canada Poised for 25 Basis Point Rate Hike to Curb Energy-Driven Inflation - News and Statistics",
-    "Bank of Canada: October hold despite market pricing \u2013 TD Securities",
-    "The Bank of Canada's inflation dilemma",
     "Bank of Canada now expected to hike key rate as it faces \u2018pivotal decision\u2019",
-    "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists split",
-    "Bank of Canada rate hike expectations surge amid rising energy prices",
-    "BoC expected to raise benchmark rate for first time in three years as oil shock persists"
+    "Bank of Canada Poised for 25 Basis Point Rate Hike to Curb Energy-Driven Inflation - News and Statistics",
+    "The Bank of Canada's inflation dilemma",
+    "Bank of Canada: October hold despite market pricing \u2013 TD Securities",
+    "Bank of Canada now expected to hike key rate as it faces \u2018pivotal decision\u2019",
+    "Bank of Canada expected to hike rate on Wednesday to stem spillover of energy inflation",
+    "The Bank of Canada Sounds Ready to Hike",
+    "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists split"
    ]
   },
   {
