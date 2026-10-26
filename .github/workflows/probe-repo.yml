@@ -10,9 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: {python-version: "3.12"}
-      - run: python repo.py --dump dump --force
+      - run: |
+          mkdir -p td
+          for q in "auctioned?format=json&days=21" "auctioned?format=json&type=CMB&days=60" "search?format=json&type=CMB&dateFieldName=issueDate&startDate=2026-09-01&endDate=2026-12-31" "upcoming?format=json"; do
+            f=td/$(echo "$q" | tr -c 'a-zA-Z0-9' '_').json
+            curl -sS -L -m 60 -A "Mozilla/5.0" -o "$f" -w "$q %{http_code} %{size_download}\n" "https://www.treasurydirect.gov/TA_WS/securities/$q" | tee -a td/_status.txt
+          done
+          curl -sS -m 60 -o td/fd_cmb.json "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=issue_date:gte:2026-10-01&fields=cusip,security_type,security_term,auction_date,issue_date,maturity_date,offering_amt,total_accepted,cash_management_bill_cmb&page%5Bsize%5D=1000"
       - run: |
           git config user.name probe; git config user.email probe@users.noreply.github.com
-          git add -f dump; git commit -qm "repo dump [skip ci]"; git push origin HEAD:probe-repo
+          git add -f td; git commit -qm "td dump [skip ci]"; git push origin HEAD:probe-repo
