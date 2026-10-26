@@ -1,0 +1,18 @@
+name: probe-repo
+on:
+  push:
+    branches: [probe-repo]
+    paths: [.github/workflows/probe-repo.yml]
+permissions:
+  contents: write
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python repo.py --dump dump --force
+      - run: |
+          git config user.name probe; git config user.email probe@users.noreply.github.com
+          git add -f dump; git commit -qm "repo dump [skip ci]"; git push origin HEAD:probe-repo
