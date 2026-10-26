@@ -71,7 +71,8 @@ MAX_FAILS = 4           # consecutive network failures before giving up this run
 # UTC hours - just after CME's preliminary (~05:20) and final (~15:20) releases,
 # plus a few catch-ups - rather than every 30 minutes. Keyed to the clock so
 # nothing has to be remembered between runs.
-RECHECK_UTC_HOURS = (5, 6, 8, 11, 15, 16, 18, 21)
+RECHECK_UTC_HOURS = (5, 6, 8, 11, 15, 16, 18, 21)   # no longer used (see REASK_MINUTES)
+REASK_MINUTES = 90      # a recent day still missing or preliminary is asked again after this
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
@@ -209,8 +210,13 @@ def main():
     days = store.setdefault("days", {})       # iso -> pid -> {"s": status, "rows": [...]}
     empty = store.setdefault("empty", {})     # "iso|pid" -> True (holiday / not published)
     store.pop("asked", None)
+    # when each recent day/product still missing or preliminary was last asked. GitHub
+    # starts the scheduled job only every 2-6 hours, so the old rule (re-ask only in the
+    # first half hour of set UTC hours) almost never fired: 23 Oct 2026 was asked once
+    # before CME published it and never again. Now: re-ask once REASK_MINUTES have passed.
+    tried = store.setdefault("tried", {})
     clock = dt.datetime.now(dt.timezone.utc)
-    recheck = clock.hour in RECHECK_UTC_HOURS and clock.minute < 30
+    now_s = clock.timestamp()
 
     today = dt.datetime.now(dt.timezone.utc).date()
     net = Net()
@@ -228,9 +234,10 @@ def main():
                     continue
                 if not have and key in empty and not recent:
                     continue
-                # a recent day already asked about is re-asked only at set hours
-                if (have or key in empty) and not recheck:
+                # a recent day already asked about is re-asked after a pause
+                if (have or key in empty) and now_s - tried.get(key, 0) < REASK_MINUTES * 60:
                     continue
+                tried[key] = now_s
                 # holding a preliminary figure: only the final one is worth asking for
                 rows, status = fetch_voi(net, pid, day, ("F",) if have else ("F", "P"))
                 if rows is None:
@@ -259,6 +266,9 @@ def main():
         del days[iso]
     for k in [k for k in empty if k[:10] < cutoff]:
         del empty[k]
+    for k in [k for k in tried if k[:10] < cutoff or (k[:10] in days and k[11:] in days[k[:10]]
+                                                       and days[k[:10]][k[11:]]["s"] == "F")]:
+        del tried[k]
 
 
     health = {"requests": net.used, "fetched": fetched, "refreshed": refreshed,
@@ -273,8 +283,13 @@ def main():
     except (OSError, ValueError):
         pass
     if before is not None and before.get("days") == days and os.path.exists(OUT):
-        # nothing new; keep the file (and the repo) unchanged
+        # nothing new; keep the output unchanged (only the record of what was asked moves)
         if before.get("health", {}).get("errors") == health["errors"]:
+            if before.get("tried") != tried:
+                before["tried"] = tried
+                before["empty"] = empty
+                with open(STORE, "w", encoding="utf-8") as f:
+                    json.dump(before, f, separators=(",", ":"), sort_keys=True)
             print("oi: no change")
             return
 
