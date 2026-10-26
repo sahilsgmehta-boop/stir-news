@@ -1,0 +1,4 @@
+auctioned?format=json&days=21 200 164865
+auctioned?format=json&type=CMB&days=60 200 6863
+search?format=json&type=CMB&dateFieldName=issueDate&startDate=2026-09-01&endDate=2026-12-31 200 6863
+upcoming?format=json 200 89994
