@@ -1,0 +1,232 @@
+Tentative Auction Schedule of U.S. Treasury Securities
+Security Type Announcement Date Auction Date Settlement Date
+3-Year  NOTE Wednesday, August 05, 2026 Tuesday, August 11, 2026 Monday, August 17, 2026
+10-Year  NOTE Wednesday, August 05, 2026 Wednesday, August 12, 2026 Monday, August 17, 2026
+30-Year  BOND Wednesday, August 05, 2026 Thursday, August 13, 2026 Monday, August 17, 2026
+13-Week  BILL Thursday, August 06, 2026 Monday, August 10, 2026 Thursday, August 13, 2026
+26-Week  BILL Thursday, August 06, 2026 Monday, August 10, 2026 Thursday, August 13, 2026
+6-Week  BILL Thursday, August 06, 2026 Tuesday, August 11, 2026 Thursday, August 13, 2026
+17-Week  BILL Tuesday, August 11, 2026 Wednesday, August 12, 2026 Tuesday, August 18, 2026
+4-Week  BILL Tuesday, August 11, 2026 Thursday, August 13, 2026 Tuesday, August 18, 2026
+8-Week  BILL Tuesday, August 11, 2026 Thursday, August 13, 2026 Tuesday, August 18, 2026
+13-Week  BILL Thursday, August 13, 2026 Monday, August 17, 2026 Thursday, August 20, 2026
+26-Week  BILL Thursday, August 13, 2026 Monday, August 17, 2026 Thursday, August 20, 2026
+6-Week  BILL Thursday, August 13, 2026 Tuesday, August 18, 2026 Thursday, August 20, 2026
+20-Year  BOND Thursday, August 13, 2026 Wednesday, August 19, 2026 Monday, August 31, 2026
+30-Year  TIPS R T Thursday, August 13, 2026 Thursday, August 20, 2026 Monday, August 31, 2026
+17-Week  BILL Tuesday, August 18, 2026 Wednesday, August 19, 2026 Tuesday, August 25, 2026
+4-Week  BILL Tuesday, August 18, 2026 Thursday, August 20, 2026 Tuesday, August 25, 2026
+8-Week  BILL Tuesday, August 18, 2026 Thursday, August 20, 2026 Tuesday, August 25, 2026
+13-Week  BILL Thursday, August 20, 2026 Monday, August 24, 2026 Thursday, August 27, 2026
+26-Week  BILL Thursday, August 20, 2026 Monday, August 24, 2026 Thursday, August 27, 2026
+6-Week  BILL Thursday, August 20, 2026 Tuesday, August 25, 2026 Thursday, August 27, 2026
+2-Year  FRN R Thursday, August 20, 2026 Wednesday, August 26, 2026 Friday, August 28, 2026
+2-Year  NOTE Thursday, August 20, 2026 Tuesday, August 25, 2026 Monday, August 31, 2026
+5-Year  NOTE Thursday, August 20, 2026 Wednesday, August 26, 2026 Monday, August 31, 2026
+7-Year  NOTE Thursday, August 20, 2026 Thursday, August 27, 2026 Monday, August 31, 2026
+17-Week  BILL Tuesday, August 25, 2026 Wednesday, August 26, 2026 Tuesday, September 01, 2026
+4-Week  BILL Tuesday, August 25, 2026 Thursday, August 27, 2026 Tuesday, September 01, 2026
+8-Week  BILL Tuesday, August 25, 2026 Thursday, August 27, 2026 Tuesday, September 01, 2026
+13-Week  BILL Thursday, August 27, 2026 Monday, August 31, 2026 Thursday, September 03, 2026
+26-Week  BILL Thursday, August 27, 2026 Monday, August 31, 2026 Thursday, September 03, 2026
+6-Week  BILL Thursday, August 27, 2026 Tuesday, September 01, 2026 Thursday, September 03, 2026
+52-Week  BILL Thursday, August 27, 2026 Tuesday, September 01, 2026 Thursday, September 03, 2026
+17-Week  BILL Tuesday, September 01, 2026 Wednesday, September 02, 2026 Tuesday, September 08, 2026
+4-Week  BILL Tuesday, September 01, 2026 Thursday, September 03, 2026 Tuesday, September 08, 2026
+8-Week  BILL Tuesday, September 01, 2026 Thursday, September 03, 2026 Tuesday, September 08, 2026
+6-Week  BILL Thursday, September 03, 2026 Tuesday, September 08, 2026 Thursday, September 10, 2026
+13-Week  BILL Thursday, September 03, 2026 Tuesday, September 08, 2026 Thursday, September 10, 2026
+26-Week  BILL Thursday, September 03, 2026 Tuesday, September 08, 2026 Thursday, September 10, 2026
+3-Year  NOTE Thursday, September 03, 2026 Tuesday, September 08, 2026 Tuesday, September 15, 2026
+10-Year  NOTE R Thursday, September 03, 2026 Wednesday, September 09, 2026 Tuesday, September 15, 2026
+30-Year  BOND R Thursday, September 03, 2026 Thursday, September 10, 2026 Tuesday, September 15, 2026
+Holiday - Monday, September 07, 2026 - Labor Day
+17-Week  BILL Tuesday, September 08, 2026 Wednesday, September 09, 2026 Tuesday, September 15, 2026
+4-Week  BILL Tuesday, September 08, 2026 Thursday, September 10, 2026 Tuesday, September 15, 2026
+8-Week  BILL Tuesday, September 08, 2026 Thursday, September 10, 2026 Tuesday, September 15, 2026
+13-Week  BILL Thursday, September 10, 2026 Monday, September 14, 2026 Thursday, September 17, 2026
+26-Week  BILL Thursday, September 10, 2026 Monday, September 14, 2026 Thursday, September 17, 2026
+6-Week  BILL Thursday, September 10, 2026 Tuesday, September 15, 2026 Thursday, September 17, 2026
+20-Year  BOND R Thursday, September 10, 2026 Tuesday, September 15, 2026 Friday, September 18, 2026
+10-Year  TIPS R T Thursday, September 10, 2026 Thursday, September 17, 2026 Wednesday, September 30, 2026
+17-Week  BILL Tuesday, September 15, 2026 Wednesday, September 16, 2026 Tuesday, September 22, 2026
+4-Week  BILL Tuesday, September 15, 2026 Thursday, September 17, 2026 Tuesday, September 22, 2026
+8-Week  BILL Tuesday, September 15, 2026 Thursday, September 17, 2026 Tuesday, September 22, 2026
+13-Week  BILL Thursday, September 17, 2026 Monday, September 21, 2026 Thursday, September 24, 2026
+26-Week  BILL Thursday, September 17, 2026 Monday, September 21, 2026 Thursday, September 24, 2026
+6-Week  BILL Thursday, September 17, 2026 Tuesday, September 22, 2026 Thursday, September 24, 2026
+2-Year  FRN R Thursday, September 17, 2026 Wednesday, September 23, 2026 Friday, September 25, 2026
+2-Year  NOTE Thursday, September 17, 2026 Tuesday, September 22, 2026 Wednesday, September 30, 2026
+5-Year  NOTE Thursday, September 17, 2026 Wednesday, September 23, 2026 Wednesday, September 30, 2026
+7-Year  NOTE Thursday, September 17, 2026 Thursday, September 24, 2026 Wednesday, September 30, 2026
+17-Week  BILL Tuesday, September 22, 2026 Wednesday, September 23, 2026 Tuesday, September 29, 2026
+4-Week  BILL Tuesday, September 22, 2026 Thursday, September 24, 2026 Tuesday, September 29, 2026
+8-Week  BILL Tuesday, September 22, 2026 Thursday, September 24, 2026 Tuesday, September 29, 2026
+13-Week  BILL Thursday, September 24, 2026 Monday, September 28, 2026 Thursday, October 01, 2026
+26-Week  BILL Thursday, September 24, 2026 Monday, September 28, 2026 Thursday, October 01, 2026
+6-Week  BILL Thursday, September 24, 2026 Tuesday, September 29, 2026 Thursday, October 01, 2026
+52-Week  BILL Thursday, September 24, 2026 Tuesday, September 29, 2026 Thursday, October 01, 2026
+17-Week  BILL Tuesday, September 29, 2026 Wednesday, September 30, 2026 Tuesday, October 06, 2026
+4-Week  BILL Tuesday, September 29, 2026 Thursday, October 01, 2026 Tuesday, October 06, 2026
+8-Week  BILL Tuesday, September 29, 2026 Thursday, October 01, 2026 Tuesday, October 06, 2026
+13-Week  BILL Thursday, October 01, 2026 Monday, October 05, 2026 Thursday, October 08, 2026
+26-Week  BILL Thursday, October 01, 2026 Monday, October 05, 2026 Thursday, October 08, 2026
+6-Week  BILL Thursday, October 01, 2026 Tuesday, October 06, 2026 Thursday, October 08, 2026
+3-Year  NOTE Thursday, October 01, 2026 Tuesday, October 06, 2026 Thursday, October 15, 2026
+10-Year  NOTE R Thursday, October 01, 2026 Wednesday, October 07, 2026 Thursday, October 15, 2026
+Tentative Auction Schedule of U.S. Treasury Securities
+Security Type Announcement Date Auction Date Settlement Date
+30-Year  BOND R Thursday, October 01, 2026 Thursday, October 08, 2026 Thursday, October 15, 2026
+17-Week  BILL Tuesday, October 06, 2026 Wednesday, October 07, 2026 Tuesday, October 13, 2026
+4-Week  BILL Tuesday, October 06, 2026 Thursday, October 08, 2026 Tuesday, October 13, 2026
+8-Week  BILL Tuesday, October 06, 2026 Thursday, October 08, 2026 Tuesday, October 13, 2026
+6-Week  BILL Thursday, October 08, 2026 Tuesday, October 13, 2026 Thursday, October 15, 2026
+13-Week  BILL Thursday, October 08, 2026 Tuesday, October 13, 2026 Thursday, October 15, 2026
+26-Week  BILL Thursday, October 08, 2026 Tuesday, October 13, 2026 Thursday, October 15, 2026
+Holiday - Monday, October 12, 2026 - Columbus Day
+17-Week  BILL Tuesday, October 13, 2026 Wednesday, October 14, 2026 Tuesday, October 20, 2026
+4-Week  BILL Tuesday, October 13, 2026 Thursday, October 15, 2026 Tuesday, October 20, 2026
+8-Week  BILL Tuesday, October 13, 2026 Thursday, October 15, 2026 Tuesday, October 20, 2026
+13-Week  BILL Thursday, October 15, 2026 Monday, October 19, 2026 Thursday, October 22, 2026
+26-Week  BILL Thursday, October 15, 2026 Monday, October 19, 2026 Thursday, October 22, 2026
+6-Week  BILL Thursday, October 15, 2026 Tuesday, October 20, 2026 Thursday, October 22, 2026
+20-Year  BOND R Thursday, October 15, 2026 Wednesday, October 21, 2026 Friday, October 23, 2026
+5-Year  TIPS T Thursday, October 15, 2026 Thursday, October 22, 2026 Friday, October 30, 2026
+17-Week  BILL Tuesday, October 20, 2026 Wednesday, October 21, 2026 Tuesday, October 27, 2026
+4-Week  BILL Tuesday, October 20, 2026 Thursday, October 22, 2026 Tuesday, October 27, 2026
+8-Week  BILL Tuesday, October 20, 2026 Thursday, October 22, 2026 Tuesday, October 27, 2026
+13-Week  BILL Thursday, October 22, 2026 Monday, October 26, 2026 Thursday, October 29, 2026
+26-Week  BILL Thursday, October 22, 2026 Monday, October 26, 2026 Thursday, October 29, 2026
+6-Week  BILL Thursday, October 22, 2026 Tuesday, October 27, 2026 Thursday, October 29, 2026
+52-Week  BILL Thursday, October 22, 2026 Tuesday, October 27, 2026 Thursday, October 29, 2026
+2-Year  NOTE Thursday, October 22, 2026 Monday, October 26, 2026 Monday, November 02, 2026
+5-Year  NOTE Thursday, October 22, 2026 Tuesday, October 27, 2026 Monday, November 02, 2026
+2-Year  FRN Thursday, October 22, 2026 Wednesday, October 28, 2026 Monday, November 02, 2026
+7-Year  NOTE Thursday, October 22, 2026 Thursday, October 29, 2026 Monday, November 02, 2026
+17-Week  BILL Tuesday, October 27, 2026 Wednesday, October 28, 2026 Tuesday, November 03, 2026
+4-Week  BILL Tuesday, October 27, 2026 Thursday, October 29, 2026 Tuesday, November 03, 2026
+8-Week  BILL Tuesday, October 27, 2026 Thursday, October 29, 2026 Tuesday, November 03, 2026
+13-Week  BILL Thursday, October 29, 2026 Monday, November 02, 2026 Thursday, November 05, 2026
+26-Week  BILL Thursday, October 29, 2026 Monday, November 02, 2026 Thursday, November 05, 2026
+6-Week  BILL Thursday, October 29, 2026 Tuesday, November 03, 2026 Thursday, November 05, 2026
+17-Week  BILL Tuesday, November 03, 2026 Wednesday, November 04, 2026 Tuesday, November 10, 2026
+4-Week  BILL Tuesday, November 03, 2026 Thursday, November 05, 2026 Tuesday, November 10, 2026
+8-Week  BILL Tuesday, November 03, 2026 Thursday, November 05, 2026 Tuesday, November 10, 2026
+3-Year  NOTE Wednesday, November 04, 2026 Monday, November 09, 2026 Monday, November 16, 2026
+10-Year  NOTE Wednesday, November 04, 2026 Tuesday, November 10, 2026 Monday, November 16, 2026
+30-Year  BOND Wednesday, November 04, 2026 Thursday, November 12, 2026 Monday, November 16, 2026
+6-Week  BILL Thursday, November 05, 2026 Monday, November 09, 2026 Thursday, November 12, 2026
+13-Week  BILL Thursday, November 05, 2026 Monday, November 09, 2026 Thursday, November 12, 2026
+26-Week  BILL Thursday, November 05, 2026 Monday, November 09, 2026 Thursday, November 12, 2026
+4-Week  BILL Tuesday, November 10, 2026 Thursday, November 12, 2026 Tuesday, November 17, 2026
+8-Week  BILL Tuesday, November 10, 2026 Thursday, November 12, 2026 Tuesday, November 17, 2026
+17-Week  BILL Tuesday, November 10, 2026 Thursday, November 12, 2026 Tuesday, November 17, 2026
+Holiday - Wednesday, November 11, 2026 - Veterans Day
+13-Week  BILL Thursday, November 12, 2026 Monday, November 16, 2026 Thursday, November 19, 2026
+26-Week  BILL Thursday, November 12, 2026 Monday, November 16, 2026 Thursday, November 19, 2026
+6-Week  BILL Thursday, November 12, 2026 Tuesday, November 17, 2026 Thursday, November 19, 2026
+20-Year  BOND Thursday, November 12, 2026 Wednesday, November 18, 2026 Monday, November 30, 2026
+10-Year  TIPS R T Thursday, November 12, 2026 Thursday, November 19, 2026 Monday, November 30, 2026
+17-Week  BILL Tuesday, November 17, 2026 Wednesday, November 18, 2026 Tuesday, November 24, 2026
+4-Week  BILL Tuesday, November 17, 2026 Thursday, November 19, 2026 Tuesday, November 24, 2026
+8-Week  BILL Tuesday, November 17, 2026 Thursday, November 19, 2026 Tuesday, November 24, 2026
+13-Week  BILL Thursday, November 19, 2026 Monday, November 23, 2026 Friday, November 27, 2026
+26-Week  BILL Thursday, November 19, 2026 Monday, November 23, 2026 Friday, November 27, 2026
+6-Week  BILL Thursday, November 19, 2026 Tuesday, November 24, 2026 Friday, November 27, 2026
+52-Week  BILL Thursday, November 19, 2026 Tuesday, November 24, 2026 Friday, November 27, 2026
+2-Year  FRN R Thursday, November 19, 2026 Tuesday, November 24, 2026 Friday, November 27, 2026
+2-Year  NOTE Thursday, November 19, 2026 Monday, November 23, 2026 Monday, November 30, 2026
+5-Year  NOTE Thursday, November 19, 2026 Tuesday, November 24, 2026 Monday, November 30, 2026
+7-Year  NOTE Thursday, November 19, 2026 Wednesday, November 25, 2026 Monday, November 30, 2026
+4-Week  BILL Tuesday, November 24, 2026 Wednesday, November 25, 2026 Tuesday, December 01, 2026
+8-Week  BILL Tuesday, November 24, 2026 Wednesday, November 25, 2026 Tuesday, December 01, 2026
+17-Week  BILL Tuesday, November 24, 2026 Wednesday, November 25, 2026 Tuesday, December 01, 2026
+13-Week  BILL Wednesday, November 25, 2026 Monday, November 30, 2026 Thursday, December 03, 2026
+26-Week  BILL Wednesday, November 25, 2026 Monday, November 30, 2026 Thursday, December 03, 2026
+6-Week  BILL Wednesday, November 25, 2026 Tuesday, December 01, 2026 Thursday, December 03, 2026
+Holiday - Thursday, November 26, 2026 - Thanksgiving Day
+17-Week  BILL Tuesday, December 01, 2026 Wednesday, December 02, 2026 Tuesday, December 08, 2026
+4-Week  BILL Tuesday, December 01, 2026 Thursday, December 03, 2026 Tuesday, December 08, 2026
+8-Week  BILL Tuesday, December 01, 2026 Thursday, December 03, 2026 Tuesday, December 08, 2026
+13-Week  BILL Thursday, December 03, 2026 Monday, December 07, 2026 Thursday, December 10, 2026
+26-Week  BILL Thursday, December 03, 2026 Monday, December 07, 2026 Thursday, December 10, 2026
+Tentative Auction Schedule of U.S. Treasury Securities
+Security Type Announcement Date Auction Date Settlement Date
+6-Week  BILL Thursday, December 03, 2026 Tuesday, December 08, 2026 Thursday, December 10, 2026
+3-Year  NOTE Thursday, December 03, 2026 Monday, December 07, 2026 Tuesday, December 15, 2026
+10-Year  NOTE R Thursday, December 03, 2026 Tuesday, December 08, 2026 Tuesday, December 15, 2026
+30-Year  BOND R Thursday, December 03, 2026 Thursday, December 10, 2026 Tuesday, December 15, 2026
+17-Week  BILL Tuesday, December 08, 2026 Wednesday, December 09, 2026 Tuesday, December 15, 2026
+4-Week  BILL Tuesday, December 08, 2026 Thursday, December 10, 2026 Tuesday, December 15, 2026
+8-Week  BILL Tuesday, December 08, 2026 Thursday, December 10, 2026 Tuesday, December 15, 2026
+13-Week  BILL Thursday, December 10, 2026 Monday, December 14, 2026 Thursday, December 17, 2026
+26-Week  BILL Thursday, December 10, 2026 Monday, December 14, 2026 Thursday, December 17, 2026
+6-Week  BILL Thursday, December 10, 2026 Tuesday, December 15, 2026 Thursday, December 17, 2026
+17-Week  BILL Tuesday, December 15, 2026 Wednesday, December 16, 2026 Tuesday, December 22, 2026
+4-Week  BILL Tuesday, December 15, 2026 Thursday, December 17, 2026 Tuesday, December 22, 2026
+8-Week  BILL Tuesday, December 15, 2026 Thursday, December 17, 2026 Tuesday, December 22, 2026
+13-Week  BILL Thursday, December 17, 2026 Monday, December 21, 2026 Thursday, December 24, 2026
+26-Week  BILL Thursday, December 17, 2026 Monday, December 21, 2026 Thursday, December 24, 2026
+6-Week  BILL Thursday, December 17, 2026 Tuesday, December 22, 2026 Thursday, December 24, 2026
+52-Week  BILL Thursday, December 17, 2026 Tuesday, December 22, 2026 Thursday, December 24, 2026
+2-Year  FRN R Thursday, December 17, 2026 Wednesday, December 23, 2026 Monday, December 28, 2026
+20-Year  BOND R Thursday, December 17, 2026 Wednesday, December 23, 2026 Monday, December 28, 2026
+5-Year  TIPS R T Thursday, December 17, 2026 Tuesday, December 22, 2026 Thursday, December 31, 2026
+17-Week  BILL Tuesday, December 22, 2026 Wednesday, December 23, 2026 Tuesday, December 29, 2026
+4-Week  BILL Tuesday, December 22, 2026 Thursday, December 24, 2026 Tuesday, December 29, 2026
+8-Week  BILL Tuesday, December 22, 2026 Thursday, December 24, 2026 Tuesday, December 29, 2026
+13-Week  BILL Thursday, December 24, 2026 Monday, December 28, 2026 Thursday, December 31, 2026
+26-Week  BILL Thursday, December 24, 2026 Monday, December 28, 2026 Thursday, December 31, 2026
+2-Year  NOTE Thursday, December 24, 2026 Monday, December 28, 2026 Thursday, December 31, 2026
+5-Year  NOTE Thursday, December 24, 2026 Monday, December 28, 2026 Thursday, December 31, 2026
+6-Week  BILL Thursday, December 24, 2026 Tuesday, December 29, 2026 Thursday, December 31, 2026
+7-Year  NOTE Thursday, December 24, 2026 Tuesday, December 29, 2026 Thursday, December 31, 2026
+Holiday - Friday, December 25, 2026 - Christmas Day
+17-Week  BILL Tuesday, December 29, 2026 Wednesday, December 30, 2026 Tuesday, January 05, 2027
+4-Week  BILL Tuesday, December 29, 2026 Thursday, December 31, 2026 Tuesday, January 05, 2027
+8-Week  BILL Tuesday, December 29, 2026 Thursday, December 31, 2026 Tuesday, January 05, 2027
+13-Week  BILL Thursday, December 31, 2026 Monday, January 04, 2027 Thursday, January 07, 2027
+26-Week  BILL Thursday, December 31, 2026 Monday, January 04, 2027 Thursday, January 07, 2027
+6-Week  BILL Thursday, December 31, 2026 Tuesday, January 05, 2027 Thursday, January 07, 2027
+Holiday - Friday, January 01, 2027 - New Year's Day
+17-Week  BILL Tuesday, January 05, 2027 Wednesday, January 06, 2027 Tuesday, January 12, 2027
+4-Week  BILL Tuesday, January 05, 2027 Thursday, January 07, 2027 Tuesday, January 12, 2027
+8-Week  BILL Tuesday, January 05, 2027 Thursday, January 07, 2027 Tuesday, January 12, 2027
+13-Week  BILL Thursday, January 07, 2027 Monday, January 11, 2027 Thursday, January 14, 2027
+26-Week  BILL Thursday, January 07, 2027 Monday, January 11, 2027 Thursday, January 14, 2027
+6-Week  BILL Thursday, January 07, 2027 Tuesday, January 12, 2027 Thursday, January 14, 2027
+3-Year  NOTE Thursday, January 07, 2027 Monday, January 11, 2027 Friday, January 15, 2027
+10-Year  NOTE R Thursday, January 07, 2027 Tuesday, January 12, 2027 Friday, January 15, 2027
+30-Year  BOND R Thursday, January 07, 2027 Wednesday, January 13, 2027 Friday, January 15, 2027
+17-Week  BILL Tuesday, January 12, 2027 Wednesday, January 13, 2027 Tuesday, January 19, 2027
+4-Week  BILL Tuesday, January 12, 2027 Thursday, January 14, 2027 Tuesday, January 19, 2027
+8-Week  BILL Tuesday, January 12, 2027 Thursday, January 14, 2027 Tuesday, January 19, 2027
+6-Week  BILL Thursday, January 14, 2027 Tuesday, January 19, 2027 Thursday, January 21, 2027
+13-Week  BILL Thursday, January 14, 2027 Tuesday, January 19, 2027 Thursday, January 21, 2027
+26-Week  BILL Thursday, January 14, 2027 Tuesday, January 19, 2027 Thursday, January 21, 2027
+52-Week  BILL Thursday, January 14, 2027 Tuesday, January 19, 2027 Thursday, January 21, 2027
+20-Year  BOND R Thursday, January 14, 2027 Wednesday, January 20, 2027 Friday, January 22, 2027
+10-Year  TIPS T Thursday, January 14, 2027 Thursday, January 21, 2027 Friday, January 29, 2027
+Holiday - Monday, January 18, 2027 - Birthday of Martin Luther King, Jr.
+17-Week  BILL Tuesday, January 19, 2027 Wednesday, January 20, 2027 Tuesday, January 26, 2027
+4-Week  BILL Tuesday, January 19, 2027 Thursday, January 21, 2027 Tuesday, January 26, 2027
+8-Week  BILL Tuesday, January 19, 2027 Thursday, January 21, 2027 Tuesday, January 26, 2027
+13-Week  BILL Thursday, January 21, 2027 Monday, January 25, 2027 Thursday, January 28, 2027
+26-Week  BILL Thursday, January 21, 2027 Monday, January 25, 2027 Thursday, January 28, 2027
+6-Week  BILL Thursday, January 21, 2027 Tuesday, January 26, 2027 Thursday, January 28, 2027
+2-Year  NOTE Thursday, January 21, 2027 Monday, January 25, 2027 Monday, February 01, 2027
+5-Year  NOTE Thursday, January 21, 2027 Tuesday, January 26, 2027 Monday, February 01, 2027
+2-Year  FRN Thursday, January 21, 2027 Wednesday, January 27, 2027 Monday, February 01, 2027
+7-Year  NOTE Thursday, January 21, 2027 Thursday, January 28, 2027 Monday, February 01, 2027
+17-Week  BILL Tuesday, January 26, 2027 Wednesday, January 27, 2027 Tuesday, February 02, 2027
+4-Week  BILL Tuesday, January 26, 2027 Thursday, January 28, 2027 Tuesday, February 02, 2027
+8-Week  BILL Tuesday, January 26, 2027 Thursday, January 28, 2027 Tuesday, February 02, 2027
+13-Week  BILL Thursday, January 28, 2027 Monday, February 01, 2027 Thursday, February 04, 2027
+26-Week  BILL Thursday, January 28, 2027 Monday, February 01, 2027 Thursday, February 04, 2027
+6-Week  BILL Thursday, January 28, 2027 Tuesday, February 02, 2027 Thursday, February 04, 2027
+T --denotes TIPS
+R --denotes reopening
+Tentative Auction Schedule of U.S. Treasury Securities
+Security Type Announcement Date Auction Date Settlement Date
+For additional information regarding Treasury auction announcements and results please see web address below:
+https://www.treasurydirect.gov/auctions/announcements-data-results/announcement-results-press-releases/
