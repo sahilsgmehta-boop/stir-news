@@ -50,7 +50,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 # estimates the same evening.
 RUN_SLOTS_IST = [(19, 0), (23, 45)]
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 10                 # bump when the output changes: forces a run straight away
+VERSION = 11                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -671,6 +671,17 @@ def project(hist, ann, today, until, sched=None):
             nominal = li                        # the regular weekday, before holiday shifts
             if li.weekday() not in (1, 3) and len(xs) > 2:
                 nominal = li - timedelta(days=1)
+            # size: the latest offering, moved by the change Treasury made between the
+            # same two weeks last year (Sahil's choice, 26 Oct 2026). Bill sizes are
+            # seasonal - last year the 4-week went 110 -> 80 from late November to late
+            # December and back up from 20 January. No match last year: no change.
+            ly = {s2d(b["issue"]): b["offer"] for b in xs}
+
+            def ly_size(d):
+                hits = [(abs((x - (d - timedelta(days=364))).days), v) for x, v in ly.items()]
+                hits = [h for h in hits if h[0] <= 3]
+                return min(hits)[1] if hits else None
+            base_ly = ly_size(li)
             n = 1
             while True:
                 nd = nominal + timedelta(days=step * n)
@@ -678,11 +689,16 @@ def project(hist, ann, today, until, sched=None):
                     break
                 iss = next_bd(nd)
                 if iss > s2d(lastx["issue"]):
+                    size = lastx["offer"]
+                    now_ly = ly_size(iss)
+                    if base_ly and now_ly:
+                        size = max(size + (now_ly - base_ly), 0.4 * size)
                     proj.append({"key": k, "type": "Bill", "issue": d2s(iss),
                                  # bills mature on the regular weekday even when a
                                  # holiday pushed the issue back a day
                                  "maturity": d2s(next_bd(nd + timedelta(days=tenor))),
-                                 "offer": lastx["offer"], "projected": True})
+                                 "offer": size, "projected": True,
+                                 "seasonal": round((size - lastx["offer"]) / 1e9, 1)})
                 n += 1
         else:
             # coupons: last year's calendar, latest size of the same kind
