@@ -1,5 +1,5 @@
 {
- "built": "2026-10-26T12:27:02Z",
+ "built": "2026-10-26T12:38:03Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 30,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -68,12 +68,12 @@
     "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
     "Fed's 'tailoring' initiative may be easier said than done",
     "Fed to hit pause on rate hikes, but maybe not for long",
-    "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
+    "S&P 500 Dips As Investors Focus On Fed's Next Moves",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
     "Silver Price Forecast: XAG/USD looks vulnerable near $54, Fed\u2019s policy in focus",
     "The 19 People in the Room When the Fed Sets Interest Rates",
-    "Opinion: Here\u2019s the real signal to watch for the Fed\u2019s next move"
+    "Market Volatility Ahead of Fed's Decision: Will Rates Hold Stead"
    ]
   },
   {
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 79,
-   "added": 4,
+   "kept": 78,
+   "added": 13,
    "error": "",
    "near_misses": [
     "Fed's 'tailoring' initiative may be easier said than done",
     "Fed to hit pause on rate hikes, but maybe not for long",
-    "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
-    "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
-    "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
     "Fighting inflation likely to be 'painful,' Chicago Fed president says",
+    "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
+    "Boston Fed president: Local leaders key to addressing rural New England\u2019s challenges",
+    "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
     "Fed policymakers lean against October rate hike",
-    "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
-    "Fed chairman Warsh stays quiet on interest rates",
-    "A Top Fed Official Casts Further Doubt on a Rate Rise This Month"
+    "Warsh Sees Housing Strain, Keeps Rate Hikes In Play"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 37,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -125,21 +125,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 1,
+   "fetched": 12,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "ECB targets 2029 digital euro launch as legislation advances",
-    "Euro-Zone Slowdown Will Help Keep ECB Rates on Hold for Now",
-    "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
-    "GRAPHIC-Ready for a French test?: Five questions for the ECB",
-    "ECB outlines digital euro ahead of 2029 launch",
+    "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Repo",
     "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control",
-    "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
-    "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted"
+    "Cipollone Says Digital Euro Would Protect Privacy and Be Widely Accepted",
+    "ECB Official: Digital Euro Is Crucial For EU Financial Sovereignty",
+    "ECB Official Flags Digital Euro Role In Safeguarding EU Sovereignty"
    ]
   },
   {
@@ -147,13 +144,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Why Bank of England Hawks Are Gaining Ground as Inflation Heads Above 4%",
-    "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows"
+    "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
+    "Ready for a French test?: Five questions for the ECB"
    ]
   },
   {
