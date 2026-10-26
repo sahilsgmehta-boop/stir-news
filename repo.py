@@ -50,7 +50,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 # estimates the same evening.
 RUN_SLOTS_IST = [(19, 0), (23, 45)]
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 7                 # bump when the output changes: forces a run straight away
+VERSION = 8                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -305,14 +305,67 @@ def upcoming():
             "maturity": (r.get("maturityDate") or r.get("maturingDate") or "")[:10],
             "offer": num(r.get("offeringAmount")), "accepted": None, "soma": 0.0,
             "reopen": (r.get("reopening") or "").lower() == "yes",
-            "cmb": (r.get("cashManagementBillCMB") or "").lower() == "yes",
-            "pubmat": num(r.get("estimatedAmountOfPubliclyHeldMaturingSecuritiesByType")),
+            "cmb": (r.get("cashManagementBillCMB") or "").lower() == "yes" or r.get("type") == "CMB",
+            # TreasuryDirect calls Treasury's estimate of the publicly held amount maturing
+            # "privateHoldings" (checked 26 Oct 2026 against the auction announcements)
+            "pubmat": num(r.get("privateHoldings")) or num(r.get("estimatedAmountOfPubliclyHeldMaturingSecuritiesByType")),
             "rate": num(r.get("interestRate")),
             "tips": "yes" in ((r.get("tips") or "") + (r.get("inflationIndexSecurity") or "")).lower(),
             "frn": (r.get("floatingRate") or "").lower() == "yes",
             "spread": num(r.get("spread")), "hir": None, "announced": True,
         })
     return out
+
+
+def td_recent(days=30):
+    """Auctions of the last `days` days from TreasuryDirect, with results. Treasury's
+    results database (auctions_query) lags by about a week and can miss cash management
+    bills altogether - the $25bn 10-day CMB of 26 Oct 2026 was absent from it - while
+    TreasuryDirect has them on auction day."""
+    d = jget(f"https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&days={days}")
+    out = []
+    for r in d:
+        if not r.get("cusip") or not r.get("issueDate"):
+            continue
+        out.append({
+            "cusip": r["cusip"], "type": r.get("securityType") or "",
+            "term": r.get("securityTerm") or "",
+            "oterm": r.get("originalSecurityTerm") or r.get("securityTerm") or "",
+            "auction": (r.get("auctionDate") or "")[:10], "issue": r["issueDate"][:10],
+            "maturity": (r.get("maturityDate") or "")[:10],
+            "offer": num(r.get("offeringAmount")), "accepted": num(r.get("grandTotalParAwarded")),
+            "soma": num(r.get("somaNoncompetitiveParAwarded")) or 0.0,
+            "reopen": (r.get("reopening") or "").lower() == "yes",
+            "cmb": r.get("type") == "CMB" or (r.get("cashManagementBillCMB") or "").lower() == "yes",
+            "pubmat": num(r.get("privateHoldings")),
+            "rate": num(r.get("interestRate")),
+            "tips": (r.get("inflationProtected") or r.get("tips") or "").lower() == "yes",
+            "frn": (r.get("floatingRate") or "").lower() == "yes",
+            "spread": num(r.get("spread")), "hir": num(r.get("highInvestmentRate")),
+        })
+    return out
+
+
+def merge_recent(hist, recent):
+    """Fill results the Treasury database doesn't have yet, and add auctions it lacks."""
+    by = {(a["cusip"], a["issue"]): a for a in hist}
+    added = filled = 0
+    for r in recent:
+        h = by.get((r["cusip"], r["issue"]))
+        if h is None:
+            hist.append(r)
+            by[(r["cusip"], r["issue"])] = r
+            added += 1
+            continue
+        if not h.get("accepted") and r.get("accepted"):
+            h["accepted"], h["soma"] = r["accepted"], r["soma"]
+            filled += 1
+        if not h.get("pubmat") and r.get("pubmat"):
+            h["pubmat"] = r["pubmat"]
+        if r.get("cmb"):
+            h["cmb"] = True
+    hist.sort(key=lambda a: a["issue"] or "")
+    return added, filled
 
 
 def mspd():
@@ -493,8 +546,10 @@ def next_year_slot(d0, mat):
     for back in range(0, 5):
         n = d0 - timedelta(days=back)
         if n.month != d0.month and back:
-            # e.g. 2 Nov settling a 31 Oct month-end issue
-            if mat.day >= 28 and n == month_end(n.year, n.month):
+            # e.g. 2 Nov settling a 31 Oct month-end issue. Not only month-end maturities:
+            # the 20-year bond (maturing on the 15th) settled 1 Dec 2025 because 30 Nov was
+            # a Sunday, and belongs on 30 Nov 2026, not 1 Dec
+            if n == month_end(n.year, n.month):
                 return next_bd(month_end(y, n.month))
             break
         if n.day == mat.day or (mat.day >= 28 and n == month_end(n.year, n.month)):
@@ -551,14 +606,33 @@ def project(hist, ann, today, until):
             # coupons: last year's calendar, latest size of the same kind
             size_new = next((a["offer"] for a in reversed(xs) if not a["reopen"]), lastx["offer"])
             size_re = next((a["offer"] for a in reversed(xs) if a["reopen"]), size_new)
+            # Treasury sometimes moves a reopening off month end: from June 2026 the 20-year
+            # reopenings settled two or three days after the auction (22 Jun, 24 Jul, 18 Sep,
+            # 23 Oct) where they used to settle at month end. When the latest two reopenings
+            # both settled well before their month end, a projected reopening settles two
+            # business days after last year's auction week, not on last year's settlement day.
+            recent_re = [s2d(b["issue"]) for b in xs if b["reopen"]][-2:]
+            mid_month = len(recent_re) == 2 and all((month_end(x.year, x.month) - x).days >= 4
+                                                    for x in recent_re)
             for a in xs:
                 d0 = s2d(a["issue"])
                 iss = next_year_slot(d0, s2d(a["maturity"]))
+                at_month_end = (month_end(d0.year, d0.month) - d0).days <= 1 or d0.day <= 3
+                if mid_month and a["reopen"] and a.get("auction") and at_month_end:
+                    iss = s2d(a["auction"]) + timedelta(days=364)    # same weekday next year
+                    for _ in range(2):
+                        iss = next_bd(iss + timedelta(days=1))
                 if not (today < iss <= until) or iss <= s2d(lastx["issue"]):
                     continue
                 ref = size_re if a["reopen"] else size_new
                 if any(abs((s2d(b["issue"]) - iss).days) <= 10 and (not ref or not b.get("offer") or b["offer"] >= 0.6 * ref)
                        for b in xs if b.get("announced")):
+                    continue
+                # already auctioned this year near that date: Treasury moved it. In 2026 the
+                # 20-year reopening settled 23 Oct and the 5-year TIPS 30 Oct, where last
+                # year's calendar said 2 Nov - both were counted twice until 26 Oct 2026
+                if any(abs((s2d(b["issue"]) - iss).days) <= 12 and bool(b["reopen"]) == bool(a["reopen"])
+                       for b in xs):
                     continue
                 try:
                     mat = s2d(a["maturity"]).replace(year=s2d(a["maturity"]).year + 1)
@@ -585,7 +659,8 @@ def interest_by_date(ms, soma, frn_rate, start, until):
         if "floating" in cls:
             per = par * (frn_rate or 0) / 100 / 4
         elif "inflation" in cls:
-            per = (par + s["infl"]) * s["rate"] / 100 / 2
+            # the inflation uplift is on the whole issue; only the public's share counts
+            per = par * (1 + s["infl"] / s["out"]) * s["rate"] / 100 / 2
         else:
             per = par * s["rate"] / 100 / len(s["pays"]) if len(s["pays"]) > 2 else par * s["rate"] / 100 / 2
         try:
@@ -801,6 +876,11 @@ def main():
     iss = None
     try:
         hist = auctions(start)
+        try:
+            added, filled = merge_recent(hist, td_recent())
+            print(f"repo: TreasuryDirect added {added} auctions, filled {filled} results")
+        except Exception as e:  # noqa: BLE001
+            note(f"TreasuryDirect auctioned: {e}")
         try:
             ann = upcoming()
         except Exception as e:  # noqa: BLE001
