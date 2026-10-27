@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-27T20:19:38Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign",
+"url": "https://investinglive.com/central-banks/icymi-fitch-sees-fed-hiking-to-4-25-in-december-says-us-credit-outlook-still-benign/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Fitch’s December call fits the view that the Fed is still on a hiking path, which supports front-end Treasury yields and the US dollar and argues against any near-term easing. The more telling signal for credit is the split it describes: investment-grade spreads near multi-year lows while CCC yields have blown out. Heavy hyperscaler issuance on top of Treasury supply raises the risk that new deals need bigger concessions even where credit quality holds up. For equities, putting a recession scenario next to AI capex keeps the spotlight on any sign that hyperscalers are scaling back spending pla",
+"id": "a8aa6f34eb63",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-27T12:21:59Z",
 "bank": "Fed",
 "speaker": "",
