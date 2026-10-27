@@ -708,6 +708,58 @@
    "read": "Not a policy remark.",
    "at": "2026-10-27T06:48:34Z",
    "by": "claude"
+  },
+  "351c0f15816e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-27T15:48:56Z",
+   "by": "claude"
+  },
+  "c8146468ad39": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-27T15:48:56Z",
+   "by": "claude"
+  },
+  "a9a01206e384": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-27T15:48:56Z",
+   "by": "claude"
+  },
+  "c7a56993923c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-27T15:48:56Z",
+   "by": "claude"
+  },
+  "9a4ffeb8100f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-27T15:48:56Z",
+   "by": "claude"
+  },
+  "d47330644ce2": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Tighter credit standards and falling loan demand suggest past hikes are biting, easing pressure for more.",
+   "sum": "ECB Q3 bank lending survey shows banks tightening credit standards further while loan demand falls, signalling higher rates are already restraining borrowing.",
+   "pts": [
+    "A net 9% of banks tightened credit standards for firms, more than the 5% they had expected.",
+    "A net 14% of banks tightened standards for consumer credit.",
+    "Loan demand fell across the board, largely attributed to higher interest rates.",
+    "Transmission of past tightening appears to be strengthening."
+   ],
+   "rr": "Leans against adding to December hike pricing and supports a hold this week; gives doves an argument that credit conditions are doing some of the tightening. Only news paraphrases were available.",
+   "ev": "ECB bank lending survey (Q3)",
+   "basis": "reports",
+   "at": "2026-10-27T15:48:56Z",
+   "by": "claude"
   }
  }
 }
