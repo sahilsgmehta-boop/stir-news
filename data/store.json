@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-27T00:27:56Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Moody’s Zandi says a Fed hike this week would be a mistake as 5% yields do the tightening",
+"url": "https://investinglive.com/central-banks/moody-s-zandi-says-a-fed-hike-this-week-would-be-a-mistake-as-5-yields-do-the-tightening/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Zandi’s view runs against market pricing for at least one more hike this year, so it’s more a marker for the doves than a market mover. It does sharpen focus on the tension in this week’s Fed decision. Oil is the pivot: crude climbing back toward wartime peaks on Iran tensions lifts inflation and keeps the Fed on its hiking path, while also squeezing real incomes in a way that strengthens Zandi’s growth warning. With 10-year yields near 5% and credit spreads wider, any hawkish surprise from the Fed risks further pressure on rate-sensitive sectors such as housing and leveraged borrowers. A skip",
+"id": "08a2cff17308",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-26T19:11:05Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -1847,7 +1867,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Reuters"
+"Reuters",
+"Yahoo Finance"
 ],
 "id": "0b1e1ba1fcd2",
 "score": 5,
@@ -3617,6 +3638,26 @@
 "also": [],
 "desc": "",
 "id": "c27380b189d0",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-09-24T07:00:00Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed's Hammack warns inflation pressures remain tilted to upside",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlVqSjJvQ2s1ODRSZU9yeU5qZ0t1VkVhYjVtVjVoWmxSR29mWTVybXRPUzhBcFBib1lKOVZuUXpyaWxGanlzRUJObEVmd1E2OGZpTE85RXRXMHNQa05HZU1xSEc0QzRSZnNRTjd0T09rZFkwMjktcHpCWC11ZDQ3OEJud29VejF4SzQ1Q1ltdXpOUjgxRnJjeHlSM3NBdVZYYkRMTW9jRlhWUQ?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9b8200fe8dcc",
 "score": null,
 "read": "",
 "sum": "",
