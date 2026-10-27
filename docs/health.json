@@ -1,5 +1,5 @@
 {
- "built": "2026-10-27T12:23:58Z",
+ "built": "2026-10-27T15:49:15Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,13 +17,14 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 3,
    "added": 1,
    "error": "",
    "near_misses": [
+    "US October Richmond Fed -2 vs -2 expected",
+    "Morning Kickstart: Dollar mostly higher as yields ease ahead of the Fed",
     "Why the Federal Reserve matters more to crypto market than many investors realise",
-    "ECB rate outlook grows more complicated as bank lending conditions tighten",
-    "Moody\u2019s Zandi says a Fed hike this week would be a mistake as 5% yields do the tightening"
+    "ECB rate outlook grows more complicated as bank lending conditions tighten"
    ]
   },
   {
@@ -49,8 +50,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 10,
-   "kept": 1,
-   "added": 1,
+   "kept": 0,
+   "added": 0,
    "error": "",
    "near_misses": []
   },
@@ -59,21 +60,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 68,
    "kept": 6,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "John Stoltzfus: The Fed's decision tomorrow and earnings matter most to markets",
+    "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
+    "TS Lombard warns Fed\u2019s peak rate could match or top 2023-24 highs (US10Y:) (US10Y:)",
     "Finance Expert Weighs in on Fed\u2019s Dilemma Days Before Midterm Elections | Newswise",
     "5 things to watch from the Federal Reserve\u2019s next meeting",
+    "Central Bank communication is changing: How traders can navigate the Fed\u2019s uncertainty",
     "How a Fed interest rate pause would impact Main Street investors",
-    "Economists say that even though an October hike was anticipated, the Fed's monetary policy committee appears unlikely to make a move before midterms. See link b",
-    "Indian Rupee remains under pressure while moving into Fed's policy",
-    "Fed\u2019s 2011 Debit Card Swipe Fee Rule Tossed by Appeals Court (2)",
+    "Gold rises 1% ahead of Fed's decision",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Will the Fed raise interest rates this year? Divided economists weigh in"
+    "John Stoltzfus: The Fed's decision tomorrow and earnings matter most to markets"
    ]
   },
   {
@@ -81,21 +82,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
-   "kept": 12,
-   "added": 7,
+   "fetched": 100,
+   "kept": 65,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Kevin Warsh Wanted the Fed to Be Quiet. Instead, It\u2019s as Noisy as Ever.",
     "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-    "Fed is expected to hold rates steady, but Warsh may signal more hikes ahead",
+    "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    "The Fed is expected to hold interest rates steady. But Warsh may signal more hikes ahead",
+    "5 things to watch from the Federal Reserve\u2019s next meeting",
     "Fed's 'tailoring' initiative may be easier said than done",
     "Fed to hit pause on rate hikes, but maybe not for long",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'",
-    "Federal Reserve holds interest rates steady as Trump\u2019s new chairman faces fresh inflation woes"
+    "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
+    "Bets on Fed rate hold in October strengthen after Warsh comments"
    ]
   },
   {
@@ -103,17 +104,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 33,
    "kept": 3,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "Market Minute: ECB to hold rates in October, with hikes to come",
+    "Euro zone mortgage demand falls as rates rise, ECB survey shows",
     "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "Stablecoin Regulation Update: ECB\u2019s Reserve Proposal",
+    "ECB faces twin storms of French turmoil and board reshuffle",
+    "France\u2019s debt woes in focus as ECB meets",
     "Fujairah CP reviews ECB\u2019s role and mandate",
-    "France\u2019s debt woes in focus as ECB meets"
+    "October ECB Cheat Sheet: French Malaise Shouldn\u2019t Prompt A Dovish Turn - TalkMarkets"
    ]
   },
   {
@@ -121,8 +126,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 2,
+   "fetched": 27,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -131,11 +136,11 @@
     "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
     "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
     "ECB outlines digital euro ahead of 2029 launch",
-    "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
     "ECB Calls Digital Euro a Tool for Europe\u2019s Payment Sovereignty",
     "ECB targets 2029 digital euro launch as legislation advances",
+    "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
     "GRAPHIC-Ready for a French test?: Five questions for the ECB",
-    "ECB Official Says Digital Euro Could Strengthen Europe\u2019s Payment Control"
+    "ECB Rate Decision: What to Expect on Thursday"
    ]
   },
   {
@@ -143,14 +148,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 29,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England orders skilled-person review of Revolut",
+    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
     "Why Bank of England Hawks Are Gaining Ground as Inflation Heads Above 4%",
-    "McAlpine bags \u00a3133m Bank of England overhaul",
+    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
     "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
+    "McAlpine bags \u00a3133m Bank of England overhaul",
     "Sir Robert McAlpine selected for \u00a3133m Bank of England refurbishment",
     "Bank of England orders review of Revolut product approvals, FT reports",
     "How many times will the BoE increase interest rates?"
@@ -161,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 26,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -170,12 +178,12 @@
     "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
     "Bank of Canada expected to hike rate on Wednesday to stem spillover of energy inflation",
     "Why economists think the Bank of Canada may hike rates on Wednesday",
-    "The Bank of Canada's inflation dilemma",
     "Bank of Canada May Hike Rates This Week Amid Energy Inflation from Iran War",
+    "Posthaste: Why some economists think the Bank of Canada is about to make a mistake",
+    "The Bank of Canada's inflation dilemma",
     "Bank of Canada now expected to hike key rate as it faces \u2018pivotal decision\u2019",
-    "Bank of Canada to Hold in October Despite Market Pricing, Says TD Securities",
     "Bank of Canada Poised for 25 Basis Point Rate Hike to Curb Energy-Driven Inflation - News and Statistics",
-    "Bank of Canada now expected to hike key rate as it faces \u2018pivotal decision\u2019"
+    "Bank of Canada set to hold in October despite market pricing \u2013 TD Securities"
    ]
   },
   {
@@ -202,8 +210,7 @@
     "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
     "Will the Fed drop any hints on rate rises?",
     "ECB on course for another rate rise in 2026",
-    "The hunt for Fed October",
-    "French central bank chief says ECB intervention not needed to ease bond rout"
+    "The hunt for Fed October"
    ]
   },
   {
@@ -332,7 +339,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": ""
   }
