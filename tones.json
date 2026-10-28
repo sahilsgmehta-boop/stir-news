@@ -802,6 +802,104 @@
    "read": "Not a policy remark.",
    "at": "2026-10-28T11:50:21Z",
    "by": "claude"
+  },
+  "4a3a175b0ed6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "0175ab25aee9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "8c67fb71b627": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "6defc699e18f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "dcad9dd90b25": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "12c00dc7ec52": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "1169410bf085": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "45c1f61cb003": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "3dbd2c1f2019": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Mostly priced 25bp hike paired with cautious guidance to proceed carefully on further moves.",
+   "sum": "The Bank of Canada raised its policy rate 25bp to 2.50%, its first hike in a year, but said it would proceed carefully on any further increases.",
+   "pts": [
+    "Overnight rate target raised to 2.50%; Bank Rate 2.75%, deposit rate 2.45%.",
+    "Inflation judged higher and more persistent than in the July Monetary Policy Report.",
+    "Hike framed as reducing the risk that high energy prices spread more broadly into inflation.",
+    "Global activity described as resilient despite higher energy prices; US growth robust on consumer spending and AI investment.",
+    "Canadian growth has picked up this year and is expected to recover further.",
+    "Said there could be a need to raise rates further, but Governing Council agreed to proceed carefully given uncertainties."
+   ],
+   "rr": "Delivers the roughly 78%-priced hike, so the move itself is a small hawkish residual; the careful guidance argues against pricing a quick follow-up in December. Leaves a mild tightening bias into 2027. Only news paraphrases were available.",
+   "ev": "Rate decision and Monetary Policy Report (Ottawa)",
+   "basis": "reports",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "644f50e452a5": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Mostly priced 25bp hike paired with cautious guidance to proceed carefully on further moves.",
+   "lead": "3dbd2c1f2019",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
+  },
+  "b09271d85a6a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Climate and nature-finance remarks with no bearing on the rates outlook.",
+   "sum": "ECB Executive Board member Elderson called for greater investment in nature and biodiversity.",
+   "pts": [
+    "Called for more investment in nature and biodiversity.",
+    "No reported comment on inflation, the economy or interest rates."
+   ],
+   "rr": "No implication for ECB rate pricing at this week's meeting or December. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-28T15:54:43Z",
+   "by": "claude"
   }
  }
 }
