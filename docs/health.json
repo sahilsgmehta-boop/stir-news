@@ -1,5 +1,5 @@
 {
- "built": "2026-10-28T14:24:16Z",
+ "built": "2026-10-28T15:55:08Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 8,
-   "added": 2,
+   "kept": 9,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 5,
-   "added": 2,
+   "kept": 6,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The full statement from the Bank of Canada rate decision for October 2026. Hikes by 25 basis points",
@@ -26,8 +26,7 @@
     "The USDCAD is trading in a neutral swing area ahead of the Bank of Canada rate decision",
     "The market is pricing in a 78% chance of a Bank of Canada rate hike",
     "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
-    "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?",
-    "Chart of the day: Gold faces a make-or-break moment near $4,000 as Fed and market risks converge"
+    "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?"
    ]
   },
   {
@@ -43,8 +42,7 @@
     "Fed rate hikes are coming, but not this week: CNBC survey",
     "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
     "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-    "Economists: Hot PPI shows Fed's work is not done",
-    "Inflation on many everyday items was entirely due to tariffs, NY Fed says"
+    "Economists: Hot PPI shows Fed's work is not done"
    ]
   },
   {
@@ -63,21 +61,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
+   "fetched": 98,
    "kept": 6,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
+    "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
     "The Fed\u2019s Arbitrary 2 Percent Inflation Target and a More Accountable Monetary Policy",
     "The Fed's new headache: An AI boom that turns to bust",
     "Federal Reserve set to issue interest rate decision as midterm elections loom",
-    "5 things to watch for in this week's Federal Reserve meeting",
     "What to expect from the Fed's meeting this week",
-    "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
+    "Fed Expected To Hold Interest Rates Steady Today",
     "The Fed\u2019s October Meeting Starts Today. Here\u2019s What You Need To Know",
     "Indian Rupee weakens due to higher oil prices ahead of Fed's policy",
-    "Rising yields may help tighten financial conditions but won't do the Fed's job: FedWatch Advisors",
-    "Fed\u2019s interest rate decision to move the markets"
+    "All Eyes on Fed's FOMC Meeting Outcome"
    ]
   },
   {
@@ -85,21 +83,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
-   "kept": 10,
-   "added": 6,
+   "fetched": 100,
+   "kept": 63,
+   "added": 3,
    "error": "",
    "near_misses": [
+    "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
     "The Fed's new headache: An AI boom that turns to bust",
     "Fed Watchers Prep for Next Step in the Kevin Warsh \u2018Discovery Process\u2019",
-    "5 things to watch for in this week's Federal Reserve meeting",
     "US Fed expected to hold rates steady ahead of key midterm elections",
     "Fed officials not aligned on weight of financial conditions",
-    "Fed expected to hold interest rates steady as inflation tops midterm voters\u2019 concerns",
     "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
     "Fed expected to hold rates steady, but Warsh may point way to more hikes",
     "Kevin Warsh Wanted the Fed to Be Quiet. Instead, It\u2019s as Noisy as Ever.",
-    "Fed's 'tailoring' initiative may be easier said than done"
+    "Fed's 'tailoring' initiative may be easier said than done",
+    "The Fed is expected to hold interest rates steady. But Warsh may signal more hikes ahead"
    ]
   },
   {
@@ -107,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 36,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -119,7 +117,9 @@
     "Mapfre expects to take advantage of the ECB\u2019s rate hikes thanks to the boost in savings",
     "KBC's capital remains well above ECB's minimum requirements for 2026 at 14.4% CET1 ratio.",
     "Stablecoin Regulation Update: ECB\u2019s Reserve Proposal",
-    "Fujairah CP reviews ECB\u2019s role and mandate"
+    "Fujairah CP reviews ECB\u2019s role and mandate",
+    "The ECB needs a smooth transmission and a smooth transition",
+    "Euro zone mortgage demand falls as rates rise, ECB survey shows"
    ]
   },
   {
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 18,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -138,8 +138,9 @@
     "ROI-ECB can cool rate bets, but may not want to yet: Mike Dolan",
     "ECB: Banks report further tightening of credit standards",
     "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
-    "The ECB says the digital euro will guarantee EU sovereignty",
     "ECB Meeting Preview: EUR/USD Bears Face a Sentiment Test",
+    "The ECB says the digital euro will guarantee EU sovereignty",
+    "Ammar bin Humaid reviews ECB economic growth strategy",
     "European Central Bank Expected to Hold Interest Rates at 2.5%"
    ]
   },
@@ -148,21 +149,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 22,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
     "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
-    "Bank of England warns climate risks could widen UK insurance gaps",
-    "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
+    "Revolut faces Bank of England scrutiny over rapid product rollouts \u2013 report",
+    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
     "Bank of England orders skilled-person review of Revolut",
+    "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
+    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
+    "McAlpine bags \u00a3133m Bank of England overhaul",
     "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
-    "GBP Slides Toward 1.3300 Ahead of UK Budget, Fed Call",
-    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
-    "Bank of England orders review of Revolut product approvals, FT reports",
-    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds"
+    "Bank of England deal a highlight as Leeds take-up slips"
    ]
   },
   {
@@ -170,21 +171,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 0,
-   "added": 0,
+   "fetched": 81,
+   "kept": 5,
+   "added": 3,
    "error": "",
    "near_misses": [
     "FULL TEXT-Bank of Canada head sees less room for monetary accommodation",
     "Bank of Canada Hikes to 2.5%, Says More Could Be Needed",
     "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
     "Bank of Canada delivers 1st hike in three years, raises key rate to 2.5%",
+    "The Bank of Canada raised its interest rate on October 28",
+    "Bank of Canada delivers 1st hike in three years, raises key rate to 2.5%",
     "Bank of Canada raises interest rates: Read the official statement",
-    "Canadian Dollar Outlook Hinges on Central Bank's Rate Decision, Macklem's Comments, Commerzbank Says",
+    "Bank of Canada raises key interest rate, says another hike possible",
     "Bank of Canada poised to hike key rate for first time in three years",
-    "Bank of Canada Governor Tiff Macklem Discusses Latest Interest Rate Decision",
-    "Bank of Canada raises key interest rate amid soaring energy costs",
-    "Bank of Canada raises key interest rate, says another hike possible"
+    "WATCH LIVE: Bank of Canada governor Tiff Macklem discusses latest interest rate decision"
    ]
   },
   {
@@ -274,8 +275,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 15,
-   "added": 6,
+   "kept": 16,
+   "added": 7,
    "error": ""
   },
   {
@@ -315,7 +316,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 5,
-   "added": 5,
+   "added": 4,
    "error": ""
   },
   {
