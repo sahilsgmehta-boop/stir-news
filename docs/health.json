@@ -1,5 +1,5 @@
 {
- "built": "2026-10-28T19:48:47Z",
+ "built": "2026-10-28T20:56:19Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 13,
-   "added": 4,
+   "added": 1,
    "error": ""
   },
   {
@@ -25,8 +25,7 @@
     "Bank of Canada rate decision: Hike to 2.50%",
     "The USDCAD is trading in a neutral swing area ahead of the Bank of Canada rate decision",
     "The market is pricing in a 78% chance of a Bank of Canada rate hike",
-    "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
-    "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?"
+    "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings"
    ]
   },
   {
@@ -35,8 +34,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 30,
-   "kept": 0,
-   "added": 0,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed rate hikes are coming, but not this week: CNBC survey",
@@ -51,8 +50,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 10,
-   "kept": 0,
-   "added": 0,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": []
   },
@@ -62,20 +61,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 29,
-   "added": 16,
+   "kept": 43,
+   "added": 12,
    "error": "",
    "near_misses": [
-    "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
+    "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
     "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
-    "The Fed\u2019s Capital Rules: Taking Money Away from the Main Street Economy",
     "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "The Fed\u2019s Arbitrary 2 Percent Inflation Target and a More Accountable Monetary Policy",
+    "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
+    "The Fed\u2019s Capital Rules: Taking Money Away from the Main Street Economy",
+    "Fed chair says third quarter GDP is above three percent",
+    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "Federal Reserve holds interest rates steady as midterm elections loom",
     "The Fed's new headache: An AI boom that turns to bust",
-    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-    "Fed holds rates steady days before the midterms, even as inflation runs hot",
-    "Fed holds rates steady despite concerns over inflation"
+    "Dissents, rising prices, and a change to the meeting schedule: 3 takeaways from the October Fed meeting"
    ]
   },
   {
@@ -83,21 +82,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 23,
-   "added": 10,
+   "fetched": 91,
+   "kept": 36,
+   "added": 11,
    "error": "",
    "near_misses": [
-    "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "Federal Reserve holds interest rates steady",
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
+    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
+    "Fed chair says third quarter GDP is above three percent",
     "Fed holds rates steady despite concerns over inflation",
-    "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-    "VIEW FOMC holds rates steady, markets rise modestly",
-    "Fed to cut back on the number of rate-setting meetings in coming years, says Warsh",
+    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "Warsh to attend Fed jobs and productivity task force hearing to refine views",
-    "Fed Watchers Prep for Next Step in the Kevin Warsh \u2018Discovery Process\u2019"
+    "Update: Fed Holds Rate Steady; Chair Warsh Announces Adjusted FOMC Meeting Schedule"
    ]
   },
   {
@@ -110,16 +109,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Lagarde at the Petit Palais in Elegant Couture - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Lagarde\u2019s comments could keep a December rate increase 'in play'",
     "The Bond Market, the ECB's Best Mate",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Mapfre expects to take advantage of the ECB\u2019s rate hikes thanks to the boost in savings",
     "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
     "KBC's capital remains well above ECB's minimum requirements for 2026 at 14.4% CET1 ratio.",
     "Stablecoin Regulation Update: ECB\u2019s Reserve Proposal",
     "The ECB needs a smooth transmission and a smooth transition",
-    "Euro zone mortgage demand falls as rates rise, ECB survey shows"
+    "Euro zone mortgage demand falls as rates rise, ECB survey shows",
+    "France's debt woes in focus as ECB meets | Gulf Times"
    ]
   },
   {
@@ -146,21 +145,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 43,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
     "Revolut faces Bank of England scrutiny over rapid product rollouts \u2013 report",
-    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
+    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Bank of England warns climate risks could widen UK insurance gaps",
-    "Bank of England orders skilled-person review of Revolut",
     "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
-    "Bank of England deal a highlight as Leeds take-up slips",
     "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
-    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes"
+    "Bank of England orders skilled-person review of Revolut",
+    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
+    "Bank of England deal a highlight as Leeds take-up slips"
    ]
   },
   {
@@ -168,21 +167,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 7,
-   "added": 1,
+   "fetched": 92,
+   "kept": 8,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "FULL TEXT-Bank of Canada head sees less room for monetary accommodation",
+    "Bank of Canada raises key interest rate, says another hike possible",
     "Bank of Canada Hikes to 2.5%, Says More Could Be Needed",
     "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
-    "Bank of Canada's 1st rate hike in three years won't be the last, economists argue",
-    "Bank of Canada hikes citing \u2018global upheaval\u2019 risk to inflation",
+    "Bank of Canada raises interest rate to 2.5% in first hike since 2023",
     "The Bank of Canada just raised its policy interest rate",
-    "Bank of Canada raises interest rates: Read the official statement",
     "Bank of Canada delivers 1st hike in three years, raises key rate to 2.5%",
     "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
-    "Bank of Canada raises interest rates for the first time in three years"
+    "Bank of Canada raises interest rates for the first time in three years",
+    "Bank of Canada raises key interest rate amid soaring energy costs",
+    "Canadian Dollar Outlook Hinges on Central Bank's Rate Decision, Macklem's Comments, Commerzbank Says"
    ]
   },
   {
@@ -205,7 +204,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 3,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Federal Reserve holds rates steady despite worsening US inflation",
@@ -234,7 +233,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 15,
-   "added": 11,
+   "added": 10,
    "error": ""
   },
   {
