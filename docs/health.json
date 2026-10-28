@@ -1,5 +1,5 @@
 {
- "built": "2026-10-27T22:22:56Z",
+ "built": "2026-10-28T01:37:14Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
+   "kept": 7,
    "added": 1,
    "error": ""
   },
@@ -21,8 +21,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign",
-    "US October Richmond Fed -2 vs -2 expected"
+    "BlackRock sees one more Fed hike this year, calls market pricing for more too hawkish",
+    "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign"
    ]
   },
   {
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 77,
+   "fetched": 81,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "What to expect from the Fed's meeting this week",
     "5 things to watch for in this week's Federal Reserve meeting",
+    "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
     "How investors can position ahead of the Fed's next policy decision",
     "The Fed\u2019s October Meeting Starts Today. Here\u2019s What You Need To Know",
     "Market Minute: The rising cost of inaction by the Fed",
-    "The 19 People in the Room When the Fed Sets Interest Rates",
     "Appeals Court Challenges Fed\u2019s Debit Fee Cap",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
-    "TS Lombard warns Fed\u2019s peak rate could match or top 2023-24 highs (US10Y:) (US10Y:)",
-    "Fed is likely to wait on another rate hike as inflation pressures mount"
+    "Gold and the dollar await the Fed\u2019s meeting",
+    "TS Lombard warns Fed\u2019s peak rate could match or top 2023-24 highs (US10Y:) (US10Y:)"
    ]
   },
   {
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 67,
-   "added": 3,
+   "fetched": 45,
+   "kept": 11,
+   "added": 6,
    "error": "",
    "near_misses": [
     "5 things to watch for in this week's Federal Reserve meeting",
-    "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
     "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
     "Kevin Warsh Wanted the Fed to Be Quiet. Instead, It\u2019s as Noisy as Ever.",
+    "Fed Expected to Hold Rates With Nod to December: Decision-Day Guide",
     "The Fed is expected to hold interest rates steady. But Warsh may signal more hikes ahead",
     "Fed's 'tailoring' initiative may be easier said than done",
     "Fed to hit pause on rate hikes, but maybe not for long",
     "The Fed is expected to hold rates steady. Warsh will have to explain why",
-    "President Hammack: \u201cExplaining my reaction function is not a prediction for policy. It\u2019s describing how I expect policy to adjust as conditions change.\u201d",
-    "Kevin Warsh\u2019s Fed has a rent problem: Higher rates could fuel a \u2018doom loop\u2019 in housing, top economist warns"
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -129,8 +129,8 @@
    "near_misses": [
     "The ECB on Europe\u2019s AI Gap",
     "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
-    "ECB: Banks report further tightening of credit standards",
     "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
+    "ECB: Banks report further tightening of credit standards",
     "ECB outlines digital euro ahead of 2029 launch",
     "ECB Calls Digital Euro a Tool for Europe\u2019s Payment Sovereignty",
     "ECB targets 2029 digital euro launch as legislation advances",
@@ -144,7 +144,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 22,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -152,10 +152,10 @@
     "Why Bank of England Hawks Are Gaining Ground as Inflation Heads Above 4%",
     "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
     "Bank of England orders skilled-person review of Revolut",
-    "The Cumberland eyes growth after joining Bank of England Scale Up Unit",
     "McAlpine bags \u00a3133m Bank of England overhaul",
-    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
+    "The Cumberland eyes growth after joining Bank of England Scale Up Unit",
     "Sir Robert McAlpine selected for \u00a3133m Bank of England refurbishment",
+    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
     "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
     "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
     "How many times will the BoE increase interest rates?"
@@ -166,21 +166,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
     "Inflation Risks Are \u2018Alive and Well.\u2019 That\u2019s Why Tiff Macklem Is Worried",
+    "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
     "Bank of Canada Seen Hiking as Oil Creates Stubborn Inflation: Decision Guide",
-    "Bank of Canada rate decision will likely determine where the Canadian dollar goes from here, report says",
     "Bank of Canada expected to hike rate on Wednesday to stem spillover of energy inflation",
+    "Why economists think the Bank of Canada may hike rates on Wednesday",
+    "Six ways a Bank of Canada rate hike could cost or benefit you",
     "Bank of Canada May Hike Rates This Week Amid Energy Inflation from Iran War",
     "The Bank of Canada's inflation dilemma",
     "Bank of Canada Poised for 25 Basis Point Rate Hike to Curb Energy-Driven Inflation - News and Statistics",
-    "Why economists think the Bank of Canada may hike rates on Wednesday",
-    "Bank of Canada: October hold despite market pricing \u2013 TD Securities"
+    "Posthaste: Why some economists think the Bank of Canada is about to make a mistake"
    ]
   },
   {
