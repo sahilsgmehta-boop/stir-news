@@ -900,6 +900,312 @@
    "basis": "reports",
    "at": "2026-10-28T15:54:43Z",
    "by": "claude"
+  },
+  "847a7abc2726": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Hold with two hike dissents and an upgraded growth view keeps December hike live.",
+   "sum": "The FOMC held at 3.75-4.00% by a 10-2 vote, with Cook and Hammack dissenting for a hike, and upgraded growth to a strong pace.",
+   "pts": [
+    "Target range held at 3-3/4 to 4 percent; ample-reserves policy unchanged.",
+    "Economic activity now expanding at a \"strong\" pace, up from \"solid\" in September.",
+    "Productivity growth and capital investment described as strong; domestic spending resilient.",
+    "Job gains kept pace with the workforce; unemployment little changed.",
+    "Inflation remains elevated; Committee will gather more information to set the stance for a timely return to 2%.",
+    "Cook and Hammack dissented, preferring a 25bp hike."
+   ],
+   "rr": "A hawkish hold: two hike dissents and a stronger growth description support the December hike in pricing and push against 2027 cuts. No explicit forward commitment, so the front end stays data-dependent.",
+   "ev": "FOMC rate decision statement",
+   "basis": "verbatim",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "6a63e2b1427b": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Full text of the hold: 10-2 vote with two hike dissents, growth upgraded to strong.",
+   "lead": "847a7abc2726",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "53165e72fa32": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Hold was priced, but hike dissents and stronger growth language tilt hawkish.",
+   "lead": "847a7abc2726",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "719796419bb0": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Upgraded economic assessment alongside the hold keeps further tightening in play.",
+   "lead": "847a7abc2726",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "7fcc0ad0593b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "2fd62727bd66": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Inflation too high and ready to act, but wants more information before the next step.",
+   "sum": "Warsh said inflation is too high and the Fed is ready to act, but the Committee wants more information before deciding its next policy step.",
+   "pts": [
+    "Said Q3 GDP likely grew above 3%, led by consumer spending, with business investment rising at about a double-digit pace.",
+    "Said inflation is too high and energy prices have moved higher again; the job is to stop inflation broadening out.",
+    "Said the Fed has shown its readiness to act, but more information will help determine appropriate steps.",
+    "Noted credit conditions have tightened for some households and businesses, but would not call financial conditions tight.",
+    "Said the economy is not running too hot and monetary medicine is starting to work.",
+    "Announced the meeting schedule will change from 2027, with one meeting devoted to strategy and no policy statement."
+   ],
+   "rr": "Mixed: inflation warnings keep the December hike priced, while \"medicine is working\" and \"not too hot\" stop short of endorsing more beyond that. No push for faster tightening. Only news paraphrases were available.",
+   "ev": "FOMC press conference (Washington)",
+   "basis": "reports",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "d9a7b05de0dc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Change to the meeting calendar; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "9fc3fb59bc3e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Change to the meeting calendar; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "aa9ee98ec14e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Change to the meeting calendar; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "703b39e911c3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Change to the meeting calendar; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "75771c0b0b71": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Change to the meeting calendar; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "c614dd08cf5c": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Saying tightening is already working implies less need for hikes beyond what is priced.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "559a23cc132f": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Strong growth read keeps the hike option alive but gives no explicit signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "8b6c1f903acd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comment on independence of deliberations; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "2a7145e5f0dc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says any balance-sheet changes would not affect the current policy juncture.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "957d9eb6846d": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warning that inflation is too high as energy climbs supports another hike.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "d28c9af86bc7": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Stressing elevated inflation after a pickup leans toward further tightening.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "d01d2b1dfbb8": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says policy is tightening conditions; ambiguous on whether more hikes are needed.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "2cdeb183ec6c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Scheduling item; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "601eafb74908": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Saying the economy is not running too hot pushes back on aggressive hike pricing.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "327dc53a05d9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Explainer of the hold and press conference; no new signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "d35740bd4d28": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "3d346f13f450": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "58fa6758c213": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "0af7861788bc": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Dissented for a hike, arguing policy needs to tighten now.",
+   "sum": "Cleveland Fed President Hammack dissented from the hold, preferring a 25bp hike to 4.00-4.25%.",
+   "pts": [
+    "Voted against the decision to keep rates at 3.75-4.00%.",
+    "Preferred raising the target range by a quarter point.",
+    "Joined Governor Cook as one of two dissents in a 10-2 vote."
+   ],
+   "rr": "A voter dissenting for a hike supports pricing of a December move and argues against any 2027 cuts. Only news paraphrases were available.",
+   "ev": "FOMC dissent",
+   "basis": "reports",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "079a7a2a1ff6": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Mostly priced 25bp hike paired with guidance to proceed carefully on further moves.",
+   "sum": "The Bank of Canada raised its policy rate 25bp to 2.5% and said it could need to hike further, but will proceed carefully.",
+   "pts": [
+    "Overnight rate target raised to 2.5%; Bank Rate 2.75%, deposit rate 2.45%.",
+    "CPI inflation around 3% since April, seen reaching about 3.5% by year-end; core measures near 2%.",
+    "Inflation projected to average 3% in 2027 and return to 2% by mid-2028.",
+    "Businesses expected to pass more higher costs on to consumers over the next year.",
+    "Growth seen at 1% in 2026 and 2% in 2027-28, slowing in Q4 on new US tariffs.",
+    "Said there could be a need to raise rates further, but will proceed carefully given uncertainty."
+   ],
+   "rr": "Delivers the roughly 80%-priced hike; the open door to more keeps a tightening bias, but careful guidance argues against pricing a quick December follow-up. Next decision 9 December.",
+   "ev": "Rate decision and Monetary Policy Report (Ottawa)",
+   "basis": "verbatim",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "e3e13567e2e3": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Frames the hike as a response to global upheaval and energy shocks.",
+   "sum": "Macklem said global upheaval drove the hike, warned businesses plan to pass on higher costs, and kept further hikes possible with no set path.",
+   "pts": [
+    "Said energy prices have been high for eight months and look set to stay high.",
+    "Said the Bank's surveys show businesses plan to pass on more cost increases.",
+    "Said the policy rate, even after the hike, is low enough that it is not restraining growth.",
+    "Said there is no predetermined path; further hikes could be needed but uncertainty is high.",
+    "Will take decisions one meeting at a time, with no forward guidance."
+   ],
+   "rr": "More hawkish than the statement: calling policy non-restrictive and flagging pass-through keeps a December hike live and supports pricing further tightening into 2027. Only news paraphrases were available.",
+   "ev": "Press conference, Monetary Policy Report (Ottawa)",
+   "basis": "reports",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "bf242db6abc8": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warns firms plan to pass on more cost increases, raising inflation risk.",
+   "lead": "e3e13567e2e3",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "8a9fe3e0e383": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calling policy non-restrictive leaves room for further hikes.",
+   "lead": "e3e13567e2e3",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "c2339df90e28": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "No predetermined path; keeps options open either way.",
+   "lead": "e3e13567e2e3",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "bc33e3b7c8a0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Meeting-by-meeting approach with no guidance; no directional signal.",
+   "lead": "e3e13567e2e3",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
+  },
+  "366b13df0e71": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Annual remit letter from the Chancellor; no rate signal reported.",
+   "sum": "The Chancellor sent the Governor the MPC's annual remit letter for October 2026.",
+   "rr": "No implication for Bank Rate pricing could be read from the available text. Only news paraphrases were available.",
+   "ev": "Letter, Chancellor to Governor",
+   "basis": "reports",
+   "at": "2026-10-28T20:55:55Z",
+   "by": "claude"
   }
  }
 }
