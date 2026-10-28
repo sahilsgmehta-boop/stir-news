@@ -1,5 +1,5 @@
 {
- "built": "2026-10-28T11:50:39Z",
+ "built": "2026-10-28T14:24:16Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
-   "added": 0,
+   "kept": 8,
+   "added": 2,
    "error": ""
   },
   {
@@ -18,9 +18,15 @@
    "ok": true,
    "fetched": 25,
    "kept": 5,
-   "added": 3,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "The full statement from the Bank of Canada rate decision for October 2026. Hikes by 25 basis points",
+    "Bank of Canada rate decision: Hike to 2.50%",
+    "The USDCAD is trading in a neutral swing area ahead of the Bank of Canada rate decision",
+    "The market is pricing in a 78% chance of a Bank of Canada rate hike",
+    "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
+    "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?",
     "Chart of the day: Gold faces a make-or-break moment near $4,000 as Fed and market risks converge"
    ]
   },
@@ -57,21 +63,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 4,
-   "added": 1,
+   "fetched": 96,
+   "kept": 6,
+   "added": 2,
    "error": "",
    "near_misses": [
-    "Rising yields may help tighten financial conditions but won't do the Fed's job: FedWatch Advisors",
+    "The Fed\u2019s Arbitrary 2 Percent Inflation Target and a More Accountable Monetary Policy",
+    "The Fed's new headache: An AI boom that turns to bust",
     "Federal Reserve set to issue interest rate decision as midterm elections loom",
-    "What to expect from the Fed's meeting this week",
     "5 things to watch for in this week's Federal Reserve meeting",
+    "What to expect from the Fed's meeting this week",
     "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
     "The Fed\u2019s October Meeting Starts Today. Here\u2019s What You Need To Know",
-    "Fed\u2019s interest rate decision to move the markets",
-    "Fed Expected To Hold Interest Rates Steady Today",
-    "How investors can position ahead of the Fed's next policy decision",
-    "Indian Rupee in under pressure in countdown to Fed's policy"
+    "Indian Rupee weakens due to higher oil prices ahead of Fed's policy",
+    "Rising yields may help tighten financial conditions but won't do the Fed's job: FedWatch Advisors",
+    "Fed\u2019s interest rate decision to move the markets"
    ]
   },
   {
@@ -80,20 +86,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 51,
-   "kept": 11,
-   "added": 7,
+   "kept": 10,
+   "added": 6,
    "error": "",
    "near_misses": [
-    "How AI has got the Fed in a bind",
-    "5 things to watch for in this week's Federal Reserve meeting",
+    "The Fed's new headache: An AI boom that turns to bust",
     "Fed Watchers Prep for Next Step in the Kevin Warsh \u2018Discovery Process\u2019",
+    "5 things to watch for in this week's Federal Reserve meeting",
     "US Fed expected to hold rates steady ahead of key midterm elections",
-    "The Fed says it ignores politics. Its rate moves tell a more complicated story",
     "Fed officials not aligned on weight of financial conditions",
+    "Fed expected to hold interest rates steady as inflation tops midterm voters\u2019 concerns",
     "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
     "Fed expected to hold rates steady, but Warsh may point way to more hikes",
     "Kevin Warsh Wanted the Fed to Be Quiet. Instead, It\u2019s as Noisy as Ever.",
-    "Donald Kohn Says Kevin Warsh Has Adapted to Leading the Fed"
+    "Fed's 'tailoring' initiative may be easier said than done"
    ]
   },
   {
@@ -101,21 +107,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 24,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s comments could keep a December rate increase 'in play'",
-    "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Euro zone mortgage demand falls as rates rise, ECB survey shows",
+    "The Bond Market, the ECB's Best Mate",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Mapfre expects to take advantage of the ECB\u2019s rate hikes thanks to the boost in savings",
     "KBC's capital remains well above ECB's minimum requirements for 2026 at 14.4% CET1 ratio.",
-    "France's debt woes in focus as ECB meets | Gulf Times",
     "Stablecoin Regulation Update: ECB\u2019s Reserve Proposal",
-    "Fujairah CP reviews ECB\u2019s role and mandate",
-    "October ECB Cheat Sheet: French Malaise Shouldn\u2019t Prompt A Dovish Turn"
+    "Fujairah CP reviews ECB\u2019s role and mandate"
    ]
   },
   {
@@ -123,19 +127,19 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 22,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
     "Will France\u2019s Debt Crisis Stop the ECB From Raising Interest Rates Again?",
     "The ECB on Europe\u2019s AI Gap",
     "ROI-ECB can cool rate bets, but may not want to yet: Mike Dolan",
     "ECB: Banks report further tightening of credit standards",
     "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
-    "ECB Meeting Preview: EUR/USD Bears Face a Sentiment Test",
     "The ECB says the digital euro will guarantee EU sovereignty",
-    "Ammar bin Humaid reviews ECB economic growth strategy",
+    "ECB Meeting Preview: EUR/USD Bears Face a Sentiment Test",
     "European Central Bank Expected to Hold Interest Rates at 2.5%"
    ]
   },
@@ -144,21 +148,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 41,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
+    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Bank of England warns climate risks could widen UK insurance gaps",
     "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
     "Bank of England orders skilled-person review of Revolut",
     "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
-    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
+    "GBP Slides Toward 1.3300 Ahead of UK Budget, Fed Call",
     "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
     "Bank of England orders review of Revolut product approvals, FT reports",
-    "McAlpine bags \u00a3133m Bank of England overhaul"
+    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds"
    ]
   },
   {
@@ -166,21 +170,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 46,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada poised to hike key rate for first time in three years",
+    "FULL TEXT-Bank of Canada head sees less room for monetary accommodation",
+    "Bank of Canada Hikes to 2.5%, Says More Could Be Needed",
+    "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
+    "Bank of Canada delivers 1st hike in three years, raises key rate to 2.5%",
+    "Bank of Canada raises interest rates: Read the official statement",
     "Canadian Dollar Outlook Hinges on Central Bank's Rate Decision, Macklem's Comments, Commerzbank Says",
-    "Inflation Risks Are \u2018Alive and Well.\u2019 That\u2019s Why Tiff Macklem Is Worried",
-    "Why the Bank of Canada is expected to raise its policy interest rate Wednesday morning",
-    "Bank of Canada expected to hike key rate for 1st time since 2023",
-    "Bank of Canada rate decision will likely determine where the Canadian dollar goes from here, report says",
-    "Striking Bank of Canada security guards fined after noise complaints to mayor's office",
-    "Why the Bank of Canada is expected to raise its policy interest rate Wednesday morning",
-    "Bank of Canada Seen Hiking as Oil Creates Stubborn Inflation: Decision Guide",
-    "Bank of Canada Poised for 25 Basis Point Rate Hike to Curb Energy-Driven Inflation - News and Statistics"
+    "Bank of Canada poised to hike key rate for first time in three years",
+    "Bank of Canada Governor Tiff Macklem Discusses Latest Interest Rate Decision",
+    "Bank of Canada raises key interest rate amid soaring energy costs",
+    "Bank of Canada raises key interest rate, says another hike possible"
    ]
   },
   {
@@ -310,8 +314,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 10,
-   "kept": 4,
-   "added": 4,
+   "kept": 5,
+   "added": 5,
    "error": ""
   },
   {
