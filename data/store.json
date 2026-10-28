@@ -1222,7 +1222,8 @@
 "tone": "",
 "also": [
 "CoStar",
-"Rural Radio Network"
+"Rural Radio Network",
+"weisradio.com"
 ],
 "desc": "",
 "id": "f922f27f44d4",
@@ -1364,6 +1365,26 @@
 "basis": ""
 },
 {
+"t": "2026-10-16T07:00:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Warsh declined to signal his next rate move at IMF Bangkok meeting",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fajA1YkJtcXN0N05kckFDMUN3Wm82RWFXTkljNG9MRDZVZ1FXYV9tZkZvMnEzbXducnpfZnlRcWN3WC02UW5UelBLZHhRYTR6X3J5cmhXd1daa2lrZ0hKRXlNUE5FajFnY2REcmhMN2xqdzQ1MHlEYw?oc=5",
+"src": "Quartz",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "370e820c1685",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-16T06:28:47Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -1373,7 +1394,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Yahoo Finance Singapore"
+"Yahoo Finance Singapore",
+"France 24"
 ],
 "desc": "",
 "id": "9bb13c4be423",
@@ -1769,6 +1791,26 @@
 "basis": ""
 },
 {
+"t": "2026-10-15T07:00:00Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Fed’s Goolsbee warns AI demand could keep inflation running hot",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUx1WUJkR1NTTUtLU2JnNE5naFpvTGdhRVQwbjRBYmZZdlJOdy0xdWlDdVpxZE40aUpzQXY2a0d3cENleXp5dGdVWVpjcGtGTUs1dG43dHIyQXZTM0J0RFhQVFpIMG1McHprQkFvNHFxeTQ3d0pybC1SWGxOMGMyQjhoN2JxSEt3N2lxZkQydWNVUmI2ZzNnWTVZMWY0ckhVTFJCNGtYQjE?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ec9047ac14e6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-15T02:27:53Z",
 "bank": "ECB",
 "speaker": "Santos Pereira",
@@ -1987,6 +2029,26 @@
 "also": [],
 "desc": "",
 "id": "e033d86ee8a8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-10-14T07:00:00Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed's Bowman says there's time to 'wait and see' before any more action",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkUzM2NCLVljQkh5Nmlsd0FjZ2NYSWhFWUI2QUhxUjJpbXU0RFdtOEdYYUlkdnJZUldNcmVIRUFhMnhsVUtPR0tUUEdsYXNaZXlENDF2NlpDQnVOcHRJcnhMV1IxcmtxZHdtYTFDTnlEVEoyNU94cHMwbDAzcWJYeVJzYllzeVlhbk9tZ29lYVRBQXFrc09WNTlyMVV3RTY3VVpwSE9mVHg?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "532fa2c0e79b",
 "score": null,
 "read": "",
 "sum": "",

@@ -1,5 +1,5 @@
 {
- "built": "2026-10-28T06:48:56Z",
+ "built": "2026-10-28T07:30:31Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,9 +18,10 @@
    "ok": true,
    "fetched": 25,
    "kept": 2,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Chart of the day: Gold faces a make-or-break moment near $4,000 as Fed and market risks converge",
     "BlackRock sees one more Fed hike this year, calls market pricing for more too hawkish"
    ]
   },
@@ -56,71 +57,141 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 67,
+   "kept": 3,
    "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "error": "",
+   "near_misses": [
+    "What to expect from the Fed's meeting this week",
+    "5 things to watch for in this week's Federal Reserve meeting",
+    "Rising yields may help tighten financial conditions but won't do the Fed's job: FedWatch Advisors",
+    "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
+    "The Fed\u2019s October Meeting Starts Today. Here\u2019s What You Need To Know",
+    "Market Minute: The rising cost of inaction by the Fed",
+    "Indian Rupee is under pressure ahead of Fed\u2019s monetary policy",
+    "Appeals Court Challenges Fed\u2019s Debit Fee Cap",
+    "How investors can position ahead of the Fed's next policy decision",
+    "Should you open a CD account before the Fed's next meeting?"
+   ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "fetched": 100,
+   "kept": 65,
+   "added": 4,
+   "error": "",
+   "near_misses": [
+    "5 things to watch for in this week's Federal Reserve meeting",
+    "US Fed expected to hold rates steady ahead of key midterm elections",
+    "The Fed says it ignores politics. Its rate moves tell a more complicated story",
+    "Fed Expected to Hold Rates With Nod to December: Decision-Day Guide",
+    "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
+    "Kevin Warsh Wanted the Fed to Be Quiet. Instead, It\u2019s as Noisy as Ever.",
+    "The Fed is expected to hold interest rates steady. But Warsh may signal more hikes ahead",
+    "The Fed\u2019s October Meeting Starts Today. Here\u2019s What You Need To Know",
+    "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms"
+   ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 24,
+   "kept": 4,
    "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "error": "",
+   "near_misses": [
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
+    "KBC's capital remains well above ECB's minimum requirements for 2026 at 14.4% CET1 ratio.",
+    "Stablecoin Regulation Update: ECB\u2019s Reserve Proposal",
+    "France's debt woes in focus as ECB meets",
+    "Fujairah CP reviews ECB\u2019s role and mandate"
+   ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 21,
+   "kept": 3,
    "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "error": "",
+   "near_misses": [
+    "The ECB on Europe\u2019s AI Gap",
+    "Ready for French test?: 5 questions for European Central Bank | Daily Sabah",
+    "ECB: Banks report further tightening of credit standards",
+    "ECB outlines digital euro ahead of 2029 launch",
+    "ECB Calls Digital Euro a Tool for Europe\u2019s Payment Sovereignty",
+    "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
+    "The ECB says the digital euro will guarantee EU sovereignty",
+    "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+    "ECB Rate Decision: What to Expect on Thursday",
+    "European Central Bank Expected to Hold Interest Rates at 2.5%"
+   ]
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 36,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "error": "",
+   "near_misses": [
+    "Day after launching personal loans in UK, Revolut faces Bank of England review",
+    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
+    "Bank of England orders skilled-person review of Revolut",
+    "Bank of England warns climate risks could widen UK insurance gaps",
+    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
+    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
+    "Bank of England orders review of Revolut product approvals, FT reports",
+    "McAlpine bags \u00a3133m Bank of England overhaul",
+    "How many times will the BoE increase interest rates?",
+    "Liz Truss: 'The Lunatics Took Over the Asylum' | Bank of England Under Fire"
+   ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 29,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "error": "",
+   "near_misses": [
+    "Inflation Risks Are \u2018Alive and Well.\u2019 That\u2019s Why Tiff Macklem Is Worried",
+    "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
+    "Why economists think the Bank of Canada may hike rates on Wednesday",
+    "Bank of Canada expected to hike rate on Wednesday to stem spillover of energy inflation",
+    "Bank of Canada Seen Hiking as Oil Creates Stubborn Inflation: Decision Guide",
+    "Six ways a Bank of Canada rate hike could cost or benefit you",
+    "Bank of Canada May Hike Rates This Week Amid Energy Inflation from Iran War",
+    "The Bank of Canada's inflation dilemma",
+    "Bank of Canada Poised for 25 Basis Point Rate Hike to Curb Energy-Driven Inflation - News and Statistics",
+    "Posthaste: Why some economists think the Bank of Canada is about to make a mistake"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
@@ -132,6 +203,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "BoE to kick off short and precautionary tightening cycle in November",
     "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
     "Will the Fed drop any hints on rate rises?",
     "ECB on course for another rate rise in 2026",
