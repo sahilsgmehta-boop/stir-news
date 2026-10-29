@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T11:51:26Z",
+ "built": "2026-10-29T16:03:26Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 15,
+   "kept": 17,
    "added": 2,
    "error": ""
   },
@@ -17,13 +17,14 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
-   "added": 1,
+   "kept": 6,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "Chart of the day: Gold shrugs off Fed drama and big tech jitters, but for how much longer?",
-    "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive US PCE inflation?",
-    "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike bets barely budge"
+    "ECB sources report: Policymakers see a December rate hike followed by a pause",
+    "The door remains ajar for ECB to tighten. EURUSD rebounds after break lower failed",
+    "Morning Kickstart: The day after the Fed, Alphabet rattles the AI trade",
+    "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings"
    ]
   },
   {
@@ -33,10 +34,10 @@
    "ok": true,
    "fetched": 30,
    "kept": 3,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "European Central Bank keeps key interest rate on hold at 2.5%",
     "Fed rate hikes are coming, but not this week: CNBC survey",
     "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
     "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
@@ -53,7 +54,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Fed held off on a rate hike. Today\u2019s GDP and inflation reports could make waiting harder."
+    "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising."
    ]
   },
   {
@@ -62,20 +63,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 35,
+   "kept": 30,
    "added": 2,
    "error": "",
    "near_misses": [
-    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "Fed\u2019s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
+    "The Fed's preferred inflation gauge accelerated to 3.6% in September",
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
     "The Future of Money: Inside the Fed's Innovation Center",
+    "Fed's preferred inflation measure comes in hot at 3.6%",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
     "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
+    "September's Inflation Rate Was in Line With Expectations, But Still Well Above the Fed's Target",
     "The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
-    "The Fed\u2019s Capital Rules: Taking Money Away from the Main Street Economy",
-    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "Korea's chip boom catches US Fed chair's eye"
+    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'"
    ]
   },
   {
@@ -84,19 +85,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 46,
-   "added": 0,
+   "kept": 33,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
-    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
+    "Live Updates: Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
+    "Fed leaves rates steady as governor Lisa Cook dissents",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
     "Bond market swings after Fed says no rate increase",
+    "The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
     "Warsh Puts a Spotlight on AI Financing\u2019s Vulnerability to Fed Policy",
+    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It"
    ]
   },
@@ -106,20 +107,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 29,
-   "added": 9,
+   "kept": 27,
+   "added": 6,
    "error": "",
    "near_misses": [
-    "Christine Lagarde to Step Down as President of European Central Bank",
-    "President of the European Central Bank Christine Lagarde to stand down in February",
+    "Christine Lagarde departs at a moment of peril",
+    "European Central Bank head resigns, allowing search for successor to begin before French election",
+    "Christine Lagarde to Step Down as Chief of European Central Bank",
+    "ECB president Lagarde to step down early",
+    "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
     "Europe\u2019s central bank chief Christine Lagarde to step down nine months early",
     "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
+    "European Central Bank President Lagarde resigns after months of speculation",
     "Christine Lagarde to step down as ECB president in February",
-    "Christine Lagarde departs at a moment of peril",
-    "The Race to Replace Lagarde Begins After Announcing She\u2019ll Leave ECB Early",
-    "ECB president Lagarde to step down early",
-    "Christine Lagarde to step down as ECB president in February",
-    "ECB head Christine Lagarde to step down in February"
+    "ECB Holds Rates as Lagarde Exit Compounds Alarm Over Oil, France"
    ]
   },
   {
@@ -127,21 +128,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 23,
    "kept": 3,
    "added": 1,
    "error": "",
    "near_misses": [
-    "De Cos and Knot Are Top ECB Candidates After Early Lagarde Exit",
-    "Christine Lagarde to step down as ECB president in February",
-    "Christine Lagarde to step down as ECB president in February",
-    "Christine Lagarde to Step Down as President of European Central Bank",
-    "European Central Bank President Christine Lagarde will resign in February, nine months early",
+    "VIEW ECB keeps rates unchanged; euro and bond yields fall",
+    "Who Replaces Lagarde? De Cos and Knot Lead Candidates to Run ECB",
+    "ECB warns prolonged energy shock to drive up inflation, lower growth",
+    "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
     "European Central Bank President Christine Lagarde will resign Feb. 7, nine months early",
-    "USD/JPY and EUR/JPY: Diverging Setups Ahead of ECB and BOJ",
-    "Christine Lagarde will leave the presidency of the ECB on February 7, placing Spaniard Hern\u00e1ndez de Cos in the race for her succession",
-    "EUR/USD weekly outlook: FOMC and ECB to set the tone",
-    "European Central Bank President Christine Lagarde will resign February 7, nine months early"
+    "Lagarde\u2019s early exit Le Pen-proofs ECB as France veers toward a debt reckoning",
+    "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
+    "Christine Lagarde is resigning as ECB president months early",
+    "European Central Bank President Christine Lagarde will resign in February, nine months early",
+    "ECB keeps rates unchanged, euro slips"
    ]
   },
   {
@@ -149,20 +150,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 29,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
     "The Cumberland joins Bank of England unit to support future growth plans",
     "Revolut faces Bank of England scrutiny over rapid product rollouts \u2013 report",
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
+    "Bank of England to Consult on Tokenised Collateral Standards",
+    "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
     "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
+    "Mortgage borrowing falls in September, says Bank of England",
     "Bank of England deal a highlight as Leeds take-up slips",
-    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
-    "Healey keeps Bank of England\u2019s 2% inflation target and flags energy price pressure"
+    "Liz Truss: 'The Lunatics Took Over the Asylum' | Bank of England Under Fire"
    ]
   },
   {
@@ -170,20 +172,20 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 5,
+   "fetched": 97,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
-    "Bank of Canada raises key interest rate, says another hike possible",
+    "FULL TEXT-Bank of Canada head sees less room for monetary accommodation",
     "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
+    "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
     "Bank of Canada raises interest rates: Read the official statement",
-    "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
+    "Bank of Canada: Further tightening risk highlighted \u2013 Rabobank",
     "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
     "Bank of Canada Governor Says US Deficits Are Unsustainable",
-    "The Bank of Canada just raised its policy interest rate",
-    "Bank of Canada delivers 1st hike in three years, raises key rate to 2.5%",
+    "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
     "Macklem Defends Hawkish Turn After Canada\u2019s First Rate Hike in Three Years"
    ]
   },
@@ -206,10 +208,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 5,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
+    "The two pragmatists leading the race to run the ECB",
+    "Strong US inflation and growth will keep Fed on a tightening path",
     "The ECB needs a smooth transmission and a smooth transition",
     "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
     "BoE to kick off short and precautionary tightening cycle in November",
@@ -265,8 +269,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 4,
-   "added": 0,
+   "kept": 5,
+   "added": 2,
    "error": ""
   },
   {
@@ -275,8 +279,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
-   "added": 6,
+   "kept": 15,
+   "added": 5,
    "error": ""
   },
   {
