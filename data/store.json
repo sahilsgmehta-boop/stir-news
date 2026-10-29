@@ -81,6 +81,26 @@
 "basis": ""
 },
 {
+"t": "2026-10-29T17:01:52Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "EU leaders launch succession process as ECB President Lagarde announces early resignation",
+"url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS1dNU29SWW1ud2tsZTVXc2g0MENtcURoeGd6ZzhrZlM4UjZDbjUyVkNpLTZjOFdoYXhUZjA4TjBpMlFubkVxTnU3am5mcjhfclQtbUtxRVFWQmlIdno2Rk1UaWFNUkYxSTRGVEJHY1ZWSjd4eUhjdVA0Wm5kMVFFeWphS0ViRU8zVXNYdmNES0E5RzZOT0FQRXhtT2NIRm5xaGpaRlUtT05QR1NEVDU3SzF6MlJlS3NjajlxaXRSTkh5MEFZTGF3RWpIUDRyeWRuTy1XN0dHaHRMWFVNMkJVZzBtYmNKZXBTdUtoTFZB?oc=5",
+"src": "INSIGHT EU MONITORING",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c3366c3391c2",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-29T16:31:00Z",
 "bank": "SNB",
 "speaker": "Tschudin",
@@ -150,7 +170,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"Euronext Markets: Real-time Stock Market Data | live"
+"Euronext Markets: Real-time Stock Market Data | live",
+"Fresno Bee"
 ],
 "desc": "",
 "id": "2596ad9a0779",
@@ -394,12 +415,33 @@
 "France 24",
 "European Interest",
 "Investing.com",
-"FT central banks"
+"FT central banks",
+"www.tmgm.com"
 ],
 "desc": "Departure announced just hours before central bank holds interest rates at 2.5%",
 "id": "ef0d23d5e928",
 "score": 0,
 "read": "Announces early departure; says nothing about the policy outlook.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-10-29T12:13:32Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "The Fed Will Deliver Price Stability, Warsh Says",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0JYZXhweWh5QzlCalFoWGNaNUF5QURhZVF0Wlo1Unc4dnBUS09jTk11MlJEanhORU85VHV5RE1IeFFVOGY0WGJHT3BEd3JER3RXdmtNeWN4bndGT19rbW1zR28xUDV1ZnhKazdqT2ZMdVRFYkNGVXpPZE9QZko5NFN2MzFaNVNqYTQyVWtIUGdRZkZhaXRJ?oc=5",
+"src": "Moomoo",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3bad854b8f86",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -986,7 +1028,8 @@
 "Awani International",
 "marketscreener.com",
 "Yahoo Finance",
-"Myrtle Beach Sun News"
+"Myrtle Beach Sun News",
+"The Japan News"
 ],
 "desc": "",
 "id": "a5e960d90bd1",
