@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T16:26:25Z",
+ "built": "2026-10-29T21:05:52Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 17,
-   "added": 0,
+   "kept": 18,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,14 +17,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
-   "added": 0,
+   "kept": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
     "ECB sources report: Policymakers see a December rate hike followed by a pause",
-    "The door remains ajar for ECB to tighten. EURUSD rebounds after break lower failed",
-    "Morning Kickstart: The day after the Fed, Alphabet rattles the AI trade",
-    "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings"
+    "The door remains ajar for ECB to tighten. EURUSD rebounds after break lower failed"
    ]
   },
   {
@@ -53,9 +51,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising."
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_fed",
@@ -63,20 +59,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 29,
+   "kept": 35,
    "added": 1,
    "error": "",
    "near_misses": [
+    "Warsh shakes up Fed's approach to setting interest rates",
     "Fed\u2019s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
+    "Economist: Strong GDP growth, inflation complicate Fed's decisions",
+    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
     "The Fed's preferred inflation gauge accelerated to 3.6% in September",
     "The Future of Money: Inside the Fed's Innovation Center",
-    "Fed's preferred inflation measure comes in hot at 3.6%",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Mortgage borrowers face elevated costs after Fed\u2019s October hold",
-    "Core PCE inflation strays farther from Fed's 2% goal with September's reading",
+    "Fed\u2019s Path to a Repo-Based Framework Faces a Familiar Roadblock",
     "The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
-    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "Fed\u2019s Path to a Repo-Based Framework Faces a Familiar Roadblock"
+    "Fed's preferred inflation measure comes in hot at 3.6%"
    ]
   },
   {
@@ -85,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 34,
-   "added": 7,
+   "kept": 42,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Warsh shakes up Fed's approach to setting interest rates",
+    "Warsh shakes up Fed's approach to setting interest rates",
     "The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
-    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-    "Live Updates: Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
-    "Fed leaves rates steady as governor Lisa Cook dissents",
+    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Bond market swings after Fed says no rate increase",
-    "Warsh Puts a Spotlight on AI Financing\u2019s Vulnerability to Fed Policy",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It"
+    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.",
+    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
+    "Fed highlights economic strength but muddies outlook for Treasuries",
+    "Warsh Puts a Spotlight on AI Financing\u2019s Vulnerability to Fed Policy"
    ]
   },
   {
@@ -107,20 +103,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 27,
-   "added": 1,
+   "kept": 26,
+   "added": 7,
    "error": "",
    "near_misses": [
+    "Christine Lagarde to Step Down as President of European Central Bank",
+    "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
     "Christine Lagarde departs at a moment of peril",
-    "European Central Bank head resigns, allowing search for successor to begin before French election",
-    "Christine Lagarde to Step Down as Chief of European Central Bank",
-    "ECB president Lagarde to step down early",
     "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
-    "Europe\u2019s central bank chief Christine Lagarde to step down nine months early",
+    "ECB president Lagarde to step down early",
     "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
-    "European Central Bank President Lagarde resigns after months of speculation",
-    "Christine Lagarde to step down as ECB president in February",
-    "Lagarde Downplays Risk of Inflation Broadening as ECB Holds"
+    "European Central Bank President Lagarde to step down early",
+    "European Central Bank President Lagarde resigns early",
+    "\u2018I\u2019m not a candidate for anything\u2019: What Lagarde told Euronews before quitting the ECB",
+    "Christine Lagarde to step down as ECB president in February"
    ]
   },
   {
@@ -128,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
-   "kept": 1,
+   "fetched": 28,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "VIEW ECB keeps rates unchanged; euro and bond yields fall",
-    "ECB keeps rates unchanged, euro slips",
     "Who Replaces Lagarde? De Cos and Knot Lead Candidates to Run ECB",
+    "European Central Bank President Christine Lagarde will resign Feb. 7, nine months early",
+    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
+    "ECB holds interest rates steady as energy shock drives inflation to 3.8%",
     "ECB warns prolonged energy shock to drive up inflation, lower growth",
     "Stournaras Praises Lagarde as She Prepares to Leave ECB",
-    "European Central Bank President Christine Lagarde will resign Feb. 7, nine months early",
+    "European Central Bank President Christine Lagarde will resign in February, nine months early",
     "Lagarde\u2019s early exit Le Pen-proofs ECB as France veers toward a debt reckoning",
-    "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
-    "European Central Bank President Christine Lagarde will resign Feb. 7, nine months early",
-    "Euro steady against dollar after ECB leaves rates unchanged"
+    "European Central Bank head resigns, allowing EU leaders to choose successor before French election"
    ]
   },
   {
@@ -150,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 23,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Cumberland joins Bank of England unit to support future growth plans",
+    "BoE publishes consultation on supervisory expectations for CCPs seeking to accept tokenised collateral",
     "Revolut faces Bank of England scrutiny over rapid product rollouts \u2013 report",
-    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
+    "The Cumberland joins Bank of England unit to support future growth plans",
+    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
-    "Bank of England to Consult on Tokenised Collateral Standards",
     "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
     "Mortgage borrowing falls in September, says Bank of England",
     "Bank of England deal a highlight as Leeds take-up slips",
-    "Liz Truss: 'The Lunatics Took Over the Asylum' | Bank of England Under Fire"
+    "Healey keeps Bank of England\u2019s 2% inflation target and flags energy price pressure"
    ]
   },
   {
@@ -172,20 +168,20 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 5,
+   "fetched": 97,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
     "FULL TEXT-Bank of Canada head sees less room for monetary accommodation",
-    "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
+    "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
     "Bank of Canada: Further tightening risk highlighted \u2013 Rabobank",
     "Bank of Canada raises interest rates: Read the official statement",
-    "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
-    "Bank of Canada Governor Says US Deficits Are Unsustainable",
+    "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
     "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
-    "Macklem Defends Hawkish Turn After Canada\u2019s First Rate Hike in Three Years",
+    "The Bank of Canada just raised its policy interest rate",
+    "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
     "Bank of Canada raises key interest rate, says another hike possible"
    ]
   },
@@ -194,9 +190,9 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 1,
-   "kept": 0,
-   "added": 0,
+   "fetched": 2,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
     "USD Rises vs Franc as Fed Looms and SNB Holds Rates"
@@ -209,7 +205,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 6,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The two pragmatists leading the race to run the ECB",
@@ -349,7 +345,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 4,
+   "kept": 5,
    "added": 0,
    "error": ""
   }
