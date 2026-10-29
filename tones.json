@@ -1206,6 +1206,288 @@
    "basis": "reports",
    "at": "2026-10-28T20:55:55Z",
    "by": "claude"
+  },
+  "6ce595b2569c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "d3a1d4268cf8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "7dcba51b0238": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "dd2a641ad5cc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "dd353ac63993": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "9aaf04ef7b6a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "f7e1f7f5d902": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "4a6cd9ca2372": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Headline teases a surprise inside the pause; no clear rate signal reported.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "a5e960d90bd1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Independence comment on the decision process; no signal for the rate path.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "79acfe3639bc": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Rejecting forward guidance withholds any endorsement of December hike pricing.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "f4d01aeebf8c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Summary of the decision and presser; mixed signals overall.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "9d1419f4de36": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Balance sheet review timing only; no near-term rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "ef18df82b0fe": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Saying the medicine is working implies less need for hikes beyond what is priced.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "3096d88ba74b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Meeting-format changes; no bearing on the rate path.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "42d497b3843c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Governance remark on the Cook case; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "31e3d9980879": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Balance sheet review set for early 2027; no near-term rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "d17e12338c74": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Independence comment on the decision process; no signal for the rate path.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "464a0b175ed0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Collegial remark about the Committee; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "5331203a7e38": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Calling inflation too high leans toward further tightening.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "775350e007f5": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says politics and midterms played no role; no rate signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "00dbe9410da1": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Saying the economy is not overheating pushes back on aggressive hike pricing.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "32e4d7b4ec7e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comfort with the reaction to September's hike; no new direction.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "0e62e7e26313": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Holding for an information-rich period keeps a December decision open.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "7a2a65578c80": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Explainer says a December hike stays in play after the split hold.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "0ff1093c4057": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Fewer meetings from 2027; no bearing on the rate path.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "811b769ed76e": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Flagging higher oil futures stresses upside inflation risk.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "90f9c6f33008": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Upbeat on the economy's direction, no added urgency to tighten.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "d0d011e23d45": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Anchored expectations and calm on volatility reduce urgency to hike.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "5c598b2b7311": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Saying hikes are working was read as less need for more; dollar fell.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "840449ac3ae7": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "No timetable for price stability; dollar slid on a less forceful message.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "9d29996ff1fb": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Emphasis on tightening already in place suggests less need for more.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "f259f88bbeaa": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Stressing readiness to act keeps further tightening on the table.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "e351832e160d": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Cook dissented for a hike, widening hawkish support beyond the usual hard-liners.",
+   "sum": "Governor Cook dissented from the October hold, preferring a 25bp hike, one of two hawkish dissents in a 10-2 vote.",
+   "pts": [
+    "Cook voted against holding at 3.75-4.00% and preferred a quarter-point hike.",
+    "Her dissent joined Hammack's, giving two hike dissents.",
+    "The dissent broadens hawkish support beyond the Committee's usual hard-liners.",
+    "Warsh did not push back on December hike pricing at the press conference."
+   ],
+   "rr": "Strengthens the case that a December hike has broad backing and supports front-end yields; argues against pricing 2027 cuts. Only news paraphrases were available.",
+   "ev": "FOMC dissent",
+   "basis": "reports",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
+  },
+  "5d7b0044c051": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Hold despite intensifying inflation keeps further tightening in play.",
+   "sum": "The Fed held rates at 3.75-4.00% despite intensifying inflation and will hold seven policy votes next year instead of eight.",
+   "pts": [
+    "Rates left unchanged at 3.75-4.00%.",
+    "Inflation is described as intensifying.",
+    "The Fed will vote on policy seven times next year, ending the custom of eight meetings."
+   ],
+   "rr": "A hold framed against rising inflation keeps the December hike priced; fewer meetings make each decision weigh more. Only news paraphrases were available.",
+   "ev": "FOMC decision (Washington)",
+   "basis": "reports",
+   "at": "2026-10-29T06:50:12Z",
+   "by": "claude"
   }
  }
 }
