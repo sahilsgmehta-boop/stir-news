@@ -1488,6 +1488,67 @@
    "basis": "reports",
    "at": "2026-10-29T06:50:12Z",
    "by": "claude"
+  },
+  "5dab31c9c3b6": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Pledges to deliver price stability, echoing the presser; no new steer on December.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
+  },
+  "94fd842a4cd7": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Says conditions are helping bring inflation down, a slightly softer note against hike pricing.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
+  },
+  "2593da80b3a7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comments on watching Korea's economy; no signal for the rate path.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
+  },
+  "fa5be02e7cb7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Cites Korea as a key supplier to the US tech boom; no policy signal.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
+  },
+  "0d59dd5379bf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Stresses high uncertainty, adding no new steer after the hike.",
+   "lead": "e3e13567e2e3",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
+  },
+  "ee9dd1e9cb8e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
+  },
+  "9e18e94123a9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
+  },
+  "bd096ab03159": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T11:51:09Z",
+   "by": "claude"
   }
  }
 }
