@@ -1549,6 +1549,114 @@
    "read": "Not a policy remark.",
    "at": "2026-10-29T11:51:09Z",
    "by": "claude"
+  },
+  "18213ea95ef3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "sum": "Lagarde told the Governing Council she will step down as ECB President on 7 February 2027, months before her term was due to end in October 2027.",
+   "pts": [
+    "Informed the Governing Council and European Council President António Costa of her decision to leave early.",
+    "Leaves office on 7 February 2027 rather than at the end of her term in October 2027.",
+    "Successor to be appointed by the European Council under the Article 283 TFEU nomination process.",
+    "Announcement came on the day of the October policy decision; no policy remarks were reported alongside it."
+   ],
+   "rr": "No direct signal for the rate path; a hold at 2.50% was mostly priced for today. Leadership change adds some uncertainty to the 2027 path, depending on who succeeds her. Only news paraphrases were available.",
+   "ev": "ECB statement on early departure",
+   "basis": "reports",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "6b51ddfe2c9b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "cf8b9bc37511": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "1aad0fb4fd30": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "757caeb22002": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "2873bcff6bc6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "f4eec238c0ad": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "832bf7e17ebf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "2388a1073435": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "5866e544a8eb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "863e5abf108f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "24c08bfe6ba8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
+  },
+  "d2a862d4a2c1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T16:03:04Z",
+   "by": "claude"
   }
  }
 }
