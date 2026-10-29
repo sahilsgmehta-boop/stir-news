@@ -9,7 +9,9 @@
 "src": "U.S. News & World Report",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Euronext Markets: Real-time Stock Market Data | live"
+],
 "desc": "",
 "id": "2596ad9a0779",
 "score": null,
@@ -192,7 +194,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"C-SPAN"
+"C-SPAN",
+"Norada Real Estate Investments"
 ],
 "desc": "",
 "id": "9737319f8d8a",
@@ -213,8 +216,13 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "",
-"also": [],
-"desc": "",
+"also": [
+"France 24",
+"European Interest",
+"Investing.com",
+"FT central banks"
+],
+"desc": "Departure announced just hours before central bank holds interest rates at 2.5%",
 "id": "ef0d23d5e928",
 "score": null,
 "read": "",
@@ -327,7 +335,8 @@
 "Financial News London",
 "marketscreener.com",
 "blue News",
-"Morningstar"
+"Morningstar",
+"Le Monde.fr"
 ],
 "desc": "",
 "id": "2873bcff6bc6",
