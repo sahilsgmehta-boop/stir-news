@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T09:48:11Z",
+ "built": "2026-10-29T11:51:26Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 13,
-   "added": 0,
+   "kept": 15,
+   "added": 2,
    "error": ""
   },
   {
@@ -17,15 +17,13 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 4,
    "added": 1,
    "error": "",
    "near_misses": [
     "Chart of the day: Gold shrugs off Fed drama and big tech jitters, but for how much longer?",
     "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive US PCE inflation?",
-    "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike bets barely budge",
-    "The view from China: CITIC Securities still sees a 25bp Fed hike in December",
-    "Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with the Fed"
+    "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike bets barely budge"
    ]
   },
   {
@@ -34,8 +32,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 30,
-   "kept": 2,
-   "added": 0,
+   "kept": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
@@ -54,7 +52,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "The Fed held off on a rate hike. Today\u2019s GDP and inflation reports could make waiting harder."
+   ]
   },
   {
    "id": "gn_fed",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 47,
+   "kept": 35,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -71,10 +71,10 @@
     "The Future of Money: Inside the Fed's Innovation Center",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
     "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
+    "The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
     "The Fed\u2019s Capital Rules: Taking Money Away from the Main Street Economy",
     "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "Korea's chip boom catches US Fed chair's eye"
    ]
   },
@@ -84,20 +84,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 31,
-   "added": 6,
+   "kept": 46,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-    "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
     "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
-    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
+    "The Fed's decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
     "Bond market swings after Fed says no rate increase",
-    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
-    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'"
+    "Warsh Puts a Spotlight on AI Financing\u2019s Vulnerability to Fed Policy",
+    "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It"
    ]
   },
   {
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 3,
-   "added": 0,
+   "fetched": 100,
+   "kept": 29,
+   "added": 9,
    "error": "",
    "near_misses": [
-    "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
-    "ECB to hold rates as investors focus on French bonds, Lagarde's future",
-    "Global Market: ECB rate decision in focus as Lagarde exit speculation grows",
-    "ECB Holds Rates Amid French Bond Turmoil & Lagarde Future Uncertainty",
-    "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Lagarde\u2019s comments could keep a December rate increase 'in play'",
-    "The public debt situation in France is \"complicating\" the ECB's interest rate decision.",
-    "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "KBC's capital remains well above ECB's minimum requirements for 2026 at 14.4% CET1 ratio."
+    "Christine Lagarde to Step Down as President of European Central Bank",
+    "President of the European Central Bank Christine Lagarde to stand down in February",
+    "Europe\u2019s central bank chief Christine Lagarde to step down nine months early",
+    "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
+    "Christine Lagarde to step down as ECB president in February",
+    "Christine Lagarde departs at a moment of peril",
+    "The Race to Replace Lagarde Begins After Announcing She\u2019ll Leave ECB Early",
+    "ECB president Lagarde to step down early",
+    "Christine Lagarde to step down as ECB president in February",
+    "ECB head Christine Lagarde to step down in February"
    ]
   },
   {
@@ -127,19 +127,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 1,
-   "added": 0,
+   "fetched": 32,
+   "kept": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "De Cos and Knot Are Top ECB Candidates After Early Lagarde Exit",
+    "Christine Lagarde to step down as ECB president in February",
+    "Christine Lagarde to step down as ECB president in February",
+    "Christine Lagarde to Step Down as President of European Central Bank",
+    "European Central Bank President Christine Lagarde will resign in February, nine months early",
+    "European Central Bank President Christine Lagarde will resign Feb. 7, nine months early",
     "USD/JPY and EUR/JPY: Diverging Setups Ahead of ECB and BOJ",
+    "Christine Lagarde will leave the presidency of the ECB on February 7, placing Spaniard Hern\u00e1ndez de Cos in the race for her succession",
     "EUR/USD weekly outlook: FOMC and ECB to set the tone",
-    "PREVIEW: ECB to hold rates steady",
-    "ECB Set to Hold Rates to Assess France and Energy Risks",
-    "Will France\u2019s Debt Crisis Stop the ECB From Raising Interest Rates Again?",
-    "EU Market Open: APAC stocks were mixed as the region digested the FOMC and big tech earnings; KOSPI underperformed as Samsung Electronics' results",
-    "COMMENTARY: ECB can cool rate bets, but may not want to yet",
-    "European Central Bank Expected to Hold Interest Rates at 2.5%"
+    "European Central Bank President Christine Lagarde will resign February 7, nine months early"
    ]
   },
   {
@@ -147,21 +149,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
+    "The Cumberland joins Bank of England unit to support future growth plans",
     "Revolut faces Bank of England scrutiny over rapid product rollouts \u2013 report",
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
-    "Bank of England warns climate risks could widen UK insurance gaps",
     "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
-    "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
     "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
-    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
     "Bank of England deal a highlight as Leeds take-up slips",
-    "Sir Robert McAlpine selected for \u00a3133m Bank of England refurbishment",
-    "Liz Truss: 'The Lunatics Took Over the Asylum' | Bank of England Under Fire"
+    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
+    "Healey keeps Bank of England\u2019s 2% inflation target and flags energy price pressure"
    ]
   },
   {
@@ -176,7 +177,7 @@
    "near_misses": [
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
     "Bank of Canada raises key interest rate, says another hike possible",
-    "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
+    "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
     "Bank of Canada raises interest rates: Read the official statement",
     "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
     "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
@@ -205,12 +206,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
     "The ECB needs a smooth transmission and a smooth transition",
+    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
     "BoE to kick off short and precautionary tightening cycle in November",
     "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
     "Will the Fed drop any hints on rate rises?",
