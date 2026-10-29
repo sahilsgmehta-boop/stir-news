@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T02:55:46Z",
+ "built": "2026-10-29T06:50:34Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 13,
-   "added": 2,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,10 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike bets barely budge",
     "The view from China: CITIC Securities still sees a 25bp Fed hike in December",
     "Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with the Fed"
    ]
@@ -58,20 +59,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 39,
-   "added": 6,
+   "kept": 41,
+   "added": 5,
    "error": "",
    "near_misses": [
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
+    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "The Fed\u2019s Capital Rules: Taking Money Away from the Main Street Economy",
     "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
-    "U.S. midterms may have factored into Fed's decision to hold rates: INSEAD",
-    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-    "The Fed's new headache: An AI boom that turns to bust"
+    "Fed\u2019s Interest Rate Decision: October 28, 2026",
+    "Korea's chip boom catches US Fed chair's eye",
+    "U.S. midterms may have factored into Fed's decision to hold rates: INSEAD"
    ]
   },
   {
@@ -80,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 49,
-   "added": 0,
+   "kept": 35,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
+    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
+    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+    "Fed holds main interest rate steady despite accelerating inflation",
     "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
     "Fed holds rates steady despite concerns over inflation",
-    "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-    "Fed holds main interest rate steady despite accelerating inflation"
+    "Fed Holds Rates Steady Despite Lack of Progress on Inflation"
    ]
   },
   {
@@ -101,13 +102,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 24,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB to hold rates as investors focus on French bonds, Lagarde's future",
-    "ECB Holds Rates Amid French Bond Turmoil & Lagarde Future Uncertainty",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Lagarde\u2019s comments could keep a December rate increase 'in play'",
     "The public debt situation in France is \"complicating\" the ECB's interest rate decision.",
@@ -127,10 +127,12 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "USD/JPY and EUR/JPY: Diverging Setups Ahead of ECB and BOJ",
+    "EUR/USD weekly outlook: FOMC and ECB to set the tone",
     "PREVIEW: ECB to hold rates steady",
+    "ECB Set to Hold Rates to Assess France and Energy Risks",
     "Will France\u2019s Debt Crisis Stop the ECB From Raising Interest Rates Again?",
-    "The ECB on Europe\u2019s AI Gap",
-    "ROI-ECB can cool rate bets, but may not want to yet: Mike Dolan",
+    "COMMENTARY: ECB can cool rate bets, but may not want to yet",
     "ECB: Banks report further tightening of credit standards",
     "European Central Bank Expected to Hold Interest Rates at 2.5%"
    ]
@@ -140,16 +142,16 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 47,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
     "Revolut faces Bank of England scrutiny over rapid product rollouts \u2013 report",
-    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
+    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Bank of England warns climate risks could widen UK insurance gaps",
+    "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
     "Bank of England orders skilled-person review of Revolut",
     "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
     "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
@@ -163,8 +165,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 5,
-   "added": 0,
+   "kept": 6,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
