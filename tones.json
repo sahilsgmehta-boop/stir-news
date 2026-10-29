@@ -1657,6 +1657,121 @@
    "read": "Not a policy remark.",
    "at": "2026-10-29T16:03:04Z",
    "by": "claude"
+  },
+  "8be498015a19": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Priced hold at 2.50%, with energy flagged as an upside inflation risk; no hike signal.",
+   "sum": "The ECB left all three key rates unchanged, deposit 2.50%, refi 2.65%, MLF 2.90%, as expected, warning rising energy prices pose upside inflation risks.",
+   "pts": [
+    "Deposit rate held at 2.50%, main refi at 2.65%, marginal lending at 2.90%, all as expected.",
+    "Said energy prices continue to rise, posing upside risks to the inflation outlook.",
+    "Rising energy prices are also a downside risk to growth.",
+    "Hold follows the 25bp hike in September."
+   ],
+   "rr": "Matches the roughly 87% priced hold. Upside inflation-risk language keeps a further hike in play for December or early 2027 without pre-committing. Only news paraphrases were available.",
+   "ev": "Monetary policy decision (Frankfurt)",
+   "basis": "reports",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "88255669ecae": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Hold as expected; energy cited as upside inflation risk and downside growth risk.",
+   "lead": "8be498015a19",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "e199bca473c6": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Upside inflation risks from energy offset by weak growth and moderate wages; meeting-by-meeting.",
+   "sum": "Lagarde said energy has pushed inflation risks higher and headline inflation will stay well above target, but growth risks are down and wage pressures moderate.",
+   "pts": [
+    "Energy prices have risen beyond the baseline path and will boost inflation further in the medium term.",
+    "Headline inflation likely well above target in coming quarters; early stages of the pricing chain point to upward pressure.",
+    "Wage pressures remain moderate.",
+    "Higher energy prices and financing costs hurt confidence; risks to growth are to the downside, though AI investment and government spending should support growth.",
+    "Financial conditions have tightened.",
+    "Will follow a meeting-by-meeting approach, no pre-commitment."
+   ],
+   "rr": "No push toward a December hike: the euro dipped during the presser, so the balance of upside inflation and downside growth risks read slightly soft against pricing. Further-hike optionality stays alive for early 2027. Only news paraphrases were available.",
+   "ev": "Press conference, monetary policy statement (Frankfurt)",
+   "basis": "reports",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "cb048024fd6a": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Copy of the monetary policy statement; balanced risks, meeting-by-meeting.",
+   "lead": "e199bca473c6",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "710afc5371e3": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Upside inflation risks offset by downside growth risks and moderate wages; euro dipped.",
+   "lead": "e199bca473c6",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "fbf2cd14b190": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Reports the priced hold and her exit; no new rate signal.",
+   "lead": "e199bca473c6",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "2596ad9a0779": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About her reasons for leaving early; no policy signal.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "ef0d23d5e928": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "3e0706955d87": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "60342611f39d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "14aba5743325": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Analysis says Warsh not calling conditions tight supports December hike pricing.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
+  },
+  "9737319f8d8a": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Warns higher rates reach AI-boom financing; no new steer on December.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-29T21:05:36Z",
+   "by": "claude"
   }
  }
 }
