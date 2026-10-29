@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-10-29T09:02:10Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Warsh: Korea Among Key Suppliers Fueling U.S. Tech Boom",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmg1bTJralQ1bXJpSUtyTXNHLTJzQVcxR0NGOVZUWlk0ME9fQWt6UXB2aWNuWVJwTk1wQnRUVVpwWWJaVW5NRFJRNVpUazBjN0c0Um1QWS14RHFaTW8wTGNTYlJWWjhwbXNoU1NNbjdZdHltS2V2MmF0Y2lrU2thdjBzVnRzajBma1dTMHU3NmgzVGV2YW5abGg2UkpOakJfTUpHQzlyWE55Uy13?oc=5",
+"src": "Seoul Economic Daily",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fa5be02e7cb7",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-10-29T08:27:48Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Gold whipsaws on FOMC decision as near-term outlook turns more bullish amid a slow-moving Fed",
+"url": "https://investinglive.com/commodities/gold-whipsaws-on-fomc-decision-as-near-term-outlook-turns-more-bullish-amid-a-slow-moving-fed/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Gold staged a brief relief rally yesterday after the Fed delivered a largely neutral decision but failed to extend the gains above a key resistance zone. That was an odd reaction considering that Fed Chair Warsh didn’t even hint to an imminent rate hike and said a whole lot of nothing. This should keep gold supported in the short-term as real yields continue to slowly edge lower amid higher inflation expectations and relatively stable nominal yields. Meanwhile, the US-Iran negotiations remain at a stalemate, although we’ve seen a stronger push this week, with US Vice President Vance reportedly",
+"id": "bd096ab03159",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-29T05:19:00Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -151,7 +191,10 @@
 "tone": "neutral",
 "also": [
 "Kansas City Star",
-"WSJ"
+"WSJ",
+"San Luis Obispo Tribune",
+"MarketWatch",
+"Awani International"
 ],
 "desc": "",
 "id": "a5e960d90bd1",
@@ -450,7 +493,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Firstpost"
+"Firstpost",
+"Moneycontrol.com"
 ],
 "desc": "",
 "id": "5331203a7e38",
@@ -623,7 +667,13 @@
 "myfox28columbus.com",
 "KBAK",
 "WGXA",
-"The National Desk"
+"The National Desk",
+"KRXI",
+"KHGI",
+"KGAN",
+"WSBT",
+"WGME",
+"WSTM"
 ],
 "desc": "",
 "id": "75771c0b0b71",
@@ -938,7 +988,9 @@
 "WCYB",
 "WBFF",
 "KVII",
-"WEAR TV"
+"WEAR TV",
+"Fox 28",
+"KTXS"
 ],
 "desc": "",
 "id": "559a23cc132f",
@@ -962,7 +1014,8 @@
 "also": [
 "Bloomberg.com",
 "Bloomberg",
-"marketscreener.com"
+"marketscreener.com",
+"Moomoo"
 ],
 "desc": "",
 "id": "c614dd08cf5c",

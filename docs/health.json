@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T06:50:34Z",
+ "built": "2026-10-29T09:48:11Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 13,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -17,10 +17,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
-   "added": 0,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Chart of the day: Gold shrugs off Fed drama and big tech jitters, but for how much longer?",
+    "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive US PCE inflation?",
     "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike bets barely budge",
     "The view from China: CITIC Securities still sees a 25bp Fed hike in December",
     "Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with the Fed"
@@ -36,6 +38,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
     "Fed rate hikes are coming, but not this week: CNBC survey",
     "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
     "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
@@ -59,20 +62,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 41,
-   "added": 5,
+   "kept": 47,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
+    "The Future of Money: Inside the Fed's Innovation Center",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
     "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "The Fed\u2019s Capital Rules: Taking Money Away from the Main Street Economy",
     "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
-    "Fed\u2019s Interest Rate Decision: October 28, 2026",
-    "Korea's chip boom catches US Fed chair's eye",
-    "U.S. midterms may have factored into Fed's decision to hold rates: INSEAD"
+    "The Fed\u2019s Capital Rules: Taking Money Away from the Main Street Economy",
+    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+    "Korea's chip boom catches US Fed chair's eye"
    ]
   },
   {
@@ -81,20 +84,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 35,
-   "added": 7,
+   "kept": 31,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
     "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "Fed holds main interest rate steady despite accelerating inflation",
-    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
+    "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "Bond market swings after Fed says no rate increase",
+    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
-    "Fed holds rates steady despite concerns over inflation",
-    "Fed Holds Rates Steady Despite Lack of Progress on Inflation"
+    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'"
    ]
   },
   {
@@ -102,19 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
     "ECB to hold rates as investors focus on French bonds, Lagarde's future",
+    "Global Market: ECB rate decision in focus as Lagarde exit speculation grows",
+    "ECB Holds Rates Amid French Bond Turmoil & Lagarde Future Uncertainty",
+    "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Lagarde\u2019s comments could keep a December rate increase 'in play'",
     "The public debt situation in France is \"complicating\" the ECB's interest rate decision.",
     "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Mapfre expects to take advantage of the ECB\u2019s rate hikes thanks to the boost in savings",
-    "KBC's capital remains well above ECB's minimum requirements for 2026 at 14.4% CET1 ratio.",
-    "Stablecoin Regulation Update: ECB\u2019s Reserve Proposal"
+    "KBC's capital remains well above ECB's minimum requirements for 2026 at 14.4% CET1 ratio."
    ]
   },
   {
@@ -122,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -132,8 +137,8 @@
     "PREVIEW: ECB to hold rates steady",
     "ECB Set to Hold Rates to Assess France and Energy Risks",
     "Will France\u2019s Debt Crisis Stop the ECB From Raising Interest Rates Again?",
+    "EU Market Open: APAC stocks were mixed as the region digested the FOMC and big tech earnings; KOSPI underperformed as Samsung Electronics' results",
     "COMMENTARY: ECB can cool rate bets, but may not want to yet",
-    "ECB: Banks report further tightening of credit standards",
     "European Central Bank Expected to Hold Interest Rates at 2.5%"
    ]
   },
@@ -142,21 +147,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 49,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Revolut faces Bank of England scrutiny over rapid product rollouts \u2013 report",
     "Day after launching personal loans in UK, Revolut faces Bank of England review",
-    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "Bank of England warns climate risks could widen UK insurance gaps",
+    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
-    "Bank of England orders skilled-person review of Revolut",
-    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
-    "Revolut Reportedly Facing Bank of England's Probe into Product Approval Processes",
     "Bank of England Orders Revolut to Hire Outside Experts for Product Review",
-    "Bank of England deal a highlight as Leeds take-up slips"
+    "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
+    "Bank of England deal a highlight as Leeds take-up slips",
+    "Sir Robert McAlpine selected for \u00a3133m Bank of England refurbishment",
+    "Liz Truss: 'The Lunatics Took Over the Asylum' | Bank of England Under Fire"
    ]
   },
   {
@@ -165,8 +170,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 6,
-   "added": 1,
+   "kept": 5,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
@@ -174,10 +179,10 @@
     "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
     "Bank of Canada raises interest rates: Read the official statement",
     "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
+    "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
     "Bank of Canada Governor Says US Deficits Are Unsustainable",
     "The Bank of Canada just raised its policy interest rate",
     "Bank of Canada delivers 1st hike in three years, raises key rate to 2.5%",
-    "Bank of Canada raises interest rates for the first time in three years",
     "Macklem Defends Hawkish Turn After Canada\u2019s First Rate Hike in Three Years"
    ]
   },
