@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T11:49:50Z",
+ "built": "2026-10-30T15:50:27Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 8,
-   "added": 0,
+   "kept": 9,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -63,19 +63,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 27,
-   "added": 1,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bank Concentration Undermined the Fed\u2019s Monetary Policy During the Last Tightening Cycle",
     "The Fed\u2019s Fiddling (\u201cWaiting For Information\u201d) While Things Run Hot",
     "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald",
-    "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
+    "Fed\u2019s Favorite Wage Metric Shows Slowest Annual Gain Since 2021 as Real Pay Remains Negative",
     "Warsh shakes up Fed's approach to setting interest rates",
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "Fed\u2019s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
-    "Economist: Strong GDP growth, inflation complicate Fed's decisions",
     "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
-    "TDAQ's 17% Distribution Appeals To Me, Especially After Microsoft, Google And The Fed's Decision"
+    "The Fed Wanted More Data. It Got More Inflation.",
+    "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
+    "The Future of Money: Inside the Fed's Innovation Center"
    ]
   },
   {
@@ -84,20 +84,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 39,
+   "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
-    "New economic data challenges Fed chief's not-too-hot perspective",
+    "Tom Lee Sees 'Big Beats' Ahead, Says Kevin Warsh-Led Fed Won't Slow AI Growth Despite Inflation: 'Good News Is Good News'",
     "New economic data challenges Fed chief\u2019s not-too-hot perspective",
-    "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-    "Warsh shakes up Fed's approach to setting interest rates",
     "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+    "5 things to watch for in this week's Federal Reserve meeting",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.",
-    "5 things to watch for in this week's Federal Reserve meeting"
+    "Warsh shakes up Fed's approach to setting interest rates",
+    "New economic data challenges Fed chief's not-too-hot perspective",
+    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
+    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation"
    ]
   },
   {
@@ -106,20 +106,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 27,
-   "added": 6,
+   "kept": 24,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "As energy prices threaten inflation again, Lagarde\u2019s European Central Bank legacy offers lessons",
     "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
     "Two Frontrunners Emerge to Succeed Lagarde at ECB",
-    "European Central Bank President Lagarde to step down early",
+    "Lagarde\u2019s Long Goodbye to ECB Is Finally Ending",
+    "Is this the real reason Christine Lagarde is leaving the ECB?",
+    "ECB president Lagarde to step down early",
+    "Lagarde Resigns ECB Presidency February 7",
     "Lagarde\u2019s early exit: \u2018I don\u2019t think I can remain neutral\u2019",
     "Christine Lagarde departs at a moment of peril",
-    "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
-    "Lagarde\u2019s early departure triggers race to solve three-way ECB puzzle",
-    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
-    "Christine Lagarde to Step Down as President of European Central Bank",
-    "ECB, US Fed Hold Rates; Lagarde To Step Down \u2013 Wealth Managers React"
+    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her"
    ]
   },
   {
@@ -127,14 +127,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
-   "kept": 6,
+   "fetched": 17,
+   "kept": 9,
    "added": 1,
    "error": "",
    "near_misses": [
+    "ECB policymakers bring rate hike debate into the open",
     "ECB may need further rate hikes to counter inflation, says Panetta",
-    "Stournaras Praises Lagarde as She Prepares to Leave ECB",
-    "ECB warns prolonged energy shock to drive up inflation, lower growth"
+    "ECB Has Requested EU Leaders Start Search for Lane Successor",
+    "ECB warns prolonged energy shock to drive up inflation, lower growth",
+    "Stournaras Praises Lagarde as She Prepares to Leave ECB"
    ]
   },
   {
@@ -147,16 +149,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England: Gradual hiking path \u2013 Rabobank",
     "Bank of England surveys show firms see pay rising around 3.5% in 2027",
     "Bank of England opens tokenised collateral consultation",
     "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
     "Bank of England Consults on Tokenised Collateral",
     "The Cumberland joins Bank of England unit to support future growth plans",
     "BoE publishes consultation on supervisory expectations for CCPs seeking to accept tokenised collateral",
-    "Bank of England Seeks Feedback on Tokenized Collateral for CCPs",
+    "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
     "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
-    "Mortgage borrowing falls in September, says Bank of England",
-    "Bank of England deal a highlight as Leeds take-up slips"
+    "Bank of England Seeks Feedback on Tokenized Collateral for CCPs"
    ]
   },
   {
@@ -164,21 +166,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 6,
+   "fetched": 55,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
-    "FULL TEXT-Bank of Canada head sees less room for monetary accommodation",
     "Terence Corcoran: Bank of Canada is back on track",
-    "Letters to the editor: \u2018Tiff Macklem might well achieve his goal of grinding inflation below 2 per cent. Let\u2019s hope he doesn\u2019t take the rest of us down with it.",
     "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
+    "Letters to the editor: \u2018Tiff Macklem might well achieve his goal of grinding inflation below 2 per cent. Let\u2019s hope he doesn\u2019t take the rest of us down with it.",
     "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
     "Bank of Canada raises interest rate to 2.5% as inflation pressures mount",
-    "The Bank of Canada just raised its policy interest rate",
+    "Bank of Canada raises interest rates for the first time in three years",
     "Bank of Canada interest rate hike could signal tough 2027 says economist",
-    "Bank of Canada raises key interest rate amid soaring energy costs"
+    "Bank of Canada Hikes to 2.5%, Says More Could Be Needed",
+    "Bank of Canada Governor Says US Deficits Are Unsustainable"
    ]
   },
   {
@@ -262,7 +264,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 5,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -272,7 +274,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 15,
-   "added": 5,
+   "added": 6,
    "error": ""
   },
   {
@@ -282,7 +284,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 7,
+   "added": 8,
    "error": ""
   },
   {
