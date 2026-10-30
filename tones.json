@@ -2014,6 +2014,330 @@
    "read": "Not a policy remark.",
    "at": "2026-10-30T15:50:07Z",
    "by": "claude"
+  },
+  "e74ed1eba982": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "A 2026 voter calls for at least two more quarter-point hikes; the October skip changes nothing.",
+   "sum": "Logan said the Fed needs at least two more quarter-point hikes to reach a modestly restrictive stance, and skipping a meeting does not change that destination.",
+   "pts": [
+    "Said the Fed needs at least two more 25bp rate hikes.",
+    "Said skipping a meeting does not change the policy destination.",
+    "End goal is to make policy modestly restrictive.",
+    "Called it 'unacceptable' that inflation is not headed back to 2%.",
+    "Prefers a gradual pace so households, businesses and investors can adapt to higher rates.",
+    "Said a clear rate destination helps the economy adapt and capture the benefits of a skip."
+   ],
+   "rr": "A voter explicitly sizing 50bp or more of further hikes supports the December hike and argues for a follow-up in early 2027; 'gradual' rules out bigger steps but not the destination. Only news paraphrases were available.",
+   "ev": "Remarks to Davidson College students",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "69e0641e1651": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Calls for at least two more rate increases.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "115e4a5642e9": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Joint report: Logan and Musalem both signal more hikes.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "1fbc069ef2e1": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Two more hikes needed; the pause does not alter the path.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "fe9c5e26e2f6": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "At least two more quarter-point hikes needed to get modestly restrictive.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "7b3d637ba7f1": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Two more 25bp hikes; skipping a meeting does not change the destination.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "25f6ab37c5f7": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Sees two more hikes, though says the pace can be gradual.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "c3d21f47b609": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says a hike is needed soon and shrugs off tighter financial conditions.",
+   "sum": "Musalem said the Fed will need to raise rates again soon, arguing policy is still accommodative and acting earlier is less costly than waiting.",
+   "pts": [
+    "Said the Fed will need to raise interest rates again 'soon'.",
+    "Said moving sooner lessens the risk of a hit to the broader economy; incremental moves beat abrupt ones.",
+    "Said inflation is still too high and unlikely to ease without Fed action.",
+    "Called monetary policy and overall financial conditions accommodative; tighter, but not by much.",
+    "Linked higher long-term yields to expected higher policy rates, and is not concerned by them.",
+    "Said restoring price stability is the best thing the Fed can do now."
+   ],
+   "rr": "Pushes firmly for a December hike after the October skip and against reading tighter financial conditions as a substitute; adds weight to further 2027 tightening. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "de27dc6a9e53": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Stresses preventing inflation pressure from spreading more broadly.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "3f6b147be5d1": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says additional firming will be necessary, and soon.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "9698d0c635fb": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Acting sooner likely less costly, a case for an early hike.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "859ccfded43b": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Hike needed soon; policy and financial conditions still accommodative.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "8d65223a9ee8": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says a rate hike is needed 'soon'.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "c12538f58c34": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Direction is up, but backs a gradual pace of hikes.",
+   "sum": "Barkin said the Fed's direction of travel is straightforward and the only question is pace, backing a gradual approach to further rate increases.",
+   "pts": [
+    "Said the direction of travel is 'straightforward'; the question is pace.",
+    "Said a gradual approach is a good way to go right now.",
+    "Said many cost pressures are hitting businesses, and years of high inflation make price rises easier to pass on.",
+    "Said consumer spending has been surprisingly resilient given relatively flat incomes.",
+    "Said the AI investment surge is pressuring supply chains and creating demand-side inflation the Fed can lean against."
+   ],
+   "rr": "Supports further hikes in line with what is priced, but 'gradual' argues against front-loading or larger moves; a 2027 voter, so it shapes next year's path more than December. Only news paraphrases were available.",
+   "ev": "Interview, SiriusXM",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "11c645a5a0b5": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Signals further hikes ahead; pace is the open question.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "b12b3cd5dffb": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Favors gradual hikes as inflation pressure spreads.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "a61aa94abbaf": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Direction straightforward, question is pace.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "cdae1483c55e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs 'gradual' rate increases.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "6764d8d90978": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Direction clear; AI investment adding demand-side inflation.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "41062bc47aca": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Puts AI in the policy debate without signalling a direction for rates.",
+   "sum": "Daly said AI matters for how the Fed thinks about policy in the near and medium term, touching both the price stability and employment mandates.",
+   "pts": [
+    "Said AI really matters for how policymakers think about policy in the near and medium term.",
+    "Said AI bears on both the price-stability and employment mandates.",
+    "Said AI is going to change the economy."
+   ],
+   "rr": "No clear signal for December or the 2027 path; the reported remarks do not say whether AI adds more to inflation or to labour-market risk. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "5127c199e092": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says AI will change the economy; no rate signal.",
+   "lead": "41062bc47aca",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "51640fa151a3": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "AI supports growth and adds visible price pressure; no explicit rate call.",
+   "sum": "Lane said AI investment is already supporting euro-area activity and is a significant contributor to growth, while AI-related price pressures are becoming visible.",
+   "pts": [
+    "Said AI is already supporting euro-area activity.",
+    "Called AI a significant contributor to euro-area growth.",
+    "Said AI-related price pressures are becoming visible."
+   ],
+   "rr": "Mildly firm for the outlook a day after the hold, as stronger growth and new price pressure weaken the case against a December hike, but no explicit steer on rates. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "ccd712fa47ab": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Flags AI-related price pressures becoming visible.",
+   "lead": "51640fa151a3",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "cf1a58e8e9a5": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "AI investment supporting euro-zone growth.",
+   "lead": "51640fa151a3",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "924e573b19a9": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "AI a significant contributor to euro-area growth.",
+   "lead": "51640fa151a3",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "06782d0a8f7b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comments on Lagarde bringing hawks and doves together; no rate signal.",
+   "sum": "Stournaras praised Lagarde for making the Governing Council's doves and hawks converge, in remarks after her early-exit announcement.",
+   "pts": [
+    "Said Lagarde made doves and hawks on the Governing Council converge.",
+    "Remarks focus on her legacy after the resignation news, not the rate outlook."
+   ],
+   "rr": "No signal for December or the 2027 path. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "53da22caf0cb": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Restates that prices remain too high; recap of earlier remarks, nothing new.",
+   "sum": "Warsh warned prices remain too high, in contrast with Trump's claim that inflation is way down, in a report ahead of the midterms.",
+   "pts": [
+    "Said prices remain too high.",
+    "Report contrasts this with Trump's claim that inflation is 'way down'.",
+    "Appears to recap Warsh's earlier remarks rather than new comments."
+   ],
+   "rr": "Consistent with the Fed's readiness to act after the October hold; adds nothing to December pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "a7143df8736c": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Seriously considered a hike at the hold, a hawkish dissent-in-spirit.",
+   "sum": "Makhlouf said he seriously considered voting for a rate hike at this week's ECB meeting, where rates were held at 2.50%.",
+   "pts": [
+    "Said he seriously considered a rate hike at this week's meeting.",
+    "The Governing Council held rates at 2.50% on 29 October."
+   ],
+   "rr": "Leans against the soft read of Thursday's hold and supports pricing for a December hike. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "cd06bb6fb81c": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Inflation risks clearly up, but neither premature action nor waiting idly.",
+   "sum": "Kocher said inflation risks have clearly increased, but neither acting prematurely nor waiting idly will ensure price stability.",
+   "pts": [
+    "Said inflation risks have clearly increased.",
+    "Said neither acting prematurely nor waiting idly will ensure price stability."
+   ],
+   "rr": "Balanced: acknowledges upside risk but gives no push for December, leaving the hike pricing to the data. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "f6d0abe38ed8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Resignation coverage; no policy signal.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
+  },
+  "e6b7aa0d1edf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T21:00:44Z",
+   "by": "claude"
   }
  }
 }
