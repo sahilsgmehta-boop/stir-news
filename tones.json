@@ -1898,6 +1898,43 @@
    "lead": "2fd62727bd66",
    "at": "2026-10-30T07:01:12Z",
    "by": "claude"
+  },
+  "e82485c86d93": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Says policy is measured and most prices stable, signalling no urgency to add hikes.",
+   "sum": "Moulin described ECB policy as measured and said most prices remain stable, framing the inflation pickup as narrow rather than broad-based.",
+   "pts": [
+    "Calls the ECB's policy stance measured.",
+    "Says most prices are stable, implying the inflation rise is concentrated, notably in energy."
+   ],
+   "rr": "Leans against adding to tightening beyond what is priced; mildly soft for the December hike pricing after Thursday's hold. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T11:49:27Z",
+   "by": "claude"
+  },
+  "5b3b1a7afddf": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Re-report of the October 29 presser: hold, energy-driven upside inflation risks.",
+   "lead": "e199bca473c6",
+   "at": "2026-10-30T11:49:27Z",
+   "by": "claude"
+  },
+  "02ec7b36500f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T11:49:27Z",
+   "by": "claude"
+  },
+  "a73669e7b224": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T11:49:27Z",
+   "by": "claude"
   }
  }
 }
