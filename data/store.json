@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-30T21:23:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+"url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+"src": "MarketWatch",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+"id": "9bd14b503fca",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-30T19:56:47Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -9,7 +29,9 @@
 "src": "104.1 WIKY",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters"
+],
 "desc": "",
 "id": "a504be156aa8",
 "score": null,
@@ -29,7 +51,10 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com",
+"Finimize"
+],
 "desc": "",
 "id": "5246715b1933",
 "score": null,
@@ -309,7 +334,9 @@
 "src": "www.tmgm.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"FXStreet"
+],
 "desc": "",
 "id": "646fd0104d04",
 "score": null,
@@ -415,7 +442,8 @@
 "Bloomberg.com",
 "FXStreet",
 "www.tmgm.com",
-"Finimize"
+"Finimize",
+"WTVB"
 ],
 "desc": "",
 "id": "8d65223a9ee8",
@@ -461,6 +489,26 @@
 "id": "924e573b19a9",
 "score": 1,
 "read": "AI a significant contributor to euro-area growth.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-10-30T16:23:00Z",
+"bank": "Fed",
+"speaker": "Barkin",
+"hl": "Fed’s Barkin Reportedly Backs Gradual Rate Hikes, Flags AI Investment Boom As Inflation Risk",
+"url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeGFFNWNtajN6am96cmZLdVc4THUtN21icU0tUFFUeE9pNGZXLVB6V0NWUHZHZmtuZFZacVN5NDYwa3NVQ3ZudFp0MVcwSHE4NThXXzV0dVJ2akhDNFVXYWxHalNKSG8yU3h0bkNsSjRsN2Y4VzBDUlZGSWx1Rl81bU9uajQzNnJUY1dRUE5HWGNzcHZYZGZYemlZVEI3ampJWGs0cERIa1F0bW93bktxdkRnTU5UaFllbHBtclhFZVl5alVnU0hhSmJIaTNldDJNbkRjZDZCRmFBbDBXZUVVeDl0NVREQXFVRTFj?oc=5",
+"src": "Stocktwits",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1287c7f50e37",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -642,7 +690,8 @@
 "marketscreener.com",
 "Centre Daily Times",
 "Breakingthenews.net",
-"Forex Factory"
+"Forex Factory",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "a61aa94abbaf",
@@ -744,6 +793,26 @@
 "basis": "reports"
 },
 {
+"t": "2026-10-30T13:34:00Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Macklem warns U.S. deficits could push up Canadian borrowing costs - CMT News",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2Nia0h1WV9WQ3NtREctY1Q2dkFzblZLcjFPTDlmNTZsNE5GYVNpQ3ZBNFBhZWtKMVZpb0pUcTN3UWRfVnhYV0UtM2pxLUpjSmJ1SDdfckcxR2xYNFBQLWZZTW15OVRHMWZKTG5TMkswTWFKQTdEMWlXdmJmRGxDWkhNbjRVZzhaX2RpYi1lNUFrX0F2cEEzbEVNZ0VtYm93Njl0VF9PSlQ4U0VOeTVOMVB4NA?oc=5",
+"src": "Canadian Mortgage Trends",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a902e6c9e347",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-30T13:16:53Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -776,7 +845,9 @@
 "src": "London South East",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"marketscreener.com"
+],
 "desc": "",
 "id": "a7143df8736c",
 "score": 5,
@@ -2159,7 +2230,8 @@
 "Myrtle Beach Sun News",
 "The Japan News",
 "Bellingham Herald",
-"WTVB"
+"WTVB",
+"WHTC"
 ],
 "desc": "",
 "id": "a5e960d90bd1",
@@ -2352,7 +2424,8 @@
 "also": [
 "Investing.com",
 "BusinessLine",
-"Yahoo Finance"
+"Yahoo Finance",
+"WTVB"
 ],
 "desc": "",
 "id": "3096d88ba74b",
@@ -2648,7 +2721,8 @@
 "WGME",
 "WSTM",
 "WCTI",
-"wtvcfox"
+"wtvcfox",
+"WRGB"
 ],
 "desc": "",
 "id": "75771c0b0b71",
