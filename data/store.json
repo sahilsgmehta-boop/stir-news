@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-10-29T22:33:34Z",
+"bank": "ECB",
+"speaker": "",
+"hl": "ECB to hike once more in December as tighter conditions may not suffice: Deutsche Bank",
+"url": "https://investinglive.com/central-banks/ecb-to-hike-once-more-in-december-as-tighter-conditions-may-not-suffice-deutsche-bank/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "A December “last hike” view mainly affects the euro front end, with Euribor, €STR futures and one- to two-year government bond yields most exposed to shifts in pricing. Capping expectations could reduce volatility further out the curve, while short-dated contracts stay sensitive to each inflation print. Energy is the swing factor: further gains in oil and gas prices would strengthen the case for tightening and could support the euro. Leadership uncertainty adds a policy risk premium into 2027, which could weigh on the single currency if succession becomes politically contested. --- Earlier: in",
+"id": "3ce86c815d27",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-29T21:01:37Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -89,7 +109,9 @@
 "src": "INSIGHT EU MONITORING",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"RTE.ie"
+],
 "desc": "",
 "id": "c3366c3391c2",
 "score": null,
@@ -437,7 +459,9 @@
 "src": "Moomoo",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"marketscreener.com"
+],
 "desc": "",
 "id": "3bad854b8f86",
 "score": null,
@@ -574,7 +598,9 @@
 "src": "Yahoo Finance UK",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"AFP.com"
+],
 "desc": "",
 "id": "0c7fbdd7ca05",
 "score": null,
@@ -1029,7 +1055,9 @@
 "marketscreener.com",
 "Yahoo Finance",
 "Myrtle Beach Sun News",
-"The Japan News"
+"The Japan News",
+"Bellingham Herald",
+"WTVB"
 ],
 "desc": "",
 "id": "a5e960d90bd1",
@@ -1221,7 +1249,8 @@
 "tone": "neutral",
 "also": [
 "Investing.com",
-"BusinessLine"
+"BusinessLine",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "3096d88ba74b",
@@ -1267,7 +1296,8 @@
 "San Luis Obispo Tribune",
 "Tacoma News Tribune",
 "Y100 WNCY",
-"Yahoo Finance"
+"Yahoo Finance",
+"Investing.com"
 ],
 "desc": "",
 "id": "31e3d9980879",
