@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T19:28:40Z",
+ "built": "2026-10-30T21:01:02Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 11,
-   "added": 3,
+   "added": 0,
    "error": ""
   },
   {
@@ -50,7 +50,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "The Fed held interest rates steady, but these officials see more hikes coming soon"
+   ]
   },
   {
    "id": "gn_fed",
@@ -58,20 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 42,
-   "added": 14,
+   "kept": 48,
+   "added": 6,
    "error": "",
    "near_misses": [
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+    "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Eighth Circuit affirms vacatur of Fed\u2019s Regulation II debit interchange cap",
     "Bank Concentration Undermined the Fed\u2019s Monetary Policy During the Last Tightening Cycle",
-    "The Fed\u2019s Fiddling (\u201cWaiting For Information\u201d) While Things Run Hot",
-    "Why Warsh's 'communication was pretty messy' on Fed's hold decision",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Macro strategist Greg Faranello dissects Fed\u2019s decision to leave rates unchanged",
-    "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald",
-    "Fed\u2019s Favorite Wage Metric Shows Slowest Annual Gain Since 2021 as Real Pay Remains Negative",
+    "The Fed\u2019s Fiddling (\u201cWaiting For Information\u201d) While Things Run Hot",
     "Warsh is cutting the Fed's rate meetings. Fewer decisions, bigger moves",
-    "The Fed Wanted More Data. It Got More Inflation."
+    "Why Warsh's 'communication was pretty messy' on Fed's hold decision",
+    "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald",
+    "Fed\u2019s Favorite Wage Metric Shows Slowest Annual Gain Since 2021 as Real Pay Remains Negative"
    ]
   },
   {
@@ -80,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 36,
+   "kept": 46,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "The Fed held interest rates steady, but these officials see more hikes coming soon",
+    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
+    "New economic data challenges Fed chief's not-too-hot perspective",
     "Tom Lee Sees 'Big Beats' Ahead, Says Kevin Warsh-Led Fed Won't Slow AI Growth Despite Inflation: 'Good News Is Good News'",
     "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "New economic data challenges Fed chief's not-too-hot perspective",
-    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Fed highlights economic strength but muddies outlook for Treasuries",
-    "5 things to watch for in this week's Federal Reserve meeting",
-    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation"
+    "5 things to watch for in this week's Federal Reserve meeting"
    ]
   },
   {
@@ -102,16 +104,16 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 28,
-   "added": 5,
+   "kept": 30,
+   "added": 2,
    "error": "",
    "near_misses": [
-    "As energy prices threaten inflation again, Lagarde\u2019s European Central Bank legacy offers lessons",
     "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
+    "Lagarde\u2019s Long Goodbye to ECB Is Finally Ending",
     "Is this the real reason Christine Lagarde is leaving the ECB?",
     "Two Frontrunners Emerge to Succeed Lagarde at ECB",
-    "ECB president Lagarde to step down early",
     "Christine Lagarde departs at a moment of peril",
+    "ECB president Lagarde to step down early",
     "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
     "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
     "Christine Lagarde to Step Down as President of European Central Bank",
@@ -123,12 +125,11 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 24,
    "kept": 14,
-   "added": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "The ECB has asked the region\u2019s leaders to start choosing a successor to Chief Economist Lane, opening the race for yet another vacancy on its Executive Board, r",
     "ECB policymakers bring rate hike debate into the open",
     "ECB may need further rate hikes to counter inflation, says Panetta",
     "ECB asks EU leaders to start search for successor to Lane, Bloomberg News reports",
@@ -142,21 +143,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 23,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Cumberland Joins Bank of England\u2019s Scale-up Unit to Accelerate Growth",
     "Bank of England: Gradual hiking path \u2013 Rabobank",
+    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
+    "Bank of England opens tokenised collateral consultation",
+    "Bank of England Consults on Tokenised Collateral",
+    "The Cumberland joins Bank of England unit to support future growth plans",
+    "BoE publishes consultation on supervisory expectations for CCPs seeking to accept tokenised collateral",
     "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
     "Bank of England: Firms See Pay Rising 3.5% by 2027, BoE Surveys Show",
-    "Bank of England opens tokenised collateral consultation",
-    "BoE publishes consultation on supervisory expectations for CCPs seeking to accept tokenised collateral",
-    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
-    "Bank of England Consults on Tokenised Collateral",
-    "Bank of England Seeks Feedback on Tokenized Collateral for CCPs",
-    "Bank of England to Consult on Tokenised Collateral Standards"
+    "Bank of England Seeks Feedback on Tokenized Collateral for CCPs"
    ]
   },
   {
@@ -164,7 +165,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 38,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -172,13 +173,13 @@
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
     "Terence Corcoran: Bank of Canada is back on track",
     "Letters to the editor: \u2018Tiff Macklem might well achieve his goal of grinding inflation below 2 per cent. Let\u2019s hope he doesn\u2019t take the rest of us down with it.",
-    "Focus on FOMC and Bank of Canada, after Reserve Bank of New Zealand Disappointed",
     "Bank of Canada raises interest rate to 2.5% as inflation pressures mount",
     "Bank of Canada interest rate hike could signal tough 2027 says economist",
     "Bank of Canada Governor Says US Deficits Are Unsustainable",
     "Macklem Defends Hawkish Turn After Canada\u2019s First Rate Hike in Three Years",
     "Bank of Canada: Further tightening risk highlighted \u2013 Rabobank",
-    "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook"
+    "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
+    "Amanda Lang discusses inflation and interest rates with Tiff Macklem"
    ]
   },
   {
@@ -252,7 +253,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 73,
-   "added": 71,
+   "added": 70,
    "error": ""
   },
   {
