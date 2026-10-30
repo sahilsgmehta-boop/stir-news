@@ -49,8 +49,10 @@
 "src": "Financial Times",
 "tier": "comment",
 "tone": "",
-"also": [],
-"desc": "",
+"also": [
+"FT central banks"
+],
+"desc": "The ECB president will depart before her eight-year term expires in October 2027",
 "id": "02ec7b36500f",
 "score": null,
 "read": "",

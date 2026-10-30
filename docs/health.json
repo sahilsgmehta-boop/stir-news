@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T07:01:28Z",
+ "built": "2026-10-30T07:16:29Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 9,
+   "kept": 8,
    "added": 0,
    "error": ""
   },
@@ -21,7 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB to hike once more in December as tighter conditions may not suffice: Deutsche Bank"
+    "France's economy contracts in Q3 as growth troubles pile up for the ECB"
    ]
   },
   {
@@ -58,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 34,
+   "kept": 28,
    "added": 1,
    "error": "",
    "near_misses": [
     "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald",
     "Warsh shakes up Fed's approach to setting interest rates",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
-    "Warsh shakes up Fed's approach to setting interest rates",
     "Fed\u2019s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
-    "The Fed\u2019s Fiddling (\u201cWaiting For Information\u201d) While Things Run Hot",
     "Economist: Strong GDP growth, inflation complicate Fed's decisions",
-    "The Fed\u2019s decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
-    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?"
+    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
+    "Warsh shakes up Fed's approach to setting interest rates",
+    "The Fed's preferred inflation gauge accelerated to 3.6% in September",
+    "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
+    "Fed\u2019s Path to a Repo-Based Framework Faces a Familiar Roadblock"
    ]
   },
   {
@@ -80,16 +80,16 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 34,
-   "added": 3,
+   "kept": 42,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Warsh shakes up Fed's approach to setting interest rates",
-    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.",
     "The Fed\u2019s decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
+    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.",
     "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
     "5 things to watch for in this week's Federal Reserve meeting",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
@@ -102,16 +102,16 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 22,
-   "added": 4,
+   "kept": 23,
+   "added": 1,
    "error": "",
    "near_misses": [
     "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
-    "Christine Lagarde to Step Down as President of European Central Bank",
     "Christine Lagarde\u2019s ECB Successor Needs to Be an Anti-Warsh",
     "Christine Lagarde departs at a moment of peril",
     "Two Frontrunners Emerge to Succeed Lagarde at ECB",
     "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
+    "Christine Lagarde to Step Down as President of European Central Bank",
     "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
     "European Central Bank President Lagarde resigns early",
     "European Central Bank President Lagarde to step down early",
@@ -125,13 +125,13 @@
    "ok": true,
    "fetched": 16,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "VIEW ECB keeps rates unchanged; euro and bond yields fall",
     "Who Replaces Lagarde? De Cos and Knot Lead Candidates to Run ECB",
-    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
     "ECB holds interest rates steady as energy shock drives inflation to 3.8%",
+    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
     "ECB warns prolonged energy shock to drive up inflation, lower growth",
     "Stournaras Praises Lagarde as She Prepares to Leave ECB",
     "Lagarde\u2019s early exit Le Pen-proofs ECB as France veers toward a debt reckoning",
@@ -166,7 +166,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
+   "fetched": 97,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -188,7 +188,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -203,7 +203,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
