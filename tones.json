@@ -1772,6 +1772,132 @@
    "lead": "2fd62727bd66",
    "at": "2026-10-29T21:05:36Z",
    "by": "claude"
+  },
+  "683ddb27987e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Operational speech on collateral and liquidity provision; no signal for the policy rate.",
+   "sum": "Tschudin and Moser set out how the SNB lends liquidity only against sufficient collateral, with the SNB GC Basket as the anchor of its framework.",
+   "pts": [
+    "The SNB provides central bank liquidity to the financial system only against sufficient collateral.",
+    "Its collateral policy is meant to protect the SNB balance sheet and keep liquidity provision effective, efficient and transparent.",
+    "The SNB GC Basket plays a key role in implementing monetary policy and in supporting payments.",
+    "The basket combines high quality requirements with a broad, international focus and is now the collateral standard in the Swiss interbank repo market."
+   ],
+   "rr": "No bearing on SNB rate pricing; this is about the operational framework, not the policy rate or the franc. Only news paraphrases were available.",
+   "ev": "Speech (Petra Tschudin, Thomas Moser)",
+   "basis": "reports",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "9dc9620aaf21": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Collateral and liquidity framework speech; no monetary policy signal.",
+   "lead": "683ddb27987e",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "ffd151f3e8d0": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Backs the largely priced December hike but signals a pause after, capping the path.",
+   "sum": "Reuters sources say ECB policymakers see a rate hike in December followed by a pause, as staff estimate higher bond yields will weigh on growth and inflation.",
+   "pts": [
+    "Policymakers see a hike at the December meeting, then a pause.",
+    "New staff estimates show higher bond yields cutting growth by a cumulative 100bp versus baseline in 2027-28.",
+    "The same estimates show inflation 90bp lower than baseline over 2027-28.",
+    "The report came the same day the ECB held the deposit rate at 2.50%."
+   ],
+   "rr": "Supports the December hike that was already largely priced, and leans against pricing for further hikes in 2027. Only news paraphrases were available.",
+   "ev": "Reuters sources report",
+   "basis": "reports",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "3ce86c815d27": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "4f058b3dcb0a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "552a086d8aa2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "0c7fbdd7ca05": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "eeee251d8b5b": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Presser video: downside growth and upside inflation risks; no new rate steer.",
+   "lead": "e199bca473c6",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "080e414e7ce1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About her reasons for leaving early; no policy signal.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "fb98999cb1ee": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Announces early departure; says nothing about the policy outlook.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "4166ceb38ad6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About her reasons for leaving early; no policy signal.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "17412bff37b4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About her reasons for leaving early; no policy signal.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "c3366c3391c2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "EU succession process for her post; no policy signal.",
+   "lead": "18213ea95ef3",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
+  },
+  "3bad854b8f86": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Pledges to deliver price stability, echoing the presser; no new steer on December.",
+   "lead": "2fd62727bd66",
+   "at": "2026-10-30T07:01:12Z",
+   "by": "claude"
   }
  }
 }
