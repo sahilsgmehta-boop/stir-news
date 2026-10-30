@@ -1935,6 +1935,85 @@
    "read": "Not a policy remark.",
    "at": "2026-10-30T11:49:27Z",
    "by": "claude"
+  },
+  "f75837433e9a": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Usually dovish Panetta says further hikes could prove necessary, with inflation risks skewed up.",
+   "sum": "Panetta, normally among the ECB's doves, said further rate increases could prove necessary because inflation will stay above target for an extended period with upside risks.",
+   "pts": [
+    "Said further increases in policy rates could prove necessary.",
+    "Expects inflation to remain above target for an extended period, with risks skewed to the upside.",
+    "Policy should stop price rises becoming entrenched in household and firm expectations and behaviour.",
+    "Warned of the risk of a wage-price spiral that would be costly to stop.",
+    "Said the recent surge in bond yields should be weighed when gradually calibrating policy."
+   ],
+   "rr": "A dove endorsing more tightening strengthens the December hike already priced and makes a further 2027 move harder to price out; the bond-yield caveat and 'gradual' language cap urgency. Only news paraphrases were available.",
+   "ev": "Remarks in Rome",
+   "basis": "reports",
+   "at": "2026-10-30T15:50:07Z",
+   "by": "claude"
+  },
+  "ddd32f35f1d1": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Nagel says the ECB will act decisively if needed to bring inflation down; conditional, no date.",
+   "sum": "Bundesbank's Nagel said the ECB will take decisive action if needed to bring inflation down, a day after the Governing Council held rates.",
+   "pts": [
+    "Said the ECB will act decisively if needed to tame inflation.",
+    "Kept the commitment conditional, without naming a meeting.",
+    "Comes a day after the October hold, with sources reporting a December hike."
+   ],
+   "rr": "Conditional hawkish signal from a rotating voter that fits the December hike already priced without adding to it; leans against any early-2027 pause pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T15:50:07Z",
+   "by": "claude"
+  },
+  "b83515aff970": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Same Nagel remarks: decisive action if needed on inflation.",
+   "lead": "ddd32f35f1d1",
+   "at": "2026-10-30T15:50:07Z",
+   "by": "claude"
+  },
+  "66fcb322c1bc": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Kocher says the ECB will have to hike if the situation does not improve soon.",
+   "sum": "Austria's Kocher said the ECB will have to raise rates if the inflation situation does not improve soon.",
+   "pts": [
+    "Said a rate hike will be needed if the situation does not improve soon.",
+    "Framed the move as conditional on the inflation and energy outlook."
+   ],
+   "rr": "Supports the December hike priced after the October hold. The headline closely matches Kocher's May NZZ interview wording, so this may be a republished story rather than new remarks. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T15:50:07Z",
+   "by": "claude"
+  },
+  "bc548c0b4330": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Simkus says the likelihood of energy feeding into broader inflation has risen.",
+   "sum": "Lithuania's Simkus said the likelihood that energy prices spill over into broader inflation has risen.",
+   "pts": [
+    "Said the likelihood of energy spillover into wider prices has risen.",
+    "Points to second-round inflation risk as the case for further tightening."
+   ],
+   "rr": "Upside-risk framing from a hawk backs the December hike priced and keeps further 2027 tightening in play. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-30T15:50:07Z",
+   "by": "claude"
+  },
+  "a5ce00b77203": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-30T15:50:07Z",
+   "by": "claude"
   }
  }
 }
