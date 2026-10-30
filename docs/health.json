@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T07:16:29Z",
+ "built": "2026-10-30T11:49:50Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,10 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "German state inflation cools in October, but will that ease the ECB's headache?",
+    "Spain Q3 GDP growth slows slightly but it's the inflation problem that should worry the ECB",
+    "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
+    "France inflation heats up again in October, leaving the ECB caught between a rock and a hard place",
     "France's economy contracts in Q3 as growth troubles pile up for the ECB"
    ]
   },
@@ -58,20 +62,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 28,
+   "kept": 27,
    "added": 1,
    "error": "",
    "near_misses": [
+    "Bank Concentration Undermined the Fed\u2019s Monetary Policy During the Last Tightening Cycle",
+    "The Fed\u2019s Fiddling (\u201cWaiting For Information\u201d) While Things Run Hot",
     "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald",
-    "Warsh shakes up Fed's approach to setting interest rates",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
+    "Warsh shakes up Fed's approach to setting interest rates",
+    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
     "Fed\u2019s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
     "Economist: Strong GDP growth, inflation complicate Fed's decisions",
-    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "Warsh shakes up Fed's approach to setting interest rates",
-    "The Fed's preferred inflation gauge accelerated to 3.6% in September",
     "Despite pausing rate hikes, \u2018inflation is too high\u2019: Fed chair",
-    "Fed\u2019s Path to a Repo-Based Framework Faces a Familiar Roadblock"
+    "TDAQ's 17% Distribution Appeals To Me, Especially After Microsoft, Google And The Fed's Decision"
    ]
   },
   {
@@ -80,20 +84,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 42,
+   "kept": 39,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "New economic data challenges Fed chief's not-too-hot perspective",
+    "New economic data challenges Fed chief\u2019s not-too-hot perspective",
     "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Warsh shakes up Fed's approach to setting interest rates",
-    "The Fed\u2019s decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
-    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.",
-    "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
-    "5 things to watch for in this week's Federal Reserve meeting",
+    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992"
+    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.",
+    "5 things to watch for in this week's Federal Reserve meeting"
    ]
   },
   {
@@ -102,20 +106,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 23,
-   "added": 1,
+   "kept": 27,
+   "added": 6,
    "error": "",
    "near_misses": [
     "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
-    "Christine Lagarde\u2019s ECB Successor Needs to Be an Anti-Warsh",
-    "Christine Lagarde departs at a moment of peril",
     "Two Frontrunners Emerge to Succeed Lagarde at ECB",
-    "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
-    "Christine Lagarde to Step Down as President of European Central Bank",
-    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
-    "European Central Bank President Lagarde resigns early",
     "European Central Bank President Lagarde to step down early",
-    "\u2018I\u2019m not a candidate for anything\u2019: What Lagarde told Euronews before quitting the ECB"
+    "Lagarde\u2019s early exit: \u2018I don\u2019t think I can remain neutral\u2019",
+    "Christine Lagarde departs at a moment of peril",
+    "Statement by President Ant\u00f3nio Costa on the forthcoming departure of Christine Lagarde from the European Central Bank",
+    "Lagarde\u2019s early departure triggers race to solve three-way ECB puzzle",
+    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
+    "Christine Lagarde to Step Down as President of European Central Bank",
+    "ECB, US Fed Hold Rates; Lagarde To Step Down \u2013 Wealth Managers React"
    ]
   },
   {
@@ -123,21 +127,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 1,
-   "added": 0,
+   "fetched": 10,
+   "kept": 6,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "VIEW ECB keeps rates unchanged; euro and bond yields fall",
-    "Who Replaces Lagarde? De Cos and Knot Lead Candidates to Run ECB",
-    "ECB holds interest rates steady as energy shock drives inflation to 3.8%",
-    "The politics of President Lagarde's European Central Bank early exit \u2014 and who could replace her",
-    "ECB warns prolonged energy shock to drive up inflation, lower growth",
+    "ECB may need further rate hikes to counter inflation, says Panetta",
     "Stournaras Praises Lagarde as She Prepares to Leave ECB",
-    "Lagarde\u2019s early exit Le Pen-proofs ECB as France veers toward a debt reckoning",
-    "European Central Bank President Christine Lagarde will resign in February, nine months early",
-    "Christine Lagarde\u2019s early resignation kicks off race for top ECB jobs, including one held by Irishman",
-    "FOREX-Euro steady against dollar after ECB leaves rates unchanged"
+    "ECB warns prolonged energy shock to drive up inflation, lower growth"
    ]
   },
   {
@@ -145,20 +142,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England surveys show firms see pay rising around 3.5% in 2027",
     "Bank of England opens tokenised collateral consultation",
-    "BoE publishes consultation on supervisory expectations for CCPs seeking to accept tokenised collateral",
+    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
     "Bank of England Consults on Tokenised Collateral",
-    "Bank of England Seeks Feedback on Tokenized Collateral for CCPs",
-    "Sir Robert McAlpine Secures \u00a3133m Contract to Transform Bank of England\u2019s Historic London Headquarters",
     "The Cumberland joins Bank of England unit to support future growth plans",
+    "BoE publishes consultation on supervisory expectations for CCPs seeking to accept tokenised collateral",
+    "Bank of England Seeks Feedback on Tokenized Collateral for CCPs",
     "UK Budget Does Little to Ease Pressure on BOE for Rate Hikes",
-    "Bank of England deal a highlight as Leeds take-up slips",
-    "Healey keeps Bank of England\u2019s 2% inflation target and flags energy price pressure"
+    "Mortgage borrowing falls in September, says Bank of England",
+    "Bank of England deal a highlight as Leeds take-up slips"
    ]
   },
   {
@@ -166,21 +164,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
+   "fetched": 94,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Chief Warns US Deficits Are Unsustainable and Costly",
     "FULL TEXT-Bank of Canada head sees less room for monetary accommodation",
+    "Terence Corcoran: Bank of Canada is back on track",
+    "Letters to the editor: \u2018Tiff Macklem might well achieve his goal of grinding inflation below 2 per cent. Let\u2019s hope he doesn\u2019t take the rest of us down with it.",
     "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
-    "Bank of Canada raises interest rate to 2.5% as inflation pressures mount",
-    "Bank of Canada raises interest rates: Read the official statement",
-    "Bank of Canada interest rate hike could signal tough 2027 says economist",
     "News | Bank of Canada raises key rate to 2.5% in first hike in three years",
-    "Bank of Canada: Further tightening risk highlighted \u2013 Rabobank",
+    "Bank of Canada raises interest rate to 2.5% as inflation pressures mount",
     "The Bank of Canada just raised its policy interest rate",
-    "Canadian Dollar Outlook Hinges on Central Bank's Rate Decision, Macklem's Comments, Commerzbank Says"
+    "Bank of Canada interest rate hike could signal tough 2027 says economist",
+    "Bank of Canada raises key interest rate amid soaring energy costs"
    ]
   },
   {
@@ -188,13 +186,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "SNB Reports Nine-Month Profit on Foreign Currencies and Gold",
-    "USD Rises vs Franc as Fed Looms and SNB Holds Rates"
+    "SNB Reports Nine-Month Profit on Foreign Currencies and Gold"
    ]
   },
   {
@@ -334,7 +331,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 20,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": ""
   },
