@@ -2477,6 +2477,28 @@
    "read": "Non-rate Governing Council decisions; no policy signal in the headline.",
    "at": "2026-10-31T16:01:11Z",
    "by": "claude"
+  },
+  "3adb35ef71ee": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Flags AI investment as adding to inflation, supporting further gradual hikes.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-31T20:48:32Z",
+   "by": "claude"
+  },
+  "dbd132ae6aa7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-31T20:48:32Z",
+   "by": "claude"
+  },
+  "795ae6c08b38": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-31T20:48:32Z",
+   "by": "claude"
   }
  }
 }
