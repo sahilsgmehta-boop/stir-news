@@ -445,7 +445,9 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "11c645a5a0b5",
 "score": 4,
@@ -3178,7 +3180,8 @@
 "WZTV",
 "KRXI2",
 "WEAR-TV",
-"KATU"
+"KATU",
+"WSMH"
 ],
 "desc": "",
 "id": "559a23cc132f",
