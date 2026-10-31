@@ -1,5 +1,5 @@
 {
- "built": "2026-10-31T20:48:45Z",
+ "built": "2026-10-31T21:57:19Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 55,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 35,
+   "kept": 36,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -108,14 +108,14 @@
    "near_misses": [
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
     "Christine Lagarde\u2019s Lonely Next Act: Defender of a Fading Globalist Order",
-    "Two Frontrunners Emerge to Succeed Lagarde at ECB",
-    "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
     "As energy prices threaten inflation again, Lagarde\u2019s European Central Bank legacy offers lessons",
+    "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
     "ECB president Lagarde to step down early",
     "Christine Lagarde announces departure from ECB, wants 'freedom to engage' on matters other than monetary policy",
     "Is this the real reason Christine Lagarde is leaving the ECB?",
     "Lagarde\u2019s early exit: \u2018I don\u2019t think I can remain neutral\u2019",
-    "Christine Lagarde\u2019s ECB Successor Needs to Be an Anti-Warsh"
+    "Christine Lagarde\u2019s ECB Successor Needs to Be an Anti-Warsh",
+    "Lagarde Exits ECB After Big Wins, Some Errors and a Long Goodbye"
    ]
   },
   {
@@ -123,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -140,21 +140,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 34,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Venezuela demands Bank of England return its gold reserves",
+    "Bank of England weighs raising cap on high-risk mortgages to five times income: FT",
+    "Bank of England surveys show firms see pay rising around 3.5% in 2027",
     "The Cumberland Joins Bank of England\u2019s Scale-up Unit to Accelerate Growth",
     "Bank of England: Gradual hiking path \u2013 Rabobank",
+    "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
     "Bank of England to raise rates gradually \u2013 Rabobank",
+    "BoE May Raise Mortgage Loan-to-Income Cap",
     "Bank of England opens tokenised collateral consultation",
-    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
-    "Bank of England Consults on Tokenised Collateral",
-    "Bank of England: A Measured Pace of Rate Hikes \u2013 Rabobank",
-    "Bank of England Wage Survey Signals Inflation Concerns for 2027",
-    "Venezuela demands Bank of England return its gold reserves",
-    "Bank of England weighs raising cap on high-risk mortgages to five times income: FT"
+    "Expectations of BoE rate hikes resonated with the decline in the US dollar, pushing GBP/USD back to the upper bound of its trading range as it awaits a stress t"
    ]
   },
   {
@@ -162,7 +162,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -175,8 +175,8 @@
     "Bank of Canada Governor warns: US deficit threatens to raise borrowing and mortgage costs in Canada",
     "Terence Corcoran: Bank of Canada is back on track",
     "Amanda Lang discusses inflation and interest rates with Tiff Macklem",
-    "Steinbach Credit Union hikes interest rates following Bank of Canada move",
-    "Timing of BoC\u2019s next rate hike in question after surprise stall in August GDP"
+    "Amanda Lang discusses inflation and interest rates with Tiff Macklem",
+    "Variable rates on new mortgages could rise faster than the Bank of Canada\u2019s rate. Here\u2019s why"
    ]
   },
   {

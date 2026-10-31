@@ -806,6 +806,26 @@
 "basis": ""
 },
 {
+"t": "2026-10-30T15:02:24Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Christine Lagarde: A politician among bankers",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDY0SjFRSEs0NHR2d2g4ZHQteDhkUk1YY1hyaWFOVjNvQ3ZtUXNobDZEQnJScllpaEdCSC1HZE43WHl0YUp4VXhvZXU4THFfVkVKSGMySXl1Y0p2WHAxYXlMT2lYV3YyTTY3YTdUcWRHbl84bzFkOWJYN1FFQjNQUTgxMXQyVFhvaWxwSdIBfkFVX3lxTE5DY2xZY3FWY0Y2YnBaMmg3dmpLSzEwc1dMZFVweTBuT01lbGI1T1cwSzVkTEVHMWNibmdHVC1Bc2Y1cEo1MVZUWUxfZUdFUUxYWkZUUGV6dE05NWpQOUtSVVdfekpzcTZJWkU5SzNZLXppUndhelRyems4aEZZUQ?oc=5",
+"src": "vijesti.me",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4527f8b7822e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-30T14:07:51Z",
 "bank": "Fed",
 "speaker": "Barkin",
@@ -1048,7 +1068,8 @@
 "European Interest",
 "FT central banks",
 "Funds Society",
-"SFG Media"
+"SFG Media",
+"FintechNews CH"
 ],
 "desc": "Departure announced just hours before central bank holds interest rates at 2.5%",
 "id": "a5ce00b77203",
@@ -1324,7 +1345,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Oman Observer"
+],
 "desc": "",
 "id": "e6b7aa0d1edf",
 "score": 0,
@@ -1534,7 +1557,8 @@
 "also": [
 "Euronext Markets: Real-time Stock Market Data | live",
 "Fresno Bee",
-"Reuters"
+"Reuters",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "2596ad9a0779",
@@ -1990,7 +2014,9 @@
 "src": "The Nightly",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"JournalArta"
+],
 "desc": "",
 "id": "1aad0fb4fd30",
 "score": 0,
