@@ -2338,6 +2338,92 @@
    "read": "Not a policy remark.",
    "at": "2026-10-30T21:00:44Z",
    "by": "claude"
+  },
+  "6e6570ae76ca": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says the Fed will hike again soon, urging near-term tightening.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "646fd0104d04": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Urges a near-term hike, calling policy still too loose.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "5246715b1933": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "FOMC will need to raise rates 'soon' to tame inflation.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "46f0b3e53bc3": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Intends to keep implementing remaining tightening; vague on its own.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "85443eee0846": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Hike direction clear, only the pace is uncertain.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "1287c7f50e37": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs gradual hikes and flags the AI investment boom as an inflation risk.",
+   "lead": "c12538f58c34",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "4548457beb67": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Quantifies AI-exposed goods at 3.4% of the basket; descriptive.",
+   "lead": "51640fa151a3",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "9bd14b503fca": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Story on Warsh wanting the Fed to say less; no new rate steer from him.",
+   "lead": "53da22caf0cb",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "a504be156aa8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
+  },
+  "a902e6c9e347": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Flags US deficits lifting Canadian yields; no steer on the policy rate.",
+   "sum": "Macklem warned that U.S. fiscal deficits could push up Canadian borrowing costs.",
+   "pts": [
+    "Said U.S. deficits could raise Canadian borrowing costs.",
+    "No reported new steer on the policy rate after the 28 October hike."
+   ],
+   "rr": "Points to spillover into Canadian longer-term yields rather than the BoC front end; no change to near-term meeting pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-31T06:56:02Z",
+   "by": "claude"
   }
  }
 }
