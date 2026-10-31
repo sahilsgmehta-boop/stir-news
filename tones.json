@@ -2424,6 +2424,52 @@
    "basis": "reports",
    "at": "2026-10-31T06:56:02Z",
    "by": "claude"
+  },
+  "19a6798201ab": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-10-31T11:49:58Z",
+   "by": "claude"
+  },
+  "73b7e231057f": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Stresses a very uncertain growth and inflation outlook; no push for a December hike.",
+   "sum": "Rehn said the euro-area growth and inflation outlook remains very uncertain, a day after the ECB held rates at 2.50%.",
+   "pts": [
+    "Said the growth and inflation outlook is still very uncertain.",
+    "No reported steer on the next rate move."
+   ],
+   "rr": "Uncertainty framing from a moderate gives no support to December hike pricing and leans slightly toward keeping options open. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-10-31T11:49:58Z",
+   "by": "claude"
+  },
+  "2f57017b6fc5": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "On public understanding of Fed thinking; no rate signal in this headline.",
+   "lead": "c3d21f47b609",
+   "at": "2026-10-31T11:49:58Z",
+   "by": "claude"
+  },
+  "e7fceae5a65e": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says the October hold does not change the tightening direction.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-31T11:49:58Z",
+   "by": "claude"
+  },
+  "f85e33adc9a9": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Sizes at least 50bp more hikes before any pause.",
+   "lead": "e74ed1eba982",
+   "at": "2026-10-31T11:49:58Z",
+   "by": "claude"
   }
  }
 }
