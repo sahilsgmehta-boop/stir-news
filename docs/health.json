@@ -1,5 +1,5 @@
 {
- "built": "2026-10-31T18:51:44Z",
+ "built": "2026-10-31T20:48:45Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 44,
-   "added": 2,
+   "fetched": 100,
+   "kept": 54,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "The Fed's Hawkish Pause: America's Roaring Economy Is Running Out of Real Income",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+    "The Fed's Hawkish Pause: America's Roaring Economy Is Running Out of Real Income",
+    "Why The Fed\u2019s Interest Rate Decisions Matter For American Families",
     "\u2018At least\u2019 two more rate hikes needed, Dallas Fed president declares",
-    "Eighth Circuit affirms vacatur of Fed\u2019s Regulation II debit interchange cap",
     "The Fed\u2019s Fiddling (\u201cWaiting For Information\u201d) While Things Run Hot",
     "Bank Concentration Undermined the Fed\u2019s Monetary Policy During the Last Tightening Cycle",
+    "Eighth Circuit affirms vacatur of Fed\u2019s Regulation II debit interchange cap",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
-    "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald",
-    "Warsh shakes up Fed's approach to setting interest rates"
+    "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald"
    ]
   },
   {
@@ -80,17 +80,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
+   "kept": 35,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "5 things to watch for in this week's Federal Reserve meeting",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
     "Fed highlights economic strength but muddies outlook for Treasuries"
@@ -102,10 +102,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 26,
-   "added": 0,
+   "kept": 25,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
     "Christine Lagarde\u2019s Lonely Next Act: Defender of a Fading Globalist Order",
     "Two Frontrunners Emerge to Succeed Lagarde at ECB",
     "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
@@ -114,7 +115,6 @@
     "Christine Lagarde announces departure from ECB, wants 'freedom to engage' on matters other than monetary policy",
     "Is this the real reason Christine Lagarde is leaving the ECB?",
     "Lagarde\u2019s early exit: \u2018I don\u2019t think I can remain neutral\u2019",
-    "Lagarde\u2019s early exit sets up battle for control of the ECB ahead of French election",
     "Christine Lagarde\u2019s ECB Successor Needs to Be an Anti-Warsh"
    ]
   },
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 18,
+   "fetched": 26,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -132,8 +132,7 @@
     "ECB policymakers bring rate hike debate into the open",
     "ECB Has Requested EU Leaders Start Search for Lane Successor",
     "ECB Has Requested EU Leaders Start Search for Lane Successor",
-    "The ECB has asked the region\u2019s leaders to start choosing a successor to Chief Economist Lane, opening the race for yet another vacancy on its Executive Board, r",
-    "ECB asks EU leaders to start search for successor to Lane, Bloomberg News reports"
+    "The ECB has asked the region\u2019s leaders to start choosing a successor to Chief Economist Lane, opening the race for yet another vacancy on its Executive Board, r"
    ]
   },
   {
@@ -141,21 +140,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Venezuela demands Bank of England return its gold reserves",
-    "Bank of England weighs raising cap on high-risk mortgages to five times income: FT",
-    "Bank of England surveys show firms see pay rising around 3.5% in 2027",
-    "Bank of England to raise rates gradually \u2013 Rabobank",
     "The Cumberland Joins Bank of England\u2019s Scale-up Unit to Accelerate Growth",
     "Bank of England: Gradual hiking path \u2013 Rabobank",
-    "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
+    "Bank of England to raise rates gradually \u2013 Rabobank",
     "Bank of England opens tokenised collateral consultation",
-    "Expectations of BoE rate hikes resonated with the decline in the US dollar, pushing GBP/USD back to the upper bound of its trading range as it awaits a stress t",
-    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates"
+    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
+    "Bank of England Consults on Tokenised Collateral",
+    "Bank of England: A Measured Pace of Rate Hikes \u2013 Rabobank",
+    "Bank of England Wage Survey Signals Inflation Concerns for 2027",
+    "Venezuela demands Bank of England return its gold reserves",
+    "Bank of England weighs raising cap on high-risk mortgages to five times income: FT"
    ]
   },
   {
@@ -171,13 +170,13 @@
     "Adam Radwanski: Why this week\u2019s Bank of Canada rate increase is so unsettling",
     "Letters to the editor: \u2018Tiff Macklem might well achieve his goal of grinding inflation below 2 per cent. Let\u2019s hope he doesn\u2019t take the rest of us down with it.",
     "Stalled August GDP complicates outlook after Bank of Canada rate increase",
-    "Bank of Canada: Rabobank flags risk of further tightening",
     "Bank of Canada raises interest rate to 2.5% as inflation pressures mount",
     "The Bank of Canada Takes Out Inflation Insurance",
     "Bank of Canada Governor warns: US deficit threatens to raise borrowing and mortgage costs in Canada",
     "Terence Corcoran: Bank of Canada is back on track",
     "Amanda Lang discusses inflation and interest rates with Tiff Macklem",
-    "Bank of Canada: Rabobank Flags Risk of Further Tightening"
+    "Steinbach Credit Union hikes interest rates following Bank of Canada move",
+    "Timing of BoC\u2019s next rate hike in question after surprise stall in August GDP"
    ]
   },
   {
@@ -231,7 +230,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 15,
-   "added": 10,
+   "added": 12,
    "error": ""
   },
   {
