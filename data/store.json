@@ -275,7 +275,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Breakingthenews.net"
+"Breakingthenews.net",
+"www.tmgm.com"
 ],
 "desc": "",
 "id": "1fbc069ef2e1",
@@ -1005,7 +1006,8 @@
 "also": [
 "European Interest",
 "FT central banks",
-"Funds Society"
+"Funds Society",
+"SFG Media"
 ],
 "desc": "Departure announced just hours before central bank holds interest rates at 2.5%",
 "id": "a5ce00b77203",
@@ -1811,7 +1813,8 @@
 "Internazionale",
 "Yahoo",
 "The Globe and Mail",
-"1470 & 100.3 WMBD"
+"1470 & 100.3 WMBD",
+"WNWN-FM"
 ],
 "desc": "",
 "id": "2388a1073435",
@@ -1989,7 +1992,8 @@
 "Central Oregon Daily",
 "The National",
 "RTE.ie",
-"CNA"
+"CNA",
+"ASHARQ AL-AWSAT English"
 ],
 "desc": "",
 "id": "cf8b9bc37511",
@@ -2020,7 +2024,9 @@
 "FT central banks",
 "Euronews.com",
 "Yahoo Finance Singapore",
-"Euronews"
+"Euronews",
+"Yahoo Finance Australia",
+"KMVU FOX 26 Medford"
 ],
 "desc": "The statement notes that she has informed the ECB governing council of her decision to step down early and also conveyed that message to European Council president, Antonio Costa. On her successors, the ECB just noted that one \"will be appointed by the European Council following the nomination process outlined in Article 283 of the Treaty on the Functioning of the European Union\". As a reminder, her tenure as ECB president is supposed to end in October 2027. So, leaving in February means she will be headed for an early departure by about six months. Now, speculation over Lagarde leaving the EC",
 "id": "18213ea95ef3",
