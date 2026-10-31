@@ -53,7 +53,8 @@
 "tone": "",
 "also": [
 "Bloomberg.com",
-"Finimize"
+"Finimize",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "5246715b1933",
@@ -116,7 +117,8 @@
 "tone": "hawk",
 "also": [
 "www.marketscreener.com",
-"Reuters"
+"Reuters",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "69e0641e1651",
@@ -356,7 +358,9 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Investing.com Australia"
+],
 "desc": "",
 "id": "cf1a58e8e9a5",
 "score": 1,
@@ -846,7 +850,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"marketscreener.com"
+"marketscreener.com",
+"Forex Factory"
 ],
 "desc": "",
 "id": "a7143df8736c",
@@ -971,7 +976,10 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Briefs Finance",
+"www.tmgm.com"
+],
 "desc": "",
 "id": "b83515aff970",
 "score": 3,
@@ -2722,7 +2730,8 @@
 "WSTM",
 "WCTI",
 "wtvcfox",
-"WRGB"
+"WRGB",
+"KUTV"
 ],
 "desc": "",
 "id": "75771c0b0b71",
