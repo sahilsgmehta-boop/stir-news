@@ -321,7 +321,8 @@
 "CNBC",
 "investingLive",
 "Breakingthenews.net",
-"Reuters"
+"Reuters",
+"www.tmgm.com"
 ],
 "desc": "Comments from Logan on the economy, inflation and monetary policy cross the wires: Fed needs at least two more quarter-point rate hikes. Skipping a meeting doesn’t change policy destination. Adjusting policy gradually can reduce risks of sharp economic deterioration. Gradual policy adjustment helps households, businesses, investors adapt to higher rates. End goal is to make policy modestly restrictive. Making policy rate destination clear helps economy adapt, obtain benefits of a skip. “Unacceptable” that inflation is not headed back to Fed’s 2% target. After 50 bps of rate hikes, a pause woul",
 "id": "fe9c5e26e2f6",
@@ -794,7 +795,9 @@
 "Forex Factory",
 "Yahoo Finance",
 "Reuters",
-"Investify"
+"Investify",
+"AOL.com",
+"Business Recorder"
 ],
 "desc": "",
 "id": "a61aa94abbaf",
@@ -814,12 +817,12 @@
 "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDY0SjFRSEs0NHR2d2g4ZHQteDhkUk1YY1hyaWFOVjNvQ3ZtUXNobDZEQnJScllpaEdCSC1HZE43WHl0YUp4VXhvZXU4THFfVkVKSGMySXl1Y0p2WHAxYXlMT2lYV3YyTTY3YTdUcWRHbl84bzFkOWJYN1FFQjNQUTgxMXQyVFhvaWxwSdIBfkFVX3lxTE5DY2xZY3FWY0Y2YnBaMmg3dmpLSzEwc1dMZFVweTBuT01lbGI1T1cwSzVkTEVHMWNibmdHVC1Bc2Y1cEo1MVZUWUxfZUdFUUxYWkZUUGV6dE05NWpQOUtSVVdfekpzcTZJWkU5SzNZLXppUndhelRyems4aEZZUQ?oc=5",
 "src": "vijesti.me",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "desc": "",
 "id": "4527f8b7822e",
-"score": null,
-"read": "",
+"score": 0,
+"read": "Not a policy remark.",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -1196,17 +1199,21 @@
 "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFJjbzhlYU5WcXp5RVZ2ODQ1Ml81MnA1aDlDU2gzVVpsQ3hvVUp1VFdxSGx0NFVBYnNITzBvVWFWYzM4SUtLMmhNV3ZFMGxVOWR2d1A0UmpBaWRkWGxSQzNXR05UczN5S0VUZ2EyWTJSenNPaHRvb0lVbHRGVDNyeTA1UFpnaUtmWGdqQnhFUUxXRlVvcE1oM2pn0gGfAUFVX3lxTE0xdzRkb3Z0YWR1WDdtaV9YckVFUGxFV0hNd081b3lqNnF6QVJ5RFpveFc4blF3S1dFbnRxbjJyUm1LTHFpZjBmWnlTbFhPakVMTzBFNFFrVkhnaVZidE5tM0VWbEdWTExqWkxrbmNPeFVSQ01OUktiZ2hRVW1TVVRjVmUtWjRUWWtoQktLc1BIa3RFeTJacW1aM1BzMU9BOA?oc=5",
 "src": "Forex Factory",
 "tier": "comment",
-"tone": "",
+"tone": "dove",
 "also": [],
 "desc": "",
 "id": "d9c25ad27919",
-"score": null,
-"read": "",
-"sum": "",
-"pts": [],
-"rr": "",
+"score": -3,
+"read": "Energy shock not yet feeding broader prices, which weakens the case for urgent hikes.",
+"sum": "Slovenia's Dolenc said the energy shock is not yet translating into broader price pressures in the euro area, a day after the ECB held rates.",
+"pts": [
+"Said the energy shock is not translating into broader price pressures yet.",
+"The word \"yet\" keeps second-round risks on the table.",
+"Came a day after the October hold, with sources reporting a December hike."
+],
+"rr": "Leans against urgency for the December hike that sources and pricing point to, though it stops short of ruling it out; supports a shallow terminal. Only news paraphrases were available.",
 "ev": "",
-"basis": ""
+"basis": "reports"
 },
 {
 "t": "2026-10-30T06:25:55Z",
@@ -2453,7 +2460,8 @@
 "tone": "neutral",
 "also": [
 "The Japan Times",
-"Sight Magazine"
+"Sight Magazine",
+"DD News"
 ],
 "desc": "",
 "id": "17412bff37b4",
