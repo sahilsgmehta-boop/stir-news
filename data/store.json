@@ -8,12 +8,12 @@
 "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnlfZlBiZVdlQkhTeS1QTG94M0lFS3pERndFZ2lWRDVGZC1aNUhGb09IanlqTi1VODh0YTh4bVZxN2pOcHRVdVp5YTZDYjJ3UVgxVFV6dUZIM0I2MWV3MUJFeDJMcTgwQm9tbHJwQzFnWlpFX2NXbnVjd2dHQ3Qxb3NVUmE0MHU1YmxRTnpNd090QnowOUFxWkNoNDhOVTVGWXpiRDgzUjHSAa4BQVVfeXFMT29oeGo4ZmMxV2tVbDFjc2ZWemZ0WDhpN2N1SWpFQUx4V0FUWEM2eDljYWhUTnpTZXFrU1pkY2RlN3FUb001dDJsYndBMVNzREdDczZoTUdjajcyT21DWWhyQ0NEUUt1dGZzVFNGMXlJZ09ZMUdvWmdhZ2gzTXlEV1otdW5ZTDZzbTRkbmNTazJNZVZCTGtJZ3Zya3pRMWpjcDl2R2xaTnNjTzNqMjF3?oc=5",
 "src": "Gulf Times",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "desc": "",
 "id": "c83ba12e0714",
-"score": null,
-"read": "",
+"score": 0,
+"read": "Not a policy remark.",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -492,7 +492,8 @@
 "tone": "neutral",
 "also": [
 "Investing.com Australia",
-"Investing.com South Africa"
+"Investing.com South Africa",
+"Investing.com Nigeria"
 ],
 "desc": "",
 "id": "cf1a58e8e9a5",
