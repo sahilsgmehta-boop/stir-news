@@ -64,6 +64,26 @@
 "basis": "reports"
 },
 {
+"t": "2026-10-31T10:43:18Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB President Lagarde resigns effective February 7",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanM3cHRlUEJEMjdPZnNJZUt3YldnV0ZlYlhHa2YtdU9mN3d4MFFlLWtRWXYxUXFxR0FjTVlUTVdvbW5GTy1fMmQ1UTVTU3BtenN5anNjN0stNy02NG5Mc29MazM2U1FWN3daX3BtNmk3c09pUXBOWWN4QTRSV2RSdmhmaTlOeDBLZlZtUlF3NWhPRDlPSkNTTkk5b1FCR2ctVmpn?oc=5",
+"src": "The Daily Star",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "8ebe78047c28",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-10-31T00:49:00Z",
 "bank": "Fed",
 "speaker": "Logan",
@@ -114,7 +134,8 @@
 "tone": "neutral",
 "also": [
 "Reuters",
-"The Detroit News"
+"The Detroit News",
+"1470 & 100.3 WMBD"
 ],
 "desc": "",
 "id": "a504be156aa8",
