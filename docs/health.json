@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T06:49:46Z",
+ "built": "2026-11-01T07:22:42Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 58,
+   "fetched": 73,
+   "kept": 42,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -69,9 +69,9 @@
     "Bank Concentration Undermined the Fed\u2019s Monetary Policy During the Last Tightening Cycle",
     "Eighth Circuit affirms vacatur of Fed\u2019s Regulation II debit interchange cap",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
-    "Why The Fed\u2019s Interest Rate Decisions Matter For American Families",
     "Fed\u2019s Favorite Wage Metric Shows Slowest Annual Gain Since 2021 as Real Pay Remains Negative",
-    "Macro strategist Greg Faranello dissects Fed\u2019s decision to leave rates unchanged"
+    "Macro strategist Greg Faranello dissects Fed\u2019s decision to leave rates unchanged",
+    "Why Warsh's 'communication was pretty messy' on Fed's hold decision"
    ]
   },
   {
@@ -80,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 35,
+   "kept": 43,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -102,8 +102,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 25,
-   "added": 1,
+   "kept": 27,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
@@ -113,9 +113,9 @@
     "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
     "Christine Lagarde\u2019s Lonely Next Act: Defender of a Fading Globalist Order",
     "As energy prices threaten inflation again, Lagarde\u2019s European Central Bank legacy offers lessons",
-    "EUR/USD Clings to Support as Lagarde Announces Early Departure",
-    "Lagarde's early exit raises questions over ECB independence, policy outlook",
-    "Lagarde exits ECB after big wins, some errors and a long goodbye"
+    "Lagarde exits ECB after big wins, some errors and a long goodbye",
+    "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
+    "Germany European Central Bank Lagarde"
    ]
   },
   {
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 30,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -151,10 +151,10 @@
     "The Cumberland Joins Bank of England\u2019s Scale-up Unit to Accelerate Growth",
     "Bank of England: Gradual hiking path \u2013 Rabobank",
     "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
-    "Bank of England to raise rates gradually \u2013 Rabobank",
+    "Bank of England: A Measured Pace of Rate Hikes \u2013 Rabobank",
     "BoE May Raise Mortgage Loan-to-Income Cap",
-    "Expectations of BoE rate hikes resonated with the decline in the US dollar, pushing GBP/USD back to the upper bound of its trading range as it awaits a stress t",
-    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates"
+    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
+    "Bank of England to raise rates gradually \u2013 Rabobank"
    ]
   },
   {
@@ -162,21 +162,20 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the editor: \u2018Tiff Macklem might well achieve his goal of grinding inflation below 2 per cent. Let\u2019s hope he doesn\u2019t take the rest of us down with it.",
     "Adam Radwanski: Why this week\u2019s Bank of Canada rate increase is so unsettling",
-    "Bank of Canada raises interest rate to 2.5% as inflation pressures mount",
     "Stalled August GDP complicates outlook after Bank of Canada rate increase",
     "Bank of Canada Governor warns: US deficit threatens to raise borrowing and mortgage costs in Canada",
     "Terence Corcoran: Bank of Canada is back on track",
     "Amanda Lang discusses inflation and interest rates with Tiff Macklem",
-    "Timing of BoC\u2019s next rate hike in question after surprise stall in August GDP",
     "Amanda Lang discusses inflation and interest rates with Tiff Macklem",
-    "Bank of Canada hikes key rate, signals further increases possible"
+    "Bank of Canada hikes key rate, signals further increases possible",
+    "Bank of Canada Raises Rate to 2.5%: How Much More Alberta Homeowners Could Pay"
    ]
   },
   {
