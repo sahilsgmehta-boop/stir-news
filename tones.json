@@ -2536,6 +2536,28 @@
    "read": "Not a policy remark.",
    "at": "2026-11-01T11:59:28Z",
    "by": "claude"
+  },
+  "688d6ee49352": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-01T15:48:30Z",
+   "by": "claude"
+  },
+  "3aca039d0025": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Praise for China's poverty reduction; nothing on euro-area rates or inflation.",
+   "sum": "Lagarde praised China's success in reducing poverty as admirable, according to a Hausa-language report.",
+   "pts": [
+    "Described China's record in cutting poverty as admirable.",
+    "No reported comment on euro-area inflation, rates or the December meeting."
+   ],
+   "rr": "No bearing on ECB pricing; December hike expectations rest on the October decision and sources reports. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-01T15:48:30Z",
+   "by": "claude"
   }
  }
 }
