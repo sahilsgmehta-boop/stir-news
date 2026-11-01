@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T15:48:47Z",
+ "built": "2026-11-01T19:07:56Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 38,
+   "fetched": 40,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+    "The 19 People in the Room When the Fed Sets Interest Rates",
+    "US Fed's rate pause gives room for policy maneuver",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "\u2018At least\u2019 two more rate hikes needed, Dallas Fed president declares",
     "Eighth Circuit affirms vacatur of Fed\u2019s Regulation II debit interchange cap",
+    "Why The Fed\u2019s Interest Rate Decisions Matter For American Families",
+    "Bitcoin Traders Get October CPI Ahead of the Fed\u2019s Final 2026 Meeting",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "The Fed's Hawkish Pause: America's Roaring Economy Is Running Out of Real Income",
-    "Fed\u2019s Favorite Wage Metric Shows Slowest Annual Gain Since 2021 as Real Pay Remains Negative",
-    "Macro strategist Greg Faranello dissects Fed\u2019s decision to leave rates unchanged",
-    "Warsh is cutting the Fed's rate meetings. Fewer decisions, bigger moves",
-    "Fed Signals Two More 25bp Hikes Ahead",
-    "The US Dollar And Gold Face Different Risks After The Fed's October Hold"
+    "October U.S. CPI data out Nov 10 ahead of Fed's Dec meeting, key for inflation and Bitcoin price moves"
    ]
   },
   {
@@ -80,20 +80,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 45,
+   "kept": 46,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
     "5 things to watch for in this week's Federal Reserve meeting",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
+    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
     "Fed highlights economic strength but muddies outlook for Treasuries",
-    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?"
+    "New economic data challenges Fed chief's not-too-hot perspective"
    ]
   },
   {
@@ -101,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
-   "kept": 21,
-   "added": 2,
+   "fetched": 51,
+   "kept": 10,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
     "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater",
+    "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
     "What\u2019s next for Euro bonds and the euro after Lagarde\u2019s resignation?",
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
-    "EUR/USD Clings to Support as Lagarde Announces Early Departure",
     "Christine Lagarde\u2019s Lonely Next Act: Defender of a Fading Globalist Order",
     "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
-    "As energy prices threaten inflation again, Lagarde\u2019s European Central Bank legacy offers lessons",
     "EUR/USD Clings to Support as Lagarde Announces Early Departure",
-    "Lagarde exits ECB after big wins, some errors and a long goodbye"
+    "Lagarde exits ECB after big wins, some errors and a long goodbye",
+    "Germany European Central Bank Lagarde",
+    "Cigars, Couture and Crises: The Christine Lagarde Era at the ECB Draws to a Close"
    ]
   },
   {
@@ -123,17 +123,20 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 8,
+   "fetched": 25,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB may need further rate hikes to counter inflation, says Panetta By Investing.com",
-    "ECB asks EU leaders to start search for successor to Lane, Bloomberg News reports",
-    "Citi explains what \u2019hawk\u2019 and \u2019dove\u2019 really mean as ECB faces leadership change",
-    "ECB Policymakers Signal Possible Rate Hike Amid Inflation Concerns",
     "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
-    "ECB policymakers warn of inflation spike if Iran war lasts"
+    "Citi explains what \u2019hawk\u2019 and \u2019dove\u2019 really mean as ECB faces leadership change",
+    "ECB policymakers warn of inflation spike if Iran war lasts",
+    "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+    "EUR/USD Clings to Support as Lagarde Announces Early Departure",
+    "Why is the euro retreating despite stronger GDP and hawkish ECB signals?",
+    "Stronger GDP and hawkish ECB signals fail to halt euro\u2019s retreat",
+    "Stronger GDP and hawkish ECB signals fail to halt euro retreat",
+    "Christine Lagarde to step down as ECB president in February"
    ]
   },
   {
@@ -141,7 +144,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -150,12 +153,11 @@
     "Venezuela demands Bank of England return its gold reserves",
     "Bank of England weighs raising cap on high-risk mortgages to five times income: FT",
     "Bank of England expected to raise interest rates for first time since 2023",
-    "The Cumberland Joins Bank of England\u2019s Scale-up Unit to Accelerate Growth",
     "BoE May Raise Mortgage Loan-to-Income Cap",
     "Bank of England: A Measured Pace of Rate Hikes \u2013 Rabobank",
     "Pound-to-Dollar Forecast: BoE Guidance Could Test The Post-Budget Recovery",
-    "Bank of England: Firms See Pay Rising 3.5% by 2027, BoE Surveys Show",
-    "Bank of England to raise rates gradually \u2013 Rabobank"
+    "Bank of England to raise rates gradually \u2013 Rabobank",
+    "Bank of England: Gradual Rate Hikes Ahead \u2013 Rabobank"
    ]
   },
   {
@@ -163,16 +165,16 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
+    "Bank of Canada hikes key rate, signals further increases possible",
     "Adam Radwanski: Why this week\u2019s Bank of Canada rate increase is so unsettling",
     "Stalled August GDP complicates outlook after Bank of Canada rate increase",
     "Bank of Canada Governor warns: US deficit threatens to raise borrowing and mortgage costs in Canada",
-    "Bank of Canada hikes key rate, signals further increases possible",
     "Bank of Canada Raises Rate to 2.5%: How Much More Alberta Homeowners Could Pay"
    ]
   },
