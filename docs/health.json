@@ -1,5 +1,5 @@
 {
- "built": "2026-10-31T21:57:19Z",
+ "built": "2026-11-01T00:58:43Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "The Fed's Hawkish Pause: America's Roaring Economy Is Running Out of Real Income",
-    "Why The Fed\u2019s Interest Rate Decisions Matter For American Families",
     "\u2018At least\u2019 two more rate hikes needed, Dallas Fed president declares",
-    "The Fed\u2019s Fiddling (\u201cWaiting For Information\u201d) While Things Run Hot",
+    "Why The Fed\u2019s Interest Rate Decisions Matter For American Families",
     "Bank Concentration Undermined the Fed\u2019s Monetary Policy During the Last Tightening Cycle",
     "Eighth Circuit affirms vacatur of Fed\u2019s Regulation II debit interchange cap",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
-    "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald"
+    "Fed's interest rate strategy is the 'wrong tool for the wrong job', says Keith Fitz-Gerald",
+    "Warsh shakes up Fed's approach to setting interest rates"
    ]
   },
   {
@@ -102,20 +102,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 25,
+   "kept": 27,
    "added": 1,
    "error": "",
    "near_misses": [
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
-    "Christine Lagarde\u2019s Lonely Next Act: Defender of a Fading Globalist Order",
-    "As energy prices threaten inflation again, Lagarde\u2019s European Central Bank legacy offers lessons",
+    "EUR/USD Clings to Support as Lagarde Announces Early Departure",
     "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
-    "ECB president Lagarde to step down early",
+    "As energy prices threaten inflation again, Lagarde\u2019s European Central Bank legacy offers lessons",
+    "Christine Lagarde\u2019s Lonely Next Act: Defender of a Fading Globalist Order",
+    "Germany European Central Bank Lagarde",
     "Christine Lagarde announces departure from ECB, wants 'freedom to engage' on matters other than monetary policy",
+    "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
     "Is this the real reason Christine Lagarde is leaving the ECB?",
-    "Lagarde\u2019s early exit: \u2018I don\u2019t think I can remain neutral\u2019",
-    "Christine Lagarde\u2019s ECB Successor Needs to Be an Anti-Warsh",
-    "Lagarde Exits ECB After Big Wins, Some Errors and a Long Goodbye"
+    "Lagarde\u2019s early exit: \u2018I don\u2019t think I can remain neutral\u2019"
    ]
   },
   {
@@ -140,21 +140,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Venezuela demands Bank of England return its gold reserves",
-    "Bank of England weighs raising cap on high-risk mortgages to five times income: FT",
-    "Bank of England surveys show firms see pay rising around 3.5% in 2027",
     "The Cumberland Joins Bank of England\u2019s Scale-up Unit to Accelerate Growth",
     "Bank of England: Gradual hiking path \u2013 Rabobank",
-    "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
     "Bank of England to raise rates gradually \u2013 Rabobank",
-    "BoE May Raise Mortgage Loan-to-Income Cap",
     "Bank of England opens tokenised collateral consultation",
-    "Expectations of BoE rate hikes resonated with the decline in the US dollar, pushing GBP/USD back to the upper bound of its trading range as it awaits a stress t"
+    "\u2018Nailed on\u2019: Bank of England expected to hike interest rates",
+    "Bank of England: A Measured Pace of Rate Hikes \u2013 Rabobank",
+    "Bank of England Wage Survey Signals Inflation Concerns for 2027",
+    "Venezuela demands Bank of England return its gold reserves",
+    "Bank of England weighs raising cap on high-risk mortgages to five times income: FT",
+    "BOE Agents See Little Sign of Energy Shock Feeding Into Pay"
    ]
   },
   {
@@ -162,7 +162,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 27,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -171,12 +171,12 @@
     "Letters to the editor: \u2018Tiff Macklem might well achieve his goal of grinding inflation below 2 per cent. Let\u2019s hope he doesn\u2019t take the rest of us down with it.",
     "Stalled August GDP complicates outlook after Bank of Canada rate increase",
     "Bank of Canada raises interest rate to 2.5% as inflation pressures mount",
-    "The Bank of Canada Takes Out Inflation Insurance",
     "Bank of Canada Governor warns: US deficit threatens to raise borrowing and mortgage costs in Canada",
     "Terence Corcoran: Bank of Canada is back on track",
     "Amanda Lang discusses inflation and interest rates with Tiff Macklem",
     "Amanda Lang discusses inflation and interest rates with Tiff Macklem",
-    "Variable rates on new mortgages could rise faster than the Bank of Canada\u2019s rate. Here\u2019s why"
+    "Bank of Canada Raises Rate to 2.5%: How Much More Alberta Homeowners Could Pay",
+    "Bank of Canada Raises Interest Rate for First Time in Over Three Years Amid Inflation Concerns"
    ]
   },
   {
