@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T22:53:44Z",
+ "built": "2026-11-02T02:21:22Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 11,
-   "added": 0,
+   "kept": 9,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,10 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "China\u2019s central bank goes daily on 1.25% overnight repo, moving to Fed-style anchor",
     "investingLive Americas FX news wrap 30 Oct: It\u2019s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play"
    ]
   },
@@ -57,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 7,
+   "fetched": 36,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
-    "The 19 People in the Room When the Fed Sets Interest Rates",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "US Fed's rate pause gives room for policy maneuver",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
+    "U.S. Midterms and Jobs Data in Focus as Fed's December Path Looms",
     "Why The Fed\u2019s Interest Rate Decisions Matter For American Families",
+    "Federal Reserve keeps rates unchanged despite elevated inflation",
     "The Fed's Hawkish Pause: America's Roaring Economy Is Running Out of Real Income",
+    "Veteran Investor Eddie Ghabour Says the Fed Made a Mistake, Warns on AI Debt and Lays Out His 2027 Playbook",
     "Bitcoin Traders Get October CPI Ahead of the Fed\u2019s Final 2026 Meeting",
-    "October U.S. CPI data out Nov 10 ahead of Fed's Dec meeting, key for inflation and Bitcoin price moves",
-    "Fed officials back more rate hikes, gradual pace of tightening",
-    "Gold & Silver Plunge as the Fed's Inflation Trap Tightens",
-    "Best Crypto Presale to Buy After the Fed's 10 to 2 Hold: Early Buyers Pick Pepeto Over HYPE and TRX"
+    "Two Fed Officials Just Called for More Rate Hikes, Starting Soon",
+    "Week Ahead: U.S. Midterms; U.S. Treasury QRA; BOE, RBA, Riksbank and BCB Meetings; U.S. and Canada Jobs Reports; Eurozone, Swiss and SK CPIs; ECB Wage Tracker; "
    ]
   },
   {
@@ -80,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 42,
-   "added": 3,
+   "kept": 43,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-    "5 things to watch for in this week's Federal Reserve meeting",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "New economic data challenges Fed chief's not-too-hot perspective"
+    "New economic data challenges Fed chief's not-too-hot perspective",
+    "The Fed\u2019s decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
+    "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It"
    ]
   },
   {
@@ -101,21 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
-   "kept": 4,
+   "fetched": 55,
+   "kept": 5,
    "added": 2,
    "error": "",
    "near_misses": [
+    "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
     "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater",
     "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
-    "What\u2019s next for Euro bonds and the euro after Lagarde\u2019s resignation?",
     "Christine Lagarde\u2019s Lonely Next Act: Defender of a Fading Globalist Order",
+    "What\u2019s next for Euro bonds and the euro after Lagarde\u2019s resignation?",
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
-    "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
     "EUR/USD Clings to Support as Lagarde Announces Early Departure",
-    "Lagarde exits ECB after big wins, some errors and a long goodbye",
-    "Cigars, Couture and Crises: The Christine Lagarde Era at the ECB Draws to a Close",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing"
+    "ECB likely to avoid a long-term commitment - Lagarde",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "Lagarde exits ECB after big wins, some errors and a long goodbye"
    ]
   },
   {
@@ -123,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 31,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: U.S. Midterms; U.S. Treasury QRA; BOE, RBA, Riksbank and BCB Meetings; U.S. and Canada Jobs Reports; Eurozone, Swiss and SK CPIs; ECB Wage Tracker; ",
-    "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
-    "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
     "Citi explains what \u2019hawk\u2019 and \u2019dove\u2019 really mean as ECB faces leadership change",
+    "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
     "Bank of Canada Hikes as Inflation Risks Intensify: AUD/CAD In Focus",
     "Lagarde resigns as ECB president more than eight months early",
     "Week ahead: US Midterm Elections, Payrolls and BoE lead the agenda",
     "S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings",
     "EUR/USD Clings to Support as Lagarde Announces Early Departure",
-    "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed"
+    "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed",
+    "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ"
    ]
   },
   {
@@ -145,20 +146,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England poised to raise rates but may push back on bets for more",
     "Week Ahead: Bank of England Decides, US Votes in Midterms, Payrolls Follow",
     "Bank of England may raise high-risk mortgage threshold: FT",
-    "Venezuela demands Bank of England return its gold reserves",
-    "Bank of England weighs raising cap on high-risk mortgages to five times income: FT",
-    "BoE May Raise Mortgage Loan-to-Income Cap",
-    "Bank of England set to rise interest rates for first time since 2023",
-    "Bank of England consults on tokenized collateral",
-    "Bank of England expected to raise interest rates for first time since 2023",
-    "Pound-to-Dollar Forecast: BoE Guidance Could Test The Post-Budget Recovery"
+    "Bank of England expected to raise interest rates for first time since 2023"
    ]
   },
   {
@@ -166,17 +162,16 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
-    "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
     "Bank of Canada hikes key rate, signals further increases possible",
-    "Adam Radwanski: Why this week\u2019s Bank of Canada rate increase is so unsettling",
     "Bank of Canada interest rate hiked just a week before federal budget comes out\u2014what does it mean?",
     "Stalled August GDP complicates outlook after Bank of Canada rate increase",
+    "Opinion | Why this week\u2019s Bank of Canada rate increase is so unsettling",
     "Bank of Canada Raises Rate to 2.5%: How Much More Alberta Homeowners Could Pay"
    ]
   },
