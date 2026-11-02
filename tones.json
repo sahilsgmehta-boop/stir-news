@@ -2586,6 +2586,65 @@
    "read": "Not a policy remark.",
    "at": "2026-11-02T06:50:32Z",
    "by": "claude"
+  },
+  "e532f1af50ae": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-02T11:54:39Z",
+   "by": "claude"
+  },
+  "f0ad6b597ad1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-02T11:54:39Z",
+   "by": "claude"
+  },
+  "d1c6b8c1f71b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-02T11:54:39Z",
+   "by": "claude"
+  },
+  "7562431301b3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-02T11:54:39Z",
+   "by": "claude"
+  },
+  "c9e90a2a6742": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Explains her early exit by wanting to speak on world events; no policy signal.",
+   "sum": "Lagarde is reported as saying she is stepping down early because she cannot remain neutral on world events, a personal rather than policy explanation.",
+   "pts": [
+    "Gave not being able to stay neutral on world events as her reason for leaving the ECB early.",
+    "Departure is set for 7 February 2027, ahead of the October 2027 end of her term.",
+    "No remarks on inflation, growth or the rate path were reported alongside it."
+   ],
+   "rr": "No direct signal for the December meeting or the curve; succession adds some uncertainty to the 2027 path. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-02T11:54:39Z",
+   "by": "claude"
+  },
+  "ab4c32c28811": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural speech on European integration and fragmentation; no rate signal visible.",
+   "sum": "Vice-President Vujčić spoke on Europe's strengths of integration, openness and resilience in a fragmenting world; the text could not be read this run.",
+   "pts": [
+    "Theme is Europe's integration, openness and resilience amid global fragmentation.",
+    "Title points to a structural, not a near-term monetary policy, speech."
+   ],
+   "rr": "No visible steer for the December meeting or the curve. Only news paraphrases were available.",
+   "ev": "Speech",
+   "basis": "reports",
+   "at": "2026-11-02T11:54:39Z",
+   "by": "claude"
   }
  }
 }
