@@ -2645,6 +2645,37 @@
    "basis": "reports",
    "at": "2026-11-02T11:54:39Z",
    "by": "claude"
+  },
+  "19a17d7efab9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability warning on AI valuations; no steer on the rate path.",
+   "sum": "Vujcic warned that AI-related asset valuations pose a risk to euro-area financial stability.",
+   "pts": [
+    "Flagged stretched AI-related valuations as a financial stability risk.",
+    "No remarks on inflation or the path of rates were reported."
+   ],
+   "rr": "No direct read for ECB meeting pricing; a financial-stability point rather than a policy signal. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-02T15:57:08Z",
+   "by": "claude"
+  },
+  "9b304c52bb3f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Headline only notes a Berlin press conference; no remarks on policy reported.",
+   "ev": "Press conference, Berlin",
+   "basis": "reports",
+   "at": "2026-11-02T15:57:08Z",
+   "by": "claude"
+  },
+  "cda2c0a54b3f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Staff blog on supermarket price repricing; no policy signal in the headline.",
+   "at": "2026-11-02T15:57:08Z",
+   "by": "claude"
   }
  }
 }
