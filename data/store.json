@@ -1,6 +1,28 @@
 {
 "items": [
 {
+"t": "2026-11-02T17:26:37Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Kevin Warsh is cutting the number of rate-setting votes",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTFUtVnJvQU9ycWduVGRoX3pqa0hkRGZ6bFUydUVrSDA2TklvLWRKb2RYak02OXNGS0JUWGl0ekFiNHBiaHBnZ0w3d3NpVFVhOUt5ZDNjd3hWUjR3VXFjeVNGb0ZfZUhqc00tU0U3Z3RKQ3dnUENR?oc=5",
+"src": "Quartz",
+"tier": "comment",
+"tone": "",
+"also": [
+"UA.NEWS"
+],
+"desc": "",
+"id": "22f4bf122540",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-02T15:53:44Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -12,6 +34,26 @@
 "also": [],
 "desc": "",
 "id": "599025a1c76a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-02T15:18:51Z",
+"bank": "ECB",
+"speaker": "Escriva",
+"hl": "ECB's Escriva: High complexity on the rates scenario",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3kwZmlBbTkwM1BvZ2ZXdkU4dTBaelR0ZUh4VERrQmUwN0d2R2dCMWI3M25zWW9mUWpNRklMY0hqYmFkc2pzRUpTRjRKYXpYM2p0V1RMM191RTloWG1aR0psUS1GUlBtUy10bG9YdjJZWXplRGVweWdScEQtRmJpYWtQMnF5RFNLOGVaUlBNcDhsVVB5NkpF0gGcAUFVX3lxTE9KWWRRNnpqV21uNFJhRkFTel8teEQycUNYWnBROTN0Rm81eUtsYkNUejZYaFB3SktKRGs5THZ1ZHVYbm5jNEdic3YyZXZUcjVJdkdsOF9aMkJia19YNmJyVVRLZF80dWFCS2lkTEowejNtRnUyX0p2QTd4YVlSeElNbTRrX093VHBCaVFycEdKTlJ1TFNPS3NlMVpaaA?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3eb853ac4ee4",
 "score": null,
 "read": "",
 "sum": "",
@@ -175,7 +217,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"AOL.com"
+],
 "desc": "",
 "id": "e532f1af50ae",
 "score": 0,
