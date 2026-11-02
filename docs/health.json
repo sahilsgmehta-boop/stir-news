@@ -1,5 +1,5 @@
 {
- "built": "2026-11-02T06:50:56Z",
+ "built": "2026-11-02T09:40:15Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": ""
   },
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
     "Gold\u2019s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
     "China\u2019s central bank goes daily on 1.25% overnight repo, moving to Fed-style anchor"
    ]
@@ -58,9 +59,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 5,
-   "added": 1,
+   "fetched": 23,
+   "kept": 9,
+   "added": 2,
    "error": "",
    "near_misses": [
     "US Fed's rate pause gives room for policy maneuver",
@@ -69,8 +70,8 @@
     "Bitcoin Traders Get October CPI Ahead of the Fed\u2019s Final 2026 Meeting",
     "October U.S. CPI data out Nov 10 ahead of Fed's Dec meeting, key for inflation and Bitcoin price moves",
     "Gold & Silver Plunge as the Fed's Inflation Trap Tightens",
-    "US Fed's Strict Stance, Rising Bond Yields May Challenge Emerging Economies: Fitch",
-    "Best Crypto Presale to Buy After the Fed's 10 to 2 Hold: Early Buyers Pick Pepeto Over HYPE and TRX"
+    "Best Crypto Presale to Buy After the Fed's 10 to 2 Hold: Early Buyers Pick Pepeto Over HYPE and TRX",
+    "US Fed's Strict Stance, Rising Bond Yields May Challenge Emerging Economies: Fitch"
    ]
   },
   {
@@ -79,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
-   "added": 7,
+   "kept": 52,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed plans to eliminate some rate-setting meetings, chairman says",
@@ -90,9 +91,9 @@
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "Rates need to be higher, 3 Fed members say. The question is how much.",
+    "5 things to watch for in this week's Federal Reserve meeting",
     "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "New economic data challenges Fed chief's not-too-hot perspective",
-    "The Fed\u2019s decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy"
+    "New economic data challenges Fed chief's not-too-hot perspective"
    ]
   },
   {
@@ -100,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 6,
-   "added": 2,
+   "fetched": 44,
+   "kept": 4,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
+    "H.M. Queen M\u00e1xima of the Netherlands and European Central Bank President Christine Lagarde to Speak at EMERGE Europe",
+    "Euro zone countries are integrating faster with US than with each other, ECB says",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
-    "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater",
+    "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
     "ECB keeps rates on hold as Christine Lagarde announced her resignation",
-    "What\u2019s next for Euro bonds and the euro after Lagarde\u2019s resignation?",
+    "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater",
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
-    "EUR/USD Clings to Support as Lagarde Announces Early Departure",
-    "Germany European Central Bank Lagarde",
-    "Lagarde exits ECB after big wins, some errors and a long goodbye",
-    "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
+    "EUR/USD Clings to Support as Lagarde Announces Early Departure"
    ]
   },
   {
@@ -122,11 +123,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Euro zone countries are integrating faster with US than with each other, ECB says",
+    "ECB will have to raise rates again, extent uncertain, Kazimir says",
     "Week Ahead: U.S. Midterms; U.S. Treasury QRA; BOE, RBA, Riksbank and BCB Meetings; U.S. and Canada Jobs Reports; Eurozone, Swiss and SK CPIs; ECB Wage Tracker; ",
     "Citi explains what \u2019hawk\u2019 and \u2019dove\u2019 really mean as ECB faces leadership change"
    ]
@@ -136,21 +139,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 22,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England poised to raise rates but may push back on bets for more",
-    "Bank of England set to raise rates to 4% in push to quell inflation",
+    "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
     "The Bank of England Ponders a New Normal for Interest Rates",
+    "Bank of England set to raise rates to 4% in push to quell inflation",
     "Bank of England poised to raise rates but may push back on bets for more",
+    "Bank of England set for first rate hike as energy shock worsens",
     "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
-    "Bank of England poised to raise rates but may push back on bets for more",
-    "Week Ahead: Bank of England Decides, US Votes in Midterms, Payrolls Follow",
-    "Bank of England poised for rate rise amid inflation jump",
-    "Bank of England tipped to raise interest rates for first time in three years",
-    "Bank of England may raise high-risk mortgage threshold: FT"
+    "Goldman Sachs expects Bank of England to raise rates again in February",
+    "Bank of England expected to raise interest rates for first time since 2023",
+    "Week Ahead: Bank of England Decides, US Votes in Midterms, Payrolls Follow"
    ]
   },
   {
@@ -158,15 +161,16 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
-    "Bank of Canada hikes key rate, signals further increases possible",
     "Stalled August GDP complicates outlook after Bank of Canada rate increase",
-    "Opinion | Why this week\u2019s Bank of Canada rate increase is so unsettling"
+    "Opinion | Why this week\u2019s Bank of Canada rate increase is so unsettling",
+    "Bank of Canada raises rates for first time in over three years",
+    "Bank of Canada Raises Rate to 2.5%: How Much More Alberta Homeowners Could Pay"
    ]
   },
   {
@@ -248,7 +252,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 5,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -327,7 +331,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": ""
   }
