@@ -1,5 +1,5 @@
 {
- "built": "2026-11-02T11:55:03Z",
+ "built": "2026-11-02T15:57:38Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,9 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache",
-    "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
-    "Gold\u2019s slide to one-year low: margin calls amplified a fall driven by Fed hike bets"
+    "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache"
    ]
   },
   {
@@ -59,19 +57,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 7,
-   "added": 0,
+   "fetched": 24,
+   "kept": 8,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System",
     "Why Fewer Fed Policy Meetings Could Spell Uncertainty for Stocks",
     "U.S. Midterms and Jobs Data in Focus as Fed's December Path Looms",
     "US Fed's rate pause gives room for policy maneuver",
     "The Fed's Hawkish Pause: America's Roaring Economy Is Running Out of Real Income",
     "Bitcoin Traders Get October CPI Ahead of the Fed\u2019s Final 2026 Meeting",
     "October U.S. CPI data out Nov 10 ahead of Fed's Dec meeting, key for inflation and Bitcoin price moves",
+    "The Fed\u2019s plan for fewer policy meetings could bring more market whiplash",
     "Gold & Silver Plunge as the Fed's Inflation Trap Tightens",
-    "Best Crypto Presale to Buy After the Fed's 10 to 2 Hold: Early Buyers Pick Pepeto Over HYPE and TRX",
     "US Fed's Strict Stance, Rising Bond Yields May Challenge Emerging Economies: Fitch"
    ]
   },
@@ -80,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 51,
-   "added": 0,
+   "fetched": 93,
+   "kept": 38,
+   "added": 7,
    "error": "",
    "near_misses": [
-    "Fed plans to eliminate some rate-setting meetings, chairman says",
-    "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
     "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "Rates need to be higher, 3 Fed members say. The question is how much.",
-    "5 things to watch for in this week's Federal Reserve meeting",
-    "The Fed\u2019s AI Puzzle: Will High Rates Slow the Boom?",
-    "New economic data challenges Fed chief's not-too-hot perspective"
+    "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+    "Federal Reserve keeps rates unchanged despite elevated inflation",
+    "New economic data challenges Fed chief's not-too-hot perspective",
+    "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
+    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree."
    ]
   },
   {
@@ -102,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 7,
-   "added": 3,
+   "fetched": 57,
+   "kept": 10,
+   "added": 4,
    "error": "",
    "near_misses": [
-    "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe",
-    "H.M. Queen M\u00e1xima of the Netherlands and European Central Bank President Christine Lagarde to Speak at EMERGE Europe",
     "Euro zone countries are integrating faster with US than with each other, ECB says",
-    "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
+    "H.M. Queen M\u00e1xima of the Netherlands and European Central Bank President Christine Lagarde to Speak at EMERGE Europe",
+    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
     "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "ECB keeps rates on hold as Christine Lagarde announced her resignation",
-    "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater",
     "ECB's Kazimir: Last Weeks Pause In Rates Was Not A Finish Line",
-    "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure"
+    "ECB\u2019s Kazimir Says Markets May Underestimate What\u2019s Needed on Rates",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
+    "ECB Hawk Kazimir: More Rate Hikes Needed to Tame Inflation - News and Statistics",
+    "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe"
    ]
   },
   {
@@ -124,20 +123,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
-   "kept": 1,
+   "fetched": 18,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB flags AI valuations, bond stress and fund losses as main risks",
     "Euro zone countries are integrating faster with US than with each other, ECB says",
     "ECB will have to raise rates again, extent uncertain, Kazimir says",
     "Eurozone countries integrate faster with US than each other, ECB says",
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
     "Euro zone countries are integrating faster with US than with each other, ECB says",
+    "ECB official: Eurozone countries are integrating more rapidly with the United States than with each other",
+    "Lane would be 'fantastic' Lagarde replacement - Makhlouf",
     "ECB flags AI valuations, bond stress and fund losses as main risks",
-    "Week Ahead: U.S. Midterms; U.S. Treasury QRA; BOE, RBA, Riksbank and BCB Meetings; U.S. and Canada Jobs Reports; Eurozone, Swiss and SK CPIs; ECB Wage Tracker; ",
-    "Citi explains what \u2019hawk\u2019 and \u2019dove\u2019 really mean as ECB faces leadership change"
+    "ECB\u2019s Kazimir Says Markets May Underestimate What\u2019s Needed on Rates",
+    "Live Q&A: What Lagarde\u2019s Exit Means for the ECB and Europe"
    ]
   },
   {
@@ -145,20 +145,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 28,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England poised to raise rates but may push back on bets for more",
-    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
-    "Bank of England set to raise rates to 4% in push to quell inflation",
     "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
-    "The Bank of England Ponders a New Normal for Interest Rates",
-    "Bank of England set for first rate hike as energy shock worsens",
+    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
     "Bank of England poised to raise rates but may push back on bets for more",
-    "Will the Bank of England Raise Interest Rates to 4% This Week?",
+    "Bank of England set to raise rates to 4% in push to quell inflation",
+    "The Bank of England Ponders a New Normal for Interest Rates",
+    "Bank of England poised to raise rates but may push back on bets for more",
+    "Bank of England Set For First Rate Hike As Energy Shock Worsens",
     "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
+    "Will the Bank of England Raise Interest Rates to 4% This Week?",
     "Goldman Sachs expects Bank of England to raise rates again in February"
    ]
   },
@@ -167,13 +167,15 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
-    "Stalled August GDP complicates outlook after Bank of Canada rate increase",
+    "Terence Corcoran: Bank of Canada is back on track",
+    "Is a variable mortgage rate still worth considering after the Bank of Canada\u2019s rate hike?",
+    "Bank of Canada interest rate hiked just a week before federal budget comes out\u2014what does it mean?",
     "Bank of Canada raises rates for first time in over three years",
     "Bank of Canada Raises Rate to 2.5%: How Much More Alberta Homeowners Could Pay"
    ]
@@ -277,7 +279,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 8,
+   "added": 7,
    "error": ""
   },
   {
@@ -337,7 +339,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 5,
-   "added": 0,
+   "added": 2,
    "error": ""
   }
  ]
