@@ -2676,6 +2676,93 @@
    "read": "Staff blog on supermarket price repricing; no policy signal in the headline.",
    "at": "2026-11-02T15:57:08Z",
    "by": "claude"
+  },
+  "a92063eb3daf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Rehash of Warsh's meeting-calendar overhaul; governance change with no new rate steer.",
+   "sum": "Coverage of Warsh's plan to trim FOMC rate-setting meetings, turning one 2027 meeting and two in 2028 into strategy sessions without a policy vote.",
+   "pts": [
+    "Warsh said eight FOMC meetings a year is the right number, but not all will set rates.",
+    "In 2027 one meeting will be a strategy meeting, with no fed funds or statement vote expected.",
+    "In 2028 he expects two strategy meetings and six policy-setting meetings.",
+    "He said financial conditions have tightened for some businesses and households, as expected.",
+    "He said getting inflation down is the Fed's responsibility; it has run above target for close to six years."
+   ],
+   "rr": "No change to December pricing, which still rests on the October hold and readiness to act; fewer decision meetings from 2027 means larger repricing risk around each one. Only news paraphrases were available.",
+   "ev": "Post-FOMC press conference, 28 Oct (reported)",
+   "basis": "reports",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
+  },
+  "22f4bf122540": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Report on fewer rate-setting votes; no new policy signal.",
+   "lead": "a92063eb3daf",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
+  },
+  "acdb4c536032": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Fiscal warning on France and succession talk; no steer on ECB rates.",
+   "sum": "Makhlouf said France needs to fix its public finances and called Philip Lane a 'great' candidate to succeed Lagarde.",
+   "pts": [
+    "Said France needs to fix its public finances.",
+    "Said Philip Lane would be a 'great' candidate to succeed Lagarde as ECB president."
+   ],
+   "rr": "No direct read for December; fiscal risk is a spread issue for OATs rather than ECB rate pricing, and his hike-leaning view from last week stands. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
+  },
+  "5a8ad31aedc3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Succession comment on Lane; not a rate signal.",
+   "lead": "acdb4c536032",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
+  },
+  "3eb853ac4ee4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Stresses complexity of the rate outlook without leaning either way.",
+   "sum": "Escrivá said the rates scenario is highly complex, giving no clear direction on the December decision.",
+   "pts": [
+    "Described the outlook for interest rates as highly complex.",
+    "No reported view on whether a December hike is needed."
+   ],
+   "rr": "Neutral for December hike pricing; the uncertainty framing from a centrist keeps options open rather than pushing either way. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
+  },
+  "599025a1c76a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
+  },
+  "07a9a0bfce04": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "BIS repost of Lane's 30 Oct AI speech: growth support and visible AI price pressure.",
+   "lead": "51640fa151a3",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
+  },
+  "d02a7ca99c57": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "BIS repost of the SNB collateral framework speech; no policy-rate signal.",
+   "lead": "683ddb27987e",
+   "at": "2026-11-02T20:54:37Z",
+   "by": "claude"
   }
  }
 }
