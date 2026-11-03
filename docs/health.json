@@ -1,5 +1,5 @@
 {
- "built": "2026-11-03T17:16:55Z",
+ "built": "2026-11-03T21:07:03Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
+   "kept": 7,
    "added": 1,
    "error": ""
   },
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -58,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 37,
-   "kept": 9,
+   "kept": 10,
    "added": 1,
    "error": "",
    "near_misses": [
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
     "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
-    "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Breaking Through Survey Nonresponse: The Atlanta Fed's Approach to Nonresponse Follow-Up",
+    "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
+    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
+    "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
     "Fed\u2019s October Policy Decision and the Precious Metals Market",
-    "Business Buzz: The affordability challenge, caregiving costs and the Fed\u2019s rate hold",
-    "Fed\u2019s Rate Hold Sends Bond Yields in Different Directions",
-    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System",
-    "What AI Investment Means for the Fed's Fight Against Inflation"
+    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System"
    ]
   },
   {
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 60,
-   "added": 5,
+   "fetched": 61,
+   "kept": 25,
+   "added": 8,
    "error": "",
    "near_misses": [
-    "Dallas Fed president explains why she is pushing for interest rate hikes",
-    "Interrogating confusion at the Fed",
-    "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
-    "Federal Reserve is cutting the number of annual rate-setting votes",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
+    "Interrogating confusion at the Fed",
+    "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Warsh Fed Should Heed New Zealand's Cautionary Tale",
     "Rates need to be higher, 3 Fed members say. The question is how much.",
-    "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It"
+    "Fed will vote on rates less often. What that could mean for borrowers",
+    "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+    "Tom Lee Sees 'Big Beats' Ahead, Says Kevin Warsh-Led Fed Won't Slow AI Growth Despite Inflation: 'Good News Is Good News'",
+    "Two Fed Officials Just Called for More Rate Hikes, Starting Soon",
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -101,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 82,
-   "kept": 15,
-   "added": 1,
+   "fetched": 97,
+   "kept": 20,
+   "added": 2,
    "error": "",
    "near_misses": [
-    "ECB's Machado backs cross-border safeguards for EU banks",
+    "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "Eurozone countries urged to name candidates to succeed ECB'S Lagarde",
     "Brussels sets tight deadline for ECB president nominations",
-    "Who will replace Lagarde? Eurozone nominations open for ECB top job",
+    "ECB likely to raise rates in December, says Nagel",
     "Eurozone governments get deadline to nominate Lagarde successor; Goldman restricts access to AI coding tools for bankers",
+    "Who will replace Lagarde? Eurozone nominations open for ECB top job",
     "Eurozone countries to nominate Lagarde replacement by Nov. 6",
     "ECB raises the bar on AI-enabled cyber resilience",
-    "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
-    "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
-    "Race to replace Christine Lagarde as ECB president begins"
+    "ECB's Machado backs cross-border safeguards for EU banks",
+    "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target"
    ]
   },
   {
@@ -125,13 +125,13 @@
    "ok": true,
    "fetched": 15,
    "kept": 6,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
     "ECB flags AI valuations, bond stress and fund losses as main risks",
-    "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
+    "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
     "Euro zone countries are integrating faster with US than with each other, ECB says",
+    "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
     "Lane would be 'fantastic' Lagarde replacement - Makhlouf",
     "Eurozone countries integrate faster with US than each other, ECB says",
     "ECB official: Eurozone countries are integrating more rapidly with the United States than with each other",
@@ -149,15 +149,15 @@
    "error": "",
    "near_misses": [
     "Markets Aim for Another Historic Win on Bank of England Rate Bets",
-    "Bank of England poised to raise rates but may push back on bets for more",
-    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
-    "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
-    "Bank of England set to raise rates to 4% in push to quell inflation",
     "Bank of England set for first rate hike as energy shock worsens",
     "Bank of England poised to raise rates but may push back on bets for more",
-    "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
     "Will the Bank of England Raise Interest Rates to 4% This Week?",
-    "The Bank of England Ponders a New Normal for Interest Rates"
+    "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
+    "Bank of England set to raise rates to 4% in push to quell inflation",
+    "Bank of England poised to raise rates but may push back on bets for more",
+    "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
+    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
+    "MPC Preview: Mounting expectations for a rate rise"
    ]
   },
   {
@@ -165,18 +165,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 5,
-   "added": 2,
+   "fetched": 33,
+   "kept": 9,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
+    "Bank of Canada Says Fiscal and Monetary Policy Aren\u2019t at Odds",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
+    "FILE PHOTO: Bank of Canada Governor Tiff Macklem takes part in a press conference in Ottawa",
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada Governor Macklem Speaking at House of Commons Standing Committee on Finance",
     "Bank of Canada's Governor Says Current State of US-Canada Trade Relationship 'Makes No Sense'",
-    "Terence Corcoran: Bank of Canada is back on track",
-    "Could More Rate Hikes Be Coming? What Macklem\u2019s Comments Could Mean for Canadian Investors"
+    "Bank of Canada maintains stance on rate hike ahead of Nov. 5 budget release",
+    "Bank of Canada signals another interest rate hike to tackle inflation"
    ]
   },
   {
@@ -184,8 +187,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 5,
-   "kept": 2,
+   "fetched": 6,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -298,7 +301,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 9,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
