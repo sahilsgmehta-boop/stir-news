@@ -1,5 +1,5 @@
 {
- "built": "2026-11-03T11:54:59Z",
+ "built": "2026-11-03T15:54:25Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,9 +57,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 10,
-   "added": 1,
+   "fetched": 45,
+   "kept": 9,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
@@ -68,10 +68,10 @@
     "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
     "Business Buzz: The affordability challenge, caregiving costs and the Fed\u2019s rate hold",
-    "What AI Investment Means for the Fed's Fight Against Inflation",
     "Fed\u2019s Rate Hold Sends Bond Yields in Different Directions",
-    "The Most Shocking Line in the Fed's New Wealth Report: Families Without a High School Diploma Saw Their Median Net Worth Fall 55%",
-    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System"
+    "What AI Investment Means for the Fed's Fight Against Inflation",
+    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System",
+    "Federal Reserve is cutting the number of annual rate-setting votes"
    ]
   },
   {
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 32,
+   "fetched": 66,
+   "kept": 27,
    "added": 8,
    "error": "",
    "near_misses": [
     "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Interrogating confusion at the Fed - by Claudia Sahm",
-    "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
+    "Federal Reserve is cutting the number of annual rate-setting votes",
+    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "Rates need to be higher, 3 Fed members say. The question is how much.",
     "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
-    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.",
-    "Warsh shakes up Fed's approach to setting interest rates"
+    "\u2018At least\u2019 two more rate hikes needed, Dallas Fed president declares",
+    "Tom Lee Sees 'Big Beats' Ahead, Says Kevin Warsh-Led Fed Won't Slow AI Growth Despite Inflation: 'Good News Is Good News'"
    ]
   },
   {
@@ -101,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 15,
-   "added": 2,
+   "fetched": 68,
+   "kept": 12,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "ECB's Machado backs cross-border safeguards for EU banks",
+    "Eurozone countries urged to name candidates to succeed ECB'S Lagarde",
     "Brussels sets tight deadline for ECB president nominations",
     "Who will replace Lagarde? Eurozone nominations open for ECB top job",
-    "Eurozone countries to nominate Lagarde replacement by Nov 6",
-    "Euro countries to nominate candidates for ECB presidency by Friday",
+    "Eurozone governments get deadline to nominate Lagarde successor; Goldman restricts access to AI coding tools for bankers",
+    "Eurozone countries to nominate Lagarde replacement by Nov. 6",
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
     "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
-    "If Christine Lagarde enters French politics, the centre might just hold",
-    "Eurozone governments to nominate Lagarde successor by Nov. 6",
-    "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
-    "ECB's Radev: October pause doesn't mean tightening is over"
+    "Race to replace Christine Lagarde as ECB president begins",
+    "Pierrakakis Opens Race to Succeed Lagarde at ECB"
    ]
   },
   {
@@ -123,21 +123,19 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 15,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "Euro zone countries are integrating faster with US than with each other, ECB says",
     "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
-    "Euro zone countries are integrating faster with US than with each other, ECB says",
     "Lane would be 'fantastic' Lagarde replacement - Makhlouf",
+    "ECB flags AI valuations, bond stress and fund losses as main risks",
     "Eurozone countries integrate faster with US than each other, ECB says",
-    "Week Ahead: U.S. Midterms; U.S. Treasury QRA; BOE, RBA, Riksbank and BCB Meetings; U.S. and Canada Jobs Reports; Eurozone, Swiss and SK CPIs; ECB Wage Tracker; ",
     "ECB official: Eurozone countries are integrating more rapidly with the United States than with each other",
-    "Euro zone countries are integrating faster with US than with each other, ECB says",
-    "ECB flags AI valuations, bond stress and fund losses as main risks"
+    "ECB vice-president urges deeper European integration to absorb future shocks"
    ]
   },
   {
@@ -145,20 +143,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 29,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England set for first rate hike as energy shock worsens",
     "Bank of England poised to raise rates but may push back on bets for more",
     "Will the Bank of England Raise Interest Rates to 4% This Week?",
-    "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
     "Bank of England set to raise rates to 4% in push to quell inflation",
+    "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
     "The Bank of England Ponders a New Normal for Interest Rates",
-    "Bank of England Set For First Rate Hike As Energy Shock Worsens",
     "Bank of England poised to raise rates but may push back on bets for more",
-    "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
     "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
+    "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
     "Week Ahead: Bank of England Decides, US Votes in Midterms, Payrolls Follow"
    ]
   },
@@ -167,19 +165,22 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Could More Rate Hikes Be Coming? What Macklem\u2019s Comments Could Mean for Canadian Investors",
+    "Terence Corcoran: Bank of Canada is back on track"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 3,
-   "kept": 1,
+   "fetched": 5,
+   "kept": 2,
    "added": 1,
    "error": "",
    "near_misses": []
@@ -190,7 +191,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -272,7 +273,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 7,
+   "added": 6,
    "error": ""
   },
   {
@@ -331,7 +332,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": ""
   }
