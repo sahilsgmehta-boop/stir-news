@@ -2763,6 +2763,36 @@
    "lead": "683ddb27987e",
    "at": "2026-11-02T20:54:37Z",
    "by": "claude"
+  },
+  "681ac9de9e8d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-03T06:54:34Z",
+   "by": "claude"
+  },
+  "e6717647239f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-03T06:54:34Z",
+   "by": "claude"
+  },
+  "ba736fdb1483": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Market-plumbing speech on central bank ties to clearing houses; no policy-rate signal.",
+   "sum": "Dallas Fed First VP Schulhofer-Wohl spoke on how central bank relationships with central counterparties are evolving, a market-plumbing topic rather than rate policy.",
+   "pts": [
+    "Speech topic is innovation in central bank relationships with central counterparties (CCPs).",
+    "Delivered by the Dallas Fed First Vice President, who is not an FOMC voter.",
+    "The feed description carries no remarks on inflation, the labour market or the rate path."
+   ],
+   "rr": "No read-through for December FOMC pricing or the curve; relevant to funding-market plumbing rather than the policy rate. Only news paraphrases were available.",
+   "ev": "Remarks, Chicago Fed Financial Markets Group Fall Conference",
+   "basis": "reports",
+   "at": "2026-11-03T06:54:34Z",
+   "by": "claude"
   }
  }
 }
