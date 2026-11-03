@@ -1,5 +1,5 @@
 {
- "built": "2026-11-03T06:54:50Z",
+ "built": "2026-11-03T09:25:56Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,14 +55,14 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
-   "kept": 7,
-   "added": 1,
+   "fetched": 34,
+   "kept": 8,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Breaking Through Survey Nonresponse: The Atlanta Fed's Approach to Nonresponse Follow-Up",
     "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
+    "Breaking Through Survey Nonresponse: The Atlanta Fed's Approach to Nonresponse Follow-Up",
     "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
     "Business Buzz: The affordability challenge, caregiving costs and the Fed\u2019s rate hold",
@@ -84,11 +84,11 @@
    "near_misses": [
     "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Interrogating confusion at the Fed - by Claudia Sahm",
+    "Warsh Fed Should Heed New Zealand's Cautionary Tale",
     "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-    "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
     "Rates need to be higher, 3 Fed members say. The question is how much.",
     "New economic data challenges Fed chief's not-too-hot perspective",
     "5 things to watch for in this week's Federal Reserve meeting"
@@ -99,21 +99,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
-   "kept": 11,
-   "added": 1,
+   "fetched": 52,
+   "kept": 12,
+   "added": 0,
    "error": "",
    "near_misses": [
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
     "If Christine Lagarde enters French politics, the centre might just hold",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Euro zone countries are integrating faster with US than with each other, ECB says",
-    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
+    "Lagarde at the Petit Palais in Elegant Couture - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "ECB's Radev says interest rates are not 'adequate'",
+    "ECB will have to raise rates again, extent uncertain, Kazimir says",
     "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater",
-    "ECB's Kazimir: We should act before high inflation starts to feel normal",
+    "Euro zone countries are integrating faster with US than with each other, ECB says",
     "H.M. Queen M\u00e1xima of the Netherlands and European Central Bank President Christine Lagarde to Speak at EMERGE Europe",
-    "Pekao Assesses Lagarde\u2019s ECB Record as Inflation Complicates the Rate Outlook",
-    "ECB's Kazimir: Last Weeks Pause In Rates Was Not A Finish Line"
+    "ECB's Kazimir: We should act before high inflation starts to feel normal",
+    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates"
    ]
   },
   {
@@ -121,21 +121,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 12,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
     "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
     "Euro zone countries are integrating faster with US than with each other, ECB says",
+    "ECB flags AI valuations, bond stress and fund losses as main risks",
     "Lane would be 'fantastic' Lagarde replacement - Makhlouf",
     "Eurozone countries integrate faster with US than each other, ECB says",
-    "Week Ahead: U.S. Midterms; U.S. Treasury QRA; BOE, RBA, Riksbank and BCB Meetings; U.S. and Canada Jobs Reports; Eurozone, Swiss and SK CPIs; ECB Wage Tracker; ",
-    "ECB official: Eurozone countries are integrating more rapidly with the United States than with each other",
-    "Euro zone countries are integrating faster with US than with each other, ECB says",
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
-    "Philip Lane would be a \u2018great\u2019 replacement for Lagarde \u2013 Makhlouf"
+    "ECB official: Eurozone countries are integrating more rapidly with the United States than with each other"
    ]
   },
   {
@@ -143,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 27,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -153,10 +150,10 @@
     "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
     "Bank of England set to raise rates to 4% in push to quell inflation",
     "The Bank of England Ponders a New Normal for Interest Rates",
-    "Bank of England poised to raise rates but may push back on bets for more",
     "Bank of England Set For First Rate Hike As Energy Shock Worsens",
-    "Will the Bank of England Raise Interest Rates to 4% This Week?",
+    "Bank of England poised to raise rates but may push back on bets for more",
     "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
+    "Will the Bank of England Raise Interest Rates to 4% This Week?",
     "Goldman Sachs expects Bank of England to raise rates again in February"
    ]
   },
@@ -165,15 +162,11 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
-    "How the Bank of Canada rate hike could affect your finances, according to our experts",
-    "The Bank of Canada Hikes. How Many More Should We Expect?"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_snb",
