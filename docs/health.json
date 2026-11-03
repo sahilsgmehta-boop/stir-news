@@ -1,5 +1,5 @@
 {
- "built": "2026-11-03T21:07:03Z",
+ "built": "2026-11-03T22:21:25Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 7,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -20,9 +20,7 @@
    "kept": 2,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Solana remains under pressure as markets weigh US-Iran talks, Fed risks and US midterm elections"
-   ]
+   "near_misses": []
   },
   {
    "id": "cnbc",
@@ -57,9 +55,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
-   "kept": 10,
-   "added": 1,
+   "fetched": 45,
+   "kept": 11,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
@@ -67,11 +65,11 @@
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Breaking Through Survey Nonresponse: The Atlanta Fed's Approach to Nonresponse Follow-Up",
     "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
-    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
+    "Fed holds interest rates steady as inflation hits 3-year high",
     "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
-    "Fed\u2019s October Policy Decision and the Precious Metals Market",
-    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System"
+    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System",
+    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race"
    ]
   },
   {
@@ -79,9 +77,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 25,
-   "added": 8,
+   "fetched": 100,
+   "kept": 64,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
@@ -91,9 +89,9 @@
     "Rates need to be higher, 3 Fed members say. The question is how much.",
     "Fed will vote on rates less often. What that could mean for borrowers",
     "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-    "Tom Lee Sees 'Big Beats' Ahead, Says Kevin Warsh-Led Fed Won't Slow AI Growth Despite Inflation: 'Good News Is Good News'",
+    "5 things to watch for in this week's Federal Reserve meeting",
     "Two Fed Officials Just Called for More Rate Hikes, Starting Soon",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Tom Lee Sees 'Big Beats' Ahead, Says Kevin Warsh-Led Fed Won't Slow AI Growth Despite Inflation: 'Good News Is Good News'"
    ]
   },
   {
@@ -101,9 +99,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 20,
-   "added": 2,
+   "fetched": 74,
+   "kept": 16,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
@@ -114,8 +112,8 @@
     "Who will replace Lagarde? Eurozone nominations open for ECB top job",
     "Eurozone countries to nominate Lagarde replacement by Nov. 6",
     "ECB raises the bar on AI-enabled cyber resilience",
-    "ECB's Machado backs cross-border safeguards for EU banks",
-    "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target"
+    "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target",
+    "Euro countries to nominate candidates for ECB presidency by Friday"
    ]
   },
   {
@@ -125,7 +123,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB flags AI valuations, bond stress and fund losses as main risks",
@@ -143,20 +141,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Markets Aim for Another Historic Win on Bank of England Rate Bets",
-    "Bank of England set for first rate hike as energy shock worsens",
     "Bank of England poised to raise rates but may push back on bets for more",
-    "Will the Bank of England Raise Interest Rates to 4% This Week?",
+    "Bank of England set for first rate hike as energy shock worsens",
+    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
     "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
     "Bank of England set to raise rates to 4% in push to quell inflation",
     "Bank of England poised to raise rates but may push back on bets for more",
     "BoE Rate Hike Expected Thursday: Bank Rate Seen Rising to 4.0% - News and Statistics",
-    "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
+    "Will the Bank of England Raise Interest Rates to 4% This Week?",
     "MPC Preview: Mounting expectations for a rate rise"
    ]
   },
@@ -165,9 +163,9 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 9,
-   "added": 1,
+   "fetched": 29,
+   "kept": 6,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
@@ -178,8 +176,8 @@
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada Governor Macklem Speaking at House of Commons Standing Committee on Finance",
     "Bank of Canada's Governor Says Current State of US-Canada Trade Relationship 'Makes No Sense'",
-    "Bank of Canada maintains stance on rate hike ahead of Nov. 5 budget release",
-    "Bank of Canada signals another interest rate hike to tackle inflation"
+    "Bank of Canada's Governor Says Message From Markets Is That They Are Still 'Happy' to Buy Canadian Debt",
+    "Bank of Canada's Governor Doesn't Want to See Inflation 'Persisting'; It's The Reason for Last Week's Rate Hike"
    ]
   },
   {

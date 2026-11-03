@@ -118,7 +118,8 @@
 "CTV News",
 "BNN Bloomberg",
 "thecanadianpressnews.ca",
-"CP24"
+"CP24",
+"Yahoo! Finance Canada"
 ],
 "desc": "",
 "id": "de823f9946ac",
@@ -397,6 +398,26 @@
 "rr": "No read-through for December FOMC pricing or the curve; relevant to funding-market plumbing rather than the policy rate. Only news paraphrases were available.",
 "ev": "Remarks, Chicago Fed Financial Markets Group Fall Conference",
 "basis": "reports"
+},
+{
+"t": "2026-11-02T17:41:10Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Trump on interest rate increase and confidence in Fed Chair Kevin Warsh",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4aEJwVDg4dnc0bmJEQmF6YjlobUhGc3JyYU9qc3JjUXU3ekJ2RzZoeWVCejIyUnVjdFRiWG5UakhtNzhTM2pKRjhucDNORE0wdUZxUWJUOUptYVdjeFE?oc=5",
+"src": "The Straits Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "aef31b9ad3a9",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-02T17:26:37Z",
