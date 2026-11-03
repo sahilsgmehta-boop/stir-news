@@ -2667,8 +2667,14 @@
    "read": "Headline only notes a Berlin press conference; no remarks on policy reported.",
    "ev": "Press conference, Berlin",
    "basis": "reports",
-   "at": "2026-11-02T15:57:08Z",
-   "by": "claude"
+   "at": "2026-11-03T21:06:33Z",
+   "by": "claude",
+   "sum": "Lagarde held a press conference in Berlin; the available headline reports no remarks on monetary policy.",
+   "pts": [
+    "The headline notes only a Lagarde press conference in Berlin.",
+    "No comments on inflation, growth or the rate path were reported."
+   ],
+   "rr": "No visible steer for the December meeting, where a hike remains broadly expected after the October hold. Only news paraphrases were available."
   },
   "cda2c0a54b3f": {
    "tone": "neutral",
@@ -2855,6 +2861,71 @@
    "score": 0,
    "read": "Not a policy remark.",
    "at": "2026-11-03T15:53:57Z",
+   "by": "claude"
+  },
+  "e6adf1ad94e2": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Macklem told MPs inflation outlook has worsened and further hikes may be needed, proceeding carefully.",
+   "sum": "Macklem told the Commons finance committee the inflation outlook has deteriorated and the policy rate may need to rise further, though the Bank will proceed carefully.",
+   "pts": [
+    "There could be a need to raise the policy rate further; decisions will be taken one meeting at a time.",
+    "The October hike aimed to stop elevated energy prices becoming generalized inflation.",
+    "CPI is seen rising to about 3.5% by year-end and staying at or above 3% for much of 2027.",
+    "Cost pass-through by businesses is expected to increase over the next year.",
+    "Growth outlook improved modestly, but growth likely slows in Q4 as new US tariffs weigh.",
+    "Fiscal and monetary policy are not at odds, he told MPs."
+   ],
+   "rr": "Restates the October tightening bias with a sharper inflation profile, keeping a December 9 hike live and supporting pricing of further tightening into 2027; 'carefully' and meeting-by-meeting language argue against a fast pace. Only news paraphrases were available.",
+   "ev": "Testimony, House of Commons Standing Committee on Finance",
+   "basis": "reports",
+   "at": "2026-11-03T21:06:33Z",
+   "by": "claude"
+  },
+  "ebdb549e1ceb": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says a further hike could be needed as the inflation outlook has deteriorated; careful, meeting by meeting.",
+   "lead": "e6adf1ad94e2",
+   "at": "2026-11-03T21:06:33Z",
+   "by": "claude"
+  },
+  "a10927eb515e": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Report frames testimony as signalling more hikes on oil-driven inflation risks.",
+   "lead": "e6adf1ad94e2",
+   "at": "2026-11-03T21:06:33Z",
+   "by": "claude"
+  },
+  "de823f9946ac": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says fiscal and monetary policy are not in conflict; no new rate signal.",
+   "lead": "e6adf1ad94e2",
+   "at": "2026-11-03T21:06:33Z",
+   "by": "claude"
+  },
+  "adb93b79da03": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Inflation pressure slightly higher than in June, nudging away from any SNB easing.",
+   "lead": "4dc394cb886c",
+   "at": "2026-11-03T21:06:33Z",
+   "by": "claude"
+  },
+  "bb779925f625": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Feature on Warsh's plan for fewer rate-setting meetings; no new rate signal.",
+   "at": "2026-11-03T21:06:33Z",
+   "by": "claude"
+  },
+  "2682957f64ff": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-03T21:06:33Z",
    "by": "claude"
   }
  }
