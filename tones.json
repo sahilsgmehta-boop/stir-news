@@ -2816,6 +2816,46 @@
    "basis": "reports",
    "at": "2026-11-03T11:54:43Z",
    "by": "claude"
+  },
+  "4dc394cb886c": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Chair says inflation pressure is higher than in June, a day of a hot Swiss CPI beat.",
+   "sum": "SNB Chair Schlegel said Swiss inflationary pressure in the September assessment was slightly higher than in June, nudging away from any need for easing.",
+   "pts": [
+    "Said inflation pressure was slightly higher than at the June (Q2) assessment.",
+    "Came on the day Swiss October CPI printed 1.5% y/y versus 1.3% expected (core 0.5%, in line).",
+    "No new remarks on the policy rate or FX intervention were reported."
+   ],
+   "rr": "Takes a return to negative rates further off the table and modestly supports pricing of an eventual SNB hike from 0%; CHF gains from the CPI beat later pared. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-03T15:53:57Z",
+   "by": "claude"
+  },
+  "6b1c18cdcef6": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Repeats need to stop inflation entrenching; backs the view the October pause is not the end.",
+   "sum": "ECB's Kocher said the ECB must ensure inflation does not become entrenched, repeating a tightening-leaning message after the October pause.",
+   "pts": [
+    "Said it is crucial to prevent inflation from becoming entrenched.",
+    "Echoes his late-September line on stopping too-high inflation becoming embedded.",
+    "Same session Radev said the October pause does not mean the tightening cycle is over.",
+    "No explicit call on the December meeting was reported."
+   ],
+   "rr": "Leans against pricing out further ECB hikes; mildly supportive of a December or early-2027 hike being kept in the curve. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-03T15:53:57Z",
+   "by": "claude"
+  },
+  "01a7ae5829bb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-03T15:53:57Z",
+   "by": "claude"
   }
  }
 }
