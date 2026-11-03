@@ -2793,6 +2793,29 @@
    "basis": "reports",
    "at": "2026-11-03T06:54:34Z",
    "by": "claude"
+  },
+  "3de77c3a63d2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-03T11:54:43Z",
+   "by": "claude"
+  },
+  "faef04a3efd1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-health summit appearance; no monetary policy content reported.",
+   "sum": "Lagarde joined Dutch royalty at an Amsterdam summit on improving household financial health across Europe; no rate remarks were reported.",
+   "pts": [
+    "Appeared at an Amsterdam summit on financial health alongside Dutch royalty.",
+    "The event, involving Lloyds, focused on household financial health across Europe.",
+    "No comments on inflation or the rate path were reported."
+   ],
+   "rr": "No bearing on ECB pricing for December or the curve. Only news paraphrases were available.",
+   "ev": "Financial health summit, Amsterdam",
+   "basis": "reports",
+   "at": "2026-11-03T11:54:43Z",
+   "by": "claude"
   }
  }
 }
