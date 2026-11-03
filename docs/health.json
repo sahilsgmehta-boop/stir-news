@@ -1,5 +1,5 @@
 {
- "built": "2026-11-03T01:52:22Z",
+ "built": "2026-11-03T06:54:50Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,15 +55,15 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 6,
-   "added": 0,
+   "fetched": 40,
+   "kept": 7,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
     "Breaking Through Survey Nonresponse: The Atlanta Fed's Approach to Nonresponse Follow-Up",
+    "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
+    "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
     "Business Buzz: The affordability challenge, caregiving costs and the Fed\u2019s rate hold",
     "What AI Investment Means for the Fed's Fight Against Inflation",
@@ -77,21 +77,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 80,
-   "kept": 33,
-   "added": 8,
+   "fetched": 100,
+   "kept": 58,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Interrogating confusion at the Fed - by Claudia Sahm",
-    "Fed Sees Problem: Why Won\u2019t It Act?",
-    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
+    "Fed Holds Rates Steady Despite \u2018Elevated\u2019 Inflation",
     "Fed officials make case for rate hikes amid ongoing inflation concerns",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "Rates need to be higher, 3 Fed members say. The question is how much.",
+    "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-    "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
-    "Is AI investment sensitive to interest rates? Warsh says yes, but others disagree."
+    "Rates need to be higher, 3 Fed members say. The question is how much.",
+    "New economic data challenges Fed chief's not-too-hot perspective",
+    "5 things to watch for in this week's Federal Reserve meeting"
    ]
   },
   {
@@ -99,21 +99,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
+   "fetched": 43,
    "kept": 11,
    "added": 1,
    "error": "",
    "near_misses": [
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
-    "Lagarde at the Petit Palais in Elegant Couture - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "If Christine Lagarde enters French politics, the centre might just hold",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Euro zone countries are integrating faster with US than with each other, ECB says",
-    "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
     "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
-    "Lane would be 'fantastic' Lagarde replacement - Makhlouf",
+    "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater",
     "ECB's Kazimir: We should act before high inflation starts to feel normal",
     "H.M. Queen M\u00e1xima of the Netherlands and European Central Bank President Christine Lagarde to Speak at EMERGE Europe",
-    "ECB\u2019s Kazimir Says Markets May Underestimate What\u2019s Needed on Rates",
-    "JOHN NAGEL: Ilhan Omar, my opponent, had a choice and picked political theater"
+    "Pekao Assesses Lagarde\u2019s ECB Record as Inflation Complicates the Rate Outlook",
+    "ECB's Kazimir: Last Weeks Pause In Rates Was Not A Finish Line"
    ]
   },
   {
@@ -121,16 +121,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 16,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
     "Euro zone countries are integrating faster with US than with each other, ECB says",
     "Lane would be 'fantastic' Lagarde replacement - Makhlouf",
     "Eurozone countries integrate faster with US than each other, ECB says",
-    "ECB official: Eurozone countries are integrating more rapidly with the United States than with each other"
+    "Week Ahead: U.S. Midterms; U.S. Treasury QRA; BOE, RBA, Riksbank and BCB Meetings; U.S. and Canada Jobs Reports; Eurozone, Swiss and SK CPIs; ECB Wage Tracker; ",
+    "ECB official: Eurozone countries are integrating more rapidly with the United States than with each other",
+    "Euro zone countries are integrating faster with US than with each other, ECB says",
+    "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "Philip Lane would be a \u2018great\u2019 replacement for Lagarde \u2013 Makhlouf"
    ]
   },
   {
@@ -138,14 +143,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 30,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England poised to raise rates but may push back on bets for more",
     "How the Bank of England\u2019s CBDC Plans Could Reshape Payments",
     "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
-    "Bank of England poised to raise rates but may push back on bets for more",
     "Bank of England set to raise rates to 4% in push to quell inflation",
     "The Bank of England Ponders a New Normal for Interest Rates",
     "Bank of England poised to raise rates but may push back on bets for more",
@@ -160,17 +165,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Raises Policy Rate to 2.50% on Higher Inflation Outlook",
     "How the Bank of Canada rate hike could affect your finances, according to our experts",
-    "The Bank of Canada Hikes. How Many More Should We Expect?",
-    "Bank of Canada interest rate hiked just a week before federal budget comes out\u2014what does it mean?",
-    "Is a variable mortgage rate still worth considering after the Bank of Canada\u2019s rate hike?",
-    "Bank of Canada raises rates for first time in over three years"
+    "The Bank of Canada Hikes. How Many More Should We Expect?"
    ]
   },
   {
@@ -242,7 +244,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 74,
-   "added": 71,
+   "added": 70,
    "error": ""
   },
   {
