@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T11:48:30Z",
+ "built": "2026-11-04T15:55:26Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 10,
+   "fetched": 31,
+   "kept": 9,
    "added": 1,
    "error": "",
    "near_misses": [
+    "Election stiffens the Fed's guardrails, but independence risks remain",
     "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
-    "Breaking Through Survey Nonresponse: The Atlanta Fed's Approach to Nonresponse Follow-Up",
     "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
-    "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
-    "Dallas Fed president explains why she is pushing for interest rate hikes",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Darrell Duffie on the Fed\u2019s Balance Sheet and the Changing Financial System",
+    "Dallas Fed president explains why she is pushing for interest rate hikes",
+    "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
     "What AI Investment Means for the Fed's Fight Against Inflation",
+    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
     "Business Buzz: The affordability challenge, caregiving costs and the Fed\u2019s rate hold",
-    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race"
+    "Quiet Notice from Fed\u2019s Extending Comment Period to Pre-Approve Nuclear Waste Project"
    ]
   },
   {
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
-   "kept": 21,
+   "fetched": 40,
+   "kept": 13,
    "added": 8,
    "error": "",
    "near_misses": [
-    "Fed officials make case for rate hikes amid ongoing inflation concerns",
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Interrogating confusion at the Fed",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Dallas Fed president explains why she is pushing for interest rate hikes",
-    "Two Fed Officials Just Called for More Rate Hikes, Starting Soon",
     "Tom Lee Sees 'Big Beats' Ahead, Says Kevin Warsh-Led Fed Won't Slow AI Growth Despite Inflation: 'Good News Is Good News'",
     "Fed will vote on rates less often. What that could mean for borrowers",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'"
+    "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'",
+    "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
+    "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people"
    ]
   },
   {
@@ -101,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 19,
-   "added": 3,
+   "fetched": 71,
+   "kept": 13,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Euro-Zone Inflation Accelerates to Double the ECB\u2019s Target",
-    "Bundesbank's Nagel joins ECB chorus backing December rate hike",
+    "ECB chief urges eurozone to adapt faster to climate change",
     "The views of the frontrunners to succeed Lagarde at the ECB",
-    "Press conference following the ECB's Governing Council meeting, at the ECB headquarters in Frankfurt",
-    "Exclusive with European Central Bank President Christine Lagarde",
-    "Eurozone countries urged to name candidates to succeed ECB'S Lagarde",
-    "ECB likely to raise rates in December, says Nagel",
+    "Bundesbank's Nagel joins ECB chorus backing December rate hike",
+    "Euro-Zone Inflation Accelerates to Double the ECB\u2019s Target",
     "Euro zone wage growth to rebound slightly next year, ECB says",
-    "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target",
-    "ECB's Machado backs cross-border safeguards for EU banks"
+    "Knot Says ECB Will Need to Stick With a Hawkish Stance on Policy",
+    "Press conference following the ECB's Governing Council meeting, at the ECB headquarters in Frankfurt",
+    "ECB's Machado backs cross-border safeguards for EU banks",
+    "Netherlands nominate Klaas Knot to succeed ECB president Lagarde",
+    "Klaas Knot in race to succeed Christine Lagarde at ECB"
    ]
   },
   {
@@ -123,21 +123,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 10,
+   "fetched": 22,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "Euro zone wage growth to rebound slightly next year, ECB says",
+    "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
     "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
     "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
+    "Pierrakakis Opens Race to Succeed Lagarde at ECB",
+    "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "Lane would be 'great' replacement for Lagarde at ECB - Makhlouf",
-    "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
-    "Eurogroup calls for ECB presidency nominations by Nov 6",
-    "Philip Lane would be a \u2018great\u2019 replacement for Lagarde \u2013 Makhlouf",
-    "Escriv\u00e1 warns of a worrying inflation due to the persistent rise in energy costs",
-    "Pierrakakis Sets Deadline for Lagarde Successor Nominations",
-    "ECB vice-president urges deeper European integration to absorb future shocks"
+    "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "European Central Bank: Leadership changes go beyond hawks and doves - Standard Chartered",
+    "Lagarde's Successor: Eurozone Countries Should Make Proposals Promptly"
    ]
   },
   {
@@ -150,16 +150,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England\u2019s New Inflation Gauge Provides Some Reassurance",
+    "FTSE 100 Edges Higher as Investors Await Bank of England Interest Rate Decision",
     "Markets Aim for Another Historic Win on Bank of England Rate Bets",
     "Pound at Seven-Week High: Bank of England Takes Centre Stage",
-    "Pound Sterling's Bank of England Preview: Temporary Setback",
+    "Why Pound Sterling Faces Temporary Setback in Wake of Bank of England Hike",
+    "Why the BoE\u2019s shake-up is good news for gilts",
     "Bank of England set for first rate hike as energy shock worsens",
     "Households face fresh squeeze as Bank of England set to raise interest rates",
-    "BoE preview: what anticipated rate rise means for mortgages",
-    "Energy-driven inflation is forcing tighter policy, with the Bank of England potentially kicking off its rate-hike cycle this week.",
-    "The British Pound heads into a Bank of England hike priced well beyond this one",
     "City AM Shadow MPC urges Bank of England to hike interest rates",
-    "MPC Preview: Mounting expectations for a rate rise"
+    "The British Pound heads into a Bank of England hike priced well beyond this one"
    ]
   },
   {
@@ -167,9 +167,9 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 6,
-   "added": 0,
+   "fetched": 35,
+   "kept": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
@@ -189,11 +189,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Stronger Inflation Spurs Hawkish SNB, Firmer Franc",
     "Swiss Franc: Franc supported by hawkish SNB risk \u2013 ING"
    ]
   },
@@ -207,6 +208,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "October inflation in the Eurozone keeps ECB on course for another tightening",
     "Brussels sets tight deadline for ECB president nominations",
     "The two pragmatists leading the race to run the ECB",
     "Strong US inflation and growth will keep Fed on a tightening path",
@@ -285,7 +287,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 6,
+   "added": 5,
    "error": ""
   },
   {
@@ -295,7 +297,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 26,
+   "added": 25,
    "error": ""
   },
   {
@@ -335,7 +337,7 @@
    "ok": true,
    "fetched": 20,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -344,7 +346,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": ""
   }
