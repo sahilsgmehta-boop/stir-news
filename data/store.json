@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-04T02:24:49Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB’s Nagel Sees Little Alternative to December Hike as Inflation Risks Worsen",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3hRSWE5bEg0NzdRUG1lQ3Z6S2dXSFhYRXhCSmtzQTJ0ZW9RRV9iVWdORm1ORzJUQV9wcE9FclRMLTJZTjBCd3A3TUFpZFZma1MwVHZUTHZESHY0cmlrbnpYOWJWaGdZcUd5TGN1UENqWjdlbENuRUFTMjE5OFFIeEU5NGlCd0tiaTNSMXJ1UXVKdVBRY2ttZV95cmt6b2FWb2ZzY1R1Rzc4Tl9ST1l5R0hpN3I2OVZ2bGRUZUZMMWk0b3BLWWc?oc=5",
+"src": "Action Forex",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d141bd42f7ee",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-03T21:13:38Z",
+"bank": "ECB",
+"speaker": "Kocher",
+"hl": "ECB's Kocher: Risks to inflation remain elevated",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHVZOUV3eVMzZFVvQWEyU2R0d0xZWFhtcUFwNmVLQ0Q2MHlsdGtwNm9WMTR6M3RlWDlJUG1DLUQyYWVIdW0tS01rOHplMWV3SVV1M3ZwR09jRE1lQVlkWDNKRnBnc2NYQ3dJUWpxOV9oWjJtdDB6RWR5MllSVC1TSkF6SXJjZFk3VV81cHBKMVNXZ9IBlwFBVV95cUxQaURpY3BYSWZQQ0R1Um1jZXFiMzdnRUNyS2YwUlZqU1NORXhzU2E0bmdvU19HWTdNOU84SXA1UExfRDMxYVBMRlFSTF8yQURKNHV5TkU4SEhxZ20tcjA2RnpqU3B2ZnBkVjJEYzhVUFRjR0hEcENUNkNLNjZRLVlGcERxeGVNZTVwRlpjSkhlcWdVZFNacXhJ?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e806c54f229c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-03T20:10:09Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -119,7 +159,8 @@
 "BNN Bloomberg",
 "thecanadianpressnews.ca",
 "CP24",
-"Yahoo! Finance Canada"
+"Yahoo! Finance Canada",
+"Canadian Manufacturing"
 ],
 "desc": "",
 "id": "de823f9946ac",
@@ -4011,7 +4052,8 @@
 "wtvcfox",
 "WRGB",
 "KUTV",
-"WJLA"
+"WJLA",
+"The National News Desk"
 ],
 "desc": "",
 "id": "75771c0b0b71",
@@ -6422,7 +6464,8 @@
 "CoStar",
 "Rural Radio Network",
 "weisradio.com",
-"Moody on the Market"
+"Moody on the Market",
+"Good Morning America"
 ],
 "desc": "",
 "id": "f922f27f44d4",
@@ -7246,7 +7289,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Crain's Chicago Business"
+],
 "desc": "",
 "id": "e033d86ee8a8",
 "score": null,
@@ -7498,7 +7543,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Stocktwits"
+],
 "desc": "",
 "id": "1179c7e13685",
 "score": null,
