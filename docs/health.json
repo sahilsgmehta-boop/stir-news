@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T15:55:26Z",
+ "built": "2026-11-04T17:35:29Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 9,
+   "fetched": 29,
+   "kept": 7,
    "added": 1,
    "error": "",
    "near_misses": [
     "Election stiffens the Fed's guardrails, but independence risks remain",
+    "Ask Beth: Why is the Fed\u2019s inflation objective 2 percent?",
+    "Democrats winning the Senate could be a win for the Fed's independence",
     "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
-    "Fed Talk: Why Cleveland? The Story Behind the Fed\u2019s Regional Structure\u2014and Why It Matters Today",
+    "Iran Peace Deal No Silver Bullet for Fed\u2019s Inflation Dilemma: Mike Dolan",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "Dallas Fed president explains why she is pushing for interest rate hikes",
-    "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
-    "What AI Investment Means for the Fed's Fight Against Inflation",
     "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
-    "Business Buzz: The affordability challenge, caregiving costs and the Fed\u2019s rate hold",
+    "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
     "Quiet Notice from Fed\u2019s Extending Comment Period to Pre-Approve Nuclear Waste Project"
    ]
   },
@@ -101,19 +101,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 13,
-   "added": 1,
+   "fetched": 74,
+   "kept": 14,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB chief urges eurozone to adapt faster to climate change",
     "The views of the frontrunners to succeed Lagarde at the ECB",
+    "ECB: the post-Lagarde era begins on 9 November",
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "Euro-Zone Inflation Accelerates to Double the ECB\u2019s Target",
-    "Euro zone wage growth to rebound slightly next year, ECB says",
     "Knot Says ECB Will Need to Stick With a Hawkish Stance on Policy",
-    "Press conference following the ECB's Governing Council meeting, at the ECB headquarters in Frankfurt",
     "ECB's Machado backs cross-border safeguards for EU banks",
+    "Press conference following the ECB's Governing Council meeting, at the ECB headquarters in Frankfurt",
     "Netherlands nominate Klaas Knot to succeed ECB president Lagarde",
     "Klaas Knot in race to succeed Christine Lagarde at ECB"
    ]
@@ -123,21 +123,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 6,
+   "fetched": 23,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
+    "EU leaders aim to appoint new ECB chief in December, official says",
     "Euro zone wage growth to rebound slightly next year, ECB says",
-    "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
     "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
     "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
+    "Eurogroup opens nominations to succeed Lagarde at the ECB",
     "Pierrakakis Opens Race to Succeed Lagarde at ECB",
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "Lane would be 'great' replacement for Lagarde at ECB - Makhlouf",
     "ECB flags AI valuations, bond stress and fund losses as main risks",
-    "European Central Bank: Leadership changes go beyond hawks and doves - Standard Chartered",
-    "Lagarde's Successor: Eurozone Countries Should Make Proposals Promptly"
+    "Eurogroup calls for ECB presidency nominations by Nov 6"
    ]
   },
   {
@@ -158,8 +158,8 @@
     "Why the BoE\u2019s shake-up is good news for gilts",
     "Bank of England set for first rate hike as energy shock worsens",
     "Households face fresh squeeze as Bank of England set to raise interest rates",
-    "City AM Shadow MPC urges Bank of England to hike interest rates",
-    "The British Pound heads into a Bank of England hike priced well beyond this one"
+    "The British Pound heads into a Bank of England hike priced well beyond this one",
+    "MPC Preview: Mounting expectations for a rate rise"
    ]
   },
   {
@@ -168,8 +168,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 35,
-   "kept": 5,
-   "added": 1,
+   "kept": 6,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
@@ -189,7 +189,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -276,8 +276,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 15,
-   "added": 10,
+   "kept": 14,
+   "added": 9,
    "error": ""
   },
   {
