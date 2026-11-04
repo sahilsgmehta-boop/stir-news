@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T17:35:29Z",
+ "built": "2026-11-04T20:49:44Z",
  "sources": [
   {
    "id": "il_cb",
@@ -20,9 +20,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Eurozone inflation hits 4% for first time since 2023, piling pressure on ECB"
-   ]
+   "near_misses": []
   },
   {
    "id": "cnbc",
@@ -57,21 +55,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 7,
+   "fetched": 19,
+   "kept": 4,
    "added": 1,
    "error": "",
    "near_misses": [
     "Election stiffens the Fed's guardrails, but independence risks remain",
+    "Senate win by Democrats could strengthen Fed independence",
     "Ask Beth: Why is the Fed\u2019s inflation objective 2 percent?",
-    "Democrats winning the Senate could be a win for the Fed's independence",
+    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
     "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
     "Iran Peace Deal No Silver Bullet for Fed\u2019s Inflation Dilemma: Mike Dolan",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Dallas Fed president explains why she is pushing for interest rate hikes",
-    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
+    "Quiet Notice from Fed\u2019s Extending Comment Period to Pre-Approve Nuclear Waste Project",
     "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
-    "Quiet Notice from Fed\u2019s Extending Comment Period to Pre-Approve Nuclear Waste Project"
+    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race"
    ]
   },
   {
@@ -101,21 +99,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
+   "fetched": 77,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB chief urges eurozone to adapt faster to climate change",
+    "ECB Succession Race Accelerates as EU Leaders Target December Choice for Lagarde Replacement",
     "The views of the frontrunners to succeed Lagarde at the ECB",
     "ECB: the post-Lagarde era begins on 9 November",
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "Euro-Zone Inflation Accelerates to Double the ECB\u2019s Target",
     "Knot Says ECB Will Need to Stick With a Hawkish Stance on Policy",
+    "Euro zone wage growth to rebound slightly next year, ECB says",
     "ECB's Machado backs cross-border safeguards for EU banks",
-    "Press conference following the ECB's Governing Council meeting, at the ECB headquarters in Frankfurt",
-    "Netherlands nominate Klaas Knot to succeed ECB president Lagarde",
-    "Klaas Knot in race to succeed Christine Lagarde at ECB"
+    "Who will replace Lagarde? Eurozone nominations open for ECB top job"
    ]
   },
   {
@@ -123,20 +121,20 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 10,
-   "added": 0,
+   "fetched": 22,
+   "kept": 9,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "EU leaders aim to appoint new ECB chief in December, official says",
-    "Euro zone wage growth to rebound slightly next year, ECB says",
     "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
     "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
+    "Lane would be 'great' replacement for Lagarde at ECB - Makhlouf",
+    "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "EU leaders aim to appoint new ECB chief in December, official says",
+    "Euro zone wage growth to rebound slightly next year, ECB says",
     "Eurogroup opens nominations to succeed Lagarde at the ECB",
     "Pierrakakis Opens Race to Succeed Lagarde at ECB",
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
-    "Lane would be 'great' replacement for Lagarde at ECB - Makhlouf",
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
     "Eurogroup calls for ECB presidency nominations by Nov 6"
    ]
   },
@@ -157,9 +155,9 @@
     "Why Pound Sterling Faces Temporary Setback in Wake of Bank of England Hike",
     "Why the BoE\u2019s shake-up is good news for gilts",
     "Bank of England set for first rate hike as energy shock worsens",
+    "BoE preview: what anticipated rate rise means for mortgages",
     "Households face fresh squeeze as Bank of England set to raise interest rates",
-    "The British Pound heads into a Bank of England hike priced well beyond this one",
-    "MPC Preview: Mounting expectations for a rate rise"
+    "The British Pound heads into a Bank of England hike priced well beyond this one"
    ]
   },
   {
@@ -167,15 +165,15 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 38,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
-    "Bank of Canada Says Fiscal and Monetary Policy Aren\u2019t at Odds",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
+    "Bank of Canada Says Fiscal and Monetary Policy Aren\u2019t at Odds",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
     "FILE PHOTO: Bank of Canada Governor Tiff Macklem takes part in a press conference in Ottawa",
