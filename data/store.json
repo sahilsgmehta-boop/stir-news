@@ -9,7 +9,9 @@
 "src": "Mitrade",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "9ae74ac72f8d",
 "score": null,
@@ -116,7 +118,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Zprávy Kurzy.cz"
+],
 "desc": "",
 "id": "6c66bb8214d2",
 "score": 0,
