@@ -3061,6 +3061,29 @@
    "read": "Not a policy remark.",
    "at": "2026-11-04T15:55:15Z",
    "by": "claude"
+  },
+  "1cf8897861ff": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-04T20:49:30Z",
+   "by": "claude"
+  },
+  "cc11042c62f0": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Says Carney's fiscal plans aren't currently complicating the inflation fight; no new rate signal.",
+   "sum": "Macklem said the Carney government's fiscal plans are not currently complicating the Bank of Canada's fight against inflation.",
+   "pts": [
+    "Fiscal plans are not currently making the inflation fight harder, per the headline.",
+    "Echoes his Nov 3 testimony that fiscal and monetary policy are not at odds.",
+    "No new guidance on the policy rate beyond the hiking bias set out to MPs on Nov 3."
+   ],
+   "rr": "Removes fiscal stimulus as an extra hawkish driver, but leaves the Nov 3 bias toward a further hike intact; little change to BoC pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-04T20:49:30Z",
+   "by": "claude"
   }
  }
 }
