@@ -1,6 +1,28 @@
 {
 "items": [
 {
+"t": "2026-11-05T23:16:12Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed's Cook lawyer seeks clarity ahead of any White House hearing",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVVtYTZzLWRhSUZ4QS1ncmtKZkNrTHdOcGlrSkFiU1EyX2tlV0hqdGRXeG5kYXUxRDZoMDNmdm94eC1kRzM3QVV0VHF0SmhJQTNmbFVscUt3VzhIemFPS1VyNndYanl4dFVNMkFVczAwbEtZckhWZEg3RmNJUFhiN2RLNFhYS2NTZUc5Z2RaMXJsWjlEcGdTRUpZVGVmcnJRYjROT3NVSjQxYUg4cUVhZEFxRQ?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [
+"marketscreener.com"
+],
+"desc": "",
+"id": "990f9fffcb78",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-05T18:05:42Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -53,7 +75,9 @@
 "The Lufkin Daily News",
 "marketscreener.com",
 "Bellingham Herald",
-"Central Oregon Daily"
+"Central Oregon Daily",
+"The Daily News | Texas' Oldest Newspaper",
+"The Business Times"
 ],
 "desc": "",
 "id": "10ce3f4e313a",
@@ -152,6 +176,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-05T16:00:19Z",
+"bank": "BoC",
+"speaker": "",
+"hl": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework",
+"url": "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/",
+"src": "Bank of Canada press releases",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "The Government and the Bank agree that monetary policy must work to promote the economic and financial well-being of Canadians. We also agree that the best way monetary policy can do this is by keeping inflation low, stable and predictable, thereby protecting Canadians from large increases in the cost of living.",
+"id": "d25d6f097548",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-05T16:00:00Z",
 "bank": "BoE",
 "speaker": "Bailey",
@@ -201,7 +245,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"GuruFocus"
+"GuruFocus",
+"The Economic Times"
 ],
 "desc": "",
 "id": "561b7e19fc9f",
@@ -463,7 +508,9 @@
 "93.3 The Drive",
 "Reuters",
 "Newsmax",
-"WTVB"
+"WTVB",
+"Kitco",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "27cc16273f92",
