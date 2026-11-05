@@ -3252,6 +3252,44 @@
    "lead": "d2a6fd673df0",
    "at": "2026-11-05T11:55:35Z",
    "by": "claude"
+  },
+  "c8ab083e5e22": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Says federal spending is not really adding to inflation; eases fiscal worries, no new rate steer.",
+   "sum": "Macklem told MPs that federal spending is \"not really\" adding to inflation, days before the federal budget.",
+   "pts": [
+    "Said federal spending is \"not really\" adding to inflation, per the headline.",
+    "Remarks came days before the federal budget.",
+    "No new comment on the path of rates was reported in this piece."
+   ],
+   "rr": "Removes a fiscal argument for extra tightening but does not alter the hike bias he set out earlier this week; little change to pricing for the December meeting. Only news paraphrases were available.",
+   "ev": "Testimony to MPs",
+   "basis": "reports",
+   "at": "2026-11-05T15:54:56Z",
+   "by": "claude"
+  },
+  "8984247d2e04": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability warning on higher yields; no steer on the rate path.",
+   "sum": "Moulin said higher yields are a new test for the financial sector, a financial-stability message rather than a policy signal.",
+   "pts": [
+    "Said higher bond yields are a new test for the financial sector, per the headline.",
+    "No comment on inflation, the December decision or the rate path was reported."
+   ],
+   "rr": "No direct bearing on the December hike priced; at most a reminder that rising yields carry stability risks the ECB is watching. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-05T15:54:56Z",
+   "by": "claude"
+  },
+  "847aaf402976": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T15:54:56Z",
+   "by": "claude"
   }
  }
 }
