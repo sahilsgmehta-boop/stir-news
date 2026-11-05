@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T15:55:23Z",
+ "built": "2026-11-05T18:19:27Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 8,
-   "added": 4,
+   "added": 0,
    "error": ""
   },
   {
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 5,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "What Could Stop the Fed Raising Rates in December?",
@@ -59,20 +59,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
-   "kept": 26,
-   "added": 11,
+   "fetched": 57,
+   "kept": 27,
+   "added": 2,
    "error": "",
    "near_misses": [
-    "Election stiffens the Fed's guardrails, but independence risks remain",
-    "Cleveland Fed president says restrictive rates are needed to cool inflation",
+    "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
     "White House Delays Hearing on Fed Governor",
     "The Fed\u2019s New Inflation Warning Will Add Thousands to Families\u2019 Already Soaring Bills",
-    "Watch BofA\u2019s Cabana Says It\u2019s Premature to Call End to Fed\u2019s Hiking Cycle",
+    "Cleveland Fed president says restrictive rates are needed to cool inflation",
+    "Election stiffens the Fed's guardrails, but independence risks remain",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "The 19 People in the Room When the Fed Sets Interest Rates",
-    "Why Gold Crashed Below $4,000\u2014and What the Fed\u2019s Rate Pause Means for Gold and Silver",
+    "Watch BofA\u2019s Cabana Says It\u2019s Premature to Call End to Fed\u2019s Hiking Cycle",
     "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
+    "Why Gold Crashed Below $4,000\u2014and What the Fed\u2019s Rate Pause Means for Gold and Silver",
     "Senate win by Democrats could strengthen Fed independence"
    ]
   },
@@ -81,21 +81,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
+   "fetched": 58,
    "kept": 19,
-   "added": 8,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "JPMorgan Says Kevin Warsh May Need To Court Congress To Keep His Fed Job",
     "Interrogating confusion at the Fed",
+    "JPMorgan Says Kevin Warsh May Need To Court Congress To Keep His Fed Job",
     "Dallas Fed president explains why she is pushing for interest rate hikes",
+    "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
     "Fed will vote on rates less often. What that could mean for borrowers",
     "Warsh Fed Should Heed New Zealand's Cautionary Tale",
     "Federal Reserve is cutting the number of annual rate-setting votes",
-    "Fed policymakers make case for further interest rate hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Fed policymakers make case for further interest rate hikes"
    ]
   },
   {
@@ -103,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 25,
+   "fetched": 73,
+   "kept": 28,
    "added": 4,
    "error": "",
    "near_misses": [
     "Spare a thought for monetary policy in the ECB jobs race",
+    "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "Exclusive with European Central Bank President Christine Lagarde",
-    "Bundesbank's Nagel joins ECB chorus backing December rate hike",
-    "ECB Succession Race Accelerates as EU Leaders Target December Choice for Lagarde Replacement",
     "The views of the frontrunners to succeed Lagarde at the ECB",
+    "ECB Succession Race Accelerates as EU Leaders Target December Choice for Lagarde Replacement",
     "ECB: Christine Lagarde\u2019s departure reshuffles the deck",
-    "Euro zone wage growth to rebound slightly next year, ECB says",
     "ECB chief urges eurozone to adapt faster to climate change",
-    "Exclusive with European Central Bank President Christine Lagarde",
-    "EU leaders aim to appoint new ECB chief in December, official says"
+    "Euro zone wage growth to rebound slightly next year, ECB says",
+    "Bundesbank's Nagel Joins ECB Chorus Backing December Rate Hike",
+    "Exclusive with European Central Bank President Christine Lagarde"
    ]
   },
   {
@@ -125,14 +125,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "EU leaders aim to appoint new ECB chief in December, official says",
-    "Euro zone wage growth to rebound slightly next year, ECB says",
-    "Bundesbank's Nagel joins ECB chorus backing December rate hike",
+    "Spare a thought for monetary policy in the ECB jobs race",
     "Euro: ECB rate hike bets support gains against US Dollar - Scotiabank",
     "Euro gains against US Dollar as ECB rate hike bets lend support - Scotiabank",
     "Pierrakakis Opens Race to Succeed Lagarde at ECB",
@@ -145,21 +144,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
-   "kept": 1,
+   "fetched": 72,
+   "kept": 2,
    "added": 1,
    "error": "",
    "near_misses": [
-    "Bank of England raises rates for first time since 2023, says more may come",
+    "Bank of England raises rates for first time since 2023, warns more likely",
     "Bank of England Raises Rates for First Time in Three Years",
+    "Standard Chartered sees another BOE rate hike in February after hawkish tone",
+    "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-    "Bank of England Raises Rates for First Time Since Start of Iran War",
-    "BoE joins the rate hike club, Australia may be done already",
-    "The Bank of England\u2019s Not Playing Nice Anymore",
-    "Bank of England raises interest rates to 4% in bid to tame inflation",
+    "Bank of England raises rates for first time since 2023, warns more likely",
+    "BoE leaves door open to further rate rises amid fears of entrenched inflation",
     "Bank of England welcomes energy price falls since US midterms after first hike in nearly 3 years",
-    "Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation",
-    "The Bank of England hiked interest rates and warned inflation could hit around 5%"
+    "Bank of England raises rates for first time since 2023, says more may come",
+    "Traders eye further rate hikes after first BoE increase in three years"
    ]
   },
   {
@@ -167,21 +166,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 28,
    "kept": 6,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
-    "Bank of Canada head says fiscal policy not hitting fight against inflation",
+    "Bank of Canada Governor Says The Rate Hike Isn't Trying to Restrain Demand",
     "Bank of Canada Says Fiscal and Monetary Policy Aren\u2019t at Odds",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
-    "Bank of Canada head says fiscal policy not hitting fight against inflation",
-    "FILE PHOTO: Bank of Canada Governor Tiff Macklem takes part in a press conference in Ottawa",
     "Bank of England raises rates for first time since 2023, signals more may come",
     "Canadian dollar holds firm near seven-week peak ahead of Macklem speech",
     "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
-    "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases"
+    "Bank of Canada maintains stance on rate hike ahead of Nov. 5 budget release",
+    "Canada: Macklem brandishes threat of further rate hikes",
+    "Macklem Tires Of Questions"
    ]
   },
   {
@@ -189,13 +188,14 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
-   "kept": 5,
+   "fetched": 12,
+   "kept": 7,
    "added": 1,
    "error": "",
    "near_misses": [
     "Swiss National Bank chairman says bank's policy has been effective",
-    "SNB watches for second-round Swiss inflation effects as December rate hike bets build"
+    "SNB watches for second-round Swiss inflation effects as December rate hike bets build",
+    "Schlegel: Transmission and conduct of monetary policy in Switzerland"
    ]
   },
   {
@@ -277,7 +277,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 15,
-   "added": 10,
+   "added": 9,
    "error": ""
   },
   {
@@ -327,7 +327,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 7,
-   "added": 5,
+   "added": 4,
    "error": ""
   },
   {
