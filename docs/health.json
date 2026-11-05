@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T22:50:45Z",
+ "built": "2026-11-05T02:54:04Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 7,
-   "added": 0,
+   "kept": 5,
+   "added": 2,
    "error": ""
   },
   {
@@ -20,7 +20,11 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Bank of England preview: first hike to 4% expected as energy pushes inflation to 3.5%",
+    "SNB watches for second-round Swiss inflation effects as December rate hike bets build",
+    "Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts"
+   ]
   },
   {
    "id": "cnbc",
@@ -55,21 +59,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 4,
-   "added": 1,
+   "fetched": 25,
+   "kept": 7,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Election stiffens the Fed's guardrails, but independence risks remain",
+    "White House Delays Hearing on Fed Governor",
     "Senate win by Democrats could strengthen Fed independence",
     "Ask Beth: Why is the Fed\u2019s inflation objective 2 percent?",
-    "Fed holds interest rates steady as inflation hits 3-year high",
+    "Democrats seize Congress, block Trump Fed takeover as hawks press tightening",
     "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
-    "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
-    "Quiet Notice from Fed\u2019s Extending Comment Period to Pre-Approve Nuclear Waste Project",
-    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race",
-    "Fed policymakers make case for further interest rate hikes",
-    "Fed chair\u2019s new claim to fame: His racehorse Deterministic won a $2 million race"
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
+    "Iran Peace Deal No Silver Bullet for Fed\u2019s Inflation Dilemma: Mike Dolan",
+    "Quiet Notice from Fed\u2019s Extending Comment Period to Pre-Approve Nuclear Waste Project"
    ]
   },
   {
@@ -77,14 +81,14 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 12,
+   "fetched": 40,
+   "kept": 11,
    "added": 7,
    "error": "",
    "near_misses": [
     "Interrogating confusion at the Fed",
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Dallas Fed president explains why she is pushing for interest rate hikes",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Fed will vote on rates less often. What that could mean for borrowers",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
@@ -99,20 +103,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 15,
+   "fetched": 76,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB chief urges eurozone to adapt faster to climate change",
     "ECB Succession Race Accelerates as EU Leaders Target December Choice for Lagarde Replacement",
-    "The views of the frontrunners to succeed Lagarde at the ECB",
-    "ECB: the post-Lagarde era begins on 9 November",
     "Who will replace Lagarde? Eurozone nominations open for ECB top job",
+    "The views of the frontrunners to succeed Lagarde at the ECB",
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "ECB's Machado backs cross-border safeguards for EU banks",
     "Knot Says ECB Will Need to Stick With a Hawkish Stance on Policy",
     "Euro zone wage growth to rebound slightly next year, ECB says",
+    "ECB: the post-Lagarde era begins on 9 November",
     "Netherlands nominate Klaas Knot to succeed ECB president Lagarde"
    ]
   },
@@ -121,21 +125,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 23,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "EU leaders aim to appoint new ECB chief in December, official says",
+    "Euro zone wage growth to rebound slightly next year, ECB says",
     "ECB Warns AI Market Correction Could Expose Europe\u2019s Financial Vulnerabilities",
     "Could Ireland\u2019s Philip Lane be in the running for top ECB post?",
+    "Eurogroup opens nominations to succeed Lagarde at the ECB",
+    "Pierrakakis Opens Race to Succeed Lagarde at ECB",
+    "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "Lane would be 'great' replacement for Lagarde at ECB - Makhlouf",
-    "Euro: ECB rate hike bets support gains against US Dollar - Scotiabank",
-    "ECB flags AI valuations, bond stress and fund losses as main risks",
     "Eurogroup calls for ECB presidency nominations by Nov 6",
-    "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
-    "Pierrakakis Sets Deadline for Lagarde Successor Nominations",
-    "ECB vice-president urges deeper European integration to absorb future shocks"
+    "ECB rate outlook: Eurozone inflation, French debt and rising bond yields"
    ]
   },
   {
@@ -143,21 +147,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 24,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England poised to hike rates for first time in 3 years",
     "Bank of England\u2019s New Inflation Gauge Provides Some Reassurance",
     "FTSE 100 Edges Higher as Investors Await Bank of England Interest Rate Decision",
+    "Qatar Central Bank Governor Meets Bank of England Governor",
     "Markets Aim for Another Historic Win on Bank of England Rate Bets",
     "Pound at Seven-Week High: Bank of England Takes Centre Stage",
     "Why Pound Sterling Faces Temporary Setback in Wake of Bank of England Hike",
     "Why the BoE\u2019s shake-up is good news for gilts",
-    "BoE preview: what anticipated rate rise means for mortgages",
-    "Bank of England set for first rate hike as energy shock worsens",
-    "Qatar Central Bank Governor Meets Bank of England Governor",
-    "Households face fresh squeeze as Bank of England set to raise interest rates"
+    "Bank of England poised to hike rates for first time in 3 years",
+    "British Pound approaches Bank of England hike with markets already pricing in tightening well beyond this increase"
    ]
   },
   {
@@ -166,13 +170,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 36,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
-    "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
+    "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
     "Bank of Canada Says Fiscal and Monetary Policy Aren\u2019t at Odds",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
@@ -187,13 +191,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
-   "kept": 2,
-   "added": 0,
+   "fetched": 5,
+   "kept": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Stronger Inflation Spurs Hawkish SNB, Firmer Franc",
-    "Swiss Franc: Franc supported by hawkish SNB risk \u2013 ING"
+    "SNB watches for second-round Swiss inflation effects as December rate hike bets build"
    ]
   },
   {
