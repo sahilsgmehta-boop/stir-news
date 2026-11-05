@@ -3290,6 +3290,334 @@
    "read": "Not a policy remark.",
    "at": "2026-11-05T15:54:56Z",
    "by": "claude"
+  },
+  "b2a38cdd663b": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Calls the energy-shock situation difficult; descriptive, no fresh steer on December.",
+   "sum": "Lagarde said the ECB will know in December whether to raise rates and is watching indicators, while warning energy-driven inflation risks persist.",
+   "pts": [
+    "Said the ECB is looking at indicators to judge whether a December hike is needed.",
+    "Said \"in December we'll know whether to raise rates\".",
+    "Called the situation difficult amid the energy shock.",
+    "Warned inflation risks persist as energy and AI trends diverge.",
+    "Said assessing the medium-term effect of tariffs will take time."
+   ],
+   "rr": "Keeps a December hike live without pre-committing, broadly in line with the heavy pricing for a move; no signal on the path beyond December. Only news paraphrases were available.",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "aced260a3039": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says inflation risks persist, keeping the upside-risk case for a December hike alive.",
+   "lead": "b2a38cdd663b",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "1f3228fba41e": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says December will settle whether to hike; keeps the option open without committing.",
+   "lead": "b2a38cdd663b",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "10ce3f4e313a": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Data-dependent on a December hike; validates rather than adds to heavy hike pricing.",
+   "lead": "b2a38cdd663b",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "975abfa58138": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Urges stronger power grids and energy storage; structural message, no rate signal.",
+   "lead": "ec6f484d1cdb",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "09443b5a435c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "3eeb0887f53d": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Senate testimony keeping further hikes on the table while playing down fiscal risks.",
+   "sum": "Macklem told the Senate banking committee the door to further rate hikes stays open, while playing down fiscal risks to inflation.",
+   "pts": [
+    "Kept the door open to further increases after October's hike to 2.5%, per reports.",
+    "Downplayed the risk that federal fiscal plans are adding to inflation.",
+    "Echoes his House committee message earlier this week on the energy-driven inflation outlook."
+   ],
+   "rr": "Consistent with a continued bias to hike but no added urgency; leaves pricing for the next BoC meetings little changed. Only news paraphrases were available.",
+   "ev": "Opening statement, Senate Banking Committee",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "357c17ba653e": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Keeps the hike door open while downplaying fiscal risks; steady tightening bias.",
+   "lead": "3eeb0887f53d",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "26d3012260db": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Unanimous hike to 4% with one vote for 50bp, more hawkish than the expected 7-2 split.",
+   "sum": "The MPC raised Bank Rate 25bp to 4% in a 9-0 vote, with one member backing 50bp, and sees CPI rising to around 5% by the middle of next year.",
+   "pts": [
+    "Bank Rate raised to 4.00% from 3.75%.",
+    "Vote was 9-0 against an expected 7-2; one member voted for 0.5pp to 4.25%.",
+    "CPI rose to 3.5% in September and is expected to reach around 5% by mid-next year.",
+    "Said direct effects of higher energy prices will keep feeding into household and firm energy bills."
+   ],
+   "rr": "More hawkish than expected given the unanimous vote and a 50bp dissent; supports pricing of a further hike if the energy shock persists. Only news paraphrases were available.",
+   "ev": "MPC decision and minutes",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "e9376bba4baa": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "9-0 hike to 4% with a 50bp dissent beats the expected 7-2 split; hawkish.",
+   "lead": "26d3012260db",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "307fc457b106": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "0741354ec1db": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "cb11da91f400": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Says the curve rise reflects risk premia, not hike bets; pushes back on aggressive pricing.",
+   "sum": "Bailey said a second hike is more likely than not if the war goes on, but argued the rise in UK yields reflects risk premia rather than rate bets.",
+   "pts": [
+    "Said another 25bp hike could be justified if the Iran conflict does not end.",
+    "Said a second hike is more likely than not if the war continues.",
+    "Said domestic inflation pressures were already elevated before the energy shock, so its impact must be limited.",
+    "Pushed back on suggestions the BoE acted too late.",
+    "Said the rise in the UK market curve reflects risk premia, not rate-hike bets."
+   ],
+   "rr": "Ties the next hike to the war rather than pre-setting it; supports some pricing of a further move but argues higher yields should not be read as hike pricing. Only news paraphrases were available.",
+   "ev": "Remarks after the November MPC decision",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "0acbc924ecc2": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Sees a case for another 25bp hike if the war does not end; conditional tightening.",
+   "lead": "cb11da91f400",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "eae9aa5cc0ae": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls a second hike more likely than not if the war continues; firms conditional guidance.",
+   "lead": "cb11da91f400",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "c304356882fe": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says gradual hikes make sense and inflation is not yet falling; backs more tightening.",
+   "sum": "Barkin said policy is only around neutral and the path is for further hikes, with pace the open question and a gradual approach making sense.",
+   "pts": [
+    "Said policy is somewhere around neutral.",
+    "Said the path on policy is straightforward; the issue is pace, and gradual \"makes sense\".",
+    "Does not expect inflation to accelerate but does not see it falling yet.",
+    "Said cost pressures of the past 18 months, starting with tariffs, are broad based and firms feel they must pass them on.",
+    "Said strong earnings are supporting firms."
+   ],
+   "rr": "Supports further Fed hikes at a measured pace, consistent with pricing for more increases rather than an acceleration; Barkin is not a 2026 voter. Only news paraphrases were available.",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "182627028521": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Sees policy only around neutral, implying further tightening is needed.",
+   "lead": "c304356882fe",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "47f11253ed96": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says the rate path is clear and only timing is in question; gradual hikes.",
+   "lead": "c304356882fe",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "99616a54b966": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Expects gradual further Fed rate increases.",
+   "lead": "c304356882fe",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "c125026b916e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Reported as saying more rate hikes are coming.",
+   "lead": "c304356882fe",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "561b7e19fc9f": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs gradual hikes as inflation stays too high.",
+   "lead": "c304356882fe",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "35c8b8a24238": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says dollar status rests on rule of law and Fed independence; no rate steer.",
+   "sum": "Hammack, a 2026 voter, said policy must move to a restrictive stance through gradual rate hikes, as inflation is too high and moving in the wrong direction.",
+   "pts": [
+    "Said gradual rate hikes are the best and least disruptive way to get inflation to target.",
+    "Said monetary policy needs to move to a restrictive stance.",
+    "Said inflation is too high and moving in the wrong direction.",
+    "Said the dollar's status depends on rule of law, effective capital markets and central bank independence; hard to see it losing reserve status.",
+    "investingLive reads her 'gradual' as a hike every meeting, as she voted to hike last time."
+   ],
+   "rr": "Backs a December Fed hike and a continued sequence of moves; a voter's support adds to hike pricing, though it repeats her known stance. Only news paraphrases were available.",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "e5d6ad7edc88": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Voter says gradual hikes are best and inflation is moving the wrong way.",
+   "lead": "35c8b8a24238",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "27cc16273f92": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Favors a gradual hike path to bring inflation down.",
+   "lead": "35c8b8a24238",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "23ad2669cab0": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says policy needs to shift to restrictive, implying more hikes.",
+   "lead": "35c8b8a24238",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "6b7623e124da": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says restrictive rates are needed to cool inflation.",
+   "lead": "35c8b8a24238",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "2f2019be2f9a": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Repeats her call for small rate increases; consistent with known stance.",
+   "lead": "35c8b8a24238",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "f000c3a0b19e": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Explains SNB transmission; policy rate is the main tool, no new steer.",
+   "sum": "Schlegel set out how SNB policy transmits in a small open economy, saying the policy rate is the main tool and current inflation is mainly limited to fuel and energy.",
+   "pts": [
+    "Said the SNB policy rate is the main tool, with other measures used if necessary.",
+    "Described Switzerland as a small open economy with a stable environment, a special setting for policy.",
+    "Said Swiss inflation is at the moment mainly limited to fuel and energy."
+   ],
+   "rr": "Describing inflation as narrow and energy-driven argues against rushing to hike in December, leaning against recently built hike bets. Only news paraphrases were available.",
+   "ev": "Speech",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "56102987504f": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Says inflation is mainly limited to fuel and energy, tempering December hike bets.",
+   "lead": "f000c3a0b19e",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "acde1188bc7f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Restates that the policy rate is the main tool; framework, no steer.",
+   "lead": "f000c3a0b19e",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "d1528e9fa83e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Sees a 'rather big chance' of a December hike, reinforcing hike conviction.",
+   "sum": "Zigman said there is a \"rather big chance\" the ECB raises rates in December.",
+   "pts": [
+    "Sees a \"rather big chance\" of a December rate hike, per Bloomberg.",
+    "No comment on the path beyond December was reported."
+   ],
+   "rr": "In line with heavy pricing for a December ECB hike and reinforces it marginally. Only news paraphrases were available.",
+   "basis": "reports",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "234a44e59ddb": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Republished Schnabel speech on debt and non-bank risks; no new rate steer.",
+   "lead": "ae12e9ef0f2f",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
+  },
+  "525ba4ac20aa": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T20:56:00Z",
+   "by": "claude"
   }
  }
 }
