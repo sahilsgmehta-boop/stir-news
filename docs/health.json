@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T10:43:27Z",
+ "built": "2026-11-05T11:55:50Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 8,
    "added": 1,
    "error": "",
    "near_misses": [
     "Election stiffens the Fed's guardrails, but independence risks remain",
     "White House Delays Hearing on Fed Governor",
+    "The 19 People in the Room When the Fed Sets Interest Rates",
     "Senate win by Democrats could strengthen Fed independence",
     "Ask Beth: Why is the Fed\u2019s inflation objective 2 percent?",
     "Minneapolis Fed\u2019s Glaubke receives Federal Reserve System\u2019s Taylor Award",
-    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
+    "Why Gold Crashed Below $4,000\u2014and What the Fed\u2019s Rate Pause Means for Gold and Silver",
     "Democrats seize Congress, block Trump Fed takeover as hawks press tightening",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification",
-    "Quiet Notice from Fed\u2019s Extending Comment Period to Pre-Approve Nuclear Waste Project"
+    "Huntington Bank: GDP, Fed\u2019s Rate Decision, Diversification"
    ]
   },
   {
@@ -79,9 +79,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
-   "kept": 10,
-   "added": 6,
+   "fetched": 43,
+   "kept": 11,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Interrogating confusion at the Fed",
@@ -101,9 +101,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 18,
-   "added": 3,
+   "fetched": 74,
+   "kept": 20,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Exclusive with European Central Bank President Christine Lagarde",
@@ -111,11 +111,11 @@
     "ECB chief urges eurozone to adapt faster to climate change",
     "EU leaders aim to appoint new ECB chief in December, official says",
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
-    "ECB's Machado backs cross-border safeguards for EU banks",
-    "ECB: Christine Lagarde\u2019s departure reshuffles the deck",
     "Eurozone governments get deadline to nominate Lagarde successor; Goldman restricts access to AI coding tools for bankers",
+    "ECB: Christine Lagarde\u2019s departure reshuffles the deck",
     "The views of the frontrunners to succeed Lagarde at the ECB",
-    "Eurozone countries urged to name candidates to succeed ECB'S Lagarde"
+    "Eurozone countries urged to name candidates to succeed ECB'S Lagarde",
+    "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target"
    ]
   },
   {
@@ -123,9 +123,9 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 11,
-   "added": 1,
+   "fetched": 27,
+   "kept": 12,
+   "added": 0,
    "error": "",
    "near_misses": [
     "EU leaders aim to appoint new ECB chief in December, official says",
@@ -133,8 +133,7 @@
     "Pierrakakis Opens Race to Succeed Lagarde at ECB",
     "Bundesbank's Nagel joins ECB chorus backing December rate hike",
     "Euro: ECB rate hike bets support gains against US Dollar - Scotiabank",
-    "Euro-Zone Wage Growth to Slow Sharply Next Year in Boost for ECB",
-    "Euro area: Stagflation risks and ECB path \u2013 Standard Chartered",
+    "Euro gains against US Dollar as ECB rate hike bets lend support - Scotiabank",
     "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
     "Lagarde's Successor: Eurozone Countries Should Make Proposals Promptly",
     "Pierrakakis Sets Deadline for Lagarde Successor Nominations"
@@ -145,7 +144,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 36,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -156,10 +155,10 @@
     "Economic Calendar: Investors Await the Bank of England's Decision \ud83c\udfdb\ufe0f",
     "Bank of England poised to raise rates to 4%",
     "FTSE 100 Reaches Three-Month High as Banking Shares Advance Ahead of Bank of England Decision",
+    "UK's midcap index at record high ahead of Bank of England rate call",
+    "UK's midcap index at record high ahead of Bank of England rate call",
     "Bank of England set to raise interest rates for first time in three years as Iran war fuels inflation",
-    "BOE Poised for First Rate Hike in Three Years: Decision Guide",
-    "British Pound struggles to extend gains ahead of BoE\u2019s policy decision",
-    "Qatar Central Bank Governor Meets Bank of England Governor"
+    "BOE Poised for First Rate Hike in Three Years: Decision Guide"
    ]
   },
   {
@@ -167,18 +166,18 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 5,
-   "added": 0,
+   "fetched": 34,
+   "kept": 7,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
     "Bank of Canada Says Fiscal and Monetary Policy Aren\u2019t at Odds",
-    "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
     "Bank of Canada head says fiscal policy not hitting fight against inflation",
     "FILE PHOTO: Bank of Canada Governor Tiff Macklem takes part in a press conference in Ottawa",
+    "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
     "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada's Governor Says Current State of US-Canada Trade Relationship 'Makes No Sense'",
     "Bank of Canada Governor Macklem Speaking at House of Commons Standing Committee on Finance"
@@ -189,9 +188,9 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
-   "kept": 4,
-   "added": 1,
+   "fetched": 5,
+   "kept": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
     "SNB watches for second-round Swiss inflation effects as December rate hike bets build"
@@ -266,7 +265,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {

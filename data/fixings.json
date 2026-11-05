@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T10:44:09Z",
+ "built": "2026-11-05T11:57:02Z",
  "corra": {
   "2026-03-30": 2.27,
   "2026-03-31": 2.27,
@@ -930,7 +930,7 @@
  "status": {
   "corra": "ok, 136 fixings, latest 2026-11-03",
   "effr": "ok, 138 fixings, latest 2026-11-03",
-  "estr": "ok, 142 fixings, latest 2026-11-04",
+  "estr": "FAILED (HTTP Error 504: Gateway Time-out), kept 155 stored",
   "saron": "ok, 137 fixings, latest 2026-10-30 via snb:snbgwdzid (2dp; SIX failed: hsrron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; h_saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; links seen: )",
   "sofr": "ok, 137 fixings, latest 2026-11-03",
   "sonia": "ok, 139 fixings, latest 2026-11-03"
