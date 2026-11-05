@@ -2918,8 +2918,17 @@
    "tone": "neutral",
    "score": 0,
    "read": "Feature on Warsh's plan for fewer rate-setting meetings; no new rate signal.",
-   "at": "2026-11-03T21:06:33Z",
-   "by": "claude"
+   "at": "2026-11-05T07:00:54Z",
+   "by": "claude",
+   "sum": "Feature on Warsh's plan to cut how often the FOMC votes on rates, arguing it could change how often borrowers see rate relief.",
+   "pts": [
+    "Covers Warsh's plan to keep eight FOMC meetings a year but make some strategy sessions without a rate vote.",
+    "Frames fewer decision meetings as meaning less frequent chances for rate changes.",
+    "No new remarks from Warsh on inflation or the rate path."
+   ],
+   "rr": "No change to December Fed pricing; fewer decision meetings from 2027 concentrate repricing risk around each one. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports"
   },
   "2682957f64ff": {
    "tone": "neutral",
@@ -3083,6 +3092,82 @@
    "ev": "",
    "basis": "reports",
    "at": "2026-11-04T20:49:30Z",
+   "by": "claude"
+  },
+  "dee1a76d5566": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T07:00:54Z",
+   "by": "claude"
+  },
+  "67045601bdbe": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T07:00:54Z",
+   "by": "claude"
+  },
+  "1eee020f1998": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T07:00:54Z",
+   "by": "claude"
+  },
+  "b4b6be86a849": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-05T07:00:54Z",
+   "by": "claude"
+  },
+  "d2a6fd673df0": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Ready to change policy if price stability is threatened, as December hike bets build.",
+   "sum": "SNB Chair Schlegel said the SNB will not hesitate to adjust monetary policy if price stability is endangered.",
+   "pts": [
+    "Said the SNB will not hesitate to modify policy if price stability is at risk, per the headline.",
+    "Comes after he said on 3 Nov that inflation pressure is slightly higher than in June.",
+    "No specific guidance on the size or timing of any move was reported."
+   ],
+   "rr": "Conditional readiness rather than a commitment, but in context it leans against the zero rate lasting and supports building pricing of a December SNB hike. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-05T07:00:54Z",
+   "by": "claude"
+  },
+  "403917b742bf": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "SNB flags second-round inflation effects as the trigger; firms December hike pricing.",
+   "sum": "The SNB is watching for second-round effects from the energy-driven jump in Swiss inflation, a signal that firms bets on a December rate hike.",
+   "pts": [
+    "Fuel and heating costs are driving the rise in Swiss inflation.",
+    "Schlegel flagged second-round effects, notably in wages and rents, as the trigger for action.",
+    "The oil price has become a direct input to Swiss rate expectations."
+   ],
+   "rr": "Firms pricing for a December hike from the 0% policy rate and is mildly franc-supportive; wage and rent data become the key swing for that move. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-05T07:00:54Z",
+   "by": "claude"
+  },
+  "9ae74ac72f8d": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Says banks can cope with higher rates; removes a constraint on hikes without pushing for more.",
+   "sum": "ECB's Moulin said euro-area banks can withstand higher interest rates, while France must put its public finances in order.",
+   "pts": [
+    "Said banks can handle a higher rate environment, per the headline.",
+    "Said France needs to fix its public finances.",
+    "No explicit view on the December decision was reported."
+   ],
+   "rr": "Mildly supports the December hike already priced by signalling financial stability is no obstacle; no push for a faster path. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-05T07:00:54Z",
    "by": "claude"
   }
  }
