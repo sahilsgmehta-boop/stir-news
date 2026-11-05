@@ -3169,6 +3169,89 @@
    "basis": "reports",
    "at": "2026-11-05T07:00:54Z",
    "by": "claude"
+  },
+  "ae12e9ef0f2f": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Warns debt and non-banks could constrain policy; defends monetary dominance, no new rate steer.",
+   "sum": "Schnabel warned that high public debt and fast-growing non-bank finance risk tying the ECB's hands, and called for tighter non-bank regulation.",
+   "pts": [
+    "Said rising public debt and non-bank growth could limit the ECB's ability to set appropriate policy.",
+    "Warned interventions to calm unstable markets can interfere with the mandate and threaten monetary dominance.",
+    "Noted much new government debt is held by possibly highly leveraged non-banks, speeding pass-through and volatility.",
+    "Said governments' effective interest rate now exceeds growth, strengthening the case for structural reforms.",
+    "Urged no bank deregulation and tighter rules for hedge funds, investment funds and insurers.",
+    "No comment on the December decision or the rate path was reported."
+   ],
+   "rr": "No direct bearing on the December hike already priced; a structural warning that fiscal strains, notably France, could test resolve later in the cycle. Mildly supportive of spread risk premia rather than front-end pricing. Only news paraphrases were available.",
+   "ev": "Speech, Frankfurt",
+   "basis": "reports",
+   "at": "2026-11-05T11:55:35Z",
+   "by": "claude"
+  },
+  "c4c6e00c368e": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Debt and non-bank risks could constrain the ECB; structural warning, no rate steer.",
+   "lead": "ae12e9ef0f2f",
+   "at": "2026-11-05T11:55:35Z",
+   "by": "claude"
+  },
+  "ec6f484d1cdb": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Flags extreme weather as an upside risk to food inflation; climate theme, no rate steer.",
+   "sum": "Lagarde warned that extreme weather could push food inflation higher and amplify energy price shocks, extending her climate-resilience message.",
+   "pts": [
+    "Said extreme weather could push food inflation higher, per the headline.",
+    "Said climate shocks could amplify energy price shocks.",
+    "Said the costs of climate change are rising.",
+    "No comment on the December decision or the path of rates was reported."
+   ],
+   "rr": "Adds marginally to the upside inflation-risk narrative behind the December hike already priced, but carries no new guidance from the outgoing president. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-05T11:55:35Z",
+   "by": "claude"
+  },
+  "7c105c7dd812": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says climate costs are rising; structural message with no rate signal.",
+   "lead": "ec6f484d1cdb",
+   "at": "2026-11-05T11:55:35Z",
+   "by": "claude"
+  },
+  "fbc140674cfb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Reports on Lagarde's climate-resilience blog; no rate signal.",
+   "lead": "d1f7019e768d",
+   "at": "2026-11-05T11:55:35Z",
+   "by": "claude"
+  },
+  "5a90d9bdf946": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on the future of money and payments; no monetary-policy signal.",
+   "sum": "Cipollone spoke on shaping the future of money, his digital euro and payments brief, with no reported monetary-policy content.",
+   "pts": [
+    "Speech focused on the future of money and payments, per the title.",
+    "No remarks on inflation, the December decision or the rate path were reported."
+   ],
+   "rr": "No bearing on pricing of the December hike or later meetings. Only news paraphrases were available.",
+   "ev": "Speech",
+   "basis": "reports",
+   "at": "2026-11-05T11:55:35Z",
+   "by": "claude"
+  },
+  "7ef0295745d7": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says the SNB would act if price stability were at risk; conditional readiness as hike bets build.",
+   "lead": "d2a6fd673df0",
+   "at": "2026-11-05T11:55:35Z",
+   "by": "claude"
   }
  }
 }
