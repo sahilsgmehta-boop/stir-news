@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T11:36:31Z",
+ "built": "2026-11-06T11:56:47Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 9,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -56,9 +56,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 85,
+   "fetched": 84,
    "kept": 43,
-   "added": 6,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Fed\u2019s New Schedule for Rate-setting Meetings Turns Back the Clock for \u2018Strategy\u2019 Sessions",
@@ -78,8 +78,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
-   "kept": 28,
+   "fetched": 67,
+   "kept": 29,
    "added": 7,
    "error": "",
    "near_misses": [
@@ -102,7 +102,7 @@
    "ok": true,
    "fetched": 66,
    "kept": 29,
-   "added": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
@@ -122,18 +122,17 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 9,
+   "fetched": 26,
+   "kept": 11,
    "added": 1,
    "error": "",
    "near_misses": [
-    "EU leaders aim to appoint new ECB chief in December, official says",
     "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "EU leaders aim to appoint new ECB chief in December, official says",
     "Spare a thought for monetary policy in the ECB jobs race",
+    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
     "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
-    "Euro: ECB rate hike bets support gains against US Dollar - Scotiabank",
     "Eurogroup calls for ECB presidency nominations by Nov 6",
-    "The Netherlands announces Klaas Knot\u2019s candidacy to lead the ECB; the deadline for proposals is November 6",
     "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone"
    ]
   },
@@ -151,9 +150,9 @@
     "Bank of England raises base interest rates to 4%",
     "Bank of England raises rates for first time since 2023, warns more likely",
     "Bank of England Raises Rates for First Time in Three Years",
+    "Bank of England Rate Hike to 4%: Two Forces for Gold Owners",
     "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-    "Bank of England Rate Hike to 4%: Two Forces for Gold Owners",
     "Bank of England raises rates for first time since 2023, says more may come",
     "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
     "Bank of England policymakers set out views on rates outlook"
@@ -335,7 +334,7 @@
    "ok": true,
    "fetched": 20,
    "kept": 5,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
