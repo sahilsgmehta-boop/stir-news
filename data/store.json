@@ -1,6 +1,106 @@
 {
 "items": [
 {
+"t": "2026-11-06T18:22:23Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Cybersecurity is a major concern for bankers - Fed's Bowman",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1hLTWYyVU54ZEtfX3MwbWZPYUpwc1lWVWo4SW1qa2dCclN5eVBZTnU1LTFBVmR3NFVNT19KdkhmeVRSNG9vNzFXME81ZW9EUkF5eWFQQzFDOU5DQjdRekZaMDVpNE1tQUlGbVdheTB6ZDZOZWE2TmllcVBLYXJWcXFDS3Q4Y1NiU0NrNDQ2NkkwTncwRURNQWp0alA?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b2a4493e2b4e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T18:13:35Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "Fed's Daly: real wages are falling",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1lETGZvTUsyTm96WnVWQ2lXaUpSRElUcHVROEJJZDgxUXlhQ3I3MU0zNVo0OE1DQmFNMTRQRUloc053a1hMd0dMWFhhOEgwaUZOU1VfUUpLdUwyNWY3TkgxQlhzLVVodmU5VE01eVZ2OTVRdXczVUtEMWt2OEkxSkhEUU9xTVdDXzdqclozOGdrUDJTU3c?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3f2e8ee3d2ee",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T18:13:33Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "Fed's Daly: will have to tighten policy further, prepared to raise rates",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamZ5R2xBRTl0bEJIQjBPdVFIQ0d5LThvZzFNemFXUnFZbXd1V3prNkwzZHZQMEExcjFVcXJfSExzWFVjaFMzVmFZQ01sR1ZCLXdfdU1MS2h5cFNGYTFaU0ZBOXFfOTJDM0dDUllJWmQ3X2UzN0tnbUJHQWpYQWI4a2dPcU9aNFFtU0JpckhoZjNSM3hyYUtVVU5qc25faS1YemkybDdnSHFWRkd1LTJ4QmtwNEhTQ2NWVHc5NUZQMXVMalVqcmR6eHdyZw?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "57e75345812e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T18:07:02Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "Fed's Daly: Jobs report is good news",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbC12V0w4SGdHdmhUUEd1dW9VN19uWkIwLXlNNDVMSFYxeUlDSDQ2UTRfWVJLTGY0ZmluODhMVExyVVVQTzVYN0hiMFBzcUxhVnpMMWRVU0dxRllhZHlScTZ4MjJBM0RSUjVpcTRvXzZoc2pCQUpGOW1WMHBkVTJ6MXd3?oc=5",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b9b107a12e57",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T16:06:32Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Election Backlash May Ease Political Pressure on Fed Chair Warsh",
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xcG9aaTVTbUJGdDNxMHFtSnN4RG42Y05sSlRHTjkwSFltUE9yMV9uNEJVYjh2Sk1HdTZkcUR2SWlPcWFyWmJreXQ4Y0VCaHlLVEp3UTllOExyTkU?oc=5",
+"src": "www.tokenpost.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "61faf88f76c7",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-06T15:16:24Z",
 "bank": "Fed",
 "speaker": "Musalem",
@@ -93,7 +193,8 @@
 "tone": "neutral",
 "also": [
 "The Standard (HK)",
-"marketscreener.com"
+"marketscreener.com",
+"Breakingthenews.net"
 ],
 "desc": "",
 "id": "ce9c5337d91a",
@@ -168,7 +269,8 @@
 "marketscreener.com",
 "Yahoo Finance",
 "The Hill",
-"Kitco"
+"Kitco",
+"UA.NEWS"
 ],
 "desc": "",
 "id": "247d602d2836",
@@ -369,7 +471,8 @@
 "tone": "neutral",
 "also": [
 "marketscreener.com",
-"San Luis Obispo Tribune"
+"San Luis Obispo Tribune",
+"Idaho Statesman"
 ],
 "desc": "",
 "id": "990f9fffcb78",
@@ -810,7 +913,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Investing.com"
+"Investing.com",
+"Crain's Cleveland Business"
 ],
 "desc": "",
 "id": "6b7623e124da",
