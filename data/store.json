@@ -1,6 +1,90 @@
 {
 "items": [
 {
+"t": "2026-11-06T21:28:30Z",
+"bank": "BoE",
+"speaker": "Bailey",
+"hl": "Andrew Bailey backs closer EU ties after interest rates rise",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTBubTd2WDQ2MFpINEJpcmNRQVpHUFZuSTV5Wk1JS1JsQ3A3b2Q1U0FjdE1xVE41VlJ6c3JUQkY0NTZtbHlBbkgySy0wTEg1SEpwQlhfb25mMkp3LWdrc1g2blZaWjE3dlEweVNPaTI1cFh1Uk5CU29scTRzWXdkeFIwMV96QnIwU0xGaVZxdHBScnR0VHFpT3JCdmUxYWVWVk1abFluSQ?oc=5",
+"src": "The Times",
+"tier": "comment",
+"tone": "",
+"also": [
+"Scottish Financial News"
+],
+"desc": "",
+"id": "c33568f22959",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T20:50:53Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "DOJ, Fed’s Cook Seek Pause in Court Fight Over Trump Firing Push",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1BwWExvYnhxdTZWSmVBbEM2cnAxV3g5TjBrVmNsV214Sm8wTGhTNGd5MnI0S0cyRWpDbk80Mi0zcUJSa2N1eWRqSnQzb3pzc0htVUdaRVI2RXdjdU9WcFhFT09QX1ZMOVBOTlhxakVhczJYenRUWFhLd08yZ0VFdTEzLVdRZzN4VWVVUjhTZ2FOOVJzTVpHOVMxaFRaSVZSbDdJaTFrbURtREVDMkh1UVRGMFI?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [
+"Bloomberg Law News"
+],
+"desc": "",
+"id": "10aa28f17924",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T20:43:38Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "NY Fed's John Williams flags need to gather more information on inflation risks before rate decisions",
+"url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQeVdCYVdMNVdzVzJBaEZUWjRUdmwza0cydWlSTmh0VElEdl9ZRWQ2MEV6MWpjV0xkNWUzWEUxeXhRVWVwS1ZncWk4YjE2cDZvMXJhNTlndEcwSjVLaV9jb1dDUEN3UmdyLW1xMEY4SUJ0MnRwVlJuOUR3WU5lQlN0QWh1TTlVLVRrVDhGWkhYUGdqYjhURTl5WE1aT0lNUDB2WGtCRUdpSXZ6X09IZmp0UEY2Z3Vab3Q2aS1WWGt0d3FmNFNUMEVqblRRUmF5dldiTjhvMGRmcHVYempJV0ZrUUZoLURWOV9sWDFZdGRzemc4bmFoU1ZiU2dneXpwamFzWE5lU3RGc2pKbndncHlyeGxVY3hKMG1UY1HSAZ8CQVVfeXFMTXJsNXl3c2JYZnI2UGFZZjR2X1JCbllnYU5hYlFlMzVKbnZReFZTT0F3anVRdGFrQ3RYcVZjX0pYUlhYRDdpLW43b1VzUWllUjJzRXdTb3dpN19PbVExTXZaUmZvU2RwSmJnSzM2LUhWXzBZb05mejVOZk9iVmxSN3VQWThOc3pOTzlIQlJNSVV2VE5vUG5OcW4wNXZnRGZBeXRHaTg1ZzRXZmgyR2xCOXg5X3pSeEN1bnlETnBuTlFTQ0JJUFl0c2VLR2hGaEZJeF9hVEZQQzdidmllOFhldmppUDlpWldxNmt1bC10LXA4bTFHZFV1ZldjVUtFQTA0NTQ4RDVwbFhGTjV6dTdMNGZwTldnZkNyTnZGd3g1REk?oc=5",
+"src": "The Economic Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "20329b61f7ac",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T20:03:50Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "Daly Says Fed Probably Needs More Tightening as Inflation Stays High - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMXV2OE1HbmxvRFVpRzJYR3pIREg2T29MaVAzajlrSW1LSTFDeTZJTnJrSE5PZGd6cWppLVFkYk9JelNRV1V0NjdpanluRXdoQWU3dXVIaG1DQTR4X2lMYTNFaWFTaTJLaGJFYzlHd2tPZDQwQkdhQmdhSUxiSlhFTXF0VDBEYTRPSnFPNnpUcEJ3QQ?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a478247a222b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-06T18:57:17Z",
 "bank": "Fed",
 "speaker": "Daly",
@@ -9,7 +93,9 @@
 "src": "Kitco",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"SRN News"
+],
 "desc": "",
 "id": "c1bfd247990d",
 "score": null,
@@ -52,7 +138,8 @@
 "also": [
 "Bloomberg.com",
 "Quartz",
-"Investing.com"
+"Investing.com",
+"richtv.io"
 ],
 "desc": "",
 "id": "c91662134153",
@@ -180,7 +267,8 @@
 "tone": "hawk",
 "also": [
 "investingLive central banks",
-"Breakingthenews.net"
+"Breakingthenews.net",
+"Forex Factory"
 ],
 "desc": "The Fed’s Daly spoke on CNBC about the jobs report, wages and inflation. Job report good news Wage growth isn’t booming Real wages are falling Feel hopeful when think about American workforce On inflation, would like confidence to be higher High inflation for too long inflation has to be number 1 priority. Strong labor market gives Fed latitude to get job done on inflation. Rate hike was right move, also good to be on hold at last meeting. Uncertainty and tariffs, war, AI, but inflation is more stubborn than would like. Will have to tighten policy further. Prepared to raise rates if it is call",
 "id": "b9b107a12e57",
@@ -197,6 +285,26 @@
 "rr": "A dove endorsing further tightening right after strong payrolls supports the December hike that is largely priced and leans against early-2027 cut pricing; modest upward pressure on the front end. Only news paraphrases were available.",
 "ev": "TV interview",
 "basis": "reports"
+},
+{
+"t": "2026-11-06T17:05:35Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB: Spain’s de Cos and the Netherlands’ Knot in the running to succeed Lagarde: who are the two contenders?",
+"url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTndxTy12eHBSX2xGQUFNSl9OZ2xiUkdkcnQ5cng5bFFoZnFzdnA1cnYwdFo5enlzUnRaSEJqWVNxNEw2UWY5MG1uS0N1OGdUTlRpZWFiNER0cXNncElWd0ZpZ3JMcEstcHFjVGNLcS14WS1uMDVPZnZrNDZLTUhhY1lfYVdSSVVaUEdtSEtpZ01TZWNYdjlkOXZtRnhVWUlGQXlobUphMTkyTFpGUGM3ZWJrNjh2TEQzeDRvUklYaEZPR18wV3pIT1VGZDM2MVZa?oc=5",
+"src": "Il Sole 24 ORE",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c7c43721806d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-06T16:06:32Z",
@@ -299,7 +407,9 @@
 "src": "IndexBox",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"UA.NEWS"
+],
 "desc": "",
 "id": "aabe9592876b",
 "score": null,
@@ -508,7 +618,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "ced0d1ed9bc3",
 "score": 3,
@@ -626,7 +738,9 @@
 "San Luis Obispo Tribune",
 "Idaho Statesman",
 "The Lufkin Daily News",
-"The Daily News | Texas' Oldest Newspaper"
+"The Daily News | Texas' Oldest Newspaper",
+"Tacoma News Tribune",
+"The State"
 ],
 "desc": "",
 "id": "990f9fffcb78",
@@ -945,7 +1059,8 @@
 "tone": "hawk",
 "also": [
 "Pluang",
-"Briefs Finance"
+"Briefs Finance",
+"www.tokenpost.com"
 ],
 "desc": "",
 "id": "c125026b916e",

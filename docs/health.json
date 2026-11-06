@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T20:50:34Z",
+ "built": "2026-11-06T23:27:16Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 6,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Solid Jobs Report Leaves Inflation, Markets to Settle Fed\u2019s December Call",
     "Conflicting numbers complicate Fed's monetary policy decisions",
+    "Volatile jobs, inflation data should temper Fed's actions, expert says",
     "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
     "San Francisco Fed president on jobs report: This is good news for American workers",
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
+    "Strong jobs report keeps Fed focus squarely on inflation",
     "Robert Krol: Aging population complicates Fed's monetary policy",
-    "White House Delays Hearing on Fed Governor",
-    "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
-    "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "Watch BofA\u2019s Cabana Says It\u2019s Premature to Call End to Fed\u2019s Hiking Cycle"
+    "Volatile jobs, inflation data should temper Fed's actions, expert says",
+    "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually"
    ]
   },
   {
@@ -76,18 +76,18 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 82,
-   "kept": 39,
+   "fetched": 85,
+   "kept": 44,
    "added": 8,
    "error": "",
    "near_misses": [
-    "Fed seen sticking to December rate hike after jobs data",
-    "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
+    "Fed policymakers consider rate hike after strong jobs report",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
     "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
     "Interrogating confusion at the Fed",
+    "Hammack Says Dollar Remains World\u2019s Leading Reserve Currency",
     "Fed will vote on rates less often. What that could mean for borrowers",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
+   "fetched": 75,
    "kept": 27,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
-    "Knot and De Cos Are the Only Two Candidates for ECB President",
-    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
     "Statement by the Eurogroup President on the nominations for the post of ECB President",
+    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
+    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
+    "Knot and De Cos Are the Only Two Candidates for ECB President",
     "Dutch and Spanish candidates will vie to succeed Lagarde as ECB chief",
     "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
     "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
-    "Candidates to follow Lagarde as ECB president named as Hern\u00e1ndez de Cos, Knot",
-    "Spain and Netherlands put forward candidates to succeed ECB president Lagarde"
+    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
+    "Candidates to follow Lagarde as ECB president named as Hern\u00e1ndez de Cos, Knot"
    ]
   },
   {
@@ -120,13 +120,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Eyes Data Before December Rate Decision",
     "ECB flags AI valuations, bond stress and fund losses as main risks",
+    "Knot and De Cos Are the Only Two Candidates for ECB President",
     "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
     "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone"
    ]
@@ -137,20 +138,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 4,
-   "added": 0,
+   "kept": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Bank of England\u2019s timely Brexit intervention is right on the money",
+    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
+    "Bank of England raises rates for first time since 2023, says more may come",
     "The art of predicting the Bank of England\u2019s main policy rate",
     "Bank of England raises base interest rates to 4%",
-    "Bank of England raises rates for first time since 2023, says more may come",
     "Bank of England Raises Rates for First Time in Three Years",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
     "Bank of England Raises Rates for First Time Since Start of Iran War",
-    "Bank of England raises rates for first time since 2023, warns more likely",
-    "US Midterms Came Too Late to Prevent Bank of England Rate Hike"
+    "Bank of England raises rates for first time since 2023, warns more likely"
    ]
   },
   {
@@ -158,15 +159,15 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 13,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada keeps 2 per cent inflation target in mandate renewal",
+    "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada Governor Says The Rate Hike Isn't Trying to Restrain Demand",
+    "Bank of Canada keeps 2 per cent inflation target in mandate renewal",
     "Bank of Canada keeps 2% inflation target in mandate renewal",
-    "Bank of England raises rates for first time since 2023, signals more may come",
     "Bank of Canada Governor Tiff Macklem before the Senate committee today to discuss economic conditions",
     "Bank of Canada Governor Says The Policy Rate at 2.50% Is Still on The 'Stimulative Side'",
     "Canadian dollar holds firm near seven-week peak ahead of Macklem speech"
@@ -177,14 +178,13 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 12,
    "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Swiss National Bank chairman says bank's policy has been effective",
     "SNB chairman sees no sign of broadening inflationary pressure",
-    "SNB watches for second-round Swiss inflation effects as December rate hike bets build",
     "Schlegel: Transmission and conduct of monetary policy in Switzerland"
    ]
   },
