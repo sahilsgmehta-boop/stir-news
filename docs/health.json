@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T23:42:46Z",
+ "built": "2026-11-06T03:42:14Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,20 +59,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
-   "kept": 31,
-   "added": 3,
+   "fetched": 69,
+   "kept": 35,
+   "added": 4,
    "error": "",
    "near_misses": [
     "White House Delays Hearing on Fed Governor",
-    "The Fed\u2019s New Inflation Warning Will Add Thousands to Families\u2019 Already Soaring Bills",
+    "Democrats Secure Congressional Majorities, Reshaping Fed Appointment Dynamics",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Election stiffens the Fed's guardrails, but independence risks remain",
     "BPI Comments on Derivatives Valuation in Fed\u2019s Regulation O Proposal",
+    "The Fed\u2019s New Inflation Warning Will Add Thousands to Families\u2019 Already Soaring Bills",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Why Gold crashed below $4,000 \u2014 And what the Fed\u2019s rate pause means for Gold and Silver [Video]",
     "Watch BofA\u2019s Cabana Says It\u2019s Premature to Call End to Fed\u2019s Hiking Cycle",
-    "Election stiffens the Fed's guardrails, but independence risks remain",
     "Election stiffens the Fed's guardrails, but independence risks remain"
    ]
   },
@@ -81,9 +81,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 25,
-   "added": 7,
+   "fetched": 61,
+   "kept": 23,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
@@ -94,8 +94,8 @@
     "Fed will vote on rates less often. What that could mean for borrowers",
     "Federal Reserve is cutting the number of annual rate-setting votes",
     "Democrats' big win gives Fed a respite from Trump's wrath",
-    "Fed policymakers make case for further interest rate hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -103,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 27,
+   "fetched": 66,
+   "kept": 26,
    "added": 0,
    "error": "",
    "near_misses": [
     "Spare a thought for monetary policy in the ECB jobs race",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
-    "Exclusive with European Central Bank President Christine Lagarde",
     "The views of the frontrunners to succeed Lagarde at the ECB",
+    "Exclusive with European Central Bank President Christine Lagarde",
     "Euro zone wage growth to rebound slightly next year, ECB says",
     "ECB chief urges eurozone to adapt faster to climate change",
     "ECB Succession Race Accelerates as EU Leaders Target December Choice for Lagarde Replacement",
-    "ECB: Christine Lagarde\u2019s departure reshuffles the deck",
-    "Exclusive with European Central Bank President Christine Lagarde",
-    "ECB: the post-Lagarde era begins on 9 November"
+    "ECB: the post-Lagarde era begins on 9 November",
+    "Netherlands nominate Klaas Knot to succeed ECB president Lagarde",
+    "Klaas Knot in race to succeed Christine Lagarde at ECB"
    ]
   },
   {
@@ -125,18 +125,19 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 11,
+   "fetched": 27,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "EU leaders aim to appoint new ECB chief in December, official says",
-    "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone",
     "Spare a thought for monetary policy in the ECB jobs race",
+    "Eurogroup calls for ECB presidency nominations by Nov 6",
     "Euro-Zone Wage Growth to Slow Sharply Next Year in Boost for ECB",
     "Euro: ECB rate hike bets support gains against US Dollar - Scotiabank",
     "Euro gains against US Dollar as ECB rate hike bets lend support - Scotiabank",
     "Euro area: Stagflation risks and ECB path \u2013 Standard Chartered",
+    "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone",
     "The Netherlands announces Klaas Knot\u2019s candidacy to lead the ECB; the deadline for proposals is November 6"
    ]
   },
@@ -145,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 2,
-   "added": 0,
+   "fetched": 99,
+   "kept": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of England raises rates for first time since 2023, warns more likely",
     "Bank of England Raises Rates for First Time in Three Years",
-    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
-    "Bank of England raises rates for first time since 2023, warns more likely",
-    "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
-    "Bank of England Rate Hike to 4%: Two Forces for Gold Owners",
+    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
+    "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "Bank of England Raises Rates for First Time Since Start of Iran War",
-    "BoE leaves door open to further rate rises amid fears of entrenched inflation",
-    "Bank of England raises rates for first time since 2023, says more may come"
+    "Bank of England Rate Hike to 4%: Two Forces for Gold Owners",
+    "The Bank of England hiked interest rates and warned inflation could hit around 5%",
+    "Bank of England raises rates for first time since 2023, says more may come",
+    "Bank of England policymakers set out views on rates outlook"
    ]
   },
   {
@@ -167,19 +168,19 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
-    "Bank of Canada Governor Says The Rate Hike Isn't Trying to Restrain Demand",
     "Bank of Canada keeps 2 per cent inflation target in mandate renewal",
+    "Bank of Canada Governor Says The Rate Hike Isn't Trying to Restrain Demand",
     "Bank of Canada keeps 2% inflation target in mandate renewal",
     "Bank of Canada Governor Tiff Macklem before the Senate committee today to discuss economic conditions",
-    "Bank of England raises rates for first time since 2023, signals more may come",
+    "Bank of Canada Governor Says The Policy Rate at 2.50% Is Still on The 'Stimulative Side'",
     "Canadian dollar holds firm near seven-week peak ahead of Macklem speech",
     "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
+    "Bank of England raises rates for first time since 2023, signals more may come",
     "Canada: Macklem brandishes threat of further rate hikes",
     "Bank of Canada governor grilled by MPs over interest rate hike as fuel costs soar"
    ]
@@ -319,7 +320,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 6,
-   "added": 5,
+   "added": 4,
    "error": ""
   },
   {

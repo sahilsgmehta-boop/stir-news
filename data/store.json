@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-06T02:56:03Z",
+"bank": "Fed",
+"speaker": "Barkin",
+"hl": "Fed's Hammack and Barkin Back Gradual Rate Hikes, but AI Uncertainty Clouds Policy Outlook",
+"url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzYwTDQzbmQwZjgxTTI5Z191NHhIdzI5T0FUNzdJTVlBaEU1WXFEYndvRHNFUFdGTlR4X2lGd29yakJZeVZlZFRMamtoajR4T1RpNEdUbnljVVFzZy1PaTVxVzVha3NvNzlrMFlZdU4tcXBOYUd6MEZMZHAwVE44SzNza1hwNVd1ODVUb2RCZHhwTTNoeE5GWDU4dElRcUxYWEV2eFF4bWdQUlF2N3dmaHFsRnRQQU9DemRrN1ZiZnY5SXBpOVQ4LUJKX2NFd2RHcHZnYw?oc=5",
+"src": "Action Forex",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "901eca3b5911",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-05T23:18:43Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed Governor Cook’s Lawyer Demands Fair Hearing Before Trump‑Requested Review",
+"url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Wa3V2M01HU09sWXdYVUI4OXY5V0lUSVdUQTkybWNKZE9fako0X1lfWWtyTjhweHBfWHpUTlpDRFVNMzQ1d2dWdFF4WkxmNTl4WHB1b1FnOERiU1VETG9zUmN3?oc=5",
+"src": "Forth.News",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "8a6fcb52ad7b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-05T23:16:12Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -10,7 +50,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"marketscreener.com"
+"marketscreener.com",
+"San Luis Obispo Tribune"
 ],
 "desc": "",
 "id": "990f9fffcb78",
@@ -77,7 +118,8 @@
 "Bellingham Herald",
 "Central Oregon Daily",
 "The Daily News | Texas' Oldest Newspaper",
-"The Business Times"
+"The Business Times",
+"Wichita Eagle"
 ],
 "desc": "",
 "id": "10ce3f4e313a",
@@ -103,6 +145,26 @@
 "id": "1f3228fba41e",
 "score": 1,
 "read": "Says December will settle whether to hike; keeps the option open without committing.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-05T16:34:28Z",
+"bank": "BoE",
+"speaker": "Bailey",
+"hl": "BoE’s Bailey warns inflation risks tilted to the upside",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTlPVG9mOXlOc2wyMDdVbHVtbHF6MXZwMWlPZlFCVlpOd2lTMDFWbVZpdG9PcmxyOE1oeFBuM3ZVaTl1MUpXc0czdFZZeTR2Qk9lb3RCaGtDZzlnR09iUGtZU1d2YWlCcTYtY0k3dWY2WXQzdTlDbTEzSHBaVjdXUnhGQjROUUNmS0hXTHB2THljcFB6RUIzd2hYcEpZUQ?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4cc7a17cb601",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -510,7 +572,8 @@
 "Newsmax",
 "WTVB",
 "Kitco",
-"Yahoo Finance"
+"Yahoo Finance",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "27cc16273f92",
