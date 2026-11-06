@@ -3822,6 +3822,119 @@
    "lead": "ced0d1ed9bc3",
    "at": "2026-11-06T15:48:58Z",
    "by": "claude"
+  },
+  "b2a4493e2b4e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Supervisory remarks on bank cybersecurity; no monetary policy content.",
+   "sum": "Bowman flagged cybersecurity as a major concern for bankers, a supervisory message with no read-across to rates.",
+   "pts": [
+    "Called cybersecurity a major concern for bankers.",
+    "No comments on inflation, the economy or the rate path were reported."
+   ],
+   "rr": "No implication for December Fed pricing or the curve. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "b9b107a12e57": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Calls the jobs report good news; a solid labour market keeps the case for hikes intact.",
+   "sum": "Daly, usually a dove, said she expects the Fed will have to tighten further and is prepared to raise rates, with real-wage erosion the crux.",
+   "pts": [
+    "Expects the Fed will have to tighten policy further; exact timing and size still to be decided.",
+    "Said more is likely needed and she is prepared to do it if the economy calls for it.",
+    "Called the October payrolls report good news for workers.",
+    "Described the job market as stable and solid but not booming.",
+    "Said real wages are falling because pay is not keeping up with inflation, calling that the crux of the problem."
+   ],
+   "rr": "A dove endorsing further tightening right after strong payrolls supports the December hike that is largely priced and leans against early-2027 cut pricing; modest upward pressure on the front end. Only news paraphrases were available.",
+   "ev": "TV interview",
+   "basis": "reports",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "57e75345812e": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "A known dove says further tightening is expected and she is prepared to raise rates.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "3f2e8ee3d2ee": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Frames falling real wages as the inflation problem, backing the case for more tightening.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "61faf88f76c7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "b2901651b823": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Stresses persistent public concern about inflation, consistent with his call for further gradual hikes.",
+   "sum": "Musalem said people remain concerned about inflation at its current level, keeping the focus on upside price risks.",
+   "pts": [
+    "Said the public remains concerned about inflation at current levels.",
+    "The remark puts the emphasis on inflation over the labour market."
+   ],
+   "rr": "Adds mildly to support for the December hike priced after strong payrolls; no new signal on pace beyond that. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "50ac4d3adff4": {
+   "tone": "dove",
+   "score": -4,
+   "read": "Hawkish chief economist rules out a 2022-style cycle and says rates could hold or fall.",
+   "sum": "Pill said there will be no repeat of the 2022 hiking cycle, calling Thursday's hike preemptive and saying rates could hold or even fall if growth stalls.",
+   "pts": [
+    "Called the decision to raise rates preemptive, with limited evidence of second-round effects so far.",
+    "Sees pipeline pressure from energy prices; activity and employment adding to demand at the margin.",
+    "Said the MPC is not going to repeat the 2022 hiking cycle.",
+    "Nothing baked in for rates next year; outlook more uncertain from spring.",
+    "Bank Rate could stay on hold or even fall if growth stalls next year.",
+    "Key determinant is the margin squeeze on firms; watching pay bargaining, costs and pricing."
+   ],
+   "rr": "Leans against pricing of a further BoE hike after the move to 4%, and opens the door to 2027 cut pricing if growth weakens; supportive of a flatter, lower short-sterling strip. Only news paraphrases were available.",
+   "ev": "Post-decision remarks",
+   "basis": "reports",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "6c916179faf1": {
+   "tone": "dove",
+   "score": -5,
+   "read": "Says Bank Rate could stay on hold or even fall next year if growth stalls.",
+   "lead": "50ac4d3adff4",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
+  },
+  "99f5a4772f5d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Remarks on the ECB's role in the future of money; no rate signal.",
+   "sum": "Cipollone tied the ECB's public-interest role to the future of money, a payments and digital-euro theme rather than a monetary policy steer.",
+   "pts": [
+    "Linked the ECB's public-interest mandate to the future of money and payments.",
+    "No comments on inflation or the December decision were reported."
+   ],
+   "rr": "No implication for ECB December hike pricing or the curve. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-06T20:50:10Z",
+   "by": "claude"
   }
  }
 }
