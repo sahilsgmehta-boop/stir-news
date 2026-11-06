@@ -3814,6 +3814,14 @@
    "read": "Not a policy remark.",
    "at": "2026-11-06T11:56:32Z",
    "by": "claude"
+  },
+  "824f0e501437": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Expects tighter fiscal policy next year, a mild drag on demand; no direct rate steer.",
+   "lead": "ced0d1ed9bc3",
+   "at": "2026-11-06T15:48:58Z",
+   "by": "claude"
   }
  }
 }
