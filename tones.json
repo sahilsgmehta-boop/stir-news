@@ -3618,6 +3618,87 @@
    "read": "Not a policy remark.",
    "at": "2026-11-05T20:56:00Z",
    "by": "claude"
+  },
+  "901eca3b5911": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Recap of Barkin backing gradual further hikes alongside Hammack; supports more tightening.",
+   "lead": "c304356882fe",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
+  },
+  "627e74fe7d28": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Hammack keeps the door open to more hikes; consistent with her gradual-hike call.",
+   "lead": "35c8b8a24238",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
+  },
+  "8a6fcb52ad7b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
+  },
+  "990f9fffcb78": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
+  },
+  "4cc7a17cb601": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Bailey says inflation risks are tilted to the upside, backing scope for another hike.",
+   "lead": "cb11da91f400",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
+  },
+  "2e3bf72cb62d": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Lagarde says tools still needed to stop inflation running away; keeps December hike live.",
+   "lead": "b2a38cdd663b",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
+  },
+  "ecaaa42bb195": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "FT reads the first BoE hike in three years as a sharp hawkish shift in tone.",
+   "sum": "The FT reported the BoE left the door open to further rate rises after its first hike in three years, citing fears inflation becomes entrenched.",
+   "pts": [
+    "The BoE raised Bank Rate for the first time in three years.",
+    "The accompanying message was hawkish, a sharp change in tone for the Bank.",
+    "Guidance leaves the door open to further rate rises.",
+    "Concern centres on inflation becoming entrenched after the energy shock."
+   ],
+   "rr": "Supports pricing of at least one more BoE hike in the coming meetings and lifts the front end of the gilt curve. Only news paraphrases were available.",
+   "ev": "FT report on November MPC decision",
+   "basis": "reports",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
+  },
+  "d25d6f097548": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Renews the 2% target unchanged for 2027-31; continuity, slight emphasis on persistent supply shocks.",
+   "sum": "The Government and the Bank of Canada renewed the symmetric 2% inflation target, midpoint of a 1-3% range, for January 2027 to December 2031.",
+   "pts": [
+    "The target stays at 2%, the midpoint of the 1% to 3% control range.",
+    "Policy will continue to be conducted symmetrically around the target.",
+    "The Bank will keep using the framework's flexibility to respond to economic shocks.",
+    "It has strengthened analysis of how policy should respond when supply shocks are larger and more persistent than normal.",
+    "The framework references strong and stable labour market outcomes but sets no numerical employment goal."
+   ],
+   "rr": "No change to the near-term path: the framework is reaffirmed, so pricing for BoC hikes rests on data and Macklem's guidance. The supply-shock language fits his view that the energy shock can no longer be looked through.",
+   "ev": "Joint statement, Government of Canada and BoC",
+   "basis": "verbatim",
+   "at": "2026-11-06T06:56:23Z",
+   "by": "claude"
   }
  }
 }
