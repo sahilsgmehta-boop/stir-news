@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T03:42:14Z",
+ "built": "2026-11-06T06:56:49Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,20 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 69,
-   "kept": 35,
-   "added": 4,
+   "kept": 36,
+   "added": 2,
    "error": "",
    "near_misses": [
     "White House Delays Hearing on Fed Governor",
-    "Democrats Secure Congressional Majorities, Reshaping Fed Appointment Dynamics",
+    "BPI Comments on Derivatives Valuation in Fed\u2019s Regulation O Proposal",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
     "Election stiffens the Fed's guardrails, but independence risks remain",
-    "BPI Comments on Derivatives Valuation in Fed\u2019s Regulation O Proposal",
+    "Democrats Secure Congressional Majorities, Reshaping Fed Appointment Dynamics",
+    "Implications for the Fed's rate hike outlook! U.S. October non-farm payrolls data due tonight\u2014could it become the \"savior\" of U.S. stocks?",
     "The Fed\u2019s New Inflation Warning Will Add Thousands to Families\u2019 Already Soaring Bills",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Why Gold crashed below $4,000 \u2014 And what the Fed\u2019s rate pause means for Gold and Silver [Video]",
     "Watch BofA\u2019s Cabana Says It\u2019s Premature to Call End to Fed\u2019s Hiking Cycle",
-    "Election stiffens the Fed's guardrails, but independence risks remain"
+    "Why Gold crashed below $4,000 \u2014 And what the Fed\u2019s rate pause means for Gold and Silver [Video]",
+    "NFP to Test Fed\u2019s 2027 Rate Repricing as Dollar Holds Critical Support"
    ]
   },
   {
@@ -81,9 +81,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 23,
-   "added": 6,
+   "fetched": 63,
+   "kept": 25,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
@@ -104,20 +104,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 66,
-   "kept": 26,
-   "added": 0,
+   "kept": 28,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
     "Spare a thought for monetary policy in the ECB jobs race",
-    "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
-    "The views of the frontrunners to succeed Lagarde at the ECB",
-    "Exclusive with European Central Bank President Christine Lagarde",
     "Euro zone wage growth to rebound slightly next year, ECB says",
     "ECB chief urges eurozone to adapt faster to climate change",
     "ECB Succession Race Accelerates as EU Leaders Target December Choice for Lagarde Replacement",
+    "Exclusive with European Central Bank President Christine Lagarde",
     "ECB: the post-Lagarde era begins on 9 November",
     "Netherlands nominate Klaas Knot to succeed ECB president Lagarde",
-    "Klaas Knot in race to succeed Christine Lagarde at ECB"
+    "Klaas Knot in race to succeed Christine Lagarde at ECB",
+    "Eurozone Inflation Stayed Hot, At Twice The ECB\u2019s Target"
    ]
   },
   {
@@ -125,20 +125,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 9,
+   "fetched": 29,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "EU leaders aim to appoint new ECB chief in December, official says",
     "Spare a thought for monetary policy in the ECB jobs race",
-    "Eurogroup calls for ECB presidency nominations by Nov 6",
+    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
+    "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
     "Euro-Zone Wage Growth to Slow Sharply Next Year in Boost for ECB",
     "Euro: ECB rate hike bets support gains against US Dollar - Scotiabank",
     "Euro gains against US Dollar as ECB rate hike bets lend support - Scotiabank",
     "Euro area: Stagflation risks and ECB path \u2013 Standard Chartered",
-    "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone",
-    "The Netherlands announces Klaas Knot\u2019s candidacy to lead the ECB; the deadline for proposals is November 6"
+    "Eurogroup calls for ECB presidency nominations by Nov 6",
+    "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone"
    ]
   },
   {
@@ -146,21 +147,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 99,
-   "kept": 3,
-   "added": 1,
+   "fetched": 100,
+   "kept": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England raises rates for first time since 2023, warns more likely",
     "Bank of England Raises Rates for First Time in Three Years",
     "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
-    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-    "Bank of England Raises Rates for First Time Since Start of Iran War",
     "Bank of England Rate Hike to 4%: Two Forces for Gold Owners",
     "The Bank of England hiked interest rates and warned inflation could hit around 5%",
     "Bank of England raises rates for first time since 2023, says more may come",
-    "Bank of England policymakers set out views on rates outlook"
+    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
+    "Standard Chartered sees another BOE rate hike in February after hawkish tone",
+    "Traders eye further rate hikes after first BoE increase in three years"
    ]
   },
   {
@@ -168,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 22,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -178,9 +179,9 @@
     "Bank of Canada keeps 2% inflation target in mandate renewal",
     "Bank of Canada Governor Tiff Macklem before the Senate committee today to discuss economic conditions",
     "Bank of Canada Governor Says The Policy Rate at 2.50% Is Still on The 'Stimulative Side'",
-    "Canadian dollar holds firm near seven-week peak ahead of Macklem speech",
     "Bank of Canada governor tells committee federal spending is \u2018not really\u2019 adding to inflation",
     "Bank of England raises rates for first time since 2023, signals more may come",
+    "Canadian dollar holds firm near seven-week peak ahead of Macklem speech",
     "Canada: Macklem brandishes threat of further rate hikes",
     "Bank of Canada governor grilled by MPs over interest rate hike as fuel costs soar"
    ]
