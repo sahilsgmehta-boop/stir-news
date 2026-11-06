@@ -3699,6 +3699,121 @@
    "basis": "verbatim",
    "at": "2026-11-06T06:56:23Z",
    "by": "claude"
+  },
+  "a92c90e25418": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Sees time to gather more information, with wages and expectations consistent with 2%; no hike urgency.",
+   "sum": "Williams said US inflation is too high but expectations remain anchored and wage growth fits 2%, making this an appropriate time to gather more information.",
+   "pts": [
+    "Said inflation is \"absolutely too high\" and returning it to 2% in a timely, sustained way is essential.",
+    "Said inflation expectations remain well anchored and wage growth is consistent with the 2% goal.",
+    "Said energy is passing through to inflation as expected and tariff effects are mostly behind us.",
+    "Called the economy remarkably resilient and the labour market remarkably stable.",
+    "Gave no explicit guidance on December, saying it is an appropriate time to gather more information."
+   ],
+   "rr": "Contrasts with Hammack and Barkin's calls for gradual hikes; the New York Fed president leaves December data-dependent, tempering conviction in a December Fed hike. Only news paraphrases were available.",
+   "ev": "Remarks at an ECB conference (Frankfurt)",
+   "basis": "reports",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "48ed130e0e3e": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Wants to gather data before judging price risks, signalling patience on further hikes.",
+   "lead": "a92c90e25418",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "247d602d2836": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says inflation is too high and must return to 2%; rhetoric, not a hike signal.",
+   "lead": "a92c90e25418",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "ce9c5337d91a": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Inflation too high but no entrenchment in expectations or wages; leans patient.",
+   "lead": "a92c90e25418",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "ced0d1ed9bc3": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Flags energy inflation feeding into wage talks, a second-round risk backing the December hike case.",
+   "sum": "Lane said the ECB is gathering data ahead of its December decision and warned that energy inflation will influence wage negotiations.",
+   "pts": [
+    "Said the ECB is gathering data for its December rate decision, per reports.",
+    "Said energy inflation will influence upcoming wage negotiations.",
+    "No explicit commitment on a December hike was reported."
+   ],
+   "rr": "Keeps the December ECB hike live and highlights second-round wage risk, consistent with current hike pricing without adding to it much. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "96aec85f58a9": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Data-gathering for December; non-committal, validates rather than adds to hike pricing.",
+   "lead": "ced0d1ed9bc3",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "7f02a1271403": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "December data to decide on a hike while energy shock persists; keeps the option open.",
+   "lead": "b2a38cdd663b",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "372aee83e824": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls a December rise a strong possibility, reinforcing hike conviction.",
+   "lead": "d1528e9fa83e",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "fc3b7d296a7f": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "No significant second-round effects yet and no steer on December; conditional readiness only.",
+   "sum": "Schlegel said the rise in Swiss inflation is mostly energy, with no significant second-round effects so far, and declined to signal the SNB's next step.",
+   "pts": [
+    "Said most of the rise in inflation is currently due to energy prices.",
+    "Said no significant second-round effects have been seen so far, though they cannot be ruled out.",
+    "Said he cannot say what the SNB will do; the SNB would not hesitate to adjust policy if price stability were at risk.",
+    "Said the SNB is ready to buy foreign currency if needed; the policy rate remains the main tool.",
+    "Said the SNB would not shy away from reintroducing negative rates if required, though the bar is higher.",
+    "Saw signs that positive Swiss growth is continuing; December assessment will reassess."
+   ],
+   "rr": "Framing the inflation rise as energy-driven without second-round effects tempers bets on a December SNB hike from 0%; conditional readiness keeps it possible but not signalled.",
+   "ev": "Interview, Handelszeitung",
+   "basis": "verbatim",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "d59a6ed46131": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
+  },
+  "a96bc92127ad": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-06T11:56:32Z",
+   "by": "claude"
   }
  }
 }
