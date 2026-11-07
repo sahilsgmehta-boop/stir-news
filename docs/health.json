@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T10:24:44Z",
+ "built": "2026-11-07T11:49:07Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 61,
    "added": 0,
    "error": "",
    "near_misses": [
     "Conflicting numbers complicate Fed's monetary policy decisions",
     "Solid Jobs Report Leaves Inflation, Markets to Settle Fed\u2019s December Call",
+    "Robert Krol: Aging population complicates Fed's monetary policy",
     "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
     "San Francisco Fed president on jobs report: This is good news for American workers",
     "Volatile jobs, inflation data should temper Fed's actions, expert says",
-    "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "Volatile jobs, inflation data should temper Fed's actions, expert says",
+    "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "Strong jobs report keeps Fed focus squarely on inflation",
-    "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually"
+    "Cleveland Fed president says restrictive rates are needed to cool inflation"
    ]
   },
   {
@@ -98,9 +98,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
-   "kept": 26,
-   "added": 2,
+   "fetched": 71,
+   "kept": 25,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Statement by the Eurogroup President on the nominations for the post of ECB President",
@@ -108,10 +108,10 @@
     "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
     "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
+    "Two candidates emerge as ECB presidency nominations close",
     "Christine Lagarde leaves at a dangerous time for the European Central Bank",
     "Dutch and Spanish candidates will vie to succeed Lagarde as ECB chief",
     "\u2018She ticks a lot of boxes\u2019: Will Christine Lagarde take a shot at the French presidency?",
-    "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
     "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race"
    ]
   },
@@ -120,15 +120,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 9,
+   "fetched": 27,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Says It Will Watch Incoming Data Before December Rate Call",
     "Spare a thought for monetary policy in the ECB jobs race",
-    "Knot and De Cos Are the Only Two Candidates for ECB President",
     "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
+    "Knot and De Cos Are the Only Two Candidates for ECB President",
     "Spain and the Netherlands nominate candidates for ECB president \u2014 Politico Europe",
     "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
     "Eurogroup calls for ECB presidency nominations by Nov 6",
@@ -151,10 +151,10 @@
     "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
-    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
     "Bank of England raises base interest rates to 4%",
     "The art of predicting the Bank of England\u2019s main policy rate",
-    "Bank of England raises rates for first time since 2023 and warns more likely"
+    "Bank of England raises rates for first time since 2023 and warns more likely",
+    "Bank of England Unanimously Hikes Rates, Sees 4.9% Inflation"
    ]
   },
   {
@@ -162,8 +162,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 1,
+   "fetched": 13,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -184,7 +184,7 @@
    "ok": true,
    "fetched": 9,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Swiss National Bank chairman says bank's policy has been effective",
@@ -291,7 +291,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 25,
+   "added": 26,
    "error": ""
   },
   {
