@@ -3935,6 +3935,124 @@
    "basis": "reports",
    "at": "2026-11-06T20:50:10Z",
    "by": "claude"
+  },
+  "c33568f22959": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Trade and Brexit remarks on EU ties after the hike; no new rate signal.",
+   "sum": "Bailey backed closer UK ties with the EU, a structural trade and growth theme, in comments reported after the BoE raised rates to 4%.",
+   "pts": [
+    "Backed closer economic ties between the UK and the EU.",
+    "Came after the MPC raised Bank Rate to 4% this week.",
+    "No new guidance on the path of rates was reported."
+   ],
+   "rr": "No change to his conditional guidance that a second hike is more likely than not if the war goes on; neutral for SONIA pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "10aa28f17924": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "c7c43721806d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "20329b61f7ac": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Wants more information on inflation risks before deciding, signalling no hike urgency.",
+   "lead": "a92c90e25418",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "fbfbe34f8d04": {
+   "tone": "dove",
+   "score": -4,
+   "read": "Reported as backing a pause to gather more data, against hike pricing.",
+   "lead": "a92c90e25418",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "aabe9592876b": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says inflation is too high and must return to 2%; rhetoric, not a hike signal.",
+   "lead": "a92c90e25418",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "a478247a222b": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "A usual dove says the Fed probably needs more tightening as inflation stays high.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "3cc79aa7cc29": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Signals more hikes ahead after strong October payrolls.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "c1bfd247990d": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says a hike is likely even after a painful tech-stock slide; no market put.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "0b31a967be23": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says strong jobs data gives room to tighten policy further.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "c91662134153": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Warns of a 'treadmill of high inflation' and says more hikes are likely.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "6df3161f0261": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "More hikes likely, though timing is still open; firm tightening bias.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "4d2bdd666c15": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Full CNBC interview in which Daly says more rate hikes are likely.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
+  },
+  "68346590d46c": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says more rate increases are likely needed to tame prices.",
+   "lead": "b9b107a12e57",
+   "at": "2026-11-07T06:49:26Z",
+   "by": "claude"
   }
  }
 }
