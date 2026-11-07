@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T20:28:06Z",
+ "built": "2026-11-07T20:52:55Z",
  "sources": [
   {
    "id": "il_cb",
@@ -76,8 +76,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 90,
-   "kept": 48,
+   "fetched": 91,
+   "kept": 49,
    "added": 8,
    "error": "",
    "near_misses": [
@@ -98,9 +98,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 12,
-   "added": 1,
+   "fetched": 56,
+   "kept": 11,
+   "added": 0,
    "error": "",
    "near_misses": [
     "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
@@ -147,8 +147,8 @@
    "near_misses": [
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
     "Bank of England raises base interest rates to 4%",
-    "Bank of England raises rates for first time since 2023, warns another move likely",
     "The art of predicting the Bank of England\u2019s main policy rate",
+    "Bank of England raises rates for first time since 2023, warns another move likely",
     "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "AI accounts for nearly a fifth of UK growth in 2026, Bank of England finds",
     "Why did Pillar hint at a potential pivot in interest rates after the Bank of England's rate hike?",
