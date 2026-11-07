@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T20:52:55Z",
+ "built": "2026-11-07T23:53:08Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 86,
-   "kept": 47,
+   "fetched": 73,
+   "kept": 39,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Solid Jobs Report Leaves Inflation, Markets to Settle Fed\u2019s December Call",
-    "Conflicting numbers complicate Fed's monetary policy decisions",
     "Bank of America warns oil could force a Fed interest-rate rethink",
+    "Conflicting numbers complicate Fed's monetary policy decisions",
+    "Solid Jobs Report Leaves Inflation, Markets to Settle Fed\u2019s December Call",
     "Robert Krol: Aging population complicates Fed's monetary policy",
     "San Francisco Fed president on jobs report: This is good news for American workers",
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
-    "Volatile jobs, inflation data should temper Fed's actions, expert says",
-    "Robert Krol: Aging population complicates Fed's monetary policy",
-    "Strong jobs report keeps Fed focus squarely on inflation"
+    "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI",
+    "Strong jobs report keeps Fed focus squarely on inflation",
+    "Robert Krol: Aging population complicates Fed's monetary policy"
    ]
   },
   {
@@ -76,11 +76,12 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
+   "fetched": 92,
    "kept": 49,
    "added": 8,
    "error": "",
    "near_misses": [
+    "Kevin Warsh changed something the Fed has not touched in decades",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
     "Interrogating confusion at the Fed",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
@@ -89,8 +90,7 @@
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
     "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
     "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -98,19 +98,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 11,
+   "fetched": 49,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
     "Statement by the Eurogroup President on the nominations for the post of ECB President",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
-    "Lagarde can't guarantee December policy move",
     "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
+    "Lagarde can't guarantee December policy move",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
-    "Christine Lagarde leaves at a dangerous time for the European Central Bank",
     "\u2018She ticks a lot of boxes\u2019: Will Christine Lagarde take a shot at the French presidency?",
+    "Christine Lagarde leaves at a dangerous time for the European Central Bank",
     "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
     "Dutch and Spanish candidates will vie to succeed Lagarde as ECB chief"
    ]
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 46,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -148,13 +148,13 @@
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
     "Bank of England raises base interest rates to 4%",
     "The art of predicting the Bank of England\u2019s main policy rate",
-    "Bank of England raises rates for first time since 2023, warns another move likely",
+    "Bank of England raises rates for first time since 2023 and warns more likely",
     "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "AI accounts for nearly a fifth of UK growth in 2026, Bank of England finds",
     "Why did Pillar hint at a potential pivot in interest rates after the Bank of England's rate hike?",
-    "BoE boss warns Britain faces 3 more rate hikes - but rules out repeat of 2022",
     "Bank of England chief: Closer EU ties would benefit Britain",
-    "Bank of England hikes, but this is unlikely to be the start of a long tightening cycle"
+    "Bank of England hikes, but this is unlikely to be the start of a long tightening cycle",
+    "Closer ties with EU would boost UK economic growth, Bank of England governor says"
    ]
   },
   {
@@ -162,13 +162,15 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada keeps 2 per cent inflation target in mandate renewal",
-    "Bank of Canada keeps 2% inflation target in mandate renewal"
+    "Bank of Canada keeps 2% inflation target in mandate renewal",
+    "Bank of Canada keeps 2% inflation target in mandate renewal",
+    "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
+    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams"
    ]
   },
   {
@@ -180,7 +182,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Daily Financial Breakfast 5 November 2026: 4% as BoE Lifts Rates; Brent Drops Over 10% Following U.S. Elections"
+   ]
   },
   {
    "id": "ft_cb",
