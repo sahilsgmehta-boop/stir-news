@@ -4053,6 +4053,61 @@
    "lead": "b9b107a12e57",
    "at": "2026-11-07T06:49:26Z",
    "by": "claude"
+  },
+  "0b0e29964fa4": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Structural warning on fiscal dominance; no signal on the December decision or rate path.",
+   "sum": "Schnabel said fiscal stress must not be allowed to hijack ECB monetary policy, defending the bank’s independence from debt pressures.",
+   "pts": [
+    "Said fiscal stress must not hijack monetary policy, per the headline.",
+    "Echoes her 5 Nov speech warning that high public debt and non-banks risk tying the ECB’s hands.",
+    "No comment on the December decision or the path of rates was reported."
+   ],
+   "rr": "No direct bearing on the December hike already priced; reinforces that the ECB will not lean dovish to ease sovereign funding strains. Mildly supportive of spread risk premia rather than front-end pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-07T11:48:52Z",
+   "by": "claude"
+  },
+  "9c42c52014dd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-07T11:48:52Z",
+   "by": "claude"
+  },
+  "49c04e79db55": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Recap of the hike to 4% with Bailey signalling a further hike is likely if the war persists.",
+   "sum": "Report on the BoE raising Bank Rate to 4%, with Governor Bailey signalling more hikes may follow if the energy shock persists.",
+   "pts": [
+    "The BoE raised Bank Rate to 4%, per the headline.",
+    "Bailey signalled further hikes, per the headline.",
+    "Earlier reports had him saying a second hike is more likely than not if the war goes on."
+   ],
+   "rr": "Supports some pricing of a further 25bp BoE hike in the coming meetings, conditional on the war; adds no new guidance beyond the 5 Nov press conference. Only news paraphrases were available.",
+   "ev": "Report on November MPC decision",
+   "basis": "reports",
+   "at": "2026-11-07T11:48:52Z",
+   "by": "claude"
+  },
+  "11c90dff8d16": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Ties a December hike to new projections without pre-committing; in line with pricing.",
+   "lead": "b2a38cdd663b",
+   "at": "2026-11-07T11:48:52Z",
+   "by": "claude"
+  },
+  "f8196487d99d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Describes how the franc transmits rate moves; no signal on the policy path.",
+   "lead": "f000c3a0b19e",
+   "at": "2026-11-07T11:48:52Z",
+   "by": "claude"
   }
  }
 }
