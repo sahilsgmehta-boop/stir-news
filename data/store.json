@@ -85,6 +85,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-06T19:55:00Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "San Francisco Fed's Mary Daly signals more hikes ahead after strong October jobs data",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDl2RWJEeE1iUkRlMkkzTEtIQnpTd2Q5S2J4SkJnOU9LNl8wVnl1QmNFemxNS1p1SEM2aWl6cnRrRXdCaFlOMWduSVBQQVBTeklZQ25Rb2YxNXdmUjlaZVJKRU8wZjJLM0M5aVV0ckk2OXZReDFWTW9KUWNaSVRHMGVXVTcxYkt1bVV0ZmN0N0JLZw?oc=5",
+"src": "Briefs Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3cc79aa7cc29",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-06T18:57:17Z",
 "bank": "Fed",
 "speaker": "Daly",
@@ -94,7 +114,9 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"SRN News"
+"SRN News",
+"Reuters",
+"Investing.com"
 ],
 "desc": "",
 "id": "c1bfd247990d",
@@ -139,10 +161,32 @@
 "Bloomberg.com",
 "Quartz",
 "Investing.com",
-"richtv.io"
+"richtv.io",
+"Bloomberg Law News",
+"Rich Picks Daily"
 ],
 "desc": "",
 "id": "c91662134153",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-06T18:30:00Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "San Francisco Fed's Mary Daly says more rate hikes are likely, but timing is still up in the air",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVhCMWtTVXdPREZ5bUdpVmdHbk5kQkp3a3dwOHR2ZmctcXV3WG9IT2RKczU3UjJEUHcxSUVzV3dGeXVIUUZ6cXZLa2M5YXBTcmk3XzRfMXI2ckNSTDVORlNHQVA3SUJrckllendTZ3I3ZHNiSXhBODVKZ3p4UTQ1alZ4ckN3YnJvaXNJNHNFN290Zw?oc=5",
+"src": "Briefs Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6df3161f0261",
 "score": null,
 "read": "",
 "sum": "",
@@ -182,7 +226,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "68346590d46c",
 "score": null,
@@ -348,6 +394,26 @@
 "rr": "Adds mildly to support for the December hike priced after strong payrolls; no new signal on pace beyond that. Only news paraphrases were available.",
 "ev": "",
 "basis": "reports"
+},
+{
+"t": "2026-11-06T14:45:00Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "New York Fed's John Williams backs pause, says it is time to gather more data",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVF90YzVGUlNyczBLM09ULTJEbzRrTEdYLTJDUWhEQ0xZQVdETVFnYzhnNkpFRmZCWGkwVFpRbUc2d2Zna0tfbGNyVURNQUh2eURtejlsNHEwVERkXzdOVVNzSEkyYTUxbzZPTHk0QnhGeERpa2dPeWRFYk1fbEIxYWtMbzZnNGJTMEo0M2g2VzQ?oc=5",
+"src": "Briefs Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fbfbe34f8d04",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-06T13:05:08Z",
@@ -740,7 +806,10 @@
 "The Lufkin Daily News",
 "The Daily News | Texas' Oldest Newspaper",
 "Tacoma News Tribune",
-"The State"
+"The State",
+"Bellingham Herald",
+"Miami Herald",
+"Charlotte Observer"
 ],
 "desc": "",
 "id": "990f9fffcb78",
@@ -1919,7 +1988,8 @@
 "Reuters",
 "Newsmax",
 "Rich Picks Daily",
-"Just The News"
+"Just The News",
+"Red Lake Nation News"
 ],
 "desc": "",
 "id": "1eee020f1998",
