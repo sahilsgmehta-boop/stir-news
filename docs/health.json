@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T06:49:41Z",
+ "built": "2026-11-07T10:24:44Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,8 +67,8 @@
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "Volatile jobs, inflation data should temper Fed's actions, expert says",
     "Strong jobs report keeps Fed focus squarely on inflation",
-    "Robert Krol: Aging population complicates Fed's monetary policy",
-    "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'"
+    "Cleveland Fed president says restrictive rates are needed to cool inflation",
+    "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually"
    ]
   },
   {
@@ -76,18 +76,18 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 50,
-   "added": 8,
+   "fetched": 95,
+   "kept": 51,
+   "added": 9,
    "error": "",
    "near_misses": [
-    "Fed policymakers consider rate hike after strong jobs report",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
+    "Fed policymakers consider rate hike after strong jobs report",
     "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
     "Interrogating confusion at the Fed",
+    "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "Hammack Says Dollar Remains World\u2019s Leading Reserve Currency",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 25,
-   "added": 1,
+   "fetched": 74,
+   "kept": 26,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Statement by the Eurogroup President on the nominations for the post of ECB President",
-    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
+    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
     "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
+    "Christine Lagarde leaves at a dangerous time for the European Central Bank",
     "Dutch and Spanish candidates will vie to succeed Lagarde as ECB chief",
     "\u2018She ticks a lot of boxes\u2019: Will Christine Lagarde take a shot at the French presidency?",
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
-    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
-    "November 7, 2026: Jacob Fearnley vs Arthur Nagel: Set 1 Winner Tennis Prediction Market"
+    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race"
    ]
   },
   {
@@ -121,15 +121,16 @@
    "kind": "news",
    "ok": true,
    "fetched": 26,
-   "kept": 10,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Says It Will Watch Incoming Data Before December Rate Call",
     "Spare a thought for monetary policy in the ECB jobs race",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
-    "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
     "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
+    "Spain and the Netherlands nominate candidates for ECB president \u2014 Politico Europe",
+    "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
     "Eurogroup calls for ECB presidency nominations by Nov 6",
     "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone"
    ]
@@ -141,18 +142,18 @@
    "ok": true,
    "fetched": 100,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
     "Bank of England raises rates for first time since 2023, says more may come",
-    "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "Bank of England Raises Rates for First Time in Three Years",
-    "The art of predicting the Bank of England\u2019s main policy rate - LSE Business Review",
-    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
-    "Bank of England raises base interest rates to 4%",
+    "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
+    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
+    "Bank of England raises base interest rates to 4%",
+    "The art of predicting the Bank of England\u2019s main policy rate",
     "Bank of England raises rates for first time since 2023 and warns more likely"
    ]
   },
@@ -161,7 +162,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -181,9 +182,9 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
-   "kept": 6,
-   "added": 0,
+   "fetched": 9,
+   "kept": 4,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Swiss National Bank chairman says bank's policy has been effective",
