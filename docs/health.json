@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T16:36:16Z",
+ "built": "2026-11-07T20:28:06Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 51,
-   "added": 2,
+   "fetched": 86,
+   "kept": 47,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "Conflicting numbers complicate Fed's monetary policy decisions",
     "Solid Jobs Report Leaves Inflation, Markets to Settle Fed\u2019s December Call",
+    "Conflicting numbers complicate Fed's monetary policy decisions",
     "Bank of America warns oil could force a Fed interest-rate rethink",
     "Robert Krol: Aging population complicates Fed's monetary policy",
     "San Francisco Fed president on jobs report: This is good news for American workers",
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
-    "Volatile jobs, inflation data should temper Fed's actions, expert says",
-    "Volatile jobs, inflation data should temper Fed's actions, expert says",
     "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
-    "Robert Krol: Aging population complicates Fed's monetary policy"
+    "Volatile jobs, inflation data should temper Fed's actions, expert says",
+    "Robert Krol: Aging population complicates Fed's monetary policy",
+    "Strong jobs report keeps Fed focus squarely on inflation"
    ]
   },
   {
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 50,
+   "fetched": 90,
+   "kept": 48,
    "added": 8,
    "error": "",
    "near_misses": [
+    "Cleveland Fed president says restrictive rates are needed to cool inflation",
     "Interrogating confusion at the Fed",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "Fed policymakers consider rate hike after strong jobs report",
     "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
+    "Fed policymakers consider rate hike after strong jobs report",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
-    "Hammack Says Dollar Remains World\u2019s Leading Reserve Currency",
+    "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
+    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -98,9 +98,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
-   "kept": 20,
-   "added": 3,
+   "fetched": 57,
+   "kept": 12,
+   "added": 1,
    "error": "",
    "near_misses": [
     "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
@@ -109,9 +109,9 @@
     "Lagarde can't guarantee December policy move",
     "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
-    "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
-    "\u2018She ticks a lot of boxes\u2019: Will Christine Lagarde take a shot at the French presidency?",
     "Christine Lagarde leaves at a dangerous time for the European Central Bank",
+    "\u2018She ticks a lot of boxes\u2019: Will Christine Lagarde take a shot at the French presidency?",
+    "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
     "Dutch and Spanish candidates will vie to succeed Lagarde as ECB chief"
    ]
   },
@@ -125,15 +125,14 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Says It Will Watch Incoming Data Before December Rate Call",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
+    "ECB Says It Will Watch Incoming Data Before December Rate Call",
     "Spain and the Netherlands nominate candidates for ECB president \u2014 Politico Europe",
-    "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
     "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
+    "Digital Euro and New Euro Banknotes: ECB Sets Timeline Through 2029",
     "The Netherlands and Spain announce their candidates for the ECB presidency",
     "Eurogroup calls for ECB presidency nominations by Nov 6",
-    "Expansion | Spain formalizes the candidacy of Hern\u00e1ndez de Cos to chair the ECB",
-    "Bank of Albania governor Sejko meets European Central Bank Executive Board member Cipollone"
+    "Expansion | Spain formalizes the candidacy of Hern\u00e1ndez de Cos to chair the ECB"
    ]
   },
   {
@@ -141,21 +140,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
-   "kept": 6,
+   "fetched": 48,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
-    "Bank of England raises rates for first time since 2023, warns more likely",
-    "Bank of England welcomes energy price falls since US midterms after first hike in nearly 3 years",
-    "The Bank of England\u2019s timely Brexit intervention is right on the money",
+    "Bank of England raises base interest rates to 4%",
+    "Bank of England raises rates for first time since 2023, warns another move likely",
     "The art of predicting the Bank of England\u2019s main policy rate",
-    "Bank of England raises rates for first time since 2023 and warns more likely",
-    "Bank of England Rate Hike to 4%: Two Forces for Gold Owners",
-    "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
+    "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "AI accounts for nearly a fifth of UK growth in 2026, Bank of England finds",
-    "BoE leaves door open to further rate rises amid fears of entrenched inflation"
+    "Why did Pillar hint at a potential pivot in interest rates after the Bank of England's rate hike?",
+    "BoE boss warns Britain faces 3 more rate hikes - but rules out repeat of 2022",
+    "Bank of England chief: Closer EU ties would benefit Britain",
+    "Bank of England hikes, but this is unlikely to be the start of a long tightening cycle"
    ]
   },
   {
@@ -163,17 +162,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Governor Says The Rate Hike Isn't Trying to Restrain Demand",
     "Bank of Canada keeps 2 per cent inflation target in mandate renewal",
-    "Bank of Canada keeps 2% inflation target in mandate renewal",
-    "Bank of Canada Governor Tiff Macklem before the Senate committee today to discuss economic conditions",
-    "Bank of Canada Governor Says The Policy Rate at 2.50% Is Still on The 'Stimulative Side'",
-    "Bank of Canada Governor Macklem Speaking at Senate Committee Hearing"
+    "Bank of Canada keeps 2% inflation target in mandate renewal"
    ]
   },
   {
@@ -185,10 +180,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "SNB chairman sees no sign of broadening inflationary pressure",
-    "Daily Financial Breakfast 5 November 2026: 4% as BoE Lifts Rates; Brent Drops Over 10% Following U.S. Elections"
-   ]
+   "near_misses": []
   },
   {
    "id": "ft_cb",
@@ -219,7 +211,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 9,
-   "added": 2,
+   "added": 3,
    "error": ""
   },
   {
@@ -259,7 +251,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {

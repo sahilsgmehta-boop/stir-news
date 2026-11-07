@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-07T16:51:20Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde: inflation will remain high over the coming quarters",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1FHaWkwSTJMSkZjTk9RUldzS0FweHRSNUY0ZVdaX0l5OHpkR3pGRnhxemMzZnNrejFwdFdEdnZHM0d1OXU4ZVRNdzFPZEN1ajQxT3Z6alFsWVhYaFFFVUxKakdPNVd4c3g5NTlZRG1MNUVVR1FFSWNPUzlhYXVobFF6eXBXWnNCY0FJbDk1VjI4eXpOT2lpUHpuZU42T3hPVDNN?oc=5",
+"src": "Il Sole 24 ORE",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "860fc2429b71",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-07T16:17:46Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -9,7 +29,9 @@
 "src": "Investing.com Canada",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo! Finance Canada"
+],
 "desc": "",
 "id": "ae4585b4c15a",
 "score": null,
@@ -289,7 +311,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "0b31a967be23",
 "score": 5,
@@ -892,7 +916,8 @@
 "tone": "dove",
 "also": [
 "FXStreet",
-"investingLive"
+"investingLive",
+"www.tmgm.com"
 ],
 "desc": "US economy remarkably resilient Growth has strengthened US facing unusual supply and demand shocks Remarkably stable and solid labour market We've seen tariffs effect work way through, mostly behind us Energy passing through to inflation as expected Inflation expectations well anchored Wage growth consistent with 2% goal This is appropriate time to gather more info New York Fed President John Williams highlighted the resilience of the US economy while signalling that the Federal Reserve can afford to take time to assess incoming data before making further policy decisions. Williams said econom",
 "id": "a92c90e25418",
@@ -1014,7 +1039,8 @@
 "also": [
 "Wichita Eagle",
 "marketscreener.com",
-"The Business Times"
+"The Business Times",
+"RTE.ie"
 ],
 "desc": "",
 "id": "7f02a1271403",
