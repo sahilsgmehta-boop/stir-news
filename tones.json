@@ -4171,6 +4171,28 @@
    "lead": "71240352f25b",
    "at": "2026-11-08T06:48:14Z",
    "by": "claude"
+  },
+  "be6aa9d920cc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-08T15:48:38Z",
+   "by": "claude"
+  },
+  "2cb5b363fa0f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-08T15:48:38Z",
+   "by": "claude"
+  },
+  "429a7bcb2ca0": {
+   "tone": "dove",
+   "score": -5,
+   "read": "Pill says rates could be cut if growth stalls, pushing back on further BoE hike pricing.",
+   "lead": "50ac4d3adff4",
+   "at": "2026-11-08T15:48:38Z",
+   "by": "claude"
   }
  }
 }
