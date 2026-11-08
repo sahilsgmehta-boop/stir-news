@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-07T19:30:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde flags sticky inflation ahead as ECB weighs December move",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk4tMlZFLVVZNWd1X0FlelpWbEhjY18walNzUktvX0RMLVJ5MjgwOFJsd1RGUUFMM1hySU5vRnRuUXpJVU5UaHlKbHJ3NmhCcUl1YVB4cHpWeGJFZ0xncHpOaUJrREg0aXNHY1ZvS0c5MWZRcVU2VUVqSVZTbE5uVm14bk5Zalp0Q0FpNTZWeVg?oc=5",
+"src": "Briefs Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6f6dc9939f03",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-07T16:51:20Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -9,7 +29,9 @@
 "src": "Il Sole 24 ORE",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Sada Elbalad English"
+],
 "desc": "",
 "id": "860fc2429b71",
 "score": 3,
