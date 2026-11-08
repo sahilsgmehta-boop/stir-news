@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T20:49:32Z",
+ "built": "2026-11-08T21:56:39Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,9 +54,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 14,
-   "added": 2,
+   "fetched": 33,
+   "kept": 11,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed\u2019s $6.75 Trillion Balance Sheet Is Growing Again \u2014 Should Americans Be Worried?",
@@ -66,9 +66,9 @@
     "Conflicting numbers complicate Fed's monetary policy decisions",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
     "Volatile jobs, inflation data should temper Fed's actions, expert says",
+    "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
     "Bank of America warns oil could force a Fed interest-rate rethink",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
-    "Volatile jobs, inflation data should temper Fed's actions, expert says"
+    "Robert Krol: Aging population complicates Fed's monetary policy"
    ]
   },
   {
@@ -83,8 +83,8 @@
    "near_misses": [
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "Fed policymakers consider rate hike after strong jobs report",
     "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
+    "Fed policymakers consider rate hike after strong jobs report",
     "Kevin Warsh changed something the Fed has not touched in decades",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
     "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 10,
+   "fetched": 27,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -119,7 +119,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 14,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -127,13 +127,13 @@
     "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
     "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot",
-    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
     "The Eurogroup assesses this Monday Hern\u00e1ndez de Cos and Knot to replace Lagarde at the ECB",
     "Daily Financial Breakfast 6 November 2026: 4% Rate as BoE Hikes; Fed's Williams Describes Inflation as Too High",
     "Flexibility for Italy, the ECB and the tobacco industry: the three hot-button issues on the agenda in Brussels",
     "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
+    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
     "Eurozone Seeks Christine Lagarde\u2019s Successor at the ECB \u1409 News from Fakti.bg - World",
-    "Central Banking Veterans Knot, De Cos In Race To Replace Lagarde At ECB"
+    "Spain and the Netherlands in the race for the ECB leadership \u1409 News from Fakti.bg - Business"
    ]
   },
   {
@@ -142,20 +142,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 21,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
     "Will my mortgage go up after the Bank of England rate rise? Trackers and variable rates first",
-    "AI accounts for nearly a fifth of UK growth in 2026, Bank of England finds",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "BoE boss warns Britain faces 3 more rate hikes - but rules out repeat of 2022",
-    "Bank of England raises interest rate a quarter point",
     "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
     "Bank of England raises interest rate to 4% as inflation risks mount",
     "BBC expert \u00a31,000 warning to savers after Bank of England decision",
-    "Bank of England hikes rates to 4% as inflation fears mount"
+    "BoE boss warns Britain faces 3 more rate hikes - but rules out repeat of 2022",
+    "Bank of England raises interest rate a quarter point",
+    "Bank of England hikes rates to 4% as inflation fears mount",
+    "Bank of England lifts rate for first time since 2023 to fight inflation"
    ]
   },
   {
