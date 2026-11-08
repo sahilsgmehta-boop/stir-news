@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T12:14:35Z",
+ "built": "2026-11-08T15:48:52Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,12 +54,12 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 38,
-   "added": 0,
+   "fetched": 61,
+   "kept": 34,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Solid Jobs Report Leaves Inflation, Markets to Settle Fed\u2019s December Call",
+    "Week Ahead: Fed's Focus On The 'Accumulation Of Information' Takes Thunder From CPI",
     "Conflicting numbers complicate Fed's monetary policy decisions",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "San Francisco Fed president on jobs report: This is good news for American workers",
@@ -67,8 +67,8 @@
     "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
     "Bank of America warns oil could force a Fed interest-rate rethink",
     "Election stiffens Fed's guardrails, but independence risks remain",
-    "Strong jobs report keeps Fed focus squarely on inflation",
-    "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI"
+    "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI",
+    "Robert Krol: Aging population complicates Fed's monetary policy"
    ]
   },
   {
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 47,
+   "fetched": 83,
+   "kept": 42,
    "added": 6,
    "error": "",
    "near_misses": [
-    "Kevin Warsh changed something the Fed has not touched in decades",
-    "Cleveland Fed president says restrictive rates are needed to cool inflation",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Cleveland Fed president says restrictive rates are needed to cool inflation",
+    "Kevin Warsh changed something the Fed has not touched in decades",
     "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
     "Fed policymakers consider rate hike after strong jobs report",
-    "Interrogating confusion at the Fed",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
     "December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets",
-    "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
-    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams"
+    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 45,
    "kept": 11,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
+    "EUR/USD Clings to Support as Lagarde Announces Early Departure",
     "Statement by the Eurogroup President on the nominations for the post of ECB President",
+    "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
     "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
-    "Lagarde can't guarantee December policy move",
     "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
-    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
     "Dutch and Spanish candidates will vie to succeed Lagarde as ECB chief",
-    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB"
+    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
+    "Lagarde can't guarantee December policy move"
    ]
   },
   {
@@ -120,21 +120,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 7,
-   "added": 1,
+   "fetched": 20,
+   "kept": 6,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Knot and De Cos Are the Only Two Candidates for ECB President",
     "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
-    "ECB Says It Will Watch Incoming Data Before December Rate Call",
     "Spain and the Netherlands battle over ECB presidency",
-    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
     "Spain and the Netherlands nominate candidates for ECB president \u2014 Politico Europe",
     "The Netherlands and Spain announce their candidates for the ECB presidency",
+    "The Eurogroup assesses this Monday Hern\u00e1ndez de Cos and Knot to replace Lagarde at the ECB",
     "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
-    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams"
+    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
+    "Daily Financial Breakfast 6 November 2026: 4% Rate as BoE Hikes; Fed's Williams Describes Inflation as Too High"
    ]
   },
   {
@@ -142,21 +142,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 9,
-   "added": 1,
+   "fetched": 23,
+   "kept": 5,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
     "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "Will my mortgage go up after the Bank of England rate rise? Trackers and variable rates first",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "Why did Pillar hint at a potential pivot in interest rates after the Bank of England's rate hike?",
-    "Bank of England chief: Closer EU ties would benefit Britain",
-    "Closer ties with EU would boost UK economic growth, Bank of England governor says",
-    "Bank of England chief speaks of benefit of 'closer EU ties' in rare comment",
-    "Projected UK Interest Rates in 5 Years: Bank of England Raises Rates in November",
-    "Bank of England Raises Interest Rates to 4% as Iran Conflict Threatens to Push Inflation Towards 5%"
+    "AI accounts for nearly a fifth of UK growth in 2026, Bank of England finds",
+    "Bank of England Raises Interest Rates to 4% as Iran Conflict Threatens to Push Inflation Towards 5%",
+    "BoE boss warns Britain faces 3 more rate hikes - but rules out repeat of 2022",
+    "Bank of England raises interest rate a quarter point",
+    "Bank of England raises interest rates, signals further hikes",
+    "GBP/USD Price Forecast \u2014 Pound ($1.3356) Slides 0.7% as 165K US Payrolls Overpower BoE Hike to 4% \u2014 1.3250 Target in Focus"
    ]
   },
   {
@@ -275,7 +275,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 5,
+   "added": 6,
    "error": ""
   },
   {
@@ -285,7 +285,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 26,
+   "added": 27,
    "error": ""
   },
   {
@@ -315,7 +315,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 7,
-   "added": 4,
+   "added": 5,
    "error": ""
   },
   {
