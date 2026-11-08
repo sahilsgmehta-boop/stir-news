@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T05:49:50Z",
+ "built": "2026-11-08T06:48:29Z",
  "sources": [
   {
    "id": "il_cb",
@@ -76,9 +76,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 50,
-   "added": 8,
+   "fetched": 93,
+   "kept": 51,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Kevin Warsh changed something the Fed has not touched in decades",
@@ -100,7 +100,7 @@
    "ok": true,
    "fetched": 55,
    "kept": 14,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
@@ -111,8 +111,8 @@
     "\u2018She ticks a lot of boxes\u2019: Will Christine Lagarde take a shot at the French presidency?",
     "\u2018I cannot remain neutral\u2019: Lagarde explains early ECB departure",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
-    "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
-    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race"
+    "ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race",
+    "Dutch and Spanish candidates will vie to succeed Lagarde as ECB chief"
    ]
   },
   {
@@ -120,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -139,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 40,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -161,7 +161,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
