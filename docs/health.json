@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T17:58:01Z",
+ "built": "2026-11-08T20:49:32Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,9 +54,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 29,
-   "added": 0,
+   "fetched": 36,
+   "kept": 14,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed\u2019s $6.75 Trillion Balance Sheet Is Growing Again \u2014 Should Americans Be Worried?",
@@ -65,10 +65,10 @@
     "Fed holds interest rates steady as inflation hits 3-year high",
     "Conflicting numbers complicate Fed's monetary policy decisions",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
-    "San Francisco Fed president on jobs report: This is good news for American workers",
     "Volatile jobs, inflation data should temper Fed's actions, expert says",
     "Bank of America warns oil could force a Fed interest-rate rethink",
-    "Election stiffens Fed's guardrails, but independence risks remain"
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
+    "Volatile jobs, inflation data should temper Fed's actions, expert says"
    ]
   },
   {
@@ -76,20 +76,20 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 80,
+   "fetched": 79,
    "kept": 40,
    "added": 6,
    "error": "",
    "near_misses": [
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "Kevin Warsh changed something the Fed has not touched in decades",
     "Fed policymakers consider rate hike after strong jobs report",
     "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
+    "Kevin Warsh changed something the Fed has not touched in decades",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
-    "December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets",
     "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
@@ -98,15 +98,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 12,
-   "added": 2,
+   "fetched": 29,
+   "kept": 10,
+   "added": 0,
    "error": "",
    "near_misses": [
     "EUR/USD Clings to Support as Lagarde Announces Early Departure",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
-    "Spain, Netherlands nominate candidates to succeed Lagarde as ECB chief",
     "Lagarde can't guarantee December policy move",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
     "Christine Lagarde leaves at a dangerous time for the European Central Bank",
@@ -120,20 +119,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 5,
-   "added": 1,
+   "fetched": 16,
+   "kept": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
     "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot",
-    "The Eurogroup assesses this Monday Hern\u00e1ndez de Cos and Knot to replace Lagarde at the ECB",
-    "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
     "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
+    "The Eurogroup assesses this Monday Hern\u00e1ndez de Cos and Knot to replace Lagarde at the ECB",
     "Daily Financial Breakfast 6 November 2026: 4% Rate as BoE Hikes; Fed's Williams Describes Inflation as Too High",
+    "Flexibility for Italy, the ECB and the tobacco industry: the three hot-button issues on the agenda in Brussels",
+    "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
     "Eurozone Seeks Christine Lagarde\u2019s Successor at the ECB \u1409 News from Fakti.bg - World",
-    "Spain and the Netherlands in the race for the ECB leadership \u1409 News from Fakti.bg - Business"
+    "Central Banking Veterans Knot, De Cos In Race To Replace Lagarde At ECB"
    ]
   },
   {
@@ -141,21 +141,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 3,
+   "fetched": 21,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
-    "The Bank of England\u2019s timely Brexit intervention is right on the money",
     "Will my mortgage go up after the Bank of England rate rise? Trackers and variable rates first",
     "AI accounts for nearly a fifth of UK growth in 2026, Bank of England finds",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "FTSE 100 Falls to 10,673.94 as the AI Sell-Off Hits London Amid a Bank of England Rate Hike and Housing Slump",
-    "Bank of England Raises Interest Rates to 4% as Iran Conflict Threatens to Push Inflation Towards 5%",
     "BoE boss warns Britain faces 3 more rate hikes - but rules out repeat of 2022",
     "Bank of England raises interest rate a quarter point",
-    "Bank of England raises interest rates, signals further hikes"
+    "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
+    "Bank of England raises interest rate to 4% as inflation risks mount",
+    "BBC expert \u00a31,000 warning to savers after Bank of England decision",
+    "Bank of England hikes rates to 4% as inflation fears mount"
    ]
   },
   {
@@ -163,7 +163,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -179,7 +179,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 5,
+   "fetched": 3,
    "kept": 0,
    "added": 0,
    "error": "",
