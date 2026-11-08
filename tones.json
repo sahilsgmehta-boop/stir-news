@@ -4193,6 +4193,55 @@
    "lead": "50ac4d3adff4",
    "at": "2026-11-08T15:48:38Z",
    "by": "claude"
+  },
+  "38a9a92c1fb8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Climate-resilience blog on insurance and grid investment; nothing on inflation or the rate path.",
+   "sum": "Lagarde used a blog ahead of COP31 to urge Europe to prepare for the financial fallout of climate shocks after a scorching summer.",
+   "pts": [
+    "Said only about a quarter of European catastrophe losses have historically been insured and urged more climate insurance.",
+    "Said Europe must proactively prepare and be better protected against the financial fallout.",
+    "Called for power-grid investment, citing research that each euro spent saves more than 2 euros in system costs.",
+    "Backed better energy storage and faster grid connection for firms with their own generation and batteries.",
+    "Said much of the investment must come from the private sector; no ECB financing role mentioned."
+   ],
+   "rr": "No bearing on December ECB pricing; structural climate and energy theme rather than a policy signal. Only news paraphrases were available.",
+   "ev": "ECB blog ahead of COP31",
+   "basis": "reports",
+   "at": "2026-11-08T20:49:20Z",
+   "by": "claude"
+  },
+  "c60ceab99746": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recap of an Oct 28 press-conference line; no new guidance on the rate path.",
+   "sum": "A recap of Warsh's Oct 28 press-conference remark that interest rates reach almost everything, including AI investment; no new policy signal.",
+   "pts": [
+    "Said 'interest rates get in the cracks' and affect almost everything, directly or indirectly.",
+    "Was sceptical that AI investment is insensitive to interest rates.",
+    "Said investors have been discriminating between investments since early September, with wider spreads for some assets.",
+    "Declined to give guidance on a December move."
+   ],
+   "rr": "Old material; leaves December hike pricing unchanged. Implies tightening is transmitting through the AI capex channel rather than signalling more or less tightening. Only news paraphrases were available.",
+   "ev": "Recap of FOMC press conference (28 Oct)",
+   "basis": "reports",
+   "at": "2026-11-08T20:49:20Z",
+   "by": "claude"
+  },
+  "8b3682384474": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-08T20:49:20Z",
+   "by": "claude"
+  },
+  "9ea61d11cb4b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-08T20:49:20Z",
+   "by": "claude"
   }
  }
 }
