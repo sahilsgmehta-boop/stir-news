@@ -4163,6 +4163,14 @@
    "read": "Not a policy remark.",
    "at": "2026-11-07T20:52:41Z",
    "by": "claude"
+  },
+  "6f6dc9939f03": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Recap of the Yomiuri interview: sticky inflation ahead, December still open; adds nothing new.",
+   "lead": "71240352f25b",
+   "at": "2026-11-08T06:48:14Z",
+   "by": "claude"
   }
  }
 }
