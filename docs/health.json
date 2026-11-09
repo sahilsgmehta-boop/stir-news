@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T21:56:39Z",
+ "built": "2026-11-09T01:37:58Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 11,
-   "added": 0,
+   "kept": 12,
+   "added": 1,
    "error": ""
   },
   {
@@ -20,7 +20,9 @@
    "kept": 2,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain"
+   ]
   },
   {
    "id": "cnbc",
@@ -54,21 +56,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 11,
+   "fetched": 30,
+   "kept": 10,
    "added": 1,
    "error": "",
    "near_misses": [
     "The Fed\u2019s $6.75 Trillion Balance Sheet Is Growing Again \u2014 Should Americans Be Worried?",
     "The Fed\u2019s $6.75 Trillion Balance Sheet Is Growing Again \u2014 Should Americans Be Worried?",
+    "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
     "Week Ahead: Fed's Focus On The 'Accumulation Of Information' Takes Thunder From CPI",
-    "Fed holds interest rates steady as inflation hits 3-year high",
-    "Conflicting numbers complicate Fed's monetary policy decisions",
-    "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
-    "Volatile jobs, inflation data should temper Fed's actions, expert says",
-    "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
+    "Federal Reserve raises interest rates for the 1st time since 2023",
     "Bank of America warns oil could force a Fed interest-rate rethink",
-    "Robert Krol: Aging population complicates Fed's monetary policy"
+    "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
+    "Robert Krol: Aging population complicates Fed's monetary policy",
+    "AI investment boom tests Fed's ability to balance growth and inflation",
+    "Will the Fed raise interest rates this year? Divided economists weigh in"
    ]
   },
   {
@@ -76,15 +78,15 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 79,
-   "kept": 40,
+   "fetched": 77,
+   "kept": 39,
    "added": 6,
    "error": "",
    "near_misses": [
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Cleveland Fed president says restrictive rates are needed to cool inflation",
-    "Richmond Fed president said more interest rate hikes are coming \u2014 but gradually",
     "Fed policymakers consider rate hike after strong jobs report",
+    "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "Kevin Warsh changed something the Fed has not touched in decades",
     "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
     "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
@@ -98,20 +100,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 9,
-   "added": 0,
+   "fetched": 29,
+   "kept": 11,
+   "added": 1,
    "error": "",
    "near_misses": [
     "EUR/USD Clings to Support as Lagarde Announces Early Departure",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
-    "Lagarde can't guarantee December policy move",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
+    "Lagarde can't guarantee December policy move",
     "Christine Lagarde leaves at a dangerous time for the European Central Bank",
-    "November 7, 2026: Jacob Fearnley vs Arthur Nagel: Set 1 Winner Tennis Prediction Market",
-    "Lagarde\u2019s poor timing and the challenges facing whoever takes the helm at the ECB",
-    "ECB: Knot and de Cos face off for the post-Lagarde era. Berlin remains an unknown quantity. And Italy is playing for time"
+    "Dutchman, Spaniard vie for ECB presidency",
+    "ECB says inflation likely to stay high in near future",
+    "Lagarde\u2019s poor timing and the challenges facing whoever takes the helm at the ECB"
    ]
   },
   {
@@ -119,18 +121,17 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 12,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
+    "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
     "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot",
-    "The Eurogroup assesses this Monday Hern\u00e1ndez de Cos and Knot to replace Lagarde at the ECB",
-    "Daily Financial Breakfast 6 November 2026: 4% Rate as BoE Hikes; Fed's Williams Describes Inflation as Too High",
-    "Flexibility for Italy, the ECB and the tobacco industry: the three hot-button issues on the agenda in Brussels",
     "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
+    "Dutchman, Spaniard vie for ECB presidency",
+    "The Eurogroup assesses this Monday Hern\u00e1ndez de Cos and Knot to replace Lagarde at the ECB",
     "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
     "Eurozone Seeks Christine Lagarde\u2019s Successor at the ECB \u1409 News from Fakti.bg - World",
     "Spain and the Netherlands in the race for the ECB leadership \u1409 News from Fakti.bg - Business"
@@ -141,19 +142,16 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 0,
-   "added": 0,
+   "fetched": 17,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Xenofontos: BOE\u2019s Insurance Rate Hike Leaves Room for Another One, Warns Against More",
+    "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
     "Will my mortgage go up after the Bank of England rate rise? Trackers and variable rates first",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
-    "Bank of England raises interest rate to 4% as inflation risks mount",
-    "BBC expert \u00a31,000 warning to savers after Bank of England decision",
     "BoE boss warns Britain faces 3 more rate hikes - but rules out repeat of 2022",
-    "Bank of England raises interest rate a quarter point",
     "Bank of England hikes rates to 4% as inflation fears mount",
     "Bank of England lifts rate for first time since 2023 to fight inflation"
    ]
@@ -163,15 +161,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
-    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams",
-    "Daily Financial Breakfast 6 November 2026: 4% Rate as BoE Hikes; Fed's Williams Describes Inflation as Too High"
+    "Daily Financial Breakfast 6 November 2026: BoE's Rate Reaches 4% After Hike; Inflation Too High, Says Fed's Williams"
    ]
   },
   {
@@ -179,7 +175,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 3,
+   "fetched": 2,
    "kept": 0,
    "added": 0,
    "error": "",
