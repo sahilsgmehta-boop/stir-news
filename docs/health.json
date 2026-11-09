@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T19:13:25Z",
+ "built": "2026-11-09T20:54:46Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 12,
-   "added": 2,
+   "added": 0,
    "error": ""
   },
   {
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 23,
-   "added": 12,
+   "fetched": 48,
+   "kept": 25,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
@@ -72,7 +72,7 @@
     "Week Ahead: Fed's Focus On The 'Accumulation Of Information' Takes Thunder From CPI",
     "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI",
     "AI investment boom tests Fed's ability to balance growth and inflation",
-    "CPI Preview: The Fed\u2019s 0.3% Rate Hike Trigger for Inflation"
+    "Mystery swirls over Trump's secret calls with Fed chair: \u2018Do what you want\u2019"
    ]
   },
   {
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 82,
-   "kept": 41,
-   "added": 9,
+   "fetched": 83,
+   "kept": 42,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed policymakers consider rate hike after strong jobs report",
+    "Fed officials on watch for overheating demand as they weigh interest rate path",
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
+    "St. Louis Fed chief says 10% nationwide staff reduction is nearly done",
     "Kevin Warsh changed something the Fed has not touched in decades",
-    "Strong jobs report keeps Fed focus squarely on inflation",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Federal Reserve holds interest rates steady as Trump\u2019s new chairman faces fresh inflation woes"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -104,15 +104,15 @@
    "ok": true,
    "fetched": 43,
    "kept": 5,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "E.U. ministers are pushing for a December deal on ECB's next president",
+    "Watch Euro-Zone Officials Meet to Discuss Lagarde Succession Plan",
     "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
     "Video. Spanish minister builds case for Madrid's candidate to replace Lagarde",
-    "EUR/USD Clings to Support as Lagarde Announces Early Departure",
     "Eurogroup hails 'excellent' ECB president candidates",
-    "Watch Euro-Zone Officials Meet to Discuss Lagarde Succession Plan",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
     "Eurozone ministers weigh two-horse race to succeed Lagarde at the ECB",
     "Spanish minister Cuerpo builds case for Madrid's candidate to replace Lagarde at the ECB",
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "No escape: the ECB board\u2019s climate and nature challenge",
-    "Eurogroup hails 'excellent' ECB president candidates",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
+    "E.U. ministers are pushing for a December deal on ECB's next president",
+    "Eurogroup hails 'excellent' ECB president candidates",
+    "First EU Talks on ECB Chief Loom as Knot and De Cos Speak Out",
+    "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
     "Dutchman and Spaniard in two-horse race for ECB presidency",
     "EU wants new ECB chief by end of year as race begins to replace Lagarde",
     "Ireland not planning to nominate candidate to replace Philip Lane on ECB board",
-    "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot",
-    "E.U. ministers are pushing for a December deal on ECB's next president",
-    "First EU Talks on ECB Chief Loom as Knot and De Cos Speak Out",
-    "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis"
+    "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot"
    ]
   },
   {
@@ -146,9 +146,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 22,
    "kept": 3,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss",
@@ -156,8 +156,7 @@
     "FCA picks Bank of England veteran as new comms director",
     "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
     "The Week Ahead: Bank of England takes a tougher stance as global risks grow",
-    "Will my mortgage go up after the Bank of England rate rise? Trackers and variable rates first",
-    "Bank of England raises rates for first time since 2023, warns another move likely",
+    "GBP/USD Price Forecast: Pound at 1.3423 After BoE Hike to 4%",
     "Bank of England hikes rates to 4% as inflation fears mount"
    ]
   },
@@ -171,6 +170,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada designates RTR as a prominent payment system",
     "Jobs miss pushes Bank of Canada hike bets down to 35%",
     "Bond market scales back bets for Bank of Canada rate hikes"
    ]
@@ -285,7 +285,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 27,
+   "added": 26,
    "error": ""
   },
   {
