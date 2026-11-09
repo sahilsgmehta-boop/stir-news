@@ -4327,6 +4327,225 @@
    "basis": "reports",
    "at": "2026-11-09T06:51:45Z",
    "by": "claude"
+  },
+  "d711e0f1de0e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "fba40b284b55": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "00fba5dab2a0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "5a53e7e51da4": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Inflation to stay high, but second-round effects no worse than expected; no added urgency.",
+   "sum": "Lagarde said euro-area inflation will stay high, but the ECB sees no more second-round effects than it had anticipated.",
+   "pts": [
+    "Warned that inflation will remain high in the euro area.",
+    "Said second-round effects are no greater than the ECB had anticipated.",
+    "Echoes her weekend Yomiuri interview; no new December signal was reported."
+   ],
+   "rr": "Keeps a December ECB hike live without adding urgency; contained second-round effects argue against pricing more than one further move. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "9b90e7d4dcb8": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Says employment and growth are stable, leaving the focus on inflation.",
+   "sum": "Goolsbee said services inflation is picking up beyond tariffs and AI data-center demand looks like old-fashioned overheating, urging the Fed to address its inflation failure.",
+   "pts": [
+    "Said employment and growth are actually pretty stable.",
+    "Sees inflation starting to kick up in services, beyond tariff pressure.",
+    "Described the AI data-center boom as old-fashioned demand overheating, akin to a demand shock.",
+    "Said consumer spending has been the main driver of growth.",
+    "Said officials must address the failure to get inflation back to target, per Bloomberg's headline."
+   ],
+   "rr": "Backs the roughly 84% priced for a December hike and leans toward more tightening in 2027, but adds little since pricing is already there. Non-voter in 2026. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "ae2989072acf": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Sees services inflation kicking up and data-center demand overheating; backs December hike pricing.",
+   "lead": "9b90e7d4dcb8",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "46971327c606": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warns services inflation now goes beyond tariffs, so not a one-off price shock.",
+   "lead": "9b90e7d4dcb8",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "fd9f6505ac3d": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls the AI data-center boom old-fashioned demand overheating and flags inflation risk.",
+   "lead": "9b90e7d4dcb8",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "068c224fa99c": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Treats AI spending as a demand shock, which argues for tighter policy.",
+   "lead": "9b90e7d4dcb8",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "e9c7e63fe688": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says officials must address the inflation failure, leaning toward more tightening.",
+   "lead": "9b90e7d4dcb8",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "66fd081aaecf": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Hearing broad-based cost pressures from firms; stresses upside inflation risk.",
+   "sum": "Barkin called inflation the greatest risk and said rates may sit slightly below neutral, but urged moving with care and offered no base case for December.",
+   "pts": [
+    "Hearing reports of broad-based cost pressures from businesses.",
+    "Said inflation is the greatest risk and the policy direction is clear, but the Fed should move with care.",
+    "Sees the policy rate around or slightly below neutral.",
+    "Has no base case for the December meeting.",
+    "Called the jobs report healthy, though firms still describe a low-hire, low-fire economy.",
+    "Does not think ballot measures will stop data-center construction."
+   ],
+   "rr": "Mixed for December: no endorsement of the ~84% priced hike. But calling policy slightly below neutral suggests 2027 tightening could exceed the ~50bp priced, a mild hawkish tilt further out. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "95539ef7037e": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Urges a careful approach to policy moves; no push for faster hikes.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "668df4445fb9": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Direction of policy is clear but wants to move with care.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "9d603cfe077b": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Calls inflation the greatest risk, yet still wants careful, measured moves.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "1c721c40640c": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Sees policy around or slightly below neutral, implying room for more hikes than priced.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "001fe80a7ebe": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "No base case for December; withholds support from the heavily priced hike.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "1ad7ef402614": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Wants the inflation fight balanced against job risks; tempers hike urgency.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "501ea11168d4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Rates near neutral and no December signal; adds little to pricing.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "1114217bd630": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says more rate hikes are likely, backing the December hike and further tightening.",
+   "sum": "Daly said more Fed rate hikes are likely, per a trade-press headline; no detail on timing or venue was available.",
+   "pts": [
+    "Said further rate hikes are likely, according to the headline.",
+    "In October she said more tightening depends on whether AI, tariff and energy shocks persist.",
+    "The story may recycle earlier remarks; no new event was reported."
+   ],
+   "rr": "Consistent with the December hike priced and some further tightening in 2027; adds little if it repeats earlier remarks. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "162729de8472": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Lecture on central bank independence; no reported signal on Bank Rate.",
+   "sum": "Bailey's Zurich lecture defended central bank independence, while remarks reported alongside flagged AI-driven cyber risk and backed new trade opportunities with the EU.",
+   "pts": [
+    "Lecture theme: central bank independence in today's world.",
+    "Said AI has increased the risk of cyber attacks.",
+    "Backed trade opportunities as the government pursues a new EU deal.",
+    "No comment on the path of Bank Rate was reported."
+   ],
+   "rr": "No new signal for the next MPC decision; leaves the three further BoE hikes priced untouched. The Bank's text could not be read. Only news paraphrases were available.",
+   "ev": "Speech, SIAF Lecture Series, University of Zurich",
+   "basis": "reports",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "4c81e5c26899": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability remark on AI cyber risk; no rates signal.",
+   "lead": "162729de8472",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
+  },
+  "8448a88956d6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comment on trade and an EU deal; no rates signal.",
+   "lead": "162729de8472",
+   "at": "2026-11-09T20:54:31Z",
+   "by": "claude"
   }
  }
 }
