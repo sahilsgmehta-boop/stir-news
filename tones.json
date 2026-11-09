@@ -4242,6 +4242,91 @@
    "read": "Not a policy remark.",
    "at": "2026-11-08T20:49:20Z",
    "by": "claude"
+  },
+  "241b9ed578d6": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Lagarde hints at a December hike, leaning into tightening rather than pushing back.",
+   "at": "2026-11-09T06:51:45Z",
+   "by": "claude",
+   "lead": "71240352f25b"
+  },
+  "58c1e32ff2f1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-09T06:51:45Z",
+   "by": "claude"
+  },
+  "d6d2b4f94840": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Notes rates now affect tech investment; descriptive, no steer on the next move.",
+   "sum": "Warsh said he had doubted rates would affect AI and tech investment but now sees higher rates having an effect there.",
+   "pts": [
+    "Was sceptical that interest rates would affect AI investment.",
+    "Now sees rates having an effect and says they matter for new technology.",
+    "No comment reported on the next policy move."
+   ],
+   "rr": "Neutral for December pricing; suggests the Fed sees tightening reaching tech capex, without signalling more or less of it. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T06:51:45Z",
+   "by": "claude"
+  },
+  "b0c606c12564": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Repeats Friday's line that inflation is too high for too long; no new steer.",
+   "sum": "Williams repeated that inflation has stayed too high for too long, echoing his Frankfurt remarks without adding guidance on the next move.",
+   "pts": [
+    "Inflation has been too high for too long.",
+    "Restates the need to return inflation to 2%.",
+    "No new guidance on December beyond Friday's remarks."
+   ],
+   "rr": "Adds nothing to December hike pricing; a recycled message from his 6 November remarks. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T06:51:45Z",
+   "by": "claude"
+  },
+  "03ef243f2689": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recycled Goolsbee comment from seven weeks ago; no fresh signal.",
+   "sum": "A seven-week-old Goolsbee remark that inflation is the economy's biggest problem resurfaced; there is no new comment.",
+   "pts": [
+    "Remark dates from about seven weeks ago, per the source.",
+    "Called inflation the economy's biggest problem."
+   ],
+   "rr": "No market read; stale comment with no bearing on current Fed pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T06:51:45Z",
+   "by": "claude"
+  },
+  "f56c7cd9afac": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-09T06:51:45Z",
+   "by": "claude"
+  },
+  "e35c7f935e28": {
+   "tone": "dove",
+   "score": -5,
+   "read": "Pill again flags cuts if growth stalls, pushing back on further BoE hike pricing.",
+   "sum": "Pill's message resurfaced that Bank Rate could be cut next year if UK growth stalls, after the pre-emptive hike to 4%.",
+   "pts": [
+    "Sees scope for rate cuts if UK growth stalls.",
+    "Restates that there is no repeat of the 2022 hiking cycle.",
+    "No predetermined path for rates next year."
+   ],
+   "rr": "Leans against the further BoE hikes priced into 2027; supports a shallower path and front-end gilts. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-09T06:51:45Z",
+   "by": "claude"
   }
  }
 }
