@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T06:52:18Z",
+ "built": "2026-11-09T08:42:21Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 8,
+   "fetched": 26,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,11 +67,11 @@
     "Week Ahead: Fed's Focus On The 'Accumulation Of Information' Takes Thunder From CPI",
     "U.S. Inflation at 3.7% Keeps the Fed\u2019s Next Move in Focus",
     "Bank of America warns oil could force a Fed interest-rate rethink",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Robert Krol: Aging population complicates Fed's monetary policy",
     "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
+    "AI investment boom tests Fed's ability to balance growth and inflation",
     "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI",
-    "AI investment boom tests Fed's ability to balance growth and inflation"
+    "NZ dollar holds below 73 US cts as Fed chair Powell testimony comes into focus"
    ]
   },
   {
@@ -101,20 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 30,
    "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "EUR/USD Clings to Support as Lagarde Announces Early Departure",
+    "Eurogroup discusses Lagarde's successor",
     "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Lagarde can't guarantee December policy move",
+    "Spain's economy minister: optimistic de Cos can get ECB's top job",
+    "Eurogroup Discusses Lagarde\u2019s Successor",
     "Knot and De Cos Are the Only Two Candidates for ECB President",
-    "Christine Lagarde leaves at a dangerous time for the European Central Bank",
+    "Lagarde can't guarantee December policy move",
     "Dutchman, Spaniard vie for ECB presidency",
-    "ECB says inflation likely to stay high in near future",
-    "England Cricket In Crisis: Why 2027 could be ECB's toughest year? No India tour, ICC payment cut, here's all you need to know"
+    "ECB says inflation likely to stay high in near future"
    ]
   },
   {
@@ -122,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 13,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -131,8 +132,8 @@
     "Knot and De Cos Are the Only Two Candidates for ECB President",
     "Week Ahead: U.S., China, India Inflation Reports; China\u2019s Singles\u2019 Day; COP31; ASEAN Summit; BoJ SOO and BoC Minutes; U.K. GDP",
     "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot",
+    "First EU Talks on ECB Chief Loom as Knot and De Cos Speak Out",
     "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
-    "Flexibility for Italy, the ECB and the tobacco industry: the three hot-button issues on the agenda in Brussels",
     "Dutchman, Spaniard vie for ECB presidency",
     "The Eurogroup assesses this Monday Hern\u00e1ndez de Cos and Knot to replace Lagarde at the ECB"
    ]
@@ -142,7 +143,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 15,
    "kept": 1,
    "added": 0,
    "error": "",
