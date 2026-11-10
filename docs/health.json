@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T15:54:41Z",
+ "built": "2026-11-10T17:40:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 12,
-   "added": 0,
+   "kept": 13,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
-   "added": 1,
+   "kept": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
     "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink"
@@ -46,7 +46,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 10,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -57,20 +57,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
-   "added": 6,
+   "kept": 62,
+   "added": 10,
    "error": "",
    "near_misses": [
-    "The stock market is doing some of the Fed's dirty work",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "Consumer prices rose 0.4% in October, more than expected, complicating Fed\u2019s inflation fight",
+    "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
+    "The stock market is doing some of the Fed's dirty work",
     "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
     "The countdown to the Fed\u2019s next move",
+    "Dallas Fed President Signals More Rate Hikes; Impact on DAL Stoc",
     "Fed Governor Says a Half-point Hike May Be Needed If Oct. CPI Is Hot",
     "CRE's Lending War Rages On After The Fed's Hike, But A $19B Refi Gap Looms",
-    "US dollar steadies as Fed governor calls for more rate hikes",
-    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
-    "What will flip the US Dollar's trajectory as inflation cools toward the Fed's 2% target in 2027?",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
+    "US dollar steadies as Fed governor calls for more rate hikes"
    ]
   },
   {
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
-   "kept": 52,
-   "added": 6,
+   "fetched": 99,
+   "kept": 55,
+   "added": 8,
    "error": "",
    "near_misses": [
+    "Inflation remained elevated in October, cementing a Fed rate increase",
     "Top Federal Reserve official considers largest rate rise since 2022",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
+    "Fed officials open door to a half-point hike after inflation beats expectations",
     "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
     "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
-    "Will the Fed raise interest rates in December? A hike looks likely after hot CPI, but isn't decided",
-    "Top Fed official backs December interest rate hike",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers"
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
+    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
+    "Fed needs at least 2 more quarter-point rate hikes: Dallas Fed chief",
+    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
+    "Fed may consider half-point hike after core CPI rises"
    ]
   },
   {
@@ -100,17 +100,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 12,
-   "added": 1,
+   "fetched": 62,
+   "kept": 14,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Once Christine Lagarde goes, ECB can focus on economics over politics",
     "EU joins Ukraine peace talks as race to replace Lagarde heats up",
+    "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "Video. EU joins Ukraine peace talks as race to replace Lagarde heats up",
     "E.U. ministers are pushing for a December deal on ECB's next president",
@@ -122,12 +122,11 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 11,
+   "fetched": 19,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
-    "French appointment as ECB chief economist would be justified, says Bank of France governor",
     "New ECB board needs more women, Austrian central bank chief says",
     "Ireland not planning to nominate candidate to replace Philip Lane on ECB board",
     "Ireland won\u2019t nominate candidate to replace Philip Lane on ECB board"
@@ -138,21 +137,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 13,
-   "added": 8,
+   "fetched": 37,
+   "kept": 15,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "The Bank of England Will Have to Grapple With Crude Economics",
     "Bank of England policymaker refuses to rule out back-to-back rate rises",
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England: Britain\u2019s young people suffer from hiring slowdown \u2014 The Guardian",
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss",
-    "Bailey warns AI may not \u2018live up\u2019 to market hype",
+    "Mortgage lenders hike variable rates for some after Bank of England base rate decision \u2013 check if yours is changing",
     "\u2018Burnham\u2019s 10-year vision is impossible without reforming the Bank of England\u2019s mandate\u2019",
-    "FCA picks Bank of England veteran as new comms director",
+    "Bailey warns AI may not \u2018live up\u2019 to market hype",
     "Bank of England and Treasury Reduce Asset Purchase Facility Ceiling to \u00a3482.4 Billion",
-    "Bank of England Asset Purchase Facility Limit Cut to \u00a3482.4 Billion",
-    "Healey lowers Bank of England gilt portfolio limit by \u00a342.5bn to \u00a3482.4bn"
+    "Bank of England Asset Purchase Facility Limit Cut to \u00a3482.4 Billion"
    ]
   },
   {
@@ -187,11 +186,10 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 8,
-   "added": 0,
+   "kept": 9,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Top Federal Reserve official considers largest rate rise since 2022",
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
     "Bank of England raises interest rates to 4% in bid to tame inflation",
     "October inflation in the Eurozone keeps ECB on course for another tightening",
@@ -239,8 +237,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 100,
-   "kept": 74,
-   "added": 70,
+   "kept": 75,
+   "added": 71,
    "error": ""
   },
   {
@@ -249,8 +247,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 6,
-   "added": 0,
+   "kept": 7,
+   "added": 1,
    "error": ""
   },
   {
@@ -280,7 +278,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 26,
+   "added": 25,
    "error": ""
   },
   {
@@ -320,7 +318,7 @@
    "ok": true,
    "fetched": 20,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -330,7 +328,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 7,
-   "added": 1,
+   "added": 0,
    "error": ""
   }
  ]
