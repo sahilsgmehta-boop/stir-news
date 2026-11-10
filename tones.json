@@ -4601,6 +4601,168 @@
    "read": "Not a policy remark.",
    "at": "2026-11-10T06:50:26Z",
    "by": "claude"
+  },
+  "8cdfc14340a4": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Backs a December hike and puts 50bp on the table if October CPI runs hot.",
+   "sum": "Waller backed a December rate hike, said further tightening will be needed, and opened the door to a half-point move if October inflation comes in hot.",
+   "pts": [
+    "Said further policy tightening will be needed.",
+    "Leans toward a 25bp hike at the December meeting.",
+    "Would consider a 50bp hike if October consumer prices come in hot.",
+    "Speech also covered labour-market dynamism alongside the economic outlook."
+   ],
+   "rr": "Reinforces the heavily priced December hike and adds a tail toward 50bp, contingent on October CPI; supports more tightening into 2027 at the front end. Only news paraphrases were available.",
+   "ev": "Speech, BoE Watchers' Conference (King's Business School, London)",
+   "basis": "reports",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "1d98881e1a77": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Weighing a 50bp hike adds upside to December pricing.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "6c973919a777": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Puts a half-point December hike in play if October CPI is hot.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "b3dea5427c44": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Warns of a bigger hike; dollar firmed on the remarks.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "0ff22c2a2cfb": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says further tightening will be needed, backing more hikes.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "46fce76ad63e": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Leans 25bp in December but would consider 50bp on hot October inflation.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "04a918f1bca2": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Backs a December hike and is open to a larger move.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "120ec866b840": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Usually dovish Lane calls a December hike prudent unless data shift.",
+   "sum": "Lane said a December hike looks prudent if the data do not shift, while insisting French bond uncertainty must be fixed in Paris, not by ECB tools.",
+   "pts": [
+    "Sees a December rate hike as prudent if incoming data don't change the picture.",
+    "Said markets are pricing uncertainty through their rate bets.",
+    "Said French bond-market uncertainty must be resolved by Paris.",
+    "ECB should not deploy its tools to ease France's difficulties."
+   ],
+   "rr": "Chief economist's backing firms up the priced December hike; reluctance to use tools for France leaves OAT spread risk unhedged by the ECB. Only news paraphrases were available.",
+   "ev": "Interview / remarks, 10 Nov",
+   "basis": "reports",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "1a8f63733f17": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Describes market pricing as reflecting uncertainty; no clear push either way.",
+   "lead": "120ec866b840",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "8861925d8a6f": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "France's bond uncertainty is for Paris to fix; no rates signal.",
+   "lead": "120ec866b840",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "fef4d14b0d2d": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Rules out ECB tools for France's woes; spread story, not rates path.",
+   "lead": "120ec866b840",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "2e5d51a0ac1a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comments on ECB leadership succession; no rates signal.",
+   "sum": "Moulin said he expects policy continuity at the ECB if Knot or de Cos takes over, and that France is well placed for the chief economist post.",
+   "pts": [
+    "Expects continuity at the ECB if Knot or de Cos succeeds Lagarde.",
+    "Said France is well positioned to claim the ECB chief economist post."
+   ],
+   "rr": "No signal for the December meeting; continuity message limits succession risk premium. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "49e4acbaa6bf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Personnel comment on the chief economist post; no rates signal.",
+   "lead": "2e5d51a0ac1a",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "d651a8fddd73": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Keeps a December hike open without pushing for one.",
+   "sum": "Lombardelli told the Guardian she does not rule out a December rate hike, keeping further tightening on the table after the move to 4%.",
+   "pts": [
+    "Does not rule out a rate hike at the December MPC meeting.",
+    "Leaves further tightening data-dependent after Bank Rate went to 4%."
+   ],
+   "rr": "Keeps the roughly coin-flip December hike priced alive without adding conviction; little change to the three hikes priced on the curve. Only news paraphrases were available.",
+   "ev": "Interview, The Guardian",
+   "basis": "reports",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
+  },
+  "b97d740ac888": {
+   "tone": "dove",
+   "score": -4,
+   "read": "Hawkish Pill says rates could hold or even fall if growth stalls; pushes back on hike pricing.",
+   "sum": "Pill said Bank Rate could stay on hold or even be cut if growth stalls next year, ruling out a repeat of the 2022 hiking cycle.",
+   "pts": [
+    "Bank Rate could stay on hold or even fall if growth stalls next year.",
+    "Said the BoE will not repeat the 2022 hiking cycle.",
+    "Called the recent hike pre-emptive, aimed at stopping inflation becoming persistent.",
+    "Sees limited evidence of second-round effects from energy prices so far.",
+    "Nothing is baked in for rates next year; outlook more uncertain from spring."
+   ],
+   "rr": "Pushes back on the multiple further hikes priced for 2027 and caps the terminal rate; leaves December optional. Supports a front-end gilt rally. Only news paraphrases were available.",
+   "ev": "Remarks reported 6 Nov",
+   "basis": "reports",
+   "at": "2026-11-10T12:00:01Z",
+   "by": "claude"
   }
  }
 }
