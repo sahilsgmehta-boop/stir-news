@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T20:54:46Z",
+ "built": "2026-11-10T02:14:40Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,12 +17,10 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
+   "kept": 1,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "NY Fed October survey shows 1, 3 and 5 year inflation expectations unchanged"
-   ]
+   "near_misses": []
   },
   {
    "id": "cnbc",
@@ -49,30 +47,28 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Hot U.S. inflation hasn\u2019t cooled off. Rising consumer prices to keep Fed rate hike on track."
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 25,
-   "added": 1,
+   "fetched": 54,
+   "kept": 29,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
+    "CPI Inflation Data: How the October Report Affects the Fed\u2019s Next Rate Decision",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
+    "Fed rate hike may not be \u2018one and done\u2019 if AI boom fuels inflation",
     "Trump Claims he Discussed Interest Rates With Fed Chair. Official Calendars Tell a Different Story.",
-    "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
+    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
     "The Fed\u2019s $6.75 Trillion Balance Sheet Is Growing Again \u2014 Should Americans Be Worried?",
-    "U.S. Inflation at 3.7% Keeps the Fed\u2019s Next Move in Focus",
+    "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
     "Week Ahead: Fed's Focus On The 'Accumulation Of Information' Takes Thunder From CPI",
-    "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI",
-    "AI investment boom tests Fed's ability to balance growth and inflation",
-    "Mystery swirls over Trump's secret calls with Fed chair: \u2018Do what you want\u2019"
+    "U.S. Inflation at 3.7% Keeps the Fed\u2019s Next Move in Focus"
    ]
   },
   {
@@ -80,16 +76,16 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 83,
-   "kept": 42,
-   "added": 6,
+   "fetched": 84,
+   "kept": 41,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
+    "Fed officials on watch for overheating demand as they weigh interest rate path",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed policymakers consider rate hike after strong jobs report",
-    "Fed officials on watch for overheating demand as they weigh interest rate path",
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "St. Louis Fed chief says 10% nationwide staff reduction is nearly done",
     "Kevin Warsh changed something the Fed has not touched in decades",
@@ -102,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 46,
    "kept": 5,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "E.U. ministers are pushing for a December deal on ECB's next president",
-    "Watch Euro-Zone Officials Meet to Discuss Lagarde Succession Plan",
+    "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
+    "Watch Successor Must Follow Lagarde's Approach: Nadia Calvi\u00f1o",
     "Video. Spanish minister builds case for Madrid's candidate to replace Lagarde",
+    "The ECB\u2019s Next Big Mistake? \u2013 OpEd",
     "Eurogroup hails 'excellent' ECB president candidates",
-    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
     "Eurozone ministers weigh two-horse race to succeed Lagarde at the ECB",
-    "Spanish minister Cuerpo builds case for Madrid's candidate to replace Lagarde at the ECB",
-    "Watch Successor Must Follow Lagarde's Approach: Nadia Calvi\u00f1o"
+    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB"
    ]
   },
   {
@@ -124,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 18,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -133,12 +129,12 @@
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "E.U. ministers are pushing for a December deal on ECB's next president",
     "Eurogroup hails 'excellent' ECB president candidates",
-    "First EU Talks on ECB Chief Loom as Knot and De Cos Speak Out",
+    "First EU Talks on ECB Race Loom as Knot and De Cos Speak Out",
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
+    "Eurogroup discusses filling 3 top ECB posts",
     "Dutchman and Spaniard in two-horse race for ECB presidency",
     "EU wants new ECB chief by end of year as race begins to replace Lagarde",
-    "Ireland not planning to nominate candidate to replace Philip Lane on ECB board",
-    "ECB Repeats Conditional 2029 Digital Euro Readiness Goal Ahead of Pilot"
+    "Ireland not planning to nominate candidate to replace Philip Lane on ECB board"
    ]
   },
   {
@@ -147,17 +143,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 22,
-   "kept": 3,
-   "added": 0,
+   "kept": 4,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss",
     "Bailey warns AI may not \u2018live up\u2019 to market hype",
+    "\u2018Burnham\u2019s 10-year vision is impossible without reforming the Bank of England\u2019s mandate\u2019",
     "FCA picks Bank of England veteran as new comms director",
     "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
     "The Week Ahead: Bank of England takes a tougher stance as global risks grow",
-    "GBP/USD Price Forecast: Pound at 1.3423 After BoE Hike to 4%",
-    "Bank of England hikes rates to 4% as inflation fears mount"
+    "What the Bank of England\u2019s \u00a3100 Million Titan Notes Do",
+    "Bank of England hikes rates to 4% as inflation fears mount",
+    "GBP/USD Price Forecast: Pound at 1.3423 After BoE Hike to 4%"
    ]
   },
   {
@@ -165,7 +163,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
