@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T09:59:09Z",
+ "built": "2026-11-10T12:00:19Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -46,7 +46,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": []
   },
@@ -55,17 +55,17 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 40,
-   "added": 5,
+   "fetched": 98,
+   "kept": 53,
+   "added": 12,
    "error": "",
    "near_misses": [
-    "CRE's Lending War Rages On After The Fed's Hike, But A $19B Refi Gap Looms",
-    "Fed Governor Says a Half-point Hike May Be Needed If Oct. CPI Is Hot",
-    "CPI Inflation Data: How the October Report Affects the Fed\u2019s Next Rate Decision",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "The stock market is doing some of the Fed's dirty work",
+    "Fed Governor Says a Half-point Hike May Be Needed If Oct. CPI Is Hot",
+    "CRE's Lending War Rages On After The Fed's Hike, But A $19B Refi Gap Looms",
+    "CPI Inflation Data: How the October Report Affects the Fed\u2019s Next Rate Decision",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "US Consumer Price Index data expected to moderate as markets assess Fed's next move",
     "Trump Claims he Discussed Interest Rates With Fed Chair. Official Calendars Tell a Different Story.",
     "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
@@ -77,21 +77,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 44,
-   "added": 6,
+   "fetched": 100,
+   "kept": 53,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Top Federal Reserve official considers largest rate rise since 2022",
-    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
+    "Waller backs December rate hike, says 50-basis-point move may be on the table (TLT:NASDAQ)",
     "Fed officials on watch for overheating demand as they weigh interest rate path",
     "Fed policymakers consider rate hike after strong jobs report",
-    "Goolsbee says AI data centers are overheating the economy \u2014 The Hill",
-    "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
-    "Kevin Warsh changed something the Fed has not touched in decades",
-    "Top Fed official backs December interest rate hike"
+    "Top Fed official backs December interest rate hike",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Federal Reserve holds interest rates steady as Trump\u2019s new chairman faces fresh inflation woes"
    ]
   },
   {
@@ -99,21 +99,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 7,
-   "added": 5,
+   "fetched": 57,
+   "kept": 10,
+   "added": 2,
    "error": "",
    "near_misses": [
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Once Christine Lagarde goes, ECB can focus on economics over politics",
     "EU joins Ukraine peace talks as race to replace Lagarde heats up",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "E.U. ministers are pushing for a December deal on ECB's next president",
-    "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
-    "The ECB\u2019s Next Big Mistake? \u2013 OpEd",
-    "Spanish minister Cuerpo builds case for Madrid's candidate to replace Lagarde at the ECB",
-    "Video. Spanish minister builds case for Madrid's candidate to replace Lagarde"
+    "French appointment as ECB chief economist would be justified, says Bank of France governor",
+    "Video. EU joins Ukraine peace talks as race to replace Lagarde heats up",
+    "Euro zone ministers to discuss ECB appointments, but await leaders' guidance"
    ]
   },
   {
@@ -121,14 +121,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 6,
+   "fetched": 18,
+   "kept": 10,
    "added": 1,
    "error": "",
    "near_misses": [
-    "ECB may need to hike in Dec, chief economist says",
-    "ECB May Raise Interest Rates in December, Says Chief Economist",
-    "No escape: the ECB board\u2019s climate and nature challenge",
+    "French appointment as ECB chief economist would be justified, says Bank of France governor",
+    "New ECB board needs more women, Austrian central bank chief says",
     "Eurogroup discusses filling 3 top ECB posts",
     "Ireland not planning to nominate candidate to replace Philip Lane on ECB board",
     "Ireland won\u2019t nominate candidate to replace Philip Lane on ECB board"
@@ -139,9 +138,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 4,
-   "added": 2,
+   "fetched": 22,
+   "kept": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
@@ -192,6 +191,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Top Federal Reserve official considers largest rate rise since 2022",
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
     "Bank of England raises interest rates to 4% in bid to tame inflation",
     "October inflation in the Eurozone keeps ECB on course for another tightening",
@@ -200,8 +200,7 @@
     "Strong US inflation and growth will keep Fed on a tightening path",
     "The ECB needs a smooth transmission and a smooth transition",
     "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
-    "BoE to kick off short and precautionary tightening cycle in November",
-    "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts"
+    "BoE to kick off short and precautionary tightening cycle in November"
    ]
   },
   {
@@ -211,7 +210,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 10,
-   "added": 4,
+   "added": 3,
    "error": ""
   },
   {
@@ -260,8 +259,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 15,
-   "added": 9,
+   "kept": 16,
+   "added": 10,
    "error": ""
   },
   {
