@@ -4763,6 +4763,148 @@
    "basis": "reports",
    "at": "2026-11-10T12:00:01Z",
    "by": "claude"
+  },
+  "a39e645c5319": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says rates must rise to put downward pressure on inflation; backs December hike.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "fa7e4e0059ed": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Warns tougher action is needed if inflation drifts from target; adds to hike conviction.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "d372e6137a10": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Market report: Waller floats a 50bp hike, adding a tail to December pricing.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "e665ccb61b06": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Waller puts 50bp on the table for December alongside a hawkish Lane.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "717ca42fb8a4": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Signals risk of larger hikes while inflation stays high.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "6b3c41d3a45d": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says 50bp should be considered if core inflation stays elevated in October CPI.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "8a45bf85e303": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Treasury yields rose as Waller pressed the case for a December hike.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "6e7b4f66b0ea": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Backs a December hike and says 50bp should be considered if inflation stays hot.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "6a5a5020bc28": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Market report: silver fell as Waller cautioned a larger hike is possible.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "f26518384ae4": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Favors 25bp in December; 50bp may be needed if inflation runs hot.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "b0c69a0c4453": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Backs a big rate increase if inflation remains stubborn.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "9b6432d5f337": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says a larger hike should be considered if October CPI runs hot.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "4447778fb2a2": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Chief economist calls another hike prudent with inflation seen above 4% by year-end.",
+   "lead": "120ec866b840",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "cd56c2b71804": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Wants policy to stop energy inflation spilling over; no new push beyond priced December hike.",
+   "lead": "ea8825bde3fd",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "ea8825bde3fd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says hike calls are getting more nuanced; tempers but does not reject December pricing.",
+   "sum": "Kazaks said judgments on further rate hikes are becoming more nuanced, while insisting policy must stop energy inflation from spilling over into broader prices.",
+   "pts": [
+    "Said rate-hike judgments are getting \"more nuanced\" from here.",
+    "Said policy must prevent energy-driven inflation spilling over into wider prices."
+   ],
+   "rr": "Balanced: keeps a December hike possible but signals less automatic follow-through, mildly tempering pricing for further 2027 hikes. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
+  },
+  "82ed2fe57a3d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability view on the AI selloff; no rates signal.",
+   "sum": "Breeden described the AI-led equity selloff as a welcome price correction rather than a source of financial-stability stress.",
+   "pts": [
+    "Called the selloff in AI-linked assets a welcome price correction.",
+    "Remarks addressed financial stability, not the rates outlook."
+   ],
+   "rr": "No direct signal for the December MPC; reduces the case for markets to price BoE easing on financial-stability grounds. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-10T15:54:23Z",
+   "by": "claude"
   }
  }
 }
