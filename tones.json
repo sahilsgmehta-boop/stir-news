@@ -4905,6 +4905,323 @@
    "basis": "reports",
    "at": "2026-11-10T15:54:23Z",
    "by": "claude"
+  },
+  "a555340b9845": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Voter wants at least two more hikes and says they could come faster this winter.",
+   "sum": "Logan said the Fed clearly needs at least two more quarter-point hikes and that tightening could come more rapidly this winter than it did in the fall.",
+   "pts": [
+    "Said it is clear the Fed needs at least two more 25bp rate hikes.",
+    "Said hikes could come more rapidly this winter than in the fall, a step up from her earlier call for a gradual pace.",
+    "Pointed to price pressures tied to the AI era as part of the inflation picture.",
+    "Remarks came on the day of a firm October CPI report."
+   ],
+   "rr": "A 2026 voter backing December and signalling back-to-back moves supports the priced December hike and argues for more hikes priced into early 2027. The Dallas Fed text could not be read. Only news paraphrases were available.",
+   "ev": "Speech, Dallas Fed/Kansas City Fed energy conference",
+   "basis": "reports",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "19f7f7d035a8": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Calls for two more hikes, possibly delivered rapidly.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "c68f5ad9cdcd": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Recap of Logan's case for further rate hikes.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "c98b37e58ef1": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Seeks two more hikes, citing AI-era price pressures.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "cee0e4679ba6": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Sees two more hikes and flags faster tightening this winter.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "2eb406e7fa44": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says the Fed may need to raise rates faster.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "16dfa87882a4": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says it is clear the Fed needs at least two more quarter-point hikes.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "d3b0caa8186e": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Favours at least two more hikes and says the pace could quicken.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "276890013e4e": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says hikes could come more rapidly this winter than in the fall.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "0000c7bda385": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says the Fed needs to raise rates at least two more times.",
+   "lead": "a555340b9845",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "80b94dde0f7d": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Backs tighter policy to curb inflation, consistent with his December hike call.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "2261dc86056a": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "His 50bp threshold gains weight after a hot inflation print.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "e48d091a56c7": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says a 50bp move should be weighed if inflation fails to slow.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "fb8af9fadddb": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Market story: hawkish Waller remarks plus firm CPI hit gold.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "a8b65c86727b": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Explainer: core inflation met Waller's stated threshold for a half-point hike.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "d585c8e86180": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Roundup noting Waller backs a rate hike.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "8d13fe0e16c6": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Market reaction to Waller's hawkish remarks before CPI.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "8642daebec39": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Video of Waller's remarks backing a hike and a possible 50bp move.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "b34df8f75050": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "7e1bc8c8f3d4": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Deputy Governor says rates are likely to rise further as persistent inflation risks build.",
+   "sum": "Lombardelli said Bank Rate is likely to rise further, with upside inflation risks and a growing chance that persistent inflation crystallises, despite a 'low-gear' labour market.",
+   "pts": [
+    "Said interest rates are likely to need to rise further, signalling another move in the near term.",
+    "Said the balance of risks to inflation remains to the upside.",
+    "Warned of a risk that persistent inflation conditions will crystallise.",
+    "Described the labour market as in low gear, with youth unemployment risking lasting scars.",
+    "Kept a December rate hike on the table."
+   ],
+   "rr": "Supports a December hike and the further BoE tightening priced on the curve after the move to 4%; tilts against analyst calls for a shallower path. The Bank's text could not be read. Only news paraphrases were available.",
+   "ev": "Speech, BoE Watchers' Conference (London)",
+   "basis": "reports",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "2c5652188c57": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Sees a case for another hike as persistent inflation takes shape.",
+   "lead": "7e1bc8c8f3d4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "767042a892e2": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says the balance of risks to inflation remains to the upside.",
+   "lead": "7e1bc8c8f3d4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "eb2e3b8305d1": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warns persistent inflation risks crystallising.",
+   "lead": "7e1bc8c8f3d4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "879182c3a8e8": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says interest rates are likely to rise further.",
+   "lead": "7e1bc8c8f3d4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "dd48da23508e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Flags youth-unemployment scarring; labour-market slack, not a rates call.",
+   "lead": "7e1bc8c8f3d4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "d270ba55558f": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Signals another rate rise is likely in the near term.",
+   "lead": "7e1bc8c8f3d4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "dc78aa18bddf": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Keeps a December hike open without committing.",
+   "lead": "7e1bc8c8f3d4",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "052ff2c51cdd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says AI investment is already helping the UK economy; no rates signal.",
+   "lead": "162729de8472",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "e723ba2c37ff": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Flags AI bubble and cyber risks; financial stability, not rates.",
+   "lead": "162729de8472",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "14f335be13c5": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Bundesbank chief calls a December ECB hike 'rather obvious'.",
+   "sum": "Nagel said a December ECB rate hike is looking 'rather obvious', hardening his earlier view that a hike would very likely be necessary.",
+   "pts": [
+    "Said a December rate hike looks 'rather obvious'.",
+    "Earlier this month he called a December hike very likely necessary as the energy shock intensified."
+   ],
+   "rr": "Firms up the December ECB hike already largely priced and adds weight to the hawkish chorus with Lane; little new beyond December. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "b9eeca84c3d1": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Consumer explainer repeating Warsh's price-stability pledge; no new guidance.",
+   "sum": "A consumer-finance piece repeated Warsh's pledge that the Fed will deliver price stability and walked through what another hike would mean for households.",
+   "pts": [
+    "Restates Warsh's commitment that the Fed will deliver price stability.",
+    "No new remark on the size or timing of the next move was reported."
+   ],
+   "rr": "No new signal; leaves the priced December hike to the data and to other speakers. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "380ce0e2b072": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Speech on central bank communication; his rate call came in earlier interviews.",
+   "sum": "Lane gave a speech on the science and practice of monetary policy communication at the ECB; his December hike signal came in separate remarks earlier the same day.",
+   "pts": [
+    "Topic: how the ECB communicates monetary policy, drawing on its own experience.",
+    "Earlier the same day he said a December hike looks prudent if the data do not shift."
+   ],
+   "rr": "Adds nothing beyond the morning's call that a December hike looks prudent, which supports the priced move. The ECB text could not be read; only the title and earlier reports were available.",
+   "ev": "Speech on monetary policy communication",
+   "basis": "reports",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "903501ad7533": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "General speech on SNB policy and the Swiss economy; no reported signal.",
+   "sum": "SNB Governing Board member Antoine Martin gave a general speech on the SNB, its monetary policy and the Swiss economy; no new policy signal was reported.",
+   "rr": "No reported change to the SNB outlook ahead of the December assessment. The SNB text could not be read and no news reports were found.",
+   "ev": "Speech",
+   "basis": "reports",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
+  },
+  "14fa08277c3b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Banxico governor's workshop welcome address; no rates signal.",
+   "sum": "Banxico Governor Victoria Rodríguez Ceja opened the Fourth Women in Central Banking Workshop; it is an institutional welcome, not a policy signal.",
+   "rr": "No implication for Fed or Banxico rate pricing. The BIS text could not be read.",
+   "ev": "Welcome address, Women in Central Banking Workshop (Bank of Mexico)",
+   "basis": "reports",
+   "at": "2026-11-10T20:55:35Z",
+   "by": "claude"
   }
  }
 }
