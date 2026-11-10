@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T17:40:00Z",
+ "built": "2026-11-10T20:55:52Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 13,
-   "added": 1,
+   "kept": 15,
+   "added": 3,
    "error": ""
   },
   {
@@ -17,11 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
-    "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink"
+    "Bank of Canada minutes: Governing Council sees possible need to hike rates further"
    ]
   },
   {
@@ -49,7 +49,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist"
+   ]
   },
   {
    "id": "gn_fed",
@@ -58,19 +60,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 62,
-   "added": 10,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "Consumer prices rose 0.4% in October, more than expected, complicating Fed\u2019s inflation fight",
     "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
+    "Rate Trading Rose in October and a Fed Governor Leans Toward Backing a December Hike",
     "The stock market is doing some of the Fed's dirty work",
+    "Why Your Bank Statement and the Fed's Chart Don't Agree",
+    "Hot inflation report puts Fed on track for December rate hike",
     "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
-    "The countdown to the Fed\u2019s next move",
     "Dallas Fed President Signals More Rate Hikes; Impact on DAL Stoc",
-    "Fed Governor Says a Half-point Hike May Be Needed If Oct. CPI Is Hot",
-    "CRE's Lending War Rages On After The Fed's Hike, But A $19B Refi Gap Looms",
-    "US dollar steadies as Fed governor calls for more rate hikes"
+    "The countdown to the Fed\u2019s next move",
+    "Fed Governor Says a Half-point Hike May Be Needed If Oct. CPI Is Hot"
    ]
   },
   {
@@ -79,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 99,
-   "kept": 55,
-   "added": 8,
+   "kept": 54,
+   "added": 7,
    "error": "",
    "near_misses": [
-    "Inflation remained elevated in October, cementing a Fed rate increase",
     "Top Federal Reserve official considers largest rate rise since 2022",
-    "Fed officials open door to a half-point hike after inflation beats expectations",
-    "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-    "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
-    "Fed needs at least 2 more quarter-point rate hikes: Dallas Fed chief",
+    "Inflation remained elevated in October, cementing a Fed rate increase",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
-    "Fed may consider half-point hike after core CPI rises"
+    "Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar",
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Fed rate hike odds hit 100% as Waller floats bigger December move",
+    "Hot inflation report puts Fed on track for December rate hike",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
+    "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
+    "Fed needs at least 2 more quarter-point rate hikes: Dallas Fed chief"
    ]
   },
   {
@@ -100,17 +102,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 14,
-   "added": 0,
+   "fetched": 71,
+   "kept": 20,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Once Christine Lagarde goes, ECB can focus on economics over politics",
-    "EU joins Ukraine peace talks as race to replace Lagarde heats up",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
+    "Europe Today: EU joins Ukraine peace talks in Abu Dhabi as race to replace Lagarde heats up",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "Video. EU joins Ukraine peace talks as race to replace Lagarde heats up",
     "E.U. ministers are pushing for a December deal on ECB's next president",
@@ -122,8 +124,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 13,
+   "fetched": 25,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -137,21 +139,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
-   "kept": 15,
-   "added": 1,
+   "fetched": 35,
+   "kept": 13,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "The Bank of England Will Have to Grapple With Crude Economics",
+    "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
     "Bank of England policymaker refuses to rule out back-to-back rate rises",
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
+    "The Bank of England hints at another interest-rate rise in December",
     "Bank of England: Britain\u2019s young people suffer from hiring slowdown \u2014 The Guardian",
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss",
     "Mortgage lenders hike variable rates for some after Bank of England base rate decision \u2013 check if yours is changing",
-    "\u2018Burnham\u2019s 10-year vision is impossible without reforming the Bank of England\u2019s mandate\u2019",
     "Bailey warns AI may not \u2018live up\u2019 to market hype",
-    "Bank of England and Treasury Reduce Asset Purchase Facility Ceiling to \u00a3482.4 Billion",
-    "Bank of England Asset Purchase Facility Limit Cut to \u00a3482.4 Billion"
+    "\u2018Burnham\u2019s 10-year vision is impossible without reforming the Bank of England\u2019s mandate\u2019",
+    "Bank of England and Treasury Reduce Asset Purchase Facility Ceiling to \u00a3482.4 Billion"
    ]
   },
   {
@@ -159,11 +161,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Officials Say Uncertainty Doesn\u2019t Rule Out Hikes",
+    "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
     "Bond market scales back bets for Bank of Canada rate hikes",
     "Bank of Canada designates RTR as a prominent payment system",
     "Jobs miss pushes Bank of Canada hike bets down to 35%"
@@ -187,7 +191,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 9,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
@@ -238,7 +242,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 75,
-   "added": 71,
+   "added": 70,
    "error": ""
   },
   {
@@ -248,7 +252,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 7,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
