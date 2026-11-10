@@ -4546,6 +4546,61 @@
    "lead": "162729de8472",
    "at": "2026-11-09T20:54:31Z",
    "by": "claude"
+  },
+  "985387f579cc": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says the data-center buildout is overheating the economy, adding to inflation pressure.",
+   "lead": "9b90e7d4dcb8",
+   "at": "2026-11-10T06:50:26Z",
+   "by": "claude"
+  },
+  "a30f07b8198b": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Goolsbee flags inflation concerns while Barkin urges caution; net tilt toward tightening.",
+   "lead": "9b90e7d4dcb8",
+   "at": "2026-11-10T06:50:26Z",
+   "by": "claude"
+  },
+  "691a2044f2ed": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Policy direction is clear but wants a careful pace; no push to speed up.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-10T06:50:26Z",
+   "by": "claude"
+  },
+  "a5efc82218a5": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Wants policy moved with care as the Fed responds to inflation; measured tone.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-10T06:50:26Z",
+   "by": "claude"
+  },
+  "3960859ee3d2": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Calls inflation the main risk but hints at a cautious rate path.",
+   "lead": "66fd081aaecf",
+   "at": "2026-11-10T06:50:26Z",
+   "by": "claude"
+  },
+  "76ca6738cee9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI growth and bubble-risk remarks; no signal on Bank Rate.",
+   "lead": "162729de8472",
+   "at": "2026-11-10T06:50:26Z",
+   "by": "claude"
+  },
+  "5ee8d14bae5f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-10T06:50:26Z",
+   "by": "claude"
   }
  }
 }
