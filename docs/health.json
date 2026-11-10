@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T20:55:52Z",
+ "built": "2026-11-10T22:33:48Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 15,
-   "added": 3,
+   "added": 2,
    "error": ""
   },
   {
@@ -17,10 +17,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 5,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
+    "investingLive Americas FX news wrap 10 Nov: It\u2019s a Wrap. Hot US CPI puts a bigger Fed hike in play",
+    "Economic and event calendar in Asia Wednesday, November 11, 2026 - two Fed speakers",
     "Bank of Canada minutes: Governing Council sees possible need to hike rates further"
    ]
   },
@@ -59,20 +61,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 6,
+   "kept": 66,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
     "Rate Trading Rose in October and a Fed Governor Leans Toward Backing a December Hike",
-    "The stock market is doing some of the Fed's dirty work",
     "Why Your Bank Statement and the Fed's Chart Don't Agree",
-    "Hot inflation report puts Fed on track for December rate hike",
+    "The stock market is doing some of the Fed's dirty work",
+    "US Equity Indexes Fall as Fed's Policy Tightening Odds Rise After Inflation Beats Forecast",
     "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
-    "Dallas Fed President Signals More Rate Hikes; Impact on DAL Stoc",
-    "The countdown to the Fed\u2019s next move",
-    "Fed Governor Says a Half-point Hike May Be Needed If Oct. CPI Is Hot"
+    "Hot inflation report puts Fed on track for December rate hike",
+    "The Loonie Slipped As The Fed\u2019s December Bet Firmed Up",
+    "Dallas Fed President Signals More Rate Hikes; Impact on DAL Stoc"
    ]
   },
   {
@@ -80,18 +82,18 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 99,
-   "kept": 54,
-   "added": 7,
+   "fetched": 100,
+   "kept": 58,
+   "added": 6,
    "error": "",
    "near_misses": [
+    "Inflation rises faster than expected, boosting odds of Fed rate hike",
     "Top Federal Reserve official considers largest rate rise since 2022",
-    "Inflation remained elevated in October, cementing a Fed rate increase",
-    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
-    "Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Fed rate hike odds hit 100% as Waller floats bigger December move",
-    "Hot inflation report puts Fed on track for December rate hike",
+    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Inflation remained elevated in October, cementing a Fed rate increase",
+    "Fed officials open door to a half-point hike after inflation beats expectations",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
     "Fed needs at least 2 more quarter-point rate hikes: Dallas Fed chief"
@@ -102,21 +104,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 20,
-   "added": 2,
+   "fetched": 69,
+   "kept": 21,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
     "Once Christine Lagarde goes, ECB can focus on economics over politics",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
-    "Europe Today: EU joins Ukraine peace talks in Abu Dhabi as race to replace Lagarde heats up",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
-    "Video. EU joins Ukraine peace talks as race to replace Lagarde heats up",
+    "EU joins Ukraine peace talks as race to replace Lagarde heats up",
     "E.U. ministers are pushing for a December deal on ECB's next president",
-    "Euro zone ministers to discuss ECB appointments, but await leaders' guidance"
+    "Video. EU joins Ukraine peace talks as race to replace Lagarde heats up",
+    "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
+    "Watch Successor Must Follow Lagarde's Approach: Nadia Calvi\u00f1o"
    ]
   },
   {
@@ -139,7 +141,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 33,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -153,7 +155,7 @@
     "Mortgage lenders hike variable rates for some after Bank of England base rate decision \u2013 check if yours is changing",
     "Bailey warns AI may not \u2018live up\u2019 to market hype",
     "\u2018Burnham\u2019s 10-year vision is impossible without reforming the Bank of England\u2019s mandate\u2019",
-    "Bank of England and Treasury Reduce Asset Purchase Facility Ceiling to \u00a3482.4 Billion"
+    "Bank of England Asset Purchase Facility Limit Cut to \u00a3482.4 Billion"
    ]
   },
   {
@@ -161,16 +163,19 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 21,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
     "Bank of Canada Officials Say Uncertainty Doesn\u2019t Rule Out Hikes",
     "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
-    "Bond market scales back bets for Bank of Canada rate hikes",
+    "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
     "Bank of Canada designates RTR as a prominent payment system",
-    "Jobs miss pushes Bank of Canada hike bets down to 35%"
+    "Jobs miss pushes Bank of Canada hike bets down to 35%",
+    "Bond market scales back bets for Bank of Canada rate hikes",
+    "Bond market scales back bets for Bank of Canada rate hikes"
    ]
   },
   {
@@ -212,7 +217,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 10,
-   "added": 3,
+   "added": 2,
    "error": ""
   },
   {
