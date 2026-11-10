@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T02:14:40Z",
+ "built": "2026-11-10T06:50:40Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,10 +17,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink"
+   ]
   },
   {
    "id": "cnbc",
@@ -34,8 +36,7 @@
    "near_misses": [
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "European Central Bank keeps key interest rate on hold at 2.5%",
-    "Fed rate hikes are coming, but not this week: CNBC survey",
-    "Housing is flashing warning signs just as the Fed weighs more interest rate hikes"
+    "Fed rate hikes are coming, but not this week: CNBC survey"
    ]
   },
   {
@@ -54,21 +55,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 29,
-   "added": 3,
+   "fetched": 52,
+   "kept": 27,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "CPI Inflation Data: How the October Report Affects the Fed\u2019s Next Rate Decision",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
-    "Fed rate hike may not be \u2018one and done\u2019 if AI boom fuels inflation",
+    "CPI Inflation Data: How the October Report Affects the Fed\u2019s Next Rate Decision",
     "Trump Claims he Discussed Interest Rates With Fed Chair. Official Calendars Tell a Different Story.",
     "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
     "The Fed\u2019s $6.75 Trillion Balance Sheet Is Growing Again \u2014 Should Americans Be Worried?",
     "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
     "Week Ahead: Fed's Focus On The 'Accumulation Of Information' Takes Thunder From CPI",
-    "U.S. Inflation at 3.7% Keeps the Fed\u2019s Next Move in Focus"
+    "U.S. Inflation at 3.7% Keeps the Fed\u2019s Next Move in Focus",
+    "AI investment boom tests Fed's ability to balance growth and inflation"
    ]
   },
   {
@@ -76,15 +77,15 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 84,
+   "fetched": 81,
    "kept": 41,
-   "added": 7,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Fed officials on watch for overheating demand as they weigh interest rate path",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Fed officials on watch for overheating demand as they weigh interest rate path",
     "Fed policymakers consider rate hike after strong jobs report",
     "The Fed Begins Transition to Holding Fewer Policy Meetings a Year",
     "St. Louis Fed chief says 10% nationwide staff reduction is nearly done",
@@ -98,15 +99,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 42,
    "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "E.U. ministers are pushing for a December deal on ECB's next president",
-    "In Pink Chanel: The Ultimate Power Jacket - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
+    "Spanish minister Cuerpo builds case for Madrid's candidate to replace Lagarde at the ECB",
     "Watch Successor Must Follow Lagarde's Approach: Nadia Calvi\u00f1o",
     "Video. Spanish minister builds case for Madrid's candidate to replace Lagarde",
     "The ECB\u2019s Next Big Mistake? \u2013 OpEd",
@@ -128,11 +129,11 @@
     "No escape: the ECB board\u2019s climate and nature challenge",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "E.U. ministers are pushing for a December deal on ECB's next president",
-    "Eurogroup hails 'excellent' ECB president candidates",
-    "First EU Talks on ECB Race Loom as Knot and De Cos Speak Out",
+    "First EU Talks on ECB Chief Loom as Knot and De Cos Speak Out",
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
-    "Eurogroup discusses filling 3 top ECB posts",
+    "Eurogroup hails 'excellent' ECB president candidates",
     "Dutchman and Spaniard in two-horse race for ECB presidency",
+    "Eurogroup discusses filling 3 top ECB posts",
     "EU wants new ECB chief by end of year as race begins to replace Lagarde",
     "Ireland not planning to nominate candidate to replace Philip Lane on ECB board"
    ]
@@ -143,19 +144,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 22,
-   "kept": 4,
-   "added": 1,
+   "kept": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
+    "Bank of England: Britain\u2019s young people suffer from hiring slowdown \u2014 The Guardian",
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss",
     "Bailey warns AI may not \u2018live up\u2019 to market hype",
     "\u2018Burnham\u2019s 10-year vision is impossible without reforming the Bank of England\u2019s mandate\u2019",
     "FCA picks Bank of England veteran as new comms director",
     "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
     "The Week Ahead: Bank of England takes a tougher stance as global risks grow",
-    "What the Bank of England\u2019s \u00a3100 Million Titan Notes Do",
     "Bank of England hikes rates to 4% as inflation fears mount",
-    "GBP/USD Price Forecast: Pound at 1.3423 After BoE Hike to 4%"
+    "What the Bank of England\u2019s \u00a3100 Million Titan Notes Do"
    ]
   },
   {
@@ -163,14 +165,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bond market scales back bets for Bank of Canada rate hikes",
     "Bank of Canada designates RTR as a prominent payment system",
-    "Jobs miss pushes Bank of Canada hike bets down to 35%",
-    "Bond market scales back bets for Bank of Canada rate hikes"
+    "Jobs miss pushes Bank of Canada hike bets down to 35%"
    ]
   },
   {
