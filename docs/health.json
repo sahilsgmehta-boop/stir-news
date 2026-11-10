@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T12:00:19Z",
+ "built": "2026-11-10T15:54:41Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
-   "added": 0,
+   "kept": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink"
@@ -34,6 +34,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "European Central Bank keeps key interest rate on hold at 2.5%",
     "Fed rate hikes are coming, but not this week: CNBC survey"
@@ -55,21 +56,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
-   "kept": 53,
-   "added": 12,
+   "fetched": 100,
+   "kept": 57,
+   "added": 6,
    "error": "",
    "near_misses": [
     "The stock market is doing some of the Fed's dirty work",
+    "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
+    "The countdown to the Fed\u2019s next move",
     "Fed Governor Says a Half-point Hike May Be Needed If Oct. CPI Is Hot",
     "CRE's Lending War Rages On After The Fed's Hike, But A $19B Refi Gap Looms",
-    "CPI Inflation Data: How the October Report Affects the Fed\u2019s Next Rate Decision",
+    "US dollar steadies as Fed governor calls for more rate hikes",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "US Consumer Price Index data expected to moderate as markets assess Fed's next move",
-    "Trump Claims he Discussed Interest Rates With Fed Chair. Official Calendars Tell a Different Story.",
-    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
-    "The Fed\u2019s $6.75 Trillion Balance Sheet Is Growing Again \u2014 Should Americans Be Worried?"
+    "What will flip the US Dollar's trajectory as inflation cools toward the Fed's 2% target in 2027?",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
    ]
   },
   {
@@ -77,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 53,
-   "added": 5,
+   "fetched": 95,
+   "kept": 52,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
-    "Waller backs December rate hike, says 50-basis-point move may be on the table (TLT:NASDAQ)",
-    "Fed officials on watch for overheating demand as they weigh interest rate path",
-    "Fed policymakers consider rate hike after strong jobs report",
+    "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
+    "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
+    "Will the Fed raise interest rates in December? A hike looks likely after hot CPI, but isn't decided",
     "Top Fed official backs December interest rate hike",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Federal Reserve holds interest rates steady as Trump\u2019s new chairman faces fresh inflation woes"
+    "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers"
    ]
   },
   {
@@ -99,20 +100,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 10,
-   "added": 2,
+   "fetched": 59,
+   "kept": 12,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Once Christine Lagarde goes, ECB can focus on economics over politics",
     "EU joins Ukraine peace talks as race to replace Lagarde heats up",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
-    "E.U. ministers are pushing for a December deal on ECB's next president",
-    "French appointment as ECB chief economist would be justified, says Bank of France governor",
     "Video. EU joins Ukraine peace talks as race to replace Lagarde heats up",
+    "E.U. ministers are pushing for a December deal on ECB's next president",
     "Euro zone ministers to discuss ECB appointments, but await leaders' guidance"
    ]
   },
@@ -122,13 +123,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 18,
-   "kept": 10,
-   "added": 1,
+   "kept": 11,
+   "added": 0,
    "error": "",
    "near_misses": [
     "French appointment as ECB chief economist would be justified, says Bank of France governor",
     "New ECB board needs more women, Austrian central bank chief says",
-    "Eurogroup discusses filling 3 top ECB posts",
     "Ireland not planning to nominate candidate to replace Philip Lane on ECB board",
     "Ireland won\u2019t nominate candidate to replace Philip Lane on ECB board"
    ]
@@ -138,21 +138,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 5,
-   "added": 1,
+   "fetched": 34,
+   "kept": 13,
+   "added": 8,
    "error": "",
    "near_misses": [
+    "Bank of England policymaker refuses to rule out back-to-back rate rises",
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England: Britain\u2019s young people suffer from hiring slowdown \u2014 The Guardian",
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss",
     "Bailey warns AI may not \u2018live up\u2019 to market hype",
     "\u2018Burnham\u2019s 10-year vision is impossible without reforming the Bank of England\u2019s mandate\u2019",
     "FCA picks Bank of England veteran as new comms director",
-    "FTSE 100 Weekly Review: FTSE 100 Slips to 10,673.94 After the Bank of England Hike and a Global AI Rout",
-    "What the Bank of England\u2019s \u00a3100 Million Titan Notes Do",
-    "Bank of England raises interest rates, signals further hikes",
-    "GBP/USD Price Forecast: Pound at 1.3423 After BoE Hike to 4%"
+    "Bank of England and Treasury Reduce Asset Purchase Facility Ceiling to \u00a3482.4 Billion",
+    "Bank of England Asset Purchase Facility Limit Cut to \u00a3482.4 Billion",
+    "Healey lowers Bank of England gilt portfolio limit by \u00a342.5bn to \u00a3482.4bn"
    ]
   },
   {
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -260,7 +260,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 16,
-   "added": 10,
+   "added": 9,
    "error": ""
   },
   {
@@ -319,8 +319,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 20,
-   "kept": 5,
-   "added": 0,
+   "kept": 6,
+   "added": 1,
    "error": ""
   },
   {
@@ -329,8 +329,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 5,
-   "added": 0,
+   "kept": 7,
+   "added": 1,
    "error": ""
   }
  ]
