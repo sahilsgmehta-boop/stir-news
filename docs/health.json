@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T07:02:39Z",
+ "built": "2026-11-11T09:33:36Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 15,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -17,10 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
-   "added": 0,
+   "kept": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Germany October inflation slows, but winter energy risks keep ECB rate hike bets alive",
     "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
     "Three drivers setting gold\u2019s tone as December Fed hike bets build, according to Standard Chartered",
     "NIESR sees UK inflation above BoE target for four years, peaking at 4.4% in 2027"
@@ -59,20 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 69,
+   "kept": 70,
    "added": 1,
    "error": "",
    "near_misses": [
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
-    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
-    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
+    "The countdown to the Fed\u2019s next move",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "Hot inflation report puts Fed on track for December rate hike",
+    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
+    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
+    "USD/CAD Price Forecast: Debate over size of Fed\u2019s next rate hike backs further upside",
     "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
     "Jumbo Fed rate-hike warning sends shock waves after inflation surprise",
     "Rate Trading Rose in October and a Fed Governor Leans Toward Backing a December Hike",
-    "Why Your Bank Statement and the Fed's Chart Don't Agree",
-    "US Equity Indexes Fall as Fed's Policy Tightening Odds Rise After Inflation Beats Forecast"
+    "Why Your Bank Statement and the Fed's Chart Don't Agree"
    ]
   },
   {
@@ -81,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 62,
    "added": 0,
    "error": "",
    "near_misses": [
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
-    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "A jumbo Fed rate hike is on the table, top official says",
-    "Bonds reel as hot inflation fuels jumbo Fed hike fears",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Inflation remained elevated in October, cementing a Fed rate increase",
-    "Top Federal Reserve official considers largest rate rise since 2022",
+    "Bonds reel as hot inflation fuels jumbo Fed hike fears",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
+    "Top Federal Reserve official considers largest rate rise since 2022"
    ]
   },
   {
@@ -102,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
+   "fetched": 65,
    "kept": 25,
    "added": 1,
    "error": "",
    "near_misses": [
+    "German Economy on the Mend Though Reforms Needed, Nagel Says",
+    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
-    "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
+    "Nagel: German economy headed for stronger recovery",
     "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
-    "European Union seeks to pick new European Central Bank head by year end",
+    "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
     "E.U. ministers are pushing for a December deal on ECB's next president",
+    "European Union seeks to pick new European Central Bank head by year end",
     "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
-    "Watch Successor Must Follow Lagarde's Approach: Nadia Calvi\u00f1o",
-    "Once Christine Lagarde goes, ECB can focus on economics over politics",
-    "Spanish minister Cuerpo builds case for Madrid's candidate to replace Lagarde at the ECB",
-    "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe"
+    "Watch Successor Must Follow Lagarde's Approach: Nadia Calvi\u00f1o"
    ]
   },
   {
@@ -124,14 +125,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 25,
    "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
-    "New ECB board needs more women, Austrian central bank chief says",
-    "Ireland not planning to nominate candidate to replace Philip Lane on ECB board",
-    "Ireland won\u2019t nominate candidate to replace Philip Lane on ECB board"
+    "New ECB board needs more women, Austrian central bank chief says"
    ]
   },
   {
@@ -139,21 +138,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
-   "kept": 13,
+   "fetched": 42,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
+    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England policymaker refuses to rule out back-to-back rate rises",
-    "\u201cClear financial stability risks\u201d from AI warns Bank of England governor",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "\u201cClear financial stability risks\u201d from AI warns Bank of England governor",
+    "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "UK inflation to overshoot Bank of England target for next 4 years, think-tank forecasts",
-    "The Bank of England hints at another interest-rate rise in December",
-    "Closer ties with EU would boost UK economic growth, Bank of England governor says"
+    "The Bank of England hints at another interest-rate rise in December"
    ]
   },
   {
@@ -180,12 +179,15 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 2,
    "kept": 0,
    "added": 0,
-   "error": "feed returned no items",
-   "near_misses": []
+   "error": "",
+   "near_misses": [
+    "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
+    "Swiss Franc Slips as Markets Focus on Fed Tightening and Dovish SNB"
+   ]
   },
   {
    "id": "ft_cb",

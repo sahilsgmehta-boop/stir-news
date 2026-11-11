@@ -1,6 +1,66 @@
 {
 "items": [
 {
+"t": "2026-11-11T08:32:12Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Gold dips after Fed's Waller drops the 50 bps hike bomb and US CPI comes above expectations",
+"url": "https://investinglive.com/commodities/gold-dips-after-fed-s-waller-drops-the-50-bps-hike-bomb-and-us-cpi-comes-above-expectations/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Gold sold off yesterday after Fed's Waller surprised markets with some very hawkish remarks in his speech on the economic outlook . He suggested that a rate hike in December would be warranted regardless of yesterday's inflation data, adding that the only thing the data would influence would be the size of the increase. In fact, he said that a Core CPI M/M reading of 0.3% or higher would lead him to vote for a larger 50 bps hike. His remarks triggered a hawkish repricing, sending Treasury yields and the US dollar higher. Gold came under pressure as real yields also moved higher. The Core CPI t",
+"id": "8510c64a69d5",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-11T08:26:53Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB’s Nagel: German growth likely to accelerate in Q4",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObklEWm9rd1pPbVl0ZEprYjNLMjRxaVhSd0lpV2xaWVZwUktpaHRZME9FWnRpWHRTbEhad3dDRUE3TFFEbUxibUZsSkFpVlc1bHF1SDNxX19jM3QzRHNYanpoeWZxekdOWTlNaWN4RzVvaTJYNkVpUVpsOHN0ei1BeHQ5WWJmQkMwNWNQcVdxMlB0bUlOVHlsSENR?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "20d749c5d9e9",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-11T07:42:03Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed's Bowman flags persistent inflation, expects price pressure to ease next year",
+"url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV3FQUWVaQXRiM3JRUC1LUUJoVVg3SjJOYUd6REh6eGZsVDh1eFMzbTM4RUtwRkY0cVVwS2RYVnhNb1VtSzBJOFpoTzRUODE1UFpzLXRRNUNkX1pkdlJ3OTN5QUstY1Ztb3A2NnVnNEh2dUtvQ0VNZ0gwbmhNS3RRMThMcXRzem9FOVpfOUpQeGdfR2tiaTBBeFYzS3h0dEp2T1JpRTJRTWh4RUN1M1hUSmoxandPSGZ2b2dnRTNoaUNDOUFNRWlvM01pOUdjXzFZT2FaeUdaV3VlendvQ3NxOW8yYk5EYlpGNW9pTmx1XzlHZVRrMXZDb19TY1VEd9IBgwJBVV95cUxQWk1pbEtqZ3ZvQk84c3d0YU5uNy1YSHhOVElxN3I1bGJVcnpod1ZSQ0dUYVB2aWF1Ym9HRWJhVmNFRHVndE5nNW5RY0pCREduY3ZVX2hFX1F6YVlXMXpGMm1nbkFqREh4VExabXB3SE40eDZpemVOa0NEX29xVWJUSGptd0tZeTZvX1FvbklkZTJtQkZwODJpdG1SdEpjdW9ZSGNmZ3FkcFR5bXJfeHh5TUVXREl4bVJZS091TVEzcEZYcTktNG55ejdaN2tvMWdRYnJldlFqMmo3dnF5eTRaUVY4WktiVlFFMWlINGlKaUtwX0VEemVyTFlWcVZHNFF1YnEw?oc=5",
+"src": "The Economic Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "960acd339c70",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-11T04:14:17Z",
 "bank": "Fed",
 "speaker": "",
@@ -261,7 +321,8 @@
 "also": [
 "American Banker",
 "Reuters",
-"Kitco"
+"Kitco",
+"Investing.com"
 ],
 "desc": "",
 "id": "b3d9fbc06bbd",
@@ -2252,7 +2313,9 @@
 "src": "The Hill",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Forex Factory"
+],
 "desc": "",
 "id": "985387f579cc",
 "score": 4,
