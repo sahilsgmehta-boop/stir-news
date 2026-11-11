@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T09:33:36Z",
+ "built": "2026-11-11T11:55:29Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,14 +17,13 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
+   "kept": 2,
    "added": 1,
    "error": "",
    "near_misses": [
     "Germany October inflation slows, but winter energy risks keep ECB rate hike bets alive",
     "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
-    "Three drivers setting gold\u2019s tone as December Fed hike bets build, according to Standard Chartered",
-    "NIESR sees UK inflation above BoE target for four years, peaking at 4.4% in 2027"
+    "Three drivers setting gold\u2019s tone as December Fed hike bets build, according to Standard Chartered"
    ]
   },
   {
@@ -52,7 +51,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast"
+   ]
   },
   {
    "id": "gn_fed",
@@ -60,20 +61,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
-   "added": 1,
+   "kept": 71,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "The countdown to the Fed\u2019s next move",
+    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
-    "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
+    "Inflation Bites Back: The Fed's Hawkish Reckoning Meets the $90 Billion AI IPO Test",
     "USD/CAD Price Forecast: Debate over size of Fed\u2019s next rate hike backs further upside",
     "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
     "Jumbo Fed rate-hike warning sends shock waves after inflation surprise",
-    "Rate Trading Rose in October and a Fed Governor Leans Toward Backing a December Hike",
-    "Why Your Bank Statement and the Fed's Chart Don't Agree"
+    "Rate Trading Rose in October and a Fed Governor Leans Toward Backing a December Hike"
    ]
   },
   {
@@ -82,20 +83,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 0,
+   "kept": 67,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
-    "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "A jumbo Fed rate hike is on the table, top official says",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Inflation remained elevated in October, cementing a Fed rate increase",
-    "Bonds reel as hot inflation fuels jumbo Fed hike fears",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Top Federal Reserve official considers largest rate rise since 2022"
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
+    "Top Federal Reserve official considers largest rate rise since 2022",
+    "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+    "\u2018Fed Is Fighting the Wrong Inflation\u2019: Strategist Warns Kevin Warsh Against \u2018Reckless\u2019 50-Basis-Point Rat",
+    "Fed rate hike odds hit 100% as Waller floats bigger December move"
    ]
   },
   {
@@ -103,9 +104,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
+   "fetched": 61,
    "kept": 25,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "German Economy on the Mend Though Reforms Needed, Nagel Says",
@@ -116,8 +117,8 @@
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
     "E.U. ministers are pushing for a December deal on ECB's next president",
     "European Union seeks to pick new European Central Bank head by year end",
-    "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
-    "Watch Successor Must Follow Lagarde's Approach: Nadia Calvi\u00f1o"
+    "Once Christine Lagarde goes, ECB can focus on economics over politics",
+    "Spanish minister Cuerpo builds case for Madrid's candidate to replace Lagarde at the ECB"
    ]
   },
   {
@@ -165,10 +166,11 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
-    "Bank of Canada Officials Say Uncertainty Doesn\u2019t Rule Out Hikes",
+    "BlackRock, Scotiabank Economists Are Seen as Contenders to Run Bank of Canada",
     "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
+    "Bank of Canada Officials Say Uncertainty Doesn\u2019t Rule Out Hikes",
     "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
+    "Bank of Canada says another rate increase may be needed as energy costs spread",
     "Bank of Canada designates RTR as a prominent payment system",
     "Jobs miss pushes Bank of Canada hike bets down to 35%",
     "Bond market scales back bets for Bank of Canada rate hikes",
@@ -180,13 +182,14 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 2,
+   "fetched": 3,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Slips as Markets Focus on Fed Tightening and Dovish SNB"
+    "Swiss Franc Slips as Markets Focus on Fed Tightening and Dovish SNB",
+    "Swiss Franc Declines Amid Divergent Fed-SNB Rate Outlooks"
    ]
   },
   {
