@@ -5631,6 +5631,55 @@
    "basis": "reports",
    "at": "2026-11-11T11:55:07Z",
    "by": "claude"
+  },
+  "32eaac9b0f00": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Governor says higher rates are needed to rein in inflation.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-11T15:54:49Z",
+   "by": "claude"
+  },
+  "8e22c4f65bad": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Recaps Waller's December-hike call and 50bp threshold as CPI stayed hot.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-11T15:54:49Z",
+   "by": "claude"
+  },
+  "6173fb9077fd": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calling October inflation 'borderline disturbing' adds weight to further hikes.",
+   "sum": "Goolsbee called October inflation 'borderline disturbing', as Goldman added another Fed hike to its forecast.",
+   "pts": [
+    "Described the October inflation data as 'borderline disturbing'.",
+    "Goldman Sachs added another Fed hike to its forecast on the same day."
+   ],
+   "rr": "Adds support for a December hike and a follow-up in early 2027; nothing reported points to him backing 50bp. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-11T15:54:49Z",
+   "by": "claude"
+  },
+  "cddc3dc30762": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Workshop speech on quantitative finance; no monetary policy signal reported.",
+   "ev": "Speech, CFM-Imperial Workshop on Quantitative Finance",
+   "basis": "reports",
+   "at": "2026-11-11T15:54:49Z",
+   "by": "claude"
+  },
+  "896a6c259d45": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Research blog on wealth inequality; no rate signal.",
+   "ev": "ECB Blog",
+   "basis": "reports",
+   "at": "2026-11-11T15:54:49Z",
+   "by": "claude"
   }
  }
 }
