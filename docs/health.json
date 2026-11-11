@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T15:55:07Z",
+ "built": "2026-11-11T17:24:50Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
-   "added": 3,
+   "kept": 64,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
@@ -69,9 +69,9 @@
     "A Fed Governor Called the Latest Inflation Data 'Borderline Disturbing.' A Half-Point Hike is Now Firmly on the Table.",
     "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "USD/CAD Price Forecast: Debate over size of Fed\u2019s next rate hike backs further upside",
     "Inflation Bites Back: The Fed's Hawkish Reckoning Meets the $90 Billion AI IPO Test",
-    "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss"
+    "USD/CAD Price Forecast: Debate over size of Fed\u2019s next rate hike backs further upside",
+    "Economists Warn: Fed\u2019s \u2018Over-Tightening\u2019 Replaces AI Trade as Top Threat to US Equities in 2027"
    ]
   },
   {
@@ -80,20 +80,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 3,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
     "Chicago Fed chief calls October inflation 'borderline disturbing'",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
-    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Fed officials signal faster rate hikes as October inflation runs hot",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Fed officials signal faster rate hikes as October inflation runs hot",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "A jumbo Fed rate hike is on the table, top official says",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Top Federal Reserve official considers largest rate rise since 2022"
+    "Fed officials open door to a quicker round of rate hikes as inflation worsens"
    ]
   },
   {
@@ -101,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 23,
+   "fetched": 61,
+   "kept": 26,
    "added": 2,
    "error": "",
    "near_misses": [
     "German Economy on the Mend Though Reforms Needed, Nagel Says",
+    "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Lagarde's early exit will not delay the digital euro, ECB says",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
     "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
+    "Exclusive poll 2027: Christine Lagarde is \u201cwell received\u201d by centrist voters",
     "Bundesbank's Nagel: German Growth to Accelerate This Quarter - News and Statistics",
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
-    "Nagel: German economy headed for stronger recovery",
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
-    "European Union seeks to pick new European Central Bank head by year end",
-    "Once Christine Lagarde goes, ECB can focus on economics over politics"
+    "Nagel: German economy headed for stronger recovery"
    ]
   },
   {
@@ -124,10 +124,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 27,
-   "kept": 20,
+   "kept": 19,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "ECB may need to hike in Dec, chief economist says"
+   ]
   },
   {
    "id": "gn_boe",
@@ -139,16 +141,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
-    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England policymaker refuses to rule out back-to-back rate rises",
-    "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "\u201cClear financial stability risks\u201d from AI warns Bank of England governor",
     "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
-    "UK inflation to overshoot Bank of England target for next 4 years, think-tank forecasts"
+    "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
   },
   {
@@ -166,9 +168,9 @@
     "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
     "Bank of Canada Officials Say Uncertainty Doesn\u2019t Rule Out Hikes",
     "Further interest rate hikes possible: Bank of Canada",
-    "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
     "Bank of Canada says another rate increase may be needed as energy costs spread",
     "Bank of Canada signals more rate hikes may come despite uncertainty",
+    "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
     "Bond market scales back bets for Bank of Canada rate hikes",
     "Bond market scales back bets for Bank of Canada rate hikes"
    ]

@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-11T16:18:56Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde calls for urgent acceleration of capital markets integration",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXU0Y3VBWU1Pa2NfQW9wZHJPdjkzSF9wYXM2MFpfRkRMNU1XcWJ1bUx4REdsdjdJNk1UOGlua2FDMGtFMzVWYUh3d3owNlFGN0hLQmFFeTJkeWRXS2tNZ0NJYXI2VVIxMXN6Q2NQc2RwRVlqbzdxa0pvYnJLRXYwQ1FvbTJoLVlNQU8yVE9zQ0Y2QnVSTFlNX05ZYjJSNHIxU0hQYVRVSENoWjg5NzhLZHZMa2ZRZw?oc=5",
+"src": "Plataforma Media",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1bee163b72f8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-11T16:06:39Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "Nagel Signals December ECB Rate Rise as Energy Prices Ease and Focus Stays on Inflation Target",
+"url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTFVBVVlyQkREY3NZS0ZVb0xlWEFPSzlTLWU4UWcxLTdWN2VKNHllOG83cDlGMzB1S1RGX2ZvSW9CNHIydlZzWU9DREFJU2JNZjBsbTdZTlhfYm5qa2FOOTFpTnFydm5SQU9tMVotWGY4c0pwME41cWJobS1JVkY4bXRTYndjZzJlN3ZxRGMzRGJad05nZWg4OElpU2JuWUNuOUJTTkw0VzZBRkdVNmg0RDVLT3dieUw1ejg1X0YxQW1DWThmdzduUEtmTlQxOU51cGVmdUU3aw?oc=5",
+"src": "VT Markets",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "7c482cea6104",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-11T15:33:03Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -369,7 +409,9 @@
 "The Business Times",
 "The Star",
 "Investing.com India",
-"Investing.com"
+"Investing.com",
+"Yahoo Finance Singapore",
+"KLSE Screener"
 ],
 "desc": "",
 "id": "ac9658fb8431",
@@ -2783,7 +2825,8 @@
 "tone": "neutral",
 "also": [
 "Reuters",
-"Kitco"
+"Kitco",
+"Virginia Business"
 ],
 "desc": "",
 "id": "a5efc82218a5",
