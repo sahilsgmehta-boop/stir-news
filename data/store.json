@@ -1,6 +1,29 @@
 {
 "items": [
 {
+"t": "2026-11-11T21:00:00Z",
+"bank": "BoE",
+"speaker": "Greene",
+"hl": "Bank of England’s Greene calls for proactive policy tightening",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHlEQk1jTGVWT2pzVjN4dVRTVndNbmpiOTZNT2hDbkV6NzlGc1Bnbk5KdVB0UnNaWTY1V2s3VFpSQkhEMkFneWQzUDVkQlVaSnlfcGlxWU84bmVBMVl6TENhRHRwTUhNYmtzLTRGekp2Smk2LTc1Wm1aWGFRZWhCVHAydzd2a3ZXcHJFdGRfc0VpaXYyYVh6ZFdQX1AyWFFqODlaUFhoeVFPMno2bTd0NUlkRThDYkxJLXc?oc=5",
+"src": "Investing.com",
+"tier": "comment",
+"tone": "",
+"also": [
+"Investing.com India",
+"Investing.com UK"
+],
+"desc": "",
+"id": "945e40775b10",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-11T18:52:28Z",
 "bank": "Fed",
 "speaker": "Barkin",
@@ -32,7 +55,8 @@
 "also": [
 "Reuters",
 "Yahoo Finance UK",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"FXStreet"
 ],
 "desc": "BOE’s Greene said monetary policy should lean against the risk of wage growth becoming entrenched at higher levels, according to the FT. It is appropriate to proactively tighten our monetary policy stance to lean against the risk of wage growth getting stuck at higher levels. Other BOE comments this week Governor Bailey highlighted the potential benefits of AI investment: In the UK, economic activity is turning out to be more resilient than we had expected, and some of that is due to AI investment, particularly in the business services sector. We are seeing growing signs of the beginnings of a",
 "id": "1e0707cd4e87",
@@ -787,7 +811,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"CU Today"
+],
 "desc": "",
 "id": "007f3feecfd3",
 "score": 1,
@@ -890,7 +916,9 @@
 "src": "FourWeekMBA",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"24/7 Wall St."
+],
 "desc": "",
 "id": "8197b61c4061",
 "score": 0,
@@ -1197,7 +1225,8 @@
 "tone": "neutral",
 "also": [
 "Investing.com Australia",
-"Investing.com"
+"Investing.com",
+"Yahoo Finance UK"
 ],
 "desc": "",
 "id": "250e21179f14",
@@ -1243,7 +1272,8 @@
 "also": [
 "Central Oregon Daily",
 "Euronext Markets: Real-time Stock Market Data | live",
-"AOL.co.uk"
+"AOL.co.uk",
+"AOL.com"
 ],
 "desc": "",
 "id": "ee9859907721",
