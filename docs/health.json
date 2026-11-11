@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T11:55:29Z",
+ "built": "2026-11-11T15:55:07Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,12 +18,11 @@
    "ok": true,
    "fetched": 25,
    "kept": 2,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Germany October inflation slows, but winter energy risks keep ECB rate hike bets alive",
-    "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
-    "Three drivers setting gold\u2019s tone as December Fed hike bets build, according to Standard Chartered"
+    "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!"
    ]
   },
   {
@@ -51,9 +50,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_fed",
@@ -61,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
-   "added": 0,
+   "kept": 66,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
+    "Chicago Fed chief calls October inflation 'borderline disturbing'",
     "The countdown to the Fed\u2019s next move",
+    "A Fed Governor Called the Latest Inflation Data 'Borderline Disturbing.' A Half-Point Hike is Now Firmly on the Table.",
     "The Fed\u2019s First Calendar Change Since 1981 Could Affect What Your Savings Earn",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "Inflation Bites Back: The Fed's Hawkish Reckoning Meets the $90 Billion AI IPO Test",
     "USD/CAD Price Forecast: Debate over size of Fed\u2019s next rate hike backs further upside",
-    "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
-    "Jumbo Fed rate-hike warning sends shock waves after inflation surprise",
-    "Rate Trading Rose in October and a Fed Governor Leans Toward Backing a December Hike"
+    "Inflation Bites Back: The Fed's Hawkish Reckoning Meets the $90 Billion AI IPO Test",
+    "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss"
    ]
   },
   {
@@ -83,20 +80,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 62,
    "added": 3,
    "error": "",
    "near_misses": [
+    "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
+    "Chicago Fed chief calls October inflation 'borderline disturbing'",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
+    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Fed officials signal faster rate hikes as October inflation runs hot",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "A jumbo Fed rate hike is on the table, top official says",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Top Federal Reserve official considers largest rate rise since 2022",
-    "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "\u2018Fed Is Fighting the Wrong Inflation\u2019: Strategist Warns Kevin Warsh Against \u2018Reckless\u2019 50-Basis-Point Rat",
-    "Fed rate hike odds hit 100% as Waller floats bigger December move"
+    "Top Federal Reserve official considers largest rate rise since 2022"
    ]
   },
   {
@@ -104,21 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 25,
-   "added": 0,
+   "fetched": 57,
+   "kept": 23,
+   "added": 2,
    "error": "",
    "near_misses": [
     "German Economy on the Mend Though Reforms Needed, Nagel Says",
+    "Lagarde's early exit will not delay the digital euro, ECB says",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
+    "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
+    "Bundesbank's Nagel: German Growth to Accelerate This Quarter - News and Statistics",
     "As Lagarde steps down from the ECB, climate risks remain monetary risks",
     "Nagel: German economy headed for stronger recovery",
-    "Succession to ECB president Lagarde and two Board members is to be decided before end 2026",
     "France may back Pablo Hernandez de Cos over Klaas Knot for ECB president",
-    "E.U. ministers are pushing for a December deal on ECB's next president",
     "European Union seeks to pick new European Central Bank head by year end",
-    "Once Christine Lagarde goes, ECB can focus on economics over politics",
-    "Spanish minister Cuerpo builds case for Madrid's candidate to replace Lagarde at the ECB"
+    "Once Christine Lagarde goes, ECB can focus on economics over politics"
    ]
   },
   {
@@ -126,34 +123,32 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 19,
+   "fetched": 27,
+   "kept": 20,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "New ECB board needs more women, Austrian central bank chief says"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
-   "kept": 12,
+   "fetched": 49,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "Bank of England blamed as inflation forecast to stay high into 2030s",
-    "Bank of England policymaker refuses to rule out back-to-back rate rises",
-    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "\u201cClear financial stability risks\u201d from AI warns Bank of England governor",
     "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "Bank of England policymaker refuses to rule out back-to-back rate rises",
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
-    "UK inflation to overshoot Bank of England target for next 4 years, think-tank forecasts",
-    "The Bank of England hints at another interest-rate rise in December"
+    "\u201cClear financial stability risks\u201d from AI warns Bank of England governor",
+    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
+    "UK inflation to overshoot Bank of England target for next 4 years, think-tank forecasts"
    ]
   },
   {
@@ -161,18 +156,19 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "BlackRock, Scotiabank Economists Are Seen as Contenders to Run Bank of Canada",
+    "Scotiabank, BlackRock economists seen as contenders to lead Bank of Canada - report (BLK:NYSE)",
     "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
     "Bank of Canada Officials Say Uncertainty Doesn\u2019t Rule Out Hikes",
+    "Further interest rate hikes possible: Bank of Canada",
     "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
     "Bank of Canada says another rate increase may be needed as energy costs spread",
-    "Bank of Canada designates RTR as a prominent payment system",
-    "Jobs miss pushes Bank of Canada hike bets down to 35%",
+    "Bank of Canada signals more rate hikes may come despite uncertainty",
     "Bond market scales back bets for Bank of Canada rate hikes",
     "Bond market scales back bets for Bank of Canada rate hikes"
    ]
@@ -182,14 +178,14 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 3,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Slips as Markets Focus on Fed Tightening and Dovish SNB",
-    "Swiss Franc Declines Amid Divergent Fed-SNB Rate Outlooks"
+    "Swiss Franc Slips as Markets Focus on Fed Tightening and Dovish SNB"
    ]
   },
   {
@@ -280,7 +276,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 6,
+   "added": 5,
    "error": ""
   },
   {
@@ -290,7 +286,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 25,
+   "added": 24,
    "error": ""
   },
   {
