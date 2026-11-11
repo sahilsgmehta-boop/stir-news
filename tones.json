@@ -5545,6 +5545,92 @@
    "read": "Not a policy remark.",
    "at": "2026-11-11T07:01:56Z",
    "by": "claude"
+  },
+  "1e2d4c19cb93": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Welcomes markets pricing fiscal risk; no signal on the rate path.",
+   "sum": "Escrivá said it is a positive that markets are pricing fiscal risks, signalling discipline on sovereign spreads rather than a view on rates.",
+   "pts": [
+    "Sees positives in markets pricing fiscal risks.",
+    "Implies market discipline on government finances is welcome rather than a problem for the ECB.",
+    "Headline gives no comment on inflation or the next rate decision."
+   ],
+   "rr": "No direct read for ECB meeting pricing; mildly consistent with the ECB declining to lean against wider sovereign spreads. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-11T11:55:07Z",
+   "by": "claude"
+  },
+  "2d9f563ac8f2": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calls October CPI 'disturbing', adding to the case for further hikes.",
+   "sum": "Goolsbee called the October CPI report 'disturbing', adding his voice to Fed officials alarmed by persistent inflation after the hot print.",
+   "pts": [
+    "Described October CPI as 'disturbing'.",
+    "Follows his recent warnings that services inflation is rising beyond tariff effects.",
+    "Comes after the October core print met the threshold Waller set for weighing a 50bp move."
+   ],
+   "rr": "Supports the December hike already heavily priced and leans toward more tightening into early 2027; non-voter in 2026, so limited extra impact. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-11T11:55:07Z",
+   "by": "claude"
+  },
+  "1fb4fc9ba41b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-11T11:55:07Z",
+   "by": "claude"
+  },
+  "960acd339c70": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Flags persistent inflation but expects it to ease next year; no push for more hikes.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T11:55:07Z",
+   "by": "claude"
+  },
+  "20d749c5d9e9": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Expects German growth to pick up in Q4; no rate signal.",
+   "sum": "Nagel said German growth is likely to accelerate in the fourth quarter, a modestly firmer activity outlook without explicit rate guidance.",
+   "pts": [
+    "Expects German growth to accelerate in Q4.",
+    "Firmer activity reduces the growth argument against further ECB tightening.",
+    "No reported comment on the December decision."
+   ],
+   "rr": "Marginally supports ECB hike pricing by easing growth concerns, but adds little to meeting-by-meeting pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-11T11:55:07Z",
+   "by": "claude"
+  },
+  "8510c64a69d5": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Recaps Waller's hawkish 50bp-hike remarks as hot CPI hit his threshold.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-11T11:55:07Z",
+   "by": "claude"
+  },
+  "05b2880fa0f0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Routine APF letters between Governor and Chancellor; no signal on Bank Rate.",
+   "sum": "The Governor and Chancellor exchanged their regular letters on the Asset Purchase Facility, a routine governance step for the BoE's gilt holdings.",
+   "pts": [
+    "Published exchange of letters on the Asset Purchase Facility for November 2026.",
+    "Covers the arrangements for the APF's gilt holdings; the text itself could not be read this run."
+   ],
+   "rr": "No implication for December Bank Rate pricing; relevant only to the gilt balance-sheet run-off backdrop. Only news paraphrases were available.",
+   "ev": "Letters, Governor and Chancellor",
+   "basis": "reports",
+   "at": "2026-11-11T11:55:07Z",
+   "by": "claude"
   }
  }
 }
