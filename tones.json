@@ -5669,8 +5669,14 @@
    "read": "Workshop speech on quantitative finance; no monetary policy signal reported.",
    "ev": "Speech, CFM-Imperial Workshop on Quantitative Finance",
    "basis": "reports",
-   "at": "2026-11-11T15:54:49Z",
-   "by": "claude"
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude",
+   "sum": "Hall's workshop speech 'Principals and Agents' addressed quantitative finance; no monetary policy signal was reported.",
+   "pts": [
+    "Speech at a quantitative-finance workshop hosted by Deutsche Bank.",
+    "No reported comment on Bank Rate, inflation or the December MPC."
+   ],
+   "rr": "No implication for BoE meeting pricing. Only news paraphrases were available."
   },
   "896a6c259d45": {
    "tone": "neutral",
@@ -5678,7 +5684,89 @@
    "read": "Research blog on wealth inequality; no rate signal.",
    "ev": "ECB Blog",
    "basis": "reports",
-   "at": "2026-11-11T15:54:49Z",
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude",
+   "sum": "ECB research blog on how the sovereign debt crisis shaped euro-area wealth inequality; not a policy statement.",
+   "pts": [
+    "Research blog post on wealth inequality after the sovereign debt crisis.",
+    "Carries no guidance on rates or the balance sheet."
+   ],
+   "rr": "No implication for ECB meeting pricing. Only news paraphrases were available."
+  },
+  "3d218a1482d2": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says German recovery is stronger than forecast; activity update, no direct rate signal.",
+   "lead": "20d749c5d9e9",
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude"
+  },
+  "7c482cea6104": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Signals a December ECB hike, keeping focus on the inflation target as energy eases.",
+   "lead": "20d749c5d9e9",
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude"
+  },
+  "9aaf1ebc9b0f": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Stresses that upside risks to inflation remain, leaning toward further tightening.",
+   "sum": "Makhlouf said upside risks to inflation remain, keeping the door open to further ECB tightening.",
+   "pts": [
+    "Said upside risks to inflation remain.",
+    "No reported explicit call on the December decision."
+   ],
+   "rr": "Mildly supportive of the December hike priced for the ECB; adds no new information on the terminal rate. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude"
+  },
+  "487747ed6f60": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude"
+  },
+  "6cbdb845d6c5": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude"
+  },
+  "2269e3b6a9e1": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Says the inflation fight isn't over but warns of a fragile 'patch and pray' economy.",
+   "sum": "Barkin conceded the inflation fight is not over while describing a fragile 'patch and pray' economy, a balanced message without a December signal.",
+   "pts": [
+    "Said the fight against inflation is not over.",
+    "Described the economy as 'patch and pray', flagging fragility.",
+    "No reported signal on the size or timing of the next move."
+   ],
+   "rr": "Neutral for December pricing: acknowledges inflation risk without endorsing the larger hikes floated by Waller and Logan. Only news paraphrases were available.",
+   "ev": "Commentary piece, SchiffGold",
+   "basis": "reports",
+   "at": "2026-11-11T20:54:22Z",
+   "by": "claude"
+  },
+  "1bee163b72f8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural call for faster capital markets integration; no monetary policy signal.",
+   "sum": "Lagarde called for urgent acceleration of EU capital markets integration, a structural message with no monetary policy content.",
+   "pts": [
+    "Urged faster integration of European capital markets.",
+    "No reported comment on inflation or the rate path."
+   ],
+   "rr": "No implication for ECB meeting pricing or the curve. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-11T20:54:22Z",
    "by": "claude"
   }
  }
