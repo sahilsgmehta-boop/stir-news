@@ -5222,6 +5222,329 @@
    "basis": "reports",
    "at": "2026-11-10T20:55:35Z",
    "by": "claude"
+  },
+  "2b7b524d13f1": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Says inflation is a priority but wants more data and stresses costs of further tightening.",
+   "sum": "Bowman said inflation is persisting and remains a priority, but she wants more information on the recent hike's effects and weighed further tightening against its costs.",
+   "pts": [
+    "Estimates October core PCE at about 3.3% and expects it to move closer to 2% next year.",
+    "Attributes roughly a quarter each of excess core inflation to tariffs, energy and AI-related demand.",
+    "Unemployment at 4.1% is near her natural-rate estimate; wage growth has slowed to about 3.1%.",
+    "Will look through temporary energy effects but watch for spillovers to broader prices and expectations.",
+    "Says financial conditions have tightened and policy is not on a preset course.",
+    "Will check October PCE and November payrolls before the December meeting; warned of an AI-led equity correction."
+   ],
+   "rr": "Does not endorse the heavily priced December hike; leans toward patience, a mild pushback on pricing for further moves into early 2027.",
+   "ev": "Speech, Council on Foreign Relations (Washington)",
+   "basis": "verbatim",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "b3d9fbc06bbd": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says inflation is broadening and there is more work to do, without committing to a hike.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "cc8258597dde": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Focus on inflation, but wants AI and Middle East risks to ease before judging.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "007f3feecfd3": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Flags persistent inflation pressures after CPI, but no call for a December move.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "7297b4b3f1ee": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Wants more confidence and data before changing rates.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "8197b61c4061": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Breaks down excess inflation sources; descriptive, no policy signal.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "d8bdf1209fbf": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Expects core inflation near 2% next year and stresses costs of more tightening.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "5c6d05249114": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Still work to do on inflation, but no endorsement of a December hike.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "1925d6f4744b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Describes AI and geopolitical risks shaping policy; balanced.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "af7eda2a2f91": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Inflation the priority, but expects it to ease next year.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "c33ab96cd26b": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Work to do on inflation, weighed against tighter financial conditions.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "82c21dc8380b": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Warns of AI-led equity correction, a downside risk that would soften inflation.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "73918581da1c": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Voter backs further gradual hikes and would move faster if inflation pressures build.",
+   "sum": "Paulson said further gradual tightening seems appropriate, policy must be somewhat restrictive, and she would act more quickly if inflation expectations, wages or underlying inflation move up.",
+   "pts": [
+    "Said further gradual tightening seems appropriate; the exact path depends on the data.",
+    "Said policy needs to be somewhat restrictive to return inflation to 2%.",
+    "Puts underlying inflation at 2.5% to 3%, driven by tariffs, energy and AI investment.",
+    "Said October CPI shows inflation pressures are still very much with us.",
+    "Would act more quickly if expectations drift up, wage pressures build or underlying inflation rises."
+   ],
+   "rr": "A 2026 voter supporting the priced December hike and a follow-up in early 2027; preference for gradual steps tempers 50bp odds, though her triggers keep that tail alive. Only news paraphrases were available.",
+   "ev": "Speech, 81st Annual Field Meeting (Conshohocken, PA)",
+   "basis": "reports",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "ac9658fb8431": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Backs more hikes but at a gradual pace, tempering 50bp talk.",
+   "lead": "73918581da1c",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "a018f2bf39f2": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs gradual hikes and names triggers for faster tightening.",
+   "lead": "73918581da1c",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "ad51fa0227ac": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Voter says the Fed has more work to do on inflation.",
+   "lead": "73918581da1c",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "69fc1812d5ad": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Voter signals more hikes after hot October CPI.",
+   "lead": "73918581da1c",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "4a4ac007ca64": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls CPI borderline disturbing and says everything is on the table.",
+   "sum": "Goolsbee called October CPI 'borderline disturbing', said the US has a real inflation problem, and that everything is on the table to return inflation to target.",
+   "pts": [
+    "Said services inflation is not easing, suggesting entrenched pressure.",
+    "Worried that price increases are spreading across many categories.",
+    "Said inflation feeding into expectations would be a major concern requiring a response.",
+    "Described the job market as steady and stable.",
+    "Gave no specific rate move but said everything is on the table."
+   ],
+   "rr": "Adds non-voter weight to the priced December hike and the case for further hikes in 2027; strong language nudges 50bp odds up slightly. Only news paraphrases were available.",
+   "ev": "Interview, PBS NewsHour",
+   "basis": "reports",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "b483f44099e4": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Voter repeats call for two more hikes as inflation risks entrench.",
+   "lead": "a555340b9845",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "de24b796bc7b": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Warns October PCE could rise and faster hikes this winter are possible.",
+   "lead": "a555340b9845",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "0398195d9f94": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Logan and Waller signal readiness to hike faster, with 50bp on the table.",
+   "lead": "a555340b9845",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "502e1177af60": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Recap of Waller's call for further tightening and possible 50bp.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "78b6c7a49284": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says policy is accommodative, not restrictive, and calls for tighter policy.",
+   "sum": "Schmid said policy is fairly accommodative rather than restrictive, flagged concerning price trends beneath the energy shock, and called for tighter policy to control inflation.",
+   "pts": [
+    "Said he did not think rates were restrictive last year and sees them as fairly accommodative now.",
+    "Outside housing, he finds no sign of policy restricting the economy.",
+    "Sees concerning price trends underneath the energy story; inflation is top of mind.",
+    "Called for tighter policy to bring inflation down.",
+    "Noted that no one voted to hike at the end of October despite hawkish talk."
+   ],
+   "rr": "Supports the priced December hike and argues for a higher terminal rate than a single move; non-voter in 2026, so limited weight. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "ed2732b31f5f": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says policy is accommodative and inflation trends are concerning beyond energy.",
+   "lead": "78b6c7a49284",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "23b28cfc633f": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calls for tighter policy to control inflation.",
+   "lead": "78b6c7a49284",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "1edba25503fc": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Warns inflation goes beyond energy while policy stays loose.",
+   "lead": "78b6c7a49284",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "ee9859907721": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Rate path hinges on spillovers; keeps hike option without committing to more.",
+   "sum": "Lane said the ECB's rate path hinges on how far energy inflation spreads to wages and prices, and set a high bar for directional forward guidance.",
+   "pts": [
+    "Said rate decisions depend on wage and price spillovers from the energy shock.",
+    "Underlying inflation has not moved yet, which he called the usual delayed response.",
+    "Warned underlying inflation may rise even as energy prices fall.",
+    "Puts a very high bar on directional forward guidance and a premium on consensus; dots would be difficult.",
+    "Said it is important the ECB has an instrument for multiple equilibria in bond markets."
+   ],
+   "rr": "Consistent with the priced December hike he called prudent earlier, but refusing guidance leaves 2027 pricing data-dependent rather than adding further hikes. Only news paraphrases were available.",
+   "ev": "Remarks/Q&A, 10 Nov",
+   "basis": "reports",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "f3c92a0d2d82": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "High bar for directional guidance; no commitment beyond December.",
+   "lead": "ee9859907721",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "250e21179f14": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Decisions hinge on wage and price spillovers; data-dependent.",
+   "lead": "ee9859907721",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "02ae8873d0e0": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Warns underlying inflation may still rise as energy falls.",
+   "lead": "ee9859907721",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "f416bfbef42c": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Minutes show Council sees a possible need to hike further as inflation risks rose.",
+   "sum": "BoC deliberations show the Governing Council weighed holding at 2.25% against hiking to 2.50% and agreed there could be a need to raise rates further.",
+   "pts": [
+    "Council weighed a hold at 2.25% against the hike to 2.50% it delivered.",
+    "Members agreed there could be a need to increase the policy rate further.",
+    "Said the risk that high inflation persists and broadens has increased.",
+    "Higher-for-longer oil scenario has come to pass, with oil about US$35 above the July assumption.",
+    "Decisions will be taken one meeting at a time."
+   ],
+   "rr": "Keeps another BoC hike in play for December or January and supports front-end pricing of further tightening, without pre-committing. Only news paraphrases were available.",
+   "ev": "Summary of deliberations, October decision",
+   "basis": "reports",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "e93a07d9d2bb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
+  },
+  "e43deecc398e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-11T07:01:56Z",
+   "by": "claude"
   }
  }
 }
