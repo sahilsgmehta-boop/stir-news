@@ -72,6 +72,7 @@ def tradingview(start, end):
 
 FF_CC = {"USD": "US", "EUR": "EU", "GBP": "GB", "CAD": "CA", "CHF": "CH"}
 FF_CACHE = os.path.join(HERE, "data", "ff_speeches.json")
+LEADER = re.compile(r"Fed Chair|ECB President Lagarde|BOE Gov |BOC Gov |SNB Chairman|Warsh|Lagarde|Bailey|Macklem|Schlegel", re.I)
 FF_EVERY = 3600          # ForexFactory asks for no more than a request or two an hour
 SPEECH = re.compile(r"\b(speaks|speech|testifies|testimony|press conference|remarks|hearing)\b", re.I)
 
@@ -110,7 +111,8 @@ def ff_speeches(now):
             d = json.loads(get(f"https://nfs.faireconomy.media/ff_calendar_{wk}.json"))
             ok = True
         except Exception as e:  # noqa: BLE001
-            health["errors"].append(f"ForexFactory {wk}: {e}"[:200])
+            if wk == "thisweek" or "404" not in str(e):   # next week's file only appears late in the week
+                health["errors"].append(f"ForexFactory {wk}: {e}"[:200])
             continue
         for e in d:
             c = FF_CC.get(e.get("country"))
@@ -121,7 +123,11 @@ def ff_speeches(now):
                 t = datetime.fromisoformat(e["date"]).astimezone(timezone.utc)
             except Exception:  # noqa: BLE001
                 continue
-            imp = {"High": 1, "Medium": 0, "Low": -1}.get(e.get("impact"), -1)
+            # the page shows high and medium by default: every speaker is at least medium,
+            # the heads of the five banks are high
+            imp = max(0, {"High": 1, "Medium": 0, "Low": -1}.get(e.get("impact"), -1))
+            if LEADER.search(title):
+                imp = 1
             out.append({"id": "ff" + hashlib.sha1((title + e["date"] + c).encode()).hexdigest()[:10],
                         "t": t.strftime("%Y-%m-%dT%H:%M:%SZ"), "c": c, "title": title,
                         "ind": "", "cat": "mny", "imp": imp, "period": "", "unit": "", "scale": "",
