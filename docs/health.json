@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T14:55:10Z",
+ "built": "2026-11-12T15:12:11Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
-   "added": 0,
+   "kept": 66,
+   "added": 1,
    "error": "",
    "near_misses": [
     "FRED Adds Median Inflation Data from the Cleveland Fed",
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 26,
+   "fetched": 60,
+   "kept": 25,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,8 +114,8 @@
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "German Economy on the Mend Though Reforms Needed, Nagel Says",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "German Economy on the Mend Though Reforms Needed, Nagel Says",
     "Who will choose the next European Central Bank president?",
     "ECB says Lagarde's exit will not delay the digital euro as Brussels negotiates the law"
    ]
@@ -138,17 +138,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 9,
+   "fetched": 36,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
-    "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Bank of England policymaker refuses to rule out back-to-back rate rises",
     "Bank of England raises rates for first time since 2023, says more may come",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",

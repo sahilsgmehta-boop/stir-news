@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-12T15:00:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Barr, American Inequality and the Future of AI",
+"url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+"src": "Federal Reserve speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Speech At Yale University, New Haven, Connecticut",
+"id": "c726a8b2b0e3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T14:36:15Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -121,6 +141,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-12T13:55:47Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed's Hammack: Fed Has Been Missing On Inflation Mandate For Years",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFJTcHpzQ0w2TUxvUXhTZlp1bWh6Qmx3X1JaX1Y4YzVaRVlBNFROdmZvbVNPZ3d1MVJfc1Fza09FNVY3X2NFN2ZNUjhVQWlnMzVEeVY3U2Y4b0toUk55SmljZ3BfRGZ1RTJHUHdTTFpBWWZNWjBoQWhXVE1QX2l4Qm42R1c5YUVSQTZ5QUR3X1huZ9IBlwFBVV95cUxPRVhaMFZIMEtIR053dnhQVGpwUlF4MlFjRDA0ZXBNdUo5S2R5bDlETG1DcXJoZFphSGRnbGp1QkNJUF9yTjJOVE5kS3dYWVJpdlZBektvdTBIOFVyS2pUc1dvYkVkR3VTOTVaZHhNNmZZbVp2R2xVeHlyYmZuRF8wT2VzcWtBQkxhdFpNakNBRkRuelhiQTNn?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2574419b098b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T13:47:21Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -210,7 +250,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"ThePrint"
+"ThePrint",
+"Bradenton Herald"
 ],
 "desc": "",
 "id": "6f15580eb55c",
@@ -1115,7 +1156,8 @@
 "Kitco",
 "Investing.com",
 "Bond Buyer",
-"AOL.com"
+"AOL.com",
+"Central Oregon Daily"
 ],
 "desc": "",
 "id": "b3d9fbc06bbd",
