@@ -836,6 +836,10 @@
   .cbh-jumpb{margin-left:auto; font-size:11.5px; padding:3px 10px}
   .cbh-sel{background:var(--panel); border:1px solid var(--rule); color:var(--ink); border-radius:6px; padding:5px 8px; font-size:12.5px; min-width:260px; max-width:100%}
   .cbh-sel:focus{outline:none; border-color:#3987e5}
+  .cbh-top{display:flex; flex-wrap:wrap; align-items:center; gap:12px 22px; background:var(--panel); border:1px solid var(--rule); border-radius:10px; padding:12px 16px; margin:4px 0 16px}
+  .cbh-topl{display:flex; align-items:center; gap:10px; flex:1 1 420px} .cbh-topl span{font-weight:700; font-size:13.5px; white-space:nowrap}
+  .cbh-top .cbh-sel{flex:1; max-width:520px; font-size:13.5px; padding:7px 10px}
+  #s-cbh{margin-top:4px}
 
   .cbsum{display:grid; grid-template-columns:repeat(5, minmax(0,1fr)); gap:10px; margin:6px 0 12px}
   .cbcard{background:var(--panel); border:1px solid var(--rule); border-radius:10px; padding:10px 12px; cursor:pointer; min-width:0}
@@ -1265,8 +1269,12 @@
 </div>
 
 <div id="pg-cb" hidden>
+  <div class="cbh-top">
+    <label class="cbh-topl"><span>Read a speaker's history</span><select id="cbh-s" class="cbh-sel"></select></label>
+    <div class="grp"><span class="lbl">View</span><span id="cbh-v"></span></div>
+  </div>
   <section id="s-cb">
-    <h2>Central bank commentary <span class="h2s">last 30 days</span> <button type="button" class="chip cbh-jumpb" id="cbh-jump">Comment history ↓</button></h2>
+    <h2>Central bank commentary <span class="h2s">last 30 days</span></h2>
     <div class="cbsum" id="cb-sum"></div>
     <p class="hint" id="cb-note"></p>
     <div class="bar">
@@ -1276,12 +1284,11 @@
     <div class="panel"><div id="cb-list"></div></div>
   </section>
 
-  <section id="s-cbh">
+  <section id="s-cbh" hidden>
     <h2>Comment history</h2>
     <p class="hint" id="cbh-note">Loading the comment history&hellip;</p>
     <div class="bar cbh-bar">
       <div class="grp"><span class="lbl">Bank</span><span id="cbh-b"></span></div>
-      <div class="grp"><span class="lbl">Speaker</span><select id="cbh-s" class="cbh-sel"></select></div>
       <div class="grp"><span class="lbl">Period</span><span id="cbh-p"></span></div>
       <div class="grp"><span class="lbl">Reading</span><span id="cbh-t"></span></div>
       <div class="grp"><span class="lbl">Show</span><span id="cbh-k"></span></div>
@@ -2824,7 +2831,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
   // Everyone on the roster, by bank, hawks first, with when they last spoke.
   // ---------- CB commentary page: comment history (cb_archive.js, every remark since Sep 2026) ----------
   var cbhState = { tried:false, failed:false };
-  var cbhUI = (function(){ var d = { bank:"All", who:"", tone:"all", per:"all", kind:"comment", q:"" };
+  var cbhUI = (function(){ var d = { bank:"All", who:"", tone:"all", per:"all", kind:"comment", q:"", view:"latest" };
     try { var s = JSON.parse(localStorage.getItem("cbhUI") || "null"); if (s) for (var k in d) if (s[k] !== undefined) d[k] = s[k]; } catch(e){}
     return d; })();
   var cbhLim = 30;
@@ -2872,14 +2879,52 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
   }
   function cbhScoreCls(v){ return v === null ? "" : v >= 1.5 ? "hawk" : v <= -1.5 ? "dove" : "neutral"; }
 
+  // every speaker, all time, grouped by bank: pick one to read their history
+  function cbhPicker(roster, all){
+    var el = document.getElementById("cbh-s"); if (!el) return;
+    var n = {}, keyOf = function(r){ return roster[r.bank + "|" + r.who] ? r.bank + "|" + r.who : r.bank + "|"; };
+    cbhGroups(all.filter(function(r){ return r.kind === "comment" || (r.kind === "official" && r.who && roster[r.bank + "|" + r.who]); }))
+      .forEach(function(g){ var k = keyOf(g.items[g.items.length - 1]); n[k] = (n[k] || 0) + 1; });
+    var html = "<option value=''" + (!cbhUI.who ? " selected" : "") + ">— Choose a speaker —</option>";
+    CB_BANKS.forEach(function(b){
+      var ppl = Object.keys(roster).filter(function(k){ return roster[k].bank === b; })
+        .sort(function(x, y){ return (n[y] || 0) - (n[x] || 0) || roster[x].full.localeCompare(roster[y].full); });
+      if (n[b + "|"]) ppl.push(b + "|");
+      if (!ppl.length) return;
+      html += "<optgroup label='" + esc(b) + "'>" + ppl.map(function(k){
+        var nm = roster[k] ? roster[k].full + " — " + roster[k].role : "Others & unattributed";
+        return "<option value='" + esc(k) + "'" + (cbhUI.who === k ? " selected" : "") + ">" + esc(nm) + (all.length ? "  (" + (n[k] || 0) + ")" : "") + "</option>";
+      }).join("") + "</optgroup>";
+    });
+    el.innerHTML = html;
+    if (!el._wired){
+      el._wired = true;
+      el.onchange = function(){
+        cbhUI.who = el.value;
+        if (el.value){ cbhUI.view = "history"; cbhUI.bank = el.value.slice(0, el.value.indexOf("|")); cbhUI.tone = "all"; cbhUI.q = ""; var qi = document.getElementById("cbh-q"); if (qi) qi.value = ""; }
+        cbhLim = 30; cbhSave(); drawCBH();
+        var t = document.getElementById("pg-cb"); if (t) t.scrollIntoView({ behavior:"smooth" });
+      };
+    }
+  }
+  function cbhView(){
+    var v = cbhUI.view === "history" ? "history" : "latest";
+    var a = document.getElementById("s-cb"), b = document.getElementById("s-cbh");
+    if (a) a.hidden = v !== "latest"; if (b) b.hidden = v !== "history";
+    var h = document.getElementById("cbh-v");
+    if (h) chips(h, [{v:"latest", t:"Latest (30 days)"}, {v:"history", t:"Speaker history"}], v, function(x){ cbhUI.view = x; cbhSave(); drawCBH(); });
+  }
+
   function drawCBH(){
     var host = document.getElementById("cbh-list"); if (!host) return;
     var note = document.getElementById("cbh-note");
     var A = window.STELLAR_CB_ARCHIVE;
+    cbhView();
+    cbhPicker(cbRoster(), A ? cbhItems() : []);
     if (!A){
       note.innerHTML = cbhState.failed ? "<b style='color:var(--warn)'>Could not load the comment history (cb_archive.js). The last 30 days are above.</b>"
                                        : "Loading the comment history&hellip;";
-      ["cbh-b", "cbh-p", "cbh-t", "cbh-k", "cbh-s", "cbh-prof"].forEach(function(id){ var e = document.getElementById(id); if (e) e.innerHTML = ""; });
+      ["cbh-b", "cbh-p", "cbh-t", "cbh-k", "cbh-prof"].forEach(function(id){ var e = document.getElementById(id); if (e) e.innerHTML = ""; });
       host.innerHTML = "";
       return;
     }
@@ -2892,21 +2937,19 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     var first = all.reduce(function(m, r){ return !m || r.t < m ? r.t : m; }, "");
     var nLab = policy.filter(function(r){ return typeof r.score === "number"; }).length;
     note.innerHTML = "Every remark collected since <b>" + cbWhen(first.slice(0, 10)) + " " + first.slice(0, 4) + "</b>: " + policy.length + " headlines, " + nLab
-      + " with a reading. Each card is one appearance (a speech or interview usually brings several headlines). The live feed keeps 30 days; this history keeps everything from now on. Pick a bank, then a speaker, to see how their tone has moved. September 2026 entries are the hand-compiled list (tone only, no score)."
+      + " with a reading. Each card is one appearance (a speech or interview usually brings several headlines). The live feed keeps 30 days; this history keeps everything from now on. Choose a speaker at the top of the page to read everything they have said and see how their tone has moved, or leave it on all speakers to browse by bank. September 2026 entries are the hand-compiled list (tone only, no score)."
       + (isNaN(new Date(A.built)) ? "" : " History file built " + cbWhen(A.built) + ".");
 
     var banks = ["All"].concat(CB_BANKS.filter(function(b){ return policy.some(function(r){ return r.bank === b; }); }));
     if (banks.indexOf(cbhUI.bank) < 0) cbhUI.bank = "All";
     chips(document.getElementById("cbh-b"), banks.map(function(b){ return {v:b, t:b}; }), cbhUI.bank,
-      function(v){ cbhUI.bank = v; cbhUI.who = ""; cbhLim = 30; cbhSave(); drawCBH(); });
+      function(v){ cbhUI.bank = v; if (cbhUI.who && cbhUI.who.indexOf(v + "|") !== 0) cbhUI.who = ""; cbhLim = 30; cbhSave(); drawCBH(); });
     chips(document.getElementById("cbh-p"), [{v:"1w", t:"1 week"}, {v:"1m", t:"1 month"}, {v:"3m", t:"3 months"}, {v:"all", t:"All"}], cbhUI.per,
       function(v){ cbhUI.per = v; cbhLim = 30; cbhSave(); drawCBH(); });
     chips(document.getElementById("cbh-t"), [{v:"all", t:"All"}, {v:"hawk", t:"Hawkish"}, {v:"dove", t:"Dovish"}, {v:"neutral", t:"Neutral"}, {v:"strong", t:"Strong (±5+)"}], cbhUI.tone,
       function(v){ cbhUI.tone = v; cbhLim = 30; cbhSave(); drawCBH(); });
     chips(document.getElementById("cbh-k"), [{v:"comment", t:"Comments"}, {v:"all", t:"Also releases & previews"}], cbhUI.kind,
       function(v){ cbhUI.kind = v; cbhLim = 30; cbhSave(); drawCBH(); });
-    var jb = document.getElementById("cbh-jump");
-    if (jb && !jb._wired){ jb._wired = true; jb.onclick = function(){ document.getElementById("s-cbh").scrollIntoView({ behavior:"smooth" }); }; }
     var qi = document.getElementById("cbh-q");
     if (qi && !qi._wired){
       qi._wired = true; qi.value = cbhUI.q || "";
@@ -2917,31 +2960,6 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     var days = { "1w":7, "1m":31, "3m":92 }[cbhUI.per];
     var inPer = function(r){ return !days || now - new Date(r.t).getTime() <= days * 864e5; };
     var base = policy.filter(function(r){ return (cbhUI.bank === "All" || r.bank === cbhUI.bank) && inPer(r); });
-
-    // speakers in this bank and period, busiest first
-    var sp = {}, gBase = cbhGroups(base);
-    gBase.forEach(function(g){
-      var k = keyOf(g.bank, g.who || ""), s = sp[k] || (sp[k] = { k:k, bank:g.bank, who:k.slice(k.indexOf("|") + 1), n:0, sc:[] });
-      s.n++; if (g.score !== null) s.sc.push(g.score);
-    });
-    var list = Object.keys(sp).map(function(k){ return sp[k]; }).sort(function(a, b){ return (!a.who) - (!b.who) || b.n - a.n; });
-    if (cbhUI.who && !sp[cbhUI.who]) cbhUI.who = "";
-    // speaker dropdown: grouped by bank, busiest first, with how many appearances and their average reading
-    var selEl = document.getElementById("cbh-s");
-    var opt = function(s){
-      var p = roster[s.k], avg = s.sc.length ? s.sc.reduce(function(t, v){ return t + v; }, 0) / s.sc.length : null;
-      var nm = s.who ? (p ? p.full : s.who) : "Others & unattributed";
-      var mark = avg === null ? "" : avg >= 1.5 ? "  ▲ hawkish " : avg <= -1.5 ? "  ▼ dovish " : "  ● neutral ";
-      return "<option value='" + esc(s.k) + "'" + (cbhUI.who === s.k ? " selected" : "") + ">" + esc(nm) + "  (" + s.n + ")"
-        + (avg !== null ? mark + (Math.abs(avg) < 0.05 ? "0.0" : cbSigned(avg)) : "") + "</option>";
-    };
-    var byBank = {};
-    list.forEach(function(s){ (byBank[s.bank] = byBank[s.bank] || []).push(s); });
-    selEl.innerHTML = "<option value=''" + (!cbhUI.who ? " selected" : "") + ">All speakers (" + gBase.length + " appearances)</option>"
-      + (cbhUI.bank === "All"
-          ? CB_BANKS.filter(function(b){ return byBank[b]; }).map(function(b){ return "<optgroup label='" + esc(b) + "'>" + byBank[b].map(opt).join("") + "</optgroup>"; }).join("")
-          : list.map(opt).join(""));
-    if (!selEl._wired){ selEl._wired = true; selEl.onchange = function(){ cbhUI.who = selEl.value; cbhLim = 30; cbhSave(); drawCBH(); }; }
 
     // the selection, then the tone and word filters
     var sel = base.filter(function(r){ return !cbhUI.who || keyOf(r.bank, r.who) === cbhUI.who; });
