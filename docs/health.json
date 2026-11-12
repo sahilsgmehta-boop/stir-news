@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T21:22:00Z",
+ "built": "2026-11-12T21:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 2,
+   "kept": 63,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
