@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T20:52:00Z",
+ "built": "2026-11-12T21:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 56,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,12 +80,12 @@
    "ok": true,
    "fetched": 100,
    "kept": 64,
-   "added": 2,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
@@ -100,21 +100,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 16,
+   "fetched": 53,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
+    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "German Economy on the Mend Though Reforms Needed, Nagel Says",
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
+    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
+    "German Economy on the Mend Though Reforms Needed, Nagel Says"
    ]
   },
   {
@@ -138,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 28,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -180,14 +180,15 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook - TalkMarkets",
-    "Swiss Franc declines amid divergent Fed-SNB rate outlooks"
+    "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
+    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook"
    ]
   },
   {
