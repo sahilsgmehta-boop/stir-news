@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-12T18:33:08Z",
+"bank": "Fed",
+"speaker": "Schmid",
+"hl": "AI capital buildout raising housing funding costs - Fed's Schmid (XLRE:NYSEARCA)",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3FIMHZydnVlTXhnRlFmMFNKRkIwNjM5UlVwRTJrUjVfOHNudHcyeFdkeTB2VkVScmhhM3p5OWI3MVNfcnRoS3pST3hMY3A4N1R4QXh5MTRtYU9uNXVicjJuTHNRbS1ZWDcxWlFPTjN6TDJkdmd6Z3luVHQtTncxeDI3NFpMS3NmalVNMFZqckFXOHhCT2N0Y1JXLUg3Wk5XZFNR?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fa640947afb3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T17:45:00Z",
 "bank": "Fed",
 "speaker": "",
@@ -130,7 +150,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"investingLive"
+"investingLive",
+"Breakingthenews.net"
 ],
 "desc": "AI investment looks like a form of stimulus Worth being 'sober minded' about inflation an Fed response Fed is failing on the inflation side of its mandate Does not want to prejudice what happens with monetary policy Plenty of room for the Fed to discuss policy options The market is pricing in 87 bps of hikes in the year ahead. That first line is the one that matters. Stimulus is a demand word. For two years the Fed’s framing on AI was about supply: productivity, capacity, a disinflationary tailwind somewhere down the road. Goolsbee is now describing it the way you’d describe a fiscal package. ",
 "id": "c640e050efa3",
@@ -214,7 +235,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Investing.com"
+"Investing.com",
+"Reuters"
 ],
 "desc": "",
 "id": "ab874f286c8c",
@@ -1974,7 +1996,8 @@
 "also": [
 "Investing.com Australia",
 "Investing.com",
-"Yahoo Finance UK"
+"Yahoo Finance UK",
+"Investing.com South Africa"
 ],
 "desc": "",
 "id": "250e21179f14",

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T18:22:00Z",
+ "built": "2026-11-12T18:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 61,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "FRED Adds Median Inflation Data from the Cleveland Fed",
@@ -81,11 +81,11 @@
    "ok": true,
    "fetched": 100,
    "kept": 65,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
+   "fetched": 55,
    "kept": 18,
    "added": 0,
    "error": "",
@@ -114,8 +114,8 @@
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
-    "German Economy on the Mend Though Reforms Needed, Nagel Says"
+    "German Economy on the Mend Though Reforms Needed, Nagel Says",
+    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
    ]
   },
   {
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 12,
+   "fetched": 21,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -171,8 +171,8 @@
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
     "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
+    "Bank of Canada officials say uncertainty doesn\u2019t rule out hikes",
     "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
-    "Bank of Canada Officials Say Uncertainty Doesn\u2019t Rule Out Hikes",
     "Further interest rate hikes possible: Bank of Canada",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Bank of Canada says another rate increase may be needed as energy costs spread"
