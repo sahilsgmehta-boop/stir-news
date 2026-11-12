@@ -211,6 +211,20 @@ def run_mx(store, today):
         except Exception as e:  # noqa: BLE001
             health["errors"].append(f"Montreal {p['name']} quotes: {e}"[:200])
 
+        # The quotes page dates its open interest to the weekday before its
+        # "Last update" date, which is wrong after a Montreal holiday (e.g.
+        # Remembrance Day): it then shows the last real session's close. If
+        # the history file's latest session is earlier than that day and
+        # every settle on the page matches it, the page is that session.
+        if hist and qday and qrows and qday not in hist:
+            last = max(hist)
+            if last < qday:
+                hs = {r[0]: r[1] for r in hist[last]}
+                pairs = [(r[1], hs[r[0]]) for r in qrows if r[0] in hs
+                         and r[1] is not None and hs[r[0]] is not None]
+                if pairs and all(abs(a - b) < 1e-9 for a, b in pairs):
+                    qday = last
+
         got = {}
         if hist and MX_OI_NEXT_ROW:
             days = sorted(hist)
