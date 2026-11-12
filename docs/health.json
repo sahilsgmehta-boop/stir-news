@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T19:37:00Z",
+ "built": "2026-11-12T19:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -79,20 +79,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 0,
+   "kept": 63,
+   "added": 1,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
-    "Inflation rises faster than expected, boosting odds of Fed rate hike",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Inflation rises faster than expected, boosting odds of Fed rate hike"
    ]
   },
   {
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
