@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T22:37:00Z",
+ "built": "2026-11-12T22:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 55,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,7 +80,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 62,
-   "added": 4,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -100,16 +100,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 17,
+   "fetched": 51,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
+    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
@@ -123,7 +123,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 9,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
