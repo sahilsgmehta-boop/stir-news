@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T14:09:58Z",
+ "built": "2026-11-12T14:50:22Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 15,
+   "kept": 16,
    "added": 0,
    "error": ""
   },
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
@@ -60,20 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
-   "added": 1,
+   "kept": 65,
+   "added": 4,
    "error": "",
    "near_misses": [
+    "FRED Adds Median Inflation Data from the Cleveland Fed",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
+    "The Fed's December Decision Just Got a Lot Messier",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Fed chair discloses wife's transactions in pet-care investments",
+    "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Roth Capital's Michael Darda: The Fed's reaction function is confusing",
     "The countdown to the Fed\u2019s next move",
-    "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
-    "Inflation data raises stakes for the Fed\u2019s December decision",
-    "CPI Rose More Than Expected in October, Complicating Fed\u2019s Inflation Fight"
+    "Fed officials open door to a quicker round of rate hikes as inflation worsens"
    ]
   },
   {
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 3,
+   "kept": 62,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
@@ -91,9 +91,9 @@
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Top Federal Reserve official considers largest rate rise since 2022",
+    "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
-    "Economists say Fed could go overboard on rate hikes after hot October inflation report",
     "Inflation remained elevated in October, cementing a Fed rate increase",
     "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
@@ -103,12 +103,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
-   "kept": 26,
+   "fetched": 60,
+   "kept": 25,
    "added": 0,
    "error": "",
    "near_misses": [
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
@@ -116,8 +117,7 @@
     "German Economy on the Mend Though Reforms Needed, Nagel Says",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "Who will choose the next European Central Bank president?",
-    "ECB says Lagarde's exit will not delay the digital euro as Brussels negotiates the law",
-    "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics"
+    "ECB says Lagarde's exit will not delay the digital euro as Brussels negotiates the law"
    ]
   },
   {
@@ -125,9 +125,9 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 17,
-   "added": 0,
+   "fetched": 27,
+   "kept": 18,
+   "added": 1,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
@@ -138,18 +138,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 10,
+   "fetched": 38,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
-    "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
-    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England policymaker refuses to rule out back-to-back rate rises",
     "Bank of England raises rates for first time since 2023, says more may come",
+    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
+    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "The Bank of England hints at another interest-rate rise in December"
@@ -339,7 +339,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
