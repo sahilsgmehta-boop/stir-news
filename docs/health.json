@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T13:09:56Z",
+ "built": "2026-11-12T13:37:14Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 66,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
@@ -70,11 +70,11 @@
     "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Roth Capital's Michael Darda: The Fed's reaction function is confusing",
-    "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "The countdown to the Fed\u2019s next move",
     "Inflation data raises stakes for the Fed\u2019s December decision",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss"
+    "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
+    "CPI Rose More Than Expected in October, Complicating Fed\u2019s Inflation Fight"
    ]
   },
   {
@@ -94,9 +94,9 @@
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Economists say Fed could go overboard on rate hikes after hot October inflation report",
     "Chicago Fed chief calls October inflation 'borderline disturbing'",
-    "Economists say Fed could go overboard on rate hikes after hot October inflation report"
+    "Inflation remained elevated in October, cementing a Fed rate increase"
    ]
   },
   {
@@ -106,17 +106,17 @@
    "ok": true,
    "fetched": 58,
    "kept": 26,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
-    "Who will choose the next European Central Bank president?",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "German Economy on the Mend Though Reforms Needed, Nagel Says",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "Who will choose the next European Central Bank president?",
     "ECB says Lagarde's exit will not delay the digital euro as Brussels negotiates the law",
     "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics"
    ]
@@ -126,8 +126,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 16,
+   "fetched": 26,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -139,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 41,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -281,7 +281,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 5,
+   "added": 4,
    "error": ""
   },
   {
@@ -291,7 +291,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 24,
+   "added": 25,
    "error": ""
   },
   {
