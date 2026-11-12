@@ -42,6 +42,9 @@ OUT_HEALTH = os.path.join(HERE, "docs", "health.json")
 ROSTER = os.path.join(HERE, "speakers.json")
 TONES = os.path.join(HERE, "tones.json")      # written by the labelling task
 
+ARCHIVE = os.path.join(HERE, "data", "cb_archive.json")   # every item ever, never pruned
+OUT_ARCHIVE_JS = os.path.join(HERE, "docs", "cb_archive.js")
+
 KEEP_DAYS = 45          # held in the store
 SHOW_DAYS = 30          # written to cb.js
 MAX_SHOW = 1500
@@ -597,6 +600,14 @@ def load_tones():
 
 def write_outputs(store, health, now):
     people, index = load_roster()
+    clean_items(store, index)
+    tones = load_tones()
+    _apply_labels(store, tones)
+    return _write(store, health, now, people)
+
+
+def clean_items(store, index):
+    """Today's rules over everything held (also used to seed the archive)."""
     store[:] = [x for x in store
                 if not (x["tier"] == "official" and OFFICIAL_DROP.search(x["hl"]))]
     for x in store:
@@ -627,7 +638,9 @@ def write_outputs(store, health, now):
                 if not (x["tier"] == "comment" and x["src"] not in ours and not news_ok(x["hl"]))]
     for x in store:
         x.setdefault("desc", "")
-    tones = load_tones()
+
+
+def _apply_labels(store, tones):
     for x in store:
         x["id"] = item_id(x)
         t = tones.get(x["id"]) or {}
@@ -641,6 +654,8 @@ def write_outputs(store, health, now):
         x["ev"] = str(t.get("ev", ""))[:160]
         x["basis"] = t.get("basis") if t.get("basis") in ("verbatim", "reports") else ""
 
+
+def _write(store, health, now, people):
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
     os.makedirs(os.path.dirname(OUT_JS), exist_ok=True)
 
@@ -672,7 +687,41 @@ def write_outputs(store, health, now):
         f.write("window.STELLAR_CB = " + body + ";\n")
     with open(OUT_HEALTH, "w", encoding="utf-8") as f:
         json.dump({"built": payload["built"], "sources": health}, f, indent=1)
+    write_archive(store, payload)
     return len(show)
+
+
+ARCHIVE_COLS = ["t", "bank", "speaker", "headline", "tone", "url", "source", "tier", "also",
+                "id", "score", "read", "sum", "pts", "rr", "ev", "basis"]
+
+
+def write_archive(store, payload):
+    """The comment history for the dashboard's CB commentary page. The store
+    drops items after KEEP_DAYS; the archive keeps every item for good, and
+    takes the latest labels each run (labels land hours after the headline)."""
+    try:
+        with open(ARCHIVE, encoding="utf-8") as f:
+            arch = json.load(f).get("items", {})
+    except (OSError, ValueError):
+        arch = {}
+    for x in store:
+        row = [x["t"], x["bank"], x["speaker"], x["hl"], x["tone"], x["url"], x["src"],
+               x["tier"], x["also"], x["id"], x["score"], x["read"], x["sum"], x["pts"],
+               x["rr"], x["ev"], x["basis"]]
+        old = arch.get(x["id"])
+        if old:
+            # never lose a label: keep the archived value where the new one is empty
+            row = [n if (n not in ("", None, [])) else o for n, o in zip(row, old)]
+        arch[x["id"]] = row
+    rows = sorted(arch.values(), key=lambda r: r[0], reverse=True)
+    with open(ARCHIVE, "w", encoding="utf-8") as f:
+        json.dump({"cols": ARCHIVE_COLS, "items": {r[9]: r for r in rows}}, f,
+                  ensure_ascii=False, separators=(",", ":"))
+    body = json.dumps({"built": payload["built"], "cols": ARCHIVE_COLS,
+                       "first": rows[-1][0] if rows else "", "items": rows},
+                      ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    with open(OUT_ARCHIVE_JS, "w", encoding="utf-8") as f:
+        f.write("window.STELLAR_CB_ARCHIVE = " + body + ";\n")
 
 
 def main():
