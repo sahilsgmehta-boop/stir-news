@@ -9,7 +9,9 @@
 "src": "IndexBox",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "88dad4a16bed",
 "score": null,
@@ -814,7 +816,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"marketscreener.com"
+],
 "desc": "",
 "id": "3440032d8f32",
 "score": null,

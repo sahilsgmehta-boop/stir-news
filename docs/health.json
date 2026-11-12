@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T20:07:00Z",
+ "built": "2026-11-12T20:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
-   "added": 4,
+   "kept": 63,
+   "added": 1,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -92,7 +92,7 @@
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Inflation rises faster than expected, boosting odds of Fed rate hike"
    ]
   },
   {
@@ -138,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
-   "kept": 7,
+   "fetched": 29,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -149,8 +149,8 @@
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
    ]
