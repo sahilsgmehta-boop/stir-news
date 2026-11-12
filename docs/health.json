@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T22:52:00Z",
+ "built": "2026-11-12T23:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 54,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,8 +67,8 @@
     "The Fed's December Decision Just Got a Lot Messier",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
-    "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation"
    ]
@@ -107,13 +107,13 @@
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
+    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "German Economy on the Mend Though Reforms Needed, Nagel Says"
    ]
   },
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -151,8 +151,8 @@
     "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Bank of England raises rates for first time since 2023, says more may come",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "Bank of England raises rates for first time since 2023, says more may come",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
    ]
