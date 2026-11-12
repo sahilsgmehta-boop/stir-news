@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T17:49:53Z",
+ "built": "2026-11-12T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 17,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -59,7 +59,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 61,
-   "added": 13,
+   "added": 0,
    "error": "",
    "near_misses": [
     "FRED Adds Median Inflation Data from the Cleveland Fed",
@@ -68,10 +68,10 @@
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Fed chair discloses wife's transactions in pet-care investments",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation",
-    "Fed chair discloses wife's transactions in pet-care investments",
-    "The countdown to the Fed\u2019s next move"
+    "Fed chair discloses wife's transactions in pet-care investments"
    ]
   },
   {
@@ -81,10 +81,11 @@
    "ok": true,
    "fetched": 100,
    "kept": 64,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
@@ -92,8 +93,7 @@
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
     "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation",
-    "Inflation remained elevated in October, cementing a Fed rate increase",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'"
+    "Inflation remained elevated in October, cementing a Fed rate increase"
    ]
   },
   {
@@ -101,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 23,
+   "fetched": 55,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -112,8 +112,8 @@
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "German Economy on the Mend Though Reforms Needed, Nagel Says",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
    ]
@@ -124,11 +124,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 16,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
+    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
+    "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
+    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
    ]
   },
   {
@@ -149,8 +151,8 @@
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says"
+    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
+    "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
    ]
   },
   {
@@ -218,7 +220,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 10,
-   "added": 1,
+   "added": 2,
    "error": ""
   },
   {
@@ -228,7 +230,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 15,
-   "added": 12,
+   "added": 11,
    "error": ""
   },
   {
