@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T18:07:00Z",
+ "built": "2026-11-12T18:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,11 +67,11 @@
     "The Fed's December Decision Just Got a Lot Messier",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
-    "Fed chair discloses wife's transactions in pet-care investments",
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "The countdown to the Fed\u2019s next move"
    ]
   },
   {
@@ -80,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 0,
+   "kept": 65,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
@@ -92,8 +92,8 @@
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
-    "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Inflation remained elevated in October, cementing a Fed rate increase",
+    "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
   },
   {
@@ -101,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
-   "kept": 20,
+   "fetched": 54,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,8 +114,8 @@
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "German Economy on the Mend Though Reforms Needed, Nagel Says",
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
+    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
+    "German Economy on the Mend Though Reforms Needed, Nagel Says"
    ]
   },
   {
@@ -124,11 +124,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 14,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
+    "ECB warns delays could postpone digital euro launch",
     "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
    ]
@@ -138,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 31,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -151,8 +152,8 @@
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
-    "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says"
    ]
   },
   {

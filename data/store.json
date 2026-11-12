@@ -171,7 +171,9 @@
 "src": "Reuters",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"WTVB"
+],
 "desc": "",
 "id": "7af958187ce2",
 "score": null,
@@ -316,7 +318,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Yahoo Finance Singapore"
+"Yahoo Finance Singapore",
+"Bloomberg Law News"
 ],
 "desc": "",
 "id": "72b2419e425c",
