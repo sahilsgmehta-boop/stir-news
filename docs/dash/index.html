@@ -834,6 +834,8 @@
   .cbh-month{font-size:11px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); margin:14px 2px 8px; padding-bottom:4px; border-bottom:1px solid var(--rule)}
   .cbh-month:first-child{margin-top:2px}
   .cbh-jumpb{margin-left:auto; font-size:11.5px; padding:3px 10px}
+  .cbh-sel{background:var(--panel); border:1px solid var(--rule); color:var(--ink); border-radius:6px; padding:5px 8px; font-size:12.5px; min-width:260px; max-width:100%}
+  .cbh-sel:focus{outline:none; border-color:#3987e5}
 
   .cbsum{display:grid; grid-template-columns:repeat(5, minmax(0,1fr)); gap:10px; margin:6px 0 12px}
   .cbcard{background:var(--panel); border:1px solid var(--rule); border-radius:10px; padding:10px 12px; cursor:pointer; min-width:0}
@@ -1279,12 +1281,12 @@
     <p class="hint" id="cbh-note">Loading the comment history&hellip;</p>
     <div class="bar cbh-bar">
       <div class="grp"><span class="lbl">Bank</span><span id="cbh-b"></span></div>
+      <div class="grp"><span class="lbl">Speaker</span><select id="cbh-s" class="cbh-sel"></select></div>
       <div class="grp"><span class="lbl">Period</span><span id="cbh-p"></span></div>
       <div class="grp"><span class="lbl">Reading</span><span id="cbh-t"></span></div>
       <div class="grp"><span class="lbl">Show</span><span id="cbh-k"></span></div>
       <div class="grp cbh-qg"><input type="search" id="cbh-q" placeholder="Search words, e.g. December, balance sheet, tariffs" autocomplete="off"></div>
     </div>
-    <div class="cbh-sp" id="cbh-sp"></div>
     <div id="cbh-prof"></div>
     <div class="panel"><div id="cbh-list"></div></div>
   </section>
@@ -2877,7 +2879,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     if (!A){
       note.innerHTML = cbhState.failed ? "<b style='color:var(--warn)'>Could not load the comment history (cb_archive.js). The last 30 days are above.</b>"
                                        : "Loading the comment history&hellip;";
-      ["cbh-b", "cbh-p", "cbh-t", "cbh-k", "cbh-sp", "cbh-prof"].forEach(function(id){ var e = document.getElementById(id); if (e) e.innerHTML = ""; });
+      ["cbh-b", "cbh-p", "cbh-t", "cbh-k", "cbh-s", "cbh-prof"].forEach(function(id){ var e = document.getElementById(id); if (e) e.innerHTML = ""; });
       host.innerHTML = "";
       return;
     }
@@ -2924,16 +2926,22 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     });
     var list = Object.keys(sp).map(function(k){ return sp[k]; }).sort(function(a, b){ return (!a.who) - (!b.who) || b.n - a.n; });
     if (cbhUI.who && !sp[cbhUI.who]) cbhUI.who = "";
-    var spHost = document.getElementById("cbh-sp");
-    spHost.innerHTML = "<button type='button' class='cbh-pill" + (!cbhUI.who ? " on" : "") + "' data-k=''>All speakers<i>" + gBase.length + "</i></button>"
-      + list.map(function(s){
-          var p = roster[s.k], avg = s.sc.length ? s.sc.reduce(function(t, v){ return t + v; }, 0) / s.sc.length : null;
-          var nm = s.who ? (p ? p.full : s.who) : "Others & unattributed";
-          var tip = nm + (p ? " — " + p.role : "") + ": " + s.n + " appearance" + (s.n === 1 ? "" : "s") + (avg !== null ? ", average reading " + cbSigned(avg) : "");
-          return "<button type='button' class='cbh-pill" + (cbhUI.who === s.k ? " on" : "") + "' data-k='" + esc(s.k) + "' title='" + esc(tip) + "'>"
-            + "<span class='dot " + cbhScoreCls(avg) + "'></span>" + (cbhUI.bank === "All" ? "<b>" + esc(s.bank) + "</b> " : "") + esc(nm) + "<i>" + s.n + "</i></button>";
-        }).join("");
-    spHost.querySelectorAll(".cbh-pill").forEach(function(b){ b.onclick = function(){ var k = b.getAttribute("data-k"); cbhUI.who = cbhUI.who === k ? "" : k; cbhLim = 30; cbhSave(); drawCBH(); }; });
+    // speaker dropdown: grouped by bank, busiest first, with how many appearances and their average reading
+    var selEl = document.getElementById("cbh-s");
+    var opt = function(s){
+      var p = roster[s.k], avg = s.sc.length ? s.sc.reduce(function(t, v){ return t + v; }, 0) / s.sc.length : null;
+      var nm = s.who ? (p ? p.full : s.who) : "Others & unattributed";
+      var mark = avg === null ? "" : avg >= 1.5 ? "  ▲ hawkish " : avg <= -1.5 ? "  ▼ dovish " : "  ● neutral ";
+      return "<option value='" + esc(s.k) + "'" + (cbhUI.who === s.k ? " selected" : "") + ">" + esc(nm) + "  (" + s.n + ")"
+        + (avg !== null ? mark + (Math.abs(avg) < 0.05 ? "0.0" : cbSigned(avg)) : "") + "</option>";
+    };
+    var byBank = {};
+    list.forEach(function(s){ (byBank[s.bank] = byBank[s.bank] || []).push(s); });
+    selEl.innerHTML = "<option value=''" + (!cbhUI.who ? " selected" : "") + ">All speakers (" + gBase.length + " appearances)</option>"
+      + (cbhUI.bank === "All"
+          ? CB_BANKS.filter(function(b){ return byBank[b]; }).map(function(b){ return "<optgroup label='" + esc(b) + "'>" + byBank[b].map(opt).join("") + "</optgroup>"; }).join("")
+          : list.map(opt).join(""));
+    if (!selEl._wired){ selEl._wired = true; selEl.onchange = function(){ cbhUI.who = selEl.value; cbhLim = 30; cbhSave(); drawCBH(); }; }
 
     // the selection, then the tone and word filters
     var sel = base.filter(function(r){ return !cbhUI.who || keyOf(r.bank, r.who) === cbhUI.who; });
