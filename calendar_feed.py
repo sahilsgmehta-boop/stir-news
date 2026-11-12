@@ -11,7 +11,8 @@ no actuals and only covers the current week.
 
 Runs in the 15-minute job: one request.
 """
-import hashlib, json, os, re, subprocess, sys, time
+import hashlib, html, json, os, re, subprocess, sys, time
+from zoneinfo import ZoneInfo
 from datetime import datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -140,19 +141,159 @@ def ff_speeches(now):
     return cache.get("events", [])
 
 
-def merge_speeches(events, speeches):
-    """Add speeches TradingView does not already have (same country within 90 minutes
-    and a shared name word counts as the same event)."""
-    have = [e for e in events if SPEECH.search(e["title"])]
-    words = lambda s: {w for w in re.findall(r"[A-Za-z]{4,}", s.lower())} - {"speaks", "speech", "member", "president", "governor", "chair", "deputy"}
-    added = 0
-    for s in speeches:
-        ts = datetime.fromisoformat(s["t"].replace("Z", "+00:00"))
-        dup = any(e["c"] == s["c"] and abs((datetime.fromisoformat(e["t"].replace("Z", "+00:00")) - ts).total_seconds()) <= 5400
-                  and words(e["title"]) & words(s["title"]) for e in have)
-        if not dup:
-            events.append(s); added += 1
-    health["speeches"] = {"source": "ForexFactory", "found": len(speeches), "added": added}
+# ---------------------------------------------------------------- official schedules
+# The banks' own published schedules are the most reliable times; they are used
+# first and ForexFactory fills in the rest (regional Fed presidents, BoE, SNB).
+ET, CET = ZoneInfo("America/New_York"), ZoneInfo("Europe/Berlin")
+SPEAK_ECB = re.compile(r"speech|speaks|keynote|remarks|panel|fireside|conversation|hearing|testimony|"
+                       r"introductory statement|interview|lecture|press conference|dialogue|address", re.I)
+
+
+def _ev(src, t_local, tz, country, title, imp, allday=False, where=""):
+    t = t_local.replace(tzinfo=tz).astimezone(timezone.utc)
+    return {"id": src[:2] + hashlib.sha1((title + t.isoformat() + country).encode()).hexdigest()[:10],
+            "t": t.strftime("%Y-%m-%dT%H:%M:%SZ"), "c": country, "title": title, "ind": "", "cat": "mny",
+            "imp": imp, "period": where[:80], "unit": "", "scale": "", "actual": None, "forecast": None,
+            "previous": None, "allday": allday, "text": True, "src": src}
+
+
+def _clock(txt):
+    """'10:50 a.m.' / '7:00 p.m.' / '16:30' -> (h, m) or None"""
+    m = re.search(r"(\d{1,2})[:.](\d\d)\s*([ap])?\.?m?\.?", txt or "", re.I)
+    if not m:
+        return None
+    h, mi = int(m.group(1)), int(m.group(2))
+    if m.group(3):
+        h = h % 12 + (12 if m.group(3).lower() == "p" else 0)
+    return h, mi
+
+
+def fed_board(start, end):
+    """Board members' speeches and testimony, FOMC press conferences, minutes and the
+    Beige Book, from the Fed's own calendar (Eastern time)."""
+    d = json.loads(get("https://www.federalreserve.gov/json/calendar.json").lstrip("﻿"))
+    out = []
+    for e in d.get("events", []):
+        typ, title = e.get("type", ""), html.unescape(e.get("title", "")).strip()
+        if typ not in ("Speeches", "Testimony", "FOMC", "Beige"):
+            continue
+        if typ == "FOMC" and not re.search(r"Press Conference|Minutes", title):
+            continue                      # the decision itself comes from TradingView
+        days = [x.strip() for x in str(e.get("days", "")).split(",") if x.strip().isdigit()]
+        if len(days) != 1:
+            continue
+        y, mo = (int(x) for x in str(e.get("month", "0-0")).split("-"))
+        ck = _clock(e.get("time", ""))
+        try:
+            t = datetime(y, mo, int(days[0]), *(ck or (12, 0)))
+        except ValueError:
+            continue
+        if not (start.replace(tzinfo=None) - timedelta(days=1) <= t <= end.replace(tzinfo=None)):
+            continue
+        if typ in ("Speeches", "Testimony"):
+            kind, _, who = title.partition(" - ")
+            surname = who.split()[-1] if who else ""
+            role = re.sub(r"\s+[A-Z][a-z]+(\s+[A-Z]\.)*(\s+[A-Z][a-z]+)+$", "", who).strip()
+            desc = html.unescape(re.sub(r"<[^>]+>", "", e.get("description", ""))).strip()
+            label = f"Fed {role} {surname} - {kind.lower()}" + (f": {desc}" if desc else "")
+            imp = 1 if re.search(r"^Chair\b", role) or typ == "Testimony" else 0
+        else:
+            label, imp = "Fed " + title if not title.startswith("FOMC") else title, 1 if "Press" in title or "Minutes" in title else 0
+        where = html.unescape(re.sub(r"<[^>]+>", "", e.get("location", ""))).replace("At ", "", 1)
+        out.append(_ev("FedBoard", t, ET, "US", label, imp, allday=not ck, where=where))
+    return out
+
+
+def ecb_weekly(start, end):
+    """Executive Board speaking engagements from the ECB's weekly schedule (CET).
+    Press contacts on that page are left out on purpose."""
+    page = get("https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html")
+    out = []
+    for dt_txt, dd in re.findall(r"<dt>\s*([^<]+?)\s*</dt>\s*<dd>(.*?)</dd>", page, re.S):
+        who = re.search(r"Board member:</strong>\s*([^<]+)", dd)
+        evm = re.search(r"Event:</strong>(.*?)<br", dd, re.S)
+        if not who or not evm:
+            continue
+        event = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", evm.group(1)))).strip()
+        if not SPEAK_ECB.search(event):
+            continue                      # Eurogroup/Ecofin attendance and the like
+        try:
+            day = datetime.strptime(re.sub(r"^\w+,\s*", "", dt_txt.strip()), "%d %B %Y")
+        except ValueError:
+            continue
+        tm = re.search(r"Time:</strong>\s*([^<]+)", dd)
+        ck = _clock(tm.group(1)) if tm else None
+        t = day.replace(hour=ck[0], minute=ck[1]) if ck else day.replace(hour=12)
+        if not (start.replace(tzinfo=None) - timedelta(days=1) <= t <= end.replace(tzinfo=None)):
+            continue
+        name = who.group(1).strip()
+        surname = name.split()[-1]
+        imp = 1 if surname in ("Lagarde", "Lane") else 0
+        out.append(_ev("ECB", t, CET, "EU", f"ECB {surname}: {event}"[:160], imp, allday=not ck))
+    return out
+
+
+def boc_events(start, end):
+    """Speeches from the Bank of Canada's upcoming-events page (Eastern time; most
+    list no time until a media advisory three business days before)."""
+    page = get("https://www.bankofcanada.ca/press/upcoming-events/")
+    out = []
+    for art in re.findall(r"<article class=\"media\".*?</article>", page, re.S):
+        dm = re.search(r"media-date[^>]*>\s*([A-Z][a-z]+ \d{1,2}, \d{4})", art)
+        hm = re.search(r"media-heading\">\s*<a[^>]*>([^<]+)</a>", art)
+        if not dm or not hm or not re.match(r"\s*(Speech|Remarks|Press conference|Testimony|Appearance)", hm.group(1), re.I):
+            continue
+        ex = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", (re.search(r"media-excerpt\">(.*?)</div>", art, re.S) or [None, ""])[1]))).strip()
+        try:
+            day = datetime.strptime(dm.group(1), "%B %d, %Y")
+        except ValueError:
+            continue
+        ck = _clock(ex)
+        t = day.replace(hour=ck[0], minute=ck[1]) if ck else day.replace(hour=12)
+        if not (start.replace(tzinfo=None) - timedelta(days=1) <= t <= end.replace(tzinfo=None)):
+            continue
+        head = html.unescape(hm.group(1)).strip()            # "Speech: Tiff Macklem, Governor"
+        kind, _, rest = head.partition(":")
+        name = rest.split(",")[0].strip()
+        surname = name.split()[-1] if name else ""
+        imp = 1 if "Governor" in rest and "Deputy" not in rest else 0
+        out.append(_ev("BoC", t, ET, "CA", f"BoC {surname} {kind.lower()}" + (f" ({ex[:70]})" if ex else ""), imp, allday=not ck))
+    return out
+
+
+STOP = {"speaks", "speech", "member", "president", "governor", "chair", "deputy", "fomc", "board",
+        "vice", "supervision", "remarks", "keynote", "panel", "discussion", "participation", "economic",
+        "outlook", "conference", "german", "buba", "conversation", "external"}
+
+
+def _names(s):
+    return {w for w in re.findall(r"[A-Za-zÀ-ž]{4,}", s.lower())} - STOP
+
+
+def _same(a, b, hours=3):
+    if a["c"] != b["c"]:
+        return False
+    ta = datetime.fromisoformat(a["t"].replace("Z", "+00:00"))
+    tb = datetime.fromisoformat(b["t"].replace("Z", "+00:00"))
+    near = abs((ta - tb).total_seconds()) <= hours * 3600 or ((a.get("allday") or b.get("allday")) and ta.date() == tb.date())
+    return near and bool(_names(a["title"]) & _names(b["title"]))
+
+
+def merge_speeches(events, official, ff):
+    """The banks' own schedules win; then ForexFactory adds what nobody else has.
+    A TradingView speech that matches an official one is replaced by it."""
+    stats = {"official": len(official), "ff": len(ff), "added": 0, "replaced": 0}
+    for o in official:
+        tv = [e for e in events if SPEECH.search(e["title"]) and _same(e, o)]
+        for e in tv:
+            events.remove(e); stats["replaced"] += 1
+        if not any(e.get("src") in ("FedBoard", "ECB", "BoC") and _same(e, o, 1) for e in events):
+            events.append(o); stats["added"] += 1
+    for f in ff:
+        if any(_same(e, f) for e in events if SPEECH.search(e["title"]) or e.get("src")):
+            continue
+        events.append(f); stats["added"] += 1
+    return stats
 
 
 def main():
@@ -176,10 +317,30 @@ def main():
         except Exception as e:  # noqa: BLE001
             health["errors"].append(f"ForexFactory: {e}"[:200])
     if events and health["source"] == "TradingView":
+        official, counts = [], {}
+        for name, fn in (("Fed Board", fed_board), ("ECB", ecb_weekly), ("BoC", boc_events)):
+            try:
+                got = fn(start, end); official += got; counts[name] = len(got)
+            except Exception as e:  # noqa: BLE001
+                counts[name] = "failed"
+                health["errors"].append(f"{name} schedule: {e}"[:200])
         try:
-            merge_speeches(events, ff_speeches(now))
+            ff = ff_speeches(now)
         except Exception as e:  # noqa: BLE001
-            health["errors"].append(f"speeches: {e}"[:200])
+            ff = []
+            health["errors"].append(f"ForexFactory: {e}"[:200])
+        counts["ForexFactory"] = len(ff)
+        stats = merge_speeches(events, official, ff)
+        stats["by_source"] = counts
+        # a coverage check, so a source going quiet is noticed: a normal week has
+        # well over a dozen central bank speakers across these banks
+        wk = now + timedelta(days=7)
+        n7 = sum(1 for e in events if SPEECH.search(e["title"]) or e.get("src") in ("FedBoard", "ECB", "BoC")
+                 if now - timedelta(hours=12) <= datetime.fromisoformat(e["t"].replace("Z", "+00:00")) <= wk)
+        stats["next_7_days"] = n7
+        if n7 < 5:
+            health["errors"].append(f"only {n7} central bank speakers in the next 7 days - a source may have stopped")
+        health["speeches"] = stats
     if not events:
         # keep the last good file rather than publishing an empty calendar
         print("calendar: no source answered; keeping the previous file", health["errors"])
