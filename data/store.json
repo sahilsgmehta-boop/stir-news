@@ -1,6 +1,88 @@
 {
 "items": [
 {
+"t": "2026-11-12T11:30:10Z",
+"bank": "ECB",
+"speaker": "Kazaks",
+"hl": "ECB's Kazaks says that a December rate hike is likely as further tightening is necessary",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVZKbGJzSUdLalNFZ3pFcndPUXRVZnZ1RlNTa2hfWndVdWdFRVNnWHBpWHVvSWxULURpU0xDUng4eUxTUkRKbEtWNS1wYTVTUXF1Tkd1V1BWOUJZRFVVVnNqcXVxQ0hhSEhkOUtrRGxPRzJuRml1bUR2NVF0bVA5Rmc2WW05YjZIRjJyWEF2QU80c09fU1RBZ1lQdUtjLUFXY2ptWlNyNzRaSEUyTmdyNjk2QXdGQUtkcVhybHI3Rk8?oc=5",
+"src": "Newsquawk",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "360d83190327",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-12T11:03:43Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller, Bowman and Goolsbee Keep Rate Hike Bets Alive",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObU5EQU45a3RBd09qY2dYaHdwRjIyMkhINEo2c1B3YzZVSG9RUzlxOE1yV2luSS12emVNOW95MTBUVTlBQjctRjFQaVpYSUNPU0Vhck14MTQzbGNtSTN4NHg1dGppYVhjZmdZekVxS21pQWRhWi1qc2V0UDg2S1VlWVhRQkxMLXdDTHZacEdPbThZVlJDSXdqa2IzSDlxdw?oc=5",
+"src": "StoneX",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "7b936ccaa615",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-12T10:00:00Z",
+"bank": "ECB",
+"speaker": "",
+"hl": "Reading the room: what Reddit tells us about retail investor sentiment",
+"url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261112~a4c8b903d9.en.html",
+"src": "ECB blog",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c264804e54c3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-12T07:33:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB's Lagarde would rival centrists in French presidential race, poll shows",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWw2RTZEWFJTak9pcnJoejFBZHNtUl9NTGZlclpiNXZxaS1faHhxSEJEUWU1ZXlOMGFXTGlvR3MyVG9LTmgzalJUd0FESzR2UEFpU3Q5M2dSOVpxYi1UTW1OYkdRelhNNFdFZ2xZbkREaDBNdzhiTWpvTXBsLTdaUmd1eHYwVlpqY2dKMmdRckxEQVUzb2h6TkJWeXdYUHlUc3RNZ3Y2QkIzVWN4eXl4bmNB?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [
+"ThePrint"
+],
+"desc": "",
+"id": "6f15580eb55c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T02:54:16Z",
 "bank": "Fed",
 "speaker": "",
@@ -101,7 +183,8 @@
 "tone": "hawk",
 "also": [
 "Investing.com India",
-"Investing.com UK"
+"Investing.com UK",
+"Investing.com South Africa"
 ],
 "desc": "",
 "id": "945e40775b10",
@@ -146,7 +229,8 @@
 "Reuters",
 "Yahoo Finance UK",
 "The Lufkin Daily News",
-"FXStreet"
+"FXStreet",
+"Merced Sun-Star"
 ],
 "desc": "BOE’s Greene said monetary policy should lean against the risk of wage growth becoming entrenched at higher levels, according to the FT. It is appropriate to proactively tighten our monetary policy stance to lean against the risk of wage growth getting stuck at higher levels. Other BOE comments this week Governor Bailey highlighted the potential benefits of AI investment: In the UK, economic activity is turning out to be more resilient than we had expected, and some of that is due to AI investment, particularly in the business services sector. We are seeing growing signs of the beginnings of a",
 "id": "1e0707cd4e87",
@@ -417,6 +501,26 @@
 "rr": "Mildly supportive of the December hike priced for the ECB; adds no new information on the terminal rate. Only news paraphrases were available.",
 "ev": "",
 "basis": "reports"
+},
+{
+"t": "2026-11-11T11:30:51Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Weak US Treasury Auction Revives Inflation Fears as Fed's Waller Signals 50 Basis-Point Hike - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmZEN3pwaWs0ZGhQTDRscHhwNjUwN3d6V0RBMmdBdmdZRG5pbm1lazRma1FnYUNfRHNDQ2tXOHVOaXBMYk9yTFc0VExBbXFXSWhXeXptWjNnSWowWGpnc0lacEgyRUJ2R3lFT1ZUdHRpazE5ckROLTVtZ3dCY2dtTDdoZHZTWkpDSG5IemlEbHNwVUJsazJGMkxqaXJUU2hRLXc3Q09uY1Y1cnVNVndTbDV3?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c2001d4aeeb1",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-11T11:30:00Z",
@@ -718,7 +822,8 @@
 "Investing.com",
 "Yahoo Finance Singapore",
 "KLSE Screener",
-"Quartz"
+"Quartz",
+"WTVB"
 ],
 "desc": "",
 "id": "ac9658fb8431",
@@ -976,7 +1081,8 @@
 "tone": "hawk",
 "also": [
 "www.tmgm.com",
-"Mitrade"
+"Mitrade",
+"Forex Factory"
 ],
 "desc": "",
 "id": "02ae8873d0e0",
@@ -1017,7 +1123,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "1edba25503fc",
 "score": 5,
@@ -1492,8 +1600,10 @@
 "src": "ECB press, speeches, interviews",
 "tier": "official",
 "tone": "neutral",
-"also": [],
-"desc": "",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
 "id": "380ce0e2b072",
 "score": 1,
 "read": "Speech on central bank communication; his rate call came in earlier interviews.",
@@ -1868,7 +1978,9 @@
 "src": "24/7 Wall St.",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "a8b65c86727b",
 "score": 7,
@@ -2077,8 +2189,10 @@
 "src": "Bank of England speeches",
 "tier": "official",
 "tone": "hawk",
-"also": [],
-"desc": "Given at the Bank of England Watchers Conference",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Speech by Ms Clare Lombardelli, Deputy Governor for Monetary Policy of the Bank of England, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
 "id": "7e1bc8c8f3d4",
 "score": 5,
 "read": "Deputy Governor says rates are likely to rise further as persistent inflation risks build.",
@@ -2681,8 +2795,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "hawk",
-"also": [],
-"desc": "Speech At the Bank of England Watchers Conference King’s Business School and Money, Macro and Finance Society, London, United Kingdom",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
 "id": "8cdfc14340a4",
 "score": 7,
 "read": "Backs a December hike and puts 50bp on the table if October CPI runs hot.",
@@ -15642,26 +15758,6 @@
 "score": null,
 "read": "",
 "desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-09-28T10:00:00Z",
-"bank": "BoE",
-"speaker": "Ramsden",
-"hl": "Quantitative tightening: the next chapter − speech by Dave Ramsden",
-"url": "https://www.bankofengland.co.uk/speech/2026/september/dave-ramsden-speech-on-quantitative-tightening",
-"src": "Bank of England speeches",
-"tier": "official",
-"tone": "",
-"also": [],
-"desc": "Given at the Bank of England, co-hosted by the Money, Macro and Finance Society",
-"id": "9244a7439593",
-"score": null,
-"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
