@@ -259,6 +259,13 @@
   .rk-hint{margin:6px 0 12px}
   .rk-form[hidden]{display:none}
   .rk-tiles{display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:12px; margin:4px 0 12px}
+  /* ---------- Risk: by central bank meeting ---------- */
+  #rk-meet{display:grid; grid-template-columns:repeat(auto-fit, minmax(460px, 1fr)); gap:14px}
+  @media (max-width:700px){ #rk-meet{grid-template-columns:1fr} }
+  .rkm-h{display:flex; align-items:baseline; gap:10px; margin:2px 2px 6px} .rkm-h b{font-size:14px} .rkm-h span{font-size:11.5px; color:var(--muted)}
+  .rkm-t td, .rkm-t th{white-space:nowrap} .rkm-t .rkm-from{white-space:normal; font-size:11.5px}
+  .rkm-bc{width:28%} .rkm-bar{display:block; height:9px; border-radius:2px} .rkm-bar.up{background:#3ec28f} .rkm-bar.dn{background:#e66767}
+  .rkm-n{margin:6px 2px 0}
   .rk-tile{background:var(--panel); border:1px solid var(--rule); border-radius:12px; padding:12px 16px}
   .rk-tile i{display:block; font-style:normal; font-size:10.5px; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--muted)}
   .rk-tile b{display:block; font-size:24px; font-weight:800; margin:4px 0 2px; font-variant-numeric:tabular-nums}
@@ -953,6 +960,18 @@
   .pay.exp{stroke:var(--line)}
   .pay.now{stroke:#5b91bd; stroke-dasharray:5 3}
   .spot{stroke:var(--warn); stroke-width:1; stroke-dasharray:2 3}
+  /* ---------- data health strip ---------- */
+  .hs{display:flex; flex-wrap:wrap; align-items:center; gap:5px 6px; padding:7px 22px 0; max-width:1500px; font-size:11.5px}
+  .hs-sum{font-weight:600; margin-right:6px; color:var(--muted)} .hs-sum.warn{color:var(--warn)} .hs-sum.bad{color:var(--down)}
+  .hs-p{display:inline-flex; align-items:center; gap:5px; background:transparent; border:1px solid var(--rule); color:var(--muted);
+        border-radius:999px; padding:2px 9px 2px 7px; font:inherit; cursor:pointer; line-height:1.5}
+  .hs-p:hover{border-color:#3a4552; color:var(--ink)}
+  .hs-p i{width:7px; height:7px; border-radius:50%; background:var(--up); flex:none}
+  .hs-p.warn{border-color:rgba(217,164,65,.55); color:#e9c47c} .hs-p.warn i{background:var(--warn)}
+  .hs-p.bad{border-color:rgba(224,100,90,.6); color:#f1b3ad; background:rgba(224,100,90,.08)} .hs-p.bad i{background:var(--down)}
+  .hs-p.off i{background:#56616d}
+  .hs-p em{font-style:normal; opacity:.9} .hs-p em:before{content:"· "; opacity:.6}
+  @media (max-width:700px){ .hs{padding:6px 12px 0} .hs-p:not(.warn):not(.bad){padding:2px 7px} }
   .lbwarn{margin:14px 22px 0; padding:10px 14px; border:1px solid rgba(224,100,90,.55);
           background:rgba(224,100,90,.12); color:#f1b3ad; border-radius:3px; font-size:12.5px;
           line-height:1.5; max-width:1500px}
@@ -1230,6 +1249,7 @@
   <nav class="tabs" id="pagetabs"></nav>
   <span class="asof"><span class="dot" id="dot"></span><span id="asof">no data</span></span>
 </header>
+<div id="hs" class="hs" aria-label="Data sources"></div>
 
 <main>
 <div id="lbwarn" class="lbwarn" hidden></div>
@@ -1644,6 +1664,10 @@
   <h2 class="rph">Risk by market and year</h2>
   <p class="hint">US dollars gained (+) or lost (&minus;) if that market's rates rise 1bp, by the year each leg's contract is in. A flat book across years nets to zero.</p>
   <div class="panel hm-wrap" id="rk-grid"></div>
+  <h2 class="rph">Risk by central bank meeting</h2>
+  <p class="hint">US dollars gained (+) or lost (&minus;) if the market prices <b>1bp more hike</b> (or 1bp less cut) at that one meeting, every other meeting unchanged.
+    Each leg counts the share of its contract's reference period after the meeting takes effect, so a spread shows exactly which meetings it is betting on.</p>
+  <div id="rk-meet"></div>
   <h2 class="rph">What if</h2>
   <p class="hint">Move each market's rates: a parallel shift in bp, plus a slope in bp per year further out (positive = steeper). Rates up = futures prices down.</p>
   <div class="panel hm-wrap" id="rk-scen"></div>
@@ -11319,6 +11343,73 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
   }
 
   /* ============================================================ Risk */
+  /* ---- risk by central bank meeting
+     A futures contract's rate is the average (or compounding) of the overnight rate over its
+     reference period, so a 1bp change in what one meeting delivers moves it by the share of
+     that period after the meeting takes effect. Summing every leg's dollars-per-bp times that
+     share gives what the book makes or loses if one meeting reprices by 1bp (+ = more hike /
+     less cut priced), with every other meeting held where it is. */
+  var RKM_BANK = { "SOFR":"US", "Fed Funds":"US", "SR1":"US", "SONIA":"UK", "SONIA MPC":"UK", "Euribor":"EU", "ESTR":"EU", "CORRA":"CA", "SARON":"CH" };
+  var RKM_NAME = { US:"Fed", UK:"BoE", EU:"ECB", CA:"BoC", CH:"SNB" };
+  function rkmMeetings(bank){
+    var M = MKTS[bank], t = todayDn();
+    return M.dates.map(function(s){ var d = dn(s); return { iso:s, dec:d, eff:d + M.lag }; }).filter(function(m){ return m.eff > t; });
+  }
+  // a contract's reference period [s, e) in day numbers, from its market and label ("DEC26")
+  function rkmPeriod(mk, c){
+    var mi = MNAME.indexOf(String(c).slice(0, 3)), y = 2000 + +String(c).slice(3);
+    if (mi < 0 || !isFinite(y)) return null;
+    if (mk === "Fed Funds" || mk === "SR1") return { s:dYM(y, mi), e:mi === 11 ? dYM(y + 1, 0) : dYM(y, mi + 1) };
+    if (mk === "SONIA MPC"){   // from the MPC meeting in that month to the next one
+      var ms = MKTS.UK.dates.map(dn), k = -1;
+      ms.forEach(function(d, i){ var p = dParts(d); if (p.y === y && p.m === mi) k = i; });
+      if (k < 0 || k + 1 >= ms.length) return null;
+      return { s:ms[k], e:ms[k + 1] };
+    }
+    var m2 = mi + 3, y2 = y + Math.floor(m2 / 12); m2 %= 12;
+    return { s:imm(y, mi), e:imm(y2, m2) };
+  }
+  function rkmExposure(positions){
+    var B = {};
+    positions.forEach(function(p){
+      var nm = p.pair ? (p.multi ? p.legs.length + "-leg trade" : (function(){ var M2 = pkMerge(p.legs); return stName(M2[0]) + " vs " + (M2[1] ? stName(M2[1]) : "?"); })()) : stName(p);
+      rkLegs(p).forEach(function(l){
+        var bank = RKM_BANK[l.mk], P = bank && rkmPeriod(l.mk, l.c); if (!P || P.e <= P.s) return;
+        var b = B[bank] || (B[bank] = { meets:rkmMeetings(bank), v:[], by:[], beyond:0 });
+        if (!b.v.length) b.meets.forEach(function(){ b.v.push(0); b.by.push({}); });
+        b.meets.forEach(function(m, j){
+          var f = Math.max(0, P.e - Math.max(P.s, m.eff)) / (P.e - P.s); if (!f) return;
+          b.v[j] += l.dvUsd * f; b.by[j][nm] = (b.by[j][nm] || 0) + l.dvUsd * f;
+        });
+        // the part of the period after the last meeting on the list: meetings not yet scheduled
+        var last = b.meets.length ? b.meets[b.meets.length - 1].eff : -Infinity;
+        if (P.e > last + 45) b.beyond += Math.abs(l.dvUsd);
+      });
+    });
+    return B;
+  }
+  function rkmDraw(){
+    var host = document.getElementById("rk-meet"); if (!host) return;
+    var B = rkmExposure(rkPos), banks = ["US", "UK", "EU", "CA", "CH"].filter(function(k){ return B[k] && B[k].v.some(function(x){ return Math.abs(x) >= 0.5; }); });
+    if (!banks.length){ host.innerHTML = "<div class='empty'>Appears once you have open positions.</div>"; return; }
+    var mx = 1; banks.forEach(function(k){ B[k].v.forEach(function(x){ mx = Math.max(mx, Math.abs(x)); }); });
+    host.innerHTML = banks.map(function(k){
+      var b = B[k], rows = b.meets.map(function(m, j){ return { m:m, v:b.v[j], by:b.by[j] }; }).filter(function(r){ return Math.abs(r.v) >= 0.5; });
+      var top = rows.reduce(function(a, r){ return Math.abs(r.v) > Math.abs(a.v) ? r : a; }, rows[0]);
+      return "<div class='rkm-bank'><div class='rkm-h'><b>" + RKM_NAME[k] + "</b><span>biggest: " + dShort(top.m.dec) + " " + String(dParts(top.m.dec).y).slice(2)
+        + " · " + stMoney(top.v) + " per bp</span></div><table class='cv-t rkm-t'><thead><tr><th class='l'>Meeting</th><th>$ per 1bp more hike priced</th><th class='l rkm-bc'></th><th class='l'>From</th></tr></thead><tbody>"
+        + rows.map(function(r){
+          var w = Math.round(Math.abs(r.v) / mx * 100), cls = r.v > 0 ? "up" : "dn";
+          var from = Object.keys(r.by).filter(function(n){ return Math.abs(r.by[n]) >= 0.5; }).sort(function(a, c){ return Math.abs(r.by[c]) - Math.abs(r.by[a]); });
+          return "<tr><th class='l'>" + dShort(r.m.dec) + " " + String(dParts(r.m.dec).y).slice(2) + "</th><td class='" + (r.v > 0 ? "pz-up" : "pz-dn") + "'><b>" + stMoney(r.v) + "</b></td>"
+            + "<td class='l rkm-bc'><span class='rkm-bar " + cls + "' style='width:" + Math.max(2, w) + "%'></span></td>"
+            + "<td class='l rkm-from'>" + from.slice(0, 3).map(function(n){ return esc(n) + " <span class='mut'>" + stMoney(r.by[n]) + "</span>"; }).join(" · ")
+            + (from.length > 3 ? " <span class='mut'>+" + (from.length - 3) + " more</span>" : "") + "</td></tr>";
+        }).join("") + "</tbody></table>"
+        + (b.beyond ? "<div class='hint rkm-n'>Some legs run past the last " + RKM_NAME[k] + " meeting on the calendar; their risk to later meetings isn't shown.</div>" : "")
+        + "</div>";
+    }).join("");
+  }
   var rkPos = stLoad("rkPos", []);
   var rkUI = stLoad("rkUI", { mk:"SOFR", k:"O", g:3, c:null, scen:{} });
   function rkSave(){ stSave("rkPos", rkPos); stSave("rkUI", rkUI); }
@@ -11762,6 +11853,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
       g += "<tr class='rk-tot'><th class='l'>Total</th>" + yrs.map(function(y){ return "<td><b>" + stMoney(colT[y]) + "</b></td>"; }).join("") + "<td><b>" + stMoney(all) + "</b></td></tr>";
       grid.innerHTML = g + "</tbody></table>";
     }
+    try { rkmDraw(); } catch(e){ console.error(e); }
     // scenarios: per market, a parallel move plus a slope (bp per year further out), in rate bp
     var sc = document.getElementById("rk-scen"), S = rkUI.scen || (rkUI.scen = {});
     if (!mks.length){ sc.innerHTML = ""; return; }
@@ -14022,6 +14114,234 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     if (ae && ae.tagName === "INPUT" && (document.getElementById("pg-im").contains(ae) || document.getElementById("pg-hr").contains(ae))) return true;
     return ["rk-lots", "rk-entry", "rk-lotsb", "rk-entryb", "rk-why", "jr-lots", "jr-entry", "jr-tgt", "jr-stop", "jr-why"].some(function(id){ var e = document.getElementById(id); return e && e.value.trim(); });
   }
+  /* ------------------------------------------------ data health strip
+     One line under the header: a dot per data source, green / amber / red.
+     Each source is checked for what it should hold by now, not only for when it
+     last wrote: the latest fixing against the day that should be out by this
+     hour (on that market's holiday calendar), the newest open interest day,
+     speakers in the next week, releases missing their actual, and so on. A
+     source that is missing on this copy (no Eikon board, phone copy) is left out. */
+  var HS_KNOWN = { saron:"SARON comes from the SNB's weekly data while the SIX download is blocked" };
+  var HS_CME = setOf(HOL_FED.filter(function(s){ return !/-(10-1[0-2]|11-11)$/.test(s); }));   // CME shuts on Fed holidays except Columbus and Veterans Day
+  function hsBizFn(cal){ return cal === "cme" ? function(d){ var w = (d + 4) % 7; return w !== 0 && w !== 6 && !HS_CME[d]; }
+                                              : function(d){ return isBiz(cal, d); }; }
+  function hsNowDn(){ return Math.floor(Date.now() / 864e5); }   // today in UTC days
+  // the latest business day d whose value should be out by now: published `lag` business
+  // days after d, at `hr` UTC (already including a margin for a slow source)
+  function hsExpected(cal, lag, hr){
+    var B = hsBizFn(cal), now = Date.now();
+    for (var d = hsNowDn(); d > hsNowDn() - 30; d--){
+      if (!B(d)) continue;
+      var p = d, k = 0; while (k < lag){ p++; if (B(p)) k++; }
+      if (p * 864e5 + hr * 36e5 <= now) return d;
+    }
+    return null;
+  }
+  // business days published but not in the file
+  function hsBehind(cal, latestIso, exp){
+    if (exp === null) return 0;
+    if (!latestIso) return 99;
+    var B = hsBizFn(cal), n = 0;
+    for (var d = dn(latestIso) + 1; d <= exp; d++) if (B(d)) n++;
+    return n;
+  }
+  function hsAgeMins(iso){ var t = new Date(String(iso).replace(" ", "T")); return isNaN(t) ? null : (Date.now() - t.getTime()) / 60000; }
+  function hsAgeTxt(m){ return m === null ? "?" : m < 90 ? Math.round(m) + "m" : m < 2880 ? Math.round(m / 60) + "h" : Math.round(m / 1440) + "d"; }
+  function hsWorst(a, b){ var o = {ok:0, off:0, warn:1, bad:2}; return (o[b] || 0) > (o[a] || 0) ? b : a; }
+  // a feed rebuilt by the GitHub collector every 15 minutes
+  function hsBuilt(F, warnM, badM){
+    var m = F && F.built ? hsAgeMins(F.built) : null;
+    if (m === null) return { st:"bad", msg:"no data" };
+    return m > badM ? { st:"bad", msg:"not updated for " + hsAgeTxt(m) } : m > warnM ? { st:"warn", msg:"not updated for " + hsAgeTxt(m) } : { st:"ok", msg:"" };
+  }
+  function hsErrs(F){ var e = (F && F.health && F.health.errors) || []; return e.length ? String(e[0]).slice(0, 140) : ""; }
+  var HS_DAYF = function(iso){ return iso ? dShort(dn(iso)) : "none"; };
+
+  function hsChecks(){
+    var out = [], add = function(o){ out.push(o); }, weekend = (function(){ var w = new Date().getUTCDay(); return w === 0 || w === 6; })();
+
+    // 1. live prices (the Excel board writing data.js)
+    if (window.STELLAR || isFile){
+      var o = { k:"Prices", pg:"rates", st:"ok", msg:"", det:[] };
+      if (!data || !data.asOf){ o.st = "bad"; o.msg = "no data.js"; }
+      else {
+        var mins = hsAgeMins(data.asOf), lim = data.everySecs ? Math.max(3, data.everySecs * 3 / 60) : STALE_MINS, eik = lbSource() === "Eikon";
+        o.det.push((eik ? "Eikon" : "Stellar") + " board, written " + data.asOf);
+        if (lbMarketShut()){ o.st = "off"; o.msg = "market closed"; }
+        else if (mins !== null && mins > lim * 3){ o.st = "bad"; o.msg = hsAgeTxt(mins) + " old"; }
+        else if (mins !== null && mins > lim){ o.st = "warn"; o.msg = hsAgeTxt(mins) + " old"; }
+        else if (isFinite(data.frozenMins) && data.frozenMins >= (eik ? 20 : 5)){ o.st = "warn"; o.msg = "no price change for " + Math.round(data.frozenMins) + "m"; }
+      }
+      add(o);
+      // what-is-priced data rides in the Eikon board's data.js
+      if (data && data.rows && lbSource() === "Eikon"){
+        var banks = {}; data.rows.forEach(function(r){ var m = /^IRP:(\w+)$/.exec(String(r[0] || "")); if (m && r[1] === "IRP" && isFinite(r[4]) && r[4] !== null) banks[m[1]] = 1; });
+        var nb = Object.keys(banks).length, want = ["US","EZ","GB","CA","CH","JP","AU","NZ","SE","NO"];
+        var miss = want.filter(function(b){ return !banks[b]; });
+        add({ k:"Priced in", pg:"wi", st:nb === 0 ? "bad" : miss.length ? "warn" : "ok", msg:nb === 0 ? "no LSEG meeting data" : miss.length ? "missing " + miss.join(", ") : "",
+              det:[nb + " of 10 central banks from LSEG"] });
+      }
+    }
+
+    // 2. fixings, each against the day that should be out by now
+    var FX0 = window.STELLAR_FIX;
+    if (FX0 || isFile){
+      var rules = [["sofr","SOFR",1,17],["effr","EFFR",1,17],["sonia","SONIA",2,12],["estr","€STR",1,10],["corra","CORRA",1,18],["saron","SARON",0,19]];
+      var o2 = { k:"Fixings", pg:"px", st:"ok", msg:"", det:[] }, late = [];
+      if (!FX0){ o2.st = "bad"; o2.msg = "fixings feed not loaded"; }
+      else rules.forEach(function(r){
+        var arr = FX0[r[0]] || [], last = arr.length ? arr[arr.length - 1][0] : null;
+        var exp = hsExpected(r[0], r[2], r[3]), b = hsBehind(r[0], last, exp);
+        var st = b === 0 ? "ok" : b === 1 ? "warn" : "bad";
+        if (HS_KNOWN[r[0]] && b > 0 && b <= 6) st = "known";
+        o2.det.push(r[1] + ": latest " + HS_DAYF(last) + (b ? " (" + (b >= 99 ? "none" : b + " day" + (b > 1 ? "s" : "") + " behind") + ")" : "")
+          + (st === "known" ? " - " + HS_KNOWN[r[0]] : ""));
+        if (st === "warn" || st === "bad"){ late.push(r[1] + " " + (b >= 99 ? "missing" : b + "d late")); o2.st = hsWorst(o2.st, st); }
+      });
+      if (late.length) o2.msg = late.join(", ");
+      add(o2);
+    }
+
+    // 3. economic calendar: freshness, its own errors, speakers ahead, actuals that never arrived
+    var C = window.ECON_CAL;
+    if (C || window.CAL_URL){
+      var o3 = hsBuilt(C, 60, 180); o3.k = "Calendar"; o3.pg = "cal"; o3.det = [];
+      if (C){
+        o3.det.push("updated " + (istStamp(C.built) || C.built));
+        var e = hsErrs(C); if (e){ o3.st = hsWorst(o3.st, "warn"); o3.msg = o3.msg || "feed error"; o3.det.push(e); }
+        var sp = C.health && C.health.speeches;
+        if (sp){ o3.det.push(sp.next_7_days + " central bank speakers in the next 7 days"
+                   + (sp.by_source ? " (" + Object.keys(sp.by_source).map(function(k){ return k + " " + sp.by_source[k]; }).join(", ") + ")" : ""));
+                 if (sp.next_7_days < 5){ o3.st = "bad"; o3.msg = "only " + sp.next_7_days + " speakers this week"; } }
+        var now = Date.now(), miss = (C.events || []).filter(function(ev){
+          var t = new Date(ev.t).getTime();
+          return !ev.text && ev.imp >= 0 && ev.forecast !== null && ev.forecast !== undefined && (ev.actual === null || ev.actual === undefined)
+            && t < now - 45 * 6e4 && t > now - 48 * 36e5; });
+        if (miss.length){ o3.det.push("No actual yet: " + miss.slice(0, 4).map(function(ev){ return ev.c + " " + ev.title; }).join("; ") + (miss.length > 4 ? "…" : ""));
+          if (miss.length >= 2){ o3.st = hsWorst(o3.st, "warn"); o3.msg = o3.msg || miss.length + " releases without actual"; } }
+      }
+      add(o3);
+    }
+
+    // 4. central bank commentary
+    var N = window.STELLAR_CB;
+    if (N || window.CB_URL){
+      var o4 = hsBuilt(N, 60, 180); o4.k = "CB news"; o4.pg = "cb"; o4.det = [];
+      if (N){
+        o4.det.push("updated " + (istStamp(N.built) || N.built));
+        var bad = (N.sources || []).filter(function(s){ return s.ok === false; });
+        if (bad.length){ o4.st = hsWorst(o4.st, "warn"); o4.msg = o4.msg || bad.length + " source" + (bad.length > 1 ? "s" : "") + " failing";
+          o4.det.push("Failing: " + bad.map(function(s){ return s.name + (s.error ? " (" + String(s.error).slice(0, 60) + ")" : ""); }).join("; ")); }
+        var newest = (N.items || []).reduce(function(m, r){ return r[0] > m ? r[0] : m; }, "");
+        var nm = newest ? hsAgeMins(newest) : null;
+        if (newest) o4.det.push("newest item " + hsAgeTxt(nm) + " ago");
+        if (!weekend && nm !== null && nm > 36 * 60){ o4.st = hsWorst(o4.st, "warn"); o4.msg = o4.msg || "nothing new for " + hsAgeTxt(nm); }
+      }
+      add(o4);
+    }
+
+    // 5. open interest: CME, then Eurex and Montreal
+    var OI = window.STELLAR_OI;
+    if (OI || window.OI_URL){
+      var o5 = { k:"Open interest", pg:"oi", st:"ok", msg:"", det:[] };
+      if (!OI){ o5.st = "bad"; o5.msg = "feed not loaded"; }
+      else {
+        var lt = (OI.health && OI.health.latest) || OI.rows.reduce(function(m, r){ return r[0] > m ? r[0] : m; }, "");
+        var b5 = hsBehind("cme", lt, hsExpected("cme", 1, 10));
+        o5.det.push("CME: latest " + HS_DAYF(lt));
+        if (b5){ o5.st = b5 >= 2 ? "bad" : "warn"; o5.msg = "CME " + b5 + "d behind"; }
+        var e5 = hsErrs(OI); if (e5){ o5.st = hsWorst(o5.st, "warn"); o5.det.push(e5); }
+        var I = window.STELLAR_OI_INTL, L = I && I.health && I.health.latest;
+        if (L){
+          var eu = Object.keys(L).filter(function(k){ return k !== "CRA"; }).map(function(k){ return L[k]; }).sort()[0];
+          var be = hsBehind("estr", eu, hsExpected("estr", 1, 10)), bc = hsBehind("corra", L.CRA, hsExpected("corra", 1, 18));
+          o5.det.push("Eurex: latest " + HS_DAYF(eu) + " · Montreal (CORRA): latest " + HS_DAYF(L.CRA));
+          if (be){ o5.st = hsWorst(o5.st, be >= 2 ? "bad" : "warn"); o5.msg = (o5.msg ? o5.msg + ", " : "") + "Eurex " + be + "d behind"; }
+          if (bc){ o5.st = hsWorst(o5.st, bc >= 2 ? "bad" : "warn"); o5.msg = (o5.msg ? o5.msg + ", " : "") + "CORRA " + bc + "d behind"; }
+          var e6 = hsErrs(I); if (e6){ o5.st = hsWorst(o5.st, "warn"); o5.det.push(e6); }
+        }
+      }
+      add(o5);
+    }
+
+    // 6. repo (NY Fed rates, reserves, RRP, TGA)
+    var R = window.REPO;
+    if (R || window.REPO_URL){
+      var o6 = { k:"Repo", pg:"repo", st:"ok", msg:"", det:[] };
+      if (!R || !R.daily){ o6.st = "bad"; o6.msg = "feed not loaded"; }
+      else {
+        var rl = R.daily.dates[R.daily.dates.length - 1], b6 = hsBehind("sofr", rl, hsExpected("sofr", 1, 17));
+        o6.det.push("latest day " + HS_DAYF(rl));
+        if (b6){ o6.st = b6 >= 2 ? "bad" : "warn"; o6.msg = b6 + "d behind"; }
+        var e7 = hsErrs(R); if (e7){ o6.st = hsWorst(o6.st, "warn"); o6.msg = o6.msg || "feed error"; o6.det.push(e7); }
+      }
+      add(o6);
+    }
+
+    // 7. feeds that only need to be fresh
+    [["Curves", window.CURVES, window.CURVES_URL, "cv"], ["Markets", window.MARKETS, window.MARKETS_URL, "mk"], ["Currencies", window.STELLAR_FX, window.FX_URL, "fx"]].forEach(function(x){
+      if (!x[1] && !x[2]) return;
+      var o = hsBuilt(x[1], 90, 360); o.k = x[0]; o.pg = x[3]; o.det = x[1] ? ["updated " + (istStamp(x[1].built) || x[1].built)] : [];
+      var e = hsErrs(x[1]); if (e){ o.st = hsWorst(o.st, "warn"); o.msg = o.msg || "feed error"; o.det.push(e); }
+      add(o);
+    });
+
+    // 8. CFTC positioning: Tuesday's data, out on Friday afternoon New York time
+    var CF = window.CFTC;
+    if (CF || window.CFTC_URL){
+      var o8 = { k:"Positioning", pg:"cf", st:"ok", msg:"", det:[] };
+      if (!CF || !CF.markets){ o8.st = "bad"; o8.msg = "feed not loaded"; }
+      else {
+        var cl = ""; Object.keys(CF.markets).forEach(function(k){ var rr = CF.markets[k].rows || []; if (rr.length && rr[rr.length - 1][0] > cl) cl = rr[rr.length - 1][0]; });
+        var exp = null; for (var d = hsNowDn(); d > hsNowDn() - 21; d--) if ((d + 4) % 7 === 2 && (d + 4) * 864e5 <= Date.now()){ exp = d; break; }   // a Tuesday whose Friday + 1 day has passed
+        var wk = (cl && exp !== null) ? Math.max(0, Math.round((exp - dn(cl)) / 7)) : 99;
+        o8.det.push("latest report " + HS_DAYF(cl));
+        if (wk){ o8.st = wk >= 2 ? "bad" : "warn"; o8.msg = wk >= 99 ? "no report" : wk + " week" + (wk > 1 ? "s" : "") + " behind"; }
+      }
+      add(o8);
+    }
+
+    // 9. files written on this PC: options board, commodity board, nowcast inputs
+    if (window.STELLAR_OPT){
+      var om = hsAgeMins(window.STELLAR_OPT.asOf), od = om === null ? 99 : om / 1440;
+      add({ k:"Options", pg:"opts", st:od > 3 ? "bad" : od > 1.2 && !weekend ? "warn" : "ok", msg:od > 1.2 ? "last written " + hsAgeTxt(om) + " ago" : "",
+            det:["options board wrote options.js " + window.STELLAR_OPT.asOf] });
+    }
+    if (window.COMMO){
+      var cm = hsAgeMins(window.COMMO.asOf), cl2 = (window.COMMO.everySecs ? window.COMMO.everySecs / 60 : 60) + 20;
+      add({ k:"Commodities", pg:"co", st:lbMarketShut() ? "off" : cm > cl2 * 3 ? "bad" : cm > cl2 ? "warn" : "ok", msg:cm > cl2 && !lbMarketShut() ? hsAgeTxt(cm) + " old" : "",
+            det:["commodity board wrote commo.js " + window.COMMO.asOf] });
+    }
+    if (window.IFR_OPEN){
+      var rows9 = window.IFR_OPEN.rows || [], li = "";
+      for (var i = rows9.length - 1; i >= 0; i--) if (rows9[i].slice(1).some(function(v){ return v !== null; })){ li = rows9[i][0]; break; }
+      var b9 = hsBehind("sofr", li, hsExpected("sofr", 1, 18));
+      add({ k:"Nowcast", pg:"nc", st:b9 === 0 ? "ok" : b9 === 1 ? "warn" : "bad", msg:b9 ? b9 + "d behind" : "",
+            det:["ifr.js: latest " + HS_DAYF(li) + ", file built " + (window.IFR_OPEN.built || "?")] });
+    }
+    return out;
+  }
+
+  function drawHealth(){
+    var el = document.getElementById("hs"); if (!el) return;
+    var list; try { list = hsChecks(); } catch(e){ console.error(e); return; }
+    var nBad = list.filter(function(o){ return o.st === "bad"; }).length, nWarn = list.filter(function(o){ return o.st === "warn"; }).length;
+    var sum = nBad ? nBad + " source" + (nBad > 1 ? "s" : "") + " down" + (nWarn ? ", " + nWarn + " late" : "")
+            : nWarn ? nWarn + " source" + (nWarn > 1 ? "s" : "") + " late" : "All " + list.length + " data sources up to date";
+    var html = "<span class='hs-sum " + (nBad ? "bad" : nWarn ? "warn" : "ok") + "'>" + sum + "</span>" + list.map(function(o){
+      var tip = o.k + (o.msg ? ": " + o.msg : ": OK") + (o.det && o.det.length ? "\n" + o.det.join("\n") : "");
+      return "<button type='button' class='hs-p " + o.st + "' data-pg='" + o.pg + "' title='" + esc(tip) + "'><i></i>" + esc(o.k)
+        + (o.msg && o.st !== "ok" ? "<em>" + esc(o.msg) + "</em>" : "") + "</button>";
+    }).join("");
+    if (el._h === html) return;
+    el._h = html; el.innerHTML = html;
+    if (!el._wired){ el._wired = true; el.addEventListener("click", function(ev){
+      var b = ev.target.closest && ev.target.closest(".hs-p"); if (!b) return;
+      var pg = b.getAttribute("data-pg"); if (pg && PAGES.some(function(p){ return p.v === pg; })) setPage(pg); }); }
+  }
+  setInterval(drawHealth, 5000);
+  setTimeout(drawHealth, 3500);
+
   function refresh(){
     if (isFile){
       // don't yank the page out from under a hover, or mid-edit in the
