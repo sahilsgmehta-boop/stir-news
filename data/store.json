@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-12T18:37:00Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "Fed's Daly: AI had limited impact on labor market",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1gxQWpNbEZKbW1adWVMYjBCTnExVEI2S284VGR0bzBjekF0eEFaNlVuWDdhRzA0SGVSWjhRZDMxa3NoU1FFN1IwRnFGT2lNOUV1Unp3Tktna0NjdzlvaUNHVVNTTXBweG1aa2EyTTNUWUR0NHphcWtmRUxKSEs0M0JsZy1lNmpOdl9TTjJsMURGSTI4MkdfTGVn?oc=5",
+"src": "Breakingthenews.net",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2bcf3557dbf5",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T18:33:08Z",
 "bank": "Fed",
 "speaker": "Schmid",
@@ -1362,7 +1382,8 @@
 "KLSE Screener",
 "Quartz",
 "WTVB",
-"KELO-AM"
+"KELO-AM",
+"1470 & 100.3 WMBD"
 ],
 "desc": "",
 "id": "ac9658fb8431",
