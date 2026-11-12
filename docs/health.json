@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T21:07:00Z",
+ "built": "2026-11-12T21:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 3,
+   "kept": 62,
+   "added": 2,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
-   "kept": 17,
+   "fetched": 52,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -123,11 +123,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 21,
-   "kept": 10,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
+    "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "ECB warns delays could postpone digital euro launch",
     "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
