@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T13:37:14Z",
+ "built": "2026-11-12T14:09:58Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,15 +17,14 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
-   "added": 0,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
     "Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the crypto market",
     "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
-    "UK September GDP beats expectations as resilient growth keeps BOE December rate hike on track",
-    "Heads up: UK September GDP in focus but will weak growth really stop the BOE from hiking again?"
+    "UK September GDP beats expectations as resilient growth keeps BOE December rate hike on track"
    ]
   },
   {
@@ -62,7 +61,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 66,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
@@ -71,9 +70,9 @@
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Roth Capital's Michael Darda: The Fed's reaction function is confusing",
     "The countdown to the Fed\u2019s next move",
-    "Inflation data raises stakes for the Fed\u2019s December decision",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Gold reserve repatriations don\u2019t mean central banks are de-dollarizing \u2013 Fed\u2019s Weiss",
+    "Inflation data raises stakes for the Fed\u2019s December decision",
     "CPI Rose More Than Expected in October, Complicating Fed\u2019s Inflation Fight"
    ]
   },
@@ -83,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
-   "added": 2,
+   "kept": 64,
+   "added": 3,
    "error": "",
    "near_misses": [
+    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
     "Economists say Fed could go overboard on rate hikes after hot October inflation report",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Inflation remained elevated in October, cementing a Fed rate increase",
+    "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
   },
   {
@@ -139,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
-   "kept": 12,
+   "fetched": 39,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -150,10 +149,10 @@
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England policymaker refuses to rule out back-to-back rate rises",
-    "\u201cClear financial stability risks\u201d from AI warns Bank of England governor",
     "Bank of England raises rates for first time since 2023, says more may come",
+    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019"
+    "The Bank of England hints at another interest-rate rise in December"
    ]
   },
   {
