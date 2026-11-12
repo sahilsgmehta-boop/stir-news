@@ -6026,9 +6026,14 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
   // bank's 2028 dates once published, or the "next eight" runs short.
   window.FIX_URL = window.FIX_URL || "https://sahilsgmehta-boop.github.io/stir-news/fixings.js";
 
-  var FOMC_DATES = [   // decision days (second day of the meeting)
+  // 2027 has seven rate decisions: the Fed's 26-27 Oct 2027 meeting is a strategy-only
+  // meeting with no rate vote (announced 12 Nov 2026), so it is left out here and the
+  // pricer, SR1/SR3/fed funds fair values, meeting spreads and calendars go straight
+  // from Sep 2027 to Dec 2027. 2028 is to have two such meetings: check before adding 2028.
+  var FOMC_DATES = [   // rate decision days (second day of the meeting)
     "2026-10-28","2026-12-09","2027-01-27","2027-03-17","2027-04-28","2027-06-09",
-    "2027-07-28","2027-09-15","2027-10-27","2027-12-08","2028-01-26"];
+    "2027-07-28","2027-09-15","2027-12-08","2028-01-26"];
+  var FOMC_NO_RATE = ["2027-10-27"];   // meetings held without a rate decision
   var BOE_DATES = [    // MPC announcement days, bankofengland.co.uk
     "2026-09-17","2026-11-05","2026-12-17","2027-02-04","2027-03-18","2027-04-29",
     "2027-06-17","2027-07-29","2027-09-16","2027-11-04","2027-12-16"];
@@ -6304,8 +6309,10 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
                m: mk.m ? meetStrip(ctx, mk.m.pre) : [] };
     }
     var t = dParts(ctx.today);
-    var mon = [];
-    for (var i = 0; i < PX_MONTHS; i++){
+    var mon = [], nMon = PX_MONTHS;
+    if (ctx.meet.length){ var lp = dParts(ctx.meet[ctx.meet.length - 1].eff);   // through the month after the last meeting
+      nMon = Math.max(nMon, (lp.y - t.y) * 12 + lp.m - t.m + 2); }
+    for (var i = 0; i < nMon; i++){
       var m = (t.m + i) % 12, yy = t.y + Math.floor((t.m + i) / 12);
       var s1 = dYM(yy, m), e1 = dYM(m === 11 ? yy + 1 : yy, (m + 1) % 12);
       mon.push({ s:s1, e:e1, y:yy, m:m, letter: MCODE[m] + String(yy).slice(3),
@@ -10533,7 +10540,8 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     Object.keys(B).forEach(function(k){
       var list = Object.keys(B[k]).map(function(n){ return B[k][n]; })
         .filter(function(M){ return M.date && isFinite(M.impl) && isFinite(M.cum); })
-        .sort(function(a,b){ return a.date < b.date ? -1 : 1; });
+        .sort(function(a,b){ return a.date < b.date ? -1 : 1; })
+        .filter(function(M){ return k !== "US" || FOMC_NO_RATE.indexOf(M.date) < 0; });   // no rate decision at that meeting
       if (!list.length) return;
       // LSEG's records now and then send a 0 for the implied rate (seen on the ECB,
       // SNB and BoE) or for the bp priced (the BoE's Mar27 once read 0, which showed
