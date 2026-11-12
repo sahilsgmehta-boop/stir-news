@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T22:07:00Z",
+ "built": "2026-11-12T22:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": []
   },
@@ -47,7 +47,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes"
+   ]
   },
   {
    "id": "gn_fed",
@@ -55,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -77,20 +79,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 4,
+   "kept": 62,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Fed to skip rate vote at October 2027 meeting under Warsh plan",
+    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Top Federal Reserve official considers largest rate rise since 2022",
-    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
-    "Inflation rises faster than expected, boosting odds of Fed rate hike"
+    "Top Federal Reserve official considers largest rate rise since 2022"
    ]
   },
   {
@@ -98,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 16,
+   "fetched": 53,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -120,13 +122,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
@@ -137,8 +140,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 6,
+   "fetched": 29,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -148,10 +151,10 @@
     "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Bank of England raises rates for first time since 2023, says more may come",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
+    "Bank of England raises rates for first time since 2023, says more may come",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
    ]
   },
   {
@@ -186,8 +189,7 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook - TalkMarkets",
-    "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook"
+    "Swiss Franc declines amid divergent Fed-SNB rate outlooks"
    ]
   },
   {

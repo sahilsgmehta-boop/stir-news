@@ -106,6 +106,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-12T19:13:59Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "Fed's Daly: Economy being driven by technology boom",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdnpvQmRSbGVfWmRnbTlhWkFKcmNWTGpHU1VBZFBBRGRMTXRuQ0t4SUxQUy1CZFY4dGl1M0Y5NjBJTzd3V0FPb1hOMGxJRFZFQVFGRTlrNHBCQTB0NHhMQ055ZHVpaGlDZ3VOTkhtMU0ybEVjb2d5dVp4VVJ0OWY4RExfVS1wb0ctYXhyUk1Mai1CMjZhUEHSAZsBQVVfeXFMUDZPUmxQNTFxeDVtX3o0MWtyRTB6QjF2SDFCakNHTlBmQk1WWGNnaW9TOVhCZUVDSEhHdUc0YUN1bHF1WEIxUV9fcW5LZERKVVdRU2Z6TUt3TVNDMFc0OVNqYU9kUlFCMERKUDR3Y0tQdnZNRHVHUmZBOGR1eGx5TkVJd290YVh1Tl9aS2toUFdBQ09jVG9UemkzMDQ?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "8d4799babd7c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T19:00:03Z",
 "bank": "Fed",
 "speaker": "Daly",
@@ -1470,7 +1490,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "20d749c5d9e9",
 "score": 1,
@@ -2876,7 +2898,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Fresno Bee"
+"Fresno Bee",
+"Columbus Ledger-Enquirer"
 ],
 "desc": "",
 "id": "eb2e3b8305d1",
