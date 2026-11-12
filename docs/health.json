@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T19:07:00Z",
+ "built": "2026-11-12T19:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 3,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations"
@@ -57,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 3,
+   "kept": 59,
+   "added": 1,
    "error": "",
    "near_misses": [
     "FRED Adds Median Inflation Data from the Cleveland Fed",
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 1,
+   "kept": 62,
+   "added": 0,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 18,
+   "fetched": 53,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -123,7 +123,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 21,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -138,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
-   "kept": 6,
+   "fetched": 31,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -148,9 +148,9 @@
     "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England raises rates for first time since 2023, says more may come",
+    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
    ]
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 17,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -170,7 +170,6 @@
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
     "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
-    "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
     "Further interest rate hikes possible: Bank of Canada",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Bank of Canada says another rate increase may be needed as energy costs spread",

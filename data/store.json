@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-12T19:18:20Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed’s Barr warns about deregulation in a ‘risk-on environment’",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkU3VHZLRE5iZnpJTThDc1ZoaGJNc3hfWm5vaDVwLTg2WmJKOEliNXB1WjV0S2FZV0xMdng5UDhGQllKNnpEU050ampzbW95Mm5Sa1c3V2hlWjNFcGlEZFZjUXZNZGZaNVJHQ0g1anQ4N3Fwejh2Rzdac0taYU9HVU5XMlkzU1hCRXJSeFVOV0pmUlI5OHdVeE5oRTY?oc=5",
+"src": "American Banker",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ddce110918a6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T19:00:03Z",
 "bank": "Fed",
 "speaker": "Daly",
@@ -825,7 +845,8 @@
 "also": [
 "Investing.com India",
 "Investing.com UK",
-"Investing.com South Africa"
+"Investing.com South Africa",
+"www.tmgm.com"
 ],
 "desc": "",
 "id": "945e40775b10",
