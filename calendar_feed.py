@@ -11,7 +11,7 @@ no actuals and only covers the current week.
 
 Runs in the 15-minute job: one request.
 """
-import hashlib, json, os, subprocess, sys, time
+import hashlib, json, os, re, subprocess, sys, time
 from datetime import datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -71,6 +71,9 @@ def tradingview(start, end):
 
 
 FF_CC = {"USD": "US", "EUR": "EU", "GBP": "GB", "CAD": "CA", "CHF": "CH"}
+FF_CACHE = os.path.join(HERE, "data", "ff_speeches.json")
+FF_EVERY = 3600          # ForexFactory asks for no more than a request or two an hour
+SPEECH = re.compile(r"\b(speaks|speech|testifies|testimony|press conference|remarks|hearing)\b", re.I)
 
 
 def forexfactory():
@@ -88,6 +91,62 @@ def forexfactory():
                     "actual": None, "forecast": e.get("forecast") or None, "previous": e.get("previous") or None,
                     "allday": e.get("impact") == "Holiday", "text": True})
     return out
+
+
+def ff_speeches(now):
+    """Central bank speakers for this week and next, from ForexFactory's public
+    weekly files. TradingView's feed stopped carrying speeches in early November
+    2026, so they come from here and are merged in. Fetched at most once an hour
+    (cached in data/ff_speeches.json); a failure keeps the cached copy."""
+    try:
+        cache = json.load(open(FF_CACHE))
+    except Exception:  # noqa: BLE001
+        cache = {"at": 0, "events": []}
+    if time.time() - cache.get("at", 0) < FF_EVERY and cache.get("events"):
+        return cache["events"]
+    out, ok = [], False
+    for wk in ("thisweek", "nextweek"):
+        try:
+            d = json.loads(get(f"https://nfs.faireconomy.media/ff_calendar_{wk}.json"))
+            ok = True
+        except Exception as e:  # noqa: BLE001
+            health["errors"].append(f"ForexFactory {wk}: {e}"[:200])
+            continue
+        for e in d:
+            c = FF_CC.get(e.get("country"))
+            title = (e.get("title") or "").strip()
+            if not c or not SPEECH.search(title):
+                continue
+            try:
+                t = datetime.fromisoformat(e["date"]).astimezone(timezone.utc)
+            except Exception:  # noqa: BLE001
+                continue
+            imp = {"High": 1, "Medium": 0, "Low": -1}.get(e.get("impact"), -1)
+            out.append({"id": "ff" + hashlib.sha1((title + e["date"] + c).encode()).hexdigest()[:10],
+                        "t": t.strftime("%Y-%m-%dT%H:%M:%SZ"), "c": c, "title": title,
+                        "ind": "", "cat": "mny", "imp": imp, "period": "", "unit": "", "scale": "",
+                        "actual": None, "forecast": None, "previous": None,
+                        "allday": False, "text": True, "src": "ForexFactory"})
+    if ok:
+        cache = {"at": time.time(), "events": out}
+        os.makedirs(os.path.dirname(FF_CACHE), exist_ok=True)
+        json.dump(cache, open(FF_CACHE, "w"), separators=(",", ":"))
+    return cache.get("events", [])
+
+
+def merge_speeches(events, speeches):
+    """Add speeches TradingView does not already have (same country within 90 minutes
+    and a shared name word counts as the same event)."""
+    have = [e for e in events if SPEECH.search(e["title"])]
+    words = lambda s: {w for w in re.findall(r"[A-Za-z]{4,}", s.lower())} - {"speaks", "speech", "member", "president", "governor", "chair", "deputy"}
+    added = 0
+    for s in speeches:
+        ts = datetime.fromisoformat(s["t"].replace("Z", "+00:00"))
+        dup = any(e["c"] == s["c"] and abs((datetime.fromisoformat(e["t"].replace("Z", "+00:00")) - ts).total_seconds()) <= 5400
+                  and words(e["title"]) & words(s["title"]) for e in have)
+        if not dup:
+            events.append(s); added += 1
+    health["speeches"] = {"source": "ForexFactory", "found": len(speeches), "added": added}
 
 
 def main():
@@ -110,6 +169,11 @@ def main():
             health["source"] = "ForexFactory (no actuals)"
         except Exception as e:  # noqa: BLE001
             health["errors"].append(f"ForexFactory: {e}"[:200])
+    if events and health["source"] == "TradingView":
+        try:
+            merge_speeches(events, ff_speeches(now))
+        except Exception as e:  # noqa: BLE001
+            health["errors"].append(f"speeches: {e}"[:200])
     if not events:
         # keep the last good file rather than publishing an empty calendar
         print("calendar: no source answered; keeping the previous file", health["errors"])
