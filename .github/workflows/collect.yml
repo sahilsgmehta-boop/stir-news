@@ -1,21 +1,21 @@
 name: collect
 
-# Every 15 minutes. GitHub starts scheduled runs late under load and sometimes
-# skips one altogether, so the schedule is denser than the data needs: a
-# skipped run costs 15 minutes, not an hour. Steps that have limits pace
-# themselves (currencies at most every 25 minutes, repo twice a day).
+# GitHub's own scheduler starts this repo's cron runs only every 4-8 hours (seen
+# Nov 2026), far from the 15 minutes asked for. So each scheduled run now stays
+# up for about five and a half hours and collects every 15 minutes itself
+# (public repo: Actions minutes are free), then starts its own successor. The
+# hourly cron is only the safety net if that chain ever breaks; with one run at
+# a time, a waiting run takes over as soon as the loop before it finishes.
+# Each pass pulls first, so a code change is live from the next pass.
+# To stop it all: Actions > collect > "..." > Disable workflow.
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"
-  workflow_dispatch: {}        # the "Run workflow" button, for testing
-  # a change to a collector script runs it straight away (the bot's own
-  # commits only touch docs/ and data/, so this never loops)
-  push:
-    branches: [main]
-    paths: ["*.py", ".github/workflows/collect.yml"]
+    - cron: "7 * * * *"
+  workflow_dispatch: {}        # the "Run workflow" button, and the loop's own restart
 
 permissions:
   contents: write
+  actions: write               # to start the next loop
 
 # never let two runs push at once
 concurrency:
@@ -25,7 +25,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -33,74 +33,48 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Collect
-        run: python collect.py
-
-      # SOFR and EFFR daily fixings for the dashboard pricer. Never fails the run.
-      - name: Fixings
-        run: python fixings.py
-
-      # CME open interest for the dashboard. Never fails the run; a backfill
-      # is spread over several runs by its own request budget.
-      - name: Open interest
-        run: python oi.py
-
-      # Eurex (Bund, Bobl, Schatz, Buxl, OAT, BTP, 3M ESTR) and Montreal
-      # (3M CORRA) open interest. Never fails the run.
-      - name: Open interest (non-US)
-        run: python oi_intl.py
-
-      # Economic calendar (US, euro area, UK, Canada, Switzerland) from
-      # TradingView's public feed. One request. Never fails the run.
-      - name: Calendar
-        run: python calendar_feed.py
-
-      # Government curves for the Curves page: official daily curves (Treasury,
-      # Bundesbank, Bank of England, Japan MOF, Bank of Canada) with CNBC for the
-      # latest and for France and Italy. History refetched once a day. Never
-      # fails the run. openpyxl reads the Bank of England's spreadsheets.
-      - name: Curves
-        run: |
-          pip install -q openpyxl || true
-          python curves.py
-
-      # Cross-asset performance for the Markets page (Yahoo Finance, CNBC).
-      # Every run; the full history is refetched once a day. Never fails the run.
-      - name: Markets
-        run: python markets.py
-
-      # US repo and funding data for the Repo page (NY Fed, H.4.1, Treasury,
-      # OFR, BEA via DBnomics). Runs at most every 3 hours; never fails the run.
-      - name: Repo
-        run: |
-          pip install -q pypdf || true
-          python repo.py
-
-      # G10 currencies for the dashboard. The Twelve Data key is a repository
-      # SECRET (Settings > Secrets and variables > Actions > TWELVE_DATA_KEY);
-      # it is never in the code or the output. Without it the page still works
-      # from ECB fixes.
-      - name: Currencies
+      # One pass runs every collector; none of them can fail the run.
+      #   collect.py      central bank news (cb.js, cb_archive.js)
+      #   fixings.py      SOFR, EFFR, SONIA, CORRA, ESTR, SARON fixings
+      #   oi.py           CME open interest (a backfill spreads over runs)
+      #   oi_intl.py      Eurex and Montreal open interest
+      #   calendar_feed.py economic calendar + central bank speakers
+      #   curves.py       government curves (history once a day)
+      #   markets.py      cross-asset performance
+      #   repo.py         US repo and funding (paces itself, every 3 hours)
+      #   fx.py           G10 currencies; TWELVE_DATA_KEY is a repository SECRET,
+      #                   never in the code or the output
+      #   cftc.py         CFTC positioning (paces itself, every 6 hours)
+      - name: Collect (loop)
         env:
           TWELVE_DATA_KEY: ${{ secrets.TWELVE_DATA_KEY }}
-        run: python fx.py
-
-      # CFTC positioning (every 6 hours) for the Positioning page, from the
-      # CFTC's free public API. Never fails the run.
-      - name: CFTC positioning
-        run: python cftc.py
-
-      - name: Publish
+          LOOP_MINUTES: "330"
+          GH_TOKEN: ${{ github.token }}
         run: |
+          pip install -q openpyxl pypdf || true
           git config user.name  "stir-news-bot"
           git config user.email "stir-news-bot@users.noreply.github.com"
-          git add docs data
-          if git diff --cached --quiet; then
-            echo "nothing new"
-          else
-            git commit -m "news $(date -u +%Y-%m-%dT%H:%MZ)"
-            # the labelling task pushes tones.json to the same branch, so take
-            # its commits first rather than failing the push
-            git pull --rebase origin main
-            git push
-          fi
+          end=$(( $(date +%s) + LOOP_MINUTES * 60 ))
+          while :; do
+            echo "::group::pass $(date -u +%H:%MZ)"
+            git pull -q --rebase origin main || echo "pull failed"
+            for s in collect.py fixings.py oi.py oi_intl.py calendar_feed.py curves.py markets.py repo.py fx.py cftc.py; do
+              timeout 600 python "$s" || echo "$s failed"
+            done
+            git add docs data
+            if git diff --cached --quiet; then
+              echo "nothing new"
+            else
+              git commit -q -m "news $(date -u +%Y-%m-%dT%H:%MZ)"
+              # the labelling task pushes tones.json to the same branch, so take its commits first
+              git pull -q --rebase origin main && git push -q || echo "push failed"
+            fi
+            echo "::endgroup::"
+            now=$(date +%s)
+            # the next quarter hour at :07, :22, :37 or :52
+            wait=$(( 900 - (now - 420) % 900 ))
+            [ $(( now + wait )) -ge $end ] && break
+            sleep $wait
+          done
+          # hand over to a fresh run (it waits in the queue until this one ends)
+          gh workflow run collect.yml --ref main -R "$GITHUB_REPOSITORY" || echo "could not start the next loop"
