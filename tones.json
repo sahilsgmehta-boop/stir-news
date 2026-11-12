@@ -5768,6 +5768,147 @@
    "basis": "reports",
    "at": "2026-11-11T20:54:22Z",
    "by": "claude"
+  },
+  "258d26b198aa": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "9f2f6d5eb3dd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "4f4f6cad68be": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "8d58ffee1c42": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "68d5d6b50f43": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "38d90e7372c7": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Chief economist backs a further hike if the data hold up.",
+   "sum": "Lane said the ECB should raise borrowing costs again if incoming data confirm the current outlook, reiterating his conditional backing for a December hike.",
+   "pts": [
+    "Backs a further rate increase provided the data hold up as expected.",
+    "Repeats his Nov 10 view that a December hike looks prudent unless the picture shifts.",
+    "Keeps the move conditional rather than committing to a sequence of hikes."
+   ],
+   "rr": "Firms up the December ECB hike already largely priced; the conditional framing adds little to pricing for further moves in 2027. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "6f02329056b7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recaps the October hold and Lagarde’s early exit plan; no new rate signal.",
+   "sum": "AFP report recaps the ECB holding rates after Lagarde announced she will leave the presidency early, with no new policy guidance.",
+   "pts": [
+    "The ECB kept rates unchanged at its late-October meeting.",
+    "Lagarde has said she will step down before her term ends, opening a succession race.",
+    "No new comment on the December decision was reported."
+   ],
+   "rr": "No change to December hike pricing; succession uncertainty is a longer-run risk premium issue rather than a meeting-pricing one. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "1e0707cd4e87": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Greene wants proactive tightening to stop wage growth getting stuck high.",
+   "sum": "Greene said it is appropriate to proactively tighten policy to lean against the risk of UK wage growth becoming stuck at higher levels.",
+   "pts": [
+    "Said it is appropriate to proactively tighten the monetary policy stance.",
+    "Aim is to lean against wage growth getting stuck above levels consistent with 2% inflation.",
+    "Remarks were reported via the FT.",
+    "Adds to Lombardelli's view this week that rates are likely to rise further."
+   ],
+   "rr": "Supports pricing for a December BoE hike and further tightening into 2027; hawkish MPC voices now outnumber Pill's pushback on hikes. Only news paraphrases were available.",
+   "ev": "Remarks reported by the FT",
+   "basis": "reports",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "945e40775b10": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calls for proactive tightening against wage risks.",
+   "lead": "1e0707cd4e87",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "5317e709af4c": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "No base case for December; debt concerns, but no push for a bigger move.",
+   "lead": "2269e3b6a9e1",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "1ec91a5b4fac": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says AI boom looks like demand overheating and central banks must be aggressive up front.",
+   "sum": "Goolsbee said the AI data-center boom is starting to look like old-fashioned demand overheating and that central bankers must be aggressive up front.",
+   "pts": [
+    "Described the AI data-center buildout as starting to look like demand overheating.",
+    "Said central bankers need to be aggressive up front in response.",
+    "Follows his description of October CPI as 'borderline disturbing'.",
+    "Has said services inflation is picking up beyond tariff effects."
+   ],
+   "rr": "Backs the December Fed hike priced and leans toward front-loaded follow-up in early 2027; no explicit endorsement of 50bp was reported. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "9a1d81935375": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recaps her warning of a stock correction and that the inflation fight isn’t over.",
+   "lead": "2b7b524d13f1",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "a041a242abac": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Inflation top of mind and policy seen as accommodative, implying more tightening.",
+   "lead": "78b6c7a49284",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
+  },
+  "10686464f2e7": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Speech on central bank communication; no new rate signal.",
+   "lead": "380ce0e2b072",
+   "at": "2026-11-12T06:55:10Z",
+   "by": "claude"
   }
  }
 }
