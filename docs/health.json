@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T23:37:01Z",
+ "built": "2026-11-12T23:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -70,7 +70,7 @@
     "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
+   "kept": 66,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -100,21 +100,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 50,
    "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
+    "German Economy on the Mend Though Reforms Needed, Nagel Says"
    ]
   },
   {
@@ -150,11 +150,11 @@
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
-    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
-    "Bank of England raises rates for first time since 2023, says more may come",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England raises rates for first time since 2023, says more may come"
    ]
   },
   {
