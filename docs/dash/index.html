@@ -803,6 +803,38 @@
   .tone.feed{color:#6e7b8a; border:1px dashed var(--rule)}
   .tone.soft{opacity:.6; border-style:dashed}
   .cbrow .lb{min-width:62px}
+  /* ---------- CB commentary page: comment history ---------- */
+  #pg-cb h2 .h2s{font-size:12px; font-weight:500; color:var(--muted); margin-left:6px}
+  #s-cbh{margin-top:26px}
+  .cbh-bar{flex-wrap:wrap}
+  .cbh-qg{flex:1 1 260px} .cbh-qg input{width:100%; max-width:420px; background:var(--panel); border:1px solid var(--rule); color:var(--ink); border-radius:6px; padding:6px 10px; font-size:12.5px}
+  .cbh-qg input:focus{outline:none; border-color:#3987e5}
+  .cbh-sp{display:flex; flex-wrap:wrap; gap:6px; margin:4px 0 12px}
+  .cbh-pill{display:inline-flex; align-items:center; gap:6px; background:var(--panel); border:1px solid var(--rule); color:var(--ink); border-radius:999px; padding:4px 10px 4px 9px; font-size:12px; cursor:pointer}
+  .cbh-pill:hover{border-color:#3a4552} .cbh-pill.on{border-color:#3987e5; background:#16263a}
+  .cbh-pill b{font-size:10px; color:#8fb8ff; font-weight:700} .cbh-pill i{font-style:normal; color:var(--muted); font-size:11px; font-variant-numeric:tabular-nums}
+  .cbh-pill .dot{width:8px; height:8px; border-radius:50%; background:#3a4450}
+  .cbh-pill .dot.hawk{background:var(--down)} .cbh-pill .dot.dove{background:var(--up)} .cbh-pill .dot.neutral{background:#7d8894}
+  .cbh-prof{display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.5fr); gap:16px; background:var(--panel); border:1px solid var(--rule); border-radius:10px; padding:14px 16px; margin:0 0 12px}
+  @media (max-width:900px){ .cbh-prof{grid-template-columns:1fr} }
+  .cbh-who{font-size:16px; font-weight:700; display:flex; align-items:center; gap:8px; flex-wrap:wrap}
+  .cbh-sub{font-size:11.5px; color:var(--muted); margin-top:4px; line-height:1.4} .cbh-sub b{color:var(--ink); font-weight:600}
+  .cbh-stats{display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:8px 14px; margin:12px 0 10px}
+  .cbh-st{display:flex; flex-direction:column; gap:2px} .cbh-st span{font-size:10.5px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em}
+  .cbh-st b{font-size:18px; font-variant-numeric:tabular-nums} .cbh-st b small{font-size:11px; color:var(--muted); font-weight:500}
+  .cbh-st b.hawk{color:var(--down)} .cbh-st b.dove{color:var(--up)}
+  .cbh-bar2{margin:4px 0 2px}
+  .cbh-ch{font-size:11px; color:var(--muted); margin-bottom:6px}
+  .cbh-svg{display:block; width:100%; height:190px}
+  .cbh-grid{stroke:#232a32; stroke-width:1} .cbh-grid.z{stroke:#3a4450} .cbh-grid.v{stroke:#1d242c; stroke-dasharray:2 4}
+  .cbh-band{fill:rgba(125,136,148,.06)}
+  .cbh-ax{fill:#7d8894; font-size:10px}
+  .cbh-avg{fill:none; stroke:#c9d2db; stroke-width:1.6; opacity:.75}
+  .cbh-dot{stroke:#0e1216; stroke-width:1} .cbh-dot.hawk{fill:var(--down)} .cbh-dot.dove{fill:var(--up)} .cbh-dot.neutral{fill:#8b98a6}
+  .cbh-month{font-size:11px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); margin:14px 2px 8px; padding-bottom:4px; border-bottom:1px solid var(--rule)}
+  .cbh-month:first-child{margin-top:2px}
+  .cbh-jumpb{margin-left:auto; font-size:11.5px; padding:3px 10px}
+
   .cbsum{display:grid; grid-template-columns:repeat(5, minmax(0,1fr)); gap:10px; margin:6px 0 12px}
   .cbcard{background:var(--panel); border:1px solid var(--rule); border-radius:10px; padding:10px 12px; cursor:pointer; min-width:0}
   .cbcard:hover{border-color:#3a4552} .cbcard.on{border-color:#3987e5}
@@ -1227,8 +1259,12 @@
     <div class="charts" id="charts"></div>
   </section>
 
+
+</div>
+
+<div id="pg-cb" hidden>
   <section id="s-cb">
-    <h2>Central bank commentary</h2>
+    <h2>Central bank commentary <span class="h2s">last 30 days</span> <button type="button" class="chip cbh-jumpb" id="cbh-jump">Comment history ↓</button></h2>
     <div class="cbsum" id="cb-sum"></div>
     <p class="hint" id="cb-note"></p>
     <div class="bar">
@@ -1236,6 +1272,21 @@
       <div class="grp"><span class="lbl">Show</span><span id="cb-t"></span></div>
     </div>
     <div class="panel"><div id="cb-list"></div></div>
+  </section>
+
+  <section id="s-cbh">
+    <h2>Comment history</h2>
+    <p class="hint" id="cbh-note">Loading the comment history&hellip;</p>
+    <div class="bar cbh-bar">
+      <div class="grp"><span class="lbl">Bank</span><span id="cbh-b"></span></div>
+      <div class="grp"><span class="lbl">Period</span><span id="cbh-p"></span></div>
+      <div class="grp"><span class="lbl">Reading</span><span id="cbh-t"></span></div>
+      <div class="grp"><span class="lbl">Show</span><span id="cbh-k"></span></div>
+      <div class="grp cbh-qg"><input type="search" id="cbh-q" placeholder="Search words, e.g. December, balance sheet, tariffs" autocomplete="off"></div>
+    </div>
+    <div class="cbh-sp" id="cbh-sp"></div>
+    <div id="cbh-prof"></div>
+    <div class="panel"><div id="cbh-list"></div></div>
   </section>
 </div>
 
@@ -1936,7 +1987,8 @@
      GitHub Pages site between the quotes, e.g.
      https://your-github-username.github.io/stir-news/cb.js
      Leave it empty to keep showing the old hand-compiled list. -->
-<script>window.CB_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb.js";</script>
+<script>window.CB_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb.js";
+window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archive.js";</script>
 <script>window.OI_URL = "https://sahilsgmehta-boop.github.io/stir-news/oi.js";
         window.OI_INTL_URL = "https://sahilsgmehta-boop.github.io/stir-news/oi_intl.js";</script>
 <script>window.FX_URL = "https://sahilsgmehta-boop.github.io/stir-news/fx.js";</script>
@@ -2029,7 +2081,7 @@
       if (v10) stDecode(p[23]);
       p = p.slice(0, 16).concat(p.slice(v10 ? 24 : v9 ? 23 : v8 ? 22 : v7 ? 21 : 20));
     }
-    page       = (["opts","oi","fx","px","sf","cy","ss","repo","mk","cal","cv","wi","im","sm","rk","ph","cf","jr","hr","tr","co","nc"].indexOf(p[0]) >= 0) ? p[0] : "rates";
+    page       = (["opts","oi","fx","px","sf","cy","ss","repo","mk","cal","cv","wi","im","sm","rk","ph","cf","jr","hr","tr","co","nc","cb"].indexOf(p[0]) >= 0) ? p[0] : "rates";
     opUI.r     = num(p[1], 0);
     opUI.entry = (p[2] === "" ? null : num(p[2], null));
     opUI.axis  = (p[3] === "vol" ? "vol" : "days");
@@ -2618,7 +2670,7 @@
     return out.sort(function(a, b){ return a.last < b.last ? 1 : a.last > b.last ? -1 : 0; });
   }
   function cbSigned(v){ return (v > 0 ? "+" : v < 0 ? "−" : "") + Math.abs(v).toFixed(Math.abs(v) >= 10 || v === Math.round(v) ? 0 : 1); }
-  function cbCard(g, roster, all){
+  function cbCard(g, roster, all, hist){
     var p = roster[g.bank + "|" + g.who] || null;
     g.items.forEach(function(r){ if (!Array.isArray(r.pts)) r.pts = []; r.read = r.read || ""; r.sum = r.sum || ""; r.rr = r.rr || ""; r.ev = r.ev || ""; r.also = r.also || []; });
     var lab = g.items.filter(function(r){ return typeof r.score === "number" && ["hawk", "dove", "neutral"].indexOf(r.tone) >= 0 && !/^not a policy remark/i.test(r.read); });
@@ -2648,13 +2700,14 @@
       : g.items.filter(function(r){ return r !== (top || newest); }).slice(-5).reverse().map(function(r){ return "<li>" + link(r, r.hl) + "</li>"; });
     var rr = lead.rr || (top && top.read) || "";
     var rrBox = rr ? "<div class='cbrr'><b>RATES READ</b>" + esc(rr) + (!lead.rr ? " <span style='color:var(--muted)'>(one-line reading; the full brief is added on the next labelling run)</span>" : "") + "</div>"
-                   : "<div class='cbrr pend'>Not labelled yet. New remarks are read a few times a day (02:17, 12:17, 17:17 and 21:17 IST).</div>";
+                   : (hist && Date.now() - new Date(g.last).getTime() > 3 * 864e5 ? "<div class='cbrr pend'>No reading for this one: remarks are only read in their first few days.</div>"
+                                                                    : "<div class='cbrr pend'>Not labelled yet. New remarks are read a few times a day (02:17, 12:17, 17:17 and 21:17 IST).</div>");
     var heads = g.items.slice().reverse().map(function(r){
       return "<div><span>" + cbWhen(r.t) + "</span>" + link(r, r.hl) + "<span class='s'>" + toneBadge(r) + " " + esc(r.src) + (r.also && r.also.length ? " +" + r.also.length : "") + "</span></div>"; }).join("");
     return "<div class='cbev " + (tone || "") + "'>"
       + "<div class='cbev-h'><span class='bk'>" + esc(g.bank) + "</span><span class='nm'>" + esc(name) + "</span>"
       + (role ? "<span class='vt'>(" + esc(role) + ")</span>" : "")
-      + (avg !== null ? "<span class='cbavg" + avgCls + "' title='" + esc("Average reading of " + name + "'s remarks in the feed (last 30 days): " + cbSigned(avg) + " on the −10 to +10 scale, from " + mine.length + " headline" + (mine.length === 1 ? "" : "s")) + "'>avg " + cbSigned(avg) + " (" + mine.length + ")</span>" : "")
+      + (avg !== null ? "<span class='cbavg" + avgCls + "' title='" + esc("Average reading of " + name + "'s remarks " + (hist ? "in this history view" : "in the feed (last 30 days)") + ": " + cbSigned(avg) + " on the −10 to +10 scale, from " + mine.length + " headline" + (mine.length === 1 ? "" : "s")) + "'>avg " + cbSigned(avg) + " (" + mine.length + ")</span>" : "")
       + (top ? toneBadge(top) : "") + leanBadge(p)
       + (against ? "<span class='cbx' title='" + esc("A usual " + p.lean + " sounding " + (top.tone === "hawk" ? "hawkish" : "dovish") + " - the kind of remark that moves pricing") + "'>⚡ against type</span>" : "")
       + "<span class='tm'>" + cbWhen(g.last) + "</span></div>"
@@ -2767,6 +2820,216 @@
   }
 
   // Everyone on the roster, by bank, hawks first, with when they last spoke.
+  // ---------- CB commentary page: comment history (cb_archive.js, every remark since Sep 2026) ----------
+  var cbhState = { tried:false, failed:false };
+  var cbhUI = (function(){ var d = { bank:"All", who:"", tone:"all", per:"all", kind:"comment", q:"" };
+    try { var s = JSON.parse(localStorage.getItem("cbhUI") || "null"); if (s) for (var k in d) if (s[k] !== undefined) d[k] = s[k]; } catch(e){}
+    return d; })();
+  var cbhLim = 30;
+  function cbhSave(){ try { localStorage.setItem("cbhUI", JSON.stringify(cbhUI)); } catch(e){} }
+
+  function drawCBPage(){ loadCBArchive(); drawNews(); drawCBH(); }
+
+  function loadCBArchive(){
+    var url = String(window.CB_ARCHIVE_URL || String(window.CB_URL || "").replace(/cb\.js(\?.*)?$/, "cb_archive.js")).trim();
+    if (!url || cbhState.tried) return;
+    cbhState.tried = true;
+    var s = document.createElement("script");
+    s.src = url; s.async = true;
+    s.onload  = function(){ drawCBH(); };
+    s.onerror = function(){ cbhState.failed = true; drawCBH(); };
+    document.head.appendChild(s);
+  }
+
+  // archive rows, with the live feed laid over them (the live feed has the newest labels)
+  function cbhItems(){
+    var A = window.STELLAR_CB_ARCHIVE, by = {}, out = [];
+    var map = function(r){
+      return { t:r[0], bank:r[1], who:r[2] || "", hl:r[3], tone:r[4], url:r[5], src:r[6], tier:r[7], also:r[8] || [],
+               id:r[9], score:r[10], read:r[11] || "", sum:r[12] || "", pts:r[13] || [], rr:r[14] || "", ev:r[15] || "", basis:r[16] || "" };
+    };
+    ((A && A.items) || []).forEach(function(r){ var x = map(r); by[x.id] = x; });
+    var C = window.STELLAR_CB;
+    ((C && C.items) || []).forEach(function(r){ var x = map(r); by[x.id] = x; });
+    for (var k in by) if (by.hasOwnProperty(k)) out.push(by[k]);
+    out.forEach(function(r){ r.kind = cbKind(r); });
+    return out;
+  }
+
+  // one appearance (cbGroups) = one data point: the average reading of its labelled headlines
+  function cbhGroups(rows){
+    return cbGroups(rows).map(function(g){
+      var sc = g.items.filter(function(r){ return typeof r.score === "number" && !/^not a policy remark/i.test(r.read || ""); });
+      g.score = sc.length ? sc.reduce(function(t, r){ return t + r.score; }, 0) / sc.length : null;
+      var tn = g.items.filter(function(r){ return ["hawk", "dove", "neutral"].indexOf(r.tone) >= 0; });
+      g.tone = g.score !== null ? cbhScoreCls(g.score) : (tn.length ? tn[tn.length - 1].tone : "");
+      var best = sc.slice().sort(function(a, b){ return Math.abs(b.score) - Math.abs(a.score); })[0] || g.items[g.items.length - 1];
+      g.what = best.sum || best.read || best.hl;
+      return g;
+    });
+  }
+  function cbhScoreCls(v){ return v === null ? "" : v >= 1.5 ? "hawk" : v <= -1.5 ? "dove" : "neutral"; }
+
+  function drawCBH(){
+    var host = document.getElementById("cbh-list"); if (!host) return;
+    var note = document.getElementById("cbh-note");
+    var A = window.STELLAR_CB_ARCHIVE;
+    if (!A){
+      note.innerHTML = cbhState.failed ? "<b style='color:var(--warn)'>Could not load the comment history (cb_archive.js). The last 30 days are above.</b>"
+                                       : "Loading the comment history&hellip;";
+      ["cbh-b", "cbh-p", "cbh-t", "cbh-k", "cbh-sp", "cbh-prof"].forEach(function(id){ var e = document.getElementById(id); if (e) e.innerHTML = ""; });
+      host.innerHTML = "";
+      return;
+    }
+    var roster = cbRoster(), all = cbhItems(), now = Date.now();
+    var keyOf = function(bank, who){ return roster[bank + "|" + who] ? bank + "|" + who : bank + "|"; };
+    var policy = all.filter(function(r){
+      if (cbhUI.kind === "all") return r.kind !== "noise";
+      return r.kind === "comment" || (r.kind === "official" && r.who && roster[r.bank + "|" + r.who]);
+    });
+    var first = all.reduce(function(m, r){ return !m || r.t < m ? r.t : m; }, "");
+    var nLab = policy.filter(function(r){ return typeof r.score === "number"; }).length;
+    note.innerHTML = "Every remark collected since <b>" + cbWhen(first.slice(0, 10)) + " " + first.slice(0, 4) + "</b>: " + policy.length + " headlines, " + nLab
+      + " with a reading. Each card is one appearance (a speech or interview usually brings several headlines). The live feed keeps 30 days; this history keeps everything from now on. Pick a bank, then a speaker, to see how their tone has moved. September 2026 entries are the hand-compiled list (tone only, no score)."
+      + (isNaN(new Date(A.built)) ? "" : " History file built " + cbWhen(A.built) + ".");
+
+    var banks = ["All"].concat(CB_BANKS.filter(function(b){ return policy.some(function(r){ return r.bank === b; }); }));
+    if (banks.indexOf(cbhUI.bank) < 0) cbhUI.bank = "All";
+    chips(document.getElementById("cbh-b"), banks.map(function(b){ return {v:b, t:b}; }), cbhUI.bank,
+      function(v){ cbhUI.bank = v; cbhUI.who = ""; cbhLim = 30; cbhSave(); drawCBH(); });
+    chips(document.getElementById("cbh-p"), [{v:"1w", t:"1 week"}, {v:"1m", t:"1 month"}, {v:"3m", t:"3 months"}, {v:"all", t:"All"}], cbhUI.per,
+      function(v){ cbhUI.per = v; cbhLim = 30; cbhSave(); drawCBH(); });
+    chips(document.getElementById("cbh-t"), [{v:"all", t:"All"}, {v:"hawk", t:"Hawkish"}, {v:"dove", t:"Dovish"}, {v:"neutral", t:"Neutral"}, {v:"strong", t:"Strong (±5+)"}], cbhUI.tone,
+      function(v){ cbhUI.tone = v; cbhLim = 30; cbhSave(); drawCBH(); });
+    chips(document.getElementById("cbh-k"), [{v:"comment", t:"Comments"}, {v:"all", t:"Also releases & previews"}], cbhUI.kind,
+      function(v){ cbhUI.kind = v; cbhLim = 30; cbhSave(); drawCBH(); });
+    var jb = document.getElementById("cbh-jump");
+    if (jb && !jb._wired){ jb._wired = true; jb.onclick = function(){ document.getElementById("s-cbh").scrollIntoView({ behavior:"smooth" }); }; }
+    var qi = document.getElementById("cbh-q");
+    if (qi && !qi._wired){
+      qi._wired = true; qi.value = cbhUI.q || "";
+      var tm = null;
+      qi.addEventListener("input", function(){ clearTimeout(tm); tm = setTimeout(function(){ cbhUI.q = qi.value.trim(); cbhLim = 30; cbhSave(); drawCBH(); }, 250); });
+    }
+
+    var days = { "1w":7, "1m":31, "3m":92 }[cbhUI.per];
+    var inPer = function(r){ return !days || now - new Date(r.t).getTime() <= days * 864e5; };
+    var base = policy.filter(function(r){ return (cbhUI.bank === "All" || r.bank === cbhUI.bank) && inPer(r); });
+
+    // speakers in this bank and period, busiest first
+    var sp = {}, gBase = cbhGroups(base);
+    gBase.forEach(function(g){
+      var k = keyOf(g.bank, g.who || ""), s = sp[k] || (sp[k] = { k:k, bank:g.bank, who:k.slice(k.indexOf("|") + 1), n:0, sc:[] });
+      s.n++; if (g.score !== null) s.sc.push(g.score);
+    });
+    var list = Object.keys(sp).map(function(k){ return sp[k]; }).sort(function(a, b){ return (!a.who) - (!b.who) || b.n - a.n; });
+    if (cbhUI.who && !sp[cbhUI.who]) cbhUI.who = "";
+    var spHost = document.getElementById("cbh-sp");
+    spHost.innerHTML = "<button type='button' class='cbh-pill" + (!cbhUI.who ? " on" : "") + "' data-k=''>All speakers<i>" + gBase.length + "</i></button>"
+      + list.map(function(s){
+          var p = roster[s.k], avg = s.sc.length ? s.sc.reduce(function(t, v){ return t + v; }, 0) / s.sc.length : null;
+          var nm = s.who ? (p ? p.full : s.who) : "Others & unattributed";
+          var tip = nm + (p ? " — " + p.role : "") + ": " + s.n + " appearance" + (s.n === 1 ? "" : "s") + (avg !== null ? ", average reading " + cbSigned(avg) : "");
+          return "<button type='button' class='cbh-pill" + (cbhUI.who === s.k ? " on" : "") + "' data-k='" + esc(s.k) + "' title='" + esc(tip) + "'>"
+            + "<span class='dot " + cbhScoreCls(avg) + "'></span>" + (cbhUI.bank === "All" ? "<b>" + esc(s.bank) + "</b> " : "") + esc(nm) + "<i>" + s.n + "</i></button>";
+        }).join("");
+    spHost.querySelectorAll(".cbh-pill").forEach(function(b){ b.onclick = function(){ var k = b.getAttribute("data-k"); cbhUI.who = cbhUI.who === k ? "" : k; cbhLim = 30; cbhSave(); drawCBH(); }; });
+
+    // the selection, then the tone and word filters
+    var sel = base.filter(function(r){ return !cbhUI.who || keyOf(r.bank, r.who) === cbhUI.who; });
+    var q = (cbhUI.q || "").toLowerCase();
+    var rows = sel.filter(function(r){
+      if (cbhUI.tone === "strong" && !(typeof r.score === "number" && Math.abs(r.score) >= 5)) return false;
+      if (["hawk", "dove", "neutral"].indexOf(cbhUI.tone) >= 0 && r.tone !== cbhUI.tone) return false;
+      if (q){
+        var p = roster[r.bank + "|" + r.who];
+        var txt = [r.hl, r.sum, r.read, r.rr, r.ev, r.who, p ? p.full : ""].concat(r.pts || []).join(" ").toLowerCase();
+        if (q.split(/\s+/).some(function(w){ return w && txt.indexOf(w) < 0; })) return false;
+      }
+      return true;
+    });
+
+    drawCBHProfile(document.getElementById("cbh-prof"), sel, rows, roster);
+
+    var gs = cbhGroups(rows);
+    if (!gs.length){ host.innerHTML = "<div class='empty'>No remarks match. Widen the period or clear the search.</div>"; return; }
+    var MN = ["January","February","March","April","May","June","July","August","September","October","November","December"], lastM = "";
+    host.innerHTML = gs.slice(0, cbhLim).map(function(g){
+      var m = String(g.last).slice(0, 7), sep = "";
+      if (m !== lastM){ lastM = m; sep = "<div class='cbh-month'>" + MN[+m.slice(5, 7) - 1] + " " + m.slice(0, 4) + "</div>"; }
+      return sep + cbCard(g, roster, sel, true);
+    }).join("")
+      + (gs.length > cbhLim ? "<div style='text-align:center'><button class='chip' id='cbh-more'>Show " + Math.min(30, gs.length - cbhLim) + " more of " + (gs.length - cbhLim) + " older appearances</button></div>" : "");
+    var mb = document.getElementById("cbh-more"); if (mb) mb.onclick = function(){ cbhLim += 30; drawCBH(); };
+  }
+
+  // a speaker (or bank) at a glance: count, average, the hawk/dove split and every reading over time
+  function drawCBHProfile(host, sel, rows, roster){
+    if (!host) return;
+    var gs = cbhGroups(sel).sort(function(a, b){ return a.last < b.last ? -1 : 1; });
+    var lab = gs.filter(function(g){ return g.score !== null; });
+    var who = null;
+    if (cbhUI.who){ var i = cbhUI.who.indexOf("|"); who = { bank:cbhUI.who.slice(0, i), who:cbhUI.who.slice(i + 1) }; }
+    var p = who && who.who ? roster[cbhUI.who] : null;
+    var title = who ? (who.who ? (p ? p.full : who.who) : who.bank + " — others & unattributed") : (cbhUI.bank === "All" ? "All central banks" : cbhUI.bank);
+    var sub = p ? p.role + (p.vote ? " · " + p.vote : "") : (who ? "" : "every speaker in this view");
+    var nH = gs.filter(function(g){ return g.tone === "hawk"; }).length, nD = gs.filter(function(g){ return g.tone === "dove"; }).length,
+        nN = gs.filter(function(g){ return g.tone === "neutral"; }).length, tot = Math.max(1, nH + nD + nN);
+    var mean = function(L){ return L.length ? L.reduce(function(t, g){ return t + g.score; }, 0) / L.length : null; };
+    var avg = mean(lab), avg5 = mean(lab.slice(-5));
+    var trend = lab.length >= 8 ? (avg5 - avg >= 1.5 ? "turning more hawkish lately" : avg - avg5 >= 1.5 ? "turning more dovish lately" : "steady") : "";
+    var firstT = gs.length ? gs[0].items[0].t : "", lastT = gs.length ? gs[gs.length - 1].last : "";
+    var stat = function(k, v, cls){ return "<div class='cbh-st'><span>" + k + "</span><b class='" + (cls || "") + "'>" + v + "</b></div>"; };
+    host.innerHTML = "<div class='cbh-prof'><div class='cbh-pl'>"
+      + "<div class='cbh-who'>" + esc(title) + (p ? " " + leanBadge(p) : "") + "</div>"
+      + (sub ? "<div class='cbh-sub'>" + esc(sub) + "</div>" : "")
+      + "<div class='cbh-stats'>"
+      + stat("Appearances", gs.length + " <small>" + sel.length + " headlines</small>")
+      + stat("Average reading", avg === null ? "–" : cbSigned(avg), cbhScoreCls(avg))
+      + stat("Last 5 appearances", avg5 === null ? "–" : cbSigned(avg5), cbhScoreCls(avg5))
+      + stat("Span", firstT ? cbWhen(firstT.slice(0, 10)) + " – " + cbWhen(lastT.slice(0, 10)) : "–")
+      + "</div>"
+      + "<div class='cbbar cbh-bar2'><i class='h' style='width:" + (nH / tot * 100) + "%'></i><i class='n' style='width:" + (nN / tot * 100) + "%'></i><i class='d' style='width:" + (nD / tot * 100) + "%'></i></div>"
+      + "<div class='cbh-sub'>" + nH + " hawkish · " + nN + " neutral · " + nD + " dovish appearances" + (trend ? " · <b>" + trend + "</b>" : "") + "</div>"
+      + "</div><div class='cbh-pc' id='cbh-chart'></div></div>";
+    cbhChart(document.getElementById("cbh-chart"), lab);
+  }
+
+  // every labelled remark as a dot (−10 dovish … +10 hawkish), with a running average of the last 5
+  function cbhChart(host, lab){
+    if (!host) return;
+    if (lab.length < 2){ host.innerHTML = "<div class='empty' style='padding:30px 4px'>Not enough labelled appearances to chart.</div>"; return; }
+    lab = lab.map(function(g){ return { t:g.last, score:g.score, tone:g.tone, who:g.who, bank:g.bank, read:g.what, n:g.items.length }; });
+    var W = 640, H = 190, ml = 30, mr = 10, mt = 12, mb = 22, pw = W - ml - mr, ph = H - mt - mb;
+    var t0 = new Date(lab[0].t).getTime(), t1 = Math.max(new Date(lab[lab.length - 1].t).getTime(), t0 + 864e5);
+    var X = function(t){ return ml + (new Date(t).getTime() - t0) / (t1 - t0) * pw; }, Y = function(v){ return mt + (10 - v) / 20 * ph; };
+    var svg = svgEl("svg", { viewBox:"0 0 " + W + " " + H, "class":"cbh-svg", preserveAspectRatio:"none" });
+    var band = svgEl("rect", { x:ml, y:Y(1.5), width:pw, height:Y(-1.5) - Y(1.5), "class":"cbh-band" }); svg.appendChild(band);
+    [10, 5, 0, -5, -10].forEach(function(v){
+      svg.appendChild(svgEl("line", { x1:ml, x2:W - mr, y1:Y(v), y2:Y(v), "class":"cbh-grid" + (v === 0 ? " z" : "") }));
+      var t = svgEl("text", { x:ml - 6, y:Y(v) + 3.5, "text-anchor":"end", "class":"cbh-ax" }); t.textContent = (v > 0 ? "+" : "") + v; svg.appendChild(t);
+    });
+    // month ticks
+    var d = new Date(t0); d = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 1));
+    var MN3 = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    while (d.getTime() < t1){
+      var x = X(d.toISOString());
+      svg.appendChild(svgEl("line", { x1:x, x2:x, y1:mt, y2:H - mb, "class":"cbh-grid v" }));
+      var tt = svgEl("text", { x:x + 3, y:H - 6, "class":"cbh-ax" }); tt.textContent = MN3[d.getUTCMonth()]; svg.appendChild(tt);
+      d = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 1));
+    }
+    // running average of the last 5 readings
+    var pts = lab.map(function(r, i){ var w = lab.slice(Math.max(0, i - 4), i + 1); return [X(r.t), Y(w.reduce(function(t, q){ return t + q.score; }, 0) / w.length)]; });
+    svg.appendChild(svgEl("path", { d:"M" + pts.map(function(p){ return p[0].toFixed(1) + "," + p[1].toFixed(1); }).join("L"), "class":"cbh-avg" }));
+    lab.forEach(function(r){
+      var c = svgEl("circle", { cx:X(r.t), cy:Y(r.score), r:3.6, "class":"cbh-dot " + (r.tone || "neutral") });
+      var ti = svgEl("title", {}); ti.textContent = cbWhen(r.t) + " · " + (r.who || r.bank) + " · " + cbSigned(r.score) + "\n" + r.read;
+      c.setAttribute("r", Math.min(7, 3.4 + Math.sqrt(r.n) * 0.6)); c.appendChild(ti); svg.appendChild(c);
+    });
+    host.innerHTML = "<div class='cbh-ch'>Each dot is one appearance's reading (+10 most hawkish, −10 most dovish; bigger = more headlines); the line is the average of the last five. Hover a dot for what was said.</div>";
+    host.appendChild(svg);
+  }
+
   function drawRoster(host, roster, items){
     var keys = Object.keys(roster);
     if (!keys.length){
@@ -13583,7 +13846,7 @@
   }
 
   /* ----------------------------------------------------------- pages */
-  var PAGES = [{v:"rates", t:"Rates"}, {v:"cal", t:"Calendar"}, {v:"px", t:"Pricer"}, {v:"sf", t:"SERFF"}, {v:"nc", t:"SOFR nowcast"}, {v:"cy", t:"Carry"}, {v:"ss", t:"SR3 vs SR1"}, {v:"opts", t:"Options"},
+  var PAGES = [{v:"rates", t:"Rates"}, {v:"cal", t:"Calendar"}, {v:"cb", t:"CB commentary"}, {v:"px", t:"Pricer"}, {v:"sf", t:"SERFF"}, {v:"nc", t:"SOFR nowcast"}, {v:"cy", t:"Carry"}, {v:"ss", t:"SR3 vs SR1"}, {v:"opts", t:"Options"},
                {v:"oi", t:"Open interest"}, {v:"wi", t:"Priced in"}, {v:"im", t:"Inter-market"}, {v:"tr", t:"STIR ideas"}, {v:"co", t:"Commodity ideas"}, {v:"sm", t:"Structures"}, {v:"rk", t:"Risk"}, {v:"ph", t:"Pricing history"}, {v:"cf", t:"Positioning"}, {v:"jr", t:"Journal"}, {v:"hr", t:"Hedge ratios"}, {v:"repo", t:"Repo"}, {v:"mk", t:"Markets"}, {v:"cv", t:"Curves"}, {v:"fx", t:"Currencies"}];
   // the Commodity ideas tab only where the commodity board writes commo.js (Sahil's PC), never on a colleague's copy
   if (!window.COMMO) PAGES = PAGES.filter(function(p){ return p.v !== "co"; });
@@ -13591,6 +13854,7 @@
   // each page's colour and a small line icon
   var PAGE_ICONS = {
     rates:["#3987e5", "<path d='M3 17l5-5 4 4 8-8'/><path d='M15 8h5v5'/>"],
+    cb:   ["#d55181", "<path d='M4 5h16v10H9l-5 4z'/><path d='M8 9h8M8 12h5'/>"],
     cal:  ["#e8833a", "<rect x='3.5' y='5' width='17' height='15' rx='2'/><path d='M3.5 10h17M8 3v4M16 3v4'/>"],
     px:   ["#22b07d", "<rect x='5' y='3' width='14' height='18' rx='2'/><path d='M8 7h8M8 12h.01M12 12h.01M16 12h.01M8 16h.01M12 16h.01M16 16h.01'/>"],
     sf:   ["#d55181", "<path d='M4 8h13l-3-3M20 16H7l3 3'/>"],
@@ -13648,9 +13912,9 @@
     document.getElementById("pg-ss").hidden    = (v !== "ss");
     document.getElementById("pg-wi").hidden    = (v !== "wi");
     document.getElementById("pg-im").hidden    = (v !== "im");
-    ["sm", "rk", "ph", "cf", "jr", "hr", "tr", "co", "nc"].forEach(function(k){ document.getElementById("pg-" + k).hidden = (v !== k); });
+    ["sm", "rk", "ph", "cf", "jr", "hr", "tr", "co", "nc", "cb"].forEach(function(k){ document.getElementById("pg-" + k).hidden = (v !== k); });
     // these pages share saved data (Risk feeds the Journal), so draw afresh on arrival
-    if (v !== page_last){ page_last = v; try { ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage})[v] && ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage})[v](); } catch(e){ console.error(e); } }
+    if (v !== page_last){ page_last = v; try { ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage, cb:drawCBPage})[v] && ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage, cb:drawCBPage})[v](); } catch(e){ console.error(e); } }
     drawStamp();
     drawPageTabs();
     writeHash();
@@ -13663,6 +13927,7 @@
     document.getElementById("s-cv").hidden = !has;
     drawStamp();
     try { drawNews(); } catch(e){ console.error("CB commentary:", e); }   // never let the commentary stop the page
+    try { if (page === "cb") drawCBH(); } catch(e){ console.error("CB history:", e); }
     setPage(page);
     drawPageTabs();
     drawOI();
@@ -13711,7 +13976,9 @@
   }
 
   // a half-filled position or journal entry must not be lost to the minute reload
+  var CB_PAGE_T0 = Date.now();
   function p2Busy(){
+    if (page === "cb") return Date.now() - CB_PAGE_T0 < 15 * 60000;
     // Trade ideas: reload (and so rescan) only every 30 minutes, or when asked
     if (page === "tr") return !(_trOut && Date.now() - _trOut.ranAt >= TR_RELOAD);
     if (page === "co") return !(_coOut && Date.now() - _coOut.ranAt >= TR_RELOAD);
