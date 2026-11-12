@@ -5909,6 +5909,383 @@
    "lead": "380ce0e2b072",
    "at": "2026-11-12T06:55:10Z",
    "by": "claude"
+  },
+  "70831c0c7c33": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Hawkish dissenter says policy must become restrictive to bring inflation down.",
+   "sum": "Hammack said the Fed must move to restrictive policy because inflation is heading the wrong way, but prefers small, steady hikes over big moves.",
+   "pts": [
+    "Fed has been missing its inflation mandate for years; recent data show inflation moving in the wrong direction.",
+    "Real demand pressures are contributing to high inflation; worries about an inflationary mindset forming.",
+    "Fed is doing very well on the jobs side of the mandate.",
+    "Policy needs to move to restrictive territory to lower inflation.",
+    "Favours a gradual path of smaller, steadier rate increases."
+   ],
+   "rr": "Supports the December hike priced (~28bp) and the ~80bp of tightening priced for the year ahead, but her preference for steady 25bp steps from the most hawkish voter tempers 50bp December odds. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "7af958187ce2": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Backs a gradual hike path, supporting priced tightening without a 50bp push.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "a2c9dd476548": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls for more restrictive policy as inflation stays above target.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "fa04862f2ef9": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says inflation is worsening but favours gradual hikes over a larger move.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "d9f69a925919": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says rates must become more restrictive to curb inflation.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "5b1f80e78871": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Prefers smaller, steadier hikes: hawkish direction, tempers 50bp talk.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "3046d75eabab": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says small, steady rate increases are needed to lower inflation.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "ee1721281c19": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Fed missing on inflation for years while jobs side is fine: argues for tightening.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "7da721fe24f6": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Blames demand pressures for high inflation, backing tighter policy.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "2574419b098b": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Stresses years of missing the inflation mandate, a case for more tightening.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "c726804e54c3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on AI and inequality with no comment on monetary policy or the outlook.",
+   "sum": "Barr warned AI could widen US inequality by concentrating returns in a few firms and capital, and urged preparation now; no monetary policy content.",
+   "pts": [
+    "Labor share has fallen since 2001 and hit a record low of 52.8% in Q2 2026.",
+    "AI displacement so far is limited, but there are early signs of substitution for younger, less-experienced workers.",
+    "Data, compute and scale could favour a few 'superstar' firms capturing most returns.",
+    "Immense AI capital investment raises the risk of capital-biased innovation.",
+    "Society should prepare for possible serious short-term labor disruption: job creation, training, reconnecting workers.",
+    "In Q&A (per reports) he said AI's impact so far is mostly on prices, while boosting investment and GDP."
+   ],
+   "rr": "No direct read for December or 2027 pricing; the speech avoids the outlook. The Q&A remark that AI is mostly showing up in prices leans marginally hawkish but does not change the priced hike path.",
+   "ev": "Speech, Yale University (New Haven)",
+   "basis": "verbatim",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "72b2419e425c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural warning on AI and inequality; no rates content.",
+   "lead": "c726804e54c3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "f1b63bb82f79": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Discusses AI's effect on the job market, not the policy path.",
+   "lead": "c726804e54c3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "391e7a4e3fad": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Flags risk of serious AI job disruption; structural, no policy signal.",
+   "lead": "c726804e54c3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "ab874f286c8c": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Warns of AI job disruption and inequality; no rate guidance.",
+   "lead": "c726804e54c3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "cd93cc12605a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Inequality concern about superstar AI firms; no monetary policy content.",
+   "lead": "c726804e54c3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "e901bc1e0ab5": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says AI's impact is mostly on prices for now; slight hawkish tilt, no guidance.",
+   "lead": "c726804e54c3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "ddce110918a6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial regulation warning, not a comment on rates.",
+   "lead": "c726804e54c3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "c640e050efa3": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says Fed is failing on inflation and AI spending acts like stimulus.",
+   "sum": "Goolsbee said the Fed is failing on the inflation side of its mandate and AI investment is acting like demand stimulus, while declining to prejudge the size of moves.",
+   "pts": [
+    "Inflation has been well above target and is going 'the wrong way'; hot inflation is no fluke.",
+    "AI investment looks like a form of stimulus, pointing to an overheating economy.",
+    "Fed is failing on the inflation side of its mandate; worth being 'sober minded' about the response.",
+    "Does not want to prejudge policy; plenty of room for the Fed to discuss options."
+   ],
+   "rr": "Backs the tightening priced (~87bp over the year ahead) and the December hike, but stops short of endorsing 50bp, so adds little to front-end pricing beyond confirming the hawkish drift. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "e77bfc03aeb7": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says inflation keeps going the wrong way, supporting further hikes.",
+   "lead": "c640e050efa3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "0eef2fc9bbd0": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Links AI spending to overheating, a demand-side case for tightening.",
+   "lead": "c640e050efa3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "3d9aca2ce56a": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Warns hot inflation is no fluke as the economy overheats.",
+   "lead": "c640e050efa3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "7ad1c4204c91": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Declines to prejudge policy; keeps options open without a size signal.",
+   "lead": "c640e050efa3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "15fe410ee0c8": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls US inflation 'disturbing', backing priced tightening.",
+   "lead": "c640e050efa3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "88dad4a16bed": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls it a precarious moment with October inflation above forecasts.",
+   "lead": "c640e050efa3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "3440032d8f32": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says inflation is 'inching' into a tough spot, supporting tighter policy.",
+   "sum": "Goolsbee said inflation is inching into a tough spot, adding to his run of warnings after the hot October CPI.",
+   "pts": [
+    "Inflation is moving into an uncomfortable position for the Fed.",
+    "Continues his post-CPI message that the inflation problem is real."
+   ],
+   "rr": "Consistent with the December hike priced; no signal on a larger move. Only news paraphrases were available.",
+   "ev": "Interview, Bloomberg",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "2bcf3557dbf5": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says AI has had limited labor market impact; descriptive.",
+   "sum": "Daly said more rate hikes are likely needed to tame an inflation problem not mainly driven by AI, but how much and when is not yet decided.",
+   "pts": [
+    "More rate hikes likely needed to cool inflation.",
+    "How much tightening and when is not a decision for right now.",
+    "AI-fuelled price pressures exist but contribute only modestly to inflation directly; AI has had limited labor impact.",
+    "Repricing in AI valuations is not an unwinding of enthusiasm and not a risk to growth.",
+    "Stable labor market, positive growth, possible productivity gains in 1-3 years; focus must be on bringing inflation down."
+   ],
+   "rr": "From a centrist, endorsing more hikes supports the tightening priced for December and 2027, but the non-committal timing pushes back slightly on a 50bp move. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "b0d15e4d8280": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Centrist Daly says more rate hikes likely needed to cool inflation.",
+   "lead": "2bcf3557dbf5",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "8040fd262e02": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says how much and when to tighten is not decided yet; keeps options open.",
+   "lead": "2bcf3557dbf5",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "1911826e8c76": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comment on AI as an investment; no policy content.",
+   "lead": "2bcf3557dbf5",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "fa640947afb3": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Notes AI buildout lifting housing funding costs; no policy outlook given.",
+   "sum": "Schmid said the AI capital buildout is raising housing funding costs, but his prepared remarks did not address the outlook or monetary policy.",
+   "pts": [
+    "AI capital spending is pushing up funding costs for housing.",
+    "Prepared remarks did not comment on the outlook or monetary policy."
+   ],
+   "rr": "No new signal for December pricing; his hawkish stance from earlier this week stands. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "3284532ad013": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "No outlook or policy comment in prepared remarks.",
+   "lead": "fa640947afb3",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "ebc2f6a3ef22": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Wants at least two more hikes and says pace could quicken this winter.",
+   "sum": "Logan said the Fed needs at least two more quarter-point hikes and could move more rapidly this winter than it did this fall.",
+   "pts": [
+    "FOMC needs at least two more 25bp rate increases.",
+    "Fed could move 'more rapidly this winter', depending on data and financial conditions.",
+    "Worried October PCE could show the same pickup as the hot CPI."
+   ],
+   "rr": "Supports December and January hike pricing and leans toward a faster pace; adds to 50bp December odds. Remarks date from Nov 10 Houston conference. Only news paraphrases were available.",
+   "ev": "Prepared remarks, conference in Houston",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "9238bf1312b0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI ethics and transparency theme; no monetary policy content.",
+   "sum": "Stournaras discussed ethics, transparency and AI challenges on the ECB agenda, with no comment on rates.",
+   "pts": [
+    "AI ethics and transparency are central to the ECB's agenda.",
+    "No remarks on inflation or the rate path were reported."
+   ],
+   "rr": "No implication for ECB December pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "360d83190327": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says a December ECB hike is likely and further tightening is needed.",
+   "sum": "Kazaks said a December ECB rate hike is likely as further tightening is necessary.",
+   "pts": [
+    "December rate hike is likely.",
+    "Further tightening is necessary to contain inflation."
+   ],
+   "rr": "Firms up the December ECB hike largely priced; 'further tightening' leans toward more in 2027, a firmer tone than his 'more nuanced' remarks on Nov 10. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "7b936ccaa615": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "c2001d4aeeb1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
+  },
+  "6f15580eb55c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-12T20:55:28Z",
+   "by": "claude"
   }
  }
 }
