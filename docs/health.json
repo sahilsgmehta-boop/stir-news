@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T18:52:00Z",
+ "built": "2026-11-12T19:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,12 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
-   "added": 0,
+   "kept": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
-    "Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the crypto market"
+    "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations"
    ]
   },
   {
@@ -58,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 1,
+   "kept": 56,
+   "added": 3,
    "error": "",
    "near_misses": [
     "FRED Adds Median Inflation Data from the Cleveland Fed",
@@ -67,11 +66,11 @@
     "The Fed's December Decision Just Got a Lot Messier",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
-    "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation",
-    "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
+    "Philadelphia Fed president backs gradual rate hikes to tame persistent inflation"
    ]
   },
   {
@@ -80,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 64,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -101,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
-   "kept": 17,
+   "fetched": 54,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,8 +113,8 @@
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
-    "German Economy on the Mend Though Reforms Needed, Nagel Says"
+    "German Economy on the Mend Though Reforms Needed, Nagel Says",
+    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
    ]
   },
   {
@@ -139,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 7,
+   "fetched": 30,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -150,8 +149,8 @@
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
+    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
    ]
@@ -161,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -170,12 +169,12 @@
     "Scotiabank, BlackRock economists seen as contenders to lead Bank of Canada - report (BLK:NYSE)",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
-    "Bank of Canada officials say uncertainty doesn\u2019t rule out hikes",
     "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
     "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
     "Further interest rate hikes possible: Bank of Canada",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
-    "Bank of Canada says another rate increase may be needed as energy costs spread"
+    "Bank of Canada says another rate increase may be needed as energy costs spread",
+    "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
    ]
   },
   {
