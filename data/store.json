@@ -1,6 +1,88 @@
 {
 "items": [
 {
+"t": "2026-11-12T02:54:16Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
+"url": "https://investinglive.com/central-banks/deutsche-bank-sees-3-straight-fed-hikes-after-hot-cpi-adding-a-january-move/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "A no-pause path into March is more hawkish than markets have priced beyond December. If other banks follow, it would likely be repriced through the front end of the Treasury curve and the dollar. That keeps USD/JPY pressed toward the 160 area where Tokyo is already warning , and it adds to the headwinds for gold. For equities, a faster sequence of hikes lands at an awkward moment, with AI stocks already under pressure from the Nvidia leadership shock . Oil remains the wildcard: renewed energy-driven inflation would strengthen the case for back-to-back hikes, while a sustained easing in crude w",
+"id": "258d26b198aa",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-11T23:49:50Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "UBS sees limited support for a 50bp Fed hike in December despite hot October CPI",
+"url": "https://investinglive.com/central-banks/ubs-sees-limited-support-for-a-50bp-fed-hike-in-december-despite-hot-october-cpi/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "With futures pricing slightly more than a full quarter-point hike for December, the 50bp debate is now a tail risk the market will react to on any Fed speaker headline. Treasury yields close to 5% keep the dollar supported, including against the yen ahead of the Bank of Japan’s own expected December hike, which leaves the US-Japan rate gap a key driver of USD/JPY. Higher real yields are also a headwind for gold, which has tended to trade on Fed hike expectations rather than as a safe haven this year. For equities, the combination of firmer inflation and rising long-end yields adds pressure to ",
+"id": "9f2f6d5eb3dd",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-11T23:43:39Z",
+"bank": "ECB",
+"speaker": "Lane",
+"hl": "ECB’s Lane backs costlier borrowing if data holds",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWVNTEF2bjZSeFFSTzJkSGNSWmk5SVZ1MDBoUXNFaWRtMnJXWHlJZlJudnhqamNva1VqN2ExU0Y3Z1lvN3Izdm40emp1T0xuZG4wRHpnUl91a0RrQWVuT3ZDRFVZa1dCQkxKak9wYW8xZlhfdU9ERVdBR0NnSUNZT0NKajlvb291Ums2NzZsTFVBaUlWT1ZobUI2em1pdDI3SjBtaVQ2YW9zRVRiYlE?oc=5",
+"src": "The Star",
+"tier": "comment",
+"tone": "",
+"also": [
+"KLSE Screener"
+],
+"desc": "",
+"id": "38d90e7372c7",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-11T21:06:49Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB holds rates steady after Lagarde says to quit early",
+"url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DXzg4VzF4WEZhb2RWV2JVSHQyR2lmVkFwQ3JFMU9hVndNektxTWRPQWhPbWZsRldXMk1rZzJWejRJNGVzMWFRQkk3cw?oc=5",
+"src": "AFP.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6f02329056b7",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-11T21:00:00Z",
 "bank": "BoE",
 "speaker": "Greene",
@@ -234,6 +316,26 @@
 "rr": "Neutral for December pricing: acknowledges inflation risk without endorsing the larger hikes floated by Waller and Logan. Only news paraphrases were available.",
 "ev": "Commentary piece, SchiffGold",
 "basis": "reports"
+},
+{
+"t": "2026-11-11T14:39:44Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed’s Bowman Warns of a ‘Large Correction’ in Stocks if AI Bets Fall Short, but Says the Inflation Fight Isn’t Over",
+"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObFJMWTdRQkxpSkx1Z3g2ZC1vNHhxeXRfU3BsbnlUV21meGJSaFdsdmM3WG1yWmppampWMEZDUG5fekZxbWxCbG9WSmJ1OS14MnhRMDcwSFVZRlpmMGM2dGw0bXo3ZEpMUnA1X09GamF5WW1kWWw0dy1sSGJuWFVlRzFHVEQtaloyRm1PZDM0MHY0UE1SMC0yb01QbkJUVHlsemM3NWpiaWVVSEdvZ1BaczNzMXM4dEFDdlpDby1EZFBlX3ZyVmZ4VmFkMVRLRTkyTmxUTDlFenBkX2FBS3Y0aVlR?oc=5",
+"src": "InsuranceNewsNet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9a1d81935375",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-11T14:07:00Z",
@@ -623,7 +725,8 @@
 "Bloomberg.com",
 "FXStreet",
 "CNBC",
-"Forex Factory"
+"Forex Factory",
+"Bloomberg"
 ],
 "desc": "Strong language like this from Goolsbee adds weight to the hawkish run of Fed commentary after the CPI report, and it strengthens pricing for a December hike. His focus on services and expectations points to concern about entrenched inflation, not transitory shocks, which raises the risk of a longer hiking cycle. That backdrop supports the US dollar and front-end Treasury yields, and remains a headwind for gold. With energy feeding the cost side of inflation, oil prices stay central to how hawkish the Fed may need to be. --- Earlier: Fed’s Paulson backs further gradual rate hikes, names three ",
 "id": "4a4ac007ca64",
@@ -917,7 +1020,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"24/7 Wall St."
+"24/7 Wall St.",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "8197b61c4061",
@@ -2091,7 +2195,8 @@
 "also": [
 "Forex Factory",
 "marketscreener.com",
-"Breakingthenews.net"
+"Breakingthenews.net",
+"Tekedia"
 ],
 "desc": "",
 "id": "f26518384ae4",
