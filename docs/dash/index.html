@@ -266,6 +266,14 @@
   .rkm-t td, .rkm-t th{white-space:nowrap} .rkm-t .rkm-from{white-space:normal; font-size:11.5px}
   .rkm-bc{width:28%} .rkm-bar{display:block; height:9px; border-radius:2px} .rkm-bar.up{background:#3ec28f} .rkm-bar.dn{background:#e66767}
   .rkm-n{margin:6px 2px 0}
+  /* ---------- Alerts page + banner, Calendar reactions ---------- */
+  .al-ban{margin:10px 22px 0; padding:9px 14px; border:1px solid rgba(242,193,78,.6); background:rgba(242,193,78,.12); color:#f6dc9a;
+          border-radius:6px; font-size:12.5px; line-height:1.6; max-width:1500px} .al-ban b{color:#ffe7a8}
+  .al-form{display:flex; flex-wrap:wrap; gap:8px 10px; align-items:center}
+  .al-t .al-nt{font-size:11px; color:var(--muted); font-weight:400} .al-t tr.al-hit th{color:#f2c14e}
+  .al-act{white-space:nowrap} .al-act .chip{margin-left:4px}
+  .al-hookrow{display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-top:10px}
+  .ev-t td, .ev-t th{white-space:nowrap} .ev-t td.ev-home{background:rgba(57,135,229,.08)} .ev-t td.ev-big{outline:1px solid #f2c14e; outline-offset:-2px}
   .rk-tile{background:var(--panel); border:1px solid var(--rule); border-radius:12px; padding:12px 16px}
   .rk-tile i{display:block; font-style:normal; font-size:10.5px; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--muted)}
   .rk-tile b{display:block; font-size:24px; font-weight:800; margin:4px 0 2px; font-variant-numeric:tabular-nums}
@@ -1253,6 +1261,7 @@
 
 <main>
 <div id="lbwarn" class="lbwarn" hidden></div>
+<div id="al-ban" class="al-ban" hidden></div>
 <div id="pg-rates">
   <div class="cbnext" id="cb-next"></div>
   <div id="setup" class="panel setup" hidden>
@@ -1541,6 +1550,11 @@
     </div>
     <div class="cal-glance" id="cal-glance" hidden></div>
     <div id="cal-list"></div>
+    <h2 class="rph">How rates reacted</h2>
+    <p class="hint">For each high-impact release while the dashboard was open: how far rates moved 15 and 60 minutes after it, in bp of rate (+ = rates up, futures down),
+      on each market's contract about six months out (hover for which). The release's own market is shaded; a move more than twice its normal 15-minute move is outlined.
+      "Normal" is the median move over earlier releases of the same kind, so it builds up over the weeks. Eikon prices are about 10 minutes delayed, which is allowed for.</p>
+    <div class="panel hm-wrap" id="ev-list"></div>
   </section>
 </div>
 
@@ -1671,6 +1685,23 @@
   <h2 class="rph">What if</h2>
   <p class="hint">Move each market's rates: a parallel shift in bp, plus a slope in bp per year further out (positive = steeper). Rates up = futures prices down.</p>
   <div class="panel hm-wrap" id="rk-scen"></div>
+</div>
+
+<div id="pg-al" hidden>
+  <h2>Alerts</h2>
+  <p class="hint">Get told when any outright, spread or fly reaches a level. Checked every time the live board writes (every minute). A hit shows a banner on every page,
+    a desktop notification (if turned on), a beep, and a Discord message if you paste your own Discord webhook below. Each alert fires once; <b>Re-arm</b> it to use it again.
+    With the Eikon board, prices are about 10 minutes delayed. Saved on this PC.</p>
+  <div class="panel">
+    <div class="al-form"><span id="al-pick" class="rk-pick"></span>
+      <select id="al-dir" class="inp sel"><option value="auto">when it reaches</option><option value="up">when it rises to</option><option value="dn">when it falls to</option></select>
+      <input id="al-lv" class="inp" placeholder="Level" style="width:110px"><input id="al-note" class="inp" placeholder="Note (optional)" style="width:200px">
+      <button class="chip rk-go" id="al-add">Add alert</button><span class="hint" id="al-live"></span></div>
+    <div class="al-hookrow"><button class="chip" id="al-np"></button>
+      <input id="al-hook" class="inp" placeholder="Discord webhook (optional): https://discord.com/api/webhooks/..." style="flex:1 1 360px; max-width:560px">
+      <button class="chip" id="al-test">Send a test</button></div>
+  </div>
+  <div id="al-list" style="margin-top:14px"></div>
 </div>
 
 <div id="pg-ph" hidden>
@@ -2114,7 +2145,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
       if (v10) stDecode(p[23]);
       p = p.slice(0, 16).concat(p.slice(v10 ? 24 : v9 ? 23 : v8 ? 22 : v7 ? 21 : 20));
     }
-    page       = (["opts","oi","fx","px","sf","cy","ss","repo","mk","cal","cv","wi","im","sm","rk","ph","cf","jr","hr","tr","co","nc","cb"].indexOf(p[0]) >= 0) ? p[0] : "rates";
+    page       = (["opts","oi","fx","px","sf","cy","ss","repo","mk","cal","cv","wi","im","sm","rk","ph","cf","jr","hr","tr","co","nc","cb","al"].indexOf(p[0]) >= 0) ? p[0] : "rates";
     opUI.r     = num(p[1], 0);
     opUI.entry = (p[2] === "" ? null : num(p[2], null));
     opUI.axis  = (p[3] === "vol" ? "vol" : "days");
@@ -9772,7 +9803,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     calState.tried = true;
     var s = document.createElement("script");
     s.src = url; s.async = true;
-    s.onload  = function(){ drawCalendar(); drawStamp(); };
+    s.onload  = function(){ drawCalendar(); drawStamp(); try { evTick(); drawEV(); } catch(e){ console.error(e); } };
     s.onerror = function(){ calState.failed = true; drawCalendar(); drawStamp(); };
     document.head.appendChild(s);
   }
@@ -11326,8 +11357,12 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
       var nm = stName(R), m = R.vals.map(function(){ return R.s.mean; });
       pv.innerHTML = "<div class='im-pvh'><div><div class='im-l'>" + esc(nm) + "</div><div class='im-pvv'>" + stFmt(R.s.last) + "<span>bp</span>"
         + (R.L ? " <span class='im-tag " + (R.L.side === "S" ? "sup" : "res") + "'>" + (R.L.side === "S" ? "Support " : "Resistance ") + stFmt(R.L.level) + "</span>" : "")
+        + (R.L ? " <button class='chip' id='sm-al' title='Alert me when it gets there'>🔔 Alert</button>" : "")
         + "</div><div class='im-l2'>z " + stFmt(R.s.z, 2) + " · " + Math.round(R.s.pct) + "th pctl · mean " + stFmt(R.s.mean) + " · σ " + R.s.sd.toFixed(1)
         + " · range " + stFmt(R.s.min) + " to " + stFmt(R.s.max) + "</div></div></div><div id='sm-ch'></div>";
+      var smal = document.getElementById("sm-al");
+      if (smal) smal.onclick = function(){ alAdd({mk:smUI.mk, k:R.k, g:R.g, c:R.c}, R.L.level, R.L.side === "S" ? "dn" : "up", (R.L.side === "S" ? "support " : "resistance ") + stFmt(R.L.level));
+        smal.textContent = "✓ Alert set"; smal.disabled = true; };
       var ser = [{name:nm, color:"#f2c14e", vals:R.vals, width:2}];
       if (R.L) ser.push({name:R.L.side === "S" ? "support" : "resistance", short:R.L.side === "S" ? "support" : "resistance",
         color:R.L.side === "S" ? "#3ec28f" : "#e66767", dash:"6 4", width:1.4, vals:R.vals.map(function(){ return R.L.level; })});
@@ -11342,6 +11377,184 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     if (sel) show(sel); else pv.innerHTML = "";
   }
 
+  /* ============================================================ Alerts
+     Level alerts on any outright, spread, fly, double fly or condor the board prices. Checked on
+     every page load (the page reloads every minute) and every 20 seconds. A hit shows a banner
+     on every page, a desktop notification if allowed, a beep, and (optional) a Discord message
+     to the person's own webhook. Each alert fires once; re-arm it from the list. Saved on this PC. */
+  var alList = stLoad("alList", []);
+  var alUI = stLoad("alUI", { mk:"SOFR", k:"O", g:3, c:null, hook:"" });
+  function alSave(){ stSave("alList", alList); stSave("alUI", alUI); }
+  function alUnit(a){ return a.k === "O" ? "" : " bp"; }
+  function alFmtV(a, v){ return v === null || v === undefined || !isFinite(v) ? "–" : a.k === "O" ? (+v).toFixed(4) : stFmt(+v, 2); }
+  function alBeep(){
+    try { var C = new (window.AudioContext || window.webkitAudioContext)(), o = C.createOscillator(), g = C.createGain();
+      o.type = "sine"; o.frequency.value = 880; o.connect(g); g.connect(C.destination); g.gain.setValueAtTime(0.0001, C.currentTime);
+      g.gain.exponentialRampToValueAtTime(0.25, C.currentTime + 0.02); g.gain.exponentialRampToValueAtTime(0.0001, C.currentTime + 0.6);
+      o.start(); o.stop(C.currentTime + 0.65); } catch(e){}
+  }
+  function alSend(a, v){
+    var msg = "Alert: " + stName(a) + " " + (a.dir === "up" ? "rose to " : "fell to ") + alFmtV(a, v) + alUnit(a)
+      + " (level " + alFmtV(a, a.level) + alUnit(a) + ")" + (a.note ? " - " + a.note : "") + (lbSource() === "Eikon" ? " [Eikon, ~10 min delayed]" : "");
+    try { if (window.Notification && Notification.permission === "granted") new Notification("STIR alert", { body:msg, tag:"al" + a.id, requireInteraction:true }); } catch(e){}
+    alBeep();
+    var hook = String(alUI.hook || "").trim();
+    if (/^https:\/\/(discord\.com|discordapp\.com)\/api\/webhooks\//.test(hook)){
+      try { var fd = new FormData(); fd.append("content", msg); fetch(hook, { method:"POST", mode:"no-cors", body:fd }).catch(function(){}); } catch(e){}
+    }
+  }
+  // fires anything that has crossed; safe to call as often as wanted
+  function alCheck(){
+    if (!data || !data.rows || !alList.length) return;
+    var fired = false;
+    alList.forEach(function(a){
+      if (a.off || a.hit) return;
+      var v = stLive(a); if (v === null || !isFinite(v)) return;
+      if ((a.dir === "up" && v >= a.level) || (a.dir === "dn" && v <= a.level)){
+        a.hit = { at:new Date().toISOString(), v:v, board:data.asOf }; a.seen = false; fired = true; alSend(a, v);
+      }
+    });
+    if (fired){ alSave(); try { if (page === "al") drawAL(); } catch(e){} }
+    alBanner();
+  }
+  // unseen hits, on every page, until dismissed
+  function alBanner(){
+    var el = document.getElementById("al-ban"); if (!el) return;
+    var h = alList.filter(function(a){ return a.hit && !a.seen; });
+    el.hidden = !h.length;
+    if (!h.length){ el.innerHTML = ""; return; }
+    el.innerHTML = "<b>🔔 " + (h.length === 1 ? "Alert hit" : h.length + " alerts hit") + "</b> " + h.map(function(a){
+      return esc(stName(a)) + " " + (a.dir === "up" ? "≥ " : "≤ ") + alFmtV(a, a.level) + alUnit(a) + " <span class='mut'>(" + alFmtV(a, a.hit.v) + " at "
+        + new Date(a.hit.at).toLocaleTimeString([], { hour:"2-digit", minute:"2-digit" }) + ")</span>"; }).join(" · ")
+      + " <button class='chip' id='al-ok'>OK</button> <button class='chip' id='al-go'>Open alerts</button>";
+    document.getElementById("al-ok").onclick = function(){ alList.forEach(function(a){ if (a.hit) a.seen = true; }); alSave(); alBanner(); };
+    document.getElementById("al-go").onclick = function(){ setPage("al"); };
+  }
+  // add an alert from anywhere: s = {mk,k,g,c}; dir "up" / "dn"
+  function alAdd(s, level, dir, note){
+    alList.push({ id:Date.now(), mk:s.mk, k:s.k, g:s.k === "O" ? 3 : s.g, c:s.c, level:+level, dir:dir, note:note || "", made:new Date().toISOString() });
+    alSave();
+  }
+  function drawAL(){
+    var host = document.getElementById("al-list"); if (!host) return;
+    if (document.activeElement && document.getElementById("pg-al").contains(document.activeElement) && document.activeElement.tagName === "INPUT") return;
+    var pick = document.getElementById("al-pick");
+    var fill = function(){ var v = stLive(alUI); document.getElementById("al-live").textContent = v === null ? "no price" : "live " + alFmtV(alUI, v) + alUnit(alUI); };
+    stPicker(pick, alUI, function(){ alSave(); fill(); }); fill();
+    document.getElementById("al-add").onclick = function(){
+      var lv = parseFloat(document.getElementById("al-lv").value); if (!isFinite(lv)){ document.getElementById("al-lv").focus(); return; }
+      var v = stLive(alUI), dir = document.getElementById("al-dir").value;
+      if (dir === "auto") dir = v === null ? "up" : lv >= v ? "up" : "dn";
+      alAdd(alUI, lv, dir, document.getElementById("al-note").value.trim());
+      document.getElementById("al-lv").value = ""; document.getElementById("al-note").value = ""; drawAL(); alCheck();
+    };
+    // notifications and Discord
+    var np = document.getElementById("al-np"), perm = window.Notification ? Notification.permission : "unsupported";
+    np.textContent = perm === "granted" ? "Desktop notifications on" : perm === "denied" ? "Desktop notifications blocked in this browser" : perm === "unsupported" ? "No desktop notifications here" : "Turn on desktop notifications";
+    np.disabled = perm !== "default";
+    np.onclick = function(){ try { Notification.requestPermission().then(function(){ drawAL(); }); } catch(e){} };
+    var hk = document.getElementById("al-hook"); if (document.activeElement !== hk) hk.value = alUI.hook || "";
+    hk.onchange = function(){ alUI.hook = hk.value.trim(); alSave(); drawAL(); };
+    document.getElementById("al-test").onclick = function(){ alSend({ mk:alUI.mk, k:alUI.k, g:alUI.g, c:alUI.c, dir:"up", level:stLive(alUI), note:"test, ignore" }, stLive(alUI)); };
+    var act = alList.filter(function(a){ return !a.hit && !a.off; }), done = alList.filter(function(a){ return a.hit || a.off; });
+    var row = function(a){ var i = alList.indexOf(a), v = stLive(a), d = v === null ? null : (a.k === "O" ? (a.level - v) * 100 : a.level - v);
+      return "<tr class='" + (a.hit ? "al-hit" : a.off ? "mut" : "") + "'><th class='l'>" + esc(stName(a)) + (a.note ? "<div class='al-nt'>" + esc(a.note) + "</div>" : "") + "</th>"
+        + "<td>" + (a.dir === "up" ? "rises to " : "falls to ") + "<b>" + alFmtV(a, a.level) + alUnit(a) + "</b></td>"
+        + "<td>" + alFmtV(a, v) + alUnit(a) + "</td><td>" + (a.hit ? "<span class='pz-up'>hit " + new Date(a.hit.at).toLocaleString([], { day:"numeric", month:"short", hour:"2-digit", minute:"2-digit" }) + " at " + alFmtV(a, a.hit.v) + "</span>"
+          : a.off ? "paused" : d === null ? "–" : Math.abs(d).toFixed(1) + " bp away") + "</td>"
+        + "<td class='al-act'>" + (a.hit || a.off ? "<button class='chip' data-a='arm' data-i='" + i + "'>Re-arm</button>" : "<button class='chip' data-a='off' data-i='" + i + "'>Pause</button>")
+        + "<button class='chip' data-a='del' data-i='" + i + "'>Delete</button></td></tr>"; };
+    var th = "<table class='cv-t al-t'><thead><tr><th class='l'>Structure</th><th>Alert when it</th><th>Live</th><th>Status</th><th></th></tr></thead><tbody>";
+    host.innerHTML = (act.length ? th + act.map(row).join("") + "</tbody></table>" : "<div class='empty'>No live alerts. Add one above, or use <b>🔔 Alert</b> on the Structures page.</div>")
+      + (done.length ? "<h2 class='rph'>Hit or paused</h2>" + th + done.slice().reverse().map(row).join("") + "</tbody></table>" : "");
+    host.querySelectorAll("button[data-a]").forEach(function(b){ b.onclick = function(){
+      var a = alList[+b.getAttribute("data-i")], k = b.getAttribute("data-a"); if (!a) return;
+      if (k === "del") alList.splice(alList.indexOf(a), 1);
+      else if (k === "off") a.off = true;
+      else { delete a.hit; delete a.off; var v = stLive(a); if (v !== null) a.dir = a.level >= v ? "up" : "dn"; }
+      alSave(); drawAL(); alBanner(); }; });
+  }
+  setInterval(function(){ try { alCheck(); } catch(e){} }, 20000);
+  /* ---- Calendar: how rates reacted to each release
+     While the dashboard is open it keeps a minute-by-minute tape of a few contracts per market,
+     but only from 10 minutes before to 75 minutes after each high-impact release (so it stays
+     small). Once an event is 65 minutes old, the move 15 and 60 minutes after it is stored for
+     good, and each event type builds up its own "normal" move over time. Prices are the live
+     board's; the Eikon board is about 10 minutes delayed, so its times are moved back 10 minutes. */
+  var EV_MK = ["SOFR", "Euribor", "SONIA", "CORRA", "SARON"];
+  var EV_CC = { US:1, EU:1, GB:1, CA:1, CH:1 };
+  var EV_NAME = { SOFR:"SOFR", Euribor:"Euribor", SONIA:"SONIA", CORRA:"CORRA", SARON:"SARON" };
+  function evEvents(){
+    var C = window.ECON_CAL; if (!C || !C.events) return [];
+    return C.events.filter(function(e){ return EV_CC[e.c] && !e.allday && (e.imp >= 1 || /rate decision|interest rate/i.test(e.title)) && !e.text; });
+  }
+  // the contracts tracked: 2nd to 5th quarterly outright with a live price (about 3 to 12 months out)
+  function evKeys(){
+    var out = [];
+    EV_MK.forEach(function(m){ stLabels(m).filter(function(c){ return /^(MAR|JUN|SEP|DEC)/.test(c) && mkt([m], "OUTRIGHT", "-", c) !== null; })
+      .slice(1, 5).forEach(function(c){ out.push(m + ":" + c); }); });
+    return out;
+  }
+  function evTick(){
+    if (!data || !data.asOf || !data.rows || lbMarketShut()) return;
+    var eik = lbSource() === "Eikon", t = new Date(data.asOf.replace(" ", "T")).getTime();
+    if (!isFinite(t) || Date.now() - t > 5 * 6e4) return;                      // the board isn't writing
+    var tm = Math.round((t - (eik ? 10 : 0) * 6e4) / 6e4);                       // market minute these prices belong to
+    var evs = evEvents(), tape = stLoad("evTape", { rows:[] }), done = stLoad("evMoves", []);
+    var near = evs.some(function(e){ var m = Date.parse(e.t) / 6e4; return tm >= m - 10 && tm <= m + 75; });
+    if (near && !tape.rows.some(function(r){ return r[0] === tm; })){
+      var v = {}; evKeys().forEach(function(k){ var p = k.split(":"), x = mkt([p[0]], "OUTRIGHT", "-", p[1]); if (x !== null) v[k] = x; });
+      tape.rows.push([tm, v]);
+    }
+    // settle events whose hour has passed
+    var have = {}; done.forEach(function(d){ have[d.id] = 1; });
+    var at = function(m, tol){ var best = null; tape.rows.forEach(function(r){ if (Math.abs(r[0] - m) <= tol && (!best || Math.abs(r[0] - m) < Math.abs(best[0] - m))) best = r; }); return best; };
+    var before = function(m){ var best = null; tape.rows.forEach(function(r){ if (r[0] <= m && r[0] >= m - 6 && (!best || r[0] > best[0])) best = r; }); return best; };
+    var changed = false;
+    evs.forEach(function(e){
+      var m = Math.round(Date.parse(e.t) / 6e4); if (have[e.id] || tm < m + 65 || tm > m + 600) return;
+      var b = before(m - 1), a15 = at(m + 15, 3), a60 = at(m + 60, 6); if (!b || !a15) return;
+      var mv = {};
+      Object.keys(b[1]).forEach(function(k){ if (a15[1][k] === undefined) return;
+        mv[k] = [Math.round(-(a15[1][k] - b[1][k]) * 1e4) / 100, a60 && a60[1][k] !== undefined ? Math.round(-(a60[1][k] - b[1][k]) * 1e4) / 100 : null]; });
+      if (!Object.keys(mv).length) return;
+      done.push({ id:e.id, t:e.t, c:e.c, title:e.title, actual:e.actual, forecast:e.forecast, previous:e.previous, unit:e.unit || "", mv:mv, eik:eik });
+      changed = true;
+    });
+    // keep the tape to the last day and a half, the results to the last 600 events
+    tape.rows = tape.rows.filter(function(r){ return r[0] > tm - 36 * 60; });
+    stSave("evTape", tape);
+    if (changed){ done.sort(function(x, y){ return x.t < y.t ? -1 : 1; }); stSave("evMoves", done.slice(-600)); }
+  }
+  // per market, the move of its 2nd tracked contract (about 6 months out), in bp of rate (+ = rates up)
+  function evPick(d, m){ var ks = Object.keys(d.mv).filter(function(k){ return k.indexOf(m + ":") === 0; }).sort(function(a, b){ return imIdx(a.split(":")[1]) - imIdx(b.split(":")[1]); });
+    var k = ks[1] || ks[0]; return k ? { c:k.split(":")[1], m15:d.mv[k][0], m60:d.mv[k][1] } : null; }
+  function evHome(c){ return { US:"SOFR", EU:"Euribor", GB:"SONIA", CA:"CORRA", CH:"SARON" }[c]; }
+  function drawEV(){
+    var host = document.getElementById("ev-list"); if (!host) return;
+    var done = stLoad("evMoves", []);
+    if (!done.length){ host.innerHTML = "<div class='empty'>Nothing recorded yet. This fills in from today, for each high-impact release that happens while the dashboard is open.</div>"; return; }
+    // the normal 15-minute move per event type, in the home market: median of the absolute moves (at least 3 past events)
+    var typ = {};
+    done.forEach(function(d){ var p = evPick(d, evHome(d.c)); if (!p) return; (typ[d.c + "|" + d.title] = typ[d.c + "|" + d.title] || []).push(Math.abs(p.m15)); });
+    var med = function(a){ var s = a.slice().sort(function(x, y){ return x - y; }); return s.length ? s[Math.floor((s.length - 1) / 2)] : null; };
+    var cell = function(p, home, norm){ if (!p) return "<td class='mut'>–</td><td class='mut'>–</td>";
+      var big = home && norm !== null && norm > 0.2 && Math.abs(p.m15) > 2 * norm;
+      var f = function(v){ return v === null ? "<span class='mut'>–</span>" : "<span class='" + (v > 0.05 ? "pz-dn" : v < -0.05 ? "pz-up" : "mut") + "'>" + stFmt(v) + "</span>"; };
+      return "<td class='" + (home ? "ev-home" : "") + (big ? " ev-big" : "") + "' title='" + p.c + "'>" + f(p.m15) + "</td><td class='" + (home ? "ev-home" : "") + "'>" + f(p.m60) + "</td>"; };
+    var rows = done.slice().reverse().slice(0, 80);
+    host.innerHTML = "<table class='cv-t ev-t'><thead><tr><th class='l' rowspan='2'>When (IST)</th><th class='l' rowspan='2'>Release</th><th rowspan='2'>Actual / fcst</th><th rowspan='2'>Normal 15m</th>"
+      + EV_MK.map(function(m){ return "<th colspan='2'>" + EV_NAME[m] + "</th>"; }).join("") + "</tr><tr>" + EV_MK.map(function(){ return "<th>15m</th><th>60m</th>"; }).join("") + "</tr></thead><tbody>"
+      + rows.map(function(d){
+        var hm = evHome(d.c), n = typ[d.c + "|" + d.title], norm = n && n.length >= 3 ? med(n) : null;
+        var surp = (d.actual !== null && d.actual !== undefined && d.forecast !== null && d.forecast !== undefined) ? d.actual - d.forecast : null;
+        return "<tr><td class='l'>" + esc(istStamp(d.t) || d.t) + "</td><th class='l'><span class='cal-cc'>" + esc(d.c) + "</span> " + esc(d.title) + "</th>"
+          + "<td>" + (d.actual === null || d.actual === undefined ? "–" : esc(String(d.actual)) + d.unit) + " / " + (d.forecast === null || d.forecast === undefined ? "–" : esc(String(d.forecast)) + d.unit)
+          + (surp !== null && Math.abs(surp) > 1e-9 ? " <span class='" + (surp > 0 ? "pz-up" : "pz-dn") + "'>(" + (surp > 0 ? "+" : "−") + Math.abs(Math.round(surp * 1000) / 1000) + ")</span>" : "") + "</td>"
+          + "<td>" + (norm === null ? "<span class='mut'>building</span>" : norm.toFixed(1) + "bp") + "</td>"
+          + EV_MK.map(function(m){ return cell(evPick(d, m), m === hm, norm); }).join("") + "</tr>";
+      }).join("") + "</tbody></table>";
+  }
   /* ============================================================ Risk */
   /* ---- risk by central bank meeting
      A futures contract's rate is the average (or compounding) of the overnight rate over its
@@ -13973,7 +14186,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
 
   /* ----------------------------------------------------------- pages */
   var PAGES = [{v:"rates", t:"Rates"}, {v:"cal", t:"Calendar"}, {v:"cb", t:"CB commentary"}, {v:"px", t:"Pricer"}, {v:"sf", t:"SERFF"}, {v:"nc", t:"SOFR nowcast"}, {v:"cy", t:"Carry"}, {v:"ss", t:"SR3 vs SR1"}, {v:"opts", t:"Options"},
-               {v:"oi", t:"Open interest"}, {v:"wi", t:"Priced in"}, {v:"im", t:"Inter-market"}, {v:"tr", t:"STIR ideas"}, {v:"co", t:"Commodity ideas"}, {v:"sm", t:"Structures"}, {v:"rk", t:"Risk"}, {v:"ph", t:"Pricing history"}, {v:"cf", t:"Positioning"}, {v:"jr", t:"Journal"}, {v:"hr", t:"Hedge ratios"}, {v:"repo", t:"Repo"}, {v:"mk", t:"Markets"}, {v:"cv", t:"Curves"}, {v:"fx", t:"Currencies"}];
+               {v:"oi", t:"Open interest"}, {v:"wi", t:"Priced in"}, {v:"im", t:"Inter-market"}, {v:"tr", t:"STIR ideas"}, {v:"co", t:"Commodity ideas"}, {v:"sm", t:"Structures"}, {v:"rk", t:"Risk"}, {v:"al", t:"Alerts"}, {v:"ph", t:"Pricing history"}, {v:"cf", t:"Positioning"}, {v:"jr", t:"Journal"}, {v:"hr", t:"Hedge ratios"}, {v:"repo", t:"Repo"}, {v:"mk", t:"Markets"}, {v:"cv", t:"Curves"}, {v:"fx", t:"Currencies"}];
   // the Commodity ideas tab only where the commodity board writes commo.js (Sahil's PC), never on a colleague's copy
   if (!window.COMMO) PAGES = PAGES.filter(function(p){ return p.v !== "co"; });
   var page = "rates", page_last = null;
@@ -13981,6 +14194,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
   var PAGE_ICONS = {
     rates:["#3987e5", "<path d='M3 17l5-5 4 4 8-8'/><path d='M15 8h5v5'/>"],
     cb:   ["#d55181", "<path d='M4 5h16v10H9l-5 4z'/><path d='M8 9h8M8 12h5'/>"],
+    al:   ["#f2c14e", "<path d='M6 16V11a6 6 0 0 1 12 0v5l2 2H4z'/><path d='M10 20a2 2 0 0 0 4 0'/>"],
     cal:  ["#e8833a", "<rect x='3.5' y='5' width='17' height='15' rx='2'/><path d='M3.5 10h17M8 3v4M16 3v4'/>"],
     px:   ["#22b07d", "<rect x='5' y='3' width='14' height='18' rx='2'/><path d='M8 7h8M8 12h.01M12 12h.01M16 12h.01M8 16h.01M12 16h.01M16 16h.01'/>"],
     sf:   ["#d55181", "<path d='M4 8h13l-3-3M20 16H7l3 3'/>"],
@@ -14038,9 +14252,9 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     document.getElementById("pg-ss").hidden    = (v !== "ss");
     document.getElementById("pg-wi").hidden    = (v !== "wi");
     document.getElementById("pg-im").hidden    = (v !== "im");
-    ["sm", "rk", "ph", "cf", "jr", "hr", "tr", "co", "nc", "cb"].forEach(function(k){ document.getElementById("pg-" + k).hidden = (v !== k); });
+    ["sm", "rk", "ph", "cf", "jr", "hr", "tr", "co", "nc", "cb", "al"].forEach(function(k){ document.getElementById("pg-" + k).hidden = (v !== k); });
     // these pages share saved data (Risk feeds the Journal), so draw afresh on arrival
-    if (v !== page_last){ page_last = v; try { ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage, cb:drawCBPage})[v] && ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage, cb:drawCBPage})[v](); } catch(e){ console.error(e); } }
+    if (v !== page_last){ page_last = v; try { ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage, cb:drawCBPage, al:drawAL})[v] && ({rk:drawRK, jr:drawJR, ph:drawPH, hr:drawHR, tr:drawTR, co:drawCO, nc:drawNCPage, cb:drawCBPage, al:drawAL})[v](); } catch(e){ console.error(e); } }
     drawStamp();
     drawPageTabs();
     writeHash();
@@ -14068,6 +14282,8 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     phSnap();
     try { drawSM(); } catch(e){ console.error(e); }
     try { drawRK(); } catch(e){ console.error(e); }
+    try { alCheck(); if (page === "al") drawAL(); } catch(e){ console.error("alerts:", e); }
+    try { evTick(); drawEV(); } catch(e){ console.error("event moves:", e); }
     try { drawPH(); } catch(e){ console.error(e); }
     try { drawCF(); } catch(e){ console.error(e); }
     try { drawJR(); } catch(e){ console.error(e); }
@@ -14109,7 +14325,7 @@ window.CB_ARCHIVE_URL = "https://sahilsgmehta-boop.github.io/stir-news/cb_archiv
     if (page === "tr") return !(_trOut && Date.now() - _trOut.ranAt >= TR_RELOAD);
     if (page === "co") return !(_coOut && Date.now() - _coOut.ranAt >= TR_RELOAD);
     var ae = document.activeElement;
-    if (ae && /INPUT|SELECT|TEXTAREA/.test(ae.tagName) && (document.getElementById("pg-rk").contains(ae) || document.getElementById("pg-jr").contains(ae))) return true;
+    if (ae && /INPUT|SELECT|TEXTAREA/.test(ae.tagName) && (document.getElementById("pg-rk").contains(ae) || document.getElementById("pg-jr").contains(ae) || document.getElementById("pg-al").contains(ae))) return true;
     if (document.querySelector(".jr-exit")) return true;
     if (ae && ae.tagName === "INPUT" && (document.getElementById("pg-im").contains(ae) || document.getElementById("pg-hr").contains(ae))) return true;
     return ["rk-lots", "rk-entry", "rk-lotsb", "rk-entryb", "rk-why", "jr-lots", "jr-entry", "jr-tgt", "jr-stop", "jr-why"].some(function(id){ var e = document.getElementById(id); return e && e.value.trim(); });
