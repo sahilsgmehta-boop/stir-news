@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T10:07:00Z",
+ "built": "2026-11-13T10:09:46Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -61,20 +61,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 2,
+   "kept": 58,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Price inflation measured by the Cleveland Fed's median PCE index",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "The Fed's December Decision Just Got a Lot Messier",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money"
    ]
   },
   {
