@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T07:52:01Z",
+ "built": "2026-11-13T08:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -81,19 +81,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 64,
    "added": 0,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Top Federal Reserve official considers largest rate rise since 2022",
+    "Inflation rises faster than expected, boosting odds of Fed rate hike",
     "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs"
    ]
   },
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 46,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -142,7 +142,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 21,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -189,7 +189,6 @@
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
-    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
     "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
