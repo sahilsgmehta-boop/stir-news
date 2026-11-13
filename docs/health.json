@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T02:07:00Z",
+ "built": "2026-11-13T02:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 59,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Price inflation measured by the Cleveland Fed's median PCE index",
@@ -67,8 +67,8 @@
     "The Fed's December Decision Just Got a Lot Messier",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
-    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
    ]
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 8,
+   "fetched": 26,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,7 +156,7 @@
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England raises rates for first time since 2023, says more may come",
-    "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
+    "Central banks turn hawkish as Fed, Bank of England and ECB officials signal more rate hikes"
    ]
   },
   {
@@ -190,8 +190,8 @@
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook - TalkMarkets",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
     "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
   },
