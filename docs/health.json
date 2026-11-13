@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T13:52:01Z",
+ "built": "2026-11-13T14:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 60,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 2,
+   "kept": 66,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 45,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
-   "kept": 8,
+   "fetched": 16,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -164,11 +164,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada weighed two paths before raising rates to 2.5%",
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
