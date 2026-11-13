@@ -1,6 +1,28 @@
 {
 "items": [
 {
+"t": "2026-11-13T18:36:02Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0tXZkJ2R2JfbWRDVnpfQXpRUEVuYlI2TUVzb2JxY0lIOFRWYm5XUEE3bENNNk1ISGZfZ1VtM3NCVDhSNWhTWDhsVklGY093bzZCQTJRbncteVg1TVBzSFY3UVRxUDZkazg5dGlmdC1DRjZJLURlcjVOUjA1bHVFZUxn?oc=5",
+"src": "Decrypt",
+"tier": "comment",
+"tone": "",
+"also": [
+"Yahoo Finance"
+],
+"desc": "",
+"id": "d03e308be6d6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T17:57:13Z",
 "bank": "Fed",
 "speaker": "Daly",
@@ -390,7 +412,8 @@
 "www.marketscreener.com",
 "Forth.News",
 "Yahoo Finance",
-"Tri-City Herald"
+"Tri-City Herald",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "734e58ee04af",
@@ -649,7 +672,8 @@
 "tone": "",
 "also": [
 "Quartz",
-"Yahoo Finance"
+"Yahoo Finance",
+"Yahoo Finance UK"
 ],
 "desc": "",
 "id": "78a04e292f26",
@@ -1900,7 +1924,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Crain's Cleveland Business"
+],
 "desc": "",
 "id": "d9f69a925919",
 "score": 4,
