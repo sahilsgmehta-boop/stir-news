@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T00:37:00Z",
+ "built": "2026-11-13T00:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 59,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "FRED Adds Median Inflation Data from the Cleveland Fed",
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 68,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -92,7 +92,7 @@
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Top Federal Reserve official considers largest rate rise since 2022",
-    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot"
+    "Inflation rises faster than expected, boosting odds of Fed rate hike"
    ]
   },
   {
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 50,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 6,
+   "fetched": 24,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -191,7 +191,8 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook - TalkMarkets",
-    "Swiss Franc declines amid divergent Fed-SNB rate outlooks"
+    "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
   },
   {

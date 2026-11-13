@@ -49,7 +49,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"investingLive"
+],
 "desc": "",
 "id": "9ce261016a10",
 "score": null,
