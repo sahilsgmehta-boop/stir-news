@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T16:07:00Z",
+ "built": "2026-11-13T16:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 2,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
@@ -61,18 +61,18 @@
    "ok": true,
    "fetched": 100,
    "kept": 66,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
-    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
+    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Price inflation measured by the Cleveland Fed's median PCE index",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
-    "Fed chair discloses wife's transactions in pet-care investments",
     "The Fed's December Decision Just Got a Lot Messier"
    ]
   },
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
-   "added": 3,
+   "kept": 68,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 14,
+   "fetched": 45,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [

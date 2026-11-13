@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-13T16:08:39Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed’s Hammack Backs Gradual Rate Increases as Inflation Broadens",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXBGWWRtLWhzSk9PckFjQnhOWnk1bWZUWEt1SEt1NzBPV3J6TlVCRTBpVXRnZXZDbVJlUVh2UEFvRGZBWXMtcXU1amN1WWNOb0pQd3BzbklvZW9nbG1BdHp2MmFJeWx2LW84cFNRalpvRnVUWFhPbWhqQ3M4M0ExbVdlWE5oOEVqZ201QW52RW82TWdWc2FISFg2NWhzX21Obkd5Z1FyYmxBWXNGT3I1X0Y3ajI5MTF4SFlv?oc=5",
+"src": "finchannel",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "90bfd195a2a6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T15:59:16Z",
 "bank": "Fed",
 "speaker": "Collins",
@@ -9,7 +29,9 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"StreetInsider"
+],
 "desc": "",
 "id": "fd894efd087e",
 "score": null,
@@ -134,7 +156,9 @@
 "src": "marketscreener.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Lexington Herald Leader"
+],
 "desc": "",
 "id": "00f02bdb31e0",
 "score": null,
@@ -843,7 +867,8 @@
 "tone": "neutral",
 "also": [
 "Finimize",
-"Yahoo Finance"
+"Yahoo Finance",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "f85081002ea5",
