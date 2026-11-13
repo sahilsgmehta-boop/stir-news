@@ -52,7 +52,10 @@
 "src": "marketscreener.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"The Lufkin Daily News"
+],
 "desc": "",
 "id": "62bc9e202cce",
 "score": null,

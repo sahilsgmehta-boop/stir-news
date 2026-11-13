@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T01:37:00Z",
+ "built": "2026-11-13T01:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,10 +58,10 @@
    "ok": true,
    "fetched": 100,
    "kept": 60,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "FRED Adds Median Inflation Data from the Cleveland Fed",
+    "Price inflation measured by the Cleveland Fed's median PCE index",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
     "The Fed's December Decision Just Got a Lot Messier",
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 4,
+   "kept": 69,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -91,8 +91,8 @@
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Chicago Fed chief calls October inflation 'borderline disturbing'",
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
    ]
   },
   {
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 51,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -143,7 +143,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 28,
-   "kept": 7,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
