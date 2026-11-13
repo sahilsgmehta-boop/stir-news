@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T22:07:00Z",
+ "built": "2026-11-13T22:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -74,7 +74,7 @@
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
+    "Fed chair discloses wife's transactions in pet-care investments"
    ]
   },
   {
@@ -148,13 +148,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 16,
    "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
+    "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
