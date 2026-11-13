@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-13T11:05:08Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Kevin Warsh Takes AI Questions To Silicon Valley",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeU9jNzlZSFBxZlFTeUNKMjNfbE5pcHBGV2FqYUtGbFBIY2VZM0F5cUNxc2k0cUJBU3AwNWRudDBnZm8xNjBuS0pYSTBETjVOWHRlQ01kRzlsQlhqWE9MeGdMTVB5Z0RyeHkyanNBX0ljaG01V0VCeGtCUDRzX2xqODdvMkwwSldYRGp5Qm1DOEY?oc=5",
+"src": "Finimize",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e3acad5dcdbb",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T11:02:41Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -9,7 +29,9 @@
 "src": "marketscreener.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Belleville News-Democrat"
+],
 "desc": "",
 "id": "371e9e233c7b",
 "score": null,

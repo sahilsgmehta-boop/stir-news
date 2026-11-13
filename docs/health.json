@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T11:07:00Z",
+ "built": "2026-11-13T11:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,20 +61,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Price inflation measured by the Cleveland Fed's median PCE index",
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "The Fed's December Decision Just Got a Lot Messier",
     "Fed chair discloses wife's transactions in pet-care investments",
     "U.S. Fed Governor Warns AI Could Trigger Large-Scale Job Displacement and Widen US Inequality",
-    "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 "
+    "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
    ]
   },
   {
@@ -83,20 +83,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
-   "added": 0,
+   "kept": 67,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Top Federal Reserve official considers largest rate rise since 2022",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
-    "Inflation rises faster than expected, boosting odds of Fed rate hike"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Inflation remained elevated in October, cementing a Fed rate increase"
    ]
   },
   {
@@ -146,18 +146,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 7,
+   "fetched": 20,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
   },
@@ -166,7 +166,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -177,7 +177,6 @@
     "Bank of Canada says more rate hikes could be coming: report",
     "Further interest rate hikes possible: Bank of Canada",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
-    "Bank of Canada says another rate increase may be needed as energy costs spread",
     "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
    ]
   },
