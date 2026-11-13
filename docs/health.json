@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T21:37:00Z",
+ "built": "2026-11-13T21:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,19 +83,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 67,
    "added": 1,
    "error": "",
    "near_misses": [
+    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
-    "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates"
    ]
   },
@@ -148,8 +148,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 6,
+   "fetched": 15,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -176,6 +176,7 @@
     "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
+    "What Did the Bank of Canada's Summary of Deliberations Reveal About the Odds of Another Rate Hike?",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
    ]
   },
@@ -340,7 +341,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
