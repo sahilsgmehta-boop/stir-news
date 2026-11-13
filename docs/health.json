@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T20:22:00Z",
+ "built": "2026-11-13T20:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 0,
+   "kept": 71,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
@@ -72,8 +72,8 @@
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "Price inflation measured by the Cleveland Fed's median PCE index",
-    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle"
+    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 69,
+   "kept": 68,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -95,7 +95,7 @@
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'"
+    "Fed Forced to Confront Case for Bigger and Faster Rate Rises"
    ]
   },
   {
@@ -113,11 +113,11 @@
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations"
+    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
+    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
    ]
   },
   {
@@ -125,17 +125,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "AI accounts for quarter of euro zone credit growth, ECB says"
@@ -146,8 +147,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 7,
+   "fetched": 19,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -170,9 +171,9 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Bank of Canada says more rate hikes could be coming: report",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
-    "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
    ]
   },
@@ -337,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
