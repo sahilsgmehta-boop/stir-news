@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T19:22:00Z",
+ "built": "2026-11-13T19:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,16 +61,16 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
-    "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
+    "Price inflation measured by the Cleveland Fed's median PCE index",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
+   "kept": 69,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
    ]
   },
   {
@@ -103,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 47,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -136,6 +136,7 @@
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "AI accounts for quarter of euro zone credit growth, ECB says"
@@ -146,7 +147,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 21,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -170,8 +171,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
+    "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
    ]
@@ -337,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
