@@ -21,6 +21,28 @@
 "basis": ""
 },
 {
+"t": "2026-11-13T15:34:46Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGl4M3I4cEx4Q1pteUwtd3I3OFBYWWFUU096V1Y3X2oxdl9KOFprODJXTEoxallGdk8tXzNuMzlWSXdjTTBFNjUxUHFwWmdVZTFHeTh0TEVYcWtNSXI2aUJkRFdKVFgtNmpWS01zTlhMS21ndThYQjY2bDhXSFpnV2c0Sl8wSzdBWnJzNmZVR05iUGdxU3BCUnBIYlcteEQtRkNMbDBQRF82QXVESmZSRGNvZG9yaGtfbm5QNHBTUE1jNjA?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [
+"www.marketscreener.com"
+],
+"desc": "",
+"id": "734e58ee04af",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T15:29:17Z",
 "bank": "BoE",
 "speaker": "Bailey",
@@ -406,7 +428,9 @@
 "src": "AOL.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "f01cadfec0b1",
 "score": 0,

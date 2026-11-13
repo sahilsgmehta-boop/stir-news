@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T15:37:01Z",
+ "built": "2026-11-13T15:40:02Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 21,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -134,7 +134,6 @@
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
-    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
@@ -149,7 +148,7 @@
    "ok": true,
    "fetched": 19,
    "kept": 8,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
@@ -291,7 +290,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 25,
+   "added": 26,
    "error": ""
   },
   {
@@ -301,7 +300,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 9,
-   "added": 2,
+   "added": 1,
    "error": ""
   },
   {
