@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T06:07:01Z",
+ "built": "2026-11-13T06:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -81,19 +81,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 2,
+   "kept": 67,
+   "added": 0,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
     "Inflation remained elevated in October, cementing a Fed rate increase"
    ]
   },
@@ -102,13 +102,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 14,
+   "fetched": 49,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
@@ -116,7 +115,8 @@
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "German Economy on the Mend Though Reforms Needed, Nagel Says"
+    "German Economy on the Mend Though Reforms Needed, Nagel Says",
+    "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
    ]
   },
   {
@@ -134,8 +134,8 @@
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "ECB Considers Possible Delay in Digital Euro Launch",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
-    "ECB warns delays could postpone digital euro launch",
     "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
+    "ECB warns delays could postpone digital euro launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
    ]
   },
@@ -193,8 +193,7 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
    ]
   },
   {
