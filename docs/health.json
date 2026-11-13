@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T12:52:01Z",
+ "built": "2026-11-13T13:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 0,
+   "kept": 61,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
-   "added": 2,
+   "kept": 68,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
@@ -94,8 +94,8 @@
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'"
+    "Chicago Fed chief calls October inflation 'borderline disturbing'",
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 45,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -147,7 +147,7 @@
    "ok": true,
    "fetched": 16,
    "kept": 7,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
@@ -162,12 +162,11 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Scotiabank, BlackRock economists seen as contenders to lead Bank of Canada - report (BLK:NYSE)",
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
@@ -338,7 +337,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
