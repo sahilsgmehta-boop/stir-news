@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T11:52:01Z",
+ "built": "2026-11-13T12:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,8 +61,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 1,
+   "kept": 60,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
@@ -84,14 +84,14 @@
    "ok": true,
    "fetched": 100,
    "kept": 67,
-   "added": 2,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 45,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -135,7 +135,6 @@
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
-    "ECB Considers Possible Delay in Digital Euro Launch",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target",
     "ECB warns delays could postpone digital euro launch",
@@ -154,10 +153,10 @@
    "near_misses": [
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
   },
