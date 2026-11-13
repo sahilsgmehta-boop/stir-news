@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T21:07:01Z",
+ "built": "2026-11-13T21:10:22Z",
  "sources": [
   {
    "id": "il_cb",
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 1,
+   "kept": 69,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Fed Forced to Confront Case for Bigger and Faster Rate Rises",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Fed Forced to Confront Case for Bigger and Faster Rate Rises"
    ]
   },
   {
@@ -103,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 49,
    "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations"
+    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract",
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
    ]
   },
   {
@@ -173,8 +173,8 @@
    "error": "",
    "near_misses": [
     "Bank of Canada weighed two paths before raising rates to 2.5%",
-    "Bank of Canada says more rate hikes could be coming: report",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
+    "Bank of Canada says more rate hikes could be coming: report",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
    ]
   },
