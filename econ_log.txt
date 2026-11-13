@@ -15,9 +15,9 @@ US.ip        OECD      129 pts  last 2026-09:2.25
 US.conf      Univ. of  130 pts  last 2026-10:48
 US.infexp1   Univ. of  130 pts  last 2026-10:4.7
 US.infexp5   Univ. of  130 pts  last 2026-10:3.5
-EZ.cpi       Eurostat  120 pts  last 2025-12:2
-EZ.core      Eurostat  120 pts  last 2025-12:2.3
-EZ.svc       Eurostat  120 pts  last 2025-12:3.4
+EZ.cpi       Eurostat  130 pts  last 2026-10:4
+EZ.core      Eurostat  130 pts  last 2026-10:2.5
+EZ.svc       Eurostat  130 pts  last 2026-10:3.3
 EZ.unemp     Eurostat  129 pts  last 2026-09:6.5
 EZ.wages     Eurostat   42 pts  last 2026-Q2:3
 EZ.wages2    ECB        39 pts  last 2025-Q3:1.87
