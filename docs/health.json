@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T09:22:00Z",
+ "built": "2026-11-13T09:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -126,7 +126,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -135,8 +135,8 @@
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
-    "ECB warns delays could postpone digital euro launch",
     "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
+    "ECB warns delays could postpone digital euro launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
    ]
   },
@@ -145,11 +145,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
+    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
@@ -185,13 +186,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
-    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
     "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
