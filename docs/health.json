@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T06:22:00Z",
+ "built": "2026-11-13T06:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -82,7 +82,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 67,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -104,17 +104,17 @@
    "ok": true,
    "fetched": 49,
    "kept": 15,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
+    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "German Economy on the Mend Though Reforms Needed, Nagel Says",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
    ]
@@ -124,18 +124,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 5,
+   "fetched": 22,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
-    "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
-    "ECB Considers Possible Delay in Digital Euro Launch",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
-    "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
     "ECB warns delays could postpone digital euro launch",
+    "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
    ]
   },
@@ -186,7 +184,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -213,8 +211,7 @@
     "The two pragmatists leading the race to run the ECB",
     "Strong US inflation and growth will keep Fed on a tightening path",
     "The ECB needs a smooth transmission and a smooth transition",
-    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
-    "BoE to kick off short and precautionary tightening cycle in November"
+    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation"
    ]
   },
   {
