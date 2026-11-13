@@ -1,0 +1,28 @@
+name: probe-econ
+on:
+  push:
+    branches: [probe-econ]
+    paths: ["probe_econ.py", "econ.py", ".github/workflows/probe-econ.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: probe-econ
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          pip install -q openpyxl || true
+          if [ -f probe_econ.py ]; then python probe_econ.py || true; fi
+          if [ -f econ.py ]; then python econ.py --full || echo "econ.py failed"; fi
+          git config user.name  "stir-news-bot"
+          git config user.email "stir-news-bot@users.noreply.github.com"
+          git add -A probe_out docs/econ.js data/econ.json 2>/dev/null || git add -A probe_out
+          git commit -q -m "probe output" || echo "nothing"
+          git push -q || echo "push failed"
