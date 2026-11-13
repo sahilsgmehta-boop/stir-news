@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T11:22:00Z",
+ "built": "2026-11-13T11:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,15 +62,15 @@
    "ok": true,
    "fetched": 100,
    "kept": 60,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Price inflation measured by the Cleveland Fed's median PCE index",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "Indian Rupee weakens as experts warns of Fed's aggressive tightening cycle",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
-    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "The Fed's December Decision Just Got a Lot Messier",
     "Fed chair discloses wife's transactions in pet-care investments",
     "U.S. Fed Governor Warns AI Could Trigger Large-Scale Job Displacement and Widen US Inequality",
@@ -83,8 +83,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
-   "added": 1,
+   "kept": 68,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
@@ -173,10 +173,10 @@
    "near_misses": [
     "Scotiabank, BlackRock economists seen as contenders to lead Bank of Canada - report (BLK:NYSE)",
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
+    "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
     "Further interest rate hikes possible: Bank of Canada",
-    "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
    ]
   },
