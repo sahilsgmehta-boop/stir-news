@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T12:37:00Z",
+ "built": "2026-11-13T12:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 3,
+   "kept": 66,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
@@ -94,7 +94,7 @@
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
+    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
   },
@@ -104,7 +104,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 44,
-   "kept": 14,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -117,7 +117,7 @@
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
-    "ECB says Lagarde's exit will not delay the digital euro as Brussels negotiates the law"
+    "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
    ]
   },
   {
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -134,7 +134,6 @@
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
-    "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target",
@@ -146,8 +145,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
-   "kept": 6,
+   "fetched": 16,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -155,9 +154,7 @@
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
-    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Warning for millions of borrowers that Bank of England rates could hit 5%",
-    "Warning for millions of borrowers that Bank of England rates could hit 5%"
+    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%"
    ]
   },
   {
