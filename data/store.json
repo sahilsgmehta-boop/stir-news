@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-13T00:00:00Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller Floats a Half-Point Hike After Hot Inflation. What It Means for Your HELOC, ARM or Mortgage",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HYzV3WXU3ZGJZUkpGQjhSOGg4Ym9VWU9iUlJfZUlFcEMydW40bDl1aWNBRUM1SGNOc0g5MHlRd0g4WnVEc1BYVkFHTFF6dVgwdURlTmhfOHE2MlJoX2x2Zlcza2p6OW9DekxuYU1lT0ZwbnQxMkdFdQ?oc=5",
+"src": "The Mortgage Reports",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6763f3043ccb",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T21:20:41Z",
 "bank": "Fed",
 "speaker": "Daly",
@@ -1674,7 +1694,8 @@
 "Quartz",
 "WTVB",
 "KELO-AM",
-"1470 & 100.3 WMBD"
+"1470 & 100.3 WMBD",
+"Modesto Bee"
 ],
 "desc": "",
 "id": "ac9658fb8431",
