@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T15:07:00Z",
+ "built": "2026-11-13T15:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": ""
   },
@@ -64,6 +64,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Chicago Fed chief said inflation is still moving in the wrong direction",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
@@ -72,8 +73,7 @@
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
-    "Fed chair discloses wife's transactions in pet-care investments",
-    "The Fed's December Decision Just Got a Lot Messier"
+    "Fed chair discloses wife's transactions in pet-care investments"
    ]
   },
   {
@@ -87,6 +87,7 @@
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "Chicago Fed chief said inflation is still moving in the wrong direction",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -94,8 +95,7 @@
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
     "Chicago Fed chief calls October inflation 'borderline disturbing'",
-    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
-    "Fed officials signal faster rate hikes as October inflation runs hot"
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 44,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -112,12 +112,12 @@
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
-    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
+    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
+    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -171,10 +171,10 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada weighed two paths before raising rates to 2.5%",
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
+    "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
    ]

@@ -151,7 +151,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Quartz"
+],
 "desc": "",
 "id": "78a04e292f26",
 "score": null,
