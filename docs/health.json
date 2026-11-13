@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T23:37:00Z",
+ "built": "2026-11-13T23:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 65,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -105,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 15,
+   "fetched": 51,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,8 +134,8 @@
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
@@ -149,14 +149,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
-   "kept": 6,
+   "fetched": 14,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
-    "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
@@ -342,7 +341,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
