@@ -22,7 +22,7 @@ jobs:
           if [ -f probe_econ.py ]; then python probe_econ.py || true; fi
           git config user.name  "stir-news-bot"
           git config user.email "stir-news-bot@users.noreply.github.com"
-          python econ.py --full > econ_log.txt 2>&1 || true
+          [ -f probe_econ.py ] || python econ.py --full > econ_log.txt 2>&1 || true
           for f in probe_out docs/econ.js data/econ.json econ_log.txt; do [ -e "$f" ] && git add -A "$f"; done
           git commit -q -m "probe output" || echo "nothing"
           git push -q || echo "push failed"
