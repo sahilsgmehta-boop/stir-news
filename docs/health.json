@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T07:37:01Z",
+ "built": "2026-11-13T07:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -69,10 +69,10 @@
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "The Fed's December Decision Just Got a Lot Messier",
-    "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Fed chair discloses wife's transactions in pet-care investments",
-    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money"
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
+    "Fed chair discloses wife's transactions in pet-care investments"
    ]
   },
   {
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 66,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 48,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -212,8 +212,7 @@
     "The two pragmatists leading the race to run the ECB",
     "Strong US inflation and growth will keep Fed on a tightening path",
     "The ECB needs a smooth transmission and a smooth transition",
-    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
-    "BoE to kick off short and precautionary tightening cycle in November"
+    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation"
    ]
   },
   {
