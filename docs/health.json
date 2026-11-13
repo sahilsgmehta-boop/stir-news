@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T21:52:00Z",
+ "built": "2026-11-13T22:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -87,15 +87,15 @@
    "added": 1,
    "error": "",
    "near_misses": [
-    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
-    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates"
    ]
   },
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 50,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -168,14 +168,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
-    "Bank of Canada says more rate hikes could be coming: report",
     "What Did the Bank of Canada's Summary of Deliberations Reveal About the Odds of Another Rate Hike?",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
    ]
@@ -185,7 +184,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
