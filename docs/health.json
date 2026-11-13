@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T13:07:00Z",
+ "built": "2026-11-13T13:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 13,
+   "kept": 12,
    "added": 0,
    "error": ""
   },
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
     "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next?",
     "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
     "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
@@ -37,7 +38,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Fed expected rate cuts this year. Now it\u2019s bracing for another inflation fight",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
     "European Central Bank keeps key interest rate on hold at 2.5%"
@@ -60,13 +60,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 1,
+   "kept": 60,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "Price inflation measured by the Cleveland Fed's median PCE index",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
+    "Price inflation measured by the Cleveland Fed's median PCE index",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
@@ -83,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 68,
-   "added": 3,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
@@ -134,6 +134,7 @@
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target",
@@ -145,12 +146,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 7,
-   "added": 1,
+   "fetched": 17,
+   "kept": 8,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+    "Bank of England to wait until February to next raise rates, say economists",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
@@ -162,7 +164,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -170,7 +172,6 @@
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
-    "Further interest rate hikes possible: Bank of Canada",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
    ]
