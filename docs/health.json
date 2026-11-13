@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T08:37:01Z",
+ "built": "2026-11-13T08:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -64,14 +64,14 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Price inflation measured by the Cleveland Fed's median PCE index",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
+    "Price inflation measured by the Cleveland Fed's median PCE index",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "The Fed's December Decision Just Got a Lot Messier",
-    "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Fed chair discloses wife's transactions in pet-care investments",
+    "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Fed chair discloses wife's transactions in pet-care investments"
    ]
@@ -104,8 +104,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 46,
-   "kept": 14,
-   "added": 0,
+   "kept": 13,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
@@ -143,17 +143,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 6,
+   "fetched": 20,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England under pressure as inflation expected to remain high until 2030",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
@@ -183,7 +183,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
