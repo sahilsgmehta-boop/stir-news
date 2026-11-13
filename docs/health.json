@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T18:07:01Z",
+ "built": "2026-11-13T18:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 11,
+   "kept": 12,
    "added": 0,
    "error": ""
   },
@@ -60,19 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 73,
-   "added": 2,
+   "kept": 71,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Boston Fed president warns housing costs may have to worsen before they improve",
+    "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
+    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Price inflation measured by the Cleveland Fed's median PCE index",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Fed chair discloses wife's transactions in pet-care investments",
-    "The Fed's inflation dilemma: Wait for oil relief or raise rates?"
+    "Fed chair discloses wife's transactions in pet-care investments"
    ]
   },
   {
@@ -81,11 +82,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
-   "added": 1,
+   "kept": 64,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
@@ -93,8 +95,7 @@
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
    ]
   },
   {
@@ -102,9 +103,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 14,
-   "added": 0,
+   "fetched": 49,
+   "kept": 15,
+   "added": 1,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
@@ -116,7 +117,7 @@
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
    ]
   },
   {
@@ -124,20 +125,20 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 6,
+   "fetched": 23,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
   },
@@ -338,7 +339,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }

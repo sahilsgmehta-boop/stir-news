@@ -29,7 +29,9 @@
 "src": "Investing.com India",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "5138fcf31b97",
 "score": null,
@@ -49,7 +51,9 @@
 "src": "investingLive",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"investingLive central banks"
+],
 "desc": "Hard to say policy is restrictive enough In all likelihood, we will need to raise rates A myriad of things are pushing up inflation, which makes it concerning Bias is that rates need to go up Every single Fed official speaking lately says that rates need to go up, and yet seemingly none of them supported a rate hike two weeks ago. It's baffling. More: I wouldn't spend a lot of time on the summary of economic projections, it's just a point in time I'm looking at the gap between how consumer sentiment and spending gets closed Watch services ex-housing inflation, it's not moving in the right dire",
 "id": "b7c483044d7b",
 "score": null,
@@ -410,6 +414,26 @@
 "also": [],
 "desc": "",
 "id": "419a622d32ec",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T15:14:00Z",
+"bank": "ECB",
+"speaker": "Lane",
+"hl": "Race kicks off to replace Philip Lane as ECB chief economist",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1VaMEZWOEZqbWRFVlFOWUx0LVRkS2VJRVprcXJDNDdfZnRGM1Z1a1ZSaGNEREgybGFYZ3FsUjR5a0R4ZGdJVEttTmhJOXNqTE9NMWpBdDFycmNhckIwTnc4cnNqRWxwRnd1WkV1SFpNR0JrQzJHSjVFOW9Fcmpjbl9ZRU9jU3pnbjhtU1lJcksyUHVJYWNuZFF5M0xzbUZqU19yb0hOMGltcGVuR1VLZDdzYWZWYWNPV0NlSUZzWFVCaVdDUDQ4?oc=5",
+"src": "Irish Independent",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a583a98afa47",
 "score": null,
 "read": "",
 "sum": "",
@@ -3096,7 +3120,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"CU Today"
+"CU Today",
+"www.tmgm.com"
 ],
 "desc": "",
 "id": "007f3feecfd3",
