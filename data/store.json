@@ -1180,7 +1180,9 @@
 "src": "The Economic Times",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Mortgage Professional America"
+],
 "desc": "",
 "id": "87eecd85b170",
 "score": 4,

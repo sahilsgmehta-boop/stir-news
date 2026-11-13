@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T20:37:01Z",
+ "built": "2026-11-13T20:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
-   "added": 2,
+   "kept": 70,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
@@ -83,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 68,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -110,14 +110,14 @@
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
-    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
+    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract",
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
    ]
   },
   {
@@ -152,6 +152,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
@@ -166,7 +167,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -338,7 +339,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
