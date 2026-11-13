@@ -490,7 +490,8 @@
 "tone": "",
 "also": [
 "StreetInsider",
-"Yahoo Finance Singapore"
+"Yahoo Finance Singapore",
+"Investing.com Nigeria"
 ],
 "desc": "",
 "id": "fd894efd087e",
@@ -852,7 +853,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Yahoo Finance Singapore"
+"Yahoo Finance Singapore",
+"Investing.com South Africa"
 ],
 "desc": "",
 "id": "48da75a68d2f",
@@ -1904,7 +1906,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"WTVB"
+"WTVB",
+"Kitco"
 ],
 "desc": "",
 "id": "7af958187ce2",

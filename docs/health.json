@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T20:52:01Z",
+ "built": "2026-11-13T21:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,12 +60,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
@@ -73,7 +72,8 @@
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year"
    ]
   },
   {
@@ -89,13 +89,13 @@
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Fed Forced to Confront Case for Bigger and Faster Rate Rises"
+    "Fed Forced to Confront Case for Bigger and Faster Rate Rises",
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
    ]
   },
   {
@@ -103,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 50,
    "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
-    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
+    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations"
    ]
   },
   {
@@ -132,8 +132,8 @@
    "near_misses": [
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
@@ -147,8 +147,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 8,
+   "fetched": 17,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
