@@ -1,0 +1,63 @@
+US.cpi       BLS       128 pts  last 2026-09:3.74
+US.core      BLS       128 pts  last 2026-09:2.56
+US.svc       BLS       128 pts  last 2026-09:3.15
+US.core3m    BLS       128 pts  last 2026-10:3.75
+US.pce       BEA       129 pts  last 2026-09:3.65
+US.corepce   BEA       129 pts  last 2026-09:3.12
+US.unemp     BLS       129 pts  last 2026-10:4.1
+US.jobs      BLS       130 pts  last 2026-10:165
+US.wages     BLS       130 pts  last 2026-10:3.12
+US.gdp_q     OECD       43 pts  last 2026-Q3:0.832
+US.gdp_y     OECD       43 pts  last 2026-Q3:2.07
+US.gdp_saar  BEA        43 pts  last 2026-Q3:3.4
+US.retail    OECD      127 pts  last 2026-08:2.1
+US.ip        OECD      129 pts  last 2026-09:2.25
+US.conf      OECD      130 pts  last 2026-10:51.65
+US.sent      Univ. of  130 pts  last 2026-10:48
+US.infexp1   Univ. of  130 pts  last 2026-10:4.7
+US.infexp5   Univ. of  130 pts  last 2026-10:3.5
+EZ.cpi       Eurostat  120 pts  last 2025-12:2
+EZ.core      Eurostat  120 pts  last 2025-12:2.3
+EZ.svc       Eurostat  120 pts  last 2025-12:3.4
+EZ.wages     ECB        39 pts  last 2025-Q3:1.87
+EZ.gdp_q     Eurostat   43 pts  last 2026-Q3:0.4
+EZ.gdp_y     Eurostat   43 pts  last 2026-Q3:1.3
+EZ.retail    OECD      129 pts  last 2026-09:0.29
+EZ.ip        OECD      128 pts  last 2026-08:-1.11
+EZ.conf      Eurostat  120 pts  last 2025-12:-13.1
+EZ.infexp1   Eurostat  120 pts  last 2025-12:26.7
+UK.cpi       ONS       129 pts  last 2026-09:3.5
+UK.core      ONS       129 pts  last 2026-09:2.8
+UK.svc       ONS       129 pts  last 2026-09:3.7
+UK.unemp     ONS       127 pts  last 2026-07:4.7
+UK.wages     ONS       128 pts  last 2026-08:3.7
+UK.wages2    ONS       128 pts  last 2026-08:3.7
+UK.gdp_q     ONS        43 pts  last 2026-Q3:0.7
+UK.gdp_y     ONS        43 pts  last 2026-Q3:1.9
+UK.gdp_m     ONS       129 pts  last 2026-09:0.2
+UK.retail    OECD      129 pts  last 2026-09:0.77
+UK.ip        OECD      128 pts  last 2026-08:1.6
+UK.conf      OECD      130 pts  last 2026-10:-17.75
+CA.cpi       Statistic 129 pts  last 2026-09:3.09
+CA.core      Statistic 129 pts  last 2026-09:1.8
+CA.median    Statistic 129 pts  last 2026-09:1.9
+CA.unemp     Statistic 130 pts  last 2026-10:6.7
+CA.jobs      Statistic 130 pts  last 2026-10:-4.7
+CA.wages     Statistic 130 pts  last 2026-10:2.24
+CA.gdp_q     Statistic  42 pts  last 2026-Q2:0.82
+CA.gdp_y     Statistic  42 pts  last 2026-Q2:1.13
+CA.gdp_m     Statistic 128 pts  last 2026-08:-0.006
+CA.retail    OECD      128 pts  last 2026-08:2.03
+CA.ip        OECD      128 pts  last 2026-08:2.23
+CA.infexp1   Bank of C  43 pts  last 2026-Q3:4.03
+CA.infexp5   Bank of C  43 pts  last 2026-Q3:3.91
+CH.cpi       SNB       129 pts  last 2026-09:0.99
+CH.core      SNB       129 pts  last 2026-09:0.497
+CH.unemp     SNB       129 pts  last 2026-09:3.125
+CH.gdp_q     OECD       42 pts  last 2026-Q2:1.885
+CH.gdp_y     OECD       42 pts  last 2026-Q2:2.63
+CH.retail    OECD      129 pts  last 2026-09:1.67
+CH.ip        OECD      126 pts  last 2026-06:10.12
+CH.conf      OECD       43 pts  last 2026-Q3:-34.37
+econ: 61 series, 1 errors, 0 kept from before, 40 requests
+  ! EZ.unemp: Eurostat une_rt_m: filter leaves 0 series
