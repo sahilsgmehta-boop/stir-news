@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T08:22:01Z",
+ "built": "2026-11-13T08:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 66,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -103,9 +103,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 15,
-   "added": 1,
+   "fetched": 46,
+   "kept": 14,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
@@ -116,8 +116,8 @@
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
+    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
+    "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
    ]
   },
   {
@@ -143,17 +143,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 7,
+   "fetched": 19,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England under pressure as inflation expected to remain high until 2030",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
@@ -189,7 +189,7 @@
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
-    "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
+    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
     "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
