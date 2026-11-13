@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-13T15:59:16Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Fed’s Collins says more rate hikes may be needed soon",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOExkVUJ3c1htby1jR2Z0VzJDMEVKVWhGWVc2dFVtOTkxdkJJcWk4a25iWldtMmF4Q3FwUXMyVjBGT0ZBQTRGQWQ4d1NoTEtxSTR2Um9sQ0hId3ZqaXhUenFfTHVUN21nTE9lMXVmbFlVemJUclVqdThrQmRuVVJDX0ZGZkRiNDBza3lSQW9nbDZCTjhCTmZkZlEzTGNVTkJQcTVrMURyRQ?oc=5",
+"src": "Investing.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fd894efd087e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T15:42:32Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Fed's Collins: I would think some additional policy tightening is warranted soon",
+"url": "https://investinglive.com/central-banks/fed-s-collins-i-would-think-some-additional-policy-tightening-is-warranted-soon/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Possible Fed may ahve to raise more than expected Best care scenario is 'careful adjustment' of mon pol Labor market appears on solid footing The future direction of mon pol is clear Recent inflation data less promising than I hope Inflation is too high and appears to be broadening I don't see any way the Fed doesn't hike in December and now the market sees a 75% chance of back-to-back hikes. Today, Bank of America forecast back-to-back to back hikes in Dec, Jan and March. This article was written by Adam Button at investinglive.com.",
+"id": "7ebb5512f4e9",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T15:37:01Z",
 "bank": "BoC",
 "speaker": "Gravelle",
@@ -32,7 +72,8 @@
 "also": [
 "www.marketscreener.com",
 "Forth.News",
-"Yahoo Finance"
+"Yahoo Finance",
+"Tri-City Herald"
 ],
 "desc": "",
 "id": "734e58ee04af",
@@ -712,6 +753,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-13T00:00:00Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Watch Fed's Collins: Additional Rate Tightening Appropriate",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTNENE1WOG9FdkVFc2RseTNYRzVXc2xRYWpNMkdGelNOT2tPbmt3LWZrYjFIV0E5NTZfMjBTX1hRZnE4dnFkNDJWT0dfcVpwLXluSlR1TkE4MjJuU3NUVjdpQUxQd2hLSkxVRGtWX2pDWm9DelJNU2pGS1Q2MUIwbTExZEdScGN0MjcyN3dSc3ZpcWdtTkZLMEVTRFE0TllhS0hPejdRWTkwWXhxQlFXNA?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9b219bbf978a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-12T21:28:49Z",
 "bank": "Fed",
 "speaker": "Schmid",
@@ -1041,7 +1102,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Yahoo Finance UK"
+],
 "desc": "",
 "id": "15fe410ee0c8",
 "score": 4,
@@ -1125,7 +1188,8 @@
 "Breakingthenews.net",
 "investingLive central banks",
 "investingLive",
-"Forex Factory"
+"Forex Factory",
+"Quartz"
 ],
 "desc": "Inflation has spread into categories where prices not driven by energy The jobs market looks stable, if not tightening a bit Rates will eventually go well-below today We have had signs of trouble for several months in a row now Lately we’re not making any progress and if anything, it’s going the wrong way Inflation is rising and proving far more persistent than expected when it was just a matter of supply shocks The Fed \"definitely has work to do\" to maintain its credibility Services inflation and rising health care costs don't feel like they will change quickly Even if the price of oil goes d",
 "id": "e77bfc03aeb7",
@@ -2344,7 +2408,9 @@
 "src": "Stocktwits",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "de24b796bc7b",
 "score": 7,

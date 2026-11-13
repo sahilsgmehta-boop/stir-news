@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T15:52:00Z",
+ "built": "2026-11-13T16:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
-   "added": 0,
+   "kept": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
@@ -60,20 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
-   "added": 0,
+   "kept": 66,
+   "added": 2,
    "error": "",
    "near_misses": [
-    "Boston Fed president says curbing inflation is worth the hit to housing",
-    "Chicago Fed chief said inflation is still moving in the wrong direction",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "Price inflation measured by the Cleveland Fed's median PCE index",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
+    "Price inflation measured by the Cleveland Fed's median PCE index",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
-    "The Fed's inflation dilemma: Wait for oil relief or raise rates?"
+    "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
+    "Fed chair discloses wife's transactions in pet-care investments",
+    "The Fed's December Decision Just Got a Lot Messier"
    ]
   },
   {
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
-   "added": 2,
+   "kept": 67,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Boston Fed president says curbing inflation is worth the hit to housing",
-    "Chicago Fed chief said inflation is still moving in the wrong direction",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'"
+    "Chicago Fed chief calls October inflation 'borderline disturbing'",
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
+    "Fed officials signal faster rate hikes as October inflation runs hot"
    ]
   },
   {
@@ -103,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 46,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push"
+    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -125,13 +125,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 22,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
