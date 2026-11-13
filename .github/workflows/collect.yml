@@ -45,6 +45,8 @@ jobs:
       #   fx.py           G10 currencies; TWELVE_DATA_KEY is a repository SECRET,
       #                   never in the code or the output
       #   cftc.py         CFTC positioning (paces itself, every 6 hours)
+      #   econ.py         economic data for US, euro area, UK, Canada, Switzerland
+      #                   (paces itself, every 3 hours)
       - name: Collect (loop)
         env:
           TWELVE_DATA_KEY: ${{ secrets.TWELVE_DATA_KEY }}
@@ -58,7 +60,7 @@ jobs:
           while :; do
             echo "::group::pass $(date -u +%H:%MZ)"
             git pull -q --rebase origin main || echo "pull failed"
-            for s in collect.py fixings.py oi.py oi_intl.py calendar_feed.py curves.py markets.py repo.py fx.py cftc.py; do
+            for s in collect.py fixings.py oi.py oi_intl.py calendar_feed.py curves.py markets.py repo.py fx.py cftc.py econ.py; do
               timeout 600 python "$s" || echo "$s failed"
             done
             git add docs data
