@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T10:37:01Z",
+ "built": "2026-11-13T10:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -104,9 +104,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 46,
    "kept": 16,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
@@ -145,7 +145,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -191,8 +191,9 @@
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
+    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?",
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
    ]
   },
   {
