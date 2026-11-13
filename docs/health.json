@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T02:22:00Z",
+ "built": "2026-11-13T02:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 68,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -142,21 +142,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 24,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
-    "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England blamed as inflation forecast to stay high into 2030s",
+    "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England raises rates for first time since 2023, says more may come",
-    "Central banks turn hawkish as Fed, Bank of England and ECB officials signal more rate hikes"
+    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
+    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says"
    ]
   },
   {
@@ -191,8 +191,7 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
    ]
   },
   {
