@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T17:07:00Z",
+ "built": "2026-11-13T17:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
@@ -83,14 +83,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 3,
+   "kept": 67,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
@@ -104,12 +104,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 48,
    "kept": 14,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
@@ -117,8 +118,7 @@
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
+    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations"
    ]
   },
   {

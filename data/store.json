@@ -134,7 +134,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Investing.com"
+"Investing.com",
+"Yahoo Finance Singapore"
 ],
 "desc": "",
 "id": "b216f15f3378",
@@ -350,7 +351,8 @@
 "The Mighty 790 KFGO",
 "Fresno Bee",
 "Reuters",
-"WTVB"
+"WTVB",
+"Kitco"
 ],
 "desc": "",
 "id": "00f02bdb31e0",
@@ -560,6 +562,26 @@
 "also": [],
 "desc": "",
 "id": "4d663ff4f903",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T13:44:59Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Fed's Goolsbee: We cannot look through inflation if demand is overheating; data center buildout is pushing up prices",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczVLM2QwbWRnME9ibWpsdWxPSmtuOTRsalBNb2pPRjVWb0xrMXY1UXJrVllRMTJ0ZldaOGtncWI4RDdPQjgwRU5zZFRKVU9jbUgyUnpVMHNrMTVYS2VIc3JuY3B0elVXTWQyaVhIQ0NTa01qdlIxZzV2SWt6alZqTnFZcFdueVJORFVtY1NoTVBTUVdSM3fSAZsBQVVfeXFMTmtyNF9JQVltdVNCT3kydVV4d0dyN29raUxHM245cW1ZV25VOEw3M0hZRVNnb2dWOXZFUFJEWnlnU2J0N3BhOTFrU1QtRHVDYnpnVWYxWmJKempUeHZzdWNpVDJGbDBxZnBxamVGUnRWbTFJV3g5OHdPOG5LT19IWEprSklwRXNvWVQtSVBkMzdKTmt6T0hjQnhVM2M?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c668a4ca207b",
 "score": null,
 "read": "",
 "sum": "",
