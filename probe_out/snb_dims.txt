@@ -1,0 +1,2 @@
+https://data.snb.ch/api/cube/plkopr/dimensions/en
+{"cubeId": "plkopr", "dimensions": [{"id":"D0","name":"Overview","dimensionItems":[{"id":"LD2010100","name":"National index – December 2025 = 100"},{"id":"VVP","name":"Change from the corresponding month of the previous year in %"}]}]}

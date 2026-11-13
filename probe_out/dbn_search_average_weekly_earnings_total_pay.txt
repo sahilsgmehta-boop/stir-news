@@ -1,0 +1,2 @@
+https://api.db.nomics.world/v22/search?q=average%20weekly%20earnings%20total%20pay&limit=12
+{"_meta":{"args":{"limit":12,"offset":0,"q":"average weekly earnings total pay"},"version":"22.1.17"},"results":{"docs":[{"code":"EMP","dir_hash":"a7f75a2b79032c4a23640da8b67812f2d3d2637d","indexed_at":"2026-10-21T02:02:06.481Z","name":"Average weekly earnings time series","nb_matching_series":564,"nb_series":1374,"provider_code":"ONS","provider_name":"Office for National Statistics"}],"limit":12,"num_found":1,"offset":0}}

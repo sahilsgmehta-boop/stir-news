@@ -1,0 +1,2 @@
+https://api.db.nomics.world/v22/search?q=UK%20gross%20domestic%20product%20quarter%20on%20quarter%20growth&limit=12
+{"_meta":{"args":{"limit":12,"offset":0,"q":"UK gross domestic product quarter on quarter growth"},"version":"22.1.17"},"results":{"docs":[{"code":"UKEA","dir_hash":"c849d344d045e777561a46d940fa9940b263664d","indexed_at":"2026-10-01T02:07:49.995Z","name":"UK Economic Accounts time series","nb_matching_series":6,"nb_series":11386,"provider_code":"ONS","provider_name":"Office for National Statistics"}],"limit":12,"num_found":1,"offset":0}}
