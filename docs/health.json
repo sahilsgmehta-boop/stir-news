@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T10:22:00Z",
+ "built": "2026-11-13T10:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 64,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -104,21 +104,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
-   "kept": 14,
-   "added": 0,
+   "fetched": 47,
+   "kept": 16,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
+    "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
-    "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
+    "ECB says Lagarde's exit will not delay the digital euro as Brussels negotiates the law"
    ]
   },
   {
@@ -127,14 +127,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 6,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
-    "ECB Considers Possible Delay in Digital Euro Launch",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "AI accounts for quarter of euro zone credit growth, ECB says",
@@ -146,7 +145,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 21,
    "kept": 8,
    "added": 0,
    "error": "",
