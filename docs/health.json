@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T02:37:01Z",
+ "built": "2026-11-13T02:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,8 +68,8 @@
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
-    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Fed chair discloses wife's transactions in pet-care investments",
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
    ]
   },
@@ -80,7 +80,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 68,
-   "added": 4,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -142,21 +142,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 6,
+   "fetched": 25,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
-    "Bank of England blamed as inflation forecast to stay high into 2030s",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says"
+    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
+    "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
   },
   {
