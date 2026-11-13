@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T09:07:01Z",
+ "built": "2026-11-13T09:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
     "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
     "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia"
    ]
@@ -69,11 +70,11 @@
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
+    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "The Fed's December Decision Just Got a Lot Messier",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
-    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money"
    ]
   },
   {
@@ -82,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 66,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -91,8 +92,8 @@
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
-    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
     "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs"
@@ -103,8 +104,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 15,
+   "fetched": 46,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -144,7 +145,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 7,
    "added": 0,
    "error": "",
