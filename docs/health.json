@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T18:22:00Z",
+ "built": "2026-11-13T18:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
+   "kept": 66,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
   },
   {
@@ -103,9 +103,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 48,
    "kept": 15,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
@@ -117,7 +117,7 @@
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
+    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
    ]
   },
   {
@@ -152,8 +152,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England Likely to Delay Next Rate Hike Until February: Poll",
+    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England raises rates for first time since 2023, says more may come",
@@ -174,8 +174,7 @@
     "Bank of Canada says more rate hikes could be coming: report",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada weighed two paths before raising rates to 2.5%",
-    "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
-    "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
+    "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
    ]
   },
   {
@@ -183,7 +182,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -339,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
