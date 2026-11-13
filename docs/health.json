@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T11:37:01Z",
+ "built": "2026-11-13T11:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,20 +61,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 0,
+   "kept": 61,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Price inflation measured by the Cleveland Fed's median PCE index",
+    "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Indian Rupee weakens as experts warns of Fed's aggressive tightening cycle",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "The Fed's December Decision Just Got a Lot Messier",
     "Fed chair discloses wife's transactions in pet-care investments",
-    "U.S. Fed Governor Warns AI Could Trigger Large-Scale Job Displacement and Widen US Inequality",
-    "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
+    "U.S. Fed Governor Warns AI Could Trigger Large-Scale Job Displacement and Widen US Inequality"
    ]
   },
   {
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
+   "kept": 67,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -92,11 +92,11 @@
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
+    "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
+    "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
   },
   {
@@ -116,8 +116,8 @@
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
+    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "ECB says Lagarde's exit will not delay the digital euro as Brussels negotiates the law"
    ]
   },
@@ -133,12 +133,13 @@
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
+    "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "ECB Considers Possible Delay in Digital Euro Launch",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
+    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target",
     "ECB warns delays could postpone digital euro launch",
-    "AI accounts for quarter of euro zone credit growth, ECB says",
-    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
+    "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
   },
   {
@@ -146,18 +147,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
   },
@@ -173,10 +173,10 @@
    "near_misses": [
     "Scotiabank, BlackRock economists seen as contenders to lead Bank of Canada - report (BLK:NYSE)",
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
-    "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
     "Further interest rate hikes possible: Bank of Canada",
+    "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
    ]
   },
@@ -191,8 +191,9 @@
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
+    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?",
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
    ]
   },
   {
