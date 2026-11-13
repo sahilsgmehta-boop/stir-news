@@ -1,0 +1,1 @@
+HTTP 400 <html lang="en"><head><title>European Central Bank</title><style type="text/css"> body{ font-family: "Droid Sans", sans-serif; margin:0; padding:0; background-color: #9099ab; text-align: center; } h1{  font-size:38px; font-weight: normal; color:#003299; }  @media screen and (max-width: 480px) { h1{ 

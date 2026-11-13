@@ -1,0 +1,1 @@
+HTTP 404 {"detail":"No Series was returned for the query: <?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><DataQuery dataflowId=\"HICP\" detail=\"FULL\" type=\"SINGLE_QUERY\" lastNObservations=\"2\" includeHistory=\"false\"><SeriesKeys><SeriesKey>M.U2.N.TOTAL.4.ANR</SeriesKey></SeriesKeys></Data

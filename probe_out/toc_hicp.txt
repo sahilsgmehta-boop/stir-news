@@ -1,0 +1,88 @@
+"            Harmonised index of consumer prices (HICP)"	"prc_hicp"	"folder"	" "	" "	" "	" "	
+"                Harmonised index of consumer prices (HICP) - ECOICOP ver.2"	"prc_hicp_ecoicop2"	"folder"	" "	" "	" "	" "	
+"                    ___"	"prc_hicp_ecoicop2_"	"folder"	" "	" "	" "	" "	
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change at constant tax rates, monthly data"	"prc_hicp_ct"	"dataset"	"16.10.2026"	"16.10.2026"	"2002-12"	"2026-09"	16971982
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - contributions to euro area annual inflation"	"prc_hicp_ctr"	"dataset"	"16.10.2026"	"16.10.2026"	"2002-01"	"2026-09"	87630
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - administered prices composition"	"prc_hicp_admp"	"dataset"	"17.07.2026"	"17.07.2026"	"2017"	"2026"	587319
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - country weights"	"prc_hicp_cw"	"dataset"	"17.07.2026"	"25.02.2026"	"1996"	"2026"	3391
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - item weights"	"prc_hicp_iw"	"dataset"	"16.10.2026"	"25.02.2026"	"1996"	"2026"	485292
+"                    Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, monthly data"	"prc_hicp_minr"	"dataset"	"04.11.2026"	"04.11.2026"	"1996-01"	"2026-10"	22481679
+"                        HICP - food"	"teicp010"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - alcohol and tobacco"	"teicp020"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - clothing"	"teicp030"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - housing"	"teicp040"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - all items"	"teicp000"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1876
+"                        HICP - transport"	"teicp070"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - communications"	"teicp080"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - recreation and culture"	"teicp090"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - household equipment"	"teicp050"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - education"	"teicp100"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - health"	"teicp060"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - insurance and financial services"	"teicp130"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - hotels and restaurants"	"teicp110"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - miscellaneous goods and services"	"teicp120"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - all items excluding energy, food, alcohol and tobacco"	"teicp200"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                        HICP - all items excluding energy"	"teicp210"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                        HICP - all items excluding energy and unprocessed food"	"teicp220"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                        HICP - all items excluding energy and seasonal food"	"teicp230"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - all items excluding tobacco"	"teicp240"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                        HICP - energy"	"teicp250"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                        HICP - food, alcohol and tobacco"	"teicp260"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                        HICP - non-energy industrial goods"	"teicp290"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                        HICP - services"	"teicp280"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                    Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, annual data"	"prc_hicp_ainr"	"dataset"	"17.09.2026"	"17.07.2026"	"1996"	"2025"	735985
+"                        HICP - inflation rate"	"tec00118"	"table"	"17.09.2026"	"17.07.2026"	"2014"	"2025"	487
+"                        HICP - all items - annual average indices"	"tec00027"	"table"	"17.09.2026"	"17.07.2026"	"2014"	"2025"	492
+"                    Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - first released data"	"prc_hicp_fpd"	"dataset"	"04.11.2026"	"04.11.2026"	"1996-01"	"2026-10"	22262664
+"                Harmonised index of consumer prices (HICP) - ECOICOP ver.1"	"prc_hicp_ecoicop1"	"folder"	" "	" "	" "	" "	
+"                    -----"	"prc_hicp_"	"folder"	" "	" "	" "	" "	
+"                        HICP at constant tax rates - monthly data (index) (2002-2025)"	"prc_hicp_cind"	"dataset"	"06.02.2026"	"19.01.2026"	"2002-01"	"2025-12"	2405736
+"                        HICP at constant tax rates - monthly data (annual rate of change) (2003-2025)"	"prc_hicp_cann"	"dataset"	"06.02.2026"	"19.01.2026"	"2003-01"	"2025-12"	2223781
+"                        HICP at constant tax rates - monthly data (monthly rate of change) (2002-2025)"	"prc_hicp_cmon"	"dataset"	"06.02.2026"	"19.01.2026"	"2002-02"	"2025-12"	4733866
+"                        HICP - administered prices (composition) (2001-2025)"	"prc_hicp_apc"	"dataset"	"06.02.2026"	"16.04.2025"	"2001"	"2025"	801309
+"                    -----"	"prc_hicp__"	"folder"	" "	" "	" "	" "	
+"                        HICP - country weights (1996-2025)"	"prc_hicp_cow"	"dataset"	"20.08.2025"	"03.02.2025"	"1996"	"2025"	3012
+"                        HICP - item weights (1996-2025)"	"prc_hicp_inw"	"dataset"	"20.08.2025"	"03.02.2025"	"1996"	"2025"	347400
+"                    HICP - monthly data (index) (1996-2025)"	"prc_hicp_midx"	"dataset"	"06.02.2026"	"07.01.2026"	"1996-01"	"2025-12"	7699058
+"                    HICP - monthly data (annual rate of change) (1997-2025)"	"prc_hicp_manr"	"dataset"	"06.02.2026"	"07.01.2026"	"1997-01"	"2025-12"	3511040
+"                    HICP - monthly data (monthly rate of change) (1996-2025)"	"prc_hicp_mmor"	"dataset"	"06.02.2026"	"07.01.2026"	"1996-02"	"2025-12"	3706469
+"                    HICP - monthly data (12-month average rate of change) (1997-2025)"	"prc_hicp_mv12r"	"dataset"	"06.02.2026"	"19.01.2026"	"1997-12"	"2025-12"	3315923
+"                    HICP - annual data (average index and rate of change) (1996-2025)"	"prc_hicp_aind"	"dataset"	"06.02.2026"	"19.01.2026"	"1996"	"2025"	602162
+"                    HICP - contributions to EA annual inflation (in percentage points) (2002-2025)"	"prc_hicp_ctrb"	"dataset"	"06.02.2026"	"19.01.2026"	"2002-01"	"2025-12"	65916
+"                    HICP - first published data (monthly index and annual rate of change) (1996-2025)"	"prc_hicp_fp"	"dataset"	"06.02.2026"	"07.01.2026"	"1996-01"	"2025-12"	12836113
+"                    HICP - annual data (average index and rate of change) (1996-2025)"	"prc_hicp_aind"	"dataset"	"06.02.2026"	"19.01.2026"	"1996"	"2025"	602162
+"                    HICP - monthly data (index) (1996-2025)"	"prc_hicp_midx"	"dataset"	"06.02.2026"	"07.01.2026"	"1996-01"	"2025-12"	7699058
+"                    Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, annual data"	"prc_hicp_ainr"	"dataset"	"17.09.2026"	"17.07.2026"	"1996"	"2025"	735985
+"                    Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, monthly data"	"prc_hicp_minr"	"dataset"	"04.11.2026"	"04.11.2026"	"1996-01"	"2026-10"	22481679
+"                    HICP - annual data (average index and rate of change) (1996-2025)"	"prc_hicp_aind"	"dataset"	"06.02.2026"	"19.01.2026"	"1996"	"2025"	602162
+"                    HICP - monthly data (index) (1996-2025)"	"prc_hicp_midx"	"dataset"	"06.02.2026"	"07.01.2026"	"1996-01"	"2025-12"	7699058
+"                    Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, annual data"	"prc_hicp_ainr"	"dataset"	"17.09.2026"	"17.07.2026"	"1996"	"2025"	735985
+"                    Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, monthly data"	"prc_hicp_minr"	"dataset"	"04.11.2026"	"04.11.2026"	"1996-01"	"2026-10"	22481679
+"                    HICP - food, alcohol and tobacco"	"teicp260"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                    HICP - energy"	"teicp250"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                    HICP - non-energy industrial goods"	"teicp290"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                    HICP - services"	"teicp280"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                    HICP - food"	"teicp010"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - alcohol and tobacco"	"teicp020"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - clothing"	"teicp030"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - housing"	"teicp040"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - household equipment"	"teicp050"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - health"	"teicp060"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - transport"	"teicp070"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - communications"	"teicp080"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - recreation and culture"	"teicp090"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - education"	"teicp100"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - hotels and restaurants"	"teicp110"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - insurance and financial services"	"teicp130"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    HICP - miscellaneous goods and services"	"teicp120"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                HICP - all items"	"teicp000"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1876
+"                HICP - all items excluding energy"	"teicp210"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                HICP - all items excluding energy and unprocessed food"	"teicp220"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                HICP - all items excluding energy, food, alcohol and tobacco"	"teicp200"	"table"	"04.11.2026"	"04.11.2026"	"2025-11"	"2026-10"	1425
+"                HICP - all items excluding energy and seasonal food"	"teicp230"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                HICP - all items excluding tobacco"	"teicp240"	"table"	"04.11.2026"	"04.11.2026"	"2025-10"	"2026-09"	1476
+"                    Harmonised index of consumer prices"	"hous_prc_hicp"	"folder"	" "	" "	" "	" "	
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, monthly data"	"prc_hicp_minr"	"dataset"	"04.11.2026"	"04.11.2026"	"1996-01"	"2026-10"	22481679
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, annual data"	"prc_hicp_ainr"	"dataset"	"17.09.2026"	"17.07.2026"	"1996"	"2025"	735985
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - contributions to euro area annual inflation"	"prc_hicp_ctr"	"dataset"	"16.10.2026"	"16.10.2026"	"2002-01"	"2026-09"	87630
+"                        Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - first released data"	"prc_hicp_fpd"	"dataset"	"04.11.2026"	"04.11.2026"	"1996-01"	"2026-10"	22262664
