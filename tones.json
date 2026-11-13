@@ -6425,6 +6425,84 @@
    "basis": "reports",
    "at": "2026-11-13T06:50:39Z",
    "by": "claude"
+  },
+  "371e9e233c7b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Preview of Warsh's AI outreach in Silicon Valley; no policy remarks reported yet.",
+   "sum": "Warsh is taking the Fed's AI debate to Silicon Valley amid growing public wariness, with no message on rates reported so far.",
+   "pts": [
+    "Reuters previews Warsh taking stock of the AI revolution as the US public grows wary of it.",
+    "In October he said the Fed's Productivity and Jobs task force would hold its first hearing in the San Francisco Bay Area on 16 November.",
+    "No comments on inflation or the policy path reported yet."
+   ],
+   "rr": "No new signal for the December hike that is priced; watch any Q&A for his view on AI productivity versus inflation. Only news paraphrases were available.",
+   "ev": "AI outreach, Silicon Valley (preview)",
+   "basis": "reports",
+   "at": "2026-11-13T11:50:54Z",
+   "by": "claude"
+  },
+  "e3acad5dcdbb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Preview of Warsh's Silicon Valley AI questions; no rates content.",
+   "lead": "371e9e233c7b",
+   "at": "2026-11-13T11:50:54Z",
+   "by": "claude"
+  },
+  "f01cadfec0b1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-13T11:50:54Z",
+   "by": "claude"
+  },
+  "c15b3ffe9552": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural point that less fossil-fuel dependence would curb inflation; no rate signal.",
+   "sum": "Sleijpen said cutting Europe's fossil-fuel dependency could help curb inflation, a structural argument rather than a near-term rates signal.",
+   "pts": [
+    "Said reducing fossil-fuel dependency could help contain inflation.",
+    "No reported remarks on the near-term ECB rate path."
+   ],
+   "rr": "No direct read for ECB meeting pricing; leaves the near-term rate debate unchanged. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-13T11:50:54Z",
+   "by": "claude"
+  },
+  "68e846eb5cbf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on European integration and scale; no monetary policy content reported.",
+   "sum": "Schnabel argued Europe's core problem is a lack of scale, making a case for deeper market integration rather than commenting on rates.",
+   "pts": [
+    "Said the issue facing Europe is a lack of scale.",
+    "Her 'Made in Europe' remarks earlier this year urged deepening the single market before turning to common debt.",
+    "No reported comments on inflation or the ECB rate path."
+   ],
+   "rr": "No signal for ECB meeting pricing; structural content leaves the rate debate unchanged. Only news paraphrases were available.",
+   "ev": "Speech, 'Made in Europe'",
+   "basis": "reports",
+   "at": "2026-11-13T11:50:54Z",
+   "by": "claude"
+  },
+  "e08eb865fe61": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says Europe's problem is lack of scale; structural, no rates content.",
+   "lead": "68e846eb5cbf",
+   "at": "2026-11-13T11:50:54Z",
+   "by": "claude"
+  },
+  "8356fdc6c14a": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Housing forum remarks; prepared text gave no outlook or policy view.",
+   "lead": "fa640947afb3",
+   "at": "2026-11-13T11:50:54Z",
+   "by": "claude"
   }
  }
 }
