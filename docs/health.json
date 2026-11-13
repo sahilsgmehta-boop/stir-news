@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T05:07:01Z",
+ "built": "2026-11-13T05:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,10 +17,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
+   "kept": 1,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia"
+   ]
   },
   {
    "id": "cnbc",
@@ -57,19 +59,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
     "Price inflation measured by the Cleveland Fed's median PCE index",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
-    "The Fed's December Decision Just Got a Lot Messier",
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
+    "The Fed's December Decision Just Got a Lot Messier",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Fed chair discloses wife's transactions in pet-care investments",
-    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
    ]
   },
@@ -79,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
+   "kept": 67,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -100,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 51,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -112,9 +114,9 @@
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
-    "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports"
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "German Economy on the Mend Though Reforms Needed, Nagel Says"
    ]
   },
   {
@@ -142,20 +144,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 6,
+   "fetched": 23,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
-    "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
-    "Bank of England under fire: Inflation could remain above 2 percent until 2030",
+    "Warning for millions of borrowers that Bank of England rates could hit 5%",
+    "Bank of England under pressure as inflation expected to remain high until 2030",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
   },
@@ -191,7 +193,8 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
   },
   {
