@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T17:22:01Z",
+ "built": "2026-11-13T17:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 1,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
@@ -84,7 +84,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 67,
-   "added": 1,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -104,13 +104,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 47,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
@@ -118,7 +117,8 @@
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations"
+    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -131,7 +131,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",

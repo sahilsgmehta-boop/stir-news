@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-13T17:23:46Z",
+"bank": "Fed",
+"speaker": "Daly",
+"hl": "Fed's Daly: In all likelihood, we need to raise rates",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVBxQS1FTVRNYWNxSWVPdWxmRFVmaXBKN2RxTlQ4dFFtTUlmZ1M2c0NJcXl2Y0xLajEyMHZGUldxSkhrMlRIVjN4bzNJWGFORzVYRkN3RENzS0liU19kN0FoNTk4LTVockhCU2J1ZVE1S1ZiQ1otNVZPNzVtNjlpTTNVTTEyMmk1aUc1TW1uOHNpZXJzRWVn?oc=5",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b7c483044d7b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T17:22:45Z",
+"bank": "Fed",
+"speaker": "Logan",
+"hl": "Fed's Lorie Logan: Bolster Treasury Market and Bank Funding Backstops Without Extra Stimulus - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1lBdXVrbWRTMmM0MFAwV3gwck9PZHVQVk02VzVlTDh6Q3VFcUtGZGh5UmV1MTJxVHlrUjlLWFlNQlFMT0szb3Y1LUx2U2puSkNLSVNUQU9TaDBSVTlpNGJ3dElMdmNHRWRKbDVTT0RlS1ozcWprSnZoQ2ZKaWdybWY3c0plZkQ0MTZ2dWRua0puTV95QXhSU3ZlXzVmNU9zSVE?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ed0207aa6f49",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T17:04:23Z",
 "bank": "ECB",
 "speaker": "Nagel",
@@ -92,7 +132,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Yahoo Finance"
+"Yahoo Finance",
+"Reuters"
 ],
 "desc": "",
 "id": "699121b125f9",
@@ -435,7 +476,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Briefs Finance"
+],
 "desc": "",
 "id": "7bd59220a566",
 "score": null,
@@ -489,6 +532,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-13T14:14:14Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Goolsbee says Fed not on track to hit 2% inflation target By Investing.com",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFZCaElPX0xVWDg3Qlg1WUNlb0NVV0tjbjBwM1NjM0lFZFdSNlF1clpyRWJyUG52T21ZYUhmVWtsRy0tQUZKeGFYa1RrcmNrek1ISzhBQklmcU1Cd2FWUG92MmtuMnlqbEMxeFFaN1N6bzVRUVJvVkg4VEswckw2UEVqb1dsTjd4bUtLMjZCeWF3c1d2ZG14UDZhWVlaRW5HNktGazhhaGNSblU?oc=5",
+"src": "Investing.com India",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "48da75a68d2f",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T14:10:00Z",
 "bank": "Fed",
 "speaker": "Collins",
@@ -498,7 +561,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Quartz"
+"Quartz",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "78a04e292f26",
