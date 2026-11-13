@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-13T03:07:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed Governor Barr warns AI market concentration could widen inequality, squeeze smaller businesses",
+"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHp2d2E1VUVFamVZTHEtQnpMd1ZVMlR1Zl9FQ24tbGFqNHl6Zm5MamhJQ3hIVmF4ZEZIY2RBQkxSVWRhSWlKSzN4dXN3TS1CRG5hd0w1WWVPemxnVjFOcVRUc3J6bEtUd09HTmxqT0NCZzdfNmJyQmdqQXFlRk9WWEg3TndRQTc1MzBGN08yU3Z5YldCVTRqbFhldkJhWVlPa1RqX195ckRhMUJxY05MVk5CNy1LTmFWcDBnVU9nSzNyVHFBa01VTkd6R0toeUN2MGVQbnVNT0tfMGcyT0xRczR3?oc=5",
+"src": "ANI News",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6264b8832f76",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T01:26:00Z",
 "bank": "Fed",
 "speaker": "Williams",
