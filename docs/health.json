@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T16:52:00Z",
+ "built": "2026-11-13T17:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer meets a hiking Fed",
     "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
     "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next?",
     "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
@@ -61,7 +62,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 1,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
@@ -70,8 +71,8 @@
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Price inflation measured by the Cleveland Fed's median PCE index",
-    "Fed chair discloses wife's transactions in pet-care investments",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?"
    ]
@@ -83,7 +84,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 68,
-   "added": 1,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -103,8 +104,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 13,
+   "fetched": 47,
+   "kept": 14,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -125,7 +126,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -138,8 +139,7 @@
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
-    "AI accounts for quarter of euro zone credit growth, ECB says",
-    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
+    "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
   },
   {
@@ -221,7 +221,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 10,
-   "added": 2,
+   "added": 3,
    "error": ""
   },
   {

@@ -1,6 +1,66 @@
 {
 "items": [
 {
+"t": "2026-11-13T17:04:23Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB’s Nagel sees another hike as second-round risks mount",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjlHRWJTeEp2UU5KemNkMUJXdXN0cFFzYU13U3IzVC1NZ1MtcWhlS09mWjliRjNqeVUtUXBGbEh6QWt0V0JfSnNxckFoNDV6S3hmcjlzemxFeTl1aTgxdFl1aTAzTFRSWVJ2UXg3Uy1IRGxOTHdybnpqem9vdHJ0eU5Hdi1VQnlBSWF5b21SeElPYk1DZVpiR3V2emtmcFNG?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c22e973cec71",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T17:02:08Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed's Bowman aims to provide clear authority to bank supervision",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTlwd3lyVDB3MlRoQlREak05bTZnaUgwbTFwWUNjM2dNYWYwRE00S1QxZUs4MXVoWnlWVDd3S2FOSFB3X01fVXNwYTE3c1c4UmtLMDVFekc4cTNXYzZ6R1pnVzZhbjRVWi1TNktzLUNpVEZ0WDZBWGRGQi0tOXljR1k3aXJpeXh1NDRrdXpRWXVBNGdIeTRYR3haYkdUNVU2RDBF?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "527af419edb1",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T16:51:43Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Fed’s Collins says higher rates are appropriate ‘soon’",
+"url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KSDFVWmZGMkFwWEtuQXNKRHhlekVFTlE5N0xVSDFScXFFUC1oLThXMl9Pb040a0RMamFqVXVjM3ZFOGQtVkFKSk1ZYkJvMnRz?oc=5",
+"src": "The Edge Malaysia",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e87e8eca2aee",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T16:42:00Z",
 "bank": "Fed",
 "speaker": "Microphone",
@@ -9,7 +69,9 @@
 "src": "24/7 Wall St.",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "8ab9d1c2f84d",
 "score": null,
@@ -93,7 +155,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Breakingthenews.net"
+],
 "desc": "",
 "id": "fdfb3710c11d",
 "score": null,
@@ -285,7 +349,8 @@
 "Lexington Herald Leader",
 "The Mighty 790 KFGO",
 "Fresno Bee",
-"Reuters"
+"Reuters",
+"WTVB"
 ],
 "desc": "",
 "id": "00f02bdb31e0",
@@ -2662,7 +2727,8 @@
 "WTVB",
 "KELO-AM",
 "1470 & 100.3 WMBD",
-"Modesto Bee"
+"Modesto Bee",
+"Virginia Business"
 ],
 "desc": "",
 "id": "ac9658fb8431",
