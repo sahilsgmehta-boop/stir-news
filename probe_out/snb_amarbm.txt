@@ -1,2 +1,0 @@
-https://data.snb.ch/api/cube/amarbm/data/csv/en?fromDate=2026-01
-{"code":"404","message":"Table amarbm not found"}

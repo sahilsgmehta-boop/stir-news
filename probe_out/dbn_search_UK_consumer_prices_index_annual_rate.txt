@@ -1,2 +1,0 @@
-https://api.db.nomics.world/v22/search?q=UK%20consumer%20prices%20index%20annual%20rate&limit=12
-{"_meta":{"args":{"limit":12,"offset":0,"q":"UK consumer prices index annual rate"},"version":"22.1.17"},"results":{"docs":[],"limit":12,"num_found":0,"offset":0}}

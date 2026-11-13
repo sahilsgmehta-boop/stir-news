@@ -1,2 +1,0 @@
-https://api.db.nomics.world/v22/series/Fed/G17/IP.B50001.S?observations=1
-{"_meta":{"args":{"align_periods":false,"dataset_code":"G17","dimensions":{},"facets":false,"format":"json","limit":1000,"metadata":true,"observations":true,"offset":0,"provider_code":"Fed","q":"","series_code":"IP.B50001.S"},"version":"22.1.17"},"message":"Provider 'Fed' not found"}

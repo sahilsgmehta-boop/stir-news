@@ -1,2 +1,0 @@
-https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA_EXPENDITURE_GROWTH_OECD,/Q..USA+EA20+GBR+CAN+CHE...B1GQ......?lastNObservations=1&format=csvfilewithlabels
-Not enough key values in query, expecting 13 got 12
