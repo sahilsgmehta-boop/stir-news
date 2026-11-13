@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T08:07:01Z",
+ "built": "2026-11-13T08:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
     "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia"
    ]
   },
@@ -81,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
+   "kept": 65,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -102,9 +103,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 47,
    "kept": 15,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
@@ -115,8 +116,8 @@
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "German Economy on the Mend Though Reforms Needed, Nagel Says",
-    "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
+    "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
+    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
    ]
   },
   {
@@ -124,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 21,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -142,18 +143,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Bank of England under fire: Inflation could remain above 2 percent until 2030",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England under pressure as inflation expected to remain high until 2030",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
@@ -163,7 +163,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",

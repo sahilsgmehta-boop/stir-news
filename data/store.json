@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-13T07:20:00Z",
+"bank": "ECB",
+"speaker": "Schnabel",
+"hl": "Isabel Schnabel: Made in Europe",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tSnlQbWFMLVZCNDlUTHhyWFFuaEhhRFBETDRzQnE5aWVYNWk1azFyeDhQeUQ5X3didVJ4Z2tCcHR5ZEpDNXFIRmd4X0p6YW5GX19mNFN4V0VvZ0VsbkU5ejVqeWhFMGJhZ0pCc1BTNA?oc=5",
+"src": "Zprávy Kurzy.cz",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "68e846eb5cbf",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T06:15:00Z",
 "bank": "ECB",
 "speaker": "Sleijpen",
