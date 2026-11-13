@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T05:52:01Z",
+ "built": "2026-11-13T06:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 59,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Price inflation measured by the Cleveland Fed's median PCE index",
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 68,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -92,8 +92,8 @@
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
     "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
     "Inflation remained elevated in October, cementing a Fed rate increase"
    ]
   },
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 48,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -114,9 +114,9 @@
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
-    "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports"
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "German Economy on the Mend Though Reforms Needed, Nagel Says"
    ]
   },
   {
@@ -144,8 +144,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 6,
+   "fetched": 23,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -193,7 +193,8 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
   },
   {
