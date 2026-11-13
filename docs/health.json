@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T04:37:00Z",
+ "built": "2026-11-13T04:40:16Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 66,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 7,
+   "fetched": 23,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -152,8 +152,8 @@
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England raises rates for first time since 2023, says more may come",
+    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
     "Bank of England under pressure as inflation expected to remain high until 2030"
@@ -191,8 +191,7 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
    ]
   },
   {
