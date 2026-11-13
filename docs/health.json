@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T23:07:01Z",
+ "built": "2026-11-13T23:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
     "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer meets a hiking Fed",
     "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
     "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next?",
@@ -61,20 +62,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 70,
    "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "Fed chair discloses wife's transactions in pet-care investments",
+    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle"
    ]
   },
   {
@@ -83,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 65,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -104,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 52,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -112,13 +113,13 @@
     "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
+    "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
-    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says"
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
    ]
   },
   {
@@ -131,6 +132,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
@@ -147,8 +149,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 5,
+   "fetched": 17,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,8 +158,8 @@
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
+    "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
@@ -340,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
