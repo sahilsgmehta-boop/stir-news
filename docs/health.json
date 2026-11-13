@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T10:09:46Z",
+ "built": "2026-11-13T10:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -36,10 +36,10 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "The Fed expected rate cuts this year. Now it\u2019s bracing for another inflation fight",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-    "European Central Bank keeps key interest rate on hold at 2.5%",
-    "Fed rate hikes are coming, but not this week: CNBC survey"
+    "European Central Bank keeps key interest rate on hold at 2.5%"
    ]
   },
   {
@@ -68,8 +68,8 @@
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Price inflation measured by the Cleveland Fed's median PCE index",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "The Fed's December Decision Just Got a Lot Messier",
     "Fed chair discloses wife's transactions in pet-care investments",
@@ -94,8 +94,8 @@
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Top Federal Reserve official considers largest rate rise since 2022",
+    "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Inflation rises faster than expected, boosting odds of Fed rate hike"
    ]
   },
@@ -104,8 +104,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 15,
+   "fetched": 45,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -158,7 +158,6 @@
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
-    "Bank of England under pressure as inflation expected to remain high until 2030",
     "Warning for millions of borrowers that Bank of England rates could hit 5%"
    ]
   },
