@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T17:52:00Z",
+ "built": "2026-11-13T18:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -25,8 +25,7 @@
     "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
     "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next?",
     "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
-    "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
-    "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia"
+    "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive"
    ]
   },
   {
@@ -61,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
-   "added": 0,
+   "kept": 73,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
@@ -71,9 +70,8 @@
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Price inflation measured by the Cleveland Fed's median PCE index",
-    "Fed chair discloses wife's transactions in pet-care investments",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?"
    ]
   },
@@ -84,7 +82,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 67,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -104,21 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 48,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
+    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
    ]
   },
   {
@@ -133,12 +131,13 @@
    "near_misses": [
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
   },
@@ -147,15 +146,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England Likely to Delay Next Rate Hike Until February: Poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
+    "Bank of England Likely to Delay Next Rate Hike Until February: Poll",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
+    "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
@@ -339,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
