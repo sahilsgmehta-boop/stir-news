@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T13:37:01Z",
+ "built": "2026-11-13T13:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -71,8 +71,8 @@
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
-    "The Fed's December Decision Just Got a Lot Messier",
     "Fed chair discloses wife's transactions in pet-care investments",
+    "The Fed's December Decision Just Got a Lot Messier",
     "U.S. Fed Governor Warns AI Could Trigger Large-Scale Job Displacement and Widen US Inequality"
    ]
   },
@@ -87,9 +87,9 @@
    "error": "",
    "near_misses": [
     "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 44,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -133,7 +133,6 @@
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
@@ -152,8 +151,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "Bank of England to wait until February to next raise rates, say economists",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
@@ -339,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
