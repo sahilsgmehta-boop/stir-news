@@ -20,9 +20,9 @@ jobs:
       - run: |
           pip install -q openpyxl || true
           if [ -f probe_econ.py ]; then python probe_econ.py || true; fi
-          if [ -f econ.py ]; then python econ.py --full || echo "econ.py failed"; fi
           git config user.name  "stir-news-bot"
           git config user.email "stir-news-bot@users.noreply.github.com"
-          git add -A probe_out docs/econ.js data/econ.json 2>/dev/null || git add -A probe_out
+          python econ.py --full > econ_log.txt 2>&1 || true
+          for f in probe_out docs/econ.js data/econ.json econ_log.txt; do [ -e "$f" ] && git add -A "$f"; done
           git commit -q -m "probe output" || echo "nothing"
           git push -q || echo "push failed"
