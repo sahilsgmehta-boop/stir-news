@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T18:52:01Z",
+ "built": "2026-11-13T19:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
@@ -71,8 +71,8 @@
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
-    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Price inflation measured by the Cleveland Fed's median PCE index",
+    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
@@ -82,13 +82,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 66,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Boston Fed president warns housing costs may have to worsen before they improve",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 15,
+   "fetched": 47,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -147,7 +147,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -338,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
