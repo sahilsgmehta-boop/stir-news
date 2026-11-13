@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T00:07:00Z",
+ "built": "2026-11-13T00:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 1,
+   "kept": 58,
+   "added": 2,
    "error": "",
    "near_misses": [
     "FRED Adds Median Inflation Data from the Cleveland Fed",
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
-   "added": 4,
+   "kept": 67,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -100,21 +100,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 14,
+   "fetched": 51,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
+    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
+    "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
-    "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -123,13 +123,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "ECB Considers Possible Delay in Digital Euro Launch",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
@@ -141,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 5,
+   "fetched": 26,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -153,9 +154,9 @@
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
-    "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss"
+    "Overvaluing AI stocks may cause \u2018bubble\u2019 to burst, warns Bank of England boss",
+    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says"
    ]
   },
   {

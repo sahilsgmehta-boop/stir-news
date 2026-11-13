@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-13T00:07:05Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
+"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0ktdHhrQ0UzdGNJbWJNcnlTYW9HbWxvUmoyMkFydUxpMGR2TmZxd2FCT1hEbmp2S2o2VVBaWlJ3Y3FJRVd2RUQ0dTNydGhsOFVldWFtNjlIT3lJME1mbVFDZHlhQUVHUHlEc3YzcEpPQTlHQV9Lbkg4a21STEJyMlVtcWRaeWdsSlAyRjAzX01LLUswTFYtNG1qNXloUTZTZG1vYXNwVlZudUhtaEZySnNCSHp2Y3I5ZzZWeXliYVNGaGg4ODZjNDRZQ0Q?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "62bc9e202cce",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T00:05:00Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed’s Williams Says Inflation ‘Far Too High,’ Still Work to Do",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmwxOGI1cll5UUxfWkNqVEVhOEtfWGZaY1phLWdBdzBDVUhzMWJseXBPdTFsU3dQZW5HRlgzbWo2dEx1cWIxMnpjVjdFV1ZvTzJ5UXZDd1RRcFJyUEcyV2pqWndGc21aQ3JJMUtJeHFCM1JsNFg2eklQTkMtLXZacTFqZnhGaFdpTm1jc3p0cEF2aFNRTVJxckJCTy1MaFRnVGw0MUNiNm5qQ1lCRlRj?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9ce261016a10",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T00:00:00Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -525,7 +565,8 @@
 "also": [
 "Investing.com",
 "Reuters",
-"marketscreener.com"
+"marketscreener.com",
+"Westlaw Today"
 ],
 "desc": "",
 "id": "ab874f286c8c",
@@ -953,7 +994,8 @@
 "tone": "hawk",
 "also": [
 "marketscreener.com",
-"Yahoo! Finance Canada"
+"Yahoo! Finance Canada",
+"Bloomberg Law News"
 ],
 "desc": "",
 "id": "3440032d8f32",
