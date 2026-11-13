@@ -491,7 +491,8 @@
 "also": [
 "StreetInsider",
 "Yahoo Finance Singapore",
-"Investing.com Nigeria"
+"Investing.com Nigeria",
+"Investing.com India"
 ],
 "desc": "",
 "id": "fd894efd087e",
@@ -1227,7 +1228,9 @@
 "src": "WSJ",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"marketscreener.com"
+],
 "desc": "",
 "id": "9b1cd775d6aa",
 "score": 4,
@@ -2490,7 +2493,8 @@
 "Investing.com India",
 "Investing.com UK",
 "Investing.com South Africa",
-"www.tmgm.com"
+"www.tmgm.com",
+"Investing.com Nigeria"
 ],
 "desc": "",
 "id": "945e40775b10",
