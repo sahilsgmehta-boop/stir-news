@@ -186,6 +186,23 @@ def estat(dataset, **dims):
     return out
 
 
+def estat_ea(dataset, **dims):
+    """the euro-area aggregate under whichever code carries the newest data: the fixed-membership codes stop
+    when a country joins (EA20 ended with 2025), and not every table has every code"""
+    best, err = None, None
+    for geo in ("EA", "EA21", "EA20"):
+        try:
+            s = estat(dataset, geo=geo, **dims)
+        except Exception as e:
+            err = e
+            continue
+        if s and (best is None or max(s) > max(best)):
+            best = s
+    if best is None:
+        raise err or RuntimeError("Eurostat %s: no euro-area series" % dataset)
+    return best
+
+
 def ecb(key):
     flow, k = key.split("/", 1)
     t = get("https://data-api.ecb.europa.eu/service/data/%s/%s?format=csvdata&startPeriod=%d-01" % (flow, k, Y0), accept="text/csv")
@@ -310,8 +327,6 @@ def boc_ces(*want):
     """Bank of Canada consumer expectations (quarterly): the series whose label has every word in want"""
     d = once("boc:CES_C1", lambda: json.loads(get("https://www.bankofcanada.ca/valet/observations/group/CES_C1/json")))
     det = d.get("seriesDetail", {})
-    if "boc" not in health:
-        health["boc"] = {k: v.get("label") for k, v in det.items()}
     pick = [k for k, v in det.items() if all(w.lower() in (str(v.get("label", "")) + " " + k).lower() for w in want)]
     if not pick:
         raise RuntimeError("BoC CES_C1: no series matching " + "/".join(want))
@@ -352,10 +367,10 @@ INDICATORS = [
     ["core3m", "Core, 3m annualised", "inf"], ["pce", "PCE prices", "inf"], ["corepce", "Core PCE prices", "inf"],
     ["median", "CPI-median", "inf"],
     ["unemp", "Unemployment rate", "lab"], ["jobs", "Jobs, monthly change", "lab"], ["wages", "Wage growth", "lab"],
-    ["wages2", "Wage growth, total pay", "lab"],
+    ["wages2", "Wage growth, second measure", "lab"],
     ["gdp_q", "GDP, quarter on quarter", "gro"], ["gdp_y", "GDP, year on year", "gro"], ["gdp_saar", "GDP, annualised", "gro"],
     ["gdp_m", "Monthly GDP", "gro"], ["retail", "Retail sales volume", "gro"], ["ip", "Industrial production", "gro"],
-    ["conf", "Consumer confidence", "exp"], ["sent", "Michigan sentiment", "exp"],
+    ["conf", "Consumer confidence", "exp"],
     ["infexp1", "Inflation expected, 1 year", "exp"], ["infexp5", "Inflation expected, 5 years", "exp"],
 ]
 S = []
@@ -366,7 +381,8 @@ def add(c, k, name, unit, src, fn, dp=1, hint=""):
 
 
 # United States
-add("US", "cpi", "CPI", "% y/y", "BLS", lambda: yoy(bls("CUUR0000SA0")))
+add("US", "cpi", "CPI", "% y/y", "BLS", lambda: yoy(bls("CUUR0000SA0")),
+    hint="A month has no year-on-year rate when the index a year earlier was never published (October 2025, the shutdown)")
 add("US", "core", "Core CPI (ex food & energy)", "% y/y", "BLS", lambda: yoy(bls("CUUR0000SA0L1E")))
 add("US", "svc", "Services ex energy services", "% y/y", "BLS", lambda: yoy(bls("CUUR0000SASLE")))
 add("US", "core3m", "Core CPI, 3-month annualised", "% saar", "BLS", lambda: ann3(bls("CUSR0000SA0L1E")),
@@ -381,39 +397,44 @@ add("US", "gdp_y", "GDP", "% y/y", "OECD", lambda: oecd("US", "Q", "B1GQ_Q", "GR
 add("US", "gdp_saar", "GDP, annualised", "% q/q saar", "BEA", lambda: dbn("BEA/NIPA-T10101/A191RL-Q"))
 add("US", "retail", "Retail sales volume", "% y/y", "OECD", lambda: oecd("US", "M", "TOVM", "GR", "G47", "GY"))
 add("US", "ip", "Industrial production", "% y/y", "OECD", lambda: oecd("US", "M", "PRVM", "GR", "BTE", "GY"))
-add("US", "conf", "Consumer confidence (OECD standardised)", "balance", "OECD", lambda: oecd("US", "M", "CCICP", "PB", "_Z", "_Z"))
-add("US", "sent", "Michigan consumer sentiment", "index", "Univ. of Michigan", lambda: umich("tbmics", "ICS_ALL"))
+add("US", "conf", "Michigan consumer sentiment", "index", "Univ. of Michigan", lambda: umich("tbmics", "ICS_ALL"))
 add("US", "infexp1", "Michigan inflation expectations, 1 year", "%", "Univ. of Michigan", lambda: umich("tbmpx1px5", "PX_MD"))
 add("US", "infexp5", "Michigan inflation expectations, 5 years", "%", "Univ. of Michigan", lambda: umich("tbmpx1px5", "PX5_MD"))
 
 # Euro area
-add("EZ", "cpi", "HICP", "% y/y", "Eurostat", lambda: estat("prc_hicp_manr", geo="EA", coicop="CP00", unit="RCH_A"))
+add("EZ", "cpi", "HICP", "% y/y", "Eurostat", lambda: estat_ea("prc_hicp_manr", coicop="CP00", unit="RCH_A"))
 add("EZ", "core", "Core HICP (ex energy, food, alcohol & tobacco)", "% y/y", "Eurostat",
-    lambda: estat("prc_hicp_manr", geo="EA", coicop="TOT_X_NRG_FOOD", unit="RCH_A"))
-add("EZ", "svc", "Services HICP", "% y/y", "Eurostat", lambda: estat("prc_hicp_manr", geo="EA", coicop="SERV", unit="RCH_A"))
+    lambda: estat_ea("prc_hicp_manr", coicop="TOT_X_NRG_FOOD", unit="RCH_A"))
+add("EZ", "svc", "Services HICP", "% y/y", "Eurostat", lambda: estat_ea("prc_hicp_manr", coicop="SERV", unit="RCH_A"))
 add("EZ", "unemp", "Unemployment rate", "%", "Eurostat",
-    lambda: estat("une_rt_m", geo="EA20", s_adj="SA", age="TOTAL", sex="T", unit="PC_ACT"))
-add("EZ", "wages", "Negotiated wages", "% y/y", "ECB", lambda: ecb("STS/Q.U2.N.INWR.000000.3.ANR"))
+    lambda: first(lambda: estat_ea("une_rt_m", s_adj="SA", age="TOTAL", sex="T", unit="PC_ACT"),
+                  lambda: estat_ea("une_rt_m", s_adj="SA", age="Y15-74", sex="T", unit="PC_ACT")))
+add("EZ", "wages", "Labour cost index, wages & salaries", "% y/y", "Eurostat",
+    lambda: estat_ea("lc_lci_r2_q", s_adj="CA", unit="PCH_SM", nace_r2="B-S", lcstruct="D11"),
+    hint="Hourly wages and salaries, business economy and public services, calendar adjusted")
+add("EZ", "wages2", "Negotiated wages", "% y/y", "ECB", lambda: ecb("STS/Q.U2.N.INWR.000000.3.ANR"),
+    hint="The ECB's indicator of collectively agreed pay")
 add("EZ", "gdp_q", "GDP", "% q/q", "Eurostat", lambda: first(
-    lambda: estat("namq_10_gdp", geo="EA20", s_adj="SCA", na_item="B1GQ", unit="CLV_PCH_PRE"),
+    lambda: estat_ea("namq_10_gdp", s_adj="SCA", na_item="B1GQ", unit="CLV_PCH_PRE"),
     lambda: oecd("EZ", "Q", "B1GQ_Q", "GR", "_T", "G1")), dp=2)
 add("EZ", "gdp_y", "GDP", "% y/y", "Eurostat", lambda: first(
-    lambda: estat("namq_10_gdp", geo="EA20", s_adj="SCA", na_item="B1GQ", unit="CLV_PCH_SM"),
+    lambda: estat_ea("namq_10_gdp", s_adj="SCA", na_item="B1GQ", unit="CLV_PCH_SM"),
     lambda: oecd("EZ", "Q", "B1GQ_Q", "GR", "_T", "GY")))
 add("EZ", "retail", "Retail sales volume", "% y/y", "OECD", lambda: oecd("EZ", "M", "TOVM", "GR", "G47", "GY"))
 add("EZ", "ip", "Industrial production", "% y/y", "OECD", lambda: oecd("EZ", "M", "PRVM", "GR", "BTE", "GY"))
 add("EZ", "conf", "Consumer confidence (European Commission)", "balance", "Eurostat", lambda: first(
-    lambda: estat("ei_bsco_m", geo="EA20", indic="BS-CSMCI", s_adj="SA", unit="BAL"),
+    lambda: estat_ea("ei_bsco_m", indic="BS-CSMCI", s_adj="SA", unit="BAL"),
     lambda: oecd("EZ", "M", "CCICP", "PB", "_Z", "_Z")))
 add("EZ", "infexp1", "Consumers expecting prices to rise, next 12 months", "balance", "Eurostat",
-    lambda: estat("ei_bsco_m", geo="EA20", indic="BS-PT-NY", s_adj="SA", unit="BAL"),
+    lambda: estat_ea("ei_bsco_m", indic="BS-PT-NY", s_adj="SA", unit="BAL"),
     hint="European Commission consumer survey: a balance of answers, not a percentage rate")
 
 # United Kingdom
 add("UK", "cpi", "CPI", "% y/y", "ONS", lambda: ons("D7G7"))
 add("UK", "core", "Core CPI (ex energy, food, alcohol & tobacco)", "% y/y", "ONS", lambda: ons("DKO8"))
 add("UK", "svc", "Services CPI", "% y/y", "ONS", lambda: ons("D7NN"))
-add("UK", "unemp", "Unemployment rate (3-month)", "%", "ONS", lambda: ons("MGSX"))
+add("UK", "unemp", "Unemployment rate (3-month)", "%", "ONS", lambda: ons("MGSX"),
+    hint="Three-month averages are dated by their middle month, as the ONS does")
 add("UK", "wages", "Average weekly earnings, regular pay (3m y/y)", "% y/y", "ONS", lambda: ons("KAI9"))
 add("UK", "wages2", "Average weekly earnings, total pay (3m y/y)", "% y/y", "ONS", lambda: ons("KAC3"))
 add("UK", "gdp_q", "GDP", "% q/q", "ONS", lambda: first(lambda: ons("IHYQ"), lambda: oecd("UK", "Q", "B1GQ_Q", "GR", "_T", "G1")), dp=2)
