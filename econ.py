@@ -7,8 +7,8 @@ need no key:
   US           BLS public API (CPI, unemployment, payrolls, hourly earnings),
                BEA tables through DBnomics (PCE prices, GDP), University of
                Michigan (sentiment, inflation expectations)
-  Euro area    Eurostat (HICP, unemployment, GDP, consumer survey), ECB
-               (negotiated wages)
+  Euro area    Eurostat (HICP from the 2026 table prc_hicp_minr, unemployment,
+               GDP, labour costs, consumer survey), ECB (negotiated wages)
   UK           ONS (CPI, unemployment, average weekly earnings, GDP)
   Canada       Statistics Canada (CPI and the Bank's core measures, labour
                force, GDP), Bank of Canada Valet (consumer expectations)
@@ -402,10 +402,10 @@ add("US", "infexp1", "Michigan inflation expectations, 1 year", "%", "Univ. of M
 add("US", "infexp5", "Michigan inflation expectations, 5 years", "%", "Univ. of Michigan", lambda: umich("tbmpx1px5", "PX5_MD"))
 
 # Euro area
-add("EZ", "cpi", "HICP", "% y/y", "Eurostat", lambda: estat_ea("prc_hicp_manr", coicop="CP00", unit="RCH_A"))
+add("EZ", "cpi", "HICP", "% y/y", "Eurostat", lambda: estat_ea("prc_hicp_minr", coicop18="TOTAL", unit="RCH_A"))
 add("EZ", "core", "Core HICP (ex energy, food, alcohol & tobacco)", "% y/y", "Eurostat",
-    lambda: estat_ea("prc_hicp_manr", coicop="TOT_X_NRG_FOOD", unit="RCH_A"))
-add("EZ", "svc", "Services HICP", "% y/y", "Eurostat", lambda: estat_ea("prc_hicp_manr", coicop="SERV", unit="RCH_A"))
+    lambda: estat_ea("prc_hicp_minr", coicop18="TOT_X_NRG_FOOD", unit="RCH_A"))
+add("EZ", "svc", "Services HICP", "% y/y", "Eurostat", lambda: estat_ea("prc_hicp_minr", coicop18="SERV", unit="RCH_A"))
 add("EZ", "unemp", "Unemployment rate", "%", "Eurostat",
     lambda: first(lambda: estat_ea("une_rt_m", s_adj="SA", age="TOTAL", sex="T", unit="PC_ACT"),
                   lambda: estat_ea("une_rt_m", s_adj="SA", age="Y15-74", sex="T", unit="PC_ACT")))
