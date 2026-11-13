@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T19:07:00Z",
+ "built": "2026-11-13T19:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,17 +61,17 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 0,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
+    "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
-    "Price inflation measured by the Cleveland Fed's median PCE index",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 68,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -93,9 +93,9 @@
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 46,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -136,7 +136,6 @@
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
-    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
     "AI accounts for quarter of euro zone credit growth, ECB says"
@@ -171,8 +170,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada says more rate hikes could be coming: report",
     "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
+    "Bank of Canada says more rate hikes could be coming: report",
     "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
    ]
@@ -338,7 +337,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
