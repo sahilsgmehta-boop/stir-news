@@ -1,6 +1,66 @@
 {
 "items": [
 {
+"t": "2026-11-13T14:09:34Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Watch CNBC's full interview with Chicago Fed President Austan Goolsbee",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEpmVkNzRm9MT3VjZ0pjRENPaFZiOENublFacXV2djltc2QzN1ZDMWhtWldUdVJacWhJTER0RndJWllEX2VxTUNQX0NMR2FFV3ZhVkxZT2NqeWtoam9wRlNLQWNHdnd3VlZqZkRsbzFNRWZOTkp4SUd5eklJdWNrMnE2TWo2SzdFMXB5SE95VEFvWE1saTFMd19zTXl0cGk4UFk2S1h3OHpTNFNnNkZlWi1R?oc=5",
+"src": "CNBC",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a989a0cd4df1",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T14:07:33Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Wage growth is not a leading indicator of inflation: Fed's Goolsbee",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYngyU09wenJaakJmdzF1YnlPdEJ6LUNmczhuaEVIc1JBWVM4T3pWcVpMcVNVeWJzcWc0Q3E1ZUNRdG9WMzgyUFdSMmZYX2hCQ2YtLUpqY0pSUHZlaTRVT1REeXR5cXNwUTBfZ0lMYkt5dmo0WlFmQ1NVV2ZhYll6V1hsT01iWF9feDFSUkIwdlc5YXFTcmNYbGRwSzR2Z0MyRld4ZnZoN0t5RG1z?oc=5",
+"src": "CNBC",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4311992497f0",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T13:59:19Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Goolsbee Says Fed Must Reestablish Its Inflation Credibility",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkdUNWlhMGFRZG5rd2ZNZE1SUHgyYl9YUTZRbWZRYkFfNkc3ZWJxeEVuOW5VOGdjUFFOb191N3VYLUhvOTBtRHZYVS0wa0FwdXFzZnFPVmI3X3I3bE1sVlp6RS1Jdm5vRW4tcndnSl9IQ0FQUGd0ODhHRkpUMlB0akJ0akZpZTNNdlZXdk8wREY3bHZRTzdfcFFLQjRsancxWHBvSlNRZTdKaFNhMmQyOQ?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4d663ff4f903",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T12:56:15Z",
 "bank": "BoE",
 "speaker": "Bailey",
@@ -811,9 +871,11 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Breakingthenews.net"
+"Breakingthenews.net",
+"investingLive central banks",
+"investingLive"
 ],
-"desc": "",
+"desc": "Inflation has spread into categories where prices not driven by energy The jobs market looks stable, if not tightening a bit Rates will eventually go well-below today We have had signs of trouble for several months in a row now Lately we’re not making any progress and if anything, it’s going the wrong way Inflation is rising and proving far more persistent than expected when it was just a matter of supply shocks The Fed \"definitely has work to do\" to maintain its credibility Services inflation and rising health care costs don't feel like they will change quickly Even if the price of oil goes d",
 "id": "e77bfc03aeb7",
 "score": 4,
 "read": "Says inflation keeps going the wrong way, supporting further hikes.",
@@ -834,7 +896,8 @@
 "tone": "hawk",
 "also": [
 "investingLive",
-"Breakingthenews.net"
+"Breakingthenews.net",
+"Investing.com"
 ],
 "desc": "AI investment looks like a form of stimulus Worth being 'sober minded' about inflation an Fed response Fed is failing on the inflation side of its mandate Does not want to prejudice what happens with monetary policy Plenty of room for the Fed to discuss policy options The market is pricing in 87 bps of hikes in the year ahead. That first line is the one that matters. Stimulus is a demand word. For two years the Fed’s framing on AI was about supply: productivity, capacity, a disinflationary tailwind somewhere down the road. Goolsbee is now describing it the way you’d describe a fiscal package. ",
 "id": "c640e050efa3",
