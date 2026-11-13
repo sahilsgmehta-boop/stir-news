@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T15:22:00Z",
+ "built": "2026-11-13T15:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,19 +61,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 62,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Boston Fed president says curbing inflation is worth the hit to housing",
     "Chicago Fed chief said inflation is still moving in the wrong direction",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Price inflation measured by the Cleveland Fed's median PCE index",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
-    "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "The Fed's inflation dilemma: Wait for oil relief or raise rates?"
    ]
   },
   {
@@ -82,11 +82,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 62,
    "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "Boston Fed president says curbing inflation is worth the hit to housing",
     "Chicago Fed chief said inflation is still moving in the wrong direction",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
@@ -94,8 +95,7 @@
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Chicago Fed chief calls October inflation 'borderline disturbing'",
-    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs"
+    "Chicago Fed chief calls October inflation 'borderline disturbing'"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 45,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -114,10 +114,10 @@
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
+    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push"
    ]
   },
   {
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 22,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -134,11 +134,12 @@
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
-    "AI accounts for quarter of euro zone credit growth, ECB says",
-    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
+    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target",
+    "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
   },
   {
@@ -147,15 +148,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 19,
-   "kept": 7,
-   "added": 0,
+   "kept": 8,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England Likely to Delay Next Rate Hike Until February: Poll",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
@@ -166,14 +166,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
-    "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada says more rate hikes could be coming: report",
+    "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada weighed two paths before raising rates to 2.5%",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
     "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
