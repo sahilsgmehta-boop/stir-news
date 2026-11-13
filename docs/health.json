@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T01:07:00Z",
+ "built": "2026-11-13T01:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,8 +67,8 @@
     "The Fed's December Decision Just Got a Lot Messier",
     "Analysis | Fed chair needs friends in Congress as inflation fight drags on",
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
-    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
    ]
@@ -80,7 +80,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 3,
+   "added": 2,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -91,8 +91,8 @@
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Top Federal Reserve official considers largest rate rise since 2022",
-    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
    ]
   },
   {
@@ -143,7 +143,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 27,
-   "kept": 6,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
