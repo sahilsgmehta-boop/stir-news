@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T09:37:00Z",
+ "built": "2026-11-13T09:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 65,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -96,7 +96,7 @@
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Top Federal Reserve official considers largest rate rise since 2022",
     "Inflation rises faster than expected, boosting odds of Fed rate hike",
-    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens"
    ]
   },
   {
@@ -113,10 +113,10 @@
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
+    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
    ]
@@ -132,11 +132,11 @@
    "error": "",
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
-    "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB Warns Legislative Delays Could Push Back Digital Euro Launch",
     "ECB warns delays could postpone digital euro launch",
+    "AI accounts for quarter of euro zone credit growth, ECB says",
     "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
    ]
   },
@@ -192,6 +192,7 @@
    "error": "",
    "near_misses": [
     "SNB sees no signs of a credit crunch",
+    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
     "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
