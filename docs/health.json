@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T22:52:00Z",
+ "built": "2026-11-13T23:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -71,10 +71,10 @@
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
-    "Price inflation measured by the Cleveland Fed's median PCE index",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle"
+    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
+    "Fed chair discloses wife's transactions in pet-care investments"
    ]
   },
   {
@@ -88,15 +88,15 @@
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh"
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening"
    ]
   },
   {
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 51,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -113,11 +113,11 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says"
    ]
   },
@@ -126,12 +126,11 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 24,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
@@ -185,7 +184,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -341,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
