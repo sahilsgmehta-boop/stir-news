@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T16:37:00Z",
+ "built": "2026-11-13T16:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 70,
-   "added": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
-   "added": 0,
+   "kept": 68,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -104,20 +104,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 46,
-   "kept": 12,
-   "added": 0,
+   "kept": 13,
+   "added": 1,
    "error": "",
    "near_misses": [
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
-    "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations"
+    "EU sets Nov 18 deadline for candidates for ECB chief economist and head of market operations",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -138,8 +138,8 @@
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch",
-    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target",
-    "AI accounts for quarter of euro zone credit growth, ECB says"
+    "AI accounts for quarter of euro zone credit growth, ECB says",
+    "ECB Warns Digital Euro Launch Could Be Delayed Beyond 2029 Target"
    ]
   },
   {
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }

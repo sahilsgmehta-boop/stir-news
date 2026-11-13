@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-13T16:42:00Z",
+"bank": "Fed",
+"speaker": "Microphone",
+"hl": "Kevin Warsh Is Giving Marc Andreessen the Fed's Microphone Before December's Rate Decision",
+"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ2dSemJfM05WZlZ2YmxpTU9XR2NJQzI2MkZPdlVxRlprdUQwYzN0RVptXzRQNEtBa0tMb1JReEx0TEVSY0NOVXJmQWE0X3NNc2U0NjBDd2hLdy0wTlVGa1BlSl84ckZoSmhhT2V2WEV5aFAxRld2WXFPWDFPRlNwZUt0a1JlUHJYMXBzQk0wVGVIbmNHaUtiSjZHRFV6VUNWWjduRkhNaGRvUlpLdUgtcDRLRlBLd0ZveXoyTmVlUlRPNXNvcTd4YUdGSWI?oc=5",
+"src": "24/7 Wall St.",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "8ab9d1c2f84d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T16:34:41Z",
 "bank": "Fed",
 "speaker": "Collins",
@@ -9,7 +29,9 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "699121b125f9",
 "score": null,
@@ -49,9 +71,31 @@
 "src": "Investing.com Nigeria",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "b216f15f3378",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-13T16:32:05Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "Nagel Says ‘Highly Probable’ That ECB Will Have to Act Again",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXV3T3JoeEp1ODZaWV9DT1lKUk1uRVhwbS1kNnZuQllWczFtdEkwOWR4ajRfZUJuOWRhUFJBVWNrT3M5alhFQ2hIb1JZVFExYWNKQ1lxdDl5bVhYOXBiVnFVYUwyOG5GVUktU3p0NXg5Z1NVUGpURXY1dGdQWjE0cmJ3N3ZnLTIxbjIxbjZlZ3ZKUGpVYWhRV1Nid2RPNnNBZW1udU1WVmJ6dTdQd1E?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fdfb3710c11d",
 "score": null,
 "read": "",
 "sum": "",
@@ -90,7 +134,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"StreetInsider"
+"StreetInsider",
+"Yahoo Finance Singapore"
 ],
 "desc": "",
 "id": "fd894efd087e",
@@ -239,7 +284,8 @@
 "also": [
 "Lexington Herald Leader",
 "The Mighty 790 KFGO",
-"Fresno Bee"
+"Fresno Bee",
+"Reuters"
 ],
 "desc": "",
 "id": "00f02bdb31e0",
@@ -17352,28 +17398,6 @@
 "id": "cf3e21cd301b",
 "score": null,
 "read": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-09-29T16:40:00Z",
-"bank": "Fed",
-"speaker": "Barr",
-"hl": "Barr, Economic Conditions and Monetary Policy",
-"url": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
-"src": "Federal Reserve speeches",
-"tier": "official",
-"tone": "",
-"also": [
-"BIS central bankers' speeches"
-],
-"id": "96198714a74b",
-"score": null,
-"read": "",
-"desc": "",
 "sum": "",
 "pts": [],
 "rr": "",
