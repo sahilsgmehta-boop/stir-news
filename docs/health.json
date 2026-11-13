@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T00:52:00Z",
+ "built": "2026-11-13T01:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 15,
+   "kept": 14,
    "added": 0,
    "error": ""
   },
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -79,12 +79,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 2,
+   "kept": 70,
+   "added": 3,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
@@ -92,7 +91,8 @@
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Top Federal Reserve official considers largest rate rise since 2022",
-    "Inflation rises faster than expected, boosting odds of Fed rate hike"
+    "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Inflation remained elevated in October, cementing a Fed rate increase"
    ]
   },
   {
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 5,
+   "fetched": 27,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
