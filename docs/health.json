@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T06:37:00Z",
+ "built": "2026-11-13T06:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -72,7 +72,7 @@
     "Wall Street Just Called the Fed's October Hold a Mistake. Here's Warren Buffett's 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 ",
     "Inflation, Labor Costs, and the Fed\u2019s Inflation Fight",
     "Fed chair discloses wife's transactions in pet-care investments",
-    "Lenders in Europe and Latin America Report Results as a Fed Governor Leans Toward a Hike"
+    "Inflation Warning: What the Fed\u2019s Next Move Means for Your Money"
    ]
   },
   {
@@ -81,8 +81,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
-   "added": 1,
+   "kept": 66,
+   "added": 0,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -104,7 +104,7 @@
    "ok": true,
    "fetched": 49,
    "kept": 15,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
@@ -142,7 +142,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -152,7 +152,6 @@
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
     "Bank of England under fire: Inflation could remain above 2 percent until 2030",
     "Warning for millions of borrowers that Bank of England rates could hit 5%",
     "Bank of England under pressure as inflation expected to remain high until 2030",
@@ -211,7 +210,8 @@
     "The two pragmatists leading the race to run the ECB",
     "Strong US inflation and growth will keep Fed on a tightening path",
     "The ECB needs a smooth transmission and a smooth transition",
-    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation"
+    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
+    "BoE to kick off short and precautionary tightening cycle in November"
    ]
   },
   {
