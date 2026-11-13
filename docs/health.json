@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T05:22:00Z",
+ "built": "2026-11-13T05:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -86,14 +86,14 @@
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
-    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
     "Inflation remained elevated in October, cementing a Fed rate increase"
    ]
   },
@@ -102,8 +102,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
-   "kept": 15,
+   "fetched": 50,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -144,13 +144,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
-    "Andrew Bailey\u2019s Bank of England Will Have to Grapple With Crude Economics",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
@@ -193,8 +192,7 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
    ]
   },
   {
