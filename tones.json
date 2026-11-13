@@ -6286,6 +6286,145 @@
    "read": "Not a policy remark.",
    "at": "2026-11-12T20:55:28Z",
    "by": "claude"
+  },
+  "9ce261016a10": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Voter Williams says inflation far too high and more work to do; backs steady hikes, not 50bp.",
+   "sum": "Williams said inflation is far too high and the Fed still has work to do to get policy to the right place, favouring steady tightening over time.",
+   "pts": [
+    "Inflation remains far too high and too elevated relative to the 2% goal.",
+    "The Fed still has work to do to get monetary policy to the right place.",
+    "Emphasised acting over time with a steady, data-led approach rather than urgency.",
+    "AI investment can respond to changes in interest rates.",
+    "Evidence points to a K-shaped economy."
+   ],
+   "rr": "From the dovish-leaning vice chair, this backs the hike priced for December and further tightening into 2027, but the steady-pace framing caps bets on a 50bp December move. Only news paraphrases were available.",
+   "ev": "Panel, UC Berkeley Alumni Salon (New York)",
+   "basis": "reports",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "62bc9e202cce": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says the Fed has work to do to get inflation back to target; backs more tightening.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "3ae327725a96": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says inflation remains too elevated; supports further tightening.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "b53a440e9058": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Notes AI investment responds to rates and a K-shaped economy; descriptive.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "9b1cd775d6aa": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says work remains to get policy to the right place, implying more hikes.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "87eecd85b170": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Reported as signalling more rate hikes as inflation stays persistent.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "3d4d7d35b6c4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "8d4799babd7c": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says the economy is being driven by a technology boom; descriptive.",
+   "lead": "2bcf3557dbf5",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "f85081002ea5": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Says the Fed has time to calibrate hikes; leans against urgency or a 50bp move.",
+   "lead": "2bcf3557dbf5",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "d3d6b9d5556a": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Reported as saying more tightening is likely with core inflation elevated.",
+   "lead": "2bcf3557dbf5",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "c726a8b2b0e3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on AI and inequality with no comment on monetary policy or the outlook.",
+   "sum": "Barr warned AI could widen US inequality by concentrating returns in a few firms and capital, and urged preparation now; no monetary policy content.",
+   "pts": [
+    "Labor share has fallen since 2001 and hit a record low of 52.8% in Q2 2026.",
+    "AI displacement so far is limited, but there are early signs of substitution for younger, less-experienced workers.",
+    "Data, compute and scale could favour a few 'superstar' firms capturing most returns.",
+    "Immense AI capital investment raises the risk of capital-biased innovation.",
+    "Society should prepare for possible serious short-term labor disruption: job creation, training, reconnecting workers.",
+    "In Q&A (per reports) he said AI's impact so far is mostly on prices, while boosting investment and GDP."
+   ],
+   "rr": "No direct read for December or 2027 pricing; the speech avoids the outlook. The Q&A remark that AI is mostly showing up in prices leans marginally hawkish but does not change the priced hike path.",
+   "ev": "Speech, Yale University (New Haven)",
+   "basis": "verbatim",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "6264b8832f76": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural warning on AI concentration and inequality; no rates content.",
+   "lead": "c726a8b2b0e3",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "6763f3043ccb": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Consumer recap of Waller floating a 50bp hike after hot CPI; old news, still hawkish.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
+  },
+  "b2e2a80efe70": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Climate transition remarks with no comment on rates or the outlook.",
+   "sum": "Sleijpen argued that failing to act on climate change would cost far more than the transition itself; no monetary policy signal.",
+   "pts": [
+    "Climate inaction is far costlier than the cost of the transition.",
+    "No comment reported on inflation, rates or the December ECB decision."
+   ],
+   "rr": "No read for ECB December or 2027 pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-13T06:50:39Z",
+   "by": "claude"
   }
  }
 }
