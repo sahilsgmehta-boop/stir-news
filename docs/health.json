@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T21:22:01Z",
+ "built": "2026-11-13T21:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -73,8 +73,8 @@
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
     "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year"
+    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -104,11 +104,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 49,
    "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
@@ -117,8 +118,7 @@
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -132,8 +132,8 @@
    "error": "",
    "near_misses": [
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
@@ -148,16 +148,16 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
-   "kept": 7,
+   "fetched": 16,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
+    "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
