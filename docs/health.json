@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T06:52:01Z",
+ "built": "2026-11-13T07:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -81,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 65,
    "added": 0,
    "error": "",
    "near_misses": [
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed to skip rate vote at October 2027 meeting under Warsh plan",
     "Latest inflation reading 'borderline disturbing' says Fed official, suggesting hikes ahead",
     "Fed officials open door to a quicker round of rate hikes as inflation worsens",
     "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
-    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs",
-    "Inflation remained elevated in October, cementing a Fed rate increase"
+    "Federal Reserve Warns AI Infrastructure Boom Is Driving Up Housing Construction and Financing Costs"
    ]
   },
   {
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 7,
+   "fetched": 21,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -183,7 +183,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -210,8 +210,7 @@
     "The two pragmatists leading the race to run the ECB",
     "Strong US inflation and growth will keep Fed on a tightening path",
     "The ECB needs a smooth transmission and a smooth transition",
-    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
-    "BoE to kick off short and precautionary tightening cycle in November"
+    "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation"
    ]
   },
   {
