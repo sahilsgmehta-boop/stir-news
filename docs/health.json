@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T13:22:00Z",
+ "built": "2026-11-13T13:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -132,6 +132,7 @@
    "near_misses": [
     "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Digital Euro Not Delayed by Lagarde Exit, ECB Says at Web Summit - News and Statistics",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
@@ -299,7 +300,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 9,
-   "added": 1,
+   "added": 2,
    "error": ""
   },
   {
