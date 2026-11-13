@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T04:40:16Z",
+ "built": "2026-11-13T04:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,7 +80,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 66,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
@@ -100,21 +100,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 50,
    "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
+    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Opinion: France needs a political saviour. Could Christine Lagarde be it?",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports"
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "German Economy on the Mend Though Reforms Needed, Nagel Says"
    ]
   },
   {
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 6,
+   "fetched": 24,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -191,7 +191,8 @@
    "near_misses": [
     "SNB sees no signs of a credit crunch",
     "Swiss Franc declines amid divergent Fed-SNB rate outlooks",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
   },
   {
