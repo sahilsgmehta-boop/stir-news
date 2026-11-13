@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T22:37:00Z",
+ "built": "2026-11-13T22:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 70,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -71,10 +71,10 @@
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
+    "Price inflation measured by the Cleveland Fed's median PCE index",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "Indian Rupee falls further amid fears of Fed's aggressive tightening cycle"
    ]
   },
   {
@@ -83,8 +83,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 2,
+   "kept": 67,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -92,11 +92,11 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates"
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh"
    ]
   },
   {
@@ -133,8 +133,8 @@
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
