@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T14:22:01Z",
+ "built": "2026-11-13T14:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 2,
+   "kept": 62,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
@@ -82,11 +82,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
-   "added": 4,
+   "kept": 66,
+   "added": 3,
    "error": "",
    "near_misses": [
-    "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief.",
+    "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -103,11 +103,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
-   "kept": 15,
+   "fetched": 45,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
+    "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
     "Lagarde would equal any other centrist in Elys\u00e9e run, poll shows",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
@@ -115,9 +117,7 @@
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
-    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
-    "Opinion: France needs a political saviour. Could Christine Lagarde be it?"
+    "ECB Representative Says Lagarde Exit Won\u2019t Delay Digital Euro, First Issuance Aims for 2029: 15 outlets compared"
    ]
   },
   {
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 22,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -146,17 +146,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 17,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+    "Bank of England Likely to Delay Next Rate Hike Until February: Poll",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England raises rates for first time since 2023, says more may come",
-    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%"
+    "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
   },
   {
@@ -171,9 +172,9 @@
    "near_misses": [
     "Bank of Canada weighed two paths before raising rates to 2.5%",
     "BlackRock, Scotiabank economists are seen as contenders to run Bank of Canada",
-    "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
-    "Bank of Canada says more rate hikes could be coming: report",
     "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders",
+    "Bank of Canada says more rate hikes could be coming: report",
+    "Who will succeed Tiff Macklem? 6 prominent names nominated to lead the Bank of Canada",
     "Bank of Canada Council Says Policy Can Curb Energy Price Spillover"
    ]
   },
@@ -182,12 +183,11 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "SNB sees no signs of a credit crunch",
     "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
     "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?",
     "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
