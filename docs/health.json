@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T12:52:00Z",
+ "built": "2026-11-14T13:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,10 +66,10 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
@@ -82,18 +82,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
-    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
+    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
+    "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh"
    ]
@@ -112,9 +112,9 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down"
@@ -131,12 +131,12 @@
    "error": "",
    "near_misses": [
     "Germany Readies Candidates for ECB Top Posts",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
+    "Germany, France in 'intensive' talks on new ECB chief",
+    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor",
     "AI accounts for quarter of euro zone credit growth, ECB says",
     "France signals support for Spain's Pablo Hern\u00e1ndez de Cos to succeed Lagarde at ECB"
@@ -147,9 +147,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 9,
-   "added": 0,
+   "fetched": 21,
+   "kept": 10,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England economist says",
@@ -167,7 +167,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -331,7 +331,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }

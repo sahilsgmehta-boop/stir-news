@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-14T13:04:11Z",
+"bank": "BoE",
+"speaker": "Greene",
+"hl": "BoE’s Greene says acting proactively now on inflation would ‘screw’ things up the least",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlo4SF9QNFVlMjJtZGVNLW5BSGNTekJodnF0NUpjVDUxbWVEZ0YwNUs5VXdmMEJYRFRlTTg1cjhDdWgyQlZfWXhHT1k1b2lsV3VRM25CM2hpeGRTTHNtVzM0STJHQ25vTFNrVlowT0wwRVd0MG9xMmpvZzJOTlFmSEFxRGtyNm9TMnh3NnJWQkxabDNjeVJtZDJSZk5NYWVTOGtTSUhnbFZhREhLTEFaLWgzY1plVGxlTC1Z?oc=5",
+"src": "WNWN-FM",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9f2659edc04e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-14T12:21:32Z",
 "bank": "BoE",
 "speaker": "Pill",
@@ -829,7 +849,9 @@
 "src": "finchannel",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Yahoo Finance Singapore"
+],
 "desc": "",
 "id": "90bfd195a2a6",
 "score": 3,
