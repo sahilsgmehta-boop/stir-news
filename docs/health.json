@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T07:07:00Z",
+ "built": "2026-11-14T07:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,8 +62,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 69,
-   "added": 2,
+   "kept": 71,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
@@ -71,11 +71,11 @@
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
-    "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "AI Tops Fed's List of Financial Stability Risks as Concern Surges"
+    "AI Tops Fed's List of Financial Stability Risks as Concern Surges",
+    "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -149,9 +149,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
-   "kept": 3,
-   "added": 0,
+   "fetched": 13,
+   "kept": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "BoE chief economist says further rate rises needed to combat inflation",
@@ -160,7 +160,6 @@
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
   },
@@ -337,7 +336,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
