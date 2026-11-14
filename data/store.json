@@ -10,7 +10,10 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"StreetInsider"
+"StreetInsider",
+"Reuters",
+"Bloomberg.com",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -909,7 +912,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Yahoo Finance Singapore"
+"Yahoo Finance Singapore",
+"Barron's"
 ],
 "desc": "",
 "id": "90bfd195a2a6",
