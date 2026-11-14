@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T02:22:01Z",
+ "built": "2026-11-14T02:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -85,7 +85,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 61,
-   "added": 3,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 48,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -127,21 +127,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 25,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Germany Readies Candidates for ECB Top Posts",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
-    "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "ECB warns delays could postpone digital euro launch",
-    "AI accounts for quarter of euro zone credit growth, ECB says"
+    "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
+    "ECB warns delays could postpone digital euro launch"
    ]
   },
   {
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
