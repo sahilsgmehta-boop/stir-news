@@ -7132,8 +7132,17 @@
    "tone": "neutral",
    "score": 0,
    "read": "Advance notice of a Nov 18 speech; no remarks yet.",
-   "at": "2026-11-14T11:55:28Z",
-   "by": "claude"
+   "at": "2026-11-14T20:49:07Z",
+   "by": "claude",
+   "sum": "Advance notice: Deputy Governor Gravelle will speak on scenario analysis and a risk-management approach to monetary policy in Edmonton on November 18.",
+   "pts": [
+    "Speech scheduled for November 18, about 12:45 ET, at the Edmonton Chamber of Commerce.",
+    "Announced topic: scenario analysis and a risk-management approach to monetary policy.",
+    "No remarks released yet; this item is the event listing."
+   ],
+   "rr": "No signal for Bank of Canada pricing until the remarks are published; the risk-management framing may matter for how the Bank weighs inflation risks. Only news paraphrases were available.",
+   "ev": "Speech, Edmonton Chamber of Commerce",
+   "basis": "reports"
   },
   "9f2659edc04e": {
    "tone": "hawk",
@@ -7174,6 +7183,45 @@
    "score": 0,
    "read": "Not a policy remark.",
    "at": "2026-11-14T15:48:50Z",
+   "by": "claude"
+  },
+  "ddef5b351c36": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Re-report of Jefferson's speech: inflation, not jobs, guides policy; no new rate signal.",
+   "lead": "9ea035670127",
+   "at": "2026-11-14T20:49:07Z",
+   "by": "claude"
+  },
+  "22b59b30f85a": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Re-report of Collins: gradual hikes best, backing tightening but not a 50bp jump.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T20:49:07Z",
+   "by": "claude"
+  },
+  "c2b496b83fbf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-14T20:49:07Z",
+   "by": "claude"
+  },
+  "6fb9ebf6fd14": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Recap: Pill sees more BoE hikes in 2027; Nagel sees another ECB hike.",
+   "lead": "1d25688c4843",
+   "at": "2026-11-14T20:49:07Z",
+   "by": "claude"
+  },
+  "124cc5f943c5": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Re-report of Williams: more hikes likely to curb persistent inflation; steady pace.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-14T20:49:07Z",
    "by": "claude"
   }
  }
