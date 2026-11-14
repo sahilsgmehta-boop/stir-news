@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T00:22:01Z",
+ "built": "2026-11-14T00:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,8 +62,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
-   "added": 3,
+   "kept": 72,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
@@ -84,8 +84,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 2,
+   "kept": 63,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 48,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -115,11 +115,11 @@
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports"
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe"
    ]
   },
   {
@@ -149,16 +149,16 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 5,
+   "fetched": 12,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
+    "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }

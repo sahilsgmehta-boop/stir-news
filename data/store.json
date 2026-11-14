@@ -31,7 +31,9 @@
 "tone": "",
 "also": [
 "www.marketscreener.com",
-"Reuters"
+"Reuters",
+"The Lufkin Daily News",
+"Investing.com"
 ],
 "desc": "",
 "id": "4ee39113b263",
@@ -835,7 +837,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"marketscreener.com"
+"marketscreener.com",
+"Bloomberg"
 ],
 "desc": "",
 "id": "5145f27f3dfa",
