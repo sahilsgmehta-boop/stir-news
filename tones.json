@@ -6503,6 +6503,372 @@
    "lead": "fa640947afb3",
    "at": "2026-11-13T11:50:54Z",
    "by": "claude"
+  },
+  "a583a98afa47": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "8ab9d1c2f84d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "4a3eb7905e70": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "419a622d32ec": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability warning on private credit; no comment on rates.",
+   "sum": "Bailey warned that interconnectedness between private credit and the wider financial system could make the sector a risk to financial stability.",
+   "pts": [
+    "Flagged private credit as a potential financial-stability risk.",
+    "Pointed to interconnectedness with banks and other lenders as the channel.",
+    "No reported comment on inflation or the Bank Rate path."
+   ],
+   "rr": "No read-across to BoE meeting pricing; a stability theme rather than a monetary policy signal. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "78a04e292f26": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says additional tightening is warranted soon as inflation broadens, outweighing housing strains.",
+   "sum": "Collins said additional policy tightening is likely warranted soon because inflation is too high and broadening, but favoured careful adjustment over a 50bp move.",
+   "pts": [
+    "Said some additional policy tightening is warranted soon and the Fed may have to raise more than expected.",
+    "Inflation is too high and appears to be broadening; recent data less promising than she hoped.",
+    "The inflation fight outweighs the strain higher rates put on housing.",
+    "Labour market appears on solid footing.",
+    "Best-case path is careful adjustment of policy; asked about 50bp she stressed careful adjustment.",
+    "Focused on the data trend rather than any single report."
+   ],
+   "rr": "Firms up the December hike and back-to-back hikes into January; her careful-adjustment framing argues against a 50bp December move. Not a voter until 2028. Only news paraphrases were available.",
+   "ev": "Remarks and Bloomberg TV interview",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "bfeb951ff69b": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says lowering inflation can strain housing but does not deter tightening.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "7ebb5512f4e9": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Thinks additional tightening is warranted soon; inflation too high and broadening.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "0927f5ee938a": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Data-focused, not over-weighting one report; no new signal by itself.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "fd894efd087e": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says more rate hikes may be needed soon.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "6e2a1ea319a2": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Inflation too high and broadening, supporting further hikes.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "b1d68ba7c4f6": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Prefers careful adjustment when asked about 50bp; supports hikes but not a jump.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "f63b2d12190b": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warns inflation is broadening and backs careful rate hikes.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "699121b125f9": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says more rate hikes are coming.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "e87e8eca2aee": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says higher rates are appropriate soon.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "9b219bbf978a": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "TV interview: additional rate tightening appropriate.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "1cb54e4629cf": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "TV interview on inflation risks and rate policy; leans to more tightening.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "90bfd195a2a6": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Recap of her gradual-hikes stance as inflation broadens; no push for 50bp.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "20715192b0fc": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Recap: Fed has more work as inflation stays above 2%; steady pace.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "d03e308be6d6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Article on Warsh seeking answers on AI and inflation; no rates signal.",
+   "lead": "371e9e233c7b",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "fdfb3710c11d": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says it is 'highly probable' the ECB must act again as second-round risks mount.",
+   "sum": "Nagel said it is 'highly probable' the ECB will have to raise rates again, citing mounting risks of second-round effects from the energy shock.",
+   "pts": [
+    "Said it is 'highly probable' the ECB will have to act again.",
+    "Sees mounting risks of second-round effects on wages and prices.",
+    "Price pressures remain persistent.",
+    "Earlier this week he signalled a December rise and said the German recovery was stronger than forecast."
+   ],
+   "rr": "Reinforces the December ECB hike largely priced and leans toward further tightening in early 2027. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "c22e973cec71": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Sees another hike as second-round inflation risks mount.",
+   "lead": "fdfb3710c11d",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "ad59995cc919": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Signals more hikes likely amid persistent price pressures.",
+   "lead": "fdfb3710c11d",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "527af419edb1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Supervision restructuring remarks; no monetary policy content.",
+   "sum": "Bowman set out plans to restructure Fed bank supervision to give it clearer authority, and asked banks for input; no comment on rates.",
+   "pts": [
+    "Aims to give bank supervision clear lines of authority.",
+    "Wants banks to comment on the restructuring plan.",
+    "No reported comments on inflation or the rate path."
+   ],
+   "rr": "No implication for December or 2027 Fed pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "aba789e8d87e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Seeks bank input on supervision overhaul; no rates content.",
+   "lead": "527af419edb1",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "b7c483044d7b": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says 'in all likelihood' rates must rise and policy may not be restrictive enough.",
+   "sum": "Daly said that in all likelihood the Fed will need to raise rates, as it is hard to argue policy is restrictive enough with services inflation sticky.",
+   "pts": [
+    "Hard to say policy is restrictive enough; her bias is that rates need to go up.",
+    "A range of forces is pushing up inflation, which makes it concerning; services inflation is sticky.",
+    "Firms are seeking to pass on higher costs.",
+    "AI is reducing the need to hire rather than displacing workers.",
+    "Played down the weight of the summary of economic projections."
+   ],
+   "rr": "A shift from her non-committal tone on Nov 12: backs the December hike priced and further tightening in early 2027, nudging up odds of back-to-back hikes, though she did not call for 50bp. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "5138fcf31b97": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says rates likely need to rise amid inflation concerns.",
+   "lead": "b7c483044d7b",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "1565ecb04ff4": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Sees more hikes as firms seek to pass on costs.",
+   "lead": "b7c483044d7b",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "29a03fd8ac48": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Labour-market view on AI: less hiring, little displacement; no rates signal.",
+   "lead": "b7c483044d7b",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "8d56277475f9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI slowing hiring more than displacing workers; no rates signal.",
+   "lead": "b7c483044d7b",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "e24121392055": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Leans toward a hike as services inflation stays sticky.",
+   "lead": "b7c483044d7b",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "cc543886ba5e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Leans toward more hikes; AI cutting hiring needs rather than jobs.",
+   "lead": "b7c483044d7b",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "3d75e295a2e8": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Structural view that AI could lower prices but concentrate market power.",
+   "sum": "Barr said AI could lower prices over time while concentrating market power in a few firms, keeping his focus on competition and inequality.",
+   "pts": [
+    "AI could bring prices down over time.",
+    "Benefits may concentrate market power in a few large firms.",
+    "Follows his Nov 12 warnings on AI-driven inequality and job disruption.",
+    "No reported comment on the near-term rate path."
+   ],
+   "rr": "Longer-run disinflation angle only; no change to December or 2027 Fed pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "aff5b7890ab1": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Data-dependent: inflation trends will decide moves; no push for a bigger hike.",
+   "sum": "Jefferson said inflation will determine his next policy move, with further adjustments to be set by carefully examining trends in the data.",
+   "pts": [
+    "Inflation will set his next move on rates.",
+    "Further policy adjustments should be determined by carefully examining data trends.",
+    "Speech focused on AI and productivity puzzles for the macroeconomy.",
+    "No explicit call on the size or timing of the next hike reported."
+   ],
+   "rr": "Consistent with the December hike priced but gives no support to a 50bp move; adds little to front-end pricing. Only news paraphrases were available.",
+   "ev": "Speech, UC San Diego Economic Roundtable",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "b422abdb6f6e": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Says inflation will set his next move; non-committal.",
+   "lead": "aff5b7890ab1",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "4ee39113b263": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Taking policy cues from inflation; no new guidance.",
+   "lead": "aff5b7890ab1",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "0aad7ef3aa65": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Further adjustments to depend on careful reading of data trends.",
+   "lead": "aff5b7890ab1",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
+  },
+  "a8a841b256b4": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calls the hike to 4% a significant step but says there is further to go.",
+   "sum": "Pill said last week's quarter-point rise to 4% was a significant step but there is 'further to go' with borrowing costs to combat inflation.",
+   "pts": [
+    "Called the hike to 4% a 'significant step'.",
+    "Said there is 'further to go' with borrowing costs.",
+    "Earlier said key evidence on second-round effects will come by spring 2027.",
+    "Expects fewer hikes than in 2022 because the energy shock is smaller."
+   ],
+   "rr": "Supports further BoE hikes into early 2027 and keeps December or February live; broadly in line with the roughly three further hikes markets price. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-14T06:55:13Z",
+   "by": "claude"
   }
  }
 }
