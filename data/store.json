@@ -1722,6 +1722,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-13T04:10:49Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "NY Fed's Williams: More Interest Rate Increases Likely to Curb Persistent Inflation - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjh6dTFkNURKVGhsTWtqRlBiWUs3TF9WOWVNc3d0QTlBbkpUU2lKempYdjVGZXJOdGlPY0N4SlJoU1kxRXhVUzNFNGh0cWRVSWE2YV9UWE40THl6bXR2UW1rRTBSVGw2YjdwRFJ1ZTVYSWFZU3lITHhMbFVQOWRtZFVJdEhxYktCTDlTUWZlOGZ5MngxWUZXN1dnV05jQ2NybmdfQlpEZTdvNXZEQ1pnZ1p0NXp1bGs?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "124cc5f943c5",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T03:07:00Z",
 "bank": "Fed",
 "speaker": "Barr",
@@ -2121,7 +2141,8 @@
 "tone": "hawk",
 "also": [
 "FXStreet",
-"Investing.com"
+"Investing.com",
+"Yahoo Finance Singapore"
 ],
 "desc": "",
 "id": "b0d15e4d8280",
