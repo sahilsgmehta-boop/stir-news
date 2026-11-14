@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T23:52:01Z",
+ "built": "2026-11-14T00:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,19 +63,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 69,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 66,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -105,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
-   "kept": 14,
+   "fetched": 49,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,12 +114,12 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe"
    ]
   },
   {
@@ -128,7 +128,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 24,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -149,8 +149,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 4,
+   "fetched": 15,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [

@@ -1,6 +1,48 @@
 {
 "items": [
 {
+"t": "2026-11-14T00:05:04Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "Fed's Jefferson says he is taking his policy cues from inflation",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVZnLWFCbVo1UU50dnBWQU55ek5VNXpwQWpUUlRrR3hUTmNyeEs0Y2NCQ1FpQ3pUZkMxTkVmSEItSXNrNTZLUkY3SFhXOTdBMGxGd2RubXZDTlZhMWxFbDVLUzlwb1lCUld6QjBlcHJMbXhCZHhKeXR0WjBVWm1iYkJZRmh0R09OOS0ya0NqUUg5Qk41S3RoNVpDMmw4WTVBMTN1RTBQWF9TTF96dXZiVmhxQkZWZw?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [
+"www.marketscreener.com"
+],
+"desc": "",
+"id": "4ee39113b263",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-14T00:00:00Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+"url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+"src": "Federal Reserve speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
+"id": "9ea035670127",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T19:50:37Z",
 "bank": "Fed",
 "speaker": "Bowman",
@@ -172,7 +214,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Investing.com"
+"Investing.com",
+"Investing.com Australia"
 ],
 "desc": "",
 "id": "5138fcf31b97",
