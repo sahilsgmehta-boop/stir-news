@@ -13,7 +13,8 @@
 "StreetInsider",
 "Reuters",
 "Bloomberg.com",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Investing.com"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -199,7 +200,9 @@
 "src": "IndexBox",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Briefs Finance"
+],
 "desc": "",
 "id": "61aecc32a8bb",
 "score": 2,
