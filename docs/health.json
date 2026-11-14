@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T17:52:01Z",
+ "built": "2026-11-14T18:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,20 +84,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 3,
+   "kept": 60,
+   "added": 2,
    "error": "",
    "near_misses": [
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
-    "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
+    "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI"
+    "Fed Will Not Hold Policy Vote at October 2027 Meeting"
    ]
   },
   {
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -139,9 +139,9 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "German coalition disagreements hold up ECB jobs deal",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
-    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
+    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite",
+    "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor"
    ]
   },
   {
@@ -149,18 +149,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 11,
+   "fetched": 28,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
+    "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Bank of England signals further rate rises into 2027",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "BoE chief economist says further rate rises needed to combat inflation",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
@@ -170,7 +170,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
