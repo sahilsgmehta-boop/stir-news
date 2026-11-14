@@ -6869,6 +6869,271 @@
    "basis": "reports",
    "at": "2026-11-14T06:55:13Z",
    "by": "claude"
+  },
+  "1d25688c4843": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says UK rates have further to rise and the BoE waited too long.",
+   "sum": "Pill said the BoE will probably need to raise rates further in 2027, beyond a December hike, admitting 'we waited too long' to act on inflation.",
+   "pts": [
+    "Called the rise to 4% a 'significant step' but said 'we have further to go'.",
+    "Expects evidence in 2027 that 'motivates further rises'; BoE sees inflation near 5% by mid-2027.",
+    "Second-round wage effects from the energy shock are the main worry.",
+    "Saw a 'very low probability' of the conflict ending and energy prices falling, signalling a December hike vote.",
+    "Called market pricing of about 90bp more tightening by end-2027 'not outrageous'.",
+    "Said delay has reduced the BoE's 'ability to be modest' with hikes."
+   ],
+   "rr": "Backs a December 25bp hike and validates roughly 90bp of tightening priced by end-2027; lean is toward the hawkish tail of the 2027 strip. Only news paraphrases were available.",
+   "ev": "Interview, Financial Times",
+   "basis": "reports",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "a2388c711844": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Tells FT more BoE hikes likely in 2027 beyond December.",
+   "lead": "1d25688c4843",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "8b7d8769623d": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Signals further rate rises in 2027.",
+   "lead": "1d25688c4843",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "9ea035670127": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Inflation guides policy; AI may lift productivity; no push for faster hikes.",
+   "sum": "Jefferson said inflation will guide his next policy decision, with further adjustments set by careful reading of the data, while AI may raise productivity.",
+   "pts": [
+    "Speech on productivity puzzles and new technology such as AI.",
+    "AI could raise productivity growth over time.",
+    "Inflation will guide his next policy move.",
+    "Further policy adjustments to be determined by carefully examining trends in the data.",
+    "No call on the size or timing of the next hike was reported."
+   ],
+   "rr": "Consistent with the December hike priced, but offers no support for a 50bp move; little change for the front end. Only news paraphrases were available.",
+   "ev": "Speech, UC San Diego Economic Roundtable",
+   "basis": "reports",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "61aecc32a8bb": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Inflation guides policy; AI may raise productivity; no new rate signal.",
+   "lead": "9ea035670127",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "ee380fb31e2d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on liquidity tools and bank funding; no comment on policy outlook.",
+   "sum": "Logan urged the Fed and banks to strengthen operational readiness of liquidity backstops before a crisis, and to keep those tools clearly separate from the policy stance.",
+   "pts": [
+    "Said Treasury market is functioning 'very well' now.",
+    "Fed should strengthen its support tools and readiness before stress hits.",
+    "Called for a clearer split between liquidity operations and monetary policy.",
+    "Backstops for Treasury markets and bank funding should not add extra stimulus.",
+    "Did not comment on monetary policy or the economic outlook."
+   ],
+   "rr": "No direct read for December or 2027 pricing; relevant for standing repo and balance-sheet plumbing rather than the rate path. Only news paraphrases were available.",
+   "ev": "Remarks, Dallas Fed bank funding conference",
+   "basis": "reports",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "5145f27f3dfa": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Calls for clearer separation of market operations; no rates signal.",
+   "lead": "ee380fb31e2d",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "4d246ae143fe": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Urges operational readiness before a crisis; plumbing, not rates.",
+   "lead": "ee380fb31e2d",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "00f02bdb31e0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Treasury market working well; wants stronger backstop tools.",
+   "lead": "ee380fb31e2d",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "346744130484": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Sees room to strengthen liquidity readiness; no policy comment.",
+   "lead": "ee380fb31e2d",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "1fb5f938f8b4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Explicitly avoided comment on policy or outlook.",
+   "lead": "ee380fb31e2d",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "b216f15f3378": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Wants liquidity tools kept distinct from policy stance.",
+   "lead": "ee380fb31e2d",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "ed0207aa6f49": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Backstops without extra stimulus; no rate-path signal.",
+   "lead": "ee380fb31e2d",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "c668a4ca207b": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Won't look through inflation as data-centre demand overheats the economy.",
+   "sum": "Goolsbee said the Fed 'has definitely got work to do' on inflation, is not on track to hit 2%, and must re-establish its inflation credibility.",
+   "pts": [
+    "Said the Fed is not on track to reach its 2% target.",
+    "Fed must re-establish its credibility on inflation.",
+    "Cannot look through inflation when demand is overheating; data-centre buildout is adding to price pressure.",
+    "Warned more aggressive hikes may be needed as inflation spreads.",
+    "Said wage growth is not a leading indicator of inflation.",
+    "Differed with Treasury's Bessent on how much the energy shock explains inflation."
+   ],
+   "rr": "Supports the December hike and adds to the tail risk of 50bp or a no-pause run into early 2027; hawkish for the front end. Only news paraphrases were available.",
+   "ev": "Interview, CNBC",
+   "basis": "reports",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "4d663ff4f903": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says Fed must re-establish its inflation credibility.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "a989a0cd4df1": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Full interview: inflation work unfinished, hikes in play.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "4311992497f0": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Says wage growth does not lead inflation; mixed signal.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "48da75a68d2f": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says Fed not on track to hit 2% inflation.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "ec06298a3442": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Fed has 'definitely got work to do' on inflation.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "7bd59220a566": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Warns more aggressive hikes may be needed as inflation spreads.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "734e58ee04af": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Rejects blaming energy alone for inflation, unlike Bessent.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "43415d1681a7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Event notice for Warsh's AI forum; no rates content.",
+   "lead": "371e9e233c7b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "bdfd2e15473b": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Officials fear AI lifts prices; Warsh sees upside; no rate guidance.",
+   "lead": "371e9e233c7b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "f459472f2552": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warsh to lead AI panels; no rates content.",
+   "lead": "371e9e233c7b",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "f05bee9d0773": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability warning on private credit; no rates signal.",
+   "lead": "419a622d32ec",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "915c7ca54523": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Cost-of-living comment; no new rate-path signal.",
+   "lead": "9ce261016a10",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "2b001a8df8e8": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Backs more hikes but sees no need for faster tightening.",
+   "lead": "70831c0c7c33",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
+  },
+  "fe686bf07038": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Advance notice of a Nov 18 speech; no remarks yet.",
+   "at": "2026-11-14T11:55:28Z",
+   "by": "claude"
   }
  }
 }
