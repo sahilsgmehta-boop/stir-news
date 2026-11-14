@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T09:37:00Z",
+ "built": "2026-11-14T09:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 62,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -96,8 +96,8 @@
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates"
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January"
    ]
   },
   {
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 46,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -135,9 +135,9 @@
     "Germany Readies Candidates for ECB Top Posts",
     "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany, France in 'intensive' talks on new ECB chief",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
@@ -149,7 +149,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 16,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -181,11 +181,11 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "feed returned no items",
+   "error": "",
    "near_misses": []
   },
   {
@@ -264,7 +264,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 16,
-   "added": 9,
+   "added": 10,
    "error": ""
   },
   {
@@ -333,7 +333,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
