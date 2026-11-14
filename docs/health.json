@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T10:52:01Z",
+ "built": "2026-11-14T11:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,8 +66,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -109,8 +109,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany, France in 'intensive' talks on new ECB chief",
+    "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
@@ -148,9 +148,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
-   "kept": 8,
-   "added": 1,
+   "fetched": 16,
+   "kept": 7,
+   "added": 0,
    "error": "",
    "near_misses": [
     "BoE chief economist says further rate rises needed to combat inflation",
@@ -192,7 +192,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 9,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -331,7 +331,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
