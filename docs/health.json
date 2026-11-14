@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T07:52:00Z",
+ "built": "2026-11-14T08:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,8 +68,8 @@
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
+    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 62,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -94,10 +94,10 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027"
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates"
    ]
   },
   {
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 48,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
-    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says"
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
   {
@@ -132,8 +132,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany Readies Candidates for ECB Top Posts",
+    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
