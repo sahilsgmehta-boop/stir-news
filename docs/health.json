@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T03:37:00Z",
+ "built": "2026-11-14T03:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -89,15 +89,15 @@
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh"
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027"
    ]
   },
   {
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -149,7 +149,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -160,7 +160,6 @@
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
   },
@@ -184,14 +183,14 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?",
+    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
    ]
   },
   {
