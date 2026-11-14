@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T04:37:00Z",
+ "built": "2026-11-14T04:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -149,7 +149,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -160,8 +160,7 @@
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
-    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems",
-    "Savers face loyalty tax as most banks fail to pass on Bank of England rate rise"
+    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
   },
   {
@@ -339,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
