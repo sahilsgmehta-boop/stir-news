@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T02:07:01Z",
+ "built": "2026-11-14T02:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,8 +84,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 1,
+   "kept": 61,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -110,7 +110,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
@@ -119,7 +118,8 @@
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe"
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says"
    ]
   },
   {
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
