@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T03:52:00Z",
+ "built": "2026-11-14T04:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,20 +62,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 73,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+    "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "The Fed\u2019s other big debate: When should John Williams\u2019 term end?"
+    "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so"
    ]
   },
   {
@@ -96,8 +96,8 @@
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027"
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January"
    ]
   },
   {
@@ -149,7 +149,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -157,10 +157,11 @@
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
-    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
+    "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
+    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems",
+    "Savers face loyalty tax as most banks fail to pass on Bank of England rate rise"
    ]
   },
   {
@@ -339,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
