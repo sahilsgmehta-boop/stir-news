@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T10:37:01Z",
+ "built": "2026-11-14T10:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -71,11 +71,10 @@
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
-    "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
+    "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
-    "AI Tops Fed's List of Financial Stability Risks as Concern Surges",
-    "The Fed\u2019s other big debate: When should John Williams\u2019 term end?"
+    "AI Tops Fed's List of Financial Stability Risks as Concern Surges"
    ]
   },
   {
@@ -149,9 +148,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
-   "kept": 6,
-   "added": 0,
+   "fetched": 17,
+   "kept": 8,
+   "added": 1,
    "error": "",
    "near_misses": [
     "BoE chief economist says further rate rises needed to combat inflation",
