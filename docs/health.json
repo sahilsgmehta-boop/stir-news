@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T12:07:01Z",
+ "built": "2026-11-14T12:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,18 +62,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 72,
-   "added": 0,
+   "kept": 73,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
-    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
+    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
-    "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data"
+    "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
+    "The Fed's inflation dilemma: Wait for oil relief or raise rates?"
    ]
   },
   {
@@ -82,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -103,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 43,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -131,12 +132,12 @@
    "error": "",
    "near_misses": [
     "Germany Readies Candidates for ECB Top Posts",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor",
     "AI accounts for quarter of euro zone credit growth, ECB says",
     "France signals support for Spain's Pablo Hern\u00e1ndez de Cos to succeed Lagarde at ECB"
@@ -147,11 +148,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 19,
    "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Interest rate rises likely in coming months, Bank of England economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
