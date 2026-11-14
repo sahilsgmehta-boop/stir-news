@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T02:37:00Z",
+ "built": "2026-11-14T02:39:53Z",
  "sources": [
   {
    "id": "il_cb",
@@ -85,12 +85,12 @@
    "ok": true,
    "fetched": 100,
    "kept": 61,
-   "added": 1,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
@@ -105,11 +105,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 49,
    "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
@@ -118,8 +119,7 @@
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says"
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe"
    ]
   },
   {
@@ -138,9 +138,9 @@
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
+    "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
     "ECB warns delays could postpone digital euro launch"
    ]
   },
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
