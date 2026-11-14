@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T19:52:01Z",
+ "built": "2026-11-14T20:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,20 +62,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 72,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Is a Recession Coming? The Fed's Rare U-Turn, Explained",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
+    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so"
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -84,8 +84,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 2,
+   "kept": 63,
+   "added": 1,
    "error": "",
    "near_misses": [
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 39,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -128,7 +128,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 24,
-   "kept": 5,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -139,9 +139,9 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "German coalition disagreements hold up ECB jobs deal",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
-    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
+    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite",
+    "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor"
    ]
   },
   {
