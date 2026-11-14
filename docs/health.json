@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T08:52:01Z",
+ "built": "2026-11-14T09:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 61,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -94,10 +94,10 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
+    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027"
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates"
    ]
   },
   {
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 47,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
+    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
+    "Lagarde secures Council of the Inspectors General on Integrity and Efficiency Website Support contract"
    ]
   },
   {
@@ -149,8 +149,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 6,
+   "fetched": 15,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
