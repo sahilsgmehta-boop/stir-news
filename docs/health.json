@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T11:22:01Z",
+ "built": "2026-11-14T11:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 70,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -74,7 +74,8 @@
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
-    "AI Tops Fed's List of Financial Stability Risks as Concern Surges"
+    "AI Tops Fed's List of Financial Stability Risks as Concern Surges",
+    "The Fed\u2019s other big debate: When should John Williams\u2019 term end?"
    ]
   },
   {
@@ -83,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -104,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
-   "kept": 10,
+   "fetched": 43,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -126,8 +127,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 7,
+   "fetched": 23,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -148,8 +149,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
-   "kept": 7,
+   "fetched": 18,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
