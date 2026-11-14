@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-14T05:00:46Z",
+"bank": "BoE",
+"speaker": "",
+"hl": "BoE chief economist says further rate rises needed to combat inflation",
+"url": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1",
+"src": "FT central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Huw Pill calls last week’s quarter-point increase to 4% a ‘significant step’ but that there was ‘further to go’ with borrowing costs",
+"id": "a8a841b256b4",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-14T04:50:39Z",
 "bank": "ECB",
 "speaker": "Nagel",
