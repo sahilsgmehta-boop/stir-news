@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T11:37:00Z",
+ "built": "2026-11-14T11:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -74,8 +74,7 @@
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
-    "AI Tops Fed's List of Financial Stability Risks as Concern Surges",
-    "The Fed\u2019s other big debate: When should John Williams\u2019 term end?"
+    "AI Tops Fed's List of Financial Stability Risks as Concern Surges"
    ]
   },
   {
@@ -91,9 +90,9 @@
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -113,8 +112,8 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
