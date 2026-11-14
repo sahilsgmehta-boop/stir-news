@@ -7134,6 +7134,47 @@
    "read": "Advance notice of a Nov 18 speech; no remarks yet.",
    "at": "2026-11-14T11:55:28Z",
    "by": "claude"
+  },
+  "9f2659edc04e": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says acting early on inflation minimises policy mistakes; backs further tightening.",
+   "sum": "Greene argued the BoE should keep tightening proactively, saying failing to get on top of inflation is the bigger policy mistake.",
+   "pts": [
+    "Said the MPC should ask 'how can I screw this up the least?' under uncertainty.",
+    "Called failing to control inflation, now above target for about five-and-a-half years, 'the bigger policy mistake'.",
+    "Said raising rates too much and cutting later is less risky than waiting too long.",
+    "Earlier this week said proactive tightening is warranted against pay growth holding around 3.5% or higher.",
+    "Voted with the majority to raise Bank Rate to 4% in November, after earlier being in a minority for a hike."
+   ],
+   "rr": "Supports the December hike priced and leans toward the fuller end of the two-to-three 2027 hikes in the strip; no pushback on pricing. Only news paraphrases were available.",
+   "ev": "Centre for European Reform conference",
+   "basis": "reports",
+   "at": "2026-11-14T15:48:50Z",
+   "by": "claude"
+  },
+  "c291189d0422": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Re-report of Pill's FT interview: further BoE hikes likely in 2027.",
+   "lead": "1d25688c4843",
+   "at": "2026-11-14T15:48:50Z",
+   "by": "claude"
+  },
+  "2623aefc3a61": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Speech title for Jefferson's productivity remarks; data-dependent, inflation guides policy.",
+   "lead": "9ea035670127",
+   "at": "2026-11-14T15:48:50Z",
+   "by": "claude"
+  },
+  "bb383a64914e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-14T15:48:50Z",
+   "by": "claude"
   }
  }
 }
