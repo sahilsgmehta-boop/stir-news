@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T07:22:00Z",
+ "built": "2026-11-14T07:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,8 +84,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 1,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -94,10 +94,10 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-    "Dallas Fed Urges Separate Account for Crisis Buys",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January"
+    "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027"
    ]
   },
   {
@@ -105,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 13,
+   "fetched": 44,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,11 +114,11 @@
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
@@ -128,7 +128,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 26,
-   "kept": 9,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -139,8 +139,8 @@
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
+    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path"
    ]
   },
@@ -149,9 +149,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
-   "kept": 5,
-   "added": 1,
+   "fetched": 12,
+   "kept": 4,
+   "added": 0,
    "error": "",
    "near_misses": [
     "BoE chief economist says further rate rises needed to combat inflation",
@@ -182,12 +182,11 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 3,
+   "fetched": 2,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
     "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
   },
@@ -336,7 +335,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
