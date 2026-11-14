@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T08:22:00Z",
+ "built": "2026-11-14T08:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 46,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -128,19 +128,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 25,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
-    "Germany Readies Candidates for ECB Top Posts",
     "Germany, France in 'intensive' talks on new ECB chief",
+    "Germany Readies Candidates for ECB Top Posts",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path"
    ]
   },
@@ -156,8 +156,8 @@
    "near_misses": [
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
+    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
@@ -335,7 +335,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
