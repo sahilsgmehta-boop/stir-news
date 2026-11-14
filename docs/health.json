@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T22:07:00Z",
+ "built": "2026-11-14T22:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,14 +62,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 69,
    "added": 0,
    "error": "",
    "near_misses": [
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
-    "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
@@ -95,8 +95,8 @@
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike"
    ]
   },
@@ -105,13 +105,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 36,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as ECB president months early",
-    "Germany, France in 'intensive' talks on new ECB chief",
+    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
@@ -171,7 +170,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
