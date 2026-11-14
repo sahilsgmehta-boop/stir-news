@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T14:07:00Z",
+ "built": "2026-11-14T14:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,11 +83,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
@@ -95,8 +96,7 @@
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI"
+    "Boston Fed president warns housing costs may have to worsen before they improve"
    ]
   },
   {
@@ -106,7 +106,7 @@
    "ok": true,
    "fetched": 40,
    "kept": 10,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
@@ -126,13 +126,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Germany Readies Candidates for ECB Top Posts",
     "Germany, France in 'intensive' talks on new ECB chief",
+    "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
@@ -153,9 +154,9 @@
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
-    "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
+    "BoE chief economist says further rate rises needed to combat inflation",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
@@ -331,7 +332,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
