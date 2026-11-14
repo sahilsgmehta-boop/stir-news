@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T11:52:01Z",
+ "built": "2026-11-14T12:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -73,8 +73,7 @@
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
-    "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
-    "AI Tops Fed's List of Financial Stability Risks as Concern Surges"
+    "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data"
    ]
   },
   {
@@ -83,14 +82,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 1,
+   "kept": 60,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
-    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
+    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
@@ -104,21 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 44,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "Germany, France in 'intensive' talks on new ECB chief",
-    "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
+    "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle"
+    "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push"
    ]
   },
   {
@@ -132,15 +131,15 @@
    "error": "",
    "near_misses": [
     "Germany Readies Candidates for ECB Top Posts",
-    "Germany, France in 'intensive' talks on new ECB chief",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "France Said to Back de Cos for ECB President as Board Roles Shuffle",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
+    "Germany, France in 'intensive' talks on new ECB chief",
+    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor",
-    "AI accounts for quarter of euro zone credit growth, ECB says"
+    "AI accounts for quarter of euro zone credit growth, ECB says",
+    "France signals support for Spain's Pablo Hern\u00e1ndez de Cos to succeed Lagarde at ECB"
    ]
   },
   {
