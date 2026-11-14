@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T13:39:59Z",
+ "built": "2026-11-14T13:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -90,12 +90,12 @@
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI"
    ]
   },
@@ -105,7 +105,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 41,
-   "kept": 9,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -332,7 +332,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
