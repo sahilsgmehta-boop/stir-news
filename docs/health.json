@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T10:07:00Z",
+ "built": "2026-11-14T10:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,14 +62,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
-    "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 47,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -133,13 +133,13 @@
    "error": "",
    "near_misses": [
     "Germany Readies Candidates for ECB Top Posts",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job",
+    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor",
     "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
@@ -181,11 +181,11 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
+   "error": "feed returned no items",
    "near_misses": []
   },
   {
@@ -194,7 +194,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 9,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
