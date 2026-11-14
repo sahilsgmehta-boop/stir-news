@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T05:37:00Z",
+ "built": "2026-11-14T05:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -105,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 14,
+   "fetched": 48,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,12 +114,12 @@
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says"
+    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape"
    ]
   },
   {
@@ -127,21 +127,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
-    "AI accounts for quarter of euro zone credit growth, ECB says",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB"
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews"
    ]
   },
   {
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
