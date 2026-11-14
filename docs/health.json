@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T13:07:00Z",
+ "built": "2026-11-14T13:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -88,13 +88,13 @@
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
-    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
+    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh"
    ]
   },
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 41,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -131,12 +131,12 @@
    "error": "",
    "near_misses": [
     "Germany Readies Candidates for ECB Top Posts",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "Germany, France in 'intensive' talks on new ECB chief",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor",
     "AI accounts for quarter of euro zone credit growth, ECB says",
     "France signals support for Spain's Pablo Hern\u00e1ndez de Cos to succeed Lagarde at ECB"
@@ -147,9 +147,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 22,
    "kept": 10,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England economist says",
@@ -331,7 +331,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
