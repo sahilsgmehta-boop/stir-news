@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T21:07:00Z",
+ "built": "2026-11-14T21:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
+   "kept": 62,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -94,8 +94,8 @@
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike"
    ]
@@ -105,16 +105,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 38,
    "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
@@ -135,11 +136,11 @@
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
-    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite",
     "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
   },
