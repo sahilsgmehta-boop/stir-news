@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T05:52:00Z",
+ "built": "2026-11-14T06:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,20 +62,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 69,
    "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
-    "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
+    "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
-    "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so"
+    "AI Tops Fed's List of Financial Stability Risks as Concern Surges"
    ]
   },
   {
@@ -85,7 +85,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 61,
-   "added": 1,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
@@ -94,8 +94,8 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Dallas Fed Urges Separate Account for Crisis Buys",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January"
    ]
@@ -127,21 +127,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 7,
+   "fetched": 27,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany Readies Candidates for ECB Top Posts",
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "France and Germany close to agreement on ECB leadership \u2014 Euronews"
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
+    "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB"
    ]
   },
   {
@@ -184,14 +184,13 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Swiss Franc holds gains against US Dollar despite hawkish Fed outlook",
-    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?",
-    "Swiss Franc Holds Gains Against US Dollar Despite Hawkish Fed Outlook"
+    "Why is the Swiss Franc retaining gains against the US Dollar despite a hawkish Fed outlook?"
    ]
   },
   {
@@ -340,7 +339,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
