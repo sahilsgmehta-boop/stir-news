@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T18:07:01Z",
+ "built": "2026-11-14T18:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -85,7 +85,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 60,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
@@ -105,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 11,
+   "fetched": 38,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,12 +114,12 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates"
+    "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms"
    ]
   },
   {
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -139,9 +139,9 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
+    "German coalition disagreements hold up ECB jobs deal",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
-    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite",
-    "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor"
+    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
    ]
   },
   {
