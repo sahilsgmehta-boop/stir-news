@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T04:07:00Z",
+ "built": "2026-11-14T04:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -132,6 +132,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
@@ -140,8 +141,7 @@
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
-    "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB"
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews"
    ]
   },
   {
@@ -149,7 +149,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -160,8 +160,7 @@
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Private Credit and Stablecoins Pose Risks Beyond Size, Bailey Warns",
-    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems",
-    "Savers face loyalty tax as most banks fail to pass on Bank of England rate rise"
+    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
   },
   {
@@ -169,14 +168,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada weighed two paths before raising rates to 2.5%",
-    "What Did the Bank of Canada's Summary of Deliberations Reveal About the Odds of Another Rate Hike?",
-    "Boivin and Perrault Viewed as Possible Bank of Canada Governor Contenders"
+    "What Did the Bank of Canada's Summary of Deliberations Reveal About the Odds of Another Rate Hike?"
    ]
   },
   {
@@ -184,7 +182,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -340,7 +338,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
