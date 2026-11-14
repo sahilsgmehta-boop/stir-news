@@ -11,7 +11,8 @@
 "tone": "",
 "also": [
 "Devdiscourse",
-"Yahoo"
+"Yahoo",
+"Investify"
 ],
 "desc": "",
 "id": "a2388c711844",
@@ -957,7 +958,8 @@
 "WTVB",
 "Kitco",
 "Central Oregon Daily",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Forex Factory"
 ],
 "desc": "",
 "id": "00f02bdb31e0",
@@ -1104,7 +1106,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Breakingthenews.net"
+"Breakingthenews.net",
+"Forex Factory"
 ],
 "desc": "",
 "id": "ec06298a3442",
@@ -2655,7 +2658,8 @@
 "ThePrint",
 "Bradenton Herald",
 "AOL.co.uk",
-"AOL.com"
+"AOL.com",
+"WTVB"
 ],
 "desc": "",
 "id": "6f15580eb55c",
