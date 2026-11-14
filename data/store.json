@@ -95,7 +95,9 @@
 "src": "Bloomberg",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com"
+],
 "desc": "",
 "id": "aff5b7890ab1",
 "score": null,

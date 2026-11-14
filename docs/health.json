@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T02:52:00Z",
+ "built": "2026-11-14T03:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,20 +62,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 72,
+   "kept": 73,
    "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
-    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
+    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
+    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
-    "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year"
+    "The Fed\u2019s other big debate: When should John Williams\u2019 term end?"
    ]
   },
   {
@@ -92,8 +92,8 @@
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
+    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
