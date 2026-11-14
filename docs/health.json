@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T21:22:00Z",
+ "built": "2026-11-14T21:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -105,17 +105,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 12,
+   "fetched": 36,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
@@ -128,7 +127,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,12 +135,12 @@
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
+    "German coalition disagreements hold up ECB jobs deal",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
-    "AI accounts for quarter of euro zone credit growth, ECB says"
+    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
    ]
   },
   {
@@ -149,7 +148,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 30,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -163,7 +162,7 @@
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
-    "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
    ]
   },
   {
@@ -175,7 +174,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data"
+   ]
   },
   {
    "id": "gn_snb",
