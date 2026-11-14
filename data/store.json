@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-14T16:29:05Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "Fed's Philip Jefferson Says Inflation, Not Jobs, Is The Main Signal For Policy",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnJ6RXpsQ0dkTUJudWNPN1dMTTNiQktrV2VOa1hUa3pvNnN0N0Qwd004NFdyM2xGSmkyaWxpQVRhUjhlSkpXdk81NFJnZll1M285eDBuV2trekJQMTNQSzlsVjVsNEJGMklkbmpkN0Nram5TU3dhNzY3RWxJU3RBaVN4SVRsLUFKY1VVRUhGd1ozZw?oc=5",
+"src": "Briefs Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ddef5b351c36",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-14T15:46:19Z",
 "bank": "Fed",
 "speaker": "Collins",
@@ -14,7 +34,8 @@
 "Reuters",
 "Bloomberg.com",
 "The Lufkin Daily News",
-"Investing.com"
+"Investing.com",
+"Investing.com Canada"
 ],
 "desc": "",
 "id": "22b59b30f85a",
