@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T14:37:00Z",
+ "built": "2026-11-14T14:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 60,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 40,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -116,8 +116,8 @@
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
+    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down"
    ]
   },
