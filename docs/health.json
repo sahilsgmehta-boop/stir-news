@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T21:37:01Z",
+ "built": "2026-11-14T21:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 62,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -110,7 +110,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Germany, France in 'intensive' talks on new ECB chief",
+    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
@@ -148,21 +148,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 31,
    "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
-    "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
+    "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation"
    ]
   },
   {
