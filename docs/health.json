@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T03:22:00Z",
+ "built": "2026-11-14T03:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 62,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -92,8 +92,8 @@
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
