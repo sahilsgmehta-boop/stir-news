@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T18:37:01Z",
+ "built": "2026-11-14T18:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -71,8 +71,8 @@
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
+    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data",
     "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so"
@@ -84,8 +84,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
-   "added": 2,
+   "kept": 62,
+   "added": 1,
    "error": "",
    "near_misses": [
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
@@ -105,19 +105,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 11,
+   "fetched": 37,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
-    "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
+    "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
     "Lagarde Is Leaving the ECB Early. Bitcoin Never Has to Choose a Successor"
    ]
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -139,9 +139,9 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
+    "German coalition disagreements hold up ECB jobs deal",
     "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
-    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite",
-    "Germany and France move closer in positions at the ECB and bolster De Cos as Lagarde\u2019s successor"
+    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
    ]
   },
   {
@@ -149,8 +149,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 12,
+   "fetched": 27,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -159,8 +159,8 @@
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
-    "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
+    "Bank of England\u2019s chief economist issues stark warning",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
@@ -171,7 +171,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
