@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T17:07:00Z",
+ "built": "2026-11-14T17:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -85,7 +85,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 60,
-   "added": 2,
+   "added": 3,
    "error": "",
    "near_misses": [
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 39,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "Germany, France in 'intensive' talks on new ECB chief",
-    "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "Nagel: Geopolitical upheavals \u2013 How can Europe's economy remain stable?"
+    "Nagel: Geopolitical upheavals \u2013 How can Europe's economy remain stable?",
+    "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms"
    ]
   },
   {
@@ -133,14 +133,14 @@
    "error": "",
    "near_misses": [
     "Germany Readies Candidates for ECB Top Posts",
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
-    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
-    "German coalition disagreements hold up ECB jobs deal",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
+    "German coalition disagreements hold up ECB jobs deal",
+    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets",
     "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
    ]
   },
@@ -149,16 +149,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 28,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
+    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
+    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "BoE chief economist says further rate rises needed to combat inflation",
+    "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
