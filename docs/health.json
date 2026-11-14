@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T23:37:01Z",
+ "built": "2026-11-14T23:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,13 +84,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
-   "added": 1,
+   "kept": 62,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 36,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -159,8 +159,8 @@
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation"
