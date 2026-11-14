@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T13:22:00Z",
+ "built": "2026-11-14T13:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 74,
+   "kept": 73,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -73,6 +73,7 @@
     "Fed Governor Outlines Inflation Progress as \u2018Disappointing,\u2019 Sees Path to 2% Goal in the Next Year",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
+    "The Fed's inflation dilemma: Wait for oil relief or raise rates?",
     "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data"
    ]
   },
@@ -94,8 +95,8 @@
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh"
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI"
    ]
   },
   {
@@ -103,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 40,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -152,7 +153,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Interest rate rises likely in coming months, Bank of England economist says",
+    "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
@@ -167,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
