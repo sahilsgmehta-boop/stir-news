@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T19:07:01Z",
+ "built": "2026-11-14T19:10:30Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -105,15 +105,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 11,
+   "fetched": 37,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde cites Claude Mythos cutoff in Europe\u2019s AI sovereignty push",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
@@ -149,8 +149,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 11,
+   "fetched": 28,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -159,8 +159,8 @@
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
-    "Bank of England signals further rate rises into 2027",
     "Bank of England\u2019s chief economist issues stark warning",
+    "Bank of England signals further rate rises into 2027",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
