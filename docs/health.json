@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T00:07:00Z",
+ "built": "2026-11-14T00:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,8 +62,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 69,
-   "added": 1,
+   "kept": 71,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 64,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -94,8 +94,8 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening"
    ]
@@ -115,11 +115,11 @@
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe"
+    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports"
    ]
   },
   {
@@ -132,7 +132,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as head of the European Central Bank months early",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
@@ -140,6 +139,7 @@
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB",
     "India Inc's ECB, FCCB fundraising plans fall to $7.05 billion in September",
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "ECB warns delays could postpone digital euro launch",
     "AI accounts for quarter of euro zone credit growth, ECB says"
    ]
@@ -149,7 +149,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -159,7 +159,6 @@
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England pushes for \u2018proactive\u2019 tightening as wage risks loom",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
-    "Bank of England raises rates for first time since 2023, says more may come",
     "British Pound to Euro Forecast: December BoE Hike Bets Rise to 75%",
     "Bank of England, MAS and Bank of Thailand show synchronised FX settlement works across systems"
    ]
@@ -222,7 +221,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 10,
-   "added": 3,
+   "added": 2,
    "error": ""
   },
   {
@@ -341,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
