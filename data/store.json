@@ -35,7 +35,8 @@
 "Bloomberg.com",
 "The Lufkin Daily News",
 "Investing.com",
-"Investing.com Canada"
+"Investing.com Canada",
+"Investing.com UK"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -18325,26 +18326,6 @@
 "BIS central bankers' speeches"
 ],
 "id": "5b13dd92b3e8",
-"score": null,
-"read": "",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-09-30T17:00:00Z",
-"bank": "ECB",
-"speaker": "Lagarde",
-"hl": "Christine Lagarde: Interview with La Croix",
-"url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-"src": "ECB press, speeches, interviews",
-"tier": "official",
-"tone": "",
-"also": [],
-"id": "1b0f79c60aff",
 "score": null,
 "read": "",
 "desc": "",
