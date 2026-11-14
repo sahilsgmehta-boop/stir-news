@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T05:07:00Z",
+ "built": "2026-11-14T05:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,14 +62,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 72,
+   "kept": 71,
    "added": 0,
    "error": "",
    "near_misses": [
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
-    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Ben Emons on the Fed\u2019s rate path after October CPI data",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
     "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
@@ -85,19 +85,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 62,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
-    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
-    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
+    "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
     "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Dallas Fed Urges Separate Account for Crisis Buys"
+    "Dallas Fed Urges Separate Account for Crisis Buys",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January"
    ]
   },
   {
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 48,
    "kept": 14,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe"
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says"
    ]
   },
   {
@@ -134,14 +134,14 @@
    "near_misses": [
     "Christine Lagarde is resigning as head of the European Central Bank months early",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "ECB to Launch Digital Euro Pilot in Second Half of 2027",
     "Euro posts modest gains near 1.1100 as traders assess ECB's rate path",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "France signals support for Spain\u2019s ECB presidential candidate de Cos, FT reports",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "France and Germany close to agreement on ECB leadership \u2014 Euronews"
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
+    "FT: France likely to support Spaniard Hernandez de Cos's candidacy for ECB"
    ]
   },
   {
@@ -150,11 +150,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 12,
-   "kept": 3,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "Here\u2019s when experts think the Bank of England will hike rates next",
+    "BoE chief economist says further rate rises needed to combat inflation",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
