@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T06:37:00Z",
+ "built": "2026-11-14T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
+   "kept": 69,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 60,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 47,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -114,11 +114,11 @@
     "ECB's Costa says AI is the most important technology of our era and Europe should fully harness it to raise productivity",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Lagarde\u2019s early exit puts ECB climate agenda at a crossroads",
     "German Chancellor Merz to put forward German candidate for ECB Chief Economist, eyeing Brunnermeier for the role, reports Handelsblatt",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Macron, Merz Agree de Cos Should Succeed Lagarde, Le Point Says",
+    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Spain and Dutch Skip EU Summit Despite Bidding for ECB\u2019s Top Job"
    ]
   },
@@ -127,13 +127,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Christine Lagarde is resigning as head of the European Central Bank months early",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Germany Readies Candidates for ECB Top Posts",
     "Germany, France in 'intensive' talks on new ECB chief",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
