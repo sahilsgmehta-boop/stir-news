@@ -71,7 +71,9 @@
 "src": "Hoodline",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Quartz"
+],
 "desc": "",
 "id": "cfadbcd2288b",
 "score": null,
@@ -1289,6 +1291,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-13T15:10:13Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Chicago Fed's Goolsbee Says Fed Is Not on Track for 2% Goal",
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jb0E5elZFQWtINkcyaXVmZzkwZWlrWjZRaE1UYk1fU2hjSUZ1Sm9yWDNFWjBoVzlSVHIwcF9lMXVXM2JlVWtFX2dGZHVVNjcySTZkc1RsdkIzU1k?oc=5",
+"src": "TOKENPOST",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "47c1c60f047c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T15:00:50Z",
 "bank": "Fed",
 "speaker": "Logan",
@@ -1503,7 +1525,8 @@
 "tone": "hawk",
 "also": [
 "Breakingthenews.net",
-"Forex Factory"
+"Forex Factory",
+"Rich Picks Daily"
 ],
 "desc": "",
 "id": "ec06298a3442",
