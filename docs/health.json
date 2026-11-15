@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T03:07:00Z",
+ "built": "2026-11-15T03:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,7 +63,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 66,
-   "added": 0,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -95,8 +95,8 @@
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve"
    ]
   },
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 38,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 5,
    "added": 0,
    "error": "",
