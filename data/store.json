@@ -1961,7 +1961,8 @@
 "also": [
 "Reuters",
 "The Lufkin Daily News",
-"Rock Hill Herald"
+"Rock Hill Herald",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "62bc9e202cce",
@@ -18220,26 +18221,6 @@
 "also": [],
 "desc": "Given at the Nomura London Macro Forum",
 "id": "cf08be27b6a5",
-"score": null,
-"read": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-10-01T09:00:00Z",
-"bank": "BoE",
-"speaker": "",
-"hl": "A unique vantage point − speech by Nathanaël Benjamin",
-"url": "https://www.bankofengland.co.uk/speech/2026/october/nathanael-benjamin-speech-at-isda-derivatives-trading-and-treasury-forum",
-"src": "Bank of England speeches",
-"tier": "official",
-"tone": "",
-"also": [],
-"desc": "Given at the ISDA Derivatives Trading and Treasury Forum",
-"id": "bae550a774c9",
 "score": null,
 "read": "",
 "sum": "",

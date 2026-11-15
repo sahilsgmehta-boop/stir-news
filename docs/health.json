@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T08:52:01Z",
+ "built": "2026-11-15T09:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 69,
+   "kept": 70,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 34,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -117,7 +117,6 @@
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms"
    ]
   },
@@ -133,14 +132,14 @@
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
+    "Germany, France in 'intensive' talks on new ECB chief",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "German coalition disagreements hold up ECB jobs deal",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
-    "France and Germany near deal that would put De Cos in ECB top job",
-    "Germany to propose ECB leadership package next week"
+    "Morning Brief: Focus on Nvidia; U.S. Posts Record October Budget Deficit; De Cos Emerges as Favorite for ECB Presidency",
+    "France and Germany near deal that would put De Cos in ECB top job"
    ]
   },
   {
@@ -148,7 +147,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 34,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -157,9 +156,9 @@
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation"
@@ -170,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
