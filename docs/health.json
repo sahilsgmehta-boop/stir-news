@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T06:07:00Z",
+ "built": "2026-11-15T06:09:40Z",
  "sources": [
   {
    "id": "il_cb",
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 36,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -139,7 +139,7 @@
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany near deal that would put De Cos in ECB top job",
     "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job",
-    "Morning Brief: Focus on Nvidia; U.S. Posts Record October Budget Deficit; De Cos Emerges as Favorite for ECB Presidency"
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike"
    ]
   },
   {
@@ -157,8 +157,8 @@
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation"
