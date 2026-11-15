@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T01:22:00Z",
+ "built": "2026-11-15T01:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
+   "kept": 65,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -74,8 +74,8 @@
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
-    "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
-    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -97,7 +97,7 @@
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote"
+    "Boston Fed president warns housing costs may have to worsen before they improve"
    ]
   },
   {
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 12,
+   "fetched": 37,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
+    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
-    "Lagarde Is Leaving the ECB Early. Bitcoin Never Has to Choose a Successor"
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates"
    ]
   },
   {
@@ -141,7 +141,7 @@
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "German coalition disagreements hold up ECB jobs deal",
-    "Euro Falls as US Dollar gains on inflation concerns, Fed rate hike bets"
+    "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job"
    ]
   },
   {
