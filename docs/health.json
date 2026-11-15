@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T06:37:00Z",
+ "built": "2026-11-15T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 61,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 36,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -116,6 +116,7 @@
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
+    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates"
    ]
@@ -125,7 +126,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -139,7 +140,7 @@
     "German coalition disagreements hold up ECB jobs deal",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany near deal that would put De Cos in ECB top job",
-    "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job"
+    "Germany to propose ECB leadership package next week"
    ]
   },
   {
@@ -157,8 +158,8 @@
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
+    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation"
