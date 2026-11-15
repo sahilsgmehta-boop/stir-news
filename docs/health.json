@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T23:07:01Z",
+ "built": "2026-11-15T23:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 3,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
@@ -122,11 +122,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early"
    ]
@@ -136,8 +137,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 9,
+   "fetched": 27,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
