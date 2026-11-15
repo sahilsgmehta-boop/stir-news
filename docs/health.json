@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T02:07:00Z",
+ "built": "2026-11-15T02:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,8 +84,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 2,
+   "kept": 63,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Fed likely to need to raise rates amid worsening inflation: Daly",
@@ -106,7 +106,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 36,
-   "kept": 11,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -118,31 +118,20 @@
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
-    "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms"
+    "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
+    "Lagarde Is Leaving the ECB Early. Bitcoin Never Has to Choose a Successor"
    ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": true,
-   "fetched": 24,
-   "kept": 5,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Christine Lagarde is resigning as ECB president months early",
-    "Germany Readies Candidates for ECB Top Posts",
-    "Germany, France in 'intensive' talks on new ECB chief",
-    "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
-    "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job",
-    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
-    "German coalition disagreements hold up ECB jobs deal",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates"
-   ]
+   "error": "feed returned no items",
+   "near_misses": []
   },
   {
    "id": "gn_boe",
@@ -171,12 +160,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s case to raise rates again may strengthen on UK price data"
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
   },
   {
