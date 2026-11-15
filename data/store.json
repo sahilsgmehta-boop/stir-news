@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-15T21:31:39Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed’s Williams says inflation stubbornly high and Fed still has work to do on policy",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0FnNmVOazhMNGd2b1V4dnNobXlHX000ZkFMZTVUS1Z3UzFOTUYyVmRJYWY1MnZxZmhDdDFGTklpb3lXZnlKQUhjNVpjaGozS0h4d0l3VUtzSmJtcVdfX2pGSjUzS0NROWtha2c1VzBDVS1Vb2JFOW5DaTJIWmxRS0hKUFUxVWJWRlpsNU5PenNWZGxiMHN2RHJmaDFSMGQ0OFFYVmNXeG8xN0xscVloS0FkSi0xQWVvRm1UNl9iTjRvU1U?oc=5",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "8035bf1d805b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-15T19:44:12Z",
 "bank": "Fed",
 "speaker": "Schmid",
@@ -34,6 +54,26 @@
 "id": "25fffefe21a1",
 "score": 5,
 "read": "Calls inflation still overheated, backing further tightening.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-15T18:46:00Z",
+"bank": "Fed",
+"speaker": "Schmid",
+"hl": "Fed's Schmid: The Economic Outlook, Monetary Policy and Payments",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeExTZ1ZvVy1PNVR2aHYzNHdlOFJOTUF0UWFZQmxHMTczRXoxWXk2MzFJcW9POThSYThsbGJZRXczSzlBV1p1SUx0UkRYX3ZuNWNRd3VwRWtrdlZDbTVnMk1ZNjFNdk5jcVNMTkdjN3F1TjZqTTQ0V2JBSFg0VzU5SlRsUkUtSnV4VWRaN3VqUnFWM29SNnhSM3NR0gGfAUFVX3lxTE9ySlFPSUNFc1U4R3JBSC1xai1DcnhTVzkzMS1BMHpVdEdHSXpmS210bmlmbWpHUFBUeTE1LUxaNWFrRjRZN0xjMC1wSVBhV3RyNjFNX29KZXI2VVh4ZmRHcTVJOHc2SGs1dGVWV0VkRXlsWGJIU1hicVRoNzMzZEUtR0xlZXRWbF8yZEltRHVKQnlJd3hKM2dkWWJGQlRHVQ?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "df55ef675364",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -707,7 +747,8 @@
 "Bloomberg.com",
 "ANI News",
 "ChiniMandi",
-"Yahoo Finance"
+"Yahoo Finance",
+"Times of Oman"
 ],
 "desc": "",
 "id": "aff5b7890ab1",
