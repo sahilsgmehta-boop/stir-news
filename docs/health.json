@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T03:37:00Z",
+ "built": "2026-11-15T03:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 64,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
-   "kept": 12,
+   "fetched": 36,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates"
+    "Lagarde Is Leaving the ECB Early. Bitcoin Never Has to Choose a Successor"
    ]
   },
   {
@@ -171,7 +171,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
