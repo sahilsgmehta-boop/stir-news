@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T07:07:01Z",
+ "built": "2026-11-15T07:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,14 +83,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 4,
    "error": "",
    "near_misses": [
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
@@ -126,7 +126,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -140,7 +140,7 @@
     "German coalition disagreements hold up ECB jobs deal",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany near deal that would put De Cos in ECB top job",
-    "Germany to propose ECB leadership package next week"
+    "Morning Brief: Focus on Nvidia; U.S. Posts Record October Budget Deficit; De Cos Emerges as Favorite for ECB Presidency"
    ]
   },
   {
