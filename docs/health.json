@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T20:37:00Z",
+ "built": "2026-11-15T20:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,8 +61,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 38,
+   "fetched": 58,
+   "kept": 35,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,20 +84,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 2,
+   "kept": 61,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed \u2019has some work to do on inflation,\u2019 KC Fed chief says By Reuters",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
+    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening"
+    "Boston Fed president warns housing costs may have to worsen before they improve"
    ]
   },
   {
@@ -129,7 +129,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early",
     "Germany Readies Candidates for ECB Top Posts"
@@ -140,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 26,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -149,12 +148,12 @@
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
-    "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Bank of England Eyes Rapid Interest Rate Rise as Inflation Nears 5%",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "Bank of England Bank Rate 4%: Business and Mortgage Costs"
+    "Bank of England Bank Rate 4%: Business and Mortgage Costs",
+    "Bank of England\u2019s Cleland says 121 consultation replies back UK payments core design",
+    "Bank of England Chief Economist Signals Further Interest Rate Rises to Combat Inflation"
    ]
   },
   {
