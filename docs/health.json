@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T15:52:01Z",
+ "built": "2026-11-15T16:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,8 +61,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 89,
-   "kept": 60,
+   "fetched": 87,
+   "kept": 58,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -152,10 +152,10 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
-    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "BoE chief economist says further rate rises needed to combat inflation",
+    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
