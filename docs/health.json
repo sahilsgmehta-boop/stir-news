@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T15:07:01Z",
+ "built": "2026-11-15T15:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,9 +61,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 67,
-   "added": 0,
+   "fetched": 98,
+   "kept": 66,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -105,14 +105,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 14,
+   "fetched": 34,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "France and Germany near deal that would put De Cos in ECB top job",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
@@ -127,20 +127,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 21,
-   "kept": 3,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
-    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite",
-    "German coalition disagreements hold up ECB jobs deal"
+    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
    ]
   },
   {
@@ -296,7 +296,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 9,
-   "added": 1,
+   "added": 2,
    "error": ""
   },
   {

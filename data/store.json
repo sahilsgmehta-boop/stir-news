@@ -1196,6 +1196,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-13T15:45:00Z",
+"bank": "Fed",
+"speaker": "Collins",
+"hl": "Fed’s Susan Collins warns interest rates may rise more than expected as inflation risks persist",
+"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnJ6NjRNM2tNaklfSGZBWFZSb3kxYm9QM055clQzTUl4bmFzQURCNWNJWUhaUWI2bjAtcXJ4VUZkMFl1NE40WjhfVDNPellUZENjSU1nXzlXbDRjTXRlNGZLdWVVNzBJQW9sSm13TmdQa25KOUk5TUJIRlNzQk9SMUtSYmlYSWlBU1RYOElCLUw2dUpkS0JPTHcyajRPTmdNSVNmeHZwR1QzQjItUjc1RmtyTTFZYmN5Ti1pUEMtRDIwVDRkVkE2NHpkNlU?oc=5",
+"src": "Business Upturn",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ee4850769d02",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-13T15:42:32Z",
 "bank": "Fed",
 "speaker": "Collins",
@@ -1779,7 +1799,8 @@
 "CNA",
 "The Lufkin Daily News",
 "Forex Factory",
-"Investing.com"
+"Investing.com",
+"Analytics Insight"
 ],
 "desc": "",
 "id": "371e9e233c7b",
@@ -18226,26 +18247,6 @@
 "BIS central bankers' speeches"
 ],
 "id": "0f8a88c61725",
-"score": null,
-"read": "",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-10-01T15:20:12Z",
-"bank": "BoC",
-"speaker": "Rogers",
-"hl": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria",
-"url": "https://www.bankofcanada.ca/multimedia/speech-greater-victoria-chamber-of-commerce-and-cfa-society-victoria-2026-10-1/",
-"src": "Bank of Canada speeches",
-"tier": "official",
-"tone": "",
-"also": [],
-"id": "db66422dfd59",
 "score": null,
 "read": "",
 "desc": "",
