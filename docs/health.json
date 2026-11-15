@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T09:37:00Z",
+ "built": "2026-11-15T09:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -69,9 +69,9 @@
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
-    "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+    "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
+    "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 62,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 33,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -134,10 +134,10 @@
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
+    "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "German coalition disagreements hold up ECB jobs deal",
-    "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany near deal that would put De Cos in ECB top job",
     "Germany to propose ECB leadership package next week"
    ]
