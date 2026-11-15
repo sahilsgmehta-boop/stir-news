@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T10:37:01Z",
+ "built": "2026-11-15T10:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 69,
+   "kept": 68,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -70,8 +70,8 @@
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
-    "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+    "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "POINT: Tariffs don't drive inflation \u2014 Fed\u2019s numbers say so",
@@ -105,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 12,
+   "fetched": 36,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,10 +114,11 @@
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
-    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
-    "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down"
+    "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
+    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
    ]
   },
   {
@@ -147,8 +148,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 12,
+   "fetched": 33,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
