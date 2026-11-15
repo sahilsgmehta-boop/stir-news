@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T08:07:01Z",
+ "built": "2026-11-15T08:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
+   "kept": 69,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 61,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -140,7 +140,7 @@
     "German coalition disagreements hold up ECB jobs deal",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany near deal that would put De Cos in ECB top job",
-    "Germany to propose ECB leadership package next week"
+    "Morning Brief: Focus on Nvidia; U.S. Posts Record October Budget Deficit; De Cos Emerges as Favorite for ECB Presidency"
    ]
   },
   {
@@ -157,8 +157,8 @@
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
-    "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
+    "Here\u2019s when experts think the Bank of England will hike rates next",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
@@ -170,12 +170,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "BOE\u2019s case to raise rates again may strengthen on UK price data",
     "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
   },
