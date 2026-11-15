@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T05:22:00Z",
+ "built": "2026-11-15T05:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,7 +63,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 69,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -83,8 +83,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 3,
+   "kept": 62,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed likely to need to raise rates amid worsening inflation: Daly",
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
+   "fetched": 39,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -148,7 +148,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 31,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -158,8 +158,8 @@
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation"
