@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T16:52:00Z",
+ "built": "2026-11-15T17:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,8 +61,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 48,
+   "fetched": 74,
+   "kept": 47,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -74,7 +74,7 @@
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "The Fed\u2019s other big debate: When should John Williams\u2019 term end?",
-    "Nvidia earnings collide with Fed\u2019s biggest AI challenge under Warsh",
+    "Fed\u2019s biggest AI challenge collides with fallout from Nvidia backlash",
     "AI Tops Fed's Financial Risk Survey as Advanced-Computing Debt Exceeds $680 Billion"
    ]
   },
@@ -124,7 +124,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 15,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -133,7 +133,6 @@
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early",
-    "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
     "France and Germany near deal that would put De Cos in ECB top job",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
@@ -172,7 +171,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s case to raise rates again may strengthen on UK price data",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
   },
