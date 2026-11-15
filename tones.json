@@ -7246,6 +7246,54 @@
    "lead": "2bcf3557dbf5",
    "at": "2026-11-15T06:48:57Z",
    "by": "claude"
+  },
+  "cfadbcd2288b": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Re-report of Collins: inflation fight outweighs housing strain; more tightening likely soon.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-15T15:48:11Z",
+   "by": "claude"
+  },
+  "ee4850769d02": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Collins warns rates may rise more than expected as inflation risks persist.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-15T15:48:11Z",
+   "by": "claude"
+  },
+  "6fc0cf3c7ae0": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Re-report of Goolsbee calling October CPI 'borderline disturbing'; adds to hike case.",
+   "lead": "6173fb9077fd",
+   "at": "2026-11-15T15:48:11Z",
+   "by": "claude"
+  },
+  "47c1c60f047c": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Goolsbee says Fed is not on track for 2%, backing further tightening.",
+   "lead": "c668a4ca207b",
+   "at": "2026-11-15T15:48:11Z",
+   "by": "claude"
+  },
+  "da7137a36973": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Re-report: Waller backs at least a 25bp December hike, 50bp on the table.",
+   "lead": "8cdfc14340a4",
+   "at": "2026-11-15T15:48:11Z",
+   "by": "claude"
+  },
+  "ea7b0d5153f5": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Re-report of Barr's AI inequality speech; no monetary policy content.",
+   "lead": "c726a8b2b0e3",
+   "at": "2026-11-15T15:48:11Z",
+   "by": "claude"
   }
  }
 }
