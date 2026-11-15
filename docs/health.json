@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T00:07:00Z",
+ "built": "2026-11-15T00:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 66,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 62,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -113,8 +113,8 @@
     "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
@@ -155,8 +155,8 @@
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
-    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
