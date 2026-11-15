@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T17:22:00Z",
+ "built": "2026-11-15T17:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,8 +61,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
-   "kept": 45,
+   "fetched": 69,
+   "kept": 42,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -105,17 +105,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 11,
+   "fetched": 28,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal that would put De Cos in ECB top job",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
    ]
   },
@@ -130,10 +130,10 @@
    "error": "",
    "near_misses": [
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
+    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early",
     "Germany Readies Candidates for ECB Top Posts",
-    "France and Germany near deal that would put De Cos in ECB top job",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
    ]
@@ -148,8 +148,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Here\u2019s when experts think the Bank of England will hike rates next",
@@ -165,7 +165,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",

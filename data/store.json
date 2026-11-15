@@ -18261,28 +18261,6 @@
 "rr": "",
 "ev": "",
 "basis": ""
-},
-{
-"t": "2026-10-01T17:30:00Z",
-"bank": "Fed",
-"speaker": "Jefferson",
-"hl": "Jefferson, The U.S. Economy and Monetary Policy",
-"url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
-"src": "Federal Reserve speeches",
-"tier": "official",
-"tone": "",
-"also": [
-"BIS central bankers' speeches"
-],
-"id": "0f8a88c61725",
-"score": null,
-"read": "",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
 }
 ]
 }
