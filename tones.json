@@ -7223,6 +7223,29 @@
    "lead": "9ce261016a10",
    "at": "2026-11-14T20:49:07Z",
    "by": "claude"
+  },
+  "171248b94b4b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-15T06:48:57Z",
+   "by": "claude"
+  },
+  "bc7df45d6827": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Re-post of Goolsbee's Nov 12 remarks: inflation well above target, going the wrong way.",
+   "lead": "c640e050efa3",
+   "at": "2026-11-15T06:48:57Z",
+   "by": "claude"
+  },
+  "4b9e325c207d": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Re-post of Daly's Nov 12 remark: size and timing of tightening not yet decided.",
+   "lead": "2bcf3557dbf5",
+   "at": "2026-11-15T06:48:57Z",
+   "by": "claude"
   }
  }
 }
