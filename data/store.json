@@ -148,7 +148,8 @@
 "Fort Worth Star-Telegram",
 "Seeking Alpha",
 "San Luis Obispo Tribune",
-"Investify"
+"Investify",
+"Tacoma News Tribune"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -816,7 +817,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Mitrade"
+],
 "desc": "",
 "id": "1565ecb04ff4",
 "score": 5,
