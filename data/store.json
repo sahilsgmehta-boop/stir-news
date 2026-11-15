@@ -104,7 +104,8 @@
 "Forex Factory",
 "CNA",
 "Fort Worth Star-Telegram",
-"Seeking Alpha"
+"Seeking Alpha",
+"San Luis Obispo Tribune"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -2243,7 +2244,8 @@
 "also": [
 "FXStreet",
 "Investing.com",
-"Yahoo Finance Singapore"
+"Yahoo Finance Singapore",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "b0d15e4d8280",
@@ -3069,7 +3071,8 @@
 "marketscreener.com",
 "Yahoo! Finance Canada",
 "Bloomberg Law News",
-"Moomoo"
+"Moomoo",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "3440032d8f32",
