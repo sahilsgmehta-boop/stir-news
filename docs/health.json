@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T06:52:00Z",
+ "built": "2026-11-15T07:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,8 +83,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 3,
+   "kept": 62,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed likely to need to raise rates amid worsening inflation: Daly",
@@ -148,8 +148,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 11,
+   "fetched": 34,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -175,7 +175,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "BOE\u2019s case to raise rates again may strengthen on UK price data",
     "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
   },
