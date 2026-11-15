@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T16:07:00Z",
+ "built": "2026-11-15T16:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,8 +62,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 87,
-   "kept": 58,
-   "added": 1,
+   "kept": 57,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 31,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -113,7 +113,6 @@
     "Christine Lagarde is resigning as ECB president months early",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal that would put De Cos in ECB top job",
-    "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
@@ -125,7 +124,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 18,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -136,7 +135,7 @@
     "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
-    "German coalition disagreements hold up ECB jobs deal",
+    "France and Germany near deal that would put De Cos in ECB top job",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"

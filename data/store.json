@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-15T13:20:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed’s Warsh to take stock of AI revolution as US public grows wary",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWG5DR2lmS3NkcWRmYjRPOUpKMnViUDhiQ2hSME1WRjg0TDhzZl9fTGxPNkhBS2dPekF3ZWFWc200ekllaC1GQW1uSG1aTnhDRFRnVnoyRVhqcUt1SDNsbzBYbDZHV2tIRnBtODYtdHJBQV9UUk00VWt4bHJfanNhcmEyb0NCeWF2c0RqNENuRG9xb0lTdk5zTk5fZTNkUkVIeXNmaWJOSE9iZ29hZDhZR2h3?oc=5",
+"src": "Malaya Business Insight",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2ec06d580761",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-15T05:19:44Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -1277,7 +1297,8 @@
 "The Lufkin Daily News",
 "Investing.com",
 "SRN News",
-"Bilyonaryo Business"
+"Bilyonaryo Business",
+"WTVB"
 ],
 "desc": "",
 "id": "734e58ee04af",
