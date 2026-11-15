@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T14:07:01Z",
+ "built": "2026-11-15T14:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,8 +62,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
-   "added": 0,
+   "kept": 68,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -74,8 +74,8 @@
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
-    "The Fed\u2019s other big debate: When should John Williams\u2019 term end?",
-    "You Won't Believe The Fed's New Plan (Interest Rate Reset)"
+    "You Won't Believe The Fed's New Plan (Interest Rate Reset)",
+    "Nvidia earnings collide with Fed\u2019s biggest AI challenge under Warsh"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 60,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -106,14 +106,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 35,
-   "kept": 13,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
-    "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
@@ -158,12 +157,12 @@
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
-    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England Eyes Rapid Interest Rate Rise as Inflation Nears 5%"
    ]
   },
   {
@@ -171,7 +170,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -217,7 +216,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 10,
-   "added": 3,
+   "added": 4,
    "error": ""
   },
   {
