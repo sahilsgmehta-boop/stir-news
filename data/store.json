@@ -18192,28 +18192,6 @@
 "rr": "",
 "ev": "",
 "basis": ""
-},
-{
-"t": "2026-10-01T14:00:00Z",
-"bank": "Fed",
-"speaker": "Waller",
-"hl": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
-"url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
-"src": "Federal Reserve speeches",
-"tier": "official",
-"tone": "",
-"also": [
-"BIS central bankers' speeches"
-],
-"id": "e1dfff34bb8c",
-"score": null,
-"read": "",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
 }
 ]
 }
