@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T04:22:00Z",
+ "built": "2026-11-15T04:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,7 +84,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 62,
-   "added": 1,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Fed likely to need to raise rates amid worsening inflation: Daly",
@@ -93,8 +93,8 @@
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote"
    ]
@@ -104,8 +104,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 13,
+   "fetched": 40,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -175,7 +175,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s case to raise rates again may strengthen on UK price data"
+    "BOE\u2019s case to raise rates again may strengthen on UK price data",
+    "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
   },
   {
