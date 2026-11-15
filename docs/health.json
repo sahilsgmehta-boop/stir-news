@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T01:07:00Z",
+ "built": "2026-11-15T01:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 36,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -127,7 +127,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 5,
    "added": 0,
    "error": "",
