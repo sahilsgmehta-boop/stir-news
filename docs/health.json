@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T02:52:00Z",
+ "built": "2026-11-15T03:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 66,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -106,20 +106,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 37,
-   "kept": 13,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
+    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
-    "Lagarde Is Leaving the ECB Early. Bitcoin Never Has to Choose a Successor"
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates"
    ]
   },
   {
@@ -132,16 +132,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Christine Lagarde is resigning as ECB president months early",
     "Germany Readies Candidates for ECB Top Posts",
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
+    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
-    "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job",
-    "German coalition disagreements hold up ECB jobs deal",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates"
+    "German coalition disagreements hold up ECB jobs deal",
+    "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job"
    ]
   },
   {
