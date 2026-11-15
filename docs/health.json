@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T04:07:00Z",
+ "built": "2026-11-15T04:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,8 +83,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
-   "added": 2,
+   "kept": 62,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed likely to need to raise rates amid worsening inflation: Daly",
@@ -93,8 +93,8 @@
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
+    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote"
    ]
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 39,
    "kept": 13,
    "added": 0,
    "error": "",
