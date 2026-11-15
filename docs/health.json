@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T18:22:01Z",
+ "built": "2026-11-15T18:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 64,
-   "kept": 38,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 61,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -163,12 +163,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s case to raise rates again may strengthen on UK price data",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Lagarde for French President?",
     "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
