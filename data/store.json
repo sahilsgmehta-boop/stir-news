@@ -561,7 +561,8 @@
 "also": [
 "Bloomberg.com",
 "ANI News",
-"ChiniMandi"
+"ChiniMandi",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "aff5b7890ab1",
@@ -18248,28 +18249,6 @@
 "score": null,
 "read": "",
 "desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-10-01T15:05:48Z",
-"bank": "BoC",
-"speaker": "Rogers",
-"hl": "Canada’s housing affordability dilemma",
-"url": "https://www.bankofcanada.ca/2026/10/canadas-housing-affordability-dilemma/",
-"src": "Bank of Canada speeches",
-"tier": "official",
-"tone": "",
-"also": [
-"BIS central bankers' speeches"
-],
-"id": "914864e194f2",
-"score": null,
-"read": "",
-"desc": "Senior Deputy Governor Carolyn Rogers talks about housing affordability and why it is so difficult to fix, explaining that housing has become about more than just a place to live.",
 "sum": "",
 "pts": [],
 "rr": "",
