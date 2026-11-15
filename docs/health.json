@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T14:37:00Z",
+ "built": "2026-11-15T14:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,7 +62,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
+   "kept": 69,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 60,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -94,10 +94,10 @@
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
+    "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027"
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening"
    ]
   },
   {
@@ -126,7 +126,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 21,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -153,8 +153,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
