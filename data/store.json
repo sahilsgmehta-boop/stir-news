@@ -105,7 +105,8 @@
 "CNA",
 "Fort Worth Star-Telegram",
 "Seeking Alpha",
-"San Luis Obispo Tribune"
+"San Luis Obispo Tribune",
+"Investify"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -1606,7 +1607,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"Investing.com India"
+"Investing.com India",
+"Investing.com Canada"
 ],
 "desc": "",
 "id": "f05bee9d0773",
