@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T22:37:00Z",
+ "built": "2026-11-15T22:40:26Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
+   "fetched": 54,
    "kept": 34,
    "added": 0,
    "error": "",
@@ -67,13 +67,13 @@
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
     "Fed chair says US on 'unsustainable fiscal path' that should be dealt with soon",
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "The Fed\u2019s other big debate: When should John Williams\u2019 term end?",
     "Fed\u2019s biggest AI challenge collides with fallout from Nvidia backlash",
-    "AI Tops Fed's Financial Risk Survey as Advanced-Computing Debt Exceeds $680 Billion",
-    "Fed Vice Chair Says AI\u2019s Trillion-Dollar Infrastructure Push Is Adding To Inflation Pressures"
+    "AI Tops Fed's Financial Risk Survey as Advanced-Computing Debt Exceeds $680 Billion"
    ]
   },
   {
@@ -82,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 1,
+   "kept": 60,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
