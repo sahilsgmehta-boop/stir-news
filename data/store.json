@@ -1024,7 +1024,8 @@
 "Yahoo Finance",
 "Reuters",
 "Forex Factory",
-"marketscreener.com"
+"marketscreener.com",
+"Kitco"
 ],
 "desc": "",
 "id": "699121b125f9",
@@ -1045,7 +1046,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Mitrade"
+],
 "desc": "",
 "id": "f63b2d12190b",
 "score": 4,

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T16:22:00Z",
+ "built": "2026-11-15T16:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,9 +61,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
-   "kept": 57,
-   "added": 2,
+   "fetched": 81,
+   "kept": 52,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -72,10 +72,10 @@
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
-    "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "The Fed\u2019s other big debate: When should John Williams\u2019 term end?",
-    "Nvidia earnings collide with Fed\u2019s biggest AI challenge under Warsh"
+    "Nvidia earnings collide with Fed\u2019s biggest AI challenge under Warsh",
+    "AI Tops Fed's Financial Risk Survey as Advanced-Computing Debt Exceeds $680 Billion"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 59,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -105,8 +105,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 13,
+   "fetched": 30,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -124,8 +124,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 2,
+   "fetched": 17,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -151,14 +151,14 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Here\u2019s when experts think the Bank of England will hike rates next",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England Eyes Rapid Interest Rate Rise as Inflation Nears 5%",
     "Bank of England Bank Rate 4%: Business and Mortgage Costs"
    ]
