@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T22:22:00Z",
+ "built": "2026-11-15T22:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,21 +59,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 35,
+   "fetched": 53,
+   "kept": 34,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
     "Fed chair says US on 'unsustainable fiscal path' that should be dealt with soon",
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
-    "Fed chair discloses wife's transactions in pet-care investments",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "The Fed\u2019s other big debate: When should John Williams\u2019 term end?",
     "Fed\u2019s biggest AI challenge collides with fallout from Nvidia backlash",
-    "AI Tops Fed's Financial Risk Survey as Advanced-Computing Debt Exceeds $680 Billion"
+    "AI Tops Fed's Financial Risk Survey as Advanced-Computing Debt Exceeds $680 Billion",
+    "Fed Vice Chair Says AI\u2019s Trillion-Dollar Infrastructure Push Is Adding To Inflation Pressures"
    ]
   },
   {
@@ -92,9 +92,9 @@
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Boston Fed president warns housing costs may have to worsen before they improve"
    ]
   },
@@ -104,7 +104,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 27,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -122,12 +122,11 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early"
    ]
