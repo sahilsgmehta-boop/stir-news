@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T06:09:40Z",
+ "built": "2026-11-15T06:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -83,7 +83,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 62,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -95,8 +95,8 @@
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote"
+    "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
+    "Boston Fed president warns housing costs may have to worsen before they improve"
    ]
   },
   {
@@ -104,8 +104,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 14,
+   "fetched": 35,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -126,20 +126,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
-    "Germany Readies Candidates for ECB Top Posts",
-    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "Germany Readies Candidates for ECB Top Posts",
     "Germany, France in 'intensive' talks on new ECB chief",
+    "France and Germany close to agreement on ECB leadership \u2014 Euronews",
+    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "German coalition disagreements hold up ECB jobs deal",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany near deal that would put De Cos in ECB top job",
-    "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job",
-    "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike"
+    "Paris and Berlin near ECB carve-up that would hand Hern\u00e1ndez de Cos the top job"
    ]
   },
   {
@@ -147,18 +147,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
-    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
-    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
+    "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
     "Reform deputy leader Richard Tice lobbied Bank of England on crypto after \u00a39m donation"
@@ -174,7 +174,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s case to raise rates again may strengthen on UK price data",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
   },
