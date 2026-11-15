@@ -7294,6 +7294,69 @@
    "lead": "c726a8b2b0e3",
    "at": "2026-11-15T15:48:11Z",
    "by": "claude"
+  },
+  "68a96e9b46e0": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says inflation is moving the wrong way and the Fed has more work to do.",
+   "sum": "Schmid said inflation is still overheated and moving in the wrong direction, and that the Fed has more work to do to bring it down.",
+   "pts": [
+    "Said the Fed has more work to do to bring down inflation.",
+    "Described inflation as still overheated.",
+    "Said inflation is moving in the wrong direction rather than toward 2%.",
+    "Comments came a day before Chair Warsh's Monday remarks."
+   ],
+   "rr": "Adds a non-voter's weight behind the December hike already priced and leans against an early pause in 2027; mildly hawkish for the front end. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-15T20:49:00Z",
+   "by": "claude"
+  },
+  "5e0a00d31522": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says inflation is moving in the wrong direction ahead of Warsh's remarks.",
+   "lead": "68a96e9b46e0",
+   "at": "2026-11-15T20:49:00Z",
+   "by": "claude"
+  },
+  "25fffefe21a1": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calls inflation still overheated, backing further tightening.",
+   "lead": "68a96e9b46e0",
+   "at": "2026-11-15T20:49:00Z",
+   "by": "claude"
+  },
+  "c12a9b974bdb": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Re-report: Goolsbee warns stubborn inflation could force more aggressive hikes.",
+   "sum": "Goolsbee warned that stubborn inflation could force more aggressive rate hikes, saying the Fed is not on a path back to 2%.",
+   "pts": [
+    "Said the Fed is not on a path back to its 2% target.",
+    "Warned stubborn inflation could force more aggressive rate hikes.",
+    "Restates his CNBC interview of November 13 that the Fed must re-establish inflation credibility."
+   ],
+   "rr": "Supports the December hike and keeps a 50bp or extended-hiking tail alive into early 2027; hawkish for the front end. Only news paraphrases were available.",
+   "ev": "Interview, CNBC (re-report)",
+   "basis": "reports",
+   "at": "2026-11-15T20:49:00Z",
+   "by": "claude"
+  },
+  "1c5d1519d3fd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-15T20:49:00Z",
+   "by": "claude"
+  },
+  "2ec06d580761": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-15T20:49:00Z",
+   "by": "claude"
   }
  }
 }
