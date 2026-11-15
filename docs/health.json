@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T19:37:00Z",
+ "built": "2026-11-15T19:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -69,8 +69,8 @@
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
     "Fed chair says US on 'unsustainable fiscal path' that should be dealt with soon",
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
-    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Dollar Rallies As Markets Reprice The Fed\u2019s Next Move",
+    "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "The Fed\u2019s other big debate: When should John Williams\u2019 term end?",
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -125,8 +125,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
-   "kept": 0,
+   "fetched": 11,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 8,
+   "fetched": 29,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [

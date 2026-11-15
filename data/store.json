@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-15T19:44:12Z",
+"bank": "Fed",
+"speaker": "Schmid",
+"hl": "Kansas City Fed's Schmid says inflation is 'moving in the wrong direction' before Warsh's Monday remarks",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejlSWDh5R2RxNXQyWF9wOW1FRnhtam5lM1ZYa2RsaHFkUVFROS1uakdyRXAwS24wUFZNTkZzNERXOVBRaDdQeWRZRnd1NXhFVzhCaF9pOXFac2duR09LSzdUeEF4R3NTZ2ZnS2R0TWUtZUNFS3FIRFZSd1VzTEJ0NkdrSG9Ydmp5bDVEd0ltZmhMSWtsdzVMQ3J2cFd0MTRfQ1pib25SWU8zbGY3NXRDMTF1eHJCNEFIcUI0eDhB?oc=5",
+"src": "MLQ.ai",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "5e0a00d31522",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-15T18:40:00Z",
 "bank": "Fed",
 "speaker": "Schmid",
@@ -55,7 +75,9 @@
 "tone": "",
 "also": [
 "Lincoln Journal Star",
-"The Daily Progress"
+"The Daily Progress",
+"Omaha World-Herald",
+"Hickory Daily Record"
 ],
 "desc": "",
 "id": "2ec06d580761",
