@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T00:22:00Z",
+ "built": "2026-11-15T00:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -75,7 +75,7 @@
     "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "What Is the Best Crypto to Buy Before the Fed\u2019s December Decision?",
-    "FedWatch Advisors founder Ben Emons on Fed\u2019s rate path after October CPI data"
+    "Two Views: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -105,21 +105,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 11,
+   "fetched": 37,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
-    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
+    "France and Germany near deal on De Cos for ECB top job as EU confirms two candidates",
     "French 2027 presidential election poll shows Melanchon gaining ground, Lagarde edging Philippe",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
-    "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms"
+    "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms",
+    "Lagarde Is Leaving the ECB Early. Bitcoin Never Has to Choose a Successor"
    ]
   },
   {
@@ -171,11 +171,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "BOE\u2019s case to raise rates again may strengthen on UK price data"
+   ]
   },
   {
    "id": "gn_snb",
