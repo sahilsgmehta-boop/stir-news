@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-15T05:19:44Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Warsh Speech Preview: Fed Chair on 16 November 2026",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0VQaVhWM1RiOUU0Slg1cllRR2poSGdYTHYxUDgwTGNIaVJuUS1LZ25pVndWTEZxdTBDc2FiUDFTdzRjMlJ6czd0ZUhwYk5TVEJUSURxSUN5NUlDQUFCeXZwQ005b2I3dXQ3Q0lxNmh3aWs1dEpjc0RaZ3pxSDBYQS1ldEU5S0ZSNDhmNnJoYURHRHFtZmh5QjFIZThncjlvNmFrQ1NqYw?oc=5",
+"src": "Admirals",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "171248b94b4b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-15T02:35:49Z",
 "bank": "Fed",
 "speaker": "Goolsbee",
@@ -1265,7 +1285,8 @@
 "Central Oregon Daily",
 "The Lufkin Daily News",
 "Forex Factory",
-"StreetInsider"
+"StreetInsider",
+"AOL.com"
 ],
 "desc": "",
 "id": "00f02bdb31e0",
