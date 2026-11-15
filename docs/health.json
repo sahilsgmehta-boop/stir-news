@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T08:22:00Z",
+ "built": "2026-11-15T08:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -89,8 +89,8 @@
    "near_misses": [
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
+    "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
@@ -104,7 +104,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 34,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -117,7 +117,6 @@
     "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
     "The German Schnabel (ECB) sets Spain and the south of the euro as a reference for structural reforms"
    ]
   },
@@ -140,7 +139,7 @@
     "German coalition disagreements hold up ECB jobs deal",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
     "France and Germany near deal that would put De Cos in ECB top job",
-    "Morning Brief: Focus on Nvidia; U.S. Posts Record October Budget Deficit; De Cos Emerges as Favorite for ECB Presidency"
+    "Germany to propose ECB leadership package next week"
    ]
   },
   {
@@ -148,7 +147,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 35,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -157,8 +156,8 @@
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
-    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "Here\u2019s when experts think the Bank of England will hike rates next",
+    "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
     "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
@@ -170,12 +169,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s case to raise rates again may strengthen on UK price data",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Fed officials send hawkish signals, Wall Street anticipates three consecutive interest rate hikes."
    ]
   },
