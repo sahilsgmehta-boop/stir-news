@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T15:22:00Z",
+ "built": "2026-11-15T15:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,9 +61,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
-   "kept": 66,
-   "added": 2,
+   "fetched": 94,
+   "kept": 64,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -75,7 +75,7 @@
     "Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows \u201cNo Silver Lining\u201d",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
     "The Fed\u2019s other big debate: When should John Williams\u2019 term end?",
-    "You Won't Believe The Fed's New Plan (Interest Rate Reset)"
+    "Nvidia earnings collide with Fed\u2019s biggest AI challenge under Warsh"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -105,7 +105,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 32,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -113,7 +113,6 @@
     "Christine Lagarde is resigning as ECB president months early",
     "Germany and France near agreement for Hern\u00e1ndez de Cos to succeed Lagarde at the helm of the ECB",
     "France and Germany near deal that would put De Cos in ECB top job",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Nagel: Navigating new economic realities: Europe\u2019s outlook in a changing global landscape",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
@@ -126,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -138,9 +137,9 @@
     "Germany, France in 'intensive' talks on new ECB chief",
     "Germany Readies Candidates for ECB Top Posts",
     "EU leaders to discuss candidates for top ECB jobs at Nov 26 summit",
-    "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
     "France and Germany close to agreement on ECB leadership \u2014 Euronews",
-    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite"
+    "Germany finalizes an agreement on the ECB leadership with De Cos as favorite",
+    "German coalition disagreements hold up ECB jobs deal"
    ]
   },
   {
@@ -149,12 +148,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 29,
-   "kept": 10,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Here\u2019s when experts think the Bank of England will hike rates next",
@@ -296,7 +295,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 9,
-   "added": 2,
+   "added": 3,
    "error": ""
   },
   {
