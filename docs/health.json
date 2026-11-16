@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T08:52:00Z",
+ "built": "2026-11-16T09:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
     "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
     "ECB bond market intervention warning from Governor Knot. Can\u2019t replace sound fiscal policy,"
    ]
@@ -69,9 +70,9 @@
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
     "Gold holds near $3,870 ahead of Fed Chair remarks",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
+    "Commodity Corner: Oil steadies after two-week slide; gold edges higher ahead of Fed Chair's remarks",
     "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
-    "Will the Fed raise interest rates by 50 basis points this December?",
-    "Nifty Outlook - Fed Chair's speech in focus amidst oil's decline by Geojit Investments Ltd"
+    "Will the Fed raise interest rates by 50 basis points this December?"
    ]
   },
   {
@@ -80,8 +81,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 6,
+   "kept": 58,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
@@ -101,16 +102,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 7,
-   "added": 1,
+   "fetched": 27,
+   "kept": 10,
+   "added": 2,
    "error": "",
    "near_misses": [
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
     "ECB VP says AI, debt have become prominent stability risks",
     "Christine Lagarde is resigning as ECB president months early",
     "Lagarde for French President?",
-    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
@@ -123,17 +123,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 1,
+   "fetched": 20,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
-    "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
+    "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Christine Lagarde is resigning as ECB president months early",
     "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
-    "Below 1.1050: Euro weakens as traders increase bets on a Fed rate hike"
+    "Below 1.1050: Euro weakens as traders increase bets on a Fed rate hike",
+    "ECB Schedules Financial Stability Review for Wednesday, Nov. 18"
    ]
   },
   {
@@ -141,7 +142,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 29,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -318,7 +319,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 20,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": ""
   },
