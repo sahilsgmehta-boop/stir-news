@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T23:52:00Z",
+ "built": "2026-11-16T00:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,10 +21,10 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB bond market intervention warning from Governor Knot. Can\u2019t replace sound fiscal policy,",
     "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
     "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer meets a hiking Fed",
-    "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
-    "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next?"
+    "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions"
    ]
   },
   {
@@ -59,9 +59,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 35,
-   "added": 0,
+   "fetched": 54,
+   "kept": 34,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -110,12 +110,12 @@
    "near_misses": [
     "Christine Lagarde is resigning as ECB president months early",
     "Lagarde for French President?",
+    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
+    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
-    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
-    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E"
+    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
    ]
   },
   {
@@ -123,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -139,8 +139,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 8,
+   "fetched": 28,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
