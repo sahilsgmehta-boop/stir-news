@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T06:37:00Z",
+ "built": "2026-11-16T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -113,7 +113,6 @@
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
-    "She Chose to Preserve Her Image: Why ECB Chief Lagarde Is Stepping Down",
     "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
    ]
   },
@@ -139,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 11,
+   "fetched": 28,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -161,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
