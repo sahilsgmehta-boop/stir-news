@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T17:52:01Z",
+ "built": "2026-11-16T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
-   "added": 0,
+   "kept": 2,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
@@ -48,7 +48,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 10,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 58,
-   "added": 2,
+   "fetched": 99,
+   "kept": 61,
+   "added": 1,
    "error": "",
    "near_misses": [
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
-    "Gold price struggles even as New York Fed's Empire State survey weakens",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
+    "Gold price struggles even as New York Fed's Empire State survey weakens",
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
     "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
     "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
-    "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
-    "Gold holds near $3,870 ahead of Fed Chair remarks"
+    "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on"
    ]
   },
   {
@@ -80,18 +80,18 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 77,
-   "kept": 39,
-   "added": 5,
+   "fetched": 79,
+   "kept": 41,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
+    "Fed warns of growing financial risks from AI boom",
     "Gold fall to more than one-year low on resilient dollar as hawkish Fed bets build",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "JPMorgan's Bob Michele says the Fed missed its October hike",
     "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
-    "Boston Fed president warns housing costs may have to worsen before they improve",
     "Bessent says the Fed should not raise rates too much into an energy supply shock",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 39,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -110,13 +110,13 @@
     "Spain Hopes for Quick Deal on De Cos as Next ECB President",
     "Greenway appointed ECB's head of women's game strategy",
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
-    "Christine Lagarde is resigning as ECB president months early",
     "ECB VP says AI, debt have become prominent stability risks",
+    "Christine Lagarde is resigning as ECB president months early",
+    "Lydia Greenway appointed ECB\u2019s head of women\u2019s game strategy",
     "Lagarde for French President?",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
-    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
+    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde"
    ]
   },
   {
@@ -124,8 +124,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 12,
+   "fetched": 18,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -150,7 +150,7 @@
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "Bank of England signals further rate rises into 2027",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
@@ -175,7 +175,7 @@
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Who will be the next Bank of Canada governor? These are some contenders",
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader -- 2nd Update",
     "Who will be the next Bank of Canada governor? These are some contenders"
    ]
   },

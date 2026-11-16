@@ -1,6 +1,66 @@
 {
 "items": [
 {
+"t": "2026-11-16T18:00:04Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed's Warsh Says Super Intelligence Could Transform the US Economy",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSV9Ia3hnU1l4a3pFcjRoM0FDNVI1NFVxQmE1aUhzd0U4eHktYkQ1OF94VjhYWC1EbnlZamg1bjBpQ1hwb0l0WnRuajR3bFhGeEExcmFVSmtwcDI5cUh0Sm9FcUdnMExjMWFQNmxnZWxYVVlRZlZZcW1SX1o3NDBjQ3FaOGw1VFBfaWUyRkJjZkptaVdST0RrdFcxMUhqYTVkSm1zbmVUVjhuZHdMcEpseVJyUDlVTGVwaElYMFNSWkFpc0MwNk1V0gHMAUFVX3lxTFBDd2ZzOGN4UWYwcWJZMk5OLUpmWWhIdW1pak5nazdhZklQM2MtLWQxV1VJVFlndWpOYUw4YVowTF9oeHpRaVNpZ1lGWFd5RFJHMDRVTDhQUHJsWm5xNG5sSGhIbktGb1hGMXpfb3NFSm5mbnk3bXpLcHhMMnJiMDhzaXJmV1NWd1Z6aWRGOVc0ejJGVUdKaEhKd3JoSG1XUWtEaWlyWWxlVmt3Tm1xMVBwM3NsV0o3ajh6dFQ5dzVOLWg1dFF5eE9Qb1BnSg?oc=5",
+"src": "Asianet Newsable",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ace4ed63dfc0",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T17:53:16Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Warsh Just Described How The AI Boom Could End. Wall Street Is Already Nervous",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1NfNEs0ZElEUmNWODc5ejlEc2xkS1EwNktxR3RoVmRiMFlRd2x5YTRCZW1ZUExxU1l3empEYVhRVmJwak1ab2VzaG9mNERGLXg0R0d4N2JaUnVQcHBqRU85WGJHOVdCZ2JlU3BNVTlGTUZjUE44T2ZNN1VPUWJPSGtiZl9Ob2U4bW1uR0tjRDRNcUx3bUpuN0VNdjFiV2RjV2MwbHZsUWVuQ1B1YVZ0ZGQwTG9Hckd0Y1MzR3c1WVBRZTFUYzVRUk9tNNIB0wFBVV95cUxOVVYxdkVraTB2UnliMmlFVGV0RlZrTHB0N09hUDRSWmdxWTBqUzBqWHdhLUhZSFdrcjJOcTdiSElkeE9qaTBHeWVPUVh1OTdyODBXam10VGdtdU9fOUx3S0ZSa25QSnhTSm44b2RlUVhmbWlxQUplc0JhdktiWG5maW82TkV6V2ktS1VHYjhIYmY2cmNNdkdBamdqQ2RyWXE4ZWZhRUdsbWhjNDRLNW5EdS1hUXd0NkZWVUMyVzFydEZ6aTlCc0UwYVNPZ2hhcVktV2pv?oc=5",
+"src": "NDTV Profit",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "7dc9c1336c33",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T17:51:29Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Tiff Macklem should have been fired, not celebrated",
+"url": "https://investinglive.com/central-banks/tiff-macklem-to-retire-he-will-be-remembered-for-the-worst-forward-guidance-in-central-bank-history/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Tiff Macklem announced that he will retire after his seven-year term ends in June 2027. He should have left much sooner. It continues to baffle me that no central banker paid the price for the disastrous covid inflation. In no other high-profile field in the world is incompetence tolerated to the extent it is in central banking. It's a field that's protected both by government independence and a culture that accepts failure. No one exemplified that more than Tiff Macklem and his performance during the pandemic. Despite a raging housing bubble, his bank cut rates to 0.25% in the pandemic. On it",
+"id": "9a642c7b5565",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T17:37:00Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -9,7 +69,9 @@
 "src": "ANI News",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"The Economic Times"
+],
 "desc": "",
 "id": "412c5616baf3",
 "score": null,
@@ -101,6 +163,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-16T17:06:20Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed’s Warsh doesn’t talk about monetary policy in a speech on AI",
+"url": "https://investinglive.com/central-banks/fed-s-warsh-doesn-t-talk-about-monetary-policy-in-a-speech-on-ai/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Warsh delivered comments at the Productivity and Jobs Task Force Conference in San Francisco and there's nothing market-moving in them. Highlights of the speech: Calls the current era possibly “the most transformational period in my adult lifetime” AI (he calls it SI) “could supercharge idea generation” and sustain growth substantially above the long-run average Productivity growth has been “reasonably strong” in recent quarters but hasn’t yet broken out “definitively and structurally to the upside” The Fed’s role is “neither advocacy nor opposition” Widespread adoption will have “important im",
+"id": "cb3f86ae9e1a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T17:03:50Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -174,8 +256,10 @@
 "src": "WSJ",
 "tier": "comment",
 "tone": "",
-"also": [],
-"desc": "",
+"also": [
+"MarketWatch"
+],
+"desc": "The Federal Reserve staff is in the early days of developing various scenarios of how artificial intelligence’s growing role in business and daily life will impact the economy, Fed Chairman Kevin Warsh said Monday.",
 "id": "2bca60ae9766",
 "score": null,
 "read": "",
@@ -214,7 +298,9 @@
 "src": "Bloomberg",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com"
+],
 "desc": "",
 "id": "51609f3e9238",
 "score": null,
@@ -237,7 +323,8 @@
 "also": [
 "WKRC",
 "WSMH",
-"KCBY"
+"KCBY",
+"WPDE"
 ],
 "desc": "",
 "id": "023da12de922",
