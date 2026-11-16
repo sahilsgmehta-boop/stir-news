@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T11:39:46Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "US Equity Investors to Monitor Anthropic's IPO, Nvidia's Quarterly Results, Fed Chair Kevin Warsh's Policy Lean This Week",
+"url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWDh1NWdmUzBGYjIxWVJNQU1EUXF4X0tFMzRLSXVJamoyR1JWc3c3MXhZc05uWHNCUTNWXzFCZlBqMXlPeXRvak8yQ0Q0R3hndFFGZklMT2hxTWV5bnFlcVNyTDFwM0JyeVhhZEY1TjhuMWpWQzIwSzI5eFlMWTRJM0J2MFJfNGFCaDRiSjRPcUlrbDF0OWhlRnZhS3VBOFVJY1ZLX3Rmb21GSGtRNk9oNEFOZ2lqbDVTOFZuUkNuRkRpTWR1WUNXaW42dThkNTdCUzBKUi1UdGhra09RcEE4TWp4dnU?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "adc7e296c490",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T11:32:00Z",
 "bank": "Fed",
 "speaker": "Barr",
@@ -95,7 +115,8 @@
 "tone": "",
 "also": [
 "The Defiant",
-"Bloomberg Law News"
+"Bloomberg Law News",
+"MLQ.ai"
 ],
 "desc": "",
 "id": "f3ff9395ad9d",
