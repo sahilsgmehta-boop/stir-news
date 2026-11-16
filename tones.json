@@ -7357,6 +7357,172 @@
    "read": "Not a policy remark.",
    "at": "2026-11-15T20:49:00Z",
    "by": "claude"
+  },
+  "df55ef675364": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says inflation is too hot, near 3% even ex-energy, and the Fed has more work.",
+   "sum": "Schmid said inflation is running uncomfortably above target, near 3% even without energy, rejecting the supply-shock case for looking through it; the Fed has more work to do.",
+   "pts": [
+    "Core inflation is running around 3%, uncomfortably above the 2% target.",
+    "Inflation would still be near 3% without the energy shock, so it cannot be dismissed as a supply shock.",
+    "Said the inflation fight has grown harder and inflation is moving in the wrong direction.",
+    "The Fed has more work to do to bring inflation down.",
+    "AI-driven investment demand will respond to higher interest rates."
+   ],
+   "rr": "Adds weight to the December hike already priced and undercuts the dovish look-through argument, keeping a small 50bp tail alive and leaning against an early 2027 pause. Not a 2026 voter. Only news paraphrases were available.",
+   "ev": "Speech, The Economic Outlook, Monetary Policy and Payments",
+   "basis": "reports",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "d4bd1e461f58": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says core inflation at 3% is uncomfortably above the 2% target.",
+   "lead": "df55ef675364",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "ab545b100fee": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Rejects looking through energy: inflation near 3% without it, more work to do.",
+   "lead": "df55ef675364",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "03c12bdec163": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Warns the inflation fight has grown harder, backing further tightening.",
+   "lead": "df55ef675364",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "57acc20914de": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Re-report: inflation running too hot and the Fed has work to do.",
+   "lead": "df55ef675364",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "09e185b0128c": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Backs steady hikes but cools 50bp December bets; offset by a possibly higher path.",
+   "sum": "Collins backed steady, gradual rate hikes and was cool on a half-point December move, while saying the eventual rate path may need to be higher.",
+   "pts": [
+    "Favours steady, gradual rate increases over a larger move.",
+    "Cool on a 50bp hike in December, pushing back on half-point talk after Waller's remarks.",
+    "Said inflation and jobs data warrant tighter policy.",
+    "Suggested the eventual path for rates may end up higher."
+   ],
+   "rr": "Supports the 25bp December hike but trims the 50bp tail; her higher-path comment supports a longer hiking cycle into 2027, so the message is about pace, not the endpoint. Not a voter until 2028. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "2d10e119cf18": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Collins backs gradual hikes over a bigger move; pace, not direction, in focus.",
+   "lead": "09e185b0128c",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "91a941543a5f": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Backs gradual hikes; says inflation and jobs data warrant tighter policy.",
+   "lead": "09e185b0128c",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "8035bf1d805b": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Voter Williams says inflation stubbornly high and the Fed still has work to do.",
+   "sum": "Williams said inflation is stubbornly high and the Fed still has work to do on policy.",
+   "pts": [
+    "Inflation remains stubbornly high relative to the 2% goal.",
+    "The Fed still has work to do to get policy to the right place.",
+    "Echoes his November 13 message favouring steady tightening over time."
+   ],
+   "rr": "From the New York Fed president, this backs the December hike priced and further tightening into 2027, without endorsing a 50bp move. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "f6a5a83ab76d": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says another ECB hike is 'highly probable' as energy prices push up inflation.",
+   "sum": "Nagel said another ECB rate hike is 'highly probable' as gas and electricity prices push inflation higher, adding that the economy has proved resilient.",
+   "pts": [
+    "Said a further rate hike is 'highly probable'.",
+    "Tied the inflation risk directly to gas and electricity prices.",
+    "Said the euro-area economy has proved resilient, weakening the growth case for holding back.",
+    "Repeats his message of November 13 on second-round risks."
+   ],
+   "rr": "Reinforces the December ECB hike largely priced and leans toward more in early 2027; makes front-end euro pricing more sensitive to energy moves. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "cbce8dcce7cb": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Warns ECB bond buying can't replace fiscal discipline; cautious, data-led on energy inflation.",
+   "sum": "Knot warned that ECB bond-market intervention cannot replace sound fiscal policy, while taking a cautious, data-driven line on energy-driven inflation.",
+   "pts": [
+    "ECB bond-market intervention cannot substitute for sound fiscal policy.",
+    "Implies any ECB backstop for sovereign debt would be conditional, not open-ended.",
+    "Took a cautious, data-driven stance on energy-driven inflation, softer than recent hike signals from hawks."
+   ],
+   "rr": "Little direct impact on December ECB pricing; his patience on energy inflation leans slightly against extra 2027 hikes, while the fiscal line matters more for sovereign spreads such as OAT-Bund. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "e98194a34976": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Re-report: inflation is the key signal; PCE at 3.6%, no push for a bigger hike.",
+   "sum": "Jefferson said inflation is the key signal for rates, with PCE inflation still at 3.6%, naming energy as the main channel and sounding upbeat on growth and jobs.",
+   "pts": [
+    "Inflation, not the labour market, is the main signal for policy.",
+    "PCE inflation is still at 3.6%.",
+    "Energy is the main channel spreading into broader inflation.",
+    "Upbeat on growth, with unemployment steady.",
+    "Restates his November 13 speech on productivity and the macroeconomy."
+   ],
+   "rr": "Supports the December hike priced without adding to the 50bp tail; ties Fed pricing more closely to oil. Only news paraphrases were available.",
+   "ev": "Speech, UC San Diego Economic Roundtable",
+   "basis": "reports",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
+  },
+  "226f97df49cd": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Re-report: Pill says further BoE rate rises are needed to combat inflation.",
+   "sum": "Pill said further Bank of England rate rises will be needed to combat inflation, restating his Financial Times interview.",
+   "pts": [
+    "Further rate rises are needed to bring inflation down.",
+    "Restates his FT interview that rates probably rise again in 2027, beyond December.",
+    "Second-round wage effects from the energy shock remain the main concern."
+   ],
+   "rr": "Backs a December 25bp hike and supports the roughly 90bp of tightening priced by end-2027. Only news paraphrases were available.",
+   "ev": "Interview, Financial Times",
+   "basis": "reports",
+   "at": "2026-11-16T06:55:45Z",
+   "by": "claude"
   }
  }
 }
