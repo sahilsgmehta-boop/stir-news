@@ -7523,6 +7523,134 @@
    "basis": "reports",
    "at": "2026-11-16T06:55:45Z",
    "by": "claude"
+  },
+  "52ffae408881": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability speech on AI risks; no monetary policy or rates signal.",
+   "sum": "Barr warned that AI could amplify financial instability, from herd trading and AI-agent-driven bank runs to fire sales if AI investment reverses.",
+   "pts": [
+    "A reversal in AI investment could trigger self-reinforcing fire sales in asset markets.",
+    "AI-driven trading could encourage herd behaviour across firms using similar models.",
+    "AI agents acting for depositors could speed up future bank runs.",
+    "AI raises cyberattack risks for the financial system."
+   ],
+   "rr": "No read-across to the December decision or the hike path; this is a financial-stability speech with no comment on inflation or rates reported. Barr is a voter, but the curve should not react. Only news paraphrases were available.",
+   "ev": "Speech, ACM AI in Finance conference (Milan)",
+   "basis": "reports",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "f3ff9395ad9d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI agents could fuel bank runs; financial-stability theme, no rates signal.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "fee24adc6772": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warns on AI risks to the financial system; no rates signal.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "c4f258ffd295": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI herd trading and cyber risks; no rates signal.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "cdeab63cdb1f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI investment reversal could cause fire sales; stability, not rates.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "8b0ca57f79fc": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Flags AI and high debt as financial-stability threats; no direct rates signal.",
+   "sum": "Vujcic said energy prices are pushing inflation higher and that market bets on an ECB hike next year do not seem unreasonable, while flagging AI and debt risks.",
+   "pts": [
+    "Said market bets on an ECB rate hike next year do not seem unreasonable.",
+    "Said recent energy price developments may push inflation higher.",
+    "Said the Iran war keeps pushing inflation up.",
+    "Warned that AI-related valuations and high debt threaten financial stability."
+   ],
+   "rr": "Validates the 2027 ECB hike priced rather than pushing back, a mild hawkish nod from the Vice-President; reported comments did not address a December move. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "4b58718f0986": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Energy prices may push inflation higher; stresses upside inflation risk.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "a4a3e1052abe": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says the Iran war keeps pushing inflation up; upside risk emphasis.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "8acf7d598434": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Endorses market bets on an ECB hike next year rather than pushing back.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "ffe4fb8d992c": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Re-report: Collins sees gradual hikes; pace, not direction, in focus.",
+   "lead": "09e185b0128c",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "d9f0d0c610c4": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Re-report: Greene backs proactive hikes to contain inflation risks.",
+   "sum": "Greene backed proactive Bank of England rate hikes to stop inflation risks becoming entrenched, restating her stance from last week.",
+   "pts": [
+    "Backs tightening proactively rather than waiting for second-round effects to show up.",
+    "Sees failing to control inflation as the bigger policy mistake.",
+    "Concerned about pay growth holding around 3.5% or higher."
+   ],
+   "rr": "Supports the December hike priced and further tightening into 2027; no pushback on pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "aa46eadf1581": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "88a332fa1002": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "3df9a5070a56": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech listing only; text not yet released, so no stance can be read.",
+   "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
   }
  }
 }
