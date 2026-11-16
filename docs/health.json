@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T01:07:01Z",
+ "built": "2026-11-16T01:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 13,
+   "kept": 14,
    "added": 0,
    "error": ""
   },
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB bond market intervention warning from Governor Knot. Can\u2019t replace sound fiscal policy,",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
-   "kept": 33,
+   "fetched": 57,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -122,7 +122,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
