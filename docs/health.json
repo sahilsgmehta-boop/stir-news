@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T09:07:01Z",
+ "built": "2026-11-16T09:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 39,
-   "added": 0,
+   "fetched": 70,
+   "kept": 42,
+   "added": 2,
    "error": "",
    "near_misses": [
     "AI tops the Fed's risk list as computing debt hits $680B",
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 57,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -102,13 +102,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 10,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
     "ECB VP says AI, debt have become prominent stability risks",
+    "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
     "Christine Lagarde is resigning as ECB president months early",
     "Lagarde for French President?",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
@@ -123,18 +123,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 5,
+   "fetched": 19,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
+    "ECB Urges Overhauls to Protect Financial System From AI, Government Debt",
+    "ECB vice president flags AI and sovereign debt as prominent stability risks",
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
-    "Christine Lagarde is resigning as ECB president months early",
+    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
     "Below 1.1050: Euro weakens as traders increase bets on a Fed rate hike",
-    "ECB Schedules Financial Stability Review for Wednesday, Nov. 18"
+    "Christine Lagarde is resigning as ECB president months early",
+    "ECB Says AI Risk Is Now System-Wide; $5.5T Capex by 2030"
    ]
   },
   {
@@ -142,8 +145,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 8,
+   "fetched": 30,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -270,7 +273,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 13,
-   "added": 4,
+   "added": 5,
    "error": ""
   },
   {
@@ -280,7 +283,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 29,
+   "added": 28,
    "error": ""
   },
   {
