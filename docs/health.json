@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T16:52:00Z",
+ "built": "2026-11-16T17:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 57,
-   "added": 1,
+   "fetched": 94,
+   "kept": 58,
+   "added": 3,
    "error": "",
    "near_misses": [
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 52,
-   "added": 5,
+   "fetched": 95,
+   "kept": 54,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
-    "JPMorgan's Bob Michele says the Fed missed its October hike",
     "Gold fall to more than one-year low on resilient dollar as hawkish Fed bets build",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "JPMorgan's Bob Michele says the Fed missed its October hike",
     "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
+    "Bessent says the Fed should not raise rates too much into an energy supply shock"
    ]
   },
   {
@@ -107,9 +107,9 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
     "Greenway appointed ECB's head of women's game strategy",
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
     "Christine Lagarde is resigning as ECB president months early",
     "ECB VP says AI, debt have become prominent stability risks",
     "Lagarde for French President?",
@@ -140,8 +140,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 6,
+   "fetched": 26,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -150,10 +150,10 @@
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Bank of England\u2019s chief economist issues stark warning",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
    ]
   },
@@ -162,21 +162,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 35,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
+    "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada Governor Macklem to step down once term ends in 2027 By Reuters",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
-    "Tiff Macklem to step down as Bank of Canada governor at end of his term"
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027"
    ]
   },
   {
@@ -215,8 +215,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 10,
-   "added": 4,
+   "kept": 11,
+   "added": 5,
    "error": ""
   },
   {
