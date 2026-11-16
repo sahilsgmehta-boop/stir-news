@@ -29,7 +29,9 @@
 "src": "Investing.com UK",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "aa46eadf1581",
 "score": null,
