@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T11:22:00Z",
+ "built": "2026-11-16T11:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "ok": true,
    "fetched": 80,
    "kept": 49,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 99,
+   "fetched": 98,
    "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "Gold hits over one-year low as firm dollar, Fed outlook weigh",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Bessent says the Fed should not raise rates too much into an energy supply shock"
    ]
   },
   {
@@ -124,13 +124,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 15,
-   "kept": 9,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
-    "ECB warns of market risks if AI boom stalls",
-    "ECB VP says AI, debt have become prominent stability risks"
+    "ECB warns of market risks if AI boom stalls"
    ]
   },
   {
@@ -325,7 +324,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }

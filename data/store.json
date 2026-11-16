@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T11:32:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed’s Barr Warns AI Investment Reversal Could Trigger ‘Self-Reinforcing Fire Sales’",
+"url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYTZfS05sR1ZzdDMzUzBlX0pJcmlwNEtBV3RoWVVCbVlzVVYzc2dRU053eF9FQ3BXY0w5WHppcWlCQ2VNbUFsUWVCS2hYRkNhd1Jzb1BmSTRWV2dBbDM0Y0JzQXJCTTh1Rl9CZ2ZVbEFYeFQtcUFtTjQ4OU9rcG03WklPUFFQWTdKUFRLNU03NWMxbGJOOTFXOC0xeV9iMGg5QWFrOG9Va1RpQTI1Q2xTcXJocjNOb215S181RkFtUURNSFZMWFZBWTEwVURwV3RMdzhhYTh1bGVIRmtBeEE?oc=5",
+"src": "Stocktwits",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "cdeab63cdb1f",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T10:31:52Z",
 "bank": "Fed",
 "speaker": "Barr",
@@ -96,7 +116,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"The Edge Malaysia"
+],
 "desc": "",
 "id": "8acf7d598434",
 "score": null,
