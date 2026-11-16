@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T08:22:00Z",
+ "built": "2026-11-16T08:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -101,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 7,
+   "fetched": 25,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -110,8 +110,8 @@
     "Christine Lagarde is resigning as ECB president months early",
     "Lagarde for French President?",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
-    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
+    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
    ]
@@ -121,15 +121,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
-   "kept": 1,
+   "fetched": 15,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB VP says AI, debt have become prominent stability risks",
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
-    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Below 1.1050: Euro weakens as traders increase bets on a Fed rate hike",
+    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early"
    ]
   },
@@ -138,9 +139,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 11,
-   "added": 1,
+   "fetched": 32,
+   "kept": 10,
+   "added": 0,
    "error": "",
    "near_misses": [
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
@@ -160,7 +161,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -173,11 +174,11 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "feed returned no items",
+   "error": "",
    "near_misses": []
   },
   {
@@ -245,7 +246,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": ""
   },
