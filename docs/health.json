@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T15:10:31Z",
+ "built": "2026-11-16T15:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 56,
+   "fetched": 92,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,12 +67,12 @@
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
     "gold price struggles even as New York Fed's Empire State survey weakens",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
     "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
     "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
-    "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
-    "Fed chair says US on 'unsustainable fiscal path' that should be dealt with soon"
+    "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on"
    ]
   },
   {
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
-   "kept": 48,
+   "fetched": 94,
+   "kept": 50,
    "added": 5,
    "error": "",
    "near_misses": [
+    "Gold fall to more than one-year low on resilient dollar as hawkish Fed bets build",
     "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
     "JPMorgan's Bob Michele says the Fed missed its October hike",
-    "Gold hits over one-year low on resilient dollar as hawkish Fed bets build",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -138,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 29,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -146,11 +146,11 @@
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
    ]
@@ -160,13 +160,16 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
-    "Lagarde for French President?"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Carmichael: Macklem is stepping aside after a career of consummate public service",
+    "BoC governor Macklem to step down in June"
    ]
   },
   {
@@ -325,7 +328,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
