@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T22:41:11Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Hammack Says Fed Interventions Should Be Temporary, Targeted",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXF4YXRLb0todXdxN2NrSUZITVg2U2hRUWVsU2M5bGNTVkxTOTJiZEtLWjIwSE1RdV81azItMzYwbDlSYmtrT0pvMzlISmM0YXY5dUNMNElxeENMZ2tWYmlEUHRkVThJRDdFNTRFa3lxOW5UdDFhMGhYZUlYRXJEYlBxRHZDZDVNQVdUREhwUV9oNlRtR1E3b1JMRG9OOGkzUGhVR1JoY2tBN2o4Y3c4?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4251002aacaa",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T22:26:10Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -1146,7 +1166,8 @@
 "Bloomberg Law News",
 "MLQ.ai",
 "Startup Fortune",
-"Bloomberg"
+"Bloomberg",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "f3ff9395ad9d",
@@ -2033,7 +2054,9 @@
 "src": "Investing.com South Africa",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "6b314e5a1ced",
 "score": 4,
