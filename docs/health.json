@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T14:52:01Z",
+ "built": "2026-11-16T15:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
+   "fetched": 93,
    "kept": 58,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 50,
+   "fetched": 94,
+   "kept": 48,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 35,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -143,16 +143,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
    ]
   },
   {
@@ -160,13 +160,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "Lagarde for French President?"
+    "Lagarde for French President?",
+    "BOE\u2019s case to raise rates again may strengthen on UK price data"
    ]
   },
   {
@@ -295,8 +295,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 10,
-   "kept": 6,
-   "added": 4,
+   "kept": 5,
+   "added": 3,
    "error": ""
   },
   {
