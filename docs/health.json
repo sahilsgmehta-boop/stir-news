@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T09:40:39Z",
+ "built": "2026-11-16T09:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 40,
+   "fetched": 73,
+   "kept": 43,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -128,12 +128,12 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB VP says AI, debt have become prominent stability risks",
     "ECB Urges Overhauls to Protect Financial System From AI, Government Debt",
     "ECB vice president flags AI and sovereign debt as prominent stability risks",
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
-    "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
     "Christine Lagarde is resigning as ECB president months early",
     "ECB VP says AI, debt have become prominent stability risks",
     "ECB Says AI Risk Is Now System-Wide; $5.5T Capex by 2030",
