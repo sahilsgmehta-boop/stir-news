@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T09:52:01Z",
+ "built": "2026-11-16T10:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,9 +21,9 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave",
     "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
-    "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
-    "ECB bond market intervention warning from Governor Knot. Can\u2019t replace sound fiscal policy,"
+    "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy"
    ]
   },
   {
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 73,
-   "kept": 43,
-   "added": 0,
+   "fetched": 75,
+   "kept": 45,
+   "added": 1,
    "error": "",
    "near_misses": [
     "AI tops the Fed's risk list as computing debt hits $680B",
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 56,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -102,20 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 11,
+   "fetched": 30,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
     "Christine Lagarde is resigning as ECB president months early",
+    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir",
     "Lagarde for French President?",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
-    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
+    "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
-    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir"
+    "Names Floated for ECB Presidency Differ on Stablecoins and Digital Euro"
    ]
   },
   {
@@ -123,16 +124,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 4,
-   "added": 0,
+   "fetched": 18,
+   "kept": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
     "ECB Urges Overhauls to Protect Financial System From AI, Government Debt",
+    "ECB warns AI risks now extend beyond valuations",
     "ECB vice president flags AI and sovereign debt as prominent stability risks",
-    "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
-    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early",
     "ECB VP says AI, debt have become prominent stability risks",
@@ -145,7 +145,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 31,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -332,7 +332,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }

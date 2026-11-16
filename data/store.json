@@ -1,6 +1,66 @@
 {
 "items": [
 {
+"t": "2026-11-16T10:04:56Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr warns on AI risks to financial system",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFV1bDhBRDJJQnpfSDVYbm1hQVVCY3hLTXJQR1dTaHNuY29PejZrQXFjX2JQd3ktUGZMVDhzWWZrY1lBYURpTEhGYU1GbVVNZUtfcTVLbFUyLUtwUVh3eWpmZ2JkSUJoR21BMkl5UjdTTTh3emhYV0VuMWJNVGNIVjRTbUlubXZrTUJwNXVMQWZnRVJUemduQmJ4bk80enNI?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fee24adc6772",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T10:00:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+"url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+"src": "Federal Reserve speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
+"id": "52ffae408881",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T09:38:05Z",
+"bank": "ECB",
+"speaker": "Vujcic",
+"hl": "Vujcic Says Bets on ECB Hike Next Year Don’t Seem Unreasonable",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmxhU05rN0ZhYTlHWGlaRG8xc19tSWMxYldhMml0MkQtSmRZdzF6N1dJYVVsYlNGNU1GVlRsNWhpNnRpYk1Qb3p6M0FxS2lDWXpNcTBsRlJNM3lVUjRIODdEZTBjTHRWRXkwSGZtdDRSZE4tSEV0QzMwcTZtRGhmTmh6WVdXdDNfdExfU0FzZC1QRnNKWFdKWi1lWXUxYmRrUDc4b0IybTgwVTRBQzJfM0pMRQ?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "8acf7d598434",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T09:17:30Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -92,7 +152,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"www.tmgm.com"
+"www.tmgm.com",
+"Forex Factory"
 ],
 "desc": "",
 "id": "4b58718f0986",
@@ -634,7 +695,9 @@
 "src": "Admirals",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Saxo"
+],
 "desc": "",
 "id": "171248b94b4b",
 "score": 0,
