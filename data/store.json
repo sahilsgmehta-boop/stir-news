@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-16T17:37:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "\"AI could boost economic growth but disrupt jobs\": Fed Chair Warsh flags impact of super intelligence",
+"url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSlI2ZjByMnlEeFJHNjdoS2lpa1IwdnI3Z0hfOVNQdlVBSjFsR0NEb1kzaEw4SU93emtlalJsMGQ3blpPWFh0NXlfZHBVelg1bldCUjFJU1VaNFlMUnhBWk1yQVBMcFNfN09sZEo4Ny11RWJSMnBRZ1JKMWVCSmNKRk9VOVd6R0tPMG5YZmpVYTRvOFljUllRaldrRmNsSWkxak5QWlluUF9UVTZybmdZc09VU2J1bC1nMjl1S2EwbG80Ylk5YnVqVXNvQzRIZHFXcVA1czltMWRCZ2Q3SWtublVNcw?oc=5",
+"src": "ANI News",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "412c5616baf3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T17:33:41Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Video: LIVE: Fed's Warsh gives opening remarks at productivity, jobs event in San Francisco",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODh4Sk5PWnF1U25KRXVyWjlpUmhEeUthY2xoc3BVLW0zTzF5TExqNUxpWFIyejM3UFZFMV8zZWVVaGFFUDB1MlpzSmR0VU1oYXBwR2ZUR2tnSm9pdjdRWVVWYUh0cXc5LVpuT1QyUVBYUGhSa3VCQkpKZU53VTBwRUQzOFFyM01ibEtMQXZjM3pJUkFaWU52c2NYTWdqX0NsenBMTnFKR25XQUJUYkN1MnZpd0hmclE?oc=5",
+"src": "livetube.tv",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b9596f1dca3a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T17:29:13Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -72,7 +112,8 @@
 "also": [
 "Reuters",
 "marketscreener.com",
-"CNA"
+"CNA",
+"Investing.com"
 ],
 "desc": "",
 "id": "ee4453ae3cf0",

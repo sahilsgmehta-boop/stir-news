@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T17:37:00Z",
+ "built": "2026-11-16T17:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,19 +58,19 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 61,
+   "fetched": 94,
+   "kept": 58,
    "added": 2,
    "error": "",
    "near_misses": [
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
-    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "Gold price struggles even as New York Fed's Empire State survey weakens",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
+    "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
     "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
-    "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
     "Gold holds near $3,870 ahead of Fed Chair remarks"
    ]
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 84,
-   "kept": 45,
+   "fetched": 77,
+   "kept": 39,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 37,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -124,13 +124,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 11,
+   "fetched": 19,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB warns of market risks if AI boom stalls",
     "ECB VP says AI, debt have become prominent stability risks",
+    "ECB warns of market risks if AI boom stalls",
     "Artificial intelligence: ECB sees \u201cnew vulnerabilities for banks\u201d",
     "ECB warns AI share boom could end in 'abrupt repricing'"
    ]
@@ -150,7 +150,7 @@
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "Bank of England signals further rate rises into 2027",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
@@ -174,9 +174,9 @@
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027"
+    "Who will be the next Bank of Canada governor? These are some contenders",
+    "Who will be the next Bank of Canada governor? These are some contenders"
    ]
   },
   {
