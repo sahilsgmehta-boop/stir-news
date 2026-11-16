@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T15:07:01Z",
+ "built": "2026-11-16T15:10:31Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 58,
+   "fetched": 91,
+   "kept": 56,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,7 +80,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
+   "fetched": 95,
    "kept": 48,
    "added": 5,
    "error": "",
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 36,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -138,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -165,8 +165,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Lagarde for French President?",
-    "BOE\u2019s case to raise rates again may strengthen on UK price data"
+    "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
+    "Lagarde for French President?"
    ]
   },
   {
@@ -236,7 +236,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 76,
-   "added": 71,
+   "added": 72,
    "error": ""
   },
   {
@@ -325,7 +325,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
