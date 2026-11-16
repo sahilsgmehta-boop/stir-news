@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T16:22:00Z",
+ "built": "2026-11-16T16:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 55,
-   "added": 0,
+   "fetched": 93,
+   "kept": 57,
+   "added": 2,
    "error": "",
    "near_misses": [
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
@@ -68,9 +68,9 @@
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
     "gold price struggles even as New York Fed's Empire State survey weakens",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
-    "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
-    "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
+    "AI tops the Fed's risk list as computing debt hits $680B",
+    "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
     "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on"
    ]
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
-   "kept": 50,
+   "fetched": 94,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -162,21 +162,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 25,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027 By Reuters",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Tiff Macklem to step down as Bank of Canada governor at end of his term",
-    "Macklem To Step Down As Bank Of Canada Governor In June",
-    "Bank of Canada governor Tiff Macklem to step down in 2027"
+    "Macklem To Step Down As Bank Of Canada Governor In June"
    ]
   },
   {

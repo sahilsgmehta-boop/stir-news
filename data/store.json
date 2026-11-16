@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-16T16:32:16Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF80Vjl6WXY4cERrTWV1cnpkRFB1dUNNVDNDUEJuZFJVVVFPYzZJcnJDQXYtazZFTndNV0wyVEQ0UHN0ZExjYld1cG9RWDF3T0o5MEpHZ3VvSUYzYzdiRjQ1SEtEZmVyVnM1NnZKdFRVby1mQkxnVk5sdjB1Y0JiUHhyUWpkdzBi?oc=5",
+"src": "Barron's",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "51556df776b8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T16:27:32Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "WATCH LIVE: Fed Chair Kevin Warsh delivers remarks at the Productivity and Jobs Task Force Conference",
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84QjdfUlJaV2VucHpHeXpPb0JBc2NPR2pqRkJGZUZIbE1fT2Z5YTJBcG1VVjRsZ1RJRVF3RTZlNW14amdLNUpPN3dzNWNQb2w5bFRweUJnM250UDA?oc=5",
+"src": "Fox Business",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "71bdf39329aa",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T16:00:00Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -1132,7 +1172,8 @@
 "Tacoma News Tribune",
 "FXStreet",
 "www.tmgm.com",
-"NST Online"
+"NST Online",
+"Investing.com Australia"
 ],
 "desc": "",
 "id": "22b59b30f85a",
