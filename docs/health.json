@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T15:52:00Z",
+ "built": "2026-11-16T16:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 89,
+   "fetched": 91,
    "kept": 55,
    "added": 0,
    "error": "",
@@ -80,7 +80,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
+   "fetched": 95,
    "kept": 52,
    "added": 5,
    "error": "",
@@ -102,20 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 37,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB VP says AI, debt have become prominent stability risks",
+    "Greenway appointed ECB's head of women's game strategy",
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
     "Christine Lagarde is resigning as ECB president months early",
-    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir",
+    "ECB VP says AI, debt have become prominent stability risks",
     "Lagarde for French President?",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
+    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
+    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir"
    ]
   },
   {
@@ -162,20 +163,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 19,
-   "kept": 0,
-   "added": 0,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027 By Reuters",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Tiff Macklem to step down as Bank of Canada governor at end of his term",
-    "Macklem To Step Down As Bank Of Canada Governor In June",
     "Carmichael: Macklem is stepping aside after a career of consummate public service",
-    "CP NewsAlert: Tiff Macklem to step down as Bank of Canada governor at end of his term"
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "CP NewsAlert: Tiff Macklem to step down as Bank of Canada governor at end of his term",
+    "Search for new BoC governor begins as Macklem confirms he won\u2019t seek second term"
    ]
   },
   {
