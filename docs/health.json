@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T10:37:00Z",
+ "built": "2026-11-16T10:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
-   "kept": 46,
-   "added": 1,
+   "fetched": 81,
+   "kept": 49,
+   "added": 0,
    "error": "",
    "near_misses": [
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
@@ -81,19 +81,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 53,
    "added": 5,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "Gold hits over one-year low on resilient dollar as hawkish Fed bets build",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "Gold hits over one-year low as firm dollar, Fed outlook weigh",
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
     "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
@@ -130,10 +130,9 @@
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
     "ECB warns of market risks if AI boom stalls",
-    "ECB warns AI risks now extend beyond valuations",
-    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "ECB VP says AI, debt have become prominent stability risks",
-    "ECB Says AI Risk Is Now System-Wide; $5.5T Capex by 2030"
+    "ECB warns AI risks now extend beyond valuations",
+    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E"
    ]
   },
   {
@@ -328,7 +327,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
