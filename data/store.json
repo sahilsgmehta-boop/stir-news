@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T20:31:15Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "AI Will Have Key Monetary Policy Implications, Fed's Warsh Says",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNE9iSHZHamhsSW9LMUVWVTRVUGJ4TjhHWHF2U3kxaUlkREZreGJJa056Q3Jma0tSSW84ZlVZY2dPQXpxMzU3djlZUGl3SGhLRkd5T21faHlNVmNfYnRhbVlmcXFUbVhYeTYzQVdEV0tOaEVFX09DVll2SldaUkhMNjh6R2dhOWxQeHlHSlNmUkMtekFQbFhEc29JSFRWTFc4b3JfTHBHYUpLSzJBMW51VGdwaHZKdw?oc=5",
+"src": "www.marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "7eeb4f6fb85c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T20:19:08Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -9,9 +29,31 @@
 "src": "Investing.com Australia",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Crain's Cleveland"
+],
 "desc": "",
 "id": "a1234a42794a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T20:01:58Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed’s Hammack Still Favors Small Rate Hikes",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpbzU1R2NLQ25hbzJpNmJtdTZrQjY3V1JJQWFOMmEzM1RUYjg5bzItSXFrSTNJUHhHMmsxUk5TWXVINU0zcnpxRGtfY3hocGNpZlo4em5SQVBDcjlBdlp5VlJsbUFFNm8yWFlJUENIaDBIb1hOUTlUeFhSOA?oc=5",
+"src": "Finimize",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "27dfc10f9707",
 "score": null,
 "read": "",
 "sum": "",
@@ -93,7 +135,8 @@
 "tone": "",
 "also": [
 "Miami Herald",
-"Investing.com"
+"Investing.com",
+"Kitco"
 ],
 "desc": "",
 "id": "74f4647473f7",
