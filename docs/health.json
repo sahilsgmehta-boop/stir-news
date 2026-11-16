@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T19:07:00Z",
+ "built": "2026-11-16T19:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,11 +59,10 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 0,
+   "kept": 58,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
@@ -72,7 +71,8 @@
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
     "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
-    "AI tops the Fed's risk list as computing debt hits $680B"
+    "AI tops the Fed's risk list as computing debt hits $680B",
+    "Fed 'has some work to do on inflation,' Kansas City Fed chief says"
    ]
   },
   {
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 73,
-   "kept": 35,
+   "fetched": 71,
+   "kept": 34,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -89,7 +89,7 @@
     "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
     "Warsh says AI will have \u2018significant impact\u2019 on economy, policy",
     "Fed warns of growing financial risks from AI boom",
-    "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "JPMorgan's Bob Michele says the Fed missed its October hike",
     "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
@@ -110,13 +110,13 @@
     "Spain Hopes for Quick Deal on De Cos as Next ECB President",
     "Greenway appointed ECB's head of women's game strategy",
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
-    "Christine Lagarde is resigning as ECB president months early",
     "ECB VP says AI, debt have become prominent stability risks",
+    "Christine Lagarde is resigning as ECB president months early",
     "Albares pushes for a quick agreement on the ECB\u2019s dome",
     "Lagarde for French President?",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
-    "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)"
+    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir"
    ]
   },
   {
@@ -141,8 +141,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 5,
+   "fetched": 27,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -163,21 +163,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 45,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada governor Tiff Macklem to step down in June",
     "Who will be the next Bank of Canada governor? These are some contenders",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
    ]
   },
   {
@@ -197,7 +197,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 8,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -206,8 +206,7 @@
     "October inflation in the Eurozone keeps ECB on course for another tightening",
     "Brussels sets tight deadline for ECB president nominations",
     "The two pragmatists leading the race to run the ECB",
-    "Strong US inflation and growth will keep Fed on a tightening path",
-    "The ECB needs a smooth transmission and a smooth transition"
+    "Strong US inflation and growth will keep Fed on a tightening path"
    ]
   },
   {

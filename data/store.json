@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T19:15:21Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Equities Tumble Intraday as Nvidia Slides, Fed's Warsh Discusses AI Impact",
+"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmZ2d0Z6azg5VEVXM19ud0FteXAwdXVjb1FNMUxfazg4bXdxMVpEYU5mN0J1R2txdDlGNlQ2YUhhQXJmYWhDNUpUQmk3bnlraEV0SUNxTl9MeVgxSjBjSmJ1SGM4c0FpX3NDS0VuRGlhUTljdzJxMlV4XzByNExxdkllT19kLXRlYW05Mm0tNkFaSWFrc2VaSC15RDFnUnREUExzR1M4andvTkxxZkU4NnlWSk1IWW9JSXBzNFAxMDNEVi1M?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "282bf1a82826",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T18:14:33Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -191,8 +211,10 @@
 "src": "Financial Times",
 "tier": "comment",
 "tone": "",
-"also": [],
-"desc": "",
+"also": [
+"FT central banks"
+],
+"desc": "Innovation sparked by the technology has potential to support level of GDP above long-run average without stoking inflation",
 "id": "2327f21dbdcf",
 "score": null,
 "read": "",
@@ -214,7 +236,8 @@
 "also": [
 "WTOP News",
 "The Killeen Daily Herald",
-"WFTV"
+"WFTV",
+"Boston Herald"
 ],
 "desc": "",
 "id": "72a2679b23ec",
@@ -408,7 +431,8 @@
 "WKRC",
 "WSMH",
 "KCBY",
-"WPDE"
+"WPDE",
+"WOAI"
 ],
 "desc": "",
 "id": "023da12de922",
