@@ -7545,29 +7545,33 @@
    "tone": "neutral",
    "score": 0,
    "read": "AI agents could fuel bank runs; financial-stability theme, no rates signal.",
-   "at": "2026-11-16T11:55:40Z",
-   "by": "claude"
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude",
+   "lead": "8c1edff66b7d"
   },
   "fee24adc6772": {
    "tone": "neutral",
    "score": 0,
    "read": "Warns on AI risks to the financial system; no rates signal.",
-   "at": "2026-11-16T11:55:40Z",
-   "by": "claude"
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude",
+   "lead": "8c1edff66b7d"
   },
   "c4f258ffd295": {
    "tone": "neutral",
    "score": 0,
    "read": "AI herd trading and cyber risks; no rates signal.",
-   "at": "2026-11-16T11:55:40Z",
-   "by": "claude"
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude",
+   "lead": "8c1edff66b7d"
   },
   "cdeab63cdb1f": {
    "tone": "neutral",
    "score": 0,
    "read": "AI investment reversal could cause fire sales; stability, not rates.",
-   "at": "2026-11-16T11:55:40Z",
-   "by": "claude"
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude",
+   "lead": "8c1edff66b7d"
   },
   "8b0ca57f79fc": {
    "tone": "neutral",
@@ -7590,22 +7594,33 @@
    "tone": "hawk",
    "score": 4,
    "read": "Energy prices may push inflation higher; stresses upside inflation risk.",
-   "at": "2026-11-16T11:55:40Z",
-   "by": "claude"
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude",
+   "sum": "ECB Vice President Vujčić says market bets on further tightening next year don't seem unreasonable, as energy prices and the Iran war push inflation up.",
+   "pts": [
+    "Recent energy price developments may push inflation higher.",
+    "The Iran war keeps adding upward pressure on inflation.",
+    "Market wagers on further ECB tightening in 2027 don't seem unreasonable and may prove accurate."
+   ],
+   "rr": "Validates rather than resists the ECB hike pricing for 2027; coming from the Vice President, that carries more weight than a lone hawk. No pushback on near-term hike expectations. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports"
   },
   "a4a3e1052abe": {
    "tone": "hawk",
    "score": 4,
    "read": "Says the Iran war keeps pushing inflation up; upside risk emphasis.",
-   "at": "2026-11-16T11:55:40Z",
-   "by": "claude"
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude",
+   "lead": "4b58718f0986"
   },
   "8acf7d598434": {
    "tone": "hawk",
    "score": 4,
    "read": "Endorses market bets on an ECB hike next year rather than pushing back.",
-   "at": "2026-11-16T11:55:40Z",
-   "by": "claude"
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude",
+   "lead": "4b58718f0986"
   },
   "ffe4fb8d992c": {
    "tone": "neutral",
@@ -7650,6 +7665,92 @@
    "score": 0,
    "read": "Speech listing only; text not yet released, so no stance can be read.",
    "at": "2026-11-16T11:55:40Z",
+   "by": "claude"
+  },
+  "e0230ab0ed78": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "564958801147": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "ab0af1ef0471": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "adc7e296c490": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "993547e9b4ee": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Event listing only; no remarks reported yet, so no stance can be read.",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "e0f86a213008": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Event listing only; no remarks reported yet, so no stance can be read.",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "8c1edff66b7d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability speech on AI risks; no comment on rates or the outlook.",
+   "sum": "Barr warns a sharp AI repricing, leveraged hedge funds and fast-moving AI agents could amplify financial stress, but gives no view on rates or the economy.",
+   "pts": [
+    "On-balance-sheet debt of the seven largest AI firms is set to top $800bn by year-end; off-balance-sheet commitments exceed $3tn at maximum nominal value.",
+    "Flags opacity and circular financing, with over $100bn of hyperscaler and chipmaker equity invested in AI labs and cloud start-ups.",
+    "High hedge fund leverage could turn a reversal into rapid deleveraging and self-reinforcing fire sales.",
+    "AI agents moving deposits within minutes could accelerate bank runs faster than supervisors can respond.",
+    "Similar models trained on similar data risk synchronized trading; urges caution on AI in trading and market infrastructure.",
+    "No remarks on inflation, the labour market or interest rates."
+   ],
+   "rr": "No direct read for Fed pricing: a financial-stability speech without policy guidance leaves the December hike pricing untouched. Rates relevance is only via the tail risk of an AI-led selloff hitting investment and growth.",
+   "ev": "Speech, ACM AI in Finance conference (Milan)",
+   "basis": "verbatim",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "6db3ecbb0320": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Flags bank-run and AI debt risks; financial-stability theme, no rates signal.",
+   "lead": "8c1edff66b7d",
+   "at": "2026-11-16T15:55:22Z",
+   "by": "claude"
+  },
+  "6635216785ff": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Sees a December hike as central case and says 2027 tightening may be needed.",
+   "sum": "Šimkus backs a December hike as his central scenario and says further tightening next year might be necessary as second-round effects start to show.",
+   "pts": [
+    "A December rate hike is his central scenario.",
+    "Further tightening in 2027 is possible, depending on inflation and policy transmission.",
+    "Sees early second-round effects in consumer inflation expectations and firms' pricing plans.",
+    "Inflation forecasts for 2027, and possibly 2028, could be revised higher."
+   ],
+   "rr": "Supports the December ECB hike and leaves 2027 tightening on the table, without pushing for a bigger move. He sits on the hawkish wing, so it matters more if core members echo it. Only news paraphrases were available.",
+   "ev": "Interview, Econostream Media",
+   "basis": "reports",
+   "at": "2026-11-16T15:55:22Z",
    "by": "claude"
   }
  }
