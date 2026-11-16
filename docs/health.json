@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T05:22:00Z",
+ "built": "2026-11-16T05:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "ok": true,
    "fetched": 61,
    "kept": 39,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 5,
    "added": 0,
    "error": "",
