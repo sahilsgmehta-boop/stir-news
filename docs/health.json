@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T22:22:00Z",
+ "built": "2026-11-16T22:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,32 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 58,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
+    "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
+    "The Fed\u2019s Path to Winning Back Credibility",
+    "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
+    "Fed chair outlines AI scenarios ranging from economic boom to rising unemployment",
+    "Gold price struggles even as New York Fed's Empire State survey weakens",
+    "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets",
+    "Warsh Opens Fed Hearing on AI's Impact on Productivity and Jobs - News and Statistics"
+   ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 84,
-   "kept": 45,
-   "added": 5,
+   "fetched": 85,
+   "kept": 46,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
@@ -90,9 +102,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 12,
-   "added": 0,
+   "fetched": 39,
+   "kept": 13,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Spain Hopes for Quick Deal on De Cos as Next ECB President",
@@ -127,32 +139,55 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 28,
+   "kept": 6,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of England economist sounds a big warning over interest rates",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+   ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 47,
+   "kept": 1,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": []
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
