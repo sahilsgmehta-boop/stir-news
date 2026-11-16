@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T00:22:00Z",
+ "built": "2026-11-16T00:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 13,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -92,8 +92,8 @@
     "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
-    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
     "Boston Fed president warns housing costs may have to worsen before they improve"
    ]
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -123,13 +123,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
+    "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Christine Lagarde is resigning as ECB president months early"
    ]
@@ -150,8 +151,8 @@
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England Eyes Rapid Interest Rate Rise as Inflation Nears 5%",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England Bank Rate 4%: Business and Mortgage Costs",
     "Bank of England\u2019s Cleland says 121 consultation replies back UK payments core design"
    ]
@@ -238,7 +239,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 76,
-   "added": 70,
+   "added": 71,
    "error": ""
   },
   {
