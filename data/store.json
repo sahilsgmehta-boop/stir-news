@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T18:00:45Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Warsh Outlines Three AI Scenarios for Growth and Jobs",
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QNmlZS2U3RmJmdjJwbVlVcW53TTBfQjVQM2Y1S2x5bTdzZ1NyN1JjWHl2U09LSVVSNGNQckpBVE5JZUFRd0Q0cjNsSXVmaWpGb0RUaVM4dTlSZDQ?oc=5",
+"src": "www.tokenpost.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "45c3e441b0da",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T18:00:04Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -134,6 +154,26 @@
 "also": [],
 "desc": "",
 "id": "2327f21dbdcf",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T17:22:07Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk",
+"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVdiVkt6RDZ2U2IyeHFsZjM5NTdJTGxLdTBVZEhjZjRFOEVEMWdqcEQ1aENXdTQxNFZseTZxcUVJTldkLWJFTVRyVEFxeUJkN3B5X1c4SXUzNU5rSUlQTHlDTGt3Zm1GTDlfTjNEcUM4d3JTQlA0b3ZUdUNIZnhSR3FER3M4Wi1WcFhnREpUand1NTgtSmQzTmF3YjBEOHpnVGxZXzV0ZjhSOC1sMHo1QmpRODVnUXB4YWdEVTdud3p4dXVXTDVPSjZBV2kzQl83UnJ5QjZR?oc=5",
+"src": "KSAT",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "72a2679b23ec",
 "score": null,
 "read": "",
 "sum": "",
@@ -582,7 +622,8 @@
 "Reuters",
 "UA.NEWS",
 "Emirates 24|7",
-"Fresno Bee"
+"Fresno Bee",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "fee24adc6772",
