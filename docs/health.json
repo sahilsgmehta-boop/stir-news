@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T09:37:00Z",
+ "built": "2026-11-16T09:40:39Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 42,
+   "fetched": 70,
+   "kept": 40,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -89,12 +89,12 @@
     "Gold hits over one-year low as firm dollar, Fed outlook weigh",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
-    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027"
+    "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening"
    ]
   },
   {
@@ -128,7 +128,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB VP says AI, debt have become prominent stability risks",
     "ECB Urges Overhauls to Protect Financial System From AI, Government Debt",
     "ECB vice president flags AI and sovereign debt as prominent stability risks",
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
@@ -136,6 +135,7 @@
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
     "Christine Lagarde is resigning as ECB president months early",
+    "ECB VP says AI, debt have become prominent stability risks",
     "ECB Says AI Risk Is Now System-Wide; $5.5T Capex by 2030",
     "ECB Schedules Financial Stability Review for Wednesday, Nov. 18"
    ]
@@ -332,7 +332,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
