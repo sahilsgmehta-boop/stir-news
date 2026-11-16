@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T21:52:00Z",
+ "built": "2026-11-16T22:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,6 +57,28 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
+   "ok": true,
+   "fetched": 100,
+   "kept": 59,
+   "added": 1,
+   "error": "",
+   "near_misses": [
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
+    "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
+    "The Fed\u2019s Path to Winning Back Credibility",
+    "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
+    "Gold price struggles even as New York Fed's Empire State survey weakens",
+    "Warsh Opens Fed Hearing on AI's Impact on Productivity and Jobs - News and Statistics",
+    "Fed chair outlines AI scenarios ranging from economic boom to rising unemployment",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets"
+   ]
+  },
+  {
+   "id": "gn_fed2",
+   "name": "Google News: Fed names",
+   "kind": "news",
    "ok": false,
    "fetched": 0,
    "kept": 0,
@@ -64,34 +86,12 @@
    "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
-   "id": "gn_fed2",
-   "name": "Google News: Fed names",
-   "kind": "news",
-   "ok": true,
-   "fetched": 81,
-   "kept": 43,
-   "added": 6,
-   "error": "",
-   "near_misses": [
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'",
-    "Warsh says AI will have \u2018significant impact\u2019 on economy, policy",
-    "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
-    "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-    "U.S. Fed chairman Warsh grapples with AI\u2019s potential economic impact, steers clear of its inflation risk",
-    "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers"
-   ]
-  },
-  {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
    "fetched": 38,
-   "kept": 13,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -128,8 +128,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 7,
+   "fetched": 28,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -149,23 +149,11 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 45,
-   "kept": 1,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Macklem to exit Bank of Canada as successor search begins",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",

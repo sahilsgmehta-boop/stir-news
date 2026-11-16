@@ -21,6 +21,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-16T21:30:09Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed's Warsh Warns Stocks Could Fall If AI Disappoints",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk04bFkwSVBNblgyS2Vjdk1CSERteEU1aWg1QlFMU25ZODFjal9faW9QMEcxR1RsVWFzSTlmT1ZGenNTcUEwNGpKMENfY0kzNkFWZzBWUTZtOTI1b3BuemU4eEhSUWxFQjhzSlZwLVZrMkR2VXRFd05qYkVZNDF4dGtmcWVjMmZFQW9Gajh5TnhOd3ZSQVE?oc=5",
+"src": "Seoul Economic Daily",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9fd519a29d2d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T20:31:15Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -327,7 +347,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"MLQ.ai"
+"MLQ.ai",
+"Kriptofoni"
 ],
 "desc": "",
 "id": "45c3e441b0da",
