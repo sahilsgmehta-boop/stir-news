@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T10:31:52Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr warns AI risks herd trading, cyberattacks | Tap to know more | Inshorts",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXBUdVZjb3RaYkhUdXMxbEJwTlVUMjhVZE1aeHM0T1JxUFZpdXVJS3I5bFQzMFp3TjZnZVZzTGxlcGRRbGFoZ2VBUjVRQy1FYUtOalpBdGVrdUw0RHVvamg1Y3RQMllVZDdwY3VSNUdxeFEzWXpYZDg4Zk52VGNnc1JjMGVkcUFSWmJaT29WRXZLXzBNMkI2UHFqQdIBoAFBVV95cUxQS0U4YnVidTFDV3U2LURkekhFTHV0QldkOGswY2JJX3ZHd0FkbGl5ODIxUFNoLW94N3FSQ3RVeFFzb0k3VDFWWll2WWJKU3FpYWpsN2g0WmtBUlgtbDRoc3hobXhaem1kdWNES3c5cVBSNTJkQ0tzV1FOMDRnSTE2OHN3QU1pcG9aZm9LZ1BVMDM3M2tFX3pkRHpJUHM0bGgy?oc=5",
+"src": "Inshorts",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c4f258ffd295",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T10:04:56Z",
 "bank": "Fed",
 "speaker": "Barr",
@@ -52,7 +72,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"The Defiant"
+],
 "desc": "",
 "id": "f3ff9395ad9d",
 "score": null,
