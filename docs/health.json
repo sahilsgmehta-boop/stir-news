@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T12:07:01Z",
+ "built": "2026-11-16T12:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,8 +59,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 81,
-   "kept": 51,
+   "fetched": 82,
+   "kept": 52,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -81,11 +81,12 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
+   "fetched": 98,
    "kept": 51,
    "added": 5,
    "error": "",
    "near_misses": [
+    "Gold hits over one-year low on resilient dollar as hawkish Fed bets build",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
@@ -94,8 +95,7 @@
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "Gold hits over one-year low as firm dollar, Fed outlook weigh",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Bessent says the Fed should not raise rates too much into an energy supply shock"
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 14,
+   "fetched": 32,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -124,8 +124,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 11,
+   "fetched": 15,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
