@@ -7752,6 +7752,354 @@
    "basis": "reports",
    "at": "2026-11-16T15:55:22Z",
    "by": "claude"
+  },
+  "21d2dfd3cfaf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI-focused opening remarks; no signal on rates or the December meeting.",
+   "sum": "Warsh framed AI as a potentially transformative but disruptive force, laying out growth and jobs scenarios while steering clear of near-term monetary policy guidance.",
+   "pts": [
+    "Fed staff are gaming out several scenarios for how AI could reshape growth and employment, including one with job losses.",
+    "An AI-driven boom could support substantially higher US growth without stoking inflation, per FT reporting.",
+    "Warned AI can be highly disruptive and economically costly, with risk of a stock bust if the boom disappoints.",
+    "Said AI will have important monetary policy implications, but gave no view on the inflation outlook.",
+    "No comment on the December decision or the path of rates."
+   ],
+   "rr": "Leaves December hike pricing unchanged: no pushback and no endorsement. The productivity-optimism framing is a mild long-run dovish lean, but nothing to move front-end pricing. Only news paraphrases were available.",
+   "ev": "Opening remarks, Productivity and Jobs Task Force Conference (San Francisco)",
+   "basis": "reports",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "71bdf39329aa": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Live-stream listing for Warsh's AI conference remarks; no policy content.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "51556df776b8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Live coverage notice of Warsh's AI remarks; no rates content.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "023da12de922": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Event preview of Warsh's AI task force session; no policy signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "2bca60ae9766": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Fed staff gaming out AI scenarios; analytical, no rate guidance.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "51609f3e9238": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Staff contingency planning for AI; no signal on the rate path.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "7a061dc0ad0a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Stresses AI's importance at task force launch; no policy guidance.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "f1d5b420eb8a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Flags stock-bust risk if the AI boom disappoints; financial-stability, not rates.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "ee4453ae3cf0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI to have significant impact with risks to watch; no rate signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "cb3f86ae9e1a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Report notes Warsh avoided monetary policy entirely; nothing market-moving.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "a702f99cd930": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warns AI can be disruptive and costly; no direct rate implication.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "72a2679b23ec": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Discussed AI's economic impact but steered clear of its inflation risk.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "2327f21dbdcf": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "AI could sustain much higher growth without inflation; mildly dovish long-run framing.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "b95c5700e1ca": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Sees a range of AI outcomes; descriptive, no rate guidance.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "b9596f1dca3a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Video of Warsh's opening remarks; no policy signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "412c5616baf3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI may lift growth but disrupt jobs; balanced, no rate signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "7dc9c1336c33": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warsh describes how the AI boom could end; risk framing, not rates.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "ace4ed63dfc0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Superintelligence could transform the economy; no policy guidance.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "45c3e441b0da": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Outlines three AI scenarios for growth and jobs; descriptive.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "22d41cc5b541": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Best-case AI scenario alongside costly risks; balanced, no rate view.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "4b31c9327f81": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Maps AI scenarios including job losses; no rate guidance.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "282bf1a82826": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Market wrap: stocks fell on Nvidia as Warsh spoke on AI; no policy signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "0eb16716c4fa": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Three superintelligence scenarios for growth and jobs; descriptive.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "3134a876afbd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Emphasises AI's importance but warns of disruption; no rate signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "7eeb4f6fb85c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says AI has key monetary policy implications, without guidance on rates.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "bea3185bc064": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Voter reiterates small, steady hikes; supports more tightening without urging bigger moves.",
+   "sum": "Hammack, a 2026 voter, said more rate hikes are needed as inflation broadens, preferring small, steady increments while flagging that bigger moves could become necessary.",
+   "pts": [
+    "More rate hikes are needed to bring inflation down.",
+    "Inflation pressures are broadening.",
+    "Prefers moving in small, incremental steps rather than larger hikes.",
+    "The economy can handle more restriction; unclear how far the Fed has to go.",
+    "Flagged the risk that bigger moves may be needed; goes into each meeting with an open mind."
+   ],
+   "rr": "Supports the 25bp December hike and further hikes into 2027; the bigger-moves caveat adds a modest hawkish tail but her baseline is gradual, not 50bp. A voter, so it carries weight. Only news paraphrases were available.",
+   "ev": "Interview, Bloomberg TV",
+   "basis": "reports",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "ce533b1083f5": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Prefers smaller hike increments; supports tightening at a gradual pace.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "c6adcb775a22": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Economy can handle more restriction; no clear end to hikes yet.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "74f4647473f7": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Reiterates slow, steady hikes; tightening continues at a measured pace.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "4dc2aad40aaa": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says more rate hikes are needed to lower inflation.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "60b5377b0747": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs slow hikes as inflation broadens; upside inflation emphasis.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "27dfc10f9707": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Still favours small hikes; more tightening at a gradual pace.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "a1234a42794a": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Backs gradual hikes but flags risk of bigger moves; hawkish tail.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "6b314e5a1ced": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Re-report of Collins: gradual hikes with two-sided risks; supports further tightening.",
+   "lead": "78a04e292f26",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "677570d2d307": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Re-report: steady gradual hikes appropriate; pace, not direction, in focus.",
+   "lead": "09e185b0128c",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "2d16d04fe191": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI-driven cyber risk to the financial system; no rates content.",
+   "lead": "4b58718f0986",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "b6bebf5723d1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability warning on private credit and stablecoins; no rate signal.",
+   "sum": "Bailey warned that private credit and stablecoins pose risks to financial stability that go beyond their current size.",
+   "pts": [
+    "Risks from private credit extend beyond its size, through links to the wider financial system.",
+    "Stablecoins carry risks that are not captured by their scale alone.",
+    "The reported remarks concern financial stability, not the policy outlook."
+   ],
+   "rr": "No direct read for BoE pricing; a financial-stability message that leaves the MPC path unchanged. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "20bc516c1315": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Macklem won't seek a second term; succession news, no policy signal.",
+   "sum": "Macklem ruled out a second term as Bank of Canada governor, retiring when his term ends in June 2027, and the bank has begun the search for a successor.",
+   "pts": [
+    "Will not seek a second seven-year term.",
+    "Term ends in June 2027.",
+    "A search for the next governor has started.",
+    "No new guidance on rates in the announcement."
+   ],
+   "rr": "No direct read for near-term BoC pricing; a leadership change in 2027 adds some uncertainty to the policy reaction function further out the curve. Only news paraphrases were available.",
+   "ev": "Announcement",
+   "basis": "reports",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "9a642c7b5565": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
   }
  }
 }
