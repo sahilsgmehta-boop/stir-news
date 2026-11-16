@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T01:41:34Z",
+"bank": "BoE",
+"speaker": "Pill",
+"hl": "BoE’s Pill: Further rate rises needed to combat inflation",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlQwVm5EWkM5QWx6bFNXN2psY0lhMTBBQVVsQnFQZ0RNZWtsd2l2MlVUWm5zM1VDVE55M1NaUEpHSVBPWmxlWG1Zb2JBelpiXy1IV3UyenFHVjBxZmdOT0o3enVvbXhJSWxWQm1rUlpWUG9IR3R5WDVidW5peFo5UjBXLVpjS3Z2c0R2emlGaUN6ZldVaU13SVd0TmJnMGc?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "226f97df49cd",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T01:30:08Z",
 "bank": "Fed",
 "speaker": "Schmid",
@@ -9,7 +29,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "57acc20914de",
 "score": null,
@@ -311,7 +333,8 @@
 "Wisconsin State Journal",
 "Arizona Daily Star",
 "Forex Factory",
-"The Quad-City Times"
+"The Quad-City Times",
+"Tulsa World"
 ],
 "desc": "",
 "id": "2ec06d580761",
