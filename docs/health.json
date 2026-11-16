@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T15:22:00Z",
+ "built": "2026-11-16T15:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 92,
+   "fetched": 93,
    "kept": 57,
    "added": 0,
    "error": "",
@@ -67,8 +67,8 @@
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
     "gold price struggles even as New York Fed's Empire State survey weakens",
-    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
     "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
@@ -80,14 +80,14 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 50,
+   "fetched": 95,
+   "kept": 51,
    "added": 5,
    "error": "",
    "near_misses": [
-    "Gold fall to more than one-year low on resilient dollar as hawkish Fed bets build",
     "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
     "JPMorgan's Bob Michele says the Fed missed its October hike",
+    "Gold fall to more than one-year low on resilient dollar as hawkish Fed bets build",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
@@ -123,14 +123,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 18,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
     "Artificial intelligence: ECB sees \u201cnew vulnerabilities for banks\u201d",
-    "ECB warns of market risks if AI boom stalls"
+    "ECB warns of market risks if AI boom stalls",
+    "ECB warns AI share boom could end in 'abrupt repricing'"
    ]
   },
   {
@@ -160,16 +161,20 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Tiff Macklem to step down as Bank of Canada governor at end of his term",
     "Carmichael: Macklem is stepping aside after a career of consummate public service",
-    "BoC governor Macklem to step down in June"
+    "CP NewsAlert: Tiff Macklem to step down as Bank of Canada governor at end of his term",
+    "BoC governor Macklem to step down in June",
+    "Search for new BoC governor begins as Macklem confirms no second term"
    ]
   },
   {
@@ -328,7 +333,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
