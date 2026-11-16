@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T00:53:15Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "ICYMI: Fed’s Jefferson says inflation is the key signal for rates, with PCE still at 3.6%",
+"url": "https://investinglive.com/central-banks/icymi-fed-s-jefferson-says-inflation-is-the-key-signal-for-rates-with-pce-still-at-3-6/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "Jefferson’s comments support pricing for a December hike without adding to the half-point tail, which suits the steady, gradual camp. By naming energy as the main channel for broader inflation, he makes Fed expectations sensitive to oil. Any renewed jump in crude tied to the Iran war and Hormuz shipping risk would feed quickly into rate pricing and the US dollar. His upbeat view on growth and jobs also removes an easy reason to pause. That keeps front-end Treasury yields supported, and continues to put gold under pressure from the Fed’s tightening path. --- With unemployment steady and growth ",
+"id": "e98194a34976",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-15T23:22:51Z",
 "bank": "ECB",
 "speaker": "Knot",
