@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T01:30:08Z",
+"bank": "Fed",
+"speaker": "Schmid",
+"hl": "Fed’s Schmid: Inflation running too hot, central bank has some work to do",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmFQLWxIaW0wRnVMYjNQNGhvMmdMd09vd1lqY0YxMV8wa01vT19YLU9MWHk4aU5sY3ZKXzJvdTJQZVhDQXlwZ0ptN3VoWHkxOWtuTmc2T19kYWRzZ3lDUHItVjhBN1ExZzViakUzbHRwd3hwVThSc1hFUGZ2YXFSejMtVjZsMnp0ak5MeUZDOTUtSUViZWpXdndEZTVXellYdlNYeUc2Tm9RbzFCVURrWFRlcw?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "57acc20914de",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T00:53:15Z",
 "bank": "Fed",
 "speaker": "Jefferson",
@@ -70,7 +90,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Bloomberg.com"
+"Bloomberg.com",
+"Bloomberg"
 ],
 "desc": "Collins’s comments push back on the half-point talk that has built since Waller’s remarks and last week’s inflation data. That could trim some of the tail pricing for a larger December move and take a little heat out of the front end of the Treasury curve. Her view that the eventual rate path may be higher cuts the other way, though. It supports the idea of a longer hiking cycle, which keeps the US dollar supported on dips and leaves gold without a clear dovish tailwind. For traders, her message is about the pace of hikes, not when they stop. --- Also: Sunday Fed talk: Schmid says inflation wo",
 "id": "09e185b0128c",
@@ -289,7 +310,8 @@
 "Hickory Daily Record",
 "Wisconsin State Journal",
 "Arizona Daily Star",
-"Forex Factory"
+"Forex Factory",
+"The Quad-City Times"
 ],
 "desc": "",
 "id": "2ec06d580761",
