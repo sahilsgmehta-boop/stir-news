@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-16T17:29:13Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed's Warsh sees a range of potential outcomes for AI's impact on the economy",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGlaNXlJcUFSNFpFZGw4Y2pXRkdlZUtDX29id0lhTDZWRF8wNGo5QjlxNVlZcmRTM1FfUzI3TklGd3E3T2E5MktwcEZDUS1XMDJGLVFGUHI0enNGaTdtaXlid3g3M2VVMjV0b0xQeDI1WU5zdFZpdnlpMkcxVWZOQktRdXF0TDE3VVRuWHZkUHBoazNaMVZmLTZLcHRweGtUSHZXRkp6NjBhYVBWR0loZURpdw?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b95c5700e1ca",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T17:26:53Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed chair Kevin Warsh says AI boom could help sustain ‘substantially higher’ US growth",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3h5VmhlVnFXRnoyYTFyd2dVbDhrRlNKT1gzNEoxQ01CQ1hJYW53UXRDMkhnUndZX21zWGpMaHNDZ2FIUHl2TGdpX2N1emdJY19jZmY3RzZjdnQwTUswbldMLS1pOUQ2d2ZiNjFDbVU5elc2elN5OTVYZGFyYXBnQVBiZzM?oc=5",
+"src": "Financial Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2327f21dbdcf",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T17:06:32Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -31,7 +71,8 @@
 "tone": "",
 "also": [
 "Reuters",
-"marketscreener.com"
+"marketscreener.com",
+"CNA"
 ],
 "desc": "",
 "id": "ee4453ae3cf0",
@@ -1433,7 +1474,8 @@
 "Reuters",
 "Yahoo Finance",
 "The Lufkin Daily News",
-"KFGO"
+"KFGO",
+"WTVB"
 ],
 "desc": "",
 "id": "9f2659edc04e",
