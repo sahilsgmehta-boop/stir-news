@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T10:07:00Z",
+ "built": "2026-11-16T10:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,8 +63,8 @@
    "added": 1,
    "error": "",
    "near_misses": [
-    "AI tops the Fed's risk list as computing debt hits $680B",
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
+    "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
     "Fed chair says US on 'unsustainable fiscal path' that should be dealt with soon",
@@ -81,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 54,
    "added": 5,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-    "Gold hits over one-year low as firm dollar, Fed outlook weigh",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Gold hits over one-year low as firm dollar, Fed outlook weigh",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening"
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -102,21 +102,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
-   "kept": 13,
+   "fetched": 28,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
     "Christine Lagarde is resigning as ECB president months early",
-    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir",
     "Lagarde for French President?",
     "ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026",
-    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
+    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
     "Schnabel Set To Leave ECB Board Early For Senior Job At IMF | Industrial Stocks Flash Technical Warn Fidelity Investment Data Breach Lawsuit (Mye1U29FUn)",
-    "Names Floated for ECB Presidency Differ on Stablecoins and Digital Euro"
+    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir"
    ]
   },
   {
@@ -125,19 +124,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 18,
-   "kept": 5,
-   "added": 1,
+   "kept": 8,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "ECB VP says AI, debt have become prominent stability risks",
     "ECB Urges Overhauls to Protect Financial System From AI, Government Debt",
     "ECB warns AI risks now extend beyond valuations",
-    "ECB vice president flags AI and sovereign debt as prominent stability risks",
-    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
-    "Christine Lagarde is resigning as ECB president months early",
     "ECB VP says AI, debt have become prominent stability risks",
+    "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "ECB Says AI Risk Is Now System-Wide; $5.5T Capex by 2030",
-    "ECB Schedules Financial Stability Review for Wednesday, Nov. 18"
+    "ECB Schedules Financial Stability Review for Wednesday, Nov. 18",
+    "ECB warns of market risks if AI boom stalls"
    ]
   },
   {
@@ -145,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 9,
+   "fetched": 30,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -213,7 +210,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 10,
-   "added": 5,
+   "added": 4,
    "error": ""
   },
   {

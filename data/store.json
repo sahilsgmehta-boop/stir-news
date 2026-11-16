@@ -9,7 +9,10 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"UA.NEWS"
+],
 "desc": "",
 "id": "fee24adc6772",
 "score": null,
@@ -32,6 +35,26 @@
 "also": [],
 "desc": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
 "id": "52ffae408881",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T10:00:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed’s Barr Says AI Agents Could Fuel Future Bank Runs",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzBOcnJGTlAwcHNmMkFMa25aM1JKbnQ4SGtsdndxVU5GenJ6eWtQbEg3ajQxOVFpNld0ZExTUFZ1TmtieFJ3SmlmU3gweHJuWGM4am42WFRiQ3RnZGdZRmJlUzV0QTFMMmNyM200RzR5RGt1R2JYZUVHNWhzNlZBNnZHSGhEME5BNGpWLUs3ZG9pYVV1YXBYUHBoY3JtanV1WGgxNmc3NA?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "f3ff9395ad9d",
 "score": null,
 "read": "",
 "sum": "",
@@ -174,7 +197,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"MLQ.ai"
+],
 "desc": "",
 "id": "8b0ca57f79fc",
 "score": null,
@@ -718,7 +743,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Investing.com Australia"
+"Investing.com Australia",
+"Hoodline"
 ],
 "desc": "",
 "id": "bc7df45d6827",
