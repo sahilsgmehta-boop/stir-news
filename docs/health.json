@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T03:07:01Z",
+ "built": "2026-11-16T03:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "ok": true,
    "fetched": 59,
    "kept": 38,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -88,8 +88,8 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
-    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
+    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 27,
    "kept": 5,
    "added": 0,
    "error": "",
