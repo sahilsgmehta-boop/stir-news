@@ -358,7 +358,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Stocktwits"
+],
 "desc": "",
 "id": "c12a9b974bdb",
 "score": 6,
