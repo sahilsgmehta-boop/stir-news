@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T12:37:01Z",
+ "built": "2026-11-16T12:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "ok": true,
    "fetched": 83,
    "kept": 52,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
@@ -89,13 +89,13 @@
     "Gold hits over one-year low on resilient dollar as hawkish Fed bets build",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "JPMorgan's Bob Michele says the Fed missed its October hike",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
     "Gold hits over one-year low as firm dollar, Fed outlook weigh",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 35,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -138,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 35,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -325,7 +325,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
