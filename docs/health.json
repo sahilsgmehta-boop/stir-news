@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T16:07:01Z",
+ "built": "2026-11-16T16:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,8 +67,8 @@
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
     "gold price struggles even as New York Fed's Empire State survey weakens",
-    "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
+    "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
     "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
     "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 95,
-   "kept": 52,
+   "kept": 50,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -92,9 +92,9 @@
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
+    "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -129,9 +129,9 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB warns of market risks if AI boom stalls",
     "ECB VP says AI, debt have become prominent stability risks",
     "Artificial intelligence: ECB sees \u201cnew vulnerabilities for banks\u201d",
-    "ECB warns of market risks if AI boom stalls",
     "ECB warns AI share boom could end in 'abrupt repricing'"
    ]
   },
@@ -140,8 +140,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 6,
+   "fetched": 28,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -162,21 +162,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 24,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027 By Reuters",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
     "Tiff Macklem to step down as Bank of Canada governor at end of his term",
-    "Carmichael: Macklem is stepping aside after a career of consummate public service",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
-    "CP NewsAlert: Tiff Macklem to step down as Bank of Canada governor at end of his term",
-    "Search for new BoC governor begins as Macklem confirms he won\u2019t seek second term"
+    "Macklem To Step Down As Bank Of Canada Governor In June",
+    "Bank of Canada governor Tiff Macklem to step down in 2027"
    ]
   },
   {
