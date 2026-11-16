@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T00:07:01Z",
+ "built": "2026-11-16T00:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 12,
-   "added": 0,
+   "kept": 13,
+   "added": 1,
    "error": ""
   },
   {
@@ -33,7 +33,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 30,
-   "kept": 3,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -59,9 +59,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 34,
-   "added": 1,
+   "fetched": 53,
+   "kept": 33,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -139,19 +139,19 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 9,
+   "fetched": 27,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
     "BoE chief economist says further rate rises needed to combat inflation",
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Bank of England\u2019s chief economist issues stark warning",
     "Bank of England signals further rate rises into 2027",
-    "Bank of England Eyes Rapid Interest Rate Rise as Inflation Nears 5%",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England Eyes Rapid Interest Rate Rise as Inflation Nears 5%",
     "Bank of England Bank Rate 4%: Business and Mortgage Costs",
     "Bank of England\u2019s Cleland says 121 consultation replies back UK payments core design"
    ]
