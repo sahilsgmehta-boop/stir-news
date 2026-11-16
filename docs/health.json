@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T04:07:00Z",
+ "built": "2026-11-16T04:10:33Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
-   "kept": 38,
+   "fetched": 61,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 3,
+   "kept": 61,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
@@ -120,12 +120,11 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
