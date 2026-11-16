@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T06:22:00Z",
+ "built": "2026-11-16T06:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -64,8 +64,8 @@
    "near_misses": [
     "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
     "Fed chair says US on 'unsustainable fiscal path' that should be dealt with soon",
-    "Gold holds near $3,870 ahead of Fed Chair remarks",
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
+    "Gold holds near $3,870 ahead of Fed Chair remarks",
     "Fed Vice Chair Says AI\u2019s Trillion-Dollar Infrastructure Push Is Adding To Inflation Pressures",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Nifty Outlook - Fed Chair's speech in focus amidst oil's decline by Geojit Investments Ltd",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 5,
    "added": 0,
    "error": "",
