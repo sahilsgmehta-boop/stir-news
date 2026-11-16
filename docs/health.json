@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T06:52:00Z",
+ "built": "2026-11-16T07:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
-   "kept": 37,
+   "fetched": 61,
+   "kept": 38,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,12 +66,12 @@
     "Fed chair says US on 'unsustainable fiscal path' that should be dealt with soon",
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
     "Gold holds near $3,870 ahead of Fed Chair remarks",
-    "Fed Vice Chair Says AI\u2019s Trillion-Dollar Infrastructure Push Is Adding To Inflation Pressures",
     "The Fed\u2019s Stability Survey Put AI At The Top Of The Risk List",
     "Nifty Outlook - Fed Chair's speech in focus amidst oil's decline by Geojit Investments Ltd",
     "Fed\u2019s biggest AI challenge collides with fallout from Nvidia backlash",
     "AI Tops Fed's Financial Risk Survey as Advanced-Computing Debt Exceeds $680 Billion",
-    "Why Is the Federal Reserve Still Talking?"
+    "Why Is the Federal Reserve Still Talking?",
+    "Fed Vice Chair Says AI\u2019s Trillion-Dollar Infrastructure Push Is Adding To Inflation Pressures"
    ]
   },
   {
@@ -102,14 +102,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 26,
-   "kept": 5,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
     "Christine Lagarde is resigning as ECB president months early",
     "Lagarde for French President?",
-    "ECB Can\u2019t Substitute Sound Fiscal Policy, Knot Tells Corriere",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
     "Germany, France in \u2018intensive\u2019 talks on new ECB chief",
     "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
@@ -121,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -130,6 +129,7 @@
     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle",
     "Euro softens below 1.1050 as traders ramp up Fed rate hike bets",
     "Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's E",
+    "Below 1.1050: Euro weakens as traders increase bets on a Fed rate hike",
     "Christine Lagarde is resigning as ECB president months early"
    ]
   },
@@ -138,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 10,
+   "fetched": 30,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
