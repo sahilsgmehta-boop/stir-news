@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T02:22:00Z",
+ "built": "2026-11-16T02:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 59,
-   "kept": 38,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
