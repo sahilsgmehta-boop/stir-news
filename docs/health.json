@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T13:37:00Z",
+ "built": "2026-11-16T13:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,11 +59,12 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 85,
-   "kept": 53,
-   "added": 1,
+   "fetched": 86,
+   "kept": 55,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "gold price struggles even as New York Fed's Empire State survey weakens",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
     "AI tops the Fed's risk list as computing debt hits $680B",
@@ -72,8 +73,7 @@
     "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
     "Gold holds near $3,870 ahead of Fed Chair remarks",
     "Commodity Corner: Oil steadies after two-week slide; gold edges higher ahead of Fed Chair's remarks",
-    "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years",
-    "Will the Fed raise interest rates by 50 basis points this December?"
+    "Is a Recession Coming? The Fed Just Made a U-Turn It Has Only Made Twice in 60 Years"
    ]
   },
   {
@@ -138,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 6,
+   "fetched": 35,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -149,9 +149,9 @@
     "Further interest rate rises needed to tackle inflation, Bank of England\u2019s chief economist says",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "Bank of England\u2019s chief economist issues stark warning",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
    ]
   },
@@ -160,13 +160,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "Lagarde for French President?"
+    "Lagarde for French President?",
+    "BOE\u2019s case to raise rates again may strengthen on UK price data"
    ]
   },
   {
@@ -325,7 +325,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
