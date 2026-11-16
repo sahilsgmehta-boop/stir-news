@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T05:52:00Z",
+ "built": "2026-11-16T06:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 38,
+   "fetched": 61,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,20 +80,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 5,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "Kevin Warsh\u2019s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
     "Fed 'has some work to do on inflation,' KC Fed chief says",
     "Fed sets new meeting schedule for 2027, as foretold by Warsh",
     "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
     "Boston Fed president warns housing costs may have to worsen before they improve",
     "Kevin Warsh\u2019s Fed Will Vote on Rates Only 7 Times in 2027",
-    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening"
+    "How Fast Is Fast Enough? Gauging the Fed Voter Split on the Tempo of Tightening",
+    "Bessent says the Fed should not raise rates too much into an energy supply shock"
    ]
   },
   {
@@ -139,8 +139,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 10,
+   "fetched": 29,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -161,7 +161,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
