@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T21:07:00Z",
+ "built": "2026-11-16T21:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,19 +57,31 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 60,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Fed chair Warsh weighs AI\u2019s economic impact, but sidesteps inflation risk",
+    "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
+    "The Fed\u2019s Path to Winning Back Credibility",
+    "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
+    "Gold price struggles even as New York Fed's Empire State survey weakens",
+    "Warsh Opens Fed Hearing on AI's Impact on Productivity and Jobs - News and Statistics",
+    "Fed chair outlines AI scenarios ranging from economic boom to rising unemployment",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets"
+   ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 81,
-   "kept": 43,
+   "fetched": 80,
+   "kept": 42,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -99,28 +111,47 @@
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 21,
+   "kept": 13,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "ECB VP says AI, debt have become prominent stability risks",
+    "ECB warns of market risks if AI boom stalls",
+    "ECB warns AI risks extend beyond valuations",
+    "Artificial intelligence: ECB sees \u201cnew vulnerabilities for banks\u201d",
+    "ECB warns AI share boom could end in 'abrupt repricing'"
+   ]
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 31,
+   "kept": 7,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of England economist sounds a big warning over interest rates",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+   ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 41,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -131,10 +162,10 @@
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Who will be the next Bank of Canada governor? These are some contenders"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
    ]
   },
   {
