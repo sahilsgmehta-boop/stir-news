@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T18:07:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Kevin Warsh lays out best-case scenario from AI, while also warning about 'costly' risks",
+"url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcC1qdWczamlIX1NWNE5ZTGVDbnFjcmt4d2FSSVJvOC0xa3VEb2dLWnY0Uml4di1jdm9RM1MtUEZwOGE2RzBhMkFtUzhhWWtFUXhiaTJEdEExdjVUTlEzbS1BbW5ubFUyTnRsLTFiVVlZdktVQ3YwbEhjUzBXaGxRSzVmVko0eTl3WmVjNHJZaUhPTDFNbDRCQlluVnJZdkVZV01rSlBPcHVLSFNSTmlHY2w0MVlWSEdXMzF3d3Joa2pEWXpEOS1lTmVnYkxwS0hD?oc=5",
+"src": "New York Post",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "22d41cc5b541",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T18:00:45Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -171,7 +191,10 @@
 "src": "KSAT",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"WTOP News",
+"The Killeen Daily Herald"
+],
 "desc": "",
 "id": "72a2679b23ec",
 "score": null,
@@ -2882,7 +2905,8 @@
 "Forex Factory",
 "StreetInsider",
 "AOL.com",
-"KELO-AM"
+"KELO-AM",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "00f02bdb31e0",

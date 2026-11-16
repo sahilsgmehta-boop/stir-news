@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T18:22:01Z",
+ "built": "2026-11-16T18:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
+   "fetched": 100,
    "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "Gold price struggles even as New York Fed's Empire State survey weakens",
+    "Warsh Opens Fed Hearing on AI's Impact on Productivity and Jobs - News and Statistics",
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
-    "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
-    "AI tops the Fed's risk list as computing debt hits $680B",
     "Euro approaches 1.1000 area as Fed's hawkishness boosts US Dollar",
-    "The Fed\u2019s battle against inflation risks turning into a forever war as Iran 'status quo' drags on",
-    "Gold holds near $3,870 ahead of Fed Chair remarks"
+    "NY Fed\u2019s Nordstrom flags resilience of foreign exchange markets By Reuters",
+    "U.S. Fed chairman Warsh grapples with AI\u2019s potential economic impact, steers clear of its inflation risk"
    ]
   },
   {
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 40,
-   "added": 6,
+   "fetched": 74,
+   "kept": 39,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
     "Fed warns of growing financial risks from AI boom",
-    "Gold fall to more than one-year low on resilient dollar as hawkish Fed bets build",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "JPMorgan's Bob Michele says the Fed missed its October hike",
     "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers"
+    "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
+    "WATCH: New Fed chair Kevin Warsh holds first news conference after leaving interest rate unchanged"
    ]
   },
   {
@@ -124,8 +124,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 12,
+   "fetched": 18,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -154,7 +154,7 @@
     "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "Bank of England signals further rate rises into 2027",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "Bank of England\u2019s chief economist issues stark warning"
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
    ]
   },
   {
@@ -162,7 +162,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
+   "fetched": 42,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -176,7 +176,7 @@
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Who will be the next Bank of Canada governor? These are some contenders",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada Governor Tiff Macklem announces plans to step down in 2027"
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
    ]
   },
   {
