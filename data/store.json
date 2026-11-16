@@ -9,7 +9,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "226f97df49cd",
 "score": null,
@@ -501,7 +503,8 @@
 "San Luis Obispo Tribune",
 "Investify",
 "Tacoma News Tribune",
-"FXStreet"
+"FXStreet",
+"www.tmgm.com"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -1982,7 +1985,8 @@
 "also": [
 "Yahoo Finance Singapore",
 "Investing.com South Africa",
-"Investing.com Australia"
+"Investing.com Australia",
+"StreetInsider"
 ],
 "desc": "",
 "id": "48da75a68d2f",
