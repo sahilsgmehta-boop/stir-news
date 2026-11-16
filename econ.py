@@ -488,7 +488,8 @@ def main():
             store = {}
     if "--full" not in sys.argv and store.get("version") == VERSION and store.get("built"):
         age = (NOW - datetime.fromisoformat(store["built"].replace("Z", "+00:00"))).total_seconds() / 3600
-        if age < EVERY_HOURS and os.path.exists(OUT):
+        # after a run with failures, try again on the next pass but one instead of waiting 3 hours
+        if age < (0.4 if store.get("errors") else EVERY_HOURS) and os.path.exists(OUT):
             print("econ: %.1f h old, next refresh at %d h" % (age, EVERY_HOURS))
             return
     old = store.get("series", {})
@@ -506,11 +507,18 @@ def main():
             rec["data"] = data
             rec["got"] = NOW.strftime("%Y-%m-%d")
         except Exception as e:
-            health["errors"].append("%s: %s" % (sid, str(e)[:140]))
+            # Statistics Canada locks its tables every night (midnight to 8:30am Ottawa time) and answers 409:
+            # that is a closed door, not a failure, so the last data stands without a warning
+            locked = "409" in str(e) and d["src"] == "Statistics Canada" and sid in old and old[sid].get("data")
+            if locked:
+                note("Statistics Canada is closed for its nightly update; showing the data from the last run")
+            else:
+                health["errors"].append("%s: %s" % (sid, str(e)[:140]))
             if sid in old and old[sid].get("data"):
                 rec["data"] = old[sid]["data"]
                 rec["got"] = old[sid].get("got")
-                rec["stale"] = True
+                if not locked:
+                    rec["stale"] = True
                 kept.append(sid)
             else:
                 continue
@@ -521,7 +529,7 @@ def main():
     out = {"built": built, "version": VERSION, "countries": COUNTRIES, "groups": GROUPS, "indicators": INDICATORS,
            "series": series, "health": health}
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
-    json.dump({"built": built, "version": VERSION, "series": {r["id"]: r for r in series}}, open(STORE, "w", encoding="utf-8"),
+    json.dump({"built": built, "version": VERSION, "errors": len(health["errors"]), "series": {r["id"]: r for r in series}}, open(STORE, "w", encoding="utf-8"),
               separators=(",", ":"))
     open(OUT, "w", encoding="utf-8").write("window.ECON = " + json.dumps(out, separators=(",", ":"), ensure_ascii=False) + ";\n")
     print("econ: %d series, %d errors, %d kept from before, %d requests" % (len(series), len(health["errors"]), len(kept), health["requests"]))
