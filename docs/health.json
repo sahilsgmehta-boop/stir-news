@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T03:22:01Z",
+ "built": "2026-11-16T03:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 59,
-   "kept": 38,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -81,7 +81,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 61,
-   "added": 3,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 25,
    "kept": 5,
    "added": 0,
    "error": "",
