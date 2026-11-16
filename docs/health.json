@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T12:22:00Z",
+ "built": "2026-11-16T12:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,9 +59,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 82,
+   "fetched": 83,
    "kept": 52,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "After the Fed\u2019s September Hike, Home Warranties Like Choice Home Warranty Offer an Alternative to Financing Repairs",
@@ -81,8 +81,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
-   "kept": 51,
+   "fetched": 99,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 33,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -138,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 7,
+   "fetched": 33,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -325,7 +325,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
