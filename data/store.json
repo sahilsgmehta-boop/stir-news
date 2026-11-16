@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T20:19:08Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed’s Hammack backs gradual rate hikes, flags risk of bigger moves - Bloomberg TV",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZDRfUVl3NjJDNkE0aFdNUFZVWC1GcFVmWlN3ckNOajJkeXQ1YlVybW1PRjZLV3ZzOF9qTG9zY21wUXdoM05GbUYwMlNDZU9MbDFwb3hBbXpsa3R1MzlUU1pkOFVsSjlabk0tRlp1LVk5a2Z4VlFHU1JRbWZVY19BRHZnMHk5bDZSSHVvbDNoSjFPQU9LTkNmZDVHbFlSTDBEVDkxaURqUkZUSzFfclN6Tm44aGpxUzRsWE1aRUwyejVNTG1vZTVSQg?oc=5",
+"src": "Investing.com Australia",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a1234a42794a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T19:48:25Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -29,7 +49,9 @@
 "src": "Seeking Alpha",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com"
+],
 "desc": "",
 "id": "4dc2aad40aaa",
 "score": null,
@@ -69,7 +91,10 @@
 "src": "Reuters",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Miami Herald",
+"Investing.com"
+],
 "desc": "",
 "id": "74f4647473f7",
 "score": null,
@@ -231,7 +256,9 @@
 "src": "Asianet Newsable",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Forbes Middle East"
+],
 "desc": "",
 "id": "ace4ed63dfc0",
 "score": null,
@@ -444,7 +471,8 @@
 "Reuters",
 "marketscreener.com",
 "CNA",
-"Investing.com"
+"Investing.com",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "ee4453ae3cf0",
@@ -574,7 +602,8 @@
 "WSMH",
 "KCBY",
 "WPDE",
-"WOAI"
+"WOAI",
+"KBOI"
 ],
 "desc": "",
 "id": "023da12de922",
