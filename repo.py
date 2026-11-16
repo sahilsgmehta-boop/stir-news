@@ -50,7 +50,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 # estimates the same evening.
 RUN_SLOTS_IST = [(19, 0), (23, 45)]
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 11                 # bump when the output changes: forces a run straight away
+VERSION = 12                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -954,18 +954,27 @@ def main():
                  for back in (0, 1) for h, m in RUN_SLOTS_IST]
         passed = max(t for t in slots if t <= ist)
         due = last_ist is None or last_ist < passed
-        if last and store.get("version") == VERSION and not due:
+        # a run that lost a Treasury source (TGA, issuance) tries again after half an hour, not at the next slot
+        again = bool(store.get("retry")) and last_ist is not None and (ist - last_ist) >= timedelta(minutes=30)
+        if last and store.get("version") == VERSION and not due and not again:
             print("repo: already updated since the last slot (19:00 and 23:45 IST), skipping")
             return
     start = d2s(today - timedelta(days=HISTORY_DAYS))
 
     daily = nyfed_rates(start, d2s(today))
     nyfed_ops(daily)
+    # the TGA history is kept in the store: when Treasury's service is down the last known balances stand
+    # (an empty column once blanked the SOFR nowcast, which needs them)
+    tga_known = dict(store.get("tga") or {})
+    retry = False
     try:
-        for k, v in tga(start).items():
-            daily.setdefault(k, {})["tga"] = v
+        tga_known.update(tga(start))
     except Exception as e:  # noqa: BLE001
-        note(f"TGA: {e}")
+        note(f"TGA: {e}" + (" (showing the last known balances)" if tga_known else ""))
+        retry = True
+    store["tga"] = {k: v for k, v in tga_known.items() if k >= start}
+    for k, v in store["tga"].items():
+        daily.setdefault(k, {})["tga"] = v
     for mn, key in (("REPO-GCF_AR_T-P", "gcf"), ("REPO-DVP_AR_OO-P", "dvp")):
         try:
             for k, v in ofr(mn, start).items():
@@ -1026,6 +1035,7 @@ def main():
     except Exception as e:  # noqa: BLE001
         note(f"issuance: {e}")
         iss = store.get("issuance")
+        retry = True
     store["issuance"] = iss
 
     fields = ["sofr", "sofr_p1", "sofr_p25", "sofr_p75", "sofr_p99", "sofr_vol",
@@ -1047,6 +1057,7 @@ def main():
     built = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     store["built"] = built
     store["version"] = VERSION
+    store["retry"] = retry
     try:
         views = json.load(open(os.path.join(HERE, "repo_views.json")))
     except Exception as e:  # noqa: BLE001
