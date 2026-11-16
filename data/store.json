@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-16T17:06:32Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed's Warsh: AI can be highly disruptive and economically costly",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVRLNWZtUVgzTXc1X1VPTU9pWnR5QjlsdGNEWmhhbkZ5dGtLZTZZOFFwdEdFQnhZS2Yxd3ItSFh6cUZaVGRXcFFQQS1QenpGZlpKNnY0SHBiVlg2WFc5QUpkby1maEVrek40WGh4MTd0NTRzY3lTRktmTEl5VEl5bUZxYkxpU1B2WlZYWG1ndDkwbGJyU2N0bUR5OWtlbXl4LXhlbWFlcFU?oc=5",
+"src": "CNBC",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a702f99cd930",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T17:03:50Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -9,7 +29,10 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"marketscreener.com"
+],
 "desc": "",
 "id": "ee4453ae3cf0",
 "score": null,
@@ -101,6 +124,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-16T17:00:00Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUE0U2w2TzBJcDJHS2dWS3k4MEp1MkFQWHVBTi1nNkJvcG9zQlQ4S0JvTU5aLWNScTJVdmdsYnhLaF9DTXczVU1mQ0V2ZGg0WndacERXamttQy1iT0hYUmc1dndPajU3eDRxX2haeVVmaDhrN0dQdFduNHB6eEZyNEItM0lBYkhQcWFWY3JlUFItUGhnZTBqS0tFeS1iWEJUN214bzVPSHB3SjJhVlVRZHdHRGpsQQ?oc=5",
+"src": "Bloomberg",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "51609f3e9238",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T16:50:19Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -154,7 +197,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"NTD News"
+"NTD News",
+"Fox News"
 ],
 "desc": "",
 "id": "71bdf39329aa",
@@ -649,7 +693,10 @@
 "src": "www.tmgm.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"CNA",
+"NST Online"
+],
 "desc": "",
 "id": "677570d2d307",
 "score": null,
