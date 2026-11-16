@@ -63,6 +63,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-16T20:00:57Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Kevin Warsh Says AI Could Reshape The Fed’s Playbook",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUFyMnFGYnZfSEFSbzh1VEdkRjlXZWttRXh3cmF0eGlBVlo1b3VCYlZrT0lsMV9NV0RPZWMxdnBXR0dzV1BzelhrVm9KWjNWT0JaeXZwSVV0emlHcmJsMl9ucnhEMEdVWkJROHVxck9mMUtsYW9aNWdMc0FaaThzbF9CMUhtYWM?oc=5",
+"src": "Finimize",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9fc6e0e8fc1f",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T19:48:25Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -136,7 +156,8 @@
 "also": [
 "Miami Herald",
 "Investing.com",
-"Kitco"
+"Kitco",
+"SRN News"
 ],
 "desc": "",
 "id": "74f4647473f7",
@@ -1179,7 +1200,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"MLQ.ai"
+"MLQ.ai",
+"Briefs Finance"
 ],
 "desc": "",
 "id": "8b0ca57f79fc",
