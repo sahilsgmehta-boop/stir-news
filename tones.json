@@ -8211,6 +8211,180 @@
    "lead": "21d2dfd3cfaf",
    "at": "2026-11-17T11:54:06Z",
    "by": "claude"
+  },
+  "34b92fc357dc": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Sets a high bar for Fed market interventions; balance-sheet framework, not a rate signal.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "ac9916652da5": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Proposes principles for Fed market interventions; no new signal on the rate path.",
+   "sum": "Hammack proposed principles for Fed interventions in market stress, arguing they should be temporary and targeted, with a high bar, and planned during calm times.",
+   "pts": [
+    "Proposed a set of principles to govern Fed market interventions.",
+    "Said the bar for intervening in markets should be high.",
+    "Said interventions should be temporary and targeted.",
+    "Urged the Fed to prepare its bond-market intervention approach while markets are calm."
+   ],
+   "rr": "No direct read for December hike pricing; this is balance-sheet and market-functioning policy. Her rate view from Monday, favouring slow, steady hikes, stands. Only news paraphrases were available.",
+   "ev": "Remarks on market interventions",
+   "basis": "reports",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "fdf3f1afbded": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Fed should plan bond-market interventions in calm times; framework, not rates.",
+   "lead": "ac9916652da5",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "ac545bdd7ac5": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recap of Warsh on AI job risks; no signal on rates or December.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "b11661acf231": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recap: Fed contingency planning on AI outcomes; no monetary policy guidance.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "66ba06f5bc96": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Sees several hikes by spring and rates up to 100bp too low, beyond current pricing.",
+   "sum": "Musalem said the US likely needs several rate hikes before spring 2027, with the funds rate possibly up to a full percentage point below where it needs to be.",
+   "pts": [
+    "Said several interest rate increases are likely needed before spring 2027.",
+    "Estimated the 3.75-4.00% funds rate could be up to 100bp below the level needed to restore price stability.",
+    "Said inflation is too high and risks are skewed toward persistent above-target inflation.",
+    "Argued acting sooner, while expectations are anchored, is less costly to jobs and growth.",
+    "Sees inflation persistence as a bigger risk than tightening too early."
+   ],
+   "rr": "Supports the 25bp hike expected for December and pushes for more by spring, beyond what is firmly priced for early 2027; leans against any front-end rally. He is not a voter this year. Only news paraphrases were available.",
+   "ev": "Remarks (St. Louis Fed President)",
+   "basis": "reports",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "db053a6bb159": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says several hikes likely needed by spring to control inflation.",
+   "lead": "66ba06f5bc96",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "ec690345b7fa": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says the funds rate may need to rise by a full percentage point.",
+   "lead": "66ba06f5bc96",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "858c920bdd5d": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Market reaction: dollar firms as Musalem calls for more hikes.",
+   "lead": "66ba06f5bc96",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "38b5f46272e4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Legal dispute over White House hearing; no comment on rates.",
+   "sum": "Governor Cook, through her lawyer, declined to take part in the White House hearing set for December 14 unless its terms change, calling it unfair.",
+   "pts": [
+    "Cook declined to join the White House hearing scheduled for December 14.",
+    "Her lawyer said she will not attend without changes to the process.",
+    "The lawyer described the hearing as unfair.",
+    "No remarks on inflation, the economy or the rate path."
+   ],
+   "rr": "No direct read for December pricing. The dispute keeps Fed independence risk in view, which matters more for term premium and the long end than for the next meetings. Only news paraphrases were available.",
+   "ev": "Statement via her lawyer",
+   "basis": "reports",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "36f5e844ab10": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Cook won't attend the hearing without changes; governance story, no rate signal.",
+   "lead": "38b5f46272e4",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "74f308581650": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Lawyer calls the White House hearing unfair; no policy content.",
+   "lead": "38b5f46272e4",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "48555478e7c8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Cook refuses to attend the hearing; independence story, no rate signal.",
+   "lead": "38b5f46272e4",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "06388ab5c8ca": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Payments innovation speech; no comment on rates or the economy reported.",
+   "sum": "Waller said the Fed is open to responsible innovation in payments and will work with the private sector on digital finance, as tokenization reshapes competition.",
+   "pts": [
+    "Said the Fed is open to \"responsible innovation\" in payments.",
+    "Said the Fed will work with the private sector on digital finance.",
+    "Said tokenization is changing the nature of competition in payments.",
+    "Said the financial system is a long way from agentic AI in banking.",
+    "No reported remarks on inflation or the rate path."
+   ],
+   "rr": "No impact on December hike pricing or the curve; a payments-policy talk. Only news paraphrases were available.",
+   "ev": "Speech on payments innovation",
+   "basis": "reports",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "4b26dc1cb540": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Fed to work with private sector on digital finance; no rate content.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "15bd2de93637": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenization reshaping payments competition; no bearing on rates.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
+  },
+  "a175116a9d46": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Agentic AI in banking is far off; payments talk, no rate signal.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-17T15:54:50Z",
+   "by": "claude"
   }
  }
 }
