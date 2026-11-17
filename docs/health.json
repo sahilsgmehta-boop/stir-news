@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T17:52:00Z",
+ "built": "2026-11-17T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 61,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -71,9 +71,9 @@
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
+    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "This Is The Biggest Financial Risk, According To Fed's Report",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets"
    ]
   },
   {
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -90,12 +90,12 @@
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed warns of growing financial risks from AI boom",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "The Fed seems to be getting worried about AI",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
-    "AI arms race has changed the nature of economic competition, Fed chair warns"
+    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 62,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -153,13 +153,13 @@
    "error": "",
    "near_misses": [
     "Bank of England economist sounds a big warning over interest rates",
+    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Bank of England likely to raise interest rates further in 2027",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
@@ -177,27 +177,24 @@
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
+    "Bank of Canada governor Tiff Macklem to step down in June"
    ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 6,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "OCEANE Enters Saudi Market with SNB Capital to Provide Liquidity for SAB Invest Hong Kong ETF (9411)"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",

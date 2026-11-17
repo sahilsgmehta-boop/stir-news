@@ -171,7 +171,9 @@
 "src": "Reuters",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"The Lufkin Daily News"
+],
 "desc": "",
 "id": "fdf3f1afbded",
 "score": 0,
