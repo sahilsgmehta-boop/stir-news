@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T18:07:00Z",
+ "built": "2026-11-17T18:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -70,8 +70,8 @@
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
-    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
+    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "This Is The Biggest Financial Risk, According To Fed's Report",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets"
    ]
@@ -86,16 +86,16 @@
    "added": 5,
    "error": "",
    "near_misses": [
-    "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "Fed warns of growing financial risks from AI boom",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "Fed warns of growing financial risks from AI boom",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "The Fed seems to be getting worried about AI",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION"
+    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
+    "AI arms race has changed the nature of economic competition, Fed chair warns"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
+   "fetched": 61,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -125,8 +125,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 16,
+   "fetched": 33,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -182,19 +182,22 @@
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada governor Tiff Macklem to step down in June"
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
    ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "OCEANE Enters Saudi Market with SNB Capital to Provide Liquidity for SAB Invest Hong Kong ETF (9411)"
+   ]
   },
   {
    "id": "ft_cb",
