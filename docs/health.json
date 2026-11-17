@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T06:52:00Z",
+ "built": "2026-11-17T07:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,23 +54,11 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 57,
-   "added": 1,
-   "error": "",
-   "near_misses": [
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
-    "Fed Chair talks AI impact",
-    "AI arms race has changed the nature of economic competition, Fed chair warns",
-    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
-    "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
-    "The Fed\u2019s Path to Winning Back Credibility",
-    "Gold price struggles even as New York Fed's Empire State survey weakens"
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
@@ -79,7 +67,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 54,
-   "added": 4,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
@@ -89,8 +77,8 @@
     "AI arms race has changed the nature of economic competition, Fed chair warns",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
     "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
-    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'",
     "Warsh says AI will have \u2018significant impact\u2019 on economy, policy"
    ]
   },
@@ -98,23 +86,11 @@
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": true,
-   "fetched": 42,
-   "kept": 17,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
-    "Greenway appointed ECB's head of women's game strategy",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Will Christine Lagarde challenge Marine Le Pen for the French presidency?",
-    "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
-    "ECB VP says AI, debt have become prominent stability risks",
-    "Lagarde for French President?",
-    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
-    "Names Floated for ECB Presidency Differ on Stablecoins and Digital Euro"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb2",
@@ -137,21 +113,45 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 30,
+   "kept": 6,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of England economist sounds a big warning over interest rates",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
+    "Bank of England likely to raise interest rates further in 2027",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
+   ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 54,
+   "kept": 1,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
+   ]
   },
   {
    "id": "gn_snb",
