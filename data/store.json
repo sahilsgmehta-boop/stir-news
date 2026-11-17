@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T20:11:11Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action'",
+"url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUhZUGZSMFZsRGZjRndINmpsRmhOXzRGdzRpVHlsTEg4QlRlcFJhRGVMLTdvS2N2VHcxWDFfSFBuVFNYOXowZmZneTFwTTNMRjJHRDRrV1FHVHB4ZVJBT1JBX2w3ekIydWo1RTJjRmlTYk94Yl9UdFlxWjJXSTZKYnZUQTlUTms1ektoaXA3TURRYk1ZUDExV1RldDNvNzNSeXBqNl9vU1l6Z0NJS0V6c28tclIzZ29ldkE2cU5BUHJmWklsaHdlcjVlLWY4ZEZyZHBtTjZmSk1kLVh2Zmg4R285LWFsbEhieVE?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b7790baa4f40",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T20:03:04Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -9,7 +29,10 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"CNBC",
+"Investing.com"
+],
 "desc": "",
 "id": "a6774e9b04db",
 "score": null,
@@ -30,7 +53,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"CNBC"
+"CNBC",
+"Bloomberg.com"
 ],
 "desc": "",
 "id": "6eed21fe132d",
@@ -903,6 +927,26 @@
 "id": "a1234a42794a",
 "score": 5,
 "read": "Backs gradual hikes but flags risk of bigger moves; hawkish tail.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-16T20:18:00Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Breaking News: Fed's Williams Says No Major Policy Action Needed",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3Zjek1ySUt5cjRyNzJJNUdEY1Q3czVKOTFQcEszbE5Uc09mV0NqLXdRU3lISXJkeTdhQWo2YjJlUWJkTlJ4SGgtbWIxODh6dTRXU05tSFliVkJIaW02bTNnbXJOT0hYUjVSbFFaalMwbTlYdGFmOGpZcUsxYy04ekY0cHVVR3RhRnBjcmQwa2ltUWlDbVdSMHpKU0dmS3hKOGZvSFRaSW4ydGVxb2RR?oc=5",
+"src": "Moomoo",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "93641a454ba6",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",

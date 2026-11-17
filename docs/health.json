@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T20:07:01Z",
+ "built": "2026-11-17T20:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -68,8 +68,8 @@
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "The Fed\u2019s new freedom to fight inflation",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
@@ -83,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 53,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
+   "fetched": 61,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -158,10 +158,10 @@
     "Bank of England likely to raise interest rates further in 2027",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangement"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
   {
