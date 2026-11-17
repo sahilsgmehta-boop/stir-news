@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T18:22:01Z",
+ "built": "2026-11-17T18:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,14 +66,14 @@
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed\u2019s new freedom to fight inflation",
-    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
+    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "This Is The Biggest Financial Risk, According To Fed's Report",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets"
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 53,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -125,8 +125,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 17,
+   "fetched": 32,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -262,7 +262,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 5,
+   "kept": 6,
    "added": 0,
    "error": ""
   },
