@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T21:10:02Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed’s Lisa Cook to skip dubious hearing with Trump’s ‘committee of inquiry’",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejcxR05Za3JtSU5JT1pVN3VTRGMzUkgtRk9BSi1UdFNnM3QzRHFKckVxR1JyeDVneXJtZjdQZXp1MVMxMWFCT3gyUkJTNlo3WDhiUWFHMUM0YUNBTENPVWpfa1E0YllxLU9SLVBQeWpnUVRfZVJ3eEYwVngxdEYyaDdNazVKTy1BM0d6UVdKRThibDZfUWp3QXNPVWxBYkhGU1RWNWVSZWRRLTVyWFpZ?oc=5",
+"src": "MS NOW",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6cd552f745c9",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T20:51:44Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -49,7 +69,9 @@
 "src": "Mezha.net",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Breakingthenews.net"
+],
 "desc": "",
 "id": "95bbeb02c1bc",
 "score": 3,
@@ -197,6 +219,26 @@
 "rr": "Supports the 25bp hike priced for December 8-9 and further gradual tightening in 2027, but pushes back on 50bp moves or calls for 100-150bp by spring. A vice chair and voter, so it anchors the gradual path. Only news paraphrases were available.",
 "ev": "Axios BFD Annual Summit, New York",
 "basis": "reports"
+},
+{
+"t": "2026-11-17T17:21:30Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Waller Sees Fed Payment Systems Supporting Tokenized Market Settlement",
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQTFUZUFsZ0lOaE5idUZEVU5JR3BiNC1TM25IVVJGZDNhMGV4dmlueHJYTjlIc0RpMTNacmtZY0ROaG1BZTl3dEEtTm5XTU9Jb0dETlQ4N1hkdVU?oc=5",
+"src": "www.tokenpost.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "31de4db5aed4",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-17T16:40:41Z",
@@ -735,7 +777,8 @@
 "also": [
 "CNBC Economy",
 "CNBC",
-"Briefs Finance"
+"Briefs Finance",
+"Rich Picks Daily"
 ],
 "desc": "The forecast represents one of the most hawkish views among policymakers.",
 "id": "66ba06f5bc96",
