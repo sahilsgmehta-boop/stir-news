@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T15:22:00Z",
+ "built": "2026-11-17T15:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,14 +60,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 3,
+   "kept": 63,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "This Is The Biggest Financial Risk, According To Fed's Report",
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI Enters the Fed's Spotlight\u2014Productivity Boom, Job Losses or a Bubble Bust?",
@@ -82,13 +82,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
-   "added": 5,
+   "kept": 53,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 62,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -125,8 +125,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 17,
+   "fetched": 31,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 33,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -182,7 +182,7 @@
     "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
+    "Who will be the next Bank of Canada governor? These are some contenders"
    ]
   },
   {
@@ -341,7 +341,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }

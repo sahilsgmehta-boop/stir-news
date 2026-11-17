@@ -70,7 +70,9 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Mezha.net"
+"Mezha.net",
+"Crain's Cleveland",
+"Seeking Alpha"
 ],
 "desc": "",
 "id": "ac9916652da5",
@@ -179,7 +181,8 @@
 "tone": "",
 "also": [
 "Quartz",
-"Yahoo"
+"Yahoo",
+"Breakingthenews.net"
 ],
 "desc": "",
 "id": "36f5e844ab10",
@@ -446,6 +449,26 @@
 "id": "df8895aef89c",
 "score": 0,
 "read": "Not a policy remark.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-17T00:00:00Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Watch Hammack: Fed Should Set High Bar for Market Interventions",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkpaelBHTjNyMWliXzE2V1Z2MEllX2NuRG5jUThreGZrUlRkMXJHQ0tsTC03MF9GdDV2ZFFfemRTZWlBblZOQkJHNGh6R050N0M2cG1XUUlXOUJ0dW9HN1NEeDU4UGgwaElJT0tnQVp3VE1jQ25QOVpvT1BWX2NOOFpTVkpRb1MxT0RUalVxSGhySTZEVlBHRU1wMUhUREEyNVZVejFoWVBQVkdkaVE?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "34b92fc357dc",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
