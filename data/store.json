@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T13:37:11Z",
+"bank": "Fed",
+"speaker": "Musalem",
+"hl": "EURUSD falls below 1.10 🚩 Markets react to hawkish comments from Fed's Musalem",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhuLXY0NGZkVmU0UUU0NjJteEJpRjV5S0ppUzRkWGd1VWkySXBKX1B3UTA0aFNBa0w2TFljSGN5dEh1RThNLWRoanFZSVhleHZlNjVPRHdvNHo3WU42NzZWdjdNRkJpTGxNRWw2Q291cl9rc1NYYVE1cE9FZ1ozVm1oX1hVSUc4QW85QllsZU1zb09XejNJNnVHSUwzNUJpQVRZem5qRml5SGh4RWJPMXp4M0FfQQ?oc=5",
+"src": "XTB.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "858c920bdd5d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T13:17:07Z",
 "bank": "Fed",
 "speaker": "Musalem",
@@ -57,8 +77,11 @@
 "src": "Finimize",
 "tier": "comment",
 "tone": "",
-"also": [],
-"desc": "",
+"also": [
+"CNBC Economy",
+"CNBC"
+],
+"desc": "The forecast represents one of the most hawkish views among policymakers.",
 "id": "66ba06f5bc96",
 "score": null,
 "read": "",
