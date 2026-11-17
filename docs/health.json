@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T01:22:00Z",
+ "built": "2026-11-17T01:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,7 +77,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
+   "fetched": 98,
    "kept": 53,
    "added": 5,
    "error": "",
@@ -167,11 +167,12 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
