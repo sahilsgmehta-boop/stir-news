@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T22:22:00Z",
+ "built": "2026-11-17T22:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
-   "added": 2,
+   "kept": 59,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
@@ -80,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 54,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -158,8 +158,8 @@
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangement"
    ]
   },
   {
@@ -181,7 +181,7 @@
     "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
+    "Bank of Canada governor Tiff Macklem to step down in June"
    ]
   },
   {
