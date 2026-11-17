@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T17:22:00Z",
+ "built": "2026-11-17T17:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 63,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -68,12 +68,12 @@
     "The Fed\u2019s new freedom to fight inflation",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
-    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "This Is The Biggest Financial Risk, According To Fed's Report",
+    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means"
+    "This Is The Biggest Financial Risk, According To Fed's Report",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
    ]
   },
   {
@@ -82,15 +82,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "The Fed seems to be getting worried about AI",
     "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
-   "kept": 16,
+   "fetched": 61,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -116,8 +116,8 @@
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
     "Germany backs Spain's Hern\u00e1ndez de Cos to succeed Lagarde as ECB president and seeks the chief economist job",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
-    "Economists Comment on Brunnermeier as Possible ECB Chief Economist"
+    "Economists Comment on Brunnermeier as Possible ECB Chief Economist",
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
    ]
   },
   {
@@ -125,8 +125,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 16,
+   "fetched": 33,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -169,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 62,
    "kept": 1,
    "added": 0,
    "error": "",
