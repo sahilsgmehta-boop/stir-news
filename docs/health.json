@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T13:10:50Z",
+ "built": "2026-11-17T13:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate",
+    "Solana's recovery hinges on the Fed and US-Iran breakthrough as risk sentiment remains negative",
     "Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough"
    ]
   },
@@ -58,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -66,9 +68,9 @@
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "This Is The Biggest Financial Risk, According To Fed's Report",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI Enters the Fed's Spotlight\u2014Productivity Boom, Job Losses or a Bubble Bust?",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Chair talks AI impact",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets"
@@ -80,13 +82,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
-   "added": 5,
+   "kept": 53,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
@@ -107,15 +109,15 @@
    "error": "",
    "near_misses": [
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
+    "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
-    "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
     "Nagel on ECB presidency: Not a yes, not a no",
-    "Germany set to nominate Brunnermeier for ECB chief economist",
     "Economists Comment on Brunnermeier as Possible ECB Chief Economist",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Greenway appointed ECB's head of women's game strategy"
+    "Germany set to nominate Brunnermeier for ECB chief economist",
+    "Greenway appointed ECB's head of women's game strategy",
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
    ]
   },
   {
@@ -123,8 +125,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 16,
+   "fetched": 29,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -141,7 +143,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 6,
    "added": 0,
    "error": "",

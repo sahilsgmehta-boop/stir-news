@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T13:17:07Z",
+"bank": "Fed",
+"speaker": "Musalem",
+"hl": "The Fed rate may need to rise by 1 percentage point, Musalem says",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEVoM296T0x4OVNaOTcxdWdvbGF3V25rX2YxS3BVS0o3MGlKcmQwbWR3VVRuaGZHbWZlSlpQMFd3UWw3RmRpeUk3WTVaSFpySi1zSlRYb2JmWDBVa3pMVlBKX2wtYmRBdi1fbzM4ME9hYXRuaGZkMTRzd1lnVzhHeGhVb3h6djZGNVBHblFubmJxT1YyZTNuaUtnR2lHbVVRNVp0Ng?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ec690345b7fa",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T12:44:06Z",
 "bank": "Fed",
 "speaker": "Musalem",
@@ -11,7 +31,11 @@
 "tone": "",
 "also": [
 "Bloomberg.com",
-"Reuters"
+"Reuters",
+"CNBC",
+"WSJ",
+"Breakingthenews.net",
+"www.marketscreener.com"
 ],
 "desc": "",
 "id": "db053a6bb159",
