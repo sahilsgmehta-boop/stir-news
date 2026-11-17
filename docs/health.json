@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T14:07:00Z",
+ "built": "2026-11-17T14:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -60,20 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 4,
+   "kept": 63,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "This Is The Biggest Financial Risk, According To Fed's Report",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "AI Enters the Fed's Spotlight\u2014Productivity Boom, Job Losses or a Bubble Bust?",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
+    "AI Enters the Fed's Spotlight\u2014Productivity Boom, Job Losses or a Bubble Bust?",
     "Fed Chair talks AI impact",
     "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
-    "AI arms race has changed the nature of economic competition, Fed chair warns"
+    "AI arms race has changed the nature of economic competition, Fed chair warns",
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring"
    ]
   },
   {
@@ -86,16 +86,16 @@
    "added": 6,
    "error": "",
    "near_misses": [
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "AI arms race has changed the nature of economic competition, Fed chair warns",
     "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
+    "AI arms race has changed the nature of economic competition, Fed chair warns",
     "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
     "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'"
+    "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk"
    ]
   },
   {
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
-   "kept": 18,
+   "fetched": 57,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -145,7 +145,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 31,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -176,8 +176,8 @@
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
@@ -218,8 +218,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 11,
-   "added": 4,
+   "kept": 10,
+   "added": 3,
    "error": ""
   },
   {

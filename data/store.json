@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-17T14:12:12Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller says central bank will work with private sector on digital finance",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2F2Q1Z4MmIyNWlBZHpXakZvZnFKQkFBOEhXbklWQ01xSGd3MEZJcHFEREdvdXpvQnFSYW01R216NlhVSnhMQTFVTDA3QTlFRUF2WXljZkF0S3VhT3c4NVJXZExVX3AyclNGRHlzMUFXbE4yVjB4ZWI2bG54LVp2RWpiMXJBNENBQXNfN1ZJT0JaRUtnczZtMzhR?oc=5",
+"src": "Yahoo Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4b26dc1cb540",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-17T14:10:00Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Waller Says Fed Open to ‘Responsible Innovation’ in Payments",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMlhjQVNnazIydEQ1OUVvZ19HcmZBVTBUODRjV1V0VEczNzkwWGpUb2EwUXJrN2tORTBaTHM0c1gtVFN0U1JvY1ZoTWkyVGJOMzV4bGVqRHlnTTR4aUpQbHhrV25LYWVpcEtsdG9SUGEyeE5kODVvWmFvcGEwSDlpM0h2WnBNMnpaRVJnYW1JRzlrVk8weGdmaXE2ZTd6VGZxWjlVdVdCMGlDZTJMc3c?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "06388ab5c8ca",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T13:59:32Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -9,7 +49,9 @@
 "src": "www.marketscreener.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters"
+],
 "desc": "",
 "id": "74f308581650",
 "score": null,
@@ -927,7 +969,8 @@
 "WTOP News",
 "The Killeen Daily Herald",
 "WFTV",
-"Boston Herald"
+"Boston Herald",
+"AP News"
 ],
 "desc": "",
 "id": "72a2679b23ec",
