@@ -70,7 +70,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Breakingthenews.net"
+"Breakingthenews.net",
+"IndexBox"
 ],
 "desc": "",
 "id": "95bbeb02c1bc",
@@ -159,7 +160,8 @@
 "tone": "hawk",
 "also": [
 "CNBC",
-"Investing.com"
+"Investing.com",
+"IndexBox"
 ],
 "desc": "",
 "id": "a6774e9b04db",
@@ -364,6 +366,26 @@
 "id": "11ec14701d06",
 "score": 0,
 "read": "Commentary on Warsh tone on AI; no new policy signal.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-17T15:30:26Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Broadens AI Review: Warsh Warns of Job Losses and Superintelligence Risks - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzQ0NlgxQ1NRdGczRWJZRjZidk1mb0Y3cFVPRjlmd0Z4TjlTcXFlODNmWmtodllES1FlVS1jRDQzNzFURkRKZjQ1U0s0MjBIU2puVHpBT2tFNG9YQlRvd1c0ZWxiTnVTNkJIRlBQdndQcjRjb1ZGZTc3dEk5VC1pT1pLaUtRbTdvZGlta0g3MXBGQjZpaGFSNw?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "496bef6e5036",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
