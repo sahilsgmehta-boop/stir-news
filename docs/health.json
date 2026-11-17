@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T14:37:00Z",
+ "built": "2026-11-17T14:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,23 +58,12 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 64,
-   "added": 2,
-   "error": "",
-   "near_misses": [
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "This Is The Biggest Financial Risk, According To Fed's Report",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "AI Enters the Fed's Spotlight\u2014Productivity Boom, Job Losses or a Bubble Bust?",
-    "Fed Chair talks AI impact",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
-    "AI arms race has changed the nature of economic competition, Fed chair warns",
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring"
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "feed returned no items",
+   "near_misses": []
   },
   {
    "id": "gn_fed2",
@@ -82,8 +71,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
-   "added": 5,
+   "kept": 55,
+   "added": 8,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
@@ -103,21 +92,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 17,
+   "fetched": 60,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
+    "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
-    "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Nagel on ECB presidency: Not a yes, not a no",
     "Economists Comment on Brunnermeier as Possible ECB Chief Economist",
     "Germany set to nominate Brunnermeier for ECB chief economist",
-    "Greenway appointed ECB's head of women's game strategy"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
    ]
   },
   {
@@ -125,8 +114,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 16,
+   "fetched": 32,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -146,21 +135,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 33,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England economist sounds a big warning over interest rates",
     "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Bank of England likely to raise interest rates further in 2027",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
   {
@@ -190,7 +179,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
