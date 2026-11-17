@@ -8385,6 +8385,151 @@
    "lead": "06388ab5c8ca",
    "at": "2026-11-17T15:54:50Z",
    "by": "claude"
+  },
+  "0c26ffb1a055": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Still sees more hikes needed but rejects dramatic action; backs the gradual priced path.",
+   "sum": "Williams said inflation is too high and not moving the right way, so more hikes are likely, but the Fed does not need dramatic action.",
+   "pts": [
+    "Said inflation is too high, stubborn and \"not moving in the right direction\".",
+    "Sees tariff and energy shocks still lifting inflation, with signs of spillover into broader prices.",
+    "Called the labour market solid and the economy resilient and getting stronger.",
+    "Said the Fed will likely need to raise rates again to get inflation back to 2%.",
+    "Rejected a more aggressive path: no need for \"dramatic action\"; recent gradual steps are working."
+   ],
+   "rr": "Supports the 25bp hike priced for December 8-9 and further gradual tightening in 2027, but pushes back on 50bp moves or calls for 100-150bp by spring. A vice chair and voter, so it anchors the gradual path. Only news paraphrases were available.",
+   "ev": "Axios BFD Annual Summit, New York",
+   "basis": "reports",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "6eed21fe132d": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Says no need for drastic action on rates; leans against aggressive hike pricing.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "a6774e9b04db": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says more rate hikes are likely needed as inflation stays too high.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "37ef5d5768bd": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "No need for a 'dramatic' rate move; tempers calls for faster hikes.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "b7790baa4f40": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Still favours tighter policy but rejects dramatic action; supports the gradual priced path.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "95bbeb02c1bc": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Headline says AI boom could mean more hikes in 2027; more tightening ahead.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "93641a454ba6": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Says no major policy action needed; leans against bigger hikes.",
+   "sum": "Williams said no major policy action is needed, signalling a measured approach rather than a faster pace of rate hikes.",
+   "pts": [
+    "Said no major policy action is needed.",
+    "No further detail on inflation, jobs or the rate path was available in the report."
+   ],
+   "rr": "Leans against pricing of larger or faster hikes; does not challenge the 25bp December hike. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "1930a1853ff8": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says 100-150bp of hikes needed before spring 2027, well beyond pricing.",
+   "lead": "66ba06f5bc96",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "14a4e7f42a76": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Payment account policy and the Custodia case; no rate content.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "3f801159c70d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI and tokenization in financial markets; no bearing on rates.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "3ac0052d7726": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Backs responsible payment innovation; no rate signal.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "7fe75bb49fd6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Cook to skip the White House removal hearing; independence story, no rate signal.",
+   "lead": "38b5f46272e4",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "3aaf23a853d3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recap of Warsh's three AI scenarios; no guidance on rates.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "11ec14701d06": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Commentary on Warsh tone on AI; no new policy signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "4ef2032bb05b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Fed staff modelling AI scenarios; no signal on the rate path.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
+  },
+  "18940611ed7c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Wants clear principles for Treasury market interventions; framework, not rates.",
+   "lead": "ac9916652da5",
+   "at": "2026-11-17T20:59:20Z",
+   "by": "claude"
   }
  }
 }
