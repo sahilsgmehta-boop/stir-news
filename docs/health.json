@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T01:52:01Z",
+ "built": "2026-11-17T02:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
-   "added": 0,
+   "kept": 4,
+   "added": 1,
    "error": "",
    "near_misses": []
   },
@@ -56,20 +56,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Chair talks AI impact",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
     "The Fed\u2019s Path to Winning Back Credibility",
-    "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
-    "Roundup: Coal ash disposal / Fed chair talks AI / Oil prices ease"
+    "A Fed governor warned AI agents could speed up bank runs that unfold in minutes"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 54,
-   "added": 5,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
@@ -90,8 +90,8 @@
     "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
     "Fed officials debate AI\u2019s impact on inflation and interest rates",
     "Warsh says AI will have \u2018significant impact\u2019 on economy, policy",
-    "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
-    "Fed 'has some work to do on inflation,' Kansas City Fed chief says"
+    "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says"
    ]
   },
   {
@@ -172,19 +172,18 @@
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Who will be the next Bank of Canada governor? These are some contenders",
-    "Who will be the next Bank of Canada governor? These are some contenders"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
    ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": []
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
