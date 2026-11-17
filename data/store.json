@@ -9,7 +9,9 @@
 "src": "The Singju Post",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"NewsBytes"
+],
 "desc": "",
 "id": "cbad1fe284f8",
 "score": null,
