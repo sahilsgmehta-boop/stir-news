@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T20:22:00Z",
+ "built": "2026-11-17T20:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -64,8 +64,8 @@
    "added": 4,
    "error": "",
    "near_misses": [
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
+    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
-   "added": 4,
+   "kept": 52,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
-    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
+    "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed warns of growing financial risks from AI boom",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION"
+    "Fed Says Tokenization Still Needs Traditional Payments"
    ]
   },
   {
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 16,
+   "fetched": 62,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -137,8 +137,8 @@
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns of market risks if AI boom stalls",
     "ECB warns AI risks extend beyond valuations",
-    "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "The rush towards AI could prove costly for investors, ECB warns",
+    "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "ECB warns: \u201cArtificial intelligence creates new vulnerabilities for the banking system\u201d"
    ]
   },
@@ -158,10 +158,10 @@
     "Bank of England likely to raise interest rates further in 2027",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangement"
    ]
   },
   {
@@ -178,8 +178,8 @@
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",

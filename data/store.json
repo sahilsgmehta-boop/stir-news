@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T20:34:38Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "John Williams says AI boom could lead to more Fed rate hikes in 2027",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDZtczBjT0dwNlU2T2p2VUhTcnBjUURuZmhvVENyZTF3R1dFY0RfcGpMWjZzR1UzajVtVEduaGlMdmlZbVdwNktBTWwydHJjRnRSUkt3VHlhMTJORWZ5VkZpRU9NOUl4d0ppOEJyakowYnQ1TUNvYl9lUmlxai1EamZnNA?oc=5",
+"src": "Mezha.net",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "95bbeb02c1bc",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T20:11:11Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -9,9 +29,32 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"The Lufkin Daily News"
+],
 "desc": "",
 "id": "b7790baa4f40",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-17T20:06:05Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed’s Williams Says No Need for ‘Dramatic’ Rate Move",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWFxRjVlcmJQWG9lS2R0eHhBbG5WYjJoNWQyTTJpS09TLTc3VXNMNDNHaXpienVaT0Exd2VHMDg0SzNIa0lhTVhXdXM0WlYybkNZcWR0SllXMjBiQVVEUXdVbG12OU5keW8wUXg5TEZKR3M5emZZdVpaa0NKaHNZdWpPWExYYk14dnZSa2RRWlh3MWxWXzVhTkVKVkhnWi1lcVZ3?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "37ef5d5768bd",
 "score": null,
 "read": "",
 "sum": "",
@@ -54,7 +97,8 @@
 "tone": "",
 "also": [
 "CNBC",
-"Bloomberg.com"
+"Bloomberg.com",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "6eed21fe132d",
