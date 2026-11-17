@@ -7699,15 +7699,17 @@
    "tone": "neutral",
    "score": 0,
    "read": "Event listing only; no remarks reported yet, so no stance can be read.",
-   "at": "2026-11-16T15:55:22Z",
-   "by": "claude"
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude",
+   "lead": "21d2dfd3cfaf"
   },
   "e0f86a213008": {
    "tone": "neutral",
    "score": 0,
    "read": "Event listing only; no remarks reported yet, so no stance can be read.",
-   "at": "2026-11-16T15:55:22Z",
-   "by": "claude"
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude",
+   "lead": "21d2dfd3cfaf"
   },
   "8c1edff66b7d": {
    "tone": "neutral",
@@ -8099,6 +8101,84 @@
    "score": 0,
    "read": "Not a policy remark.",
    "at": "2026-11-16T21:00:12Z",
+   "by": "claude"
+  },
+  "cbad1fe284f8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Transcript of Warsh's AI speech; no guidance on the rate path.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "b8e2cee343e0": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Roundup led by Hammack seeing a continued need to tighten.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "df8895aef89c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "4251002aacaa": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Fed market interventions should be temporary and targeted; balance-sheet discipline, not rates.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "60d6c84c4bb2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "3f59e4785468": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Fed studying whether AI boosts or jolts the economy; no rate signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "9fd519a29d2d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warns stocks could fall if AI disappoints; stability risk, not rates.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "9fc6e0e8fc1f": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "AI could reshape the Fed playbook; long-run supply framing, no near-term signal.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "8282edcaa66d": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Endorses market pricing of ECB hikes in 2027 instead of pushing back.",
+   "lead": "4b58718f0986",
+   "at": "2026-11-17T07:06:30Z",
+   "by": "claude"
+  },
+  "7bdad13d7691": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Stresses AI's importance but says it could disappoint; no rate view.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T07:06:30Z",
    "by": "claude"
   }
  }
