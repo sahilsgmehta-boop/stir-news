@@ -49,7 +49,14 @@
 "src": "MLQ.ai",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"Bloomberg.com",
+"Yahoo Finance",
+"Quartz",
+"Bloomberg Law News",
+"The Lufkin Daily News"
+],
 "desc": "",
 "id": "7fe75bb49fd6",
 "score": null,
