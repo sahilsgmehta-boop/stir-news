@@ -483,7 +483,9 @@
 "src": "Financial Times",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Al Jazeera"
+],
 "desc": "",
 "id": "48555478e7c8",
 "score": 0,
@@ -575,7 +577,8 @@
 "tone": "neutral",
 "also": [
 "Reuters",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"SRN News"
 ],
 "desc": "",
 "id": "4b26dc1cb540",

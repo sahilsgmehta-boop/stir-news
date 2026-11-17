@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T21:52:01Z",
+ "built": "2026-11-17T22:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,9 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate",
-    "Solana's recovery hinges on the Fed and US-Iran breakthrough as risk sentiment remains negative",
-    "Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough"
+    "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate"
    ]
   },
   {
@@ -60,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 3,
+   "kept": 59,
+   "added": 2,
    "error": "",
    "near_misses": [
-    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "Fed governor Lisa Cook will skip White House tribunal on her firing",
-    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "The Fed\u2019s new freedom to fight inflation",
-    "Will digital payments change how Americans use banks? Fed governor weighs in"
+    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Will digital payments change how Americans use banks? Fed governor weighs in",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "This Is The Biggest Financial Risk, According To Fed's Report",
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump"
    ]
   },
   {
@@ -81,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 50,
+   "fetched": 100,
+   "kept": 53,
    "added": 6,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
+    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed Says Tokenization Still Needs Traditional Payments",
     "Fed warns of growing financial risks from AI boom",
-    "Waller Backs Traditional Rails for Tokenized Markets"
+    "Fed Says Tokenization Still Needs Traditional Payments",
+    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION"
    ]
   },
   {
@@ -103,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 15,
+   "fetched": 60,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -125,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 17,
+   "fetched": 32,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -153,15 +151,15 @@
    "error": "",
    "near_misses": [
     "Bank of England economist sounds a big warning over interest rates",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Bank of England likely to raise interest rates further in 2027",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangement"
    ]
   },
   {
@@ -179,11 +177,11 @@
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
-    "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
    ]
   },
   {
