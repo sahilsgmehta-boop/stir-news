@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T16:07:01Z",
+ "built": "2026-11-17T16:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 5,
+   "kept": 63,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
@@ -92,10 +92,10 @@
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "The Fed seems to be getting worried about AI",
     "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
-    "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
-    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'"
+    "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
+   "fetched": 65,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -156,11 +156,11 @@
     "Bank of England likely to raise interest rates further in 2027",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
   {
@@ -178,10 +178,10 @@
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada governor Tiff Macklem to step down in June"
    ]
   },

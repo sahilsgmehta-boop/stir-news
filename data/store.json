@@ -41,6 +41,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-17T15:27:45Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed’s Waller backs responsible payment innovation as tokenization scales",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGZwVWdxaWlpcFdnNFphNl9JQTBuQV9VMjd6QzZSeEhDbXNPam1GOTFYQVRoeHFOQ2hnZGVDNnVneHozbmFTUmw4T0laeVhiWEh3YkV6VUI0WWlwcjg4MEE4bHZFaHlzYTJxdFR1V0wtY3pyNS1mNGNOLVZvVjF2TWlwaVlDNE15b3JnWVI2eVNheDJ1NEtQbkFHOC0xNlF4eWp2cVUyVTV3emdxR05SU2dxMWpjeHJxSW9xbFFxOGU?oc=5",
+"src": "Investing.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3ac0052d7726",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T15:07:44Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -229,7 +249,8 @@
 "also": [
 "Reuters",
 "Yahoo Finance",
-"Bloomberg.com"
+"Bloomberg.com",
+"Yahoo"
 ],
 "desc": "",
 "id": "74f308581650",
