@@ -21,6 +21,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-17T14:36:14Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed’s Lisa Cook refuses to attend hearing convened by Donald Trump",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2JjcnJpMUZKTGVmcFB3YTRBT1ByNkpqZFIyQ0d3TGhNeDlRcTNfQzVwc0tlWVhvTldmTllLWF9lYVhKelllVVVCa3FpR1c1NWd6TEVZVW1fNU5VTmp4YTBNWkdoMmxzMnVXY0k0SnBZSENCV3NBWXdoMHZkdmtLelRjSU4?oc=5",
+"src": "Financial Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "48555478e7c8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T14:35:00Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -136,7 +156,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Quartz"
+"Quartz",
+"Yahoo"
 ],
 "desc": "",
 "id": "36f5e844ab10",
@@ -177,7 +198,9 @@
 "src": "Forex Factory",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"WSJ"
+],
 "desc": "",
 "id": "38b5f46272e4",
 "score": null,
@@ -244,7 +267,8 @@
 "WSJ",
 "Breakingthenews.net",
 "www.marketscreener.com",
-"Yahoo Finance"
+"Yahoo Finance",
+"Investing.com"
 ],
 "desc": "",
 "id": "db053a6bb159",
@@ -1036,7 +1060,8 @@
 "The Killeen Daily Herald",
 "WFTV",
 "Boston Herald",
-"AP News"
+"AP News",
+"Toronto Star"
 ],
 "desc": "",
 "id": "72a2679b23ec",
