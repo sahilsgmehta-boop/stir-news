@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T18:52:00Z",
+ "built": "2026-11-17T19:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,16 +60,16 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 2,
+   "kept": 58,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed\u2019s new freedom to fight inflation",
+    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
+    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
-    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "This Is The Biggest Financial Risk, According To Fed's Report",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
-   "added": 5,
+   "kept": 51,
+   "added": 3,
    "error": "",
    "near_misses": [
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed warns of growing financial risks from AI boom",
+    "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "Fed warns of growing financial risks from AI boom",
     "The Fed seems to be getting worried about AI",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
-    "AI arms race has changed the nature of economic competition, Fed chair warns"
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION"
    ]
   },
   {
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 16,
+   "fetched": 62,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -158,9 +158,9 @@
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
