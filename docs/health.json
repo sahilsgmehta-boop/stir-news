@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T02:22:00Z",
+ "built": "2026-11-17T02:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -122,12 +122,12 @@
     "Bank of England economist sounds a big warning over interest rates",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
    ]
   },
@@ -135,22 +135,33 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 53,
+   "kept": 1,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Who will be the next Bank of Canada governor? These are some contenders",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": []
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
