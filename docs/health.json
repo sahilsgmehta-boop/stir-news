@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T23:37:01Z",
+ "built": "2026-11-17T23:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 60,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -78,7 +78,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 55,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -89,8 +89,8 @@
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed warns of growing financial risks from AI boom",
     "Fed Says Tokenization Still Needs Traditional Payments",
+    "Fed warns of growing financial risks from AI boom",
     "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION"
    ]
   },
@@ -99,7 +99,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
+   "fetched": 61,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -112,8 +112,8 @@
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
-    "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
+    "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
    ]
   },
   {
@@ -121,12 +121,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 33,
    "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
+    "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB VP says AI, debt have become prominent stability risks",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
@@ -134,8 +135,7 @@
     "ECB warns of market risks if AI boom stalls",
     "ECB warns AI risks now extend beyond valuations",
     "The rush towards AI could prove costly for investors, ECB warns",
-    "ECB Highlights AI and Government Debt as Financial Stability Risks",
-    "ECB warns: \u201cArtificial intelligence creates new vulnerabilities for the banking system\u201d"
+    "ECB Highlights AI and Government Debt as Financial Stability Risks"
    ]
   },
   {
@@ -154,9 +154,9 @@
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Bank of England likely to raise interest rates further in 2027",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
@@ -178,8 +178,8 @@
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
    ]
   },
   {
@@ -316,11 +316,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+   "ok": true,
+   "fetched": 10,
+   "kept": 7,
+   "added": 5,
+   "error": ""
   },
   {
    "id": "snb",
