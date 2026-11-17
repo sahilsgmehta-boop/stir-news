@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T05:52:00Z",
+ "built": "2026-11-17T06:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,13 +56,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 1,
    "error": "",
    "near_misses": [
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
     "Fed Chair talks AI impact",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
@@ -78,7 +78,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 54,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -87,11 +87,11 @@
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
-    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'",
     "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
+    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'",
+    "Fed likely to need to raise rates amid worsening inflation: Daly",
     "Warsh says AI will have \u2018significant impact\u2019 on economy, policy",
-    "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-    "Fed officials debate AI\u2019s impact on inflation and interest rates"
+    "Fed 'has some work to do on inflation,' Kansas City Fed chief says"
    ]
   },
   {
@@ -138,8 +138,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 6,
+   "fetched": 30,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -150,9 +150,9 @@
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Bank of England likely to raise interest rates further in 2027",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Bank of England signals further rate rises into 2027",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
    ]
   },
   {
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
+   "fetched": 52,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -173,19 +173,20 @@
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
    ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
