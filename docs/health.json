@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T17:07:01Z",
+ "built": "2026-11-17T17:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
-   "added": 6,
+   "kept": 65,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
@@ -73,7 +73,7 @@
     "This Is The Biggest Financial Risk, According To Fed's Report",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "Fed should prepare for possible future bond-market interventions, Cleveland Fed President says"
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means"
    ]
   },
   {
@@ -88,8 +88,8 @@
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "The Fed seems to be getting worried about AI",
@@ -116,8 +116,8 @@
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
     "Germany backs Spain's Hern\u00e1ndez de Cos to succeed Lagarde as ECB president and seeks the chief economist job",
-    "Economists Comment on Brunnermeier as Possible ECB Chief Economist",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
+    "Economists Comment on Brunnermeier as Possible ECB Chief Economist"
    ]
   },
   {
@@ -137,8 +137,8 @@
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns of market risks if AI boom stalls",
     "ECB warns AI risks extend beyond valuations",
-    "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
+    "The rush towards AI could prove costly for investors, ECB warns",
     "ECB warns: \u201cArtificial intelligence creates new vulnerabilities for the banking system\u201d"
    ]
   },
@@ -169,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 61,
    "kept": 1,
    "added": 0,
    "error": "",
