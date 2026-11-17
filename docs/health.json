@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T15:52:00Z",
+ "built": "2026-11-17T16:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,19 +61,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 62,
-   "added": 2,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "The Fed\u2019s new freedom to fight inflation",
+    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "This Is The Biggest Financial Risk, According To Fed's Report",
+    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "AI Enters the Fed's Spotlight\u2014Productivity Boom, Job Losses or a Bubble Bust?",
-    "Fed should prepare for possible future bond-market interventions, Cleveland Fed President says",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
-    "Fed Chair talks AI impact"
+    "Fed should prepare for possible future bond-market interventions, Cleveland Fed President says"
    ]
   },
   {
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 54,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 18,
+   "fetched": 64,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -114,8 +114,8 @@
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
-    "Nagel on ECB presidency: Not a yes, not a no",
     "Germany backs Spain's Hern\u00e1ndez de Cos to succeed Lagarde as ECB president and seeks the chief economist job",
+    "Nagel on ECB presidency: Not a yes, not a no",
     "Economists Comment on Brunnermeier as Possible ECB Chief Economist",
     "Germany set to nominate Brunnermeier for ECB chief economist"
    ]
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 31,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -156,11 +156,11 @@
     "Bank of England likely to raise interest rates further in 2027",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 59,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -176,12 +176,12 @@
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank of Canada governor Tiff Macklem to step down in June"
    ]
   },
