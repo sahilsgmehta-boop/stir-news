@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T02:52:00Z",
+ "built": "2026-11-17T03:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -56,12 +56,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Chair talks AI impact",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
@@ -69,7 +69,7 @@
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
     "The Fed\u2019s Path to Winning Back Credibility",
-    "A Fed governor warned AI agents could speed up bank runs that unfold in minutes"
+    "Roundup: Coal ash disposal / Fed chair talks AI / Oil prices ease"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
+   "fetched": 99,
    "kept": 55,
    "added": 5,
    "error": "",
@@ -104,6 +104,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
     "Spain Hopes for Quick Deal on De Cos as Next ECB President",
     "Greenway appointed ECB's head of women's game strategy",
     "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
@@ -145,22 +146,33 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 54,
+   "kept": 1,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Who will be the next Bank of Canada governor? These are some contenders",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": []
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
