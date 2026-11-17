@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T00:07:00Z",
+ "built": "2026-11-17T00:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 13,
+   "kept": 12,
    "added": 0,
    "error": ""
   },
@@ -55,43 +55,65 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 59,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "AI arms race has changed the nature of economic competition, Fed chair warns",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
+    "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
+    "The Fed\u2019s Path to Winning Back Credibility",
+    "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
+    "Gold price struggles even as New York Fed's Empire State survey weakens",
+    "Fed chair outlines AI scenarios ranging from economic boom to rising unemployment"
+   ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
+   "fetched": 96,
    "kept": 50,
    "added": 5,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
     "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'",
-    "Warsh says AI will have \u2018significant impact\u2019 on economy, policy",
+    "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
     "Fed officials debate AI\u2019s impact on inflation and interest rates",
+    "Warsh says AI will have \u2018significant impact\u2019 on economy, policy",
     "Housing crunch weighs on employers\u2019 ability to hire, Boston Fed chief says",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-    "U.S. Fed chairman Warsh grapples with AI\u2019s potential economic impact, steers clear of its inflation risk",
-    "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
-    "Gold hits over one-year low as firm dollar, Fed outlook weigh"
+    "U.S. Fed chairman Warsh grapples with AI\u2019s potential economic impact, steers clear of its inflation risk"
    ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 41,
+   "kept": 16,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
+    "Greenway appointed ECB's head of women's game strategy",
+    "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
+    "ECB VP says AI, debt have become prominent stability risks",
+    "Albares pushes for a quick agreement on the ECB\u2019s dome",
+    "Lagarde for French President?",
+    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
+    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir"
+   ]
   },
   {
    "id": "gn_ecb2",
@@ -107,31 +129,56 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 29,
+   "kept": 6,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of England economist sounds a big warning over interest rates",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+   ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 52,
+   "kept": 1,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Who will be the next Bank of Canada governor? These are some contenders",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
