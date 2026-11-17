@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T16:40:41Z",
+"bank": "Fed",
+"speaker": "Musalem",
+"hl": "Musalem: Fed Needs 100-150 Bps of Rate Increases Before Spring 2027 - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXlwLVhCZmxRbUJZb0wtQ1dTWk4xbG9zdl95YUJUVFVqZ2xPdkw0ekp1X3M0SkZ5by13LWItNnNOOTZJdWNxc2ZrMDdYdUxHZWVjSTBqRURiU05tNGlmNUFJQy1SbUlYOVJjeFA4MW50amJhSGxDaThicnVneDFsUVJWMWFua3RhWXJvTEZLcHlSNzhybWRldG80ZWN5Qkh6dlZIMQ?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1930a1853ff8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T16:28:46Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -12,6 +32,26 @@
 "also": [],
 "desc": "",
 "id": "14a4e7f42a76",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-17T16:03:05Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller Says AI And Tokenization Could Reinforce Each Other’s Development As Financial Markets Evolve",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWFZZlFVUkp3eXdpeUtoY0ZxQnpLX3NyeHg2YzVFOG5QUzB3ZVlfc3dTUHVoZlJpb3EyTjNQUnpnS1FYV1c3dUxOU0VlcEpPWHlOSkJHTlpzLXJfSHhRZHppaFk2UzE2NGZYendtUXJMaklsbmllZTZrU1VOaTJleWZPTW9aSk0zY0N4RzVwR25NSVQ5WTl0R1hFXzlMdw?oc=5",
+"src": "Yahoo Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3f801159c70d",
 "score": null,
 "read": "",
 "sum": "",
@@ -210,6 +250,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-17T14:30:29Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Fed's Hammack: Time to establish clear principles for when FOMC to intervene in US Tsy bond market",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWRiM2N1WFQ4RkRkQzdWU1hLbXZ1cEliQTFGRVR6dzFNbUJYaFp5WHFSeDljeE5DMklQVGdJQi0yeGlNMlFhcm9wNlg4a1B4YmxlRjIzTmExR2lzcERJZ0EycVNUV294UkZNUl9nYWN1cmN6NkdqTnVtcld4WVdKdzZYVHhEaHA5UktBNGk2NkVFM3JoREdWWNIBngFBVV95cUxPd2ViN0FWeGtpdy1kV3dYTzE0b1dsZFZTU2xOM3N2emFoamdwNk9rTXBjTjJxbmMyNEROYXhBOXNEUnp4NXNacHZ6NXNVa3BHVVRqRWs0d2VMa0Fldzg1Nkc3S0pkRExBUGFqazQ0Q3hUSk9JMjN3V2FtckRuWGRiYXU5T3JlckJyYXZiOWktdFkzNFRmXzBSX0VzNHJSdw?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "18940611ed7c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T14:12:12Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -219,7 +279,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"Reuters"
+"Reuters",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "4b26dc1cb540",
