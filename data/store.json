@@ -10,7 +10,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Bloomberg.com"
+"Bloomberg.com",
+"Reuters"
 ],
 "desc": "",
 "id": "db053a6bb159",
@@ -885,7 +886,9 @@
 "src": "Axios",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "f1d5b420eb8a",
 "score": 0,
