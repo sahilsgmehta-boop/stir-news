@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T01:07:00Z",
+ "built": "2026-11-17T01:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -28,10 +28,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 30,
-   "kept": 2,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI risks are the biggest threat to the financial system, Fed survey finds",
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
@@ -61,9 +62,9 @@
    "near_misses": [
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
     "The Fed\u2019s Path to Winning Back Credibility",
@@ -77,7 +78,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 53,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -97,11 +98,21 @@
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 41,
+   "kept": 17,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
+    "Greenway appointed ECB's head of women's game strategy",
+    "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
+    "ECB VP says AI, debt have become prominent stability risks",
+    "Albares pushes for a quick agreement on the ECB\u2019s dome",
+    "Lagarde for French President?",
+    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
+    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir"
+   ]
   },
   {
    "id": "gn_ecb2",
@@ -124,28 +135,6 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": true,
-   "fetched": 27,
-   "kept": 5,
-   "added": 0,
-   "error": "",
-   "near_misses": [
-    "Bank of England economist sounds a big warning over interest rates",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
-   ]
-  },
-  {
-   "id": "gn_boc",
-   "name": "Google News: BoC",
-   "kind": "news",
    "ok": false,
    "fetched": 0,
    "kept": 0,
@@ -153,15 +142,36 @@
    "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
+   "id": "gn_boc",
+   "name": "Google News: BoC",
+   "kind": "news",
+   "ok": true,
+   "fetched": 53,
+   "kept": 1,
+   "added": 0,
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Who will be the next Bank of Canada governor? These are some contenders",
+    "Who will be the next Bank of Canada governor? These are some contenders"
+   ]
+  },
+  {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": []
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
