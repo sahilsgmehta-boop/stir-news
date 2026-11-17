@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T15:37:00Z",
+ "built": "2026-11-17T15:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 62,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -83,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 53,
-   "added": 6,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 17,
+   "fetched": 63,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,11 +156,11 @@
     "Bank of England likely to raise interest rates further in 2027",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
+   "fetched": 60,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -177,12 +177,12 @@
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Who will be the next Bank of Canada governor? These are some contenders"
+    "Bank of Canada governor Tiff Macklem to step down in June"
    ]
   },
   {
