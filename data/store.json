@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T15:07:44Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller: Financial system is a long way from agentic AI in banking",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQzl4XzgyV2pjZm5kOEl5UldOS0YxdlFyYjZFUmZxcTMyZXFWSFFwM2JzYzN6NWhCQk9hMnI0SVkxN0xJdXdXaTFjcW5MaDBYa2Uxcmh2ZU9lLXVXbWx4NkI2OXUwdzZXbUl6NHMzUmVNd1JLRThGcGtFRnF3cDBIalNJemRuZGxuak5RUnFsWjNpcDRPSlkyNlBDZUxZcVg5eTFzelJJNHhvSVAxMkxSR3VmQlVaMnp4dXJ1S0NxOVc?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a175116a9d46",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T14:39:55Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -49,7 +69,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Mezha.net"
+],
 "desc": "",
 "id": "ac9916652da5",
 "score": null,
