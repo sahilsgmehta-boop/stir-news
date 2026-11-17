@@ -269,10 +269,14 @@ def main():
 
     # daily total volume per product, kept for about two years (the detailed rows only a month).
     # Eurex volume is published too: only its open interest is held back (see PUBLISH_EUREX).
-    voltot = old.get("voltot", {})
+    voltot = old.get("voltot", {})            # date -> pid -> total, or [total, {month: volume}] for the short-rate futures
     for d, per in store.items():
         for pid, rs in per.items():
-            voltot.setdefault(d, {})[pid] = int(sum(r[2] for r in rs if isinstance(r[2], (int, float))))
+            tot = int(sum(r[2] for r in rs if isinstance(r[2], (int, float))))
+            if pid in ("FST3", "CRA") and tot > 0:
+                voltot.setdefault(d, {})[pid] = [tot, {r[0]: int(r[2]) for r in rs if isinstance(r[2], (int, float)) and r[2] >= 0.005 * tot}]
+            else:
+                voltot.setdefault(d, {})[pid] = tot
     vcut = (today - timedelta(days=760)).isoformat()
     voltot = {d: v for d, v in voltot.items() if d >= vcut and v}
 
@@ -300,9 +304,10 @@ def main():
     payload = {"built": built, "source": "Montreal Exchange" if not PUBLISH_EUREX else "Eurex and Montreal Exchange statistics",
                "cols": ["date", "pid", "product", "month", "settle", "volume", "oi", "status"],
                "rows": rows, "health": health,
-               "vol": {"cols": ["date", "pid", "product", "volume", "status"],
-                       "rows": [[d, pid, names[pid], voltot[d][pid], "F"] for d in sorted(voltot)
-                                for pid in ORDER if pid in voltot[d]]}}
+               "vol": {"cols": ["date", "pid", "product", "volume", "status", "by"],
+                       "rows": [[d, pid, names[pid]] + ([voltot[d][pid][0], "F", voltot[d][pid][1]] if isinstance(voltot[d][pid], list)
+                                                        else [voltot[d][pid], "F", None])
+                                for d in sorted(voltot) for pid in ORDER if pid in voltot[d]]}}
     with open(OUT, "w") as f:
         f.write("window.STELLAR_OI_INTL = " + json.dumps(payload, separators=(",", ":"),
                                                        ensure_ascii=False) + ";\n")

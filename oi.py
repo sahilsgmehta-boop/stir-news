@@ -60,6 +60,7 @@ PRODUCTS = [
     ("3141", "Ultra Bond"),
 ]
 
+VOL_BY_MONTH = {"8462", "8463", "305"}   # 3M SOFR, 1M SOFR, Fed funds: volume by contract month too
 VOL_KEEP_DAYS = 760     # daily volume totals: about two years, built up from here on
 LOOKBACK_DAYS = 70      # about 10 weeks: the daily-change chart on the Open interest page (was 32)
 RECENT_DAYS = 4         # preliminary or empty days younger than this are re-asked
@@ -263,11 +264,16 @@ def main():
 
     # daily total volume per product (all contract months), kept long after the detailed
     # rows drop out of the window, so the page can tell a high-volume day from a quiet one
-    voltot = store.setdefault("voltot", {})   # iso -> pid -> [total volume, status]
+    # For the short-rate futures it also keeps each contract month's volume (months with at least
+    # 0.5% of the day), so the page can break each day's bar down by contract.
+    voltot = store.setdefault("voltot", {})   # iso -> pid -> [total volume, status, {month: volume} or None]
     for iso, per in days.items():
         for pid, e in per.items():
             tot = sum(v for _m, _s, v, _o in e["rows"] if isinstance(v, (int, float)))
-            voltot.setdefault(iso, {})[pid] = [int(tot), e["s"]]
+            by = None
+            if pid in VOL_BY_MONTH and tot > 0:
+                by = {m: int(v) for m, _s, v, _o in e["rows"] if isinstance(v, (int, float)) and v >= 0.005 * tot}
+            voltot.setdefault(iso, {})[pid] = [int(tot), e["s"], by]
     vcut = (today - dt.timedelta(days=VOL_KEEP_DAYS)).isoformat()
     for iso in [k for k in voltot if k < vcut]:
         del voltot[iso]
@@ -325,8 +331,9 @@ def main():
     js = {"built": store["built"], "source": "CME volume and open interest report",
           "cols": ["date", "pid", "product", "month", "settle", "volume", "oi", "status"],
           "rows": rows, "health": health,
-          "vol": {"cols": ["date", "pid", "product", "volume", "status"],
-                  "rows": [[iso, pid, names.get(pid, pid), voltot[iso][pid][0], voltot[iso][pid][1]]
+          "vol": {"cols": ["date", "pid", "product", "volume", "status", "by"],
+                  "rows": [[iso, pid, names.get(pid, pid), voltot[iso][pid][0], voltot[iso][pid][1],
+                            (voltot[iso][pid][2] if len(voltot[iso][pid]) > 2 else None)]
                            for iso in sorted(voltot) for pid in sorted(voltot[iso], key=lambda p: order.get(p, 99))]}}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
