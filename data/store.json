@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T14:34:03Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Tokenization is changing the nature of competition in payments, says Fed's Waller",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDBPOXFTZ1A1cF9NejhTdHB2R2V6NlZycnN0WW1uVzFIeWJLMnJKaTdKUElCSzRfS2ZsT1pUZmV2MDE3c2EyYUpuQVFJLUNJclh4dTN3VG9TYnM2eUgxdVhFQk5Hc0ZpOEhKNHVpdXJkekZzVVlUQk0yck5tVTI2NmpGbEZhX2lSTmhkYTFwY25MQnBCd04tLUNtRjRFWjlHbkV2MEVQbWVDWTNYOVpYLTUyZlR3cnVE?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "15bd2de93637",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T14:12:12Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -9,7 +29,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters"
+],
 "desc": "",
 "id": "4b26dc1cb540",
 "score": null,
@@ -50,7 +72,9 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Reuters"
+"Reuters",
+"Yahoo Finance",
+"Bloomberg.com"
 ],
 "desc": "",
 "id": "74f308581650",
@@ -71,7 +95,9 @@
 "src": "The New York Times",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Quartz"
+],
 "desc": "",
 "id": "36f5e844ab10",
 "score": null,
