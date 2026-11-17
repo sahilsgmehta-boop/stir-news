@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T19:37:00Z",
+ "built": "2026-11-17T19:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,7 +61,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 58,
-   "added": 3,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
@@ -82,20 +82,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 51,
    "added": 3,
    "error": "",
    "near_misses": [
+    "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed warns of growing financial risks from AI boom",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
-    "AI arms race has changed the nature of economic competition, Fed chair warns"
+    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'"
    ]
   },
   {
@@ -115,9 +115,9 @@
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Germany backs Spain's Hern\u00e1ndez de Cos to succeed Lagarde as ECB president and seeks the chief economist job",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
+    "Greenway appointed ECB's head of women's game strategy"
    ]
   },
   {
@@ -147,7 +147,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 30,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -178,12 +178,12 @@
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027"
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
    ]
   },
   {
