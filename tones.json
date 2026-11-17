@@ -8180,6 +8180,37 @@
    "lead": "21d2dfd3cfaf",
    "at": "2026-11-17T07:06:30Z",
    "by": "claude"
+  },
+  "33bd044076e6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Digital euro and tokenised finance talk; no bearing on the rate path.",
+   "sum": "Cipollone discussed the digital euro and tokenised finance at an ESM event, a payments-policy talk with no reported comment on interest rates.",
+   "pts": [
+    "Topic was the digital euro and the tokenisation of finance.",
+    "No reported remarks on inflation, growth or the path of ECB rates."
+   ],
+   "rr": "No impact on pricing for the December meeting or 2027 hike bets. Only news paraphrases were available.",
+   "ev": "Talk, European Stability Mechanism",
+   "basis": "reports",
+   "at": "2026-11-17T11:54:06Z",
+   "by": "claude"
+  },
+  "1130b3415db9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recap of AI scenarios speech; no signal on rates or December.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T11:54:06Z",
+   "by": "claude"
+  },
+  "dd752610eaee": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI benefits versus disruption framing; no monetary policy guidance.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-17T11:54:06Z",
+   "by": "claude"
   }
  }
 }
