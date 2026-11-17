@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-17T20:43:23Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed's Williams Says Inflation Situation Doesn't Call for Dramatic Action on Rates",
+"url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUhrVzZuZ0lKZmtNVWNMQWdoVG1OcFZZNnNUWVhxbG1ZdVFONFJQX3RURWRXRzAzUlBCNTMwN2J4MzJ5RDBEV2txdHR6ZjZrMTFRUUdWOXNWbS1uMUk2RWhjWEhzZl9LcmJuRE1DMFpmWWdrTGNlbENrVGpVQ1NtRVVwQ01fQUg3NDFGalpLSGRDMWlHczd0MUdTYjcwNEc0QnlBSzFFaTk4eld6LXA4cnVEZTdOYVJDeFI2SWpzdlFac3JBejY3bFVLTS1iMkE?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "98b7e243f9ad",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T20:34:38Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -52,7 +72,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"marketscreener.com"
+],
 "desc": "",
 "id": "37ef5d5768bd",
 "score": null,
