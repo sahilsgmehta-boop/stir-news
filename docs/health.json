@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T21:22:00Z",
+ "built": "2026-11-17T21:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 4,
+   "kept": 59,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
@@ -81,9 +81,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
+   "fetched": 96,
    "kept": 50,
-   "added": 6,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
@@ -132,8 +132,8 @@
    "near_misses": [
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
-    "ECB VP says AI, debt have become prominent stability risks",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
+    "ECB VP says AI, debt have become prominent stability risks",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns of market risks if AI boom stalls",
     "ECB warns AI risks extend beyond valuations",
@@ -176,9 +176,9 @@
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
