@@ -250,7 +250,8 @@
 "Reuters",
 "Yahoo Finance",
 "Bloomberg.com",
-"Yahoo"
+"Yahoo",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "74f308581650",
@@ -318,7 +319,9 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"WSJ"
+"WSJ",
+"UA.NEWS",
+"New York Post"
 ],
 "desc": "",
 "id": "38b5f46272e4",

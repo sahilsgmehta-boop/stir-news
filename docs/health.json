@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T16:22:01Z",
+ "built": "2026-11-17T16:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,19 +60,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 64,
    "added": 3,
    "error": "",
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed\u2019s new freedom to fight inflation",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
+    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "This Is The Biggest Financial Risk, According To Fed's Report",
-    "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed should prepare for possible future bond-market interventions, Cleveland Fed President says"
    ]
   },
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
+   "fetched": 66,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -117,7 +117,7 @@
     "Germany backs Spain's Hern\u00e1ndez de Cos to succeed Lagarde as ECB president and seeks the chief economist job",
     "Nagel on ECB presidency: Not a yes, not a no",
     "Economists Comment on Brunnermeier as Possible ECB Chief Economist",
-    "Germany set to nominate Brunnermeier for ECB chief economist"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
    ]
   },
   {
@@ -156,11 +156,11 @@
     "Bank of England likely to raise interest rates further in 2027",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
    ]
   },
   {
@@ -341,7 +341,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
