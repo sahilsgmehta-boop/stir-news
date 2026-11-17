@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T22:07:00Z",
+ "built": "2026-11-17T22:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,10 +58,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 2,
    "error": "",
    "near_misses": [
+    "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
@@ -70,7 +71,6 @@
     "Will digital payments change how Americans use banks? Fed governor weighs in",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "This Is The Biggest Financial Risk, According To Fed's Report",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump"
    ]
   },
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 61,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -158,8 +158,8 @@
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangement"
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
   {
@@ -176,12 +176,12 @@
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
+    "Bank of Canada governor Tiff Macklem to step down in June",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
-    "Bank of Canada governor Tiff Macklem to step down in June",
+    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Macklem to exit Bank of Canada as successor search begins",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
    ]
   },
   {
