@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T00:22:00Z",
+ "built": "2026-11-17T00:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -65,8 +65,8 @@
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
-    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
     "The Fed\u2019s Path to Winning Back Credibility",
     "A Fed governor warned AI agents could speed up bank runs that unfold in minutes",
     "Gold price struggles even as New York Fed's Empire State survey weakens",
@@ -78,8 +78,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
-   "kept": 50,
+   "fetched": 98,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -99,21 +99,11 @@
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": true,
-   "fetched": 41,
-   "kept": 16,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
-    "Greenway appointed ECB's head of women's game strategy",
-    "\u2018Buy the book\u2019: How Lagarde plugged her memoir despite ECB ethics warning",
-    "ECB VP says AI, debt have become prominent stability risks",
-    "Albares pushes for a quick agreement on the ECB\u2019s dome",
-    "Lagarde for French President?",
-    "Who is Pablo Hern\u00e1ndez de Cos, the Spaniard who aspires to preside over the ECB and replace Christine Lagarde",
-    "Christine Lagarde Urged Journalists to Buy Her Upcoming Memoir"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb2",
@@ -130,7 +120,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 28,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -139,10 +129,10 @@
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
@@ -151,23 +141,11 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 52,
-   "kept": 1,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Macklem to exit Bank of Canada as successor search begins",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-    "Who will be the next Bank of Canada governor? These are some contenders",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",
