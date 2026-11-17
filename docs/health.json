@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T12:37:00Z",
+ "built": "2026-11-17T12:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,8 +68,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 50,
-   "added": 5,
+   "kept": 51,
+   "added": 8,
    "error": "",
    "near_misses": [
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -89,8 +89,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
-   "kept": 18,
+   "fetched": 56,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -103,7 +103,7 @@
     "Economists Comment on Brunnermeier as Possible ECB Chief Economist",
     "Germany set to nominate Brunnermeier for ECB chief economist",
     "Greenway appointed ECB's head of women's game strategy",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
    ]
   },
   {
@@ -111,8 +111,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 16,
+   "fetched": 29,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -151,7 +151,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
+   "fetched": 57,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -193,7 +193,8 @@
     "Bank of England raises interest rates to 4% in bid to tame inflation",
     "October inflation in the Eurozone keeps ECB on course for another tightening",
     "Brussels sets tight deadline for ECB president nominations",
-    "The two pragmatists leading the race to run the ECB"
+    "The two pragmatists leading the race to run the ECB",
+    "Strong US inflation and growth will keep Fed on a tightening path"
    ]
   },
   {

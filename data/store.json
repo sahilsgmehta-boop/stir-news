@@ -1,6 +1,48 @@
 {
 "items": [
 {
+"t": "2026-11-17T12:44:06Z",
+"bank": "Fed",
+"speaker": "Musalem",
+"hl": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yNkU5VE0tb1ZvZTJmbDdJTmNlWDZBck01aWd5YlpmNnFVeGwySWJtTENFdktYWlBpeWhDWk4zM2I5X1I4d1ozWUl3VW9SNUs5aXRTYThmanZCTHhRdDdJcnBOTkhpaklQQmpKOGxBUHF6RkU?oc=5",
+"src": "Fort Worth Star-Telegram",
+"tier": "comment",
+"tone": "",
+"also": [
+"Bloomberg.com"
+],
+"desc": "",
+"id": "db053a6bb159",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-17T12:38:45Z",
+"bank": "Fed",
+"speaker": "Musalem",
+"hl": "St. Louis Fed’s Musalem Says More Rate Hikes May Be Needed",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDdpMDdtS2UtNWY3bVRoYm0yMlVuWVVQREdqSHczd2RGcjdnMTgwQ0xHOTFIMXh5VzlJX3FfaHlmbXlhSUJOZFQ2c1k2b2p5d3ZoeURxcFNPVnVrSWltcE1IWGZ3U1pLM1lZY05URG9VWnRCakxKbG83X0hnZFJjakJJQ3M5NEhUWHM4Q3NR?oc=5",
+"src": "Finimize",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "66ba06f5bc96",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T11:59:17Z",
 "bank": "Fed",
 "speaker": "Warsh",
