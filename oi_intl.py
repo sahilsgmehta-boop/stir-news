@@ -267,6 +267,15 @@ def main():
     run_eurex(store, today)
     run_mx(store, today)
 
+    # daily total volume per product, kept for about two years (the detailed rows only a month).
+    # Eurex volume is published too: only its open interest is held back (see PUBLISH_EUREX).
+    voltot = old.get("voltot", {})
+    for d, per in store.items():
+        for pid, rs in per.items():
+            voltot.setdefault(d, {})[pid] = int(sum(r[2] for r in rs if isinstance(r[2], (int, float))))
+    vcut = (today - timedelta(days=760)).isoformat()
+    voltot = {d: v for d, v in voltot.items() if d >= vcut and v}
+
     cutoff = (today - timedelta(days=LOOKBACK_DAYS)).isoformat()
     store = {d: v for d, v in store.items() if d >= cutoff and v}
     names = {p["pid"]: p["name"] for p in EUREX + MX}
@@ -286,11 +295,14 @@ def main():
     health["latest"] = latest
     built = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     os.makedirs(os.path.dirname(STORE), exist_ok=True)
-    json.dump({"built": built, "days": store, "health": health}, open(STORE, "w"),
+    json.dump({"built": built, "days": store, "health": health, "voltot": voltot}, open(STORE, "w"),
               separators=(",", ":"))
     payload = {"built": built, "source": "Montreal Exchange" if not PUBLISH_EUREX else "Eurex and Montreal Exchange statistics",
                "cols": ["date", "pid", "product", "month", "settle", "volume", "oi", "status"],
-               "rows": rows, "health": health}
+               "rows": rows, "health": health,
+               "vol": {"cols": ["date", "pid", "product", "volume", "status"],
+                       "rows": [[d, pid, names[pid], voltot[d][pid], "F"] for d in sorted(voltot)
+                                for pid in ORDER if pid in voltot[d]]}}
     with open(OUT, "w") as f:
         f.write("window.STELLAR_OI_INTL = " + json.dumps(payload, separators=(",", ":"),
                                                        ensure_ascii=False) + ";\n")
