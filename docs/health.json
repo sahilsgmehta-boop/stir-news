@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T19:22:00Z",
+ "built": "2026-11-17T19:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,17 +60,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 3,
    "error": "",
    "near_misses": [
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
-    "The Fed\u2019s new freedom to fight inflation",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Federal Reserve\u2019s Lisa Cook refuses to participate in White House hearing",
+    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
+    "The Fed\u2019s new freedom to fight inflation",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "This Is The Biggest Financial Risk, According To Fed's Report"
@@ -82,17 +82,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
-   "added": 4,
+   "kept": 52,
+   "added": 3,
    "error": "",
    "near_misses": [
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed warns of growing financial risks from AI boom",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Fed warns of growing financial risks from AI boom",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION",
     "AI arms race has changed the nature of economic competition, Fed chair warns"
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
+   "fetched": 63,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -115,9 +115,9 @@
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
+    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Germany backs Spain's Hern\u00e1ndez de Cos to succeed Lagarde as ECB president and seeks the chief economist job",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
-    "Economists Comment on Brunnermeier as Possible ECB Chief Economist"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
    ]
   },
   {
@@ -154,8 +154,8 @@
    "near_misses": [
     "Bank of England economist sounds a big warning over interest rates",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "Bank of England likely to raise interest rates further in 2027",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
+    "Bank of England likely to raise interest rates further in 2027",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
@@ -181,9 +181,9 @@
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027"
    ]
   },
   {
