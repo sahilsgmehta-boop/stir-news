@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T08:07:01Z",
+ "built": "2026-11-17T08:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,11 +54,23 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 100,
+   "kept": 57,
+   "added": 1,
+   "error": "",
+   "near_misses": [
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
+    "Fed Chair talks AI impact",
+    "AI arms race has changed the nature of economic competition, Fed chair warns",
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
+    "Mounting risks of AI boom dominate Fed\u2019s financial stability report",
+    "The Fed\u2019s Path to Winning Back Credibility",
+    "Gold price struggles even as New York Fed's Empire State survey weakens"
+   ]
   },
   {
    "id": "gn_fed2",
@@ -67,7 +79,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 52,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
@@ -87,7 +99,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 42,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -125,23 +137,11 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": true,
-   "fetched": 30,
-   "kept": 6,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Bank of England economist sounds a big warning over interest rates",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "BOE\u2019s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Bank of England likely to raise interest rates further in 2027",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Bank of England signals further rate rises into 2027",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_boc",
