@@ -69,7 +69,9 @@
 "src": "24/7 Wall St.",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "3aaf23a853d3",
 "score": null,
@@ -332,7 +334,9 @@
 "Yahoo Finance",
 "Bloomberg.com",
 "Yahoo",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Scotsman Guide",
+"Bloomberg Law News"
 ],
 "desc": "",
 "id": "74f308581650",
