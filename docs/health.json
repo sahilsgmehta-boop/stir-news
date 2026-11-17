@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T11:52:01Z",
+ "built": "2026-11-17T12:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 56,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -67,11 +67,11 @@
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI Enters the Fed's Spotlight\u2014Productivity Boom, Job Losses or a Bubble Bust?",
+    "This Is The Biggest Financial Risk, According To Fed's Report",
     "Fed chair weighs AI\u2019s economic impact, but sidesteps inflation risk",
     "Fed Chair talks AI impact",
     "AI arms race has changed the nature of economic competition, Fed chair warns",
-    "NY Fed's Nordstrom flags resilience of foreign exchange markets",
-    "Mounting risks of AI boom dominate Fed\u2019s financial stability report"
+    "NY Fed's Nordstrom flags resilience of foreign exchange markets"
    ]
   },
   {
@@ -80,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
-   "added": 4,
+   "kept": 49,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 51,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -111,8 +111,8 @@
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Spain presses for quick call on next ECB president, boosting Pablo Hern\u00e1ndez de Cos",
-    "Greenway appointed ECB's head of women's game strategy",
     "Germany set to nominate Brunnermeier for ECB chief economist",
+    "Greenway appointed ECB's head of women's game strategy",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Germany taps Brunnermeier for ECB's chief economist",
     "Will Christine Lagarde challenge Marine Le Pen for the French presidency?"
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 16,
+   "fetched": 28,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
