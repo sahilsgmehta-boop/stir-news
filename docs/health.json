@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T05:52:01Z",
+ "built": "2026-11-18T06:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -316,11 +316,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": true,
-   "fetched": 10,
-   "kept": 7,
-   "added": 5,
-   "error": ""
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
   },
   {
    "id": "snb",
