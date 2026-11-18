@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T01:57:18Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed's Cook Calls Trump Panel A 'Façade' To Justify Ouster",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQm9MZW56U3pfS3RLZDlzdlVZWkI1Z2w4YUNoZUpxQ25jVTJZcUUtX2ZHaTJDMDQzUUtiWDJYMl94N2lWUlpzLXJfUkxHVEZRVS15eFhSTEtxN3diRzNKOU8xeFdpUm1FSk5iTVFfSXRHWUMyT0JSMzBQOXJ2cG9CWHN4R1hTWHUzd3RxMnRQSkV6eWsyWFR2VVZXN2szMVo3MXRoatIBVkFVX3lxTE5SMDZmQVNJS2Q4M1ZobUU5N2pGMU95andjTzlVMm9WRW5JSFpVTUNOV3Y0My04ODlYMkZjVnJZSGE5ZVBKS3FFZm9wT1FGMEhxYTJTMVdB?oc=5",
+"src": "Law360",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "5488a88d42dc",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-17T22:23:00Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -605,7 +625,8 @@
 "also": [
 "Reuters",
 "The Lufkin Daily News",
-"SRN News"
+"SRN News",
+"WTVB"
 ],
 "desc": "",
 "id": "4b26dc1cb540",
