@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T20:52:01Z",
+ "built": "2026-11-18T21:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 55,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -69,9 +69,9 @@
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
+    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019"
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing"
    ]
   },
   {
@@ -84,11 +84,11 @@
    "added": 1,
    "error": "",
    "near_misses": [
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
     "Watch Warsh Is Closer to Waller on Fed Policy, Gopinath Says",
@@ -123,9 +123,9 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 18,
    "kept": 5,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
@@ -135,9 +135,9 @@
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
-    "ECB warns of market risks if AI boom stalls",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
-    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey"
+    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey",
+    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
    ]
   },
   {
@@ -145,11 +145,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 25,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
+    "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England warns of further interest rate rises",
@@ -158,8 +159,7 @@
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
     "Bank of England likely to raise interest rates further in 2027",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "Pound eases as UK inflation undershoots Bank of England forecast"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
    ]
   },
   {
@@ -167,7 +167,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 34,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -181,7 +181,7 @@
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Could another Bank of Canada rate hike hit in December? Why financial experts are divided",
     "Bank of Canada says public trust in 2% inflation target helps anchor expectations",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027"
+    "Bank of Canada official discusses guidance on interest rate path"
    ]
   },
   {
@@ -189,7 +189,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
