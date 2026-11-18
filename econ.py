@@ -34,7 +34,7 @@ STORE = os.path.join(HERE, "data", "econ.json")
 OUT = os.path.join(HERE, "docs", "econ.js")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
-VERSION = 1
+VERSION = 2
 EVERY_HOURS = 3
 NOW = datetime.now(timezone.utc)
 Y0 = NOW.year - 11            # fetch from here; one spare year so year-on-year rates reach back ten
@@ -339,6 +339,88 @@ def boc_ces(*want):
     return out
 
 
+def fed_ip(code):
+    """Federal Reserve G.17 industrial production, seasonally adjusted index (ipdisk/ip_sa.txt): rows of
+    "CODE" YEAR jan..dec; the current year's row stops at the latest month published"""
+    t = once("fed:ip_sa", lambda: get("https://www.federalreserve.gov/releases/g17/ipdisk/ip_sa.txt", timeout=120))
+    out = {}
+    for line in t.splitlines():
+        c = line.replace('"', " ").split()
+        if len(c) >= 3 and c[0] == code and c[1].isdigit() and int(c[1]) >= Y0:
+            for i, x in enumerate(c[2:14]):
+                v = num(x)
+                if v is not None:
+                    out["%s-%02d" % (c[1], i + 1)] = v
+    return out
+
+
+def _umich_home():
+    """the Surveys of Consumers home page: the newest reading (preliminary mid-month, then final) appears here
+    two weeks or more before it reaches the CSV tables. Returns {period: {ICS_ALL, PX_MD, PX5_MD}}"""
+    t = get("http://www.sca.isr.umich.edu/")
+    txt = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", t))
+    m = re.search(r"(Preliminary|Final) Results for ([A-Z][a-z]+) (\d{4})", txt)
+    if not m or m.group(2)[:3].upper() not in MONTHS:
+        raise RuntimeError("UMich home page: no results heading")
+    per = "%s-%02d" % (m.group(3), MONTHS.index(m.group(2)[:3].upper()) + 1)
+    rest = txt[m.end():]
+    rec = {}
+    v = re.search(r"Index of Consumer Sentiment (\d+(?:\.\d+)?)", rest)
+    if v:
+        rec["ICS_ALL"] = float(v.group(1))
+    for col, lead in (("PX_MD", "Year-ahead inflation expectations"), ("PX5_MD", "Long-run inflation expectations")):
+        i = rest.find(lead)
+        if i < 0:
+            continue
+        sent = rest[i:i + 400].split(". ")[0]
+        v = re.search(r"\bto (\d+(?:\.\d+)?)%", sent) or re.search(r"\bat (\d+(?:\.\d+)?)%", sent)
+        if v:
+            rec[col] = float(v.group(1))
+    return {per: rec, "_kind": m.group(1)}
+
+
+def umich_latest(file, col):
+    """the CSV series plus the home page's newer month (preliminary or final) when the CSV doesn't have it yet"""
+    s = umich(file, col)
+    try:
+        h = once("umich:home", _umich_home)
+        kind = h["_kind"]
+        for per, rec in h.items():
+            if per != "_kind" and col in rec and (not s or per > max(s)):
+                s[per] = rec[col]
+                note("Michigan %s: %s %s from the survey's home page (the tables are updated after the final release)"
+                     % (per, kind.lower(), "reading"))
+    except Exception as e:
+        note("Michigan home page not read (%s); tables only" % str(e)[:60])
+    return s
+
+
+def bfs_cpi():
+    """Swiss CPI, % on a year earlier, from the Federal Statistical Office's own table (LIK indexation table,
+    order cc-d-05.02.08), published on release day; the SNB data portal only takes it up weeks later"""
+    import openpyxl
+    d = json.loads(get("https://dam-api.bfs.admin.ch/hub/api/dam/assets?orderNr=cc-d-05.02.08"))
+    cur = [a for a in d.get("data", []) if a["bfs"]["lifecycle"]["code"] == "CURRENT"]
+    if not cur:
+        raise RuntimeError("BFS: no current CPI table")
+    href = [l["href"] for l in cur[0]["links"] if l.get("rel") == "master"][0]
+    health["requests"] += 1
+    b = urllib.request.urlopen(urllib.request.Request(href, headers={"User-Agent": UA}), timeout=90).read()
+    wb = openpyxl.load_workbook(io.BytesIO(b), read_only=True, data_only=True)
+    ws = wb["Index_m"] if "Index_m" in wb.sheetnames else wb.worksheets[0]
+    col, out = None, {}
+    for r in ws.iter_rows(values_only=True):
+        if col is None:
+            if r and str(r[0]).startswith("Datum") and "% m-12" in r:
+                col = list(r).index("% m-12")
+            continue
+        if r and isinstance(r[0], datetime) and r[0].year >= Y0:
+            v = num(r[col]) if len(r) > col else None
+            if v is not None:
+                out["%d-%02d" % (r[0].year, r[0].month)] = v
+    return out
+
+
 def note(msg):
     if msg not in health["notes"]:
         health["notes"].append(msg)
@@ -396,10 +478,11 @@ add("US", "gdp_q", "GDP", "% q/q", "OECD", lambda: oecd("US", "Q", "B1GQ_Q", "GR
 add("US", "gdp_y", "GDP", "% y/y", "OECD", lambda: oecd("US", "Q", "B1GQ_Q", "GR", "_T", "GY"))
 add("US", "gdp_saar", "GDP, annualised", "% q/q saar", "BEA", lambda: dbn("BEA/NIPA-T10101/A191RL-Q"))
 add("US", "retail", "Retail sales volume", "% y/y", "OECD", lambda: oecd("US", "M", "TOVM", "GR", "G47", "GY"))
-add("US", "ip", "Industrial production", "% y/y", "OECD", lambda: oecd("US", "M", "PRVM", "GR", "BTE", "GY"))
-add("US", "conf", "Michigan consumer sentiment", "index", "Univ. of Michigan", lambda: umich("tbmics", "ICS_ALL"))
-add("US", "infexp1", "Michigan inflation expectations, 1 year", "%", "Univ. of Michigan", lambda: umich("tbmpx1px5", "PX_MD"))
-add("US", "infexp5", "Michigan inflation expectations, 5 years", "%", "Univ. of Michigan", lambda: umich("tbmpx1px5", "PX5_MD"))
+add("US", "ip", "Industrial production", "% y/y", "Federal Reserve", lambda: first(
+    lambda: yoy(fed_ip("B50001")), lambda: oecd("US", "M", "PRVM", "GR", "BTE", "GY")))
+add("US", "conf", "Michigan consumer sentiment", "index", "Univ. of Michigan", lambda: umich_latest("tbmics", "ICS_ALL"))
+add("US", "infexp1", "Michigan inflation expectations, 1 year", "%", "Univ. of Michigan", lambda: umich_latest("tbmpx1px5", "PX_MD"))
+add("US", "infexp5", "Michigan inflation expectations, 5 years", "%", "Univ. of Michigan", lambda: umich_latest("tbmpx1px5", "PX5_MD"))
 
 # Euro area
 add("EZ", "cpi", "HICP", "% y/y", "Eurostat", lambda: estat_ea("prc_hicp_minr", coicop18="TOTAL", unit="RCH_A"))
@@ -420,8 +503,12 @@ add("EZ", "gdp_q", "GDP", "% q/q", "Eurostat", lambda: first(
 add("EZ", "gdp_y", "GDP", "% y/y", "Eurostat", lambda: first(
     lambda: estat_ea("namq_10_gdp", s_adj="SCA", na_item="B1GQ", unit="CLV_PCH_SM"),
     lambda: oecd("EZ", "Q", "B1GQ_Q", "GR", "_T", "GY")))
-add("EZ", "retail", "Retail sales volume", "% y/y", "OECD", lambda: oecd("EZ", "M", "TOVM", "GR", "G47", "GY"))
-add("EZ", "ip", "Industrial production", "% y/y", "OECD", lambda: oecd("EZ", "M", "PRVM", "GR", "BTE", "GY"))
+add("EZ", "retail", "Retail sales volume", "% y/y", "Eurostat", lambda: first(
+    lambda: estat_ea("sts_trtu_m", indic_bt="VOL_SLS", nace_r2="G47", s_adj="CA", unit="PCH_SM"),
+    lambda: oecd("EZ", "M", "TOVM", "GR", "G47", "GY")))
+add("EZ", "ip", "Industrial production", "% y/y", "Eurostat", lambda: first(
+    lambda: estat_ea("sts_inpr_m", indic_bt="PRD", nace_r2="B-D", s_adj="CA", unit="PCH_SM"),
+    lambda: oecd("EZ", "M", "PRVM", "GR", "BTE", "GY")))
 add("EZ", "conf", "Consumer confidence (European Commission)", "balance", "Eurostat", lambda: first(
     lambda: estat_ea("ei_bsco_m", indic="BS-CSMCI", s_adj="SA", unit="BAL"),
     lambda: oecd("EZ", "M", "CCICP", "PB", "_Z", "_Z")))
@@ -440,8 +527,10 @@ add("UK", "wages2", "Average weekly earnings, total pay (3m y/y)", "% y/y", "ONS
 add("UK", "gdp_q", "GDP", "% q/q", "ONS", lambda: first(lambda: ons("IHYQ"), lambda: oecd("UK", "Q", "B1GQ_Q", "GR", "_T", "G1")), dp=2)
 add("UK", "gdp_y", "GDP", "% y/y", "ONS", lambda: first(lambda: ons("IHYR"), lambda: oecd("UK", "Q", "B1GQ_Q", "GR", "_T", "GY")))
 add("UK", "gdp_m", "Monthly GDP", "% m/m", "ONS", lambda: ons("ECYX"))
-add("UK", "retail", "Retail sales volume", "% y/y", "OECD", lambda: oecd("UK", "M", "TOVM", "GR", "G47", "GY"))
-add("UK", "ip", "Industrial production", "% y/y", "OECD", lambda: oecd("UK", "M", "PRVM", "GR", "BTE", "GY"))
+add("UK", "retail", "Retail sales volume", "% y/y", "ONS", lambda: first(
+    lambda: yoy(ons("J5EK")), lambda: oecd("UK", "M", "TOVM", "GR", "G47", "GY")))
+add("UK", "ip", "Industrial production", "% y/y", "ONS", lambda: first(
+    lambda: yoy(ons("K222")), lambda: oecd("UK", "M", "PRVM", "GR", "BTE", "GY")))
 add("UK", "conf", "Consumer confidence (GfK, via OECD)", "balance", "OECD", lambda: oecd("UK", "M", "CCICP", "PB", "_Z", "_Z"))
 
 # Canada
@@ -462,12 +551,14 @@ add("CA", "infexp1", "Consumer inflation expectations, 1 year", "%", "Bank of Ca
 add("CA", "infexp5", "Consumer inflation expectations, 5 years", "%", "Bank of Canada", lambda: boc_ces("5-year"))
 
 # Switzerland
-add("CH", "cpi", "CPI", "% y/y", "SNB", lambda: snb("plkopr", "VVP"), dp=2)
+add("CH", "cpi", "CPI", "% y/y", "Federal Statistical Office", lambda: first(bfs_cpi, lambda: snb("plkopr", "VVP")))
 add("CH", "core", "Core inflation 1 (ex fresh & seasonal products, energy & fuels)", "% y/y", "SNB",
     lambda: yoy(snb("plkoprex", "K1")), dp=2)
 add("CH", "unemp", "Unemployment rate (registered, seasonally adjusted)", "%", "SNB", lambda: snb("amarbma", "S1"), dp=2)
-add("CH", "gdp_q", "GDP", "% q/q", "OECD", lambda: oecd("CH", "Q", "B1GQ_Q", "GR", "_T", "G1"), dp=2)
-add("CH", "gdp_y", "GDP", "% y/y", "OECD", lambda: oecd("CH", "Q", "B1GQ_Q", "GR", "_T", "GY"))
+add("CH", "gdp_q", "GDP (not sport-adjusted)", "% q/q", "OECD", lambda: oecd("CH", "Q", "B1GQ_Q", "GR", "_T", "G1"), dp=2,
+    hint="Not adjusted for big sporting events. FIFA, UEFA and the IOC are based in Switzerland, so tournament years swing it; SECO's headline figure is the sport-adjusted one, which reaches the free data about two weeks after its flash")
+add("CH", "gdp_y", "GDP (not sport-adjusted)", "% y/y", "OECD", lambda: oecd("CH", "Q", "B1GQ_Q", "GR", "_T", "GY"),
+    hint="Not adjusted for big sporting events. FIFA, UEFA and the IOC are based in Switzerland, so tournament years swing it; SECO's headline figure is the sport-adjusted one, which reaches the free data about two weeks after its flash")
 add("CH", "retail", "Retail sales volume", "% y/y", "OECD", lambda: oecd("CH", "M", "TOVM", "GR", "G47", "GY"))
 add("CH", "ip", "Industrial production", "% y/y", "OECD", lambda: first(
     lambda: oecd("CH", "M", "PRVM", "GR", "BTE", "GY"), lambda: oecd("CH", "Q", "PRVM", "GR", "BTE", "GY")))
