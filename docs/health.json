@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T15:22:01Z",
+ "built": "2026-11-18T15:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 61,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -68,10 +68,10 @@
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
-    "The Fed's inflation headache",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "The Fed's inflation headache",
     "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so",
-    "The Fed\u2019s new freedom to fight inflation"
+    "Fed\u2019s October meeting minutes in the spotlight"
    ]
   },
   {
@@ -84,11 +84,11 @@
    "added": 2,
    "error": "",
    "near_misses": [
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Fed may need to hike rates four times, says central bank official",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed may need to hike rates four times, says central bank official",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
@@ -101,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
-   "kept": 10,
+   "fetched": 61,
+   "kept": 11,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -132,12 +132,12 @@
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
-    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "ECB warns of market risks if AI boom stalls",
-    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job"
+    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
+    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
    ]
   },
   {
@@ -145,11 +145,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 0,
-   "added": 0,
+   "fetched": 24,
+   "kept": 2,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "BOE sounds alarm over public trust in AI amid fears of it going rogue",
     "Bank of England economist sounds a big warning over interest rates",
@@ -166,7 +167,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
+   "fetched": 54,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -174,13 +175,13 @@
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
     "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada governor Tiff Macklem to step down in June"
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027"
    ]
   },
   {
