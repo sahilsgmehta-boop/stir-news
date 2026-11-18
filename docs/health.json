@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T01:22:00Z",
+ "built": "2026-11-18T01:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 64,
+   "kept": 63,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -66,8 +66,8 @@
     "The Fed\u2019s new freedom to fight inflation",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
-    "Will digital payments change how Americans use banks? Fed governor weighs in",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
+    "Will digital payments change how Americans use banks? Fed governor weighs in",
     "This Is The Biggest Financial Risk, According To Fed's Report",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
@@ -86,8 +86,8 @@
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
     "Fed warns of growing financial risks from AI boom",
@@ -143,8 +143,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 7,
+   "fetched": 32,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -165,7 +165,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 59,
    "kept": 1,
    "added": 0,
    "error": "",
