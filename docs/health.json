@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T00:22:01Z",
+ "built": "2026-11-18T00:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,15 +56,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 63,
    "added": 2,
    "error": "",
    "near_misses": [
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
-    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "The Fed\u2019s new freedom to fight inflation",
+    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Will digital payments change how Americans use banks? Fed governor weighs in",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
@@ -78,7 +78,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 53,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -99,7 +99,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 62,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -153,8 +153,8 @@
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Bank of England likely to raise interest rates further in 2027",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Bank of England likely to raise interest rates further in 2027",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
@@ -172,14 +172,14 @@
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Macklem to exit Bank of Canada as successor search begins",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
+    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor"
    ]
   },
   {
