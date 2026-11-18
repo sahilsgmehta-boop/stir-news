@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T10:22:00Z",
+ "built": "2026-11-18T10:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 59,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -89,8 +89,8 @@
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Fed Says Tokenization Still Needs Traditional Payments"
    ]
@@ -100,18 +100,18 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 7,
+   "fetched": 55,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
+    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
+    "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
     "German Cabinet Backs Brunnermeier as ECB Chief Economist",
     "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Nagel on ECB presidency: Not a yes, not a no",
-    "Spain\u2019s Hern\u00e1ndez de Cos nears ECB presidency after Paris-Berlin deal",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
@@ -129,9 +129,9 @@
    "near_misses": [
     "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
-    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
+    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "The rush towards AI could prove costly for investors, ECB warns",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
