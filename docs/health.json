@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T12:37:01Z",
+ "built": "2026-11-18T12:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -69,11 +69,11 @@
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
+    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
-    "The Fed\u2019s new freedom to fight inflation",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
+    "The Fed\u2019s new freedom to fight inflation"
    ]
   },
   {
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 53,
    "added": 7,
    "error": "",
    "near_misses": [
@@ -94,8 +94,8 @@
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed Says Tokenization Still Needs Traditional Payments",
-    "Fed warns of growing financial risks from AI boom"
+    "Fed warns of growing financial risks from AI boom",
+    "Fed Says Tokenization Still Needs Traditional Payments"
    ]
   },
   {
@@ -103,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
-   "kept": 8,
+   "fetched": 56,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -117,7 +117,7 @@
     "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
+    "Nagel on ECB presidency: Not a yes, not a no"
    ]
   },
   {
@@ -138,8 +138,8 @@
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
-    "ECB warns of market risks if AI boom stalls",
-    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job"
+    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
+    "ECB warns of market risks if AI boom stalls"
    ]
   },
   {
@@ -147,8 +147,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 1,
+   "fetched": 28,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -169,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
+   "fetched": 59,
    "kept": 1,
    "added": 0,
    "error": "",
