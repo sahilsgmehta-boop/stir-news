@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T03:37:01Z",
+ "built": "2026-11-18T03:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -78,8 +78,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 6,
+   "kept": 55,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
@@ -91,7 +91,7 @@
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
     "Fed warns of growing financial risks from AI boom",
-    "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint'"
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
    ]
   },
   {
@@ -126,13 +126,13 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB VP says AI, debt have become prominent stability risks",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns of market risks if AI boom stalls",
+    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB warns AI risks now extend beyond valuations",
     "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks"
@@ -148,8 +148,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England economist sounds a big warning over interest rates",
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Bank of England economist sounds a big warning over interest rates",
     "Bank of England raises rates for first time since 2023, warns another move likely",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
@@ -175,8 +175,8 @@
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada governor Tiff Macklem to step down in June"
