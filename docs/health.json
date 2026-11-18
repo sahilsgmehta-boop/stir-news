@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T20:07:01Z",
+ "built": "2026-11-18T20:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 10,
-   "added": 0,
+   "kept": 11,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -58,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 3,
+   "kept": 55,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
+    "Supersized December rate hike could be ahead: Fed governor",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
-    "Top Fed official: AI boom could fuel more rate hikes in 2027"
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019"
    ]
   },
   {
@@ -84,16 +84,16 @@
    "added": 3,
    "error": "",
    "near_misses": [
+    "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed may need to hike rates four times, says central bank official",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
     "Watch Warsh Is Closer to Waller on Fed Policy, Gopinath Says",
-    "Traders Now See a 95% Chance the Fed Hikes Rates in December"
+    "'Almost all' Fed policymakers saw further interest rate hikes as likely",
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring"
    ]
   },
   {
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
+   "fetched": 71,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -110,10 +110,10 @@
     "What kind of ECB is Europe getting after Lagarde?",
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "Deadline extended for ECB chief economist and market operations candidacies",
-    "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "German Government Nominates Brunnermeier for ECB Board Seat",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
+    "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Deadline extended for ECB chief economist and market operations candidacies",
     "German Cabinet Backs Brunnermeier as ECB Chief Economist"
    ]
@@ -123,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 18,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -137,7 +137,7 @@
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB warns of market risks if AI boom stalls",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
-    "The ECB opens the door to euro stablecoins to lower the cost of international payments"
+    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey"
    ]
   },
   {
@@ -167,7 +167,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 35,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -176,12 +176,12 @@
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada says scenarios help make monetary policy more effective",
-    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
+    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Could another Bank of Canada rate hike hit in December? Why financial experts are divided",
-    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided",
-    "Bank of Canada says public trust in 2% inflation target helps anchor expectations"
+    "Bank of Canada says public trust in 2% inflation target helps anchor expectations",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027"
    ]
   },
   {
