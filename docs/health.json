@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T05:37:00Z",
+ "built": "2026-11-18T05:40:56Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,23 +54,11 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 60,
-   "added": 2,
-   "error": "",
-   "near_misses": [
-    "Fed governor Lisa Cook will skip White House tribunal on her firing",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
-    "The Fed\u2019s new freedom to fight inflation",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
-    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
-    "Top Fed official: AI boom could fuel more rate hikes in 2027"
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
@@ -90,8 +78,8 @@
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
-    "Fed warns of growing financial risks from AI boom",
-    "Fed Says Tokenization Still Needs Traditional Payments"
+    "Fed Says Tokenization Still Needs Traditional Payments",
+    "Fed warns of growing financial risks from AI boom"
    ]
   },
   {
@@ -99,7 +87,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 60,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -110,10 +98,10 @@
     "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Nagel on ECB presidency: Not a yes, not a no",
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
-    "Germany poised to nominate Brunnermeier as ECB chief economist",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
+    "Germany poised to nominate Brunnermeier as ECB chief economist"
    ]
   },
   {
