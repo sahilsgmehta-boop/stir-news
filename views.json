@@ -1246,9 +1246,9 @@
    },
    "stance": "hawk",
    "next": {
-    "call": "+25 or +50",
-    "note": "Voted for 50bp on Nov 5 for risk management and credibility; no remarks since, so her December view is inferred from that vote.",
-    "how": "vote"
+    "call": "+50",
+    "how": "vote",
+    "note": "Her last vote (Nov 5) was for 50bp, citing non-linear inflation risks and credibility. No remarks since, so this is her November vote carried forward, not a new call for December."
    },
    "following": {
     "call": "",
@@ -1260,7 +1260,7 @@
     "note": ""
    },
    "view": "Sees non-linear inflation risks with CPI heading to about 4.9% by mid-2027, and a large inflation risk premium in gilts.",
-   "shift": "",
+   "shift": "Has long argued for 'activist' bigger moves over gradual steps; voted for 25bp hikes in July and September before 50bp in November.",
    "last": "2026-11-05",
    "ev": "MPC vote and minutes",
    "basis": "verbatim",
