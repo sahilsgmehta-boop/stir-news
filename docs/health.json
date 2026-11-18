@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T11:52:00Z",
+ "built": "2026-11-18T12:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -72,7 +72,7 @@
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "The Fed\u2019s new freedom to fight inflation",
-    "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so"
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
    ]
   },
   {
@@ -81,14 +81,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 52,
    "added": 7,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
@@ -102,9 +102,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 6,
-   "added": 0,
+   "fetched": 57,
+   "kept": 7,
+   "added": 1,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 6,
+   "fetched": 25,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
-    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
-    "ECB warns AI share boom could end in 'abrupt repricing'",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
+    "ECB warns AI share boom could end in 'abrupt repricing'",
+    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
-    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
-    "ECB warns: \u201cArtificial intelligence creates new vulnerabilities for the banking system\u201d"
+    "ECB warns: \u201cArtificial intelligence creates new vulnerabilities for the banking system\u201d",
+    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job"
    ]
   },
   {
@@ -146,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "BOE sounds alarm over public trust in AI amid fears of it going rogue",
     "Bank of England economist sounds a big warning over interest rates",
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-    "Bank of England raises rates for first time since 2023, warns another move likely",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
+    "Bank of England raises rates for first time since 2023, warns another move likely",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes (model changes, recognition orders and variations of recognition orders)",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions"
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
    ]
   },
   {
@@ -319,11 +319,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+   "ok": true,
+   "fetched": 10,
+   "kept": 7,
+   "added": 5,
+   "error": ""
   },
   {
    "id": "snb",
