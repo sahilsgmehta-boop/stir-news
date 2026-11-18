@@ -464,6 +464,11 @@ def main():
                     if vs and len(vs) >= max(1, len(items) // 2):
                         avg[h] = round(sum(vs) / len(vs), 2 if kind == "price" else 1)
                 head = {"name": s["name"], "kind": kind, "ret": avg, "avg": True}
+                # the year's chart: the members rebased to 100 and averaged, week by week (aligned at the latest week)
+                sp = [it["spark"] for it in items if it.get("spark") and it["spark"][0]]
+                if kind == "price" and sp and len(sp) >= max(1, len(items) // 2):
+                    n = min(len(x) for x in sp)
+                    head["spark"] = [round(sum(x[len(x) - n + i] / x[len(x) - n] * 100 for x in sp) / len(sp), 3) for i in range(n)]
             subs.append({"name": s["name"], "kind": kind, "head": head, "items": items})
         groups.append({"name": g["name"], "subs": subs})
 
