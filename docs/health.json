@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T07:37:00Z",
+ "built": "2026-11-18T07:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -69,7 +69,7 @@
     "The Fed\u2019s new freedom to fight inflation",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
-    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month"
+    "Top Fed official: AI boom could fuel more rate hikes in 2027"
    ]
   },
   {
@@ -78,7 +78,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 55,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -127,11 +127,11 @@
    "error": "",
    "near_misses": [
     "ECB VP says AI, debt have become prominent stability risks",
-    "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
+    "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB warns AI share boom could end in 'abrupt repricing'",
-    "ECB warns of market risks if AI boom stalls",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
+    "ECB warns of market risks if AI boom stalls",
     "ECB warns AI risks now extend beyond valuations",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "The rush towards AI could prove costly for investors, ECB warns",
@@ -144,12 +144,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 30,
-   "kept": 3,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Bank of England economist sounds a big warning over interest rates",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Bank of England raises rates for first time since 2023, warns another move likely",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
@@ -316,11 +316,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": true,
-   "fetched": 10,
-   "kept": 7,
-   "added": 5,
-   "error": ""
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
   },
   {
    "id": "snb",
