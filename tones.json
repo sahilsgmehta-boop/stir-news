@@ -8594,6 +8594,23 @@
    "lead": "21d2dfd3cfaf",
    "at": "2026-11-18T06:54:45Z",
    "by": "claude"
+  },
+  "f3082e5740a6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial stability presentation on AI valuations and fiscal risks; no signal on the rate path.",
+   "sum": "Vujčić presents the November Financial Stability Review, flagging stretched AI valuations, fiscal imbalances and geoeconomic tensions as the main risks to euro area stability.",
+   "pts": [
+    "The ECB's stability outlook is weighed down by risks from stretched AI-related asset valuations.",
+    "Fiscal imbalances and sovereign debt are flagged as a vulnerability.",
+    "Geoeconomic tensions add to downside risks for the financial system.",
+    "No guidance on interest rates was reported from the presentation."
+   ],
+   "rr": "No direct bearing on the ECB rate path; it neither adds to nor pushes back on the 2027 tightening priced in the curve, which Vujčić called not unreasonable on 16 November. Only news paraphrases were available.",
+   "ev": "Financial Stability Review presentation",
+   "basis": "reports",
+   "at": "2026-11-18T11:54:38Z",
+   "by": "claude"
   }
  }
 }
