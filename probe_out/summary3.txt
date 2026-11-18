@@ -1,0 +1,83 @@
+OK   seco_gdp_csv 4942360 structure,type,seas_adj,date,value gdp,nom,csa,1980-01-01,50870.6180388267 gdp,nom,csa,1980-04-01,51589.1446214272 gdp,nom,csa,1980-07-01,52513.4658212934 gdp,nom,csa,1980-10-01,53339.752018117 gdp,nom,csa,1981-01-01,54375.8160553943 gdp,nom,csa,1981-04-01,55376.645297778 gdp,nom,csa,1981-07-01,56529.1029685959 gdp,nom,csa,1981-10-01,57563.9741829747 gdp,nom,csa,1982-01-01,58319.8380431689 gdp,nom,csa,1982-04-01,59218.7780361761 gdp,nom,csa,1982-07-01,59558.1248052249 gdp,nom,csa,1982-10-01,59956.4404308038 gdp,nom,csa,1983-01-01,60303.4010299229 gdp,nom,csa,1983-04-01,60610.5081312476 gdp,nom
+rows 108421
+structure,type,seas_adj,date,value
+gdp,nom,csa,1980-01-01,50870.6180388267
+gdp,nom,csa,1980-04-01,51589.1446214272
+imp_ex_v,gc_y,nasa,2016-07-01,-2.14016398991184
+imp_ex_v,gc_y,nasa,2016-10-01,-0.262813302820167
+imp_ex_v,gc_y,nasa,2017-01-01,-1.3525204037274
+imp_ex_v,gc_y,nasa,2017-04-01,-1.76361605373167
+imp_ex_v,gc_y,nasa,2017-07-01,-2.07849060948536
+imp_ex_v,gc_y,nasa,2017-10-01,-3.32939316543327
+imp_ex_v,gc_y,nasa,2018-01-01,-2.9924899933067
+imp_ex_v,gc_y,nasa,2018-04-01,-2.33713757917754
+imp_ex_v,gc_y,nasa,2018-07-01,-0.261937929837937
+imp_ex_v,gc_y,nasa,2018-10-01,0.303685148473399
+imp_ex_v,gc_y,nasa,2019-01-01,-0.697603764472472
+imp_ex_v,gc_y,nasa,2019-04-01,-0.0976137116049557
+imp_ex_v,gc_y,nasa,2019-07-01,-2.55951148314684
+imp_ex_v,gc_y,nasa,2019-10-01,-1.89758909449531
+imp_ex_v,gc_y,nasa,2020-01-01,-1.14136421849057
+imp_ex_v,gc_y,nasa,2020-04-01,5.77772339429289
+imp_ex_v,gc_y,nasa,2020-07-01,2.9094315634552
+imp_ex_v,gc_y,nasa,2020-10-01,3.04581342842948
+imp_ex_v,gc_y,nasa,2021-01-01,2.58045602075243
+imp_ex_v,gc_y,nasa,2021-04-01,-5.34131124574323
+imp_ex_v,gc_y,nasa,2021-07-01,-2.08740028130988
+imp_ex_v,gc_y,nasa,2021-10-01,-3.8562402423206
+imp_ex_v,gc_y,nasa,2022-01-01,-3.80321904002467
+imp_ex_v,gc_y,nasa,2022-04-01,-3.60289746230687
+imp_ex_v,gc_y,nasa,2022-07-01,-2.98792422280598
+imp_ex_v,gc_y,nasa,2022-10-01,-1.62605564490756
+imp_ex_v,gc_y,nasa,2023-01-01,-2.77813617241646
+imp_ex_v,gc_y,nasa,2023-04-01,0.208040522257268
+imp_ex_v,gc_y,nasa,2023-07-01,0.644654876639781
+imp_ex_v,gc_y,nasa,2023-10-01,-1.29726542382458
+imp_ex_v,gc_y,nasa,2024-01-01,-0.454636403572549
+imp_ex_v,gc_y,nasa,2024-04-01,-3.43709131768015
+imp_ex_v,gc_y,nasa,2024-07-01,-1.42962162948734
+imp_ex_v,gc_y,nasa,2024-10-01,-1.05679325849069
+imp_ex_v,gc_y,nasa,2025-01-01,-4.20969306707363
+imp_ex_v,gc_y,nasa,2025-04-01,-0.340733971311904
+imp_ex_v,gc_y,nasa,2025-07-01,-2.58578940350732
+imp_ex_v,gc_y,nasa,2025-10-01,-3.76291835881873
+imp_ex_v,gc_y,nasa,2026-01-01,1.0942375099432
+imp_ex_v,gc_y,nasa,2026-04-01,-2.22893674368274
+OK   seco_gdp_json 26672 { "title": { "en": "Gross domestic product (GDP)", "de": "Bruttoninlandprodukt (BIP)", "fr": "Produit intérieur brut (PIB)", "it": "Prodotto interno lordo (PIL)" }, "source_name": { "en": "State Secretariat for Economic Affairs (SECO)", "de": "Staatssekretariat für Wirtschaft (SECO)", "fr": "Secrétariat d'Etat à l'économie (SECO)", "it": "Segretaria di Stato dell'economia (SECO)" }, "source_url": [ "https://www.seco.admin.ch/de/bruttoinlandprodukt" ], "units": { "type": { "nom": { "en": "Swiss Francs, at current prices", "de": "Schweizer Franken, zu laufenden Preisen", "fr": "Francs suisses, aux prix courants", "it": "Franchi, a prezzi correnti" }, "real": { "en": "Swiss Francs, chain-linked volumes, reference year 2020", "de": "Schweizer Franken, verkettete reale Werte, Referenzjahr 2020", "fr": "Francs suisses, valeurs réelles chainées, année de réference 2020", "it": "Franchi svizzeri, valori concatenati, anno di referenza 2020" }, "gc_q": { "en": "Percentage points", "de": "Prozentpunkte", "fr": "Points de pourcentage", "it": "Punti percentuali" }, "gc_y": { "en": "Percentage points", "de": "Prozentpunkte", "fr": "Points de pourcentage", "it": "Punti percentuali" } } }, "aggregate": { "all": "sum" }, "dim_order": [ "type", "structure", "seas_adj" ], "hierarchy": { "structure": { "gdp": { "production": { "gva": { "agric": {}, "mining": {}, "manu": { "chem_pharm": {}, "manu_other": {} }, "energy": {}, "disp": {}, "constr": {}, "trade": { "trade_retail": {} }, "transp": {}, "hotel": {}, "com": {}, "findl": { "finance": {}, "insur": {} }, "b_serv": {}, "admin": {}, "edu": {}, "health": {}, "entertain": {}, "other_serv": {}, "hh_prod": {} }, "adj": { "tax_pr": {}, "subs_pr": {} } }, "expenditure": { "demand_dom": { "cons": { "cons_priv": {}, "cons_gov": {} }, "inv": { "inv_gfcf": { "inv_constr": {}, "inv_fixed": {} }, "stocks": {}, "v_net": {} } }, "trade_balance": { "exp": { "exp_good": { "exp_good_ex_g": {}, "exp_good_ex_vm": {} }, "exp_serv": {} }, "imp": { "imp_g
+FAIL swissdatas_root https://scheduler.swissdatas.ch/scheduled/ <HTTPError 404: 'Not Found'>
+FAIL sd_ch-seco-alv https://scheduler.swissdatas.ch/scheduled/ch-seco-alv.csv <HTTPError 404: 'Not Found'>
+FAIL sd_ch-seco-unemployment https://scheduler.swissdatas.ch/scheduled/ch-seco-unemployment.csv <HTTPError 404: 'Not Found'>
+FAIL sd_ch-seco-gdp-flash https://scheduler.swissdatas.ch/scheduled/ch-seco-gdp-flash.csv <HTTPError 404: 'Not Found'>
+FAIL sd_ch-seco-arbeitslosigkeit https://scheduler.swissdatas.ch/scheduled/ch-seco-arbeitslosigkeit.csv <HTTPError 404: 'Not Found'>
+SHEET Index_m 2459 x 87
+  top ('Landesindex der Konsumentenpreise / Indice des prix à la consommation', None, None, None, None, None, None, None, None, None, None, None, None, None, "© Bundesamt für Statistik / Office fédéral de la statistique, Espace de l'Europe 10, CH-2010 Neuchâtel", None)
+  top ("Indexierungstabelle / Tableau d'indexation", None, None, None, None, None, None, None, None, None, None, None, None, None, 'Auskunft / Renseignements: LIK@bfs.admin.ch, 058 / 463 69 00', None)
+  top ('Originalbasen / Bases originales', None, None, None, None, None, None, None, None, None, None, None, None, None, 'http://www.LIK.bfs.admin.ch', None)
+  top ('Datum / Date', datetime.datetime(1914, 6, 1, 0, 0), datetime.datetime(1939, 8, 1, 0, 0), datetime.datetime(1966, 9, 1, 0, 0), datetime.datetime(1977, 9, 1, 0, 0), datetime.datetime(1982, 12, 1, 0, 0), datetime.datetime(1993, 5, 1, 0, 0), datetime.datetime(2000, 5, 1, 0, 0), datetime.datetime(2005, 12, 1, 0, 0), datetime.datetime(2010, 12, 1, 0, 0), datetime.datetime(2015, 12, 1, 0, 0), datetime.datetime(2020, 12, 1, 0, 0), datetime.datetime(2025, 12, 1, 0, 0), '% m-1', '% m-12', None)
+  top (datetime.datetime(1921, 1, 1, 0, 0), 215.7, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  top (datetime.datetime(1921, 2, 1, 0, 0), 213.2, None, None, None, None, None, None, None, None, None, None, None, -1.2, None, None)
+  top (datetime.datetime(1921, 3, 1, 0, 0), 210.3, None, None, None, None, None, None, None, None, None, None, None, -1.4, None, None)
+  top (datetime.datetime(1921, 4, 1, 0, 0), 208.2, None, None, None, None, None, None, None, None, None, None, None, -1, None, None)
+  end (None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  end (None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  end (None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  end (None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  end (None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+  end (None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+SHEET Index_y 118 x 13
+  top ('Landesindex der Konsumentenpreise / Indice des prix à la consommation', None, None, None, None, None, None, None, None, None, None, None, "© Bundesamt für Statistik / Office fédéral de la statistique, Espace de l'Europe 10, CH-2010 Neuchâtel")
+  top ("Indexierungstabelle / Tableau d'indexation", None, None, None, None, None, None, None, None, None, None, None, 'Auskunft / Renseignements: LIK@bfs.admin.ch, 058 / 463 69 00')
+  top ('Originalbasen / Bases originales', None, None, None, None, None, None, None, None, None, None, None, 'http://www.LIK.bfs.admin.ch')
+  top ('Datum / Date', datetime.datetime(1914, 6, 1, 0, 0), datetime.datetime(1939, 8, 1, 0, 0), datetime.datetime(1966, 9, 1, 0, 0), datetime.datetime(1977, 9, 1, 0, 0), datetime.datetime(1982, 12, 1, 0, 0), datetime.datetime(1993, 5, 1, 0, 0), datetime.datetime(2000, 5, 1, 0, 0), datetime.datetime(2005, 12, 1, 0, 0), datetime.datetime(2010, 12, 1, 0, 0), datetime.datetime(2015, 12, 1, 0, 0), datetime.datetime(2020, 12, 1, 0, 0), '%')
+  top (1914, 100, None, None, None, None, None, None, None, None, None, None, '...')
+  top (1915, 113, None, None, None, None, None, None, None, None, None, None, 13)
+  top (1916, 131, None, None, None, None, None, None, None, None, None, None, 15.9)
+  top (1917, 163, None, None, None, None, None, None, None, None, None, None, 24.4)
+  end (2022, 1069.7, 779.8, 345.1, 204.7, 164.2, 118.6, 111.8, 106.2, 101.9, 104.8, 103.9, 2.8)
+  end (2023, 1092.6, 796.4, 352.5, 209.1, 167.7, 121.1, 114.2, 108.5, 104.1, 107, 106.1, 2.1)
+  end (2024, 1104.2, 804.9, 356.3, 211.3, 169.5, 122.4, 115.4, 109.6, 105.2, 108.1, 107.2, 1.1)
+  end (2025, 1105.9, 806.1, 356.8, 211.6, 169.7, 122.6, 115.6, 109.8, 105.4, 108.3, 107.4, 0.2)
+  end (None, None, None, None, None, None, None, None, None, None, None, None, None)
+  end ('https://www.bfs.admin.ch/asset/de/cc-d-05.02.08', None, None, None, None, None, None, None, None, None, None, None, 'Quelle: LIK / Source: IPC')
+ORDER cc-d-05.02.08 2026-11-03 LIK, Totalindex auf allen Indexbasen  [INDEXIERUNGSTABELLEN] ['xlsx']
+ORDER cc-d-05.02.44 2026-11-03 LIK, Durchschnittspreise ausgewählter Produkte, Monatswerte. ['xlsx']
