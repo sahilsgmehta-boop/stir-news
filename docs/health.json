@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T06:37:01Z",
+ "built": "2026-11-18T06:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,13 +63,13 @@
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
-    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "The Fed\u2019s new freedom to fight inflation",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
+    "The Fed\u2019s new freedom to fight inflation",
+    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
-    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
-    "Top Fed official: AI boom could fuel more rate hikes in 2027"
+    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
+    "Will digital payments change how Americans use banks? Fed governor weighs in"
    ]
   },
   {
@@ -78,15 +78,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 52,
    "added": 4,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
@@ -106,8 +106,8 @@
    "near_misses": [
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
-    "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
     "Germany lines up Markus Brunnermeier for ECB chief economist role",
+    "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
     "Spain\u2019s Hern\u00e1ndez de Cos nears ECB presidency after Paris-Berlin deal",
     "Nagel on ECB presidency: Not a yes, not a no",
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
@@ -126,12 +126,12 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB VP says AI, debt have become prominent stability risks",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
-    "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
+    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns of market risks if AI boom stalls",
+    "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB warns AI risks now extend beyond valuations",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "The rush towards AI could prove costly for investors, ECB warns",
