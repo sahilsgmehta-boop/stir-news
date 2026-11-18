@@ -177,7 +177,7 @@
    "stance": "hawk",
    "next": {
     "call": "+50",
-    "note": "Nov 18: the Fed should hike 50bp in December, or else hike 25bp and signal faster increases; says a 'shock' may be needed. (Nov 10: 25bp base case, 50bp if October core CPI ran hot - it did.)",
+    "note": "Nov 18: the Fed should hike 50bp in December, or else hike 25bp and signal faster increases; says a 'shock' may be needed. (Nov 10: 25bp base case, 50bp if October core CPI ran hot - it did.) Concedes the 50bp call looks like a minority view.",
     "how": "said",
     "quote": "Fed should hike 50 bps now or signal faster rate increases",
     "qsrc": "headline (FXStreet), Nov 18"
@@ -239,24 +239,27 @@
    },
    "stance": "lean hawk",
    "next": {
-    "call": "",
-    "note": "No view given on December."
+    "call": "hold or +25",
+    "note": "Nov 18: supports raising rates further if the economy performs as expected; will watch data for the next move, no meeting named.",
+    "how": "implied",
+    "quote": "Barr backs further rate hikes if economy stays on track",
+    "qsrc": "headline (Investing.com), Nov 18"
    },
    "following": {
     "call": "",
     "note": ""
    },
    "path": {
-    "total": "",
+    "total": "further hikes",
     "by": "",
-    "note": "Sep 29: further rate hikes likely to be needed."
+    "note": "Further increases likely appropriate if the outlook holds (Nov 18; also Sep 29)."
    },
-   "view": "Recent speeches (Nov 12-16) were on AI, inequality and financial stability; said AI's impact so far shows up mostly in prices.",
-   "shift": "",
-   "last": "2026-09-29",
-   "ev": "Speech",
+   "view": "Inflation is too high and must return to 2% in a timely way; economy strong with low unemployment, so further hikes likely appropriate.",
+   "shift": "Back on rates after AI/financial-stability speeches: reaffirms further hikes (Nov 18), as on Sep 29.",
+   "last": "2026-11-18",
+   "ev": "Remarks around speech, New York Fed conference",
    "basis": "reports",
-   "conf": "low",
+   "conf": "medium",
    "asof": "2026-11-18"
   },
   "Fed|Powell": {
@@ -514,11 +517,11 @@
    },
    "stance": "lean hawk",
    "next": {
-    "call": "open",
-    "note": "Rates 'in all likelihood' need to rise, but how much and when is 'not a decision for right now'.",
-    "how": "said",
-    "quote": "how much tightening and when is not a decision for right now",
-    "qsrc": "headline (investingLive), Nov 12"
+    "call": "hike",
+    "note": "Nov 18: urges further rate hikes at a thoughtful, measured pace; no meeting or size named. Not a 2026 voter.",
+    "how": "implied",
+    "quote": "Daly urges rate hikes with a thoughtful, measured approach",
+    "qsrc": "headline (Bloomberg), Nov 18"
    },
    "following": {
     "call": "",
@@ -530,9 +533,9 @@
     "by": "",
     "note": "Hard to argue policy is restrictive enough while services inflation is sticky."
    },
-   "view": "Inflation is a problem, mostly not from AI; firms are passing on costs; labour market stable.",
-   "shift": "A usual dove now leaning to more hikes (since Nov 6).",
-   "last": "2026-11-13",
+   "view": "Inflation too high for too long; spending resilient even at lower incomes and labour market stable, so further hikes are warranted, taken gradually.",
+   "shift": "More hawkish: from 'how much and when is not for now' (Nov 12) to urging hikes at a measured pace (Nov 18).",
+   "last": "2026-11-18",
    "ev": "Remarks",
    "basis": "reports",
    "conf": "medium",

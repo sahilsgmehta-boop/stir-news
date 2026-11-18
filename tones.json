@@ -8611,6 +8611,422 @@
    "basis": "reports",
    "at": "2026-11-18T11:54:38Z",
    "by": "claude"
+  },
+  "31743159f0a2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About his Board seat after the chair term; nothing on rates.",
+   "sum": "Powell says he will stay on the Fed Board as a governor after his term as chair ends next month.",
+   "pts": [
+    "Powell plans to remain a governor once his chair term expires.",
+    "He keeps his FOMC vote.",
+    "No comments on the economy or interest rates were reported."
+   ],
+   "rr": "No bearing on near-term pricing; his staying keeps one more vote on the Board but signals nothing on the December decision. Only news paraphrases were available.",
+   "ev": "Announcement",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "79ee80f7a3a2": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says a December hike is very likely, endorsing the move priced for the ECB.",
+   "sum": "Vujčić says a December ECB rate hike looks very likely.",
+   "pts": [
+    "A December hike now looks very likely to him.",
+    "Energy prices and the Iran war keep pushing inflation up.",
+    "He earlier called market bets on more tightening in 2027 not unreasonable."
+   ],
+   "rr": "Backs the 25bp December hike largely priced for the ECB and lends support to further tightening priced for 2027. Only news paraphrases were available.",
+   "ev": "Interview, Bloomberg TV",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "1514982406fd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial stability warning on AI stocks; no rate signal.",
+   "lead": "f3082e5740a6",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "bc6797acc341": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs further hikes with inflation too high, but no call for a bigger move.",
+   "sum": "Barr says further rate increases are likely to be appropriate if the economy performs as he expects, with inflation still too high.",
+   "pts": [
+    "Inflation is too high and is squeezing many families.",
+    "It is critical to bring inflation back to 2% in a timely way.",
+    "He supports raising rates further if the economy evolves as expected.",
+    "The economy is strong and unemployment low.",
+    "He will watch the data to decide the next move; no size or date named."
+   ],
+   "rr": "Supports the 25bp December hike priced and further tightening into 2027, but gives no backing to a 50bp move. Only news paraphrases were available.",
+   "ev": "Remarks around speech at New York Fed conference",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "c1d1abc93cfe": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Supports further rate hikes if the economy stays on track; data-dependent on timing.",
+   "lead": "bc6797acc341",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "5e20c6c42070": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Supports further rate hikes if the economy stays on track; data-dependent on timing.",
+   "lead": "bc6797acc341",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "7a276609db79": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Supports further rate hikes if the economy stays on track; data-dependent on timing.",
+   "lead": "bc6797acc341",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "9d2e2ce9be30": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Supports further rate hikes if the economy stays on track; data-dependent on timing.",
+   "lead": "bc6797acc341",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "ff240fc97576": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Voter urges more aggressive tightening and a possible 50bp December hike.",
+   "sum": "Waller calls for the Fed to get more aggressive, floating a 50bp December hike to shock inflation expectations as price pressures broaden.",
+   "pts": [
+    "Inflation is heading in the wrong direction and broadening beyond energy.",
+    "About 70% of core services components are running above 3%.",
+    "The Fed should hike 50bp in December, or else signal faster increases.",
+    "It will need to take back the three insurance cuts, maybe more; rates may need to rise 100bp or more.",
+    "He concedes the 50bp call looks like a minority view.",
+    "He also spoke about tokenization and payments."
+   ],
+   "rr": "Adds to pricing of a larger December hike and a higher terminal rate; a 2026 voter, but he admits 50bp is a minority view so 25bp stays the base case. Only news paraphrases were available.",
+   "ev": "Interview, CNBC",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "07ff61495249": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Says the Fed may need to shock people with a 50bp hike.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "86b2e73a537c": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says the Fed must get more aggressive in its rate hikes.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "8581d3e31d8e": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Wants to reverse all three insurance cuts and maybe more.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "98b41c489255": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Very concerned inflation is broadening; argues for tighter policy.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "edf628dc3ed5": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Calls for aggressive action to break the 3% inflation psychology.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "d4741a41c7c4": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says the Fed needs a more aggressive inflation response.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "bb71e1f9c673": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Wants a 50bp hike now or a signal of faster increases.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "24f571f36534": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Pushes for a 50bp hike, above the 25bp priced.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "de3fd511c600": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Floats a 50bp December hike as inflation worsens.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "d9957c43fdf3": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Says a shock rate hike may be needed.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "7ac2f8b48d91": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Urges faster Fed tightening.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "7f935d5a95d7": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Pushes for a half-point increase, above current pricing.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "48f80acaa652": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Backs a 50bp December hike over 25bp.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "88a98e7127d3": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Says the Fed must act forcefully and weighs a 50bp December hike.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "de840400a197": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says rates may need to rise 100bp or more.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "e305ca4c760a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Payments and tokenization remarks; no rate signal.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "ede15c00d854": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Still wants 50bp but concedes it is a minority view.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "b05c6b454b67": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Urges a bigger December rate hike.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "88724f32eadd": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Calls for a 50bp hike; also covers tokenization.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "1a98ff0e2bd5": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Keeps more tightening open but sees no wage-price spiral; mixed.",
+   "sum": "Nagel says further ECB tightening is possible but sees no wage-price spiral.",
+   "pts": [
+    "Further tightening after December remains possible.",
+    "He sees no wage-price spiral so far.",
+    "Energy is the main driver of higher inflation."
+   ],
+   "rr": "Consistent with the December hike priced; keeps 2027 tightening open without pushing for more than the curve already prices. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "48de93b8717e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial stability point on AI valuations; no rate guidance.",
+   "sum": "Lagarde warns AI valuations are likely to be corrected eventually, while describing the euro area economy as resilient.",
+   "pts": [
+    "AI-related asset valuations stand to be corrected at some point.",
+    "Europe's economy has proved resilient.",
+    "No guidance on the December decision was reported."
+   ],
+   "rr": "No direct signal for the December meeting; the resilience remark mildly supports the hike priced. Only news paraphrases were available.",
+   "ev": "Public remarks",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "28cc9850aeda": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Calls the economy resilient; no rate guidance.",
+   "lead": "48de93b8717e",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "5acece2ae0e4": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Labour market no longer loosening; leans toward more tightening.",
+   "sum": "Bailey says the length of the Iran war is key to the rate path and more hikes will be needed if it lasts, with the labour market no longer loosening.",
+   "pts": [
+    "The UK labour market is no longer loosening, though some slack remains.",
+    "How long the Iran conflict lasts is the key driver of the rate path.",
+    "More rate hikes would be needed if the conflict persists.",
+    "The speech itself focused on regional growth and productivity."
+   ],
+   "rr": "Supports pricing of a further BoE hike, conditional on the war continuing; keeps a December move live. Only news paraphrases were available.",
+   "ev": "Speech, Institute of Economic Development conference (London)",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "3d5d3c31de2b": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Ties the rate path to the war's length, keeping hikes in play.",
+   "lead": "5acece2ae0e4",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "1aafde589feb": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says more hikes are needed if the Iran conflict lasts.",
+   "lead": "5acece2ae0e4",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "e7a778a43ee6": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Inflation too high for too long with resilient spending; leans to more hikes.",
+   "sum": "Daly says inflation has been too high for too long and backs further rate hikes at a thoughtful, measured pace.",
+   "pts": [
+    "Inflation has been too high for too long, and its path is uncertain.",
+    "Consumer spending is resilient, even at lower incomes.",
+    "The labour market is stable but lacks dynamism.",
+    "She supports further hikes but at a measured pace."
+   ],
+   "rr": "Supports the 25bp December hike priced and more in 2027; the measured framing leans against a 50bp move. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "3a31077b756a": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Urges rate hikes, but at a measured pace, not a bigger move.",
+   "lead": "e7a778a43ee6",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "e7464559b48c": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "About communication and scenarios; no rate signal.",
+   "sum": "Gravelle says policy scenarios help anchor expectations and build credibility, noting energy price inflation is spreading.",
+   "pts": [
+    "Scenarios show how the Bank would react as conditions change.",
+    "They keep the Bank accountable and help keep expectations anchored.",
+    "Energy price inflation is spreading to other prices.",
+    "No explicit call on the December decision was reported."
+   ],
+   "rr": "Spreading energy inflation mildly supports pricing of further BoC tightening, but he gave no direct signal for December. Only news paraphrases were available.",
+   "ev": "Speech on monetary policy communications",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "3ee511f1500d": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Flags energy inflation spreading, a hawkish risk.",
+   "lead": "e7464559b48c",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "e8e2c8cc8c5f": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Minutes show near-unanimous hike bias and some openness to 50bp.",
+   "sum": "October FOMC minutes show almost all participants expect further hikes, and a couple say a hike of more than 25bp could be considered in December.",
+   "pts": [
+    "Almost all participants judged further hikes likely appropriate under their baseline.",
+    "A couple said more than 25bp could warrant consideration in December if inflation data were unfavourable.",
+    "Some participants favoured a 25bp hike at the October meeting itself.",
+    "A few who backed the hold called it a close call; Cook and Hammack dissented."
+   ],
+   "rr": "Firms up the December hike and adds weight to pricing of a 50bp option, especially after the hot October CPI. Only news paraphrases were available.",
+   "ev": "FOMC minutes, Oct 27-28 meeting",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
+  },
+  "caec92e04ac8": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Minutes show growing inflation unease and talk of an aggressive hike.",
+   "sum": "Fed minutes show growing unease about inflation, with some discussion of an aggressive December hike.",
+   "pts": [
+    "Officials grew more concerned about the inflation outlook.",
+    "Some discussed a larger hike at the December meeting."
+   ],
+   "rr": "Supports December hike pricing and a tail for 50bp. Only news paraphrases were available.",
+   "ev": "FOMC minutes, Oct 27-28 meeting",
+   "basis": "reports",
+   "at": "2026-11-18T20:54:35Z",
+   "by": "claude"
   }
  }
 }
