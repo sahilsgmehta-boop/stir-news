@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T12:07:00Z",
+ "built": "2026-11-18T12:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Zcash extends recovery but significant headwinds persist amid hawkish Fed and US-Iran tensions",
     "Bitcoin remains under pressure amid the negative risk sentiment caused by hawkish Fed and US-Iran tensions"
    ]
   },
@@ -68,8 +69,8 @@
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "The Fed\u2019s new freedom to fight inflation",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
@@ -81,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 54,
    "added": 7,
    "error": "",
    "near_misses": [
@@ -91,10 +92,10 @@
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
-    "Fed warns of growing financial risks from AI boom"
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring"
    ]
   },
   {
@@ -102,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 7,
+   "fetched": 58,
+   "kept": 8,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -113,10 +114,10 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
     "German Cabinet Backs Brunnermeier as ECB Chief Economist",
-    "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing"
+    "Germany lines up Markus Brunnermeier for ECB chief economist role",
+    "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
    ]
   },
   {
@@ -124,8 +125,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 7,
+   "fetched": 26,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -168,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
+   "fetched": 59,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -319,11 +320,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": true,
-   "fetched": 10,
-   "kept": 7,
-   "added": 5,
-   "error": ""
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
   },
   {
    "id": "snb",

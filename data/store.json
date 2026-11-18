@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T12:08:50Z",
+"bank": "ECB",
+"speaker": "Vuj",
+"hl": "AI stock repricing could pose financial stability risk: ECB's Vujčić",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWhRMXNreWRrTkx2b2pDNURZWV94NEs2U3NHQWdTd1RmWllXa19ucTU4VTVTSk9PUzNTdU10UmJNRnFLYUpobWltcWEya0R0VlVaT3gzc2t6VWFFNmlmTTZpNWpGNnU0LXlQVTZoZll2NHNpTUNDd0l1SzNOMVQ0aGV2YWdJbnUtLTJ2cUNPYjdoa212VmxHMk56WnJkajhwMTJJN2ROclpGWlBYVkE?oc=5",
+"src": "CNBC",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1514982406fd",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T09:00:00Z",
 "bank": "ECB",
 "speaker": "Vujcic",
@@ -899,7 +919,8 @@
 "Investing.com",
 "The Lufkin Daily News",
 "marketscreener.com",
-"Bloomberg"
+"Bloomberg",
+"Kitco"
 ],
 "desc": "",
 "id": "db053a6bb159",
