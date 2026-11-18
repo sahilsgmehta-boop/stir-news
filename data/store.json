@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-18T14:32:00Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed’s Waller says.",
+"url": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+"src": "MarketWatch",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "The central bank might have to be more aggressive in order to “shock” inflation out of the system, Federal Reserve governor Christopher Waller said Wednesday.",
+"id": "de840400a197",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T14:25:02Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Forget 25 Bps? Fed's Waller says 'shock people' with 50-bp December hike",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNE5OMm9yTThZSWZabVAzUTdtY0ZVOXc4dl8xV3VFWXRDcnpPY091NWg3Tmx5ajZpa2NMV2c0NWxkNEg1MXBqd1libzNXT1Z4RjM2cFU3aXR3LVY4TGN5ZWVXMkJxYnliSjhYR1d4VHA0eHdxc2QwZ2QxNTRkTFBpNkN6NTJhUGVEbU9kN2NrTXpEMEg2Yi1sbGpZc0wzQ2x4ZWozRm51UXM2dw?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "48f80acaa652",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T14:20:26Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -9,7 +49,10 @@
 "src": "Moomoo",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com",
+"The Edge Malaysia"
+],
 "desc": "",
 "id": "7f935d5a95d7",
 "score": null,
@@ -154,7 +197,9 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"StreetInsider"
+"StreetInsider",
+"Reuters",
+"Mezha.net"
 ],
 "desc": "",
 "id": "d4741a41c7c4",
