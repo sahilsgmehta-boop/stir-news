@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T00:52:00Z",
+ "built": "2026-11-18T01:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 64,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -68,8 +68,8 @@
     "Will digital payments change how Americans use banks? Fed governor weighs in",
     "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "This Is The Biggest Financial Risk, According To Fed's Report"
+    "This Is The Biggest Financial Risk, According To Fed's Report",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -78,15 +78,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 54,
    "added": 6,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
@@ -153,8 +153,8 @@
     "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Bank of England likely to raise interest rates further in 2027",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "Bank of England likely to raise interest rates further in 2027",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
@@ -165,7 +165,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 59,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -174,10 +174,10 @@
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Macklem to exit Bank of Canada as successor search begins",
+    "David Olive: Meet the five leading candidates to be the next Bank of Canada governor",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor"
    ]
