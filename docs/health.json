@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T14:37:00Z",
+ "built": "2026-11-18T14:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -29,11 +29,17 @@
    "id": "cnbc",
    "name": "CNBC Economy",
    "kind": "headline",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 30,
+   "kept": 1,
    "added": 0,
-   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+   "error": "",
+   "near_misses": [
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI risks are the biggest threat to the financial system, Fed survey finds",
+    "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%"
+   ]
   },
   {
    "id": "mw",
@@ -42,7 +48,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": []
   },
@@ -53,7 +59,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 58,
-   "added": 3,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
@@ -61,11 +67,11 @@
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
-    "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so",
     "The Fed's inflation headache",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019"
+    "The Fed\u2019s new freedom to fight inflation"
    ]
   },
   {
@@ -74,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -95,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
+   "fetched": 58,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -103,13 +109,13 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "German Government Nominates Brunnermeier for ECB Board Seat",
+    "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
     "German Cabinet Backs Brunnermeier as ECB Chief Economist",
-    "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Nagel on ECB presidency: Not a yes, not a no"
+    "Spain's de Cos moves closer to ECB top job with Germany's backing"
    ]
   },
   {
@@ -160,7 +166,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 61,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -291,11 +297,11 @@
    "id": "boc",
    "name": "Bank of Canada speeches",
    "kind": "official",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "ok": true,
+   "fetched": 10,
+   "kept": 9,
+   "added": 3,
+   "error": ""
   },
   {
    "id": "boc_pr",
