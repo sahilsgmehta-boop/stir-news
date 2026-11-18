@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T09:07:01Z",
+ "built": "2026-11-18T09:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 62,
    "added": 2,
    "error": "",
    "near_misses": [
-    "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
+    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
+    "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed\u2019s new freedom to fight inflation",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
-    "Fed's December meeting the 'final hurdle' before stocks find a bottom: Morgan Stanley's Mike Wilson"
+    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Will digital payments change how Americans use banks? Fed governor weighs in"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 52,
    "added": 7,
    "error": "",
    "near_misses": [
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 9,
+   "fetched": 54,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -107,8 +107,8 @@
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Spain\u2019s Hern\u00e1ndez de Cos nears ECB presidency after Paris-Berlin deal",
     "Nagel on ECB presidency: Not a yes, not a no",
+    "Spain\u2019s Hern\u00e1ndez de Cos nears ECB presidency after Paris-Berlin deal",
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Spain Hopes for Quick Deal on De Cos as Next ECB President",
@@ -142,8 +142,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 3,
+   "fetched": 27,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -155,8 +155,8 @@
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions"
    ]
   },
   {
@@ -258,7 +258,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 7,
-   "added": 2,
+   "added": 0,
    "error": ""
   },
   {
