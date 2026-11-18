@@ -1,0 +1,534 @@
+{
+ "_about": "Cheat sheet of each policymaker's stated rate views, for the Summary on the dashboard's CB commentary page. Written by the scheduled labelling task (and by hand); keyed 'Bank|Name' as in speakers.json. Only what the person has actually said, paraphrased; leave a field empty rather than guess. Fields: votes {year: true/false}; stance hawk|lean hawk|centre|lean dove|dove (their own rate view, not market impact); next / following {call, note} for the next two rate-setting meetings - call is one of '+50', '+25 or +50', '+25', 'hold or +25', 'hold', '-25', 'open', '' (no view given); path {total, by, note} = the total move they want from here and by when, if they said; view = 1-2 sentences on their view of rates now; shift = how their view has changed recently; last = date of their last remark on rates (YYYY-MM-DD), ev = where; basis verbatim|reports; conf high|medium|low = how clearly they have said it; asof = when this entry was last reviewed.",
+ "banks": {
+  "Fed": {
+   "rate": "3.75-4.00%",
+   "meetings": [
+    "2026-12-09",
+    "2027-01-27",
+    "2027-03-17",
+    "2027-04-28",
+    "2027-06-09",
+    "2027-07-28",
+    "2027-09-15",
+    "2027-11-17"
+   ],
+   "note": "Votes: 2026 = governors, Williams, Hammack, Logan, Kashkari, Paulson. From January 2027 the rotating seats pass to Goolsbee (Chicago), Barkin (Richmond), Daly (San Francisco) and the Atlanta Fed president (interim: Cheryl Venable). Oct 28 hold was 10-2, Cook and Hammack dissenting for a 25bp hike. Warsh gives no forward guidance."
+  }
+ },
+ "speakers": {
+  "Fed|Warsh": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "centre",
+   "next": {
+    "call": "open",
+    "note": "Gives no forward guidance; did not push back on December hike pricing at the Oct 28 press conference."
+   },
+   "following": {
+    "call": "open",
+    "note": ""
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": "Won't pre-judge meetings; calls the 2% goal a hard target."
+   },
+   "view": "Inflation elevated and broadening, growth strong; framed the October hold as a pause to gather information, not a pivot.",
+   "shift": "Nov 16 speech on AI said nothing on rates.",
+   "last": "2026-10-28",
+   "ev": "FOMC press conference",
+   "basis": "verbatim",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Jefferson": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "centre",
+   "next": {
+    "call": "open",
+    "note": "Inflation will set his next move; adjustments decided by careful reading of the data. No size or timing given."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": ""
+   },
+   "view": "Inflation, not jobs, is the main signal for policy; PCE inflation still 3.6%, energy the main channel; upbeat on growth.",
+   "shift": "",
+   "last": "2026-11-14",
+   "ev": "Speech, UC San Diego Economic Roundtable",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Bowman": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "lean dove",
+   "next": {
+    "call": "open",
+    "note": "Not committed: will look at October PCE and November payrolls first; wants more information on the effect of the September hike."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": "Expects core PCE (about 3.3%) to move closer to 2% next year; financial conditions have tightened, so the costs of further tightening must be weighed."
+   },
+   "view": "Still work to do on inflation, but leans toward patience; will look through temporary energy effects.",
+   "shift": "Oct 14: no urgency, time to wait and see. Unchanged in substance.",
+   "last": "2026-11-10",
+   "ev": "Speech, Council on Foreign Relations",
+   "basis": "verbatim",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Waller": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "hawk",
+   "next": {
+    "call": "+50",
+    "note": "Nov 18: the Fed should hike 50bp in December or signal faster increases; may need to 'shock' expectations. (Nov 10: 25bp base case, 50bp if October core CPI ran hot - it did.)"
+   },
+   "following": {
+    "call": "+25 or +50",
+    "note": "Wants a faster pace than 25bp a meeting if December is only 25."
+   },
+   "path": {
+    "total": "+75 to +100bp or more",
+    "by": "",
+    "note": "Take back the three 2025 'insurance' cuts (75bp), maybe more; rates may need to rise 100bp or more."
+   },
+   "view": "Inflation is broadening and risks settling near 3%; the Fed needs to get more aggressive, and hiking only 25bp risks its credibility.",
+   "shift": "More hawkish: from '25bp, 50 if CPI hot' (Nov 10) to pushing for 50bp (Nov 18).",
+   "last": "2026-11-18",
+   "ev": "Interview, CNBC",
+   "basis": "reports",
+   "conf": "high",
+   "asof": "2026-11-18"
+  },
+  "Fed|Cook": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "hawk",
+   "next": {
+    "call": "+25",
+    "note": "Dissented on Oct 28 in favour of a 25bp hike; no rate remarks since."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": ""
+   },
+   "view": "Only signal is her October dissent for a hike. Her recent news is the White House removal hearing (set for Dec 14), which she will not attend on its current terms.",
+   "shift": "",
+   "last": "2026-10-28",
+   "ev": "FOMC dissent",
+   "basis": "verbatim",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Barr": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "lean hawk",
+   "next": {
+    "call": "",
+    "note": "No view given on December."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": "Sep 29: further rate hikes likely to be needed."
+   },
+   "view": "Recent speeches (Nov 12-16) were on AI, inequality and financial stability; said AI's impact so far shows up mostly in prices.",
+   "shift": "",
+   "last": "2026-09-29",
+   "ev": "Speech",
+   "basis": "reports",
+   "conf": "low",
+   "asof": "2026-11-18"
+  },
+  "Fed|Powell": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "",
+   "next": {
+    "call": "",
+    "note": "No public remarks on policy in the feed since stepping down as Chair; still a governor and a voter."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": ""
+   },
+   "view": "",
+   "shift": "",
+   "last": "",
+   "ev": "",
+   "basis": "",
+   "conf": "low",
+   "asof": "2026-11-18"
+  },
+  "Fed|Williams": {
+   "votes": {
+    "2026": true,
+    "2027": true
+   },
+   "stance": "centre",
+   "next": {
+    "call": "+25",
+    "note": "More hikes likely needed, but no need for 'dramatic action': rules out a jumbo (50bp) move in December."
+   },
+   "following": {
+    "call": "open",
+    "note": "Gradual, data-led steps 'over time'."
+   },
+   "path": {
+    "total": "more hikes, gradually",
+    "by": "",
+    "note": "Said the AI boom could lead to more hikes in 2027."
+   },
+   "view": "Inflation too high and not moving in the right direction; economy getting stronger; recent gradual steps are working.",
+   "shift": "More hawkish: Oct 13 saw no 2027 hike and Nov 6 wanted to gather more data; now sees more hikes likely, possibly into 2027.",
+   "last": "2026-11-17",
+   "ev": "Axios BFD Summit, New York",
+   "basis": "reports",
+   "conf": "high",
+   "asof": "2026-11-18"
+  },
+  "Fed|Hammack": {
+   "votes": {
+    "2026": true,
+    "2027": false
+   },
+   "stance": "hawk",
+   "next": {
+    "call": "+25",
+    "note": "Prefers small, steady 25bp steps over larger moves; dissented for a hike on Oct 28."
+   },
+   "following": {
+    "call": "+25",
+    "note": "'Gradual' read as a hike every meeting; flags that bigger moves could become necessary."
+   },
+   "path": {
+    "total": "open",
+    "by": "",
+    "note": "Policy must move to restrictive; unclear how far the Fed has to go; the economy can handle more restriction."
+   },
+   "view": "The Fed has missed on inflation for years and inflation is heading the wrong way; wants steady hikes into restrictive territory.",
+   "shift": "Steady view since October.",
+   "last": "2026-11-16",
+   "ev": "Interview, Bloomberg TV",
+   "basis": "reports",
+   "conf": "high",
+   "asof": "2026-11-18"
+  },
+  "Fed|Logan": {
+   "votes": {
+    "2026": true,
+    "2027": false
+   },
+   "stance": "hawk",
+   "next": {
+    "call": "+25",
+    "note": "At least two more 25bp hikes needed; the pace could be quicker this winter than in the fall."
+   },
+   "following": {
+    "call": "+25",
+    "note": "Second of the 'at least two' hikes; skipping a meeting doesn't change the destination."
+   },
+   "path": {
+    "total": "+50bp at least",
+    "by": "this winter, possibly faster",
+    "note": "Aim is a modestly restrictive stance; worried October PCE shows the same pickup as CPI."
+   },
+   "view": "Excess inflation is unacceptable; policy needs to get to modestly restrictive, more quickly if the data stay hot.",
+   "shift": "More hawkish on pace: Oct 30 preferred a gradual pace; Nov 10 said hikes could come faster this winter.",
+   "last": "2026-11-10",
+   "ev": "Speech, Houston energy conference",
+   "basis": "reports",
+   "conf": "high",
+   "asof": "2026-11-18"
+  },
+  "Fed|Kashkari": {
+   "votes": {
+    "2026": true,
+    "2027": false
+   },
+   "stance": "lean hawk",
+   "next": {
+    "call": "+25",
+    "note": "Pencilled in one more hike in 2026 (as of late September)."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "+50bp",
+    "by": "end-2027",
+    "note": "One more hike in 2026 and another in 2027; neutral rate may be higher than thought."
+   },
+   "view": "Inflation too high at about 3%, across the economy and not just energy; economy resilient. No rate remarks in the last six weeks.",
+   "shift": "",
+   "last": "2026-09-30",
+   "ev": "Remarks",
+   "basis": "reports",
+   "conf": "low",
+   "asof": "2026-11-18"
+  },
+  "Fed|Paulson": {
+   "votes": {
+    "2026": true,
+    "2027": false
+   },
+   "stance": "lean hawk",
+   "next": {
+    "call": "+25",
+    "note": "Further gradual tightening seems appropriate."
+   },
+   "following": {
+    "call": "+25",
+    "note": "Gradual follow-up; would move faster if expectations drift up, wage pressures build or underlying inflation rises."
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": "Policy needs to be somewhat restrictive; puts underlying inflation at 2.5-3%."
+   },
+   "view": "October CPI shows inflation pressures are still very much with us; more work to do.",
+   "shift": "Was among the doves on the tracker; now backs gradual hikes.",
+   "last": "2026-11-11",
+   "ev": "Speech, Conshohocken PA",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Goolsbee": {
+   "votes": {
+    "2026": false,
+    "2027": true
+   },
+   "stance": "hawk",
+   "next": {
+    "call": "+25",
+    "note": "Backs tightening but declined to prejudge the size; no call for 50bp."
+   },
+   "following": {
+    "call": "open",
+    "note": "Central bankers must be 'aggressive up front'; stubborn inflation could force more aggressive hikes."
+   },
+   "path": {
+    "total": "open",
+    "by": "",
+    "note": "Fed is not on a path back to 2% and must re-establish credibility."
+   },
+   "view": "October CPI 'borderline disturbing'; AI data-centre boom looks like old-fashioned demand overheating.",
+   "shift": "Moved from centre to hawk through October-November.",
+   "last": "2026-11-15",
+   "ev": "Interview, CNBC",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Barkin": {
+   "votes": {
+    "2026": false,
+    "2027": true
+   },
+   "stance": "centre",
+   "next": {
+    "call": "open",
+    "note": "No base case for December."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "more hikes, gradually",
+    "by": "",
+    "note": "Direction is clear (higher), pace is the question; policy around or slightly below neutral."
+   },
+   "view": "Inflation is the greatest risk, with broad-based cost pressures, but the Fed should move with care.",
+   "shift": "",
+   "last": "2026-11-09",
+   "ev": "Remarks",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Daly": {
+   "votes": {
+    "2026": false,
+    "2027": true
+   },
+   "stance": "lean hawk",
+   "next": {
+    "call": "+25",
+    "note": "'In all likelihood' rates need to rise; did not call for 50bp."
+   },
+   "following": {
+    "call": "",
+    "note": "How much and when is not a decision for now."
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": "Hard to argue policy is restrictive enough while services inflation is sticky."
+   },
+   "view": "Inflation is a problem, mostly not from AI; firms are passing on costs; labour market stable.",
+   "shift": "A usual dove now leaning to more hikes (since Nov 6).",
+   "last": "2026-11-13",
+   "ev": "Remarks",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Musalem": {
+   "votes": {
+    "2026": false,
+    "2027": false
+   },
+   "stance": "hawk",
+   "next": {
+    "call": "+25",
+    "note": "Backs the December hike; acting sooner is less costly."
+   },
+   "following": {
+    "call": "+25",
+    "note": "Several hikes needed before spring 2027."
+   },
+   "path": {
+    "total": "+100bp, up to +150bp",
+    "by": "spring 2027",
+    "note": "The funds rate could be up to 100bp below where it needs to be."
+   },
+   "view": "Policy still accommodative; risk of persistent above-target inflation outweighs the risk of tightening too early.",
+   "shift": "More hawkish: Oct 30 wanted a hike 'soon'; now sizes 100-150bp.",
+   "last": "2026-11-17",
+   "ev": "Remarks",
+   "basis": "reports",
+   "conf": "high",
+   "asof": "2026-11-18"
+  },
+  "Fed|Schmid": {
+   "votes": {
+    "2026": false,
+    "2027": false
+   },
+   "stance": "hawk",
+   "next": {
+    "call": "+25",
+    "note": "Backs the hike priced for December."
+   },
+   "following": {
+    "call": "",
+    "note": "Leans against an early-2027 pause."
+   },
+   "path": {
+    "total": "more than one hike",
+    "by": "",
+    "note": "Sees policy as fairly accommodative."
+   },
+   "view": "Core inflation around 3% even without energy, so it can't be dismissed as a supply shock; the Fed has more work to do.",
+   "shift": "",
+   "last": "2026-11-16",
+   "ev": "Speech",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Collins": {
+   "votes": {
+    "2026": false,
+    "2027": false
+   },
+   "stance": "lean hawk",
+   "next": {
+    "call": "+25",
+    "note": "Some additional tightening warranted 'soon'; cool on a 50bp move - prefers careful adjustment."
+   },
+   "following": {
+    "call": "+25",
+    "note": "Steady, gradual hikes."
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": "Rates may have to rise more than expected."
+   },
+   "view": "Inflation too high and broadening; the inflation fight outweighs housing strains; risks on both sides.",
+   "shift": "",
+   "last": "2026-11-16",
+   "ev": "Remarks",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-18"
+  },
+  "Fed|Venable": {
+   "votes": {
+    "2026": false,
+    "2027": true
+   },
+   "stance": "",
+   "next": {
+    "call": "",
+    "note": "Interim Atlanta Fed president; the Atlanta seat votes in 2027 (a permanent president is still being chosen)."
+   },
+   "following": {
+    "call": "",
+    "note": ""
+   },
+   "path": {
+    "total": "",
+    "by": "",
+    "note": ""
+   },
+   "view": "",
+   "shift": "",
+   "last": "",
+   "ev": "",
+   "basis": "",
+   "conf": "low",
+   "asof": "2026-11-18"
+  }
+ }
+}

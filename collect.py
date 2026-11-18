@@ -41,6 +41,7 @@ OUT_JS = os.path.join(HERE, "docs", "cb.js")
 OUT_HEALTH = os.path.join(HERE, "docs", "health.json")
 ROSTER = os.path.join(HERE, "speakers.json")
 TONES = os.path.join(HERE, "tones.json")      # written by the labelling task
+VIEWS = os.path.join(HERE, "views.json")      # per-speaker rate views (Summary cheat sheet), same task
 
 ARCHIVE = os.path.join(HERE, "data", "cb_archive.json")   # every item ever, never pruned
 OUT_ARCHIVE_JS = os.path.join(HERE, "docs", "cb_archive.js")
@@ -588,6 +589,17 @@ def item_id(x):
     return hashlib.sha1(basis.encode("utf-8")).hexdigest()[:12]
 
 
+def load_views():
+    """views.json - each policymaker's stated rate views, for the dashboard's Summary."""
+    try:
+        with open(VIEWS, encoding="utf-8") as f:
+            v = json.load(f)
+        return {"banks": v.get("banks", {}), "speakers": v.get("speakers", {})}
+    except (OSError, ValueError) as e:
+        print("views.json unreadable, continuing without the summary:", e)
+        return {"banks": {}, "speakers": {}}
+
+
 def load_tones():
     """tones.json - per-comment labels written by the scheduled labelling task.
     {"tones": {id: {"tone": hawk|dove|neutral, "score": -10..10, "read": "..."}}}"""
@@ -678,6 +690,7 @@ def _write(store, health, now, people):
                    x["src"], x["tier"], x["also"], x["id"], x["score"], x["read"],
                    x["sum"], x["pts"], x["rr"], x["ev"], x["basis"]]
                   for x in show],
+        "views": load_views(),
     }
     body = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
     # json.dumps cannot produce "</script>", but escape "</" anyway so the file

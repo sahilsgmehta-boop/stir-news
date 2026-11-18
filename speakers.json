@@ -167,7 +167,7 @@
    "basis": "Low 90-day score, but 29 Sep called above-target inflation 'playing with fire'. Moving hawkish.",
    "aliases": [],
    "asof": "2026-10-13",
-   "vote": "Non-voter in 2026, rotates in later"
+   "vote": "Non-voter in 2026, votes in 2027"
   },
   {
    "bank": "Fed",
@@ -191,7 +191,7 @@
    "basis": "No recent score.",
    "aliases": [],
    "asof": "2026-10-13",
-   "vote": "Non-voter in 2026, rotates in later"
+   "vote": "Non-voter in 2026, votes in 2027"
   },
   {
    "bank": "Fed",
@@ -203,7 +203,7 @@
    "basis": "No recent data.",
    "aliases": [],
    "asof": "2026-10-13",
-   "vote": "Non-voter in 2026, rotates in later"
+   "vote": "Non-voter in 2026, votes in 2027"
   },
   {
    "bank": "ECB",
@@ -696,6 +696,30 @@
    "aliases": [],
    "asof": "2026-10-13",
    "vote": "Governing Board, decides policy"
+  },
+  {
+   "bank": "Fed",
+   "name": "Powell",
+   "full": "Jerome Powell",
+   "role": "Governor (former Chair)",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Stayed on the Board after Warsh became Chair; no public policy remarks since.",
+   "aliases": [],
+   "asof": "2026-11-18",
+   "vote": "Always votes in FOMC"
+  },
+  {
+   "bank": "Fed",
+   "name": "Venable",
+   "full": "Cheryl Venable",
+   "role": "Atlanta Fed Interim President (2027 voter seat)",
+   "lean": "neutral",
+   "confidence": "low",
+   "basis": "Interim president; no policy remarks.",
+   "aliases": [],
+   "asof": "2026-11-18",
+   "vote": "Atlanta votes in 2027"
   }
  ]
 }
