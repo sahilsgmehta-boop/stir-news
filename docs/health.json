@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T04:37:00Z",
+ "built": "2026-11-18T04:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,15 +56,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 2,
    "error": "",
    "near_misses": [
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed\u2019s new freedom to fight inflation",
+    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
@@ -78,10 +78,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 54,
    "added": 4,
    "error": "",
    "near_misses": [
+    "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -90,8 +91,7 @@
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Fed warns of growing financial risks from AI boom",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed Says Tokenization Still Needs Traditional Payments",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
+    "Fed Says Tokenization Still Needs Traditional Payments"
    ]
   },
   {
@@ -129,9 +129,9 @@
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB VP says AI, debt have become prominent stability risks",
+    "ECB warns AI share boom could end in 'abrupt repricing'",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB warns of market risks if AI boom stalls",
-    "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns AI risks now extend beyond valuations",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "The rush towards AI could prove costly for investors, ECB warns",
@@ -148,8 +148,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Bank of England economist sounds a big warning over interest rates",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
     "Bank of England raises rates for first time since 2023, warns another move likely",
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
