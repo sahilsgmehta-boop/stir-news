@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T10:07:01Z",
+ "built": "2026-11-18T10:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 61,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -65,12 +65,12 @@
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
+    "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "The Fed\u2019s new freedom to fight inflation",
-    "Will digital payments change how Americans use banks? Fed governor weighs in"
+    "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -90,8 +90,8 @@
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
     "Fed Says Tokenization Still Needs Traditional Payments"
    ]
   },
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 8,
+   "fetched": 52,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -110,8 +110,8 @@
     "German Cabinet Backs Brunnermeier as ECB Chief Economist",
     "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Spain\u2019s Hern\u00e1ndez de Cos nears ECB presidency after Paris-Berlin deal",
     "Nagel on ECB presidency: Not a yes, not a no",
+    "Spain\u2019s Hern\u00e1ndez de Cos nears ECB presidency after Paris-Berlin deal",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
@@ -123,15 +123,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 24,
-   "kept": 10,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
-    "ECB warns of market risks if AI boom stalls",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "The rush towards AI could prove costly for investors, ECB warns",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
@@ -156,9 +156,9 @@
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
     "Bank of England likely to raise interest rates further in 2027",
-    "Gilt yields spike as investors bet rates will hit 5% - with Bank of England hike expected days before Christmas",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions"
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
   {
@@ -166,7 +166,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 58,
    "kept": 1,
    "added": 0,
    "error": "",
