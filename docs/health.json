@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T15:37:00Z",
+ "built": "2026-11-18T15:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -84,16 +84,16 @@
    "added": 2,
    "error": "",
    "near_misses": [
-    "Fed may need to hike rates four times, says central bank official",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed may need to hike rates four times, says central bank official",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
+    "Traders Now See a 95% Chance the Fed Hikes Rates in December",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
-    "AI could transform the economy, but the Fed is struggling to predict how",
-    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards"
+    "AI could transform the economy, but the Fed is struggling to predict how"
    ]
   },
   {
@@ -101,9 +101,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 11,
-   "added": 1,
+   "fetched": 63,
+   "kept": 10,
+   "added": 0,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
@@ -111,11 +111,11 @@
     "Germany names its candidate to replace Christine Lagarde as ECB head",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
-    "German Cabinet Backs Brunnermeier as ECB Chief Economist",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "German Government Nominates Brunnermeier for ECB Board Seat",
+    "German Cabinet Backs Brunnermeier as ECB Chief Economist",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Spain's de Cos moves closer to ECB top job with Germany's backing"
+    "ECB's \u20ac4.4B Bank Savings Plan Gains Support Despite Warning It Could Cross Into Tax Policy"
    ]
   },
   {
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 8,
+   "fetched": 20,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -137,7 +137,7 @@
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "ECB warns of market risks if AI boom stalls",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
-    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
+    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey"
    ]
   },
   {
@@ -145,57 +145,42 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 2,
-   "added": 2,
+   "fetched": 25,
+   "kept": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE sounds alarm over public trust in AI amid fears of it going rogue",
-    "Bank of England economist sounds a big warning over interest rates",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
+    "Bank of England economist sounds a big warning over interest rates",
     "Bank of England likely to raise interest rates further in 2027",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "Bank of England Hike Now Rests on Inflation Hitting 3.7%",
-    "Pound eases as UK inflation undershoots Bank of England forecast"
+    "Pound eases as UK inflation undershoots Bank of England forecast",
+    "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
    ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 54,
-   "kept": 1,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Macklem to exit Bank of Canada as successor search begins",
-    "Bank of Canada governor Tiff Macklem to step down in 2027",
-    "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
-    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
-    "Bank of Canada governor Tiff Macklem to step down in June",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 6,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "OCEANE Enters Saudi Market with SNB Capital to Provide Liquidity for SAB Invest Hong Kong ETF (9411)"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
