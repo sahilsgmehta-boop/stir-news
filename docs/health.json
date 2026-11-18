@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T07:07:00Z",
+ "built": "2026-11-18T07:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,9 +67,9 @@
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "The Fed\u2019s new freedom to fight inflation",
+    "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
-    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
-    "Will digital payments change how Americans use banks? Fed governor weighs in"
+    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month"
    ]
   },
   {
@@ -78,15 +78,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 53,
    "added": 4,
    "error": "",
    "near_misses": [
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
