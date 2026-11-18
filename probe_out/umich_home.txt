@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>
+      Surveys of Consumers
+  </title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+  <link href="/stylesheets/application-531c24fe.css" rel="stylesheet" />
+</head>
+<body>
+
+<header id='header'>
+  <div class='container_12'>
+    <div class='grid_12', "aria-hidden": true>
+<a href="/" tabindex="-1">        <img src="/images/logo-yellow-ccf29e42.png" alt="Surveys of Consumers Logo" />
+</a>    </div>
+    <div class='clear'></div>
+  </div>
+</header>
+
+<nav id='navigation'>
+  <div class='container_12'>
+    <div class='grid_12'>
+      <ul>
+        <li class="active"><a href="/">Home</a></li>
+        <li><a href="/tables.html">Tables</a></li>
+        <li><a href="/charts.html">Charts</a></li>
+            <li><a href="/reports.html">Reports</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+        <li>
+          <a href="http://data.sca.isr.umich.edu">Data Site</a>
+        </li>
+      </ul>
+    </div>
+    <div class='clear'></div>
+  </div>
+</nav>
+
+<main id='content'>
+  <div id="home" class="container_16">
+  <div class="grid_10">
+    <div>
+      <h1>Preliminary Results for November 2026</h1>
+    </div>
+
+    <table id="front_table">
+        <tr>
+            <td class="">
+              
+            </td>
+            <td class="em">
+              Nov
+            </td>
+            <td class="">
+              Oct
+            </td>
+            <td class="">
+              Nov
+            </td>
+            <td class="">
+              M-M
+            </td>
+            <td class="">
+              Y-Y
+            </td>
+        </tr>
+        <tr>
+            <td class="">
+              
+            </td>
+            <td class="em">
+              2026
+            </td>
+            <td class="">
+              2026
+            </td>
+            <td class="">
+              2025
+            </td>
+            <td class="">
+              Change
+            </td>
+            <td class="">
+              Change
+            </td>
+        </tr>
+        <tr>
+            <td class="">
+              Index of Consumer Sentiment
+            </td>
+            <td class="em">
+              51.0
+            </td>
+            <td class="">
+              48.0
+            </td>
+            <td class="">
+              51.0
+            </td>
+            <td class="">
+              +6.3%
+            </td>
+            <td class="">
+              +0.0%
+            </td>
+        </tr>
+        <tr>
+            <td class="">
+              Current Economic Conditions
+            </td>
+            <td class="em">
+              51.0
+            </td>
+            <td class="">
+              46.7
+            </td>
+            <td class="">
+              51.1
+            </td>
+            <td class="">
+              +9.2%
+            </td>
+            <td class="">
+              -0.2%
+            </td>
+        </tr>
+        <tr>
+            <td class="">
+              Index of Consumer Expectations
+            </td>
+            <td class="em">
+              50.9
+            </td>
+            <td class="">
+              48.8
+            </td>
+            <td class="">
+              51.0
+            </td>
+            <td class="">
+              +4.3%
+            </td>
+            <td class="">
+              -0.2%
+            </td>
+        </tr>
+    </table>
+  </div>
+  <div class="grid_6">
+    <h3>
+      Featured Chart (<a href="/files/featured-chart_large-f48bcd0e.png">Image</a>
+      | <a href="/files/featured-chart.pdf">PDF</a>
+      | <a href="/files/featured-chart.xlsx">Excel</a>)
+    </h3>
+<a href="/files/featured-chart_large-f48bcd0e.png">      <img alt="Featured Chart"
+        src="/files/featured-chart-3db9582c.png"
+        srcset="/files/featured-chart_2x-00965f70.png 2x"
+        width="320px">
+</a>
+  </div>
+  <div class="clear"></div>
+
+  <div class="grid_16">
+    <p class="nomargin">
+      Read our special reports:
+      <div class="coming_soon">10/30/26</div> <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=82355">Expected Outcomes and Economic Implications of Midterm Elections</a><br>
+      <div class="coming_soon">10/23/26</div> <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=82238">Risks of Entrenchment: Long-Run Inflation Expectations in Recent and Longer Historical Context</a><br>
+      <div class="coming_soon">10/9/26</div> <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=82236">Gasoline Prices and Expected Consumer Spending</a><br>
+      <div class="coming_soon">7/10/26</div> <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=81444">Sentiment, Web-Based Data Collection, and Partisanship</a><br>
+      <div class="coming_soon">5/22/26</div> <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=81125">National Estimates Continue to Align With Views of Independents</a><br>
+      <div class="coming_soon">5/8/26</div> <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=81063">Confidence in Financial Institutions</a><br>
+    </p>
+  </div>
+  <div class="clear"></div>
+
+  <div class="grid_16">
+    <div class="next_release_note">
+      Next data release: Friday, November 20, 2026 for Final November data at 10am ET
+
+    </div>
+  </div>
+  <div class="clear"></div>
+
+  <div class="grid_10" id="richnote">
+    <h2>
+      Surveys of Consumers Director Joanne Hsu
+    </h2>
+    <div>
+      ﻿Consumer sentiment ticked up about 6% in the preliminary read. Modest improvements in multiple domains, including expected personal finances and business conditions, were concentrated primarily among independents. While sentiment lifted for lower- and middle-wealth consumers, it fell 5% for those with the largest stock portfolios in the wake of a relatively turbulent period in stock markets. Moreover, consumers’ comments revealed growing anxiety over a possible AI bubble. AI worries, however, were dwarfed by cost of living concerns, which continue to be at the forefront of consumers’ minds across the population. About 57% spontaneously mentioned that their living standards have been eroded by high prices, the highest seen since May and up from 46% in February, just prior to the Iran conflict. Despite this month’s improvement, sentiment is down 10% from February. Interviews for this release were conducted between October 20 and November 2. In the two months leading into the election, more than two-thirds of consumers expected Democrats to win the House, and over half anticipated the same for the Senate (see <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=82355">the October 30th special report on election expectations</a>). <br><br>Year-ahead inflation expectations declined from 4.7% last month to 4.3% this month. Although the current reading is the lowest since August, it remains substantially above the 3.4% seen in February before the Iran conflict began, along with all 2024 readings. Long-run inflation expectations inched down from 3.5% in October to 3.4%, notably higher than their 2024 range of 2.8% to 3.2%. <br><br>
+    </div>
+  </div>
+  <div class="grid_6" id="book">
+  </div>
+
+</div>
+
+</main>
+
+<footer id='footer'>
+  <div class='container_12'>
+    <div class='grid_12'>
+      <img src="/images/footer-logos-1de09950.png" alt="" />
+      <br/>
+      Copyright &copy; 2026, The Regents of the University of Michigan.  All Rights Reserved.
+      <br/>
+      <br/>
+    </div>
+    <div class='clear'></div>
+  </div>
+</footer>
+
+</body>
