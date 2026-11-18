@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T07:52:00Z",
+ "built": "2026-11-18T08:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,20 +56,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 62,
    "added": 2,
    "error": "",
    "near_misses": [
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
+    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "The Fed\u2019s new freedom to fight inflation",
     "Federal Reserve\u2019s Lisa Cook refuses to attend hearing convened by Donald Trump",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
-    "Top Fed official: AI boom could fuel more rate hikes in 2027"
+    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month"
    ]
   },
   {
@@ -78,8 +78,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
-   "added": 5,
+   "kept": 53,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
@@ -130,8 +130,8 @@
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB warns AI share boom could end in 'abrupt repricing'",
-    "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB warns of market risks if AI boom stalls",
+    "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB warns AI risks now extend beyond valuations",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "The rush towards AI could prove costly for investors, ECB warns",
@@ -143,8 +143,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
-   "kept": 4,
+   "fetched": 29,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -154,9 +154,9 @@
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
     "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
    ]
   },
