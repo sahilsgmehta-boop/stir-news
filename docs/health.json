@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T12:22:01Z",
+ "built": "2026-11-18T12:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,13 +60,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 2,
    "error": "",
    "near_misses": [
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
-    "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
+    "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
@@ -95,7 +95,7 @@
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring"
+    "Fed warns of growing financial risks from AI boom"
    ]
   },
   {
@@ -105,7 +105,7 @@
    "ok": true,
    "fetched": 58,
    "kept": 8,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
@@ -114,9 +114,9 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
     "German Cabinet Backs Brunnermeier as ECB Chief Economist",
+    "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Germany lines up Markus Brunnermeier for ECB chief economist role",
     "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
    ]
   },
@@ -125,7 +125,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 25,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -138,7 +138,7 @@
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
-    "ECB warns: \u201cArtificial intelligence creates new vulnerabilities for the banking system\u201d",
+    "ECB warns of market risks if AI boom stalls",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job"
    ]
   },
@@ -169,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 58,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -320,11 +320,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+   "ok": true,
+   "fetched": 10,
+   "kept": 7,
+   "added": 5,
+   "error": ""
   },
   {
    "id": "snb",
