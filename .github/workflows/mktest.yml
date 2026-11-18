@@ -13,6 +13,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: python probe_mk.py
+      - run: python markets.py --full --dump probe_out/dump; cp docs/markets.js probe_out/markets.js; cp data/markets.json probe_out/store.json
       - run: |
           git config user.name probe; git config user.email probe@users.noreply.github.com
-          git add -f probe_out && git commit -m "probe output [skip ci]" && git push origin HEAD:mk-test
+          rm -rf probe_out/dump; git add -f probe_out && git commit -m "probe output [skip ci]" && git push origin HEAD:mk-test

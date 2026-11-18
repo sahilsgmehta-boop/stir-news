@@ -12,13 +12,16 @@ other run (each 30 minutes) only fetches the last few days and the latest price.
 
 Returns are in each asset's own currency. Yields are changes in basis points.
 Futures (=F) are Yahoo's front contract, which jumps when it rolls to the next
-month (natural gas into winter can jump 10-15%). Each run looks up the actual
-contract behind the =F symbol (e.g. NGZ26.NYM), finds the day the front
-contract switched, and keeps the price ratio between the two contracts in
-data/markets.json ("rolls"). The last month comes from that contract itself
-("expl"); prices before it, and before each roll, are scaled to join it, so
-every return compares the same contract. A Sunday-evening futures price counts for
+month (natural gas into winter can jump 10-15%; lean hogs Aug 2026 -15%). So each
+run looks up the actual contract behind the =F symbol (e.g. NGZ26.NYM) and keeps
+that contract's own daily history (data/markets.json "ctr"). Every return and the
+year's chart are measured on that one contract, so no roll is ever counted as a
+price move. Horizons older than the contract's own history (a newly listed month)
+are left blank rather than joined to another contract. When the front month moves
+on, the new contract's history is fetched. A Sunday-evening futures price counts for
 Monday, and weekend dates are dropped for futures.
+(Until 18 Nov 2026 a roll-ratio method was used; it recorded the same roll on several
+days and compounded them, which made lean hogs read -12.7% on a -4.3% day.)
 
 python markets.py              normal run
 python markets.py --full       refetch all history
@@ -125,90 +128,27 @@ MONTH_CODE = {"jan": "F", "feb": "G", "mar": "H", "apr": "J", "may": "K", "jun":
 CODES = "FGHJKMNQUVXZ"
 
 
-def contract_symbols(sym, info, ahead=3):
-    """The contract a Yahoo =F symbol names ('Natural Gas Dec 26' -> NGZ26.NYM, 'Corn Futures,Dec-2026'
-    -> ZCZ26.CBT), then the next few months: Yahoo's name can lag the roll."""
+def contract_symbols(sym, info, today=None):
+    """Candidates for the contract behind a Yahoo =F symbol: the month Yahoo's name gives ('Natural Gas Dec 26'
+    -> NGZ26.NYM, 'Corn Futures,Dec-2026' -> ZCZ26.CBT), then the months either side of it - Yahoo's name can be
+    a month or two ahead of the contract actually quoted (Lean Hog 'Feb-2027' was HEZ26 on 18 Nov 2026) or
+    behind it. A name with no month (Brent 'Last Day Financ') starts from the current month."""
     name, exch = (info or {}).get("name") or "", (info or {}).get("exch") or ""
-    hits = re.findall(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[\s.,'-]*(\d{4}|\d{2})\b", name.lower())
-    if not hits or not exch:
+    if not exch:
         return []
-    mon, yr = hits[-1]
-    m, y = CODES.index(MONTH_CODE[mon]), int(yr[-2:])
+    hits = re.findall(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[\s.,'-]*(\d{4}|\d{2})\b", name.lower())
+    if hits:
+        mon, yr = hits[-1]
+        m, y = CODES.index(MONTH_CODE[mon]), int(yr[-2:])
+        offs = [0, 1, -1, 2, -2, 3, -3]
+    else:
+        t = today or date.today()
+        m, y = t.month - 1, t.year % 100
+        offs = [0, 1, 2, 3, 4]
     out = []
-    for k in range(ahead + 1):
+    for k in offs:
         mm, yy = (m + k) % 12, (y + (m + k) // 12) % 100
         out.append(f"{sym[:-2]}{CODES[mm]}{yy:02d}.{exch}")
-    return out
-
-
-def find_roll(cont, expl, tol=0.003):
-    """Where the =F series switched to this contract: walk back over the dates both series
-    have; while they agree it is the same contract. Returns (first date of the new contract,
-    new / old price ratio on the last day of the old one), or None if no roll in the window."""
-    common = [d for d in sorted(set(cont) & set(expl), reverse=True) if cont[d] and expl[d]]
-    same = None
-    for i, d in enumerate(common):
-        a, b = cont[d], expl[d]
-        if abs(a / b - 1) < tol:
-            same = d
-            continue
-        if same is None:          # the latest prices already differ: not this contract
-            return None
-        # confirm on the day before too, so one stray price is not taken for a roll
-        if i + 1 >= len(common):
-            return None
-        d2 = common[i + 1]
-        # (the gap between two contracts moves from day to day, ~1% for gas and crude)
-        r2 = expl[d2] / cont[d2]
-        if abs(r2 - 1) < tol or abs(r2 / (b / a) - 1) > 0.03:
-            return None
-        return same, b / a
-    return None
-
-
-def agrees_before(cont, expl, d, tol=0.003):
-    """True if both series have the day before d and agree there (so d is no roll for this data)."""
-    prev = [x for x in sorted(set(cont) & set(expl)) if x < d]
-    if not prev or not cont[prev[-1]] or not expl[prev[-1]]:
-        return False
-    return abs(cont[prev[-1]] / expl[prev[-1]] - 1) < tol
-
-
-def splice(s, rolls, E):
-    """The last month from the current contract itself (E), older prices scaled to join it.
-    Without E, the recorded roll ratios alone (roll_adjust)."""
-    cd = dict(s)
-    common = sorted(d for d in (E or {}) if d in cd and cd[d] and E[d])
-    if not common:
-        return roll_adjust(s, rolls)
-    w0 = common[0]
-    k = E[w0] / cd[w0]
-    older = {d: r for d, r in (rolls or {}).items() if d <= w0}
-    out = []
-    for d, v in s:
-        if d >= w0:
-            out.append((d, E.get(d, v)))
-            continue
-        f = k
-        for rd, r in older.items():
-            if d < rd and r:
-                f *= r
-        out.append((d, round(v * f, 6)))
-    return out
-
-
-def roll_adjust(s, rolls):
-    """Scale prices before each roll date by that roll's ratio, so the series is one contract."""
-    if not rolls:
-        return s
-    R = sorted(rolls.items())
-    out = []
-    for d, v in s:
-        f = 1.0
-        for rd, r in R:
-            if d < rd and r:
-                f *= r
-        out.append((d, round(v * f, 6)))
     return out
 
 
@@ -322,14 +262,21 @@ def spark(s, kind, invert):
     return pts
 
 
-def check_roll(sym, info, h, store):
-    """Look up the contract behind sym and record a roll if the =F series switched to it lately."""
+def check_contract(sym, info, h, store, full):
+    """Find the actual contract behind sym (the one whose latest price is the =F price) and keep that contract's
+    own daily history. Returns are then measured on that one contract, so a roll of the front month never shows
+    up as a price move. The stored contract is tried first (one request); its full history is fetched again on
+    the daily full run, or when the front month has moved on to a new contract."""
     fut = health.setdefault("futures", {})
     fut[sym] = {"name": info.get("name"), "contract": None}
+    C = store.setdefault("ctr", {})
+    prev = C.get(sym)
     last = max(h) if h else None
-    expl = None
-    # the contract whose latest price is the =F price; months that are not listed just fail
-    for x in contract_symbols(sym, info):
+    cands = contract_symbols(sym, info)
+    if prev:
+        cands = [prev["c"]] + [x for x in cands if x != prev["c"]]
+    hit, recent = None, None
+    for x in cands:
         try:
             if not MODE["cache"]:
                 time.sleep(0.25)
@@ -337,26 +284,27 @@ def check_roll(sym, info, h, store):
         except Exception:  # noqa: BLE001
             continue
         if last and last in e and h[last] and e[last] and abs(e[last] / h[last] - 1) < 0.002:
-            expl, fut[sym]["contract"] = e, x
+            hit, recent = x, e
             break
-    if expl is None:
-        store.get("expl", {}).pop(sym, None)
+    if not hit:
+        C.pop(sym, None)
+        fut[sym]["note"] = "contract not found: front-month series, rolls not adjusted"
         return
-    store.setdefault("expl", {})[sym] = expl
-    common = sorted(set(h) & set(expl))[-6:]
-    fut[sym]["chk"] = [[d, round(h[d], 4), round(expl[d], 4)] for d in common]
-    R = store.setdefault("rolls", {}).setdefault(sym, {})
-    r = find_roll(h, expl)
-    if r:
-        R[r[0]] = round(r[1], 6)
-    # a recorded roll the data no longer shows (Yahoo rewrote its history): drop it
-    for d in [d for d in R if (not r or d != r[0]) and agrees_before(h, expl, d)]:
-        del R[d]
-    rolls = R or None
-    if not R:
-        store["rolls"].pop(sym, None)
-    if rolls:
-        fut[sym]["rolls"] = rolls
+    if prev and prev["c"] == hit and not full:
+        ch = prev["h"]
+    else:
+        try:
+            if not MODE["cache"]:
+                time.sleep(0.25)
+            ch, _ = yahoo(hit, "10y", fut=True)
+        except Exception as e:  # noqa: BLE001
+            note(f"Yahoo {hit} history: {e}")
+            ch = dict(prev["h"]) if prev and prev["c"] == hit else {}
+    ch.update(recent)
+    cut = (date.today() - timedelta(days=KEEP_DAYS)).isoformat()
+    C[sym] = {"c": hit, "h": {d: v for d, v in ch.items() if v and d >= cut}}
+    ds = sorted(C[sym]["h"])
+    fut[sym].update({"contract": hit, "from": ds[0] if ds else None, "days": len(ds)})
 
 
 # ------------------------------------------------------------- main
@@ -399,7 +347,7 @@ def main():
             h.update(got)
             meta[sym] = info
             if is_future(sym):
-                check_roll(sym, info, h, store)
+                check_contract(sym, info, h, store, full)
         except Exception as e:  # noqa: BLE001
             note(f"Yahoo {sym}: {e}")
         if not MODE["cache"]:
@@ -432,19 +380,26 @@ def main():
     cutoff = (now.date() - timedelta(days=KEEP_DAYS)).isoformat()
     for sym in list(hist):
         hist[sym] = {d: v for d, v in hist[sym].items() if d >= cutoff}
-    for sym, R in store.get("rolls", {}).items():
-        for d in [d for d in R if d < cutoff]:
-            del R[d]
+    store.pop("rolls", None)        # the old roll-ratio method (replaced by one-contract histories, 18 Nov 2026)
+    store.pop("expl", None)
 
     def row(name, sym, kind, invert):
         s = series_from(hist.get(sym, {}))
+        extra = {}
         if is_future(sym):
-            s = splice(s, store.get("rolls", {}).get(sym), store.get("expl", {}).get(sym))
+            c = store.get("ctr", {}).get(sym)
+            if c and c.get("h"):
+                # one contract all the way: no roll in any return. Horizons older than the contract's own
+                # history are left out rather than filled from a different contract.
+                s = series_from(c["h"])
+                extra = {"contract": c["c"].split(".")[0], "since": s[0][0] if s else None}
+            else:
+                extra = {"unadj": True}
         ret, asof = returns(s, kind, invert)
         m = meta.get(sym, {})
-        return {"name": name, "sym": sym.replace("cnbc:", ""), "kind": kind, "invert": bool(invert),
+        return dict({"name": name, "sym": sym.replace("cnbc:", ""), "kind": kind, "invert": bool(invert),
                 "last": s[-1][1] if s else None, "asof": asof, "at": m.get("at"), "ccy": m.get("ccy"),
-                "ret": ret, "spark": spark(s, kind, invert)}
+                "ret": ret, "spark": spark(s, kind, invert)}, **extra)
 
     groups = []
     for g in cfg["groups"]:
