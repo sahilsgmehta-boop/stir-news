@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T23:43:30Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Memo to Tiff Macklem: Stop hiking interest rates – it’s not helping inflation",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXpablhlZmt5LXVITlhkVkEzTWJPOTBHcXNfckVjNW9sclpzRDVNdDJLbUVWclJPZDM2aHI2bzZYLUJ2dXBGY1FUQ1VMU3lwRTR4Y0FWV1EyMWN4S0xHWDlPLUFqMDhlTFhkMlluVEZoLTVad205QVo1SFktcG4yWnZXQXZibG4xS1pmdVBRWVFpRDdnQXJDcy1kMGZNMUFpYTE2cWxpZ1JNNkc2VXd0N3RfNGJJTE9ESldSWUFxc2pOLXM?oc=5",
+"src": "The Globe and Mail",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1fa9d18bf166",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T23:06:01Z",
 "bank": "Fed",
 "speaker": "Kashkari",
@@ -29,7 +49,10 @@
 "src": "www.thewealthadvisor.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com",
+"The Edge Malaysia"
+],
 "desc": "",
 "id": "20f5505e2082",
 "score": null,
