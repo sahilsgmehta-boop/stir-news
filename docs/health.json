@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T03:52:00Z",
+ "built": "2026-11-18T04:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -56,7 +56,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -88,9 +88,9 @@
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+    "Fed warns of growing financial risks from AI boom",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
-    "Fed warns of growing financial risks from AI boom",
     "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
    ]
   },
