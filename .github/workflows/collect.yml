@@ -59,7 +59,9 @@ jobs:
           end=$(( $(date +%s) + LOOP_MINUTES * 60 ))
           while :; do
             echo "::group::pass $(date -u +%H:%MZ)"
-            git pull -q --rebase origin main || echo "pull failed"
+            # never stay stuck: clear any half-finished rebase, then start the pass from the latest main
+            git rebase --abort 2>/dev/null || true
+            git fetch -q origin main && git reset -q --hard origin/main || echo "fetch failed"
             for s in collect.py fixings.py oi.py oi_intl.py calendar_feed.py curves.py markets.py repo.py fx.py cftc.py econ.py; do
               timeout 600 python "$s" || echo "$s failed"
             done
@@ -69,7 +71,13 @@ jobs:
             else
               git commit -q -m "news $(date -u +%Y-%m-%dT%H:%MZ)"
               # the labelling task pushes tones.json to the same branch, so take its commits first
-              git pull -q --rebase origin main && git push -q || echo "push failed"
+              # on a clash (someone else pushed the same file), this pass's freshly built file wins
+              ok=0
+              for i in 1 2 3; do
+                if git pull -q --rebase -X theirs origin main && git push -q; then ok=1; break; fi
+                git rebase --abort 2>/dev/null || true; sleep 5
+              done
+              [ $ok = 1 ] || echo "push failed"
             fi
             echo "::endgroup::"
             now=$(date +%s)
