@@ -126,6 +126,11 @@ MONTH_CODE = {"jan": "F", "feb": "G", "mar": "H", "apr": "J", "may": "K", "jun":
 
 
 CODES = "FGHJKMNQUVXZ"
+# where each future's contracts are listed on Yahoo (suffix), used when Yahoo's own code for the =F symbol is off
+EXCH = {"CL": "NYM", "BZ": "NYM", "NG": "NYM", "RB": "NYM", "HO": "NYM", "TTF": "NYM", "GC": "CMX", "SI": "CMX",
+        "HG": "CMX", "ALI": "CMX", "PL": "NYM", "PA": "NYM", "ZW": "CBT", "ZC": "CBT", "ZS": "CBT", "ZM": "CBT",
+        "ZL": "CBT", "KE": "CBT", "KC": "NYB", "SB": "NYB", "CC": "NYB", "CT": "NYB", "OJ": "NYB",
+        "LE": "CME", "GF": "CME", "HE": "CME"}
 
 
 def contract_symbols(sym, info, today=None):
@@ -134,7 +139,9 @@ def contract_symbols(sym, info, today=None):
     a month or two ahead of the contract actually quoted (Lean Hog 'Feb-2027' was HEZ26 on 18 Nov 2026) or
     behind it. A name with no month (Brent 'Last Day Financ') starts from the current month."""
     name, exch = (info or {}).get("name") or "", (info or {}).get("exch") or ""
-    if not exch:
+    # Yahoo's own exchange code for the =F symbol is sometimes wrong (cotton CT=F said NYM, 18 Nov 2026)
+    exchs = [x for x in dict.fromkeys([exch, EXCH.get(sym[:-2])]) if x]
+    if not exchs:
         return []
     hits = re.findall(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[\s.,'-]*(\d{4}|\d{2})\b", name.lower())
     if hits:
@@ -146,9 +153,10 @@ def contract_symbols(sym, info, today=None):
         m, y = t.month - 1, t.year % 100
         offs = [0, 1, 2, 3, 4]
     out = []
-    for k in offs:
-        mm, yy = (m + k) % 12, (y + (m + k) // 12) % 100
-        out.append(f"{sym[:-2]}{CODES[mm]}{yy:02d}.{exch}")
+    for ex in exchs:
+        for k in offs:
+            mm, yy = (m + k) % 12, (y + (m + k) // 12) % 100
+            out.append(f"{sym[:-2]}{CODES[mm]}{yy:02d}.{ex}")
     return out
 
 
@@ -424,7 +432,10 @@ def main():
                 if kind == "price" and sp and len(sp) >= max(1, len(items) // 2):
                     n = min(len(x) for x in sp)
                     head["spark"] = [round(sum(x[len(x) - n + i] / x[len(x) - n] * 100 for x in sp) / len(sp), 3) for i in range(n)]
-            subs.append({"name": s["name"], "kind": kind, "head": head, "items": items})
+            sub = {"name": s["name"], "kind": kind, "head": head, "items": items}
+            if s.get("tenor"):
+                sub["tenor"] = s["tenor"]     # the Markets page shows one tenor of the global yields at a time
+            subs.append(sub)
         groups.append({"name": g["name"], "subs": subs})
 
     missing = [it["name"] for g in groups for s in g["subs"] for it in s["items"] if not it["ret"]]

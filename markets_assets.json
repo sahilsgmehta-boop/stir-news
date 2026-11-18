@@ -267,9 +267,104 @@
      ]
     },
     {
+     "name": "Global 2-year yields",
+     "kind": "yield",
+     "tenor": "2Y",
+     "items": [
+      [
+       "US",
+       "cnbc:US2Y"
+      ],
+      [
+       "Germany",
+       "cnbc:DE2Y-DE"
+      ],
+      [
+       "UK",
+       "cnbc:GB2Y-GB"
+      ],
+      [
+       "Japan",
+       "cnbc:JP2Y-JP"
+      ],
+      [
+       "France",
+       "cnbc:FR2Y-FR"
+      ],
+      [
+       "Italy",
+       "cnbc:IT2Y-IT"
+      ],
+      [
+       "Spain",
+       "cnbc:ES2Y-ES"
+      ],
+      [
+       "Canada",
+       "cnbc:CA2Y"
+      ],
+      [
+       "Australia",
+       "cnbc:AU2Y-AU"
+      ],
+      [
+       "Switzerland",
+       "cnbc:CH2Y-CH"
+      ]
+     ]
+    },
+    {
+     "name": "Global 5-year yields",
+     "kind": "yield",
+     "tenor": "5Y",
+     "items": [
+      [
+       "US",
+       "cnbc:US5Y"
+      ],
+      [
+       "Germany",
+       "cnbc:DE5Y-DE"
+      ],
+      [
+       "UK",
+       "cnbc:GB5Y-GB"
+      ],
+      [
+       "Japan",
+       "cnbc:JP5Y-JP"
+      ],
+      [
+       "France",
+       "cnbc:FR5Y-FR"
+      ],
+      [
+       "Italy",
+       "cnbc:IT5Y-IT"
+      ],
+      [
+       "Spain",
+       "cnbc:ES5Y-ES"
+      ],
+      [
+       "Canada",
+       "cnbc:CA5Y"
+      ],
+      [
+       "Australia",
+       "cnbc:AU5Y-AU"
+      ]
+     ]
+    },
+    {
      "name": "Global 10-year yields",
      "kind": "yield",
+     "tenor": "10Y",
      "items": [
+      [
+       "US",
+       "cnbc:US10Y"
+      ],
       [
        "Germany",
        "cnbc:DE10Y-DE"
@@ -301,36 +396,53 @@
       [
        "Australia",
        "cnbc:AU10Y-AU"
+      ],
+      [
+       "Switzerland",
+       "cnbc:CH10Y-CH"
       ]
      ]
     },
     {
-     "name": "Global 2-year yields",
+     "name": "Global 30-year yields",
      "kind": "yield",
+     "tenor": "30Y",
      "items": [
       [
+       "US",
+       "cnbc:US30Y"
+      ],
+      [
        "Germany",
-       "cnbc:DE2Y-DE"
+       "cnbc:DE30Y-DE"
       ],
       [
        "UK",
-       "cnbc:GB2Y-GB"
+       "cnbc:GB30Y-GB"
       ],
       [
        "Japan",
-       "cnbc:JP2Y-JP"
+       "cnbc:JP30Y-JP"
       ],
       [
        "France",
-       "cnbc:FR2Y-FR"
+       "cnbc:FR30Y-FR"
       ],
       [
        "Italy",
-       "cnbc:IT2Y-IT"
+       "cnbc:IT30Y-IT"
+      ],
+      [
+       "Spain",
+       "cnbc:ES30Y-ES"
       ],
       [
        "Canada",
-       "cnbc:CA2Y"
+       "cnbc:CA30Y"
+      ],
+      [
+       "India",
+       "cnbc:IN30Y-IN"
       ]
      ]
     },

@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: python probe_mk.py
       - run: python markets.py --full --dump probe_out/dump; cp docs/markets.js probe_out/markets.js; cp data/markets.json probe_out/store.json
       - run: |
           git config user.name probe; git config user.email probe@users.noreply.github.com
