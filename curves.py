@@ -1,16 +1,17 @@
 """Curves and inflation for the dashboard's Curves page -> docs/curves.js
 
   Government yields  2Y, 5Y, 10Y, 30Y for the US, Germany, UK, Japan, France,
-                     Italy and Canada. History comes from each country's official
-                     daily curve where one is free (US Treasury, Bundesbank,
-                     Bank of England, Japan's Ministry of Finance, Bank of
-                     Canada), lifted by a constant so its level matches the
-                     benchmark bond; days the official curve has not reached
-                     yet come from CNBC's intraday prices at that market's
-                     close, and today from CNBC's quote (about 15 minutes
-                     delayed). France and Italy have no free official curve, so
-                     they use CNBC alone: weekend-dated bars and one-day spikes
-                     are dropped, and each day is re-recorded at the close.
+                     Italy and Canada: the benchmark bond's yield from CNBC for
+                     every day CNBC has daily data (since early 2024), read at
+                     each market's own close where recorded (CNBC's intraday
+                     bars), and today from CNBC's quote (about 15 minutes
+                     delayed); weekend-dated bars and one-day spikes are dropped.
+                     Older history comes from each country's official daily
+                     curve where one is free (US Treasury, Bundesbank, Bank of
+                     England, Japan's Ministry of Finance, Bank of Canada),
+                     lifted by a constant to meet the benchmark where CNBC's
+                     daily data starts. France and Italy have no free official
+                     curve, so their history is CNBC's weekly bars.
   US curve shape     Treasury's official daily par yield curve, 1M to 30Y
   US inflation       Treasury's official daily real (TIPS) yield curve;
                      breakeven = nominal par yield - real yield, same maturity,
@@ -242,6 +243,40 @@ def weekdays(dct):
     return {d: v for d, v in dct.items() if date.fromisoformat(d).weekday() < 5}
 
 
+def build_series(raw, cl, o):
+    """One country/tenor: CNBC's benchmark yields (each market's close where we have it) for every day
+    CNBC has daily data; before that, the official curve lifted to meet the benchmark. Returns (series, source)."""
+    cn = dict(raw)
+    cn.update(cl)
+    ds = sorted(cn)
+    # where CNBC's daily data starts: walking back from today, the first run of three weekly-sized gaps
+    # (a single long gap is just a holiday, e.g. Japan's Golden Week)
+    j, run = 0, 0
+    for i in range(len(ds) - 1, 0, -1):
+        if (date.fromisoformat(ds[i]) - date.fromisoformat(ds[i - 1])).days >= 6:
+            run += 1
+            if run == 3:
+                j = i + 2
+                break
+        else:
+            run = 0
+    daily_from = ds[j] if ds else None
+    ser = {d: v for d, v in cn.items() if daily_from and d >= daily_from}
+    older = {d: v for d, v in cn.items() if not daily_from or d < daily_from}
+    if len(o) > 40 and daily_from:
+        k = sorted(d for d in o if d in ser)[:40]          # the first 40 shared daily days
+        gaps = sorted(ser[d] - o[d] for d in k)
+        lift = gaps[len(gaps) // 2] if gaps else 0.0
+        for d, v in o.items():
+            if d < daily_from:
+                ser[d] = round(v + lift, 4)
+        src_c = "cnbc + official history"
+    else:
+        ser.update(older)
+        src_c = "cnbc"
+    return ser, src_c
+
+
 def main():
     args = sys.argv[1:]
     if "--dump" in args:
@@ -366,23 +401,14 @@ def main():
             cl = closes.get(s, {})
             raw = despike(weekdays(hist.get(s, {})))
             o = (off.get(c) or {}).get(t) or {}
-            if len(o) > 40:
-                # official history, lifted so its level matches the benchmark bond:
-                # the median gap to CNBC over the last 40 shared days
-                ref = {**raw, **cl}
-                k = sorted(d for d in o if d in ref)[-40:]
-                gaps = sorted(ref[d] - o[d] for d in k)
-                lift = gaps[len(gaps) // 2] if gaps else 0.0
-                ser = {d: round(v + lift, 4) for d, v in o.items()}
-                src[c] = "official"
-            else:
-                ser = dict(raw)
-                ser.update(cl)
-                src[c] = "cnbc"
-            last = max(ser) if ser else ""
-            for d, v in cl.items():          # days the official curve has not reached yet
-                if d > last:
-                    ser[d] = v
+            # The benchmark bond from CNBC is the series for every day CNBC has daily data (about the last
+            # year), so the 1-day to 1-year changes are the benchmark's own moves and match the Markets page.
+            # Each market's close (cl) replaces CNBC's end-of-day bar where we have it. Before CNBC's daily
+            # data starts, the official curve fills the history, lifted to meet the benchmark there.
+            # (Until 18 Nov 2026 the official curve was used right up to the last day and CNBC only appended
+            # after it, so a 1-day change could compare CNBC with the official curve: several bp of noise,
+            # and the Bundesbank curve, built from prices earlier in the day, ran partly a day out of step.)
+            ser, src[c] = build_series(raw, cl, o)
             if s in today and date.fromisoformat(today[s][0]).weekday() < 5 and today[s][0] > max(ser or [""]):
                 ser[today[s][0]] = today[s][1]
             sr = series(ser)
