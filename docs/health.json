@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T01:52:01Z",
+ "built": "2026-11-18T02:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -78,7 +78,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 53,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -91,7 +91,7 @@
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
     "Fed warns of growing financial risks from AI boom",
-    "\ud83c\uddfa\ud83c\uddf8 ST. LOUIS FED PRESIDENT MUSALEM SAYS THE US WILL LIKELY NEED SEVERAL INTEREST RATE HIKES BEFORE SPRING 2027 TO CURB INFLATION"
+    "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From a growth boom to bad actors attacking critical infrastructure"
    ]
   },
   {
@@ -107,8 +107,8 @@
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
-    "Nagel on ECB presidency: Not a yes, not a no",
     "Germany lines up Markus Brunnermeier for ECB chief economist role",
+    "Nagel on ECB presidency: Not a yes, not a no",
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
@@ -143,7 +143,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -154,10 +154,10 @@
     "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
     "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
     "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
-    "Bank of England likely to raise interest rates further in 2027",
     "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
     "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
-    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs"
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions"
    ]
   },
   {
