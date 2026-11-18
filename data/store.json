@@ -652,6 +652,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-18T14:19:02Z",
+"bank": "ECB",
+"speaker": "Vuj",
+"hl": "Greek banks in a minefield of 10 business groups - Τhe pointed remark by ECB's Vujčić",
+"url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYml4cUZCOGExVktUdnN6eG5rc2hkaHIwN1lBWmdnazZQZUVOMlNiLXBDczRTczlvbXNRdVRlc1RNSlplTWkxQldSQzdpYkZmU3pPVGc1ZGx0RDV2QXE2dTI1X3hlenFJLVZyS1FNNjRYUWNYaVlicVJmdlNHZ2EzMW80Q1owSnRTbU1PSmVCVmZMZUd1azlEaU10a0M5VlJGNHNkbnE4Q1pxUXd5Nzl0UlhuQVV4Q3NCUW9JOGRFWVlvNFRsSmlUY0IwcHlib2NRWHdLdDBtV3VrTFpyRmV1blFwT1RFNzdCWkJoRXQyUm8?oc=5",
+"src": "Bankingnews",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2fc725e2b438",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T14:12:27Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -702,7 +722,8 @@
 "tone": "",
 "also": [
 "MarketWatch",
-"The Hill"
+"The Hill",
+"Seoul Economic Daily"
 ],
 "desc": "",
 "id": "d9957c43fdf3",

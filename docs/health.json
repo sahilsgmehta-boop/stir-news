@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T20:37:01Z",
+ "built": "2026-11-18T20:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -69,9 +69,9 @@
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing"
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019"
    ]
   },
   {
@@ -81,7 +81,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 59,
-   "added": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
+   "fetched": 71,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -123,9 +123,9 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 4,
-   "added": 0,
+   "fetched": 19,
+   "kept": 5,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
@@ -172,16 +172,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
-    "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada says scenarios help make monetary policy more effective",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Could another Bank of Canada rate hike hit in December? Why financial experts are divided",
     "Bank of Canada says public trust in 2% inflation target helps anchor expectations",
-    "Bank of Canada Governor Macklem to step down once term ends in 2027"
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027"
    ]
   },
   {
