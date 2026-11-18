@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T13:07:00Z",
+ "built": "2026-11-18T13:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 10,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 6,
+   "kept": 58,
+   "added": 3,
    "error": "",
    "near_misses": [
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
@@ -69,11 +69,11 @@
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
+    "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
-    "The Fed\u2019s new freedom to fight inflation",
-    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019"
+    "The Fed\u2019s new freedom to fight inflation"
    ]
   },
   {
@@ -82,18 +82,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
-   "added": 6,
+   "kept": 53,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed warns of growing financial risks from AI boom",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Says Tokenization Still Needs Traditional Payments",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring"
    ]
@@ -103,18 +103,18 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
+   "fetched": 56,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
-    "German Government Nominates Brunnermeier for ECB Board Seat",
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
     "German Cabinet Backs Brunnermeier as ECB Chief Economist",
+    "German Government Nominates Brunnermeier for ECB Board Seat",
     "Spain's de Cos moves closer to ECB top job with Germany's backing",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
     "Germany lines up Markus Brunnermeier for ECB chief economist role"
@@ -125,21 +125,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 8,
+   "fetched": 24,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
+    "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "The rush towards AI could prove costly for investors, ECB warns",
-    "ECB Highlights AI and Government Debt as Financial Stability Risks",
-    "ECB warns of market risks if AI boom stalls",
-    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job"
+    "ECB warns that tech companies will compete with states for financing",
+    "ECB Highlights AI and Government Debt as Financial Stability Risks"
    ]
   },
   {
@@ -147,21 +147,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 22,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "BOE sounds alarm over public trust in AI amid fears of it going rogue",
-    "Bank of England economist sounds a big warning over interest rates",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
+    "Bank of England economist sounds a big warning over interest rates",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes (model changes, recognition orders and variations of recognition orders)",
-    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
-    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions",
-    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement"
+    "Bank of England likely to raise interest rates further in 2027",
+    "BoE, in new statement on CPI data, says inflation to rise further",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England Hike Now Rests on Inflation Hitting 3.7%",
+    "Pound eases as UK inflation undershoots Bank of England forecast"
    ]
   },
   {

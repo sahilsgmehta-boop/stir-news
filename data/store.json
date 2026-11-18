@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T13:20:25Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed’s Waller warns inflation is worsening, floats 50-basis-point December hike",
+"url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmZIZmk0bDd4ZVNBU2VZTlF0MFJuVDFaWGZSM2xXcXdpY0lfb1RDcm81eHlwcU1VUkFSNk1FM01wMkg1Y1o3UndPQ0JBcTBpY3hrTTItZExUX19LWXR2aGt0ejNDU3RiX3paQXRaUUg2RVk0UHlxczhRaGV4Tk80YS1ndEZyTVBOUEZ5OWZ3ZTNETFU5LUtmZEVlNkNFOHY3UjdIZklpQnFiYk9RUDhKYlFSLWtjZFpJUE1qNWJwSlpRZGd2ckJVMTA0RGMxQkRhUVJBcVNPdHVPdlVIRlE?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "de3fd511c600",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T13:01:17Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -9,7 +29,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "bb71e1f9c673",
 "score": null,
@@ -32,6 +54,28 @@
 "also": [],
 "desc": "",
 "id": "d4741a41c7c4",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T12:52:48Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller calls for more aggressive action to break psychology that 3% inflation is the norm",
+"url": "https://investinglive.com/central-banks/fed-s-waller-calls-for-more-aggressive-action-to-break-psychology-that-3-inflation-is-the-norm/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [
+"investingLive"
+],
+"desc": "Fed Governor Waller is becoming increasingly concerned about the US inflation outlook, warning that price pressures are broadening beyond energy and that the Fed risks allowing higher inflation to become entrenched in consumers' and businesses' expectations. Waller argues that the central bank needs to take a more aggressive action to convince markets and the public that it remains committed to bringing inflation back to its 2% target. He highlighted that roughly 70% of components in the core services basket are currently experiencing inflation above 3%, suggesting that price pressures are no ",
+"id": "edf628dc3ed5",
 "score": null,
 "read": "",
 "sum": "",
