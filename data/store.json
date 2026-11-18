@@ -133,7 +133,9 @@
 "src": "marketscreener.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Bloomberg.com"
+],
 "desc": "",
 "id": "98b7e243f9ad",
 "score": -1,
