@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T20:22:01Z",
+ "built": "2026-11-18T20:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 11,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 56,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -66,12 +66,12 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
-    "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
+    "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
+    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019"
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing"
    ]
   },
   {
@@ -81,18 +81,18 @@
    "ok": true,
    "fetched": 100,
    "kept": 59,
-   "added": 3,
+   "added": 2,
    "error": "",
    "near_misses": [
+    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
     "Watch Warsh Is Closer to Waller on Fed Policy, Gopinath Says",
-    "'Almost all' Fed policymakers saw further interest rate hikes as likely",
+    "Traders Now See a 95% Chance the Fed Hikes Rates in December",
     "St. Louis Fed president says several rate hikes are likely to be needed before spring"
    ]
   },
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
+   "fetched": 72,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -167,7 +167,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 33,
    "kept": 2,
    "added": 0,
    "error": "",
