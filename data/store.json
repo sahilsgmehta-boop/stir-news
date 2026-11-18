@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T13:32:00Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed Gov. Waller Says 'Shock' Rate Hike May Be Needed",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamtrQ2tpTmJkVFRpZGkza1pybUNhc3ExQWtBSGVyWUVvTUxxRHA4a004WlBpc2VtWFZvZ2dGdjFqelMxUUdDaW5kSzdHS29Ma1F4QTBWTE5PeWphTGRqVjZBeGFGZXRPdEs1NWJxSzdIZUlGSW5vVXJoLVBRbGZLMlJvQVhfVTR1V3FSZ2w0YkNaaXZOWnpvSw?oc=5",
+"src": "Investor's Business Daily",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d9957c43fdf3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T13:20:25Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -14,6 +34,26 @@
 ],
 "desc": "",
 "id": "de3fd511c600",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T13:14:27Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed Governor Waller Pushes for 50bp Rate Hike",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVdweVlPSWktTG5WYUFrYnNZQndRTEVrVWlVWG9DVmNMNEprQVNrT1FPNlJPZVZYMHBKNFlBLWVROHBfVGRwWXMzY09tdTQ5NGszckJBaC11cW81MmVYQWNBWExJNWtKZlVvT1c5QlkzNDhjQl93cEpUQ0l6YWlNSjRrOA?oc=5",
+"src": "TheBull.com.au",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "24f571f36534",
 "score": null,
 "read": "",
 "sum": "",
@@ -136,7 +176,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Bloomberg.com"
+"Bloomberg.com",
+"The Edge Malaysia"
 ],
 "desc": "",
 "id": "07ff61495249",
