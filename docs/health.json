@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T08:22:00Z",
+ "built": "2026-11-18T08:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -75,19 +75,31 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 100,
+   "kept": 53,
+   "added": 4,
+   "error": "",
+   "near_misses": [
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "Top Fed official: AI boom could fuel more rate hikes in 2027",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
+    "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+    "Chicago Fed President: Persistent High Inflation Could Be \u2018Painful to Try to Get Rid Of\u2019",
+    "Fed Says Tokenization Still Needs Traditional Payments"
+   ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 14,
+   "fetched": 59,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -99,8 +111,8 @@
     "Nagel on ECB presidency: Not a yes, not a no",
     "Spain\u2019s de Cos moves closer to ECB top job with Germany\u2019s backing",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "Spain Hopes for Quick Deal on De Cos as Next ECB President"
+    "Spain Hopes for Quick Deal on De Cos as Next ECB President",
+    "Attending a Dinner in an Elegant Pantsuit - 2011-08-17 - Christine Lagarde's Power Dressing"
    ]
   },
   {
@@ -108,14 +120,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 16,
+   "fetched": 30,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB VP says AI, debt have become prominent stability risks",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
+    "ECB VP says AI, debt have become prominent stability risks",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns of market risks if AI boom stalls",
     "ECB warns AI risks now extend beyond valuations",
@@ -129,11 +141,23 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 27,
+   "kept": 2,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of England economist sounds a big warning over interest rates",
+    "The Bank of England\u2019s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+    "Bank of England raises rates for first time since 2023, warns another move likely",
+    "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+    "Statement of policy: The Bank of England\u2019s approach to rule permissions and waivers",
+    "Near-final Statement of Policy: The Bank of England\u2019s approach to permissions in relation to CCP rules",
+    "The Bank of England\u2019s approach to rule permissions and waivers: Policy statement",
+    "Near-final statement of policy: The Bank of England\u2019s approach to supervisory processes and margin permissions",
+    "Near-final statement of policy: The Bank of England\u2019s approach to tiering non-UK CCPs",
+    "Near-final statement of policy: The Bank of England\u2019s approach to comparable compliance permissions"
+   ]
   },
   {
    "id": "gn_boc",
@@ -291,11 +315,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": true,
-   "fetched": 10,
-   "kept": 7,
-   "added": 5,
-   "error": ""
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
   },
   {
    "id": "snb",
