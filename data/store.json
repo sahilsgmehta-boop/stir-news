@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T22:31:40Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB President Lagarde speaks next with the Euro under 1.1000",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0lwY1RuNjZQWXhpdnItd0oyNnFsaFpCWUdlMjhsTmg5TVlaWGZnWkplSGdfTkZXNjNFbmZMOGZJTHhsa2szVUdqUWdBVXZNSTc1LXQ1T193S1BUVzVFVE0wQUUwVkJhUXJ3ZjQ4TEdMODRRSXM5UGdVUzVLVTVoemwwN21zVE9yWFJXLVEzVEJPaTh0WTktdHFsYlNwZDd0QnVIQQ?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e9f5d2bb0e08",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T21:54:35Z",
 "bank": "Fed",
 "speaker": "Kashkari",
@@ -895,7 +915,8 @@
 "tone": "hawk",
 "also": [
 "Investing.com",
-"Yahoo Finance"
+"Yahoo Finance",
+"Kriptofoni"
 ],
 "desc": "",
 "id": "de3fd511c600",

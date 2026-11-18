@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T22:22:01Z",
+ "built": "2026-11-18T22:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,12 +61,12 @@
    "near_misses": [
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
+    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "The Fed's AI Bank Run Nightmare Is Suddenly Coming True",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
+    "The Fed's AI Bank Run Nightmare Is Suddenly Coming True",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb"
    ]
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -87,10 +87,10 @@
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Officials Expect Further Interest Rate Hikes After Pausing Last Month",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "investingLive Americas FX news wrap 18 Nov: Waller/Fed minutes put a bigger December hike in play"
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -98,9 +98,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 14,
-   "added": 0,
+   "fetched": 74,
+   "kept": 16,
+   "added": 1,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
@@ -134,7 +134,7 @@
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
-    "The ECB opens the door to euro stablecoins to lower the cost of international payments"
+    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey"
    ]
   },
   {
@@ -142,7 +142,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 24,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -154,7 +154,6 @@
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
     "Bank of England likely to raise interest rates further in 2027",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Pound eases as UK inflation undershoots Bank of England forecast",
     "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
    ]
@@ -164,11 +163,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 35,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
@@ -177,8 +177,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Bank of Canada says public trust in 2% inflation target helps anchor expectations",
-    "Bank of Canada official downplays need for more forward guidance on rate path",
-    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided"
+    "Bank of Canada official downplays need for more forward guidance on rate path"
    ]
   },
   {
