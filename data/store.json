@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-18T19:00:00Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+"url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+"src": "Federal Reserve monetary policy",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "dbea10a75a84",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T18:55:14Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr Expects Further Rate Increases Will Be Appropriate",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOW1TUW9JMmRBaU9kNzd3RGJuMFhHcl9LaGJ0bm5uQkZRd3dvZGh3ZUhyaUxSSHN1OEQ5M1ozd1poZU1uX3ljUlFSLVRhM3R6ek04NEtHb3FTeVdfX0dhMExpOUxRSjZ1WkRaZV8zYmpzalBodUwzc1V5NWpvdE1zVzdETTAyLXlNbVg1Vi04QXZmN2JxUURHekhDN1dFWlhYZ2p1bklVbFdMc1VFRW1iSnl5WHE?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9d2e2ce9be30",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T18:40:47Z",
 "bank": "Fed",
 "speaker": "Barr",
@@ -11,7 +51,8 @@
 "tone": "",
 "also": [
 "Yahoo Finance",
-"Investing.com"
+"Investing.com",
+"AOL.com"
 ],
 "desc": "",
 "id": "7a276609db79",
