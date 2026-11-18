@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T01:37:00Z",
+ "built": "2026-11-18T01:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 64,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -121,7 +121,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 34,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -143,8 +143,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 6,
+   "fetched": 31,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
