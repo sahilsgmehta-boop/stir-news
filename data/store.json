@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-18T15:00:00Z",
+"bank": "BoE",
+"speaker": "Bailey",
+"hl": "The UK’s Regional Growth: Unlocking the Economy’s Full Potential - speech by Andrew Bailey",
+"url": "https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-the-annual-institute-of-economic-development-conference-london",
+"src": "Bank of England speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Given at Institute of Economic Development Conference",
+"id": "2cf3216395cb",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T14:40:59Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB's President Lagarde: AI valuations stand to be corrected eventually",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVFQMTc2SGxsbU1Tcy1naW9WYjFGZzZGY3FtS0tyRHJ2TFRuWURiekl3VjJZRmtMMTd5WTRaQ2JzdDFIa1JzbFNCaEczR3FWYkFJWmtLYzRJTVY1c2pTU01pYk5ySW1FOGFSemoxSUVvWGJXdEJNUGc1NXJnS0ZnTU1MSmk3cWU0NnNETUlqekdXdUFW0gGaAUFVX3lxTE9NUk4xVUFTLTN2NHpCU1FuZTh0amIxNUVCWUQ5OUFJdWlTRlFCNmZxV0ZZM2k4TmY2TWR5OWlURzJPWDl2dWsxRVdNaTlvOG9LckdlQ3BROUVzNHpfWTBKdHBPNWMwdlJ2VEJpd1g3MEFXZHVudFRGLTNOc3NiVm1PblpFQTJCbVF4N0d0UmxkRkRHVjE5T1Zmbmc?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "48de93b8717e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T14:32:00Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -51,7 +91,8 @@
 "tone": "",
 "also": [
 "Bloomberg.com",
-"The Edge Malaysia"
+"The Edge Malaysia",
+"Yahoo Finance UK"
 ],
 "desc": "",
 "id": "7f935d5a95d7",
@@ -200,7 +241,8 @@
 "also": [
 "StreetInsider",
 "Reuters",
-"Mezha.net"
+"Mezha.net",
+"Investing.com"
 ],
 "desc": "",
 "id": "d4741a41c7c4",
@@ -290,6 +332,26 @@
 ],
 "desc": "",
 "id": "07ff61495249",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T12:12:00Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB’s Nagel: Further Tightening Possible, Sees No Wage-Price Spiral",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemFhSHpXeFAxaDRGdmdlLXQyQWFveEMta1pidHNOR0NBNUhwbFlBTWdxZ1JCbzZzUDI0em9VZ1hMMzFTbXkxVzVCN0JTdGs5dUlweDE4ZWsyWG9ON3huc0lkQ216cDB4N0FMMGpjMUZWU1ZYa0ZFYjlrM2h3cUY3dWxFMDlDaFBnX21Sem92TDNad0hEaGl2cDJpMEljWUN60gGmAUFVX3lxTE5OZHJqV3VqVDhRVlhHUzZ5YV9HZzN1cUNURmo0V2hybWNoRklEVGFYVU9UYWZ3d2RROTg1UWxOOEhiOHVYZHVoaTQ1VGdUWEFSdEJyY1VTcWhPXzdxTXBwVjVQNi0zNzE5ZnBIaHRBQ3o1bXB2QXhWZnd3OGZQVVFxTkhYUXc5X1Y4dTJVLXdCb25rS3MtcDA2ZEJ1YXFRTHh4YTJJd1E?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1a98ff0e2bd5",
 "score": null,
 "read": "",
 "sum": "",

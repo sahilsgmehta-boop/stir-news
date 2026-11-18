@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T14:52:00Z",
+ "built": "2026-11-18T15:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,12 +66,12 @@
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "The Fed's inflation headache",
-    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so",
-    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-    "The Fed\u2019s new freedom to fight inflation"
+    "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
+    "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets"
    ]
   },
   {
@@ -88,12 +88,12 @@
     "Fed may need to hike rates four times, says central bank official",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "AI could transform the economy, but the Fed is struggling to predict how",
-    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards",
-    "Fed warns of growing financial risks from AI boom"
+    "As Tokenized Payments Bring Risks, Fed Official Sees Familiar Safeguards"
    ]
   },
   {
@@ -101,19 +101,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
-   "kept": 7,
-   "added": 0,
+   "fetched": 60,
+   "kept": 9,
+   "added": 2,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
-    "German Government Nominates Brunnermeier for ECB Board Seat",
     "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
     "German Cabinet Backs Brunnermeier as ECB Chief Economist",
+    "German Government Nominates Brunnermeier for ECB Board Seat",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
     "Spain's de Cos moves closer to ECB top job with Germany's backing"
    ]
@@ -123,16 +123,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
-    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
-    "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
+    "ECB warns AI share boom could end in 'abrupt repricing'",
+    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
@@ -166,7 +166,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 59,
    "kept": 1,
    "added": 0,
    "error": "",
