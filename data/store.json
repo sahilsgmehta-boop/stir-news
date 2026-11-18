@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T16:28:03Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Waller Urges Bigger December Fed Rate Hike",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGx6cHE2SmFkOE1PSWlpeTJVLTRZR1huX3hWRVpBZDM3X1gwTlRtVm9vaFVKZW5nSTJ1cy00SDRtTTZsWFFYSFZ1bFJ5NC12RHhQTTJaalBUN3lOaDBCX0pNbVBaZkw3QkZFMWQyN285Vmdsa0F2ay0wQjIzaUxQei1RVDBsbEFLV1hnZ3hyZG1iQQ?oc=5",
+"src": "Briefs Finance",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b05c6b454b67",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T16:15:00Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -407,7 +427,8 @@
 "StreetInsider",
 "Reuters",
 "Mezha.net",
-"Investing.com"
+"Investing.com",
+"US News Money"
 ],
 "desc": "",
 "id": "d4741a41c7c4",
@@ -624,6 +645,26 @@
 "id": "5488a88d42dc",
 "score": 0,
 "read": "Cook's legal fight over her removal; no comment on rates or the economy.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T01:34:00Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Dollar higher as hawkish Waller backs aggressive Fed action",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3BnNkxnajFsX0xFNklvRnJ0OHJtQVR0Zk56aGhVN19YY0Z5aFRjMnVTb1pIakt6cHNXajVNalNrUmVUWWpZWjk1Ukh6T0RhY2ZTX2dLRTdpWTNlVU1vY1hGUl84SlIwcUNQcW51NzlzZDFoNHNiT3hiSHpfSl9ENUhtWWExWWxkT2ZYUUJ4WHdWWjVSOVpkQzZycmpaOXhnbm96Q0RWMmJLYnlkTDFJRFVWbGhqWXkydEE?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ff240fc97576",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
