@@ -1,0 +1,666 @@
+{
+  "total" : 4,
+  "skip" : 0,
+  "data" : [ {
+    "ids" : {
+      "uuid" : "58148cdb-e279-4e9c-8ad3-d2f7c58cd51f",
+      "damId" : 36970588,
+      "contentId" : 335150,
+      "languageCopyId" : 36970586,
+      "gnp" : "2026-0059"
+    },
+    "bfs" : {
+      "embargo" : "2026-11-03T07:30:00Z",
+      "lifecycle" : {
+        "id" : 900300,
+        "level" : 0,
+        "code" : "CURRENT",
+        "name" : "Diffundiert/aktuell"
+      },
+      "lifecycleGroup" : "CURRENT",
+      "provisional" : false,
+      "articleModel" : {
+        "id" : 900030,
+        "level" : 1,
+        "code" : "TABL",
+        "name" : "TM10 Tabelle Datei"
+      },
+      "articleModelGroup" : {
+        "id" : 900029,
+        "level" : 0,
+        "code" : "AMG_TABLE",
+        "name" : "Daten - Tabelle"
+      }
+    },
+    "description" : {
+      "titles" : {
+        "main" : "LIK, Totalindex auf allen Indexbasen  [INDEXIERUNGSTABELLEN]"
+      },
+      "categorization" : {
+        "collection" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "code" : "STAT_GEN",
+          "name" : "Allgemeine Statistik"
+        }, {
+          "id" : 900015,
+          "level" : 0,
+          "code" : "TAB_CC",
+          "name" : "Tab CC"
+        }, {
+          "id" : 900040,
+          "level" : 0,
+          "code" : "ODIN",
+          "name" : "ODIN"
+        }, {
+          "id" : 900041,
+          "level" : 0,
+          "code" : "KOF",
+          "name" : "KOF"
+        } ],
+        "prodima" : [ {
+          "id" : 900084,
+          "level" : 0,
+          "code" : "05",
+          "name" : "Preise"
+        }, {
+          "id" : 900086,
+          "level" : 1,
+          "code" : "05.02",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "inquiry" : [ {
+          "id" : 900002,
+          "level" : 0,
+          "name" : "Stichprobenerhebung"
+        }, {
+          "id" : 8,
+          "level" : 1,
+          "code" : "LIK",
+          "abbrev" : "LIK",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "spatialdivision" : [ {
+          "id" : 900091,
+          "level" : 0,
+          "code" : "p_suis",
+          "name" : "Schweiz"
+        }, {
+          "id" : 900001,
+          "level" : 1,
+          "code" : "suis",
+          "name" : "Schweiz"
+        } ],
+        "classification" : [ ],
+        "institution" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "name" : "Bundesamt für Statistik"
+        }, {
+          "id" : 900065,
+          "level" : 1,
+          "code" : "BFS",
+          "abbrev" : "BFS",
+          "name" : "Bundesamt für Statistik"
+        } ],
+        "publisher" : [ ],
+        "tags" : [ ],
+        "dataSource" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "name" : "Bundesamt für Statistik"
+        }, {
+          "id" : 900065,
+          "level" : 1,
+          "code" : "BFS",
+          "abbrev" : "BFS",
+          "name" : "Bundesamt für Statistik"
+        } ],
+        "copyrights" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "name" : "Bundesamt für Statistik"
+        }, {
+          "id" : 900065,
+          "level" : 1,
+          "code" : "BFS",
+          "abbrev" : "BFS",
+          "name" : "Bundesamt für Statistik"
+        } ],
+        "termsOfUse" : [ {
+          "id" : 900004,
+          "level" : 0,
+          "code" : "OPEN-BY",
+          "abbrev" : "Freie Nutzung - Quellenangabe ist Pflicht",
+          "name" : "Open use - Must provide the source"
+        } ],
+        "serie" : [ ],
+        "periodicity" : [ {
+          "id" : 900030,
+          "level" : 0,
+          "code" : "MONTHLY",
+          "name" : "Monatlich"
+        } ]
+      },
+      "bibliography" : {
+        "period" : "1.6.1914-31.10.2026"
+      },
+      "abstractShort" : "Dieses Dataset präsentiert die Daten des Landesindexes der Konsumentenpreise auf allen verfügbaren Indexbasen seit der Einführung 1914 und wird vom BFS für die Indexierung von Geldwerten empfohlen. Die Resultate werden in Form von monatlichen und jährlichen Indizes und Veränderungsraten dargestellt. Die Reihen werden monatlich mit dem Resultat für die abgeschlossene Periode ergänzt.",
+      "shortSummary" : {
+        "html" : "Dieses Dataset präsentiert die Daten des Landesindexes der Konsumentenpreise auf allen verfügbaren Indexbasen seit der Einführung 1914 und wird vom BFS für die Indexierung von Geldwerten empfohlen. Die Resultate werden in Form von monatlichen und jährlichen Indizes und Veränderungsraten dargestellt. Die Reihen werden monatlich mit dem Resultat für die abgeschlossene Periode ergänzt.",
+        "raw" : "Dieses Dataset präsentiert die Daten des Landesindexes der Konsumentenpreise auf allen verfügbaren Indexbasen seit der Einführung 1914 und wird vom BFS für die Indexierung von Geldwerten empfohlen. Die Resultate werden in Form von monatlichen und jährlichen Indizes und Veränderungsraten dargestellt. Die Reihen werden monatlich mit dem Resultat für die abgeschlossene Periode ergänzt."
+      },
+      "language" : "DE",
+      "highlight" : false,
+      "discontinued" : false,
+      "downloadable" : true
+    },
+    "shop" : {
+      "orderNr" : "cc-d-05.02.08",
+      "stock" : false
+    },
+    "links" : [ {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36970588",
+      "rel" : "self"
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36970588/master",
+      "rel" : "master",
+      "format" : "xlsx",
+      "size" : 119398
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36970588/thumbnail",
+      "rel" : "thumbnail"
+    }, {
+      "href" : "/de/daten-statistiken-verstehen/erhebungen/lik/revisionen",
+      "rel" : "related-factsheet-inquiry",
+      "text" : "Landesindex der Konsumentenpreise"
+    }, {
+      "href" : "/bfs/de/home/statistiken/preise.html",
+      "rel" : "related-theme-entrypage",
+      "text" : "Preise"
+    } ]
+  }, {
+    "ids" : {
+      "uuid" : "f2b2f42b-fc46-479b-ad91-10abb16c728a",
+      "damId" : 15284636,
+      "contentId" : 335150,
+      "languageCopyId" : 15284617,
+      "gnp" : "2021-0055"
+    },
+    "bfs" : {
+      "embargo" : "2021-01-05T07:30:00Z",
+      "lifecycle" : {
+        "id" : 900400,
+        "level" : 0,
+        "code" : "OLD",
+        "name" : "Diffundiert/alt  Letzt jüngere Instanz des Assets"
+      },
+      "lifecycleGroup" : "NON_CURRENT",
+      "provisional" : false,
+      "articleModel" : {
+        "id" : 900030,
+        "level" : 1,
+        "code" : "TABL",
+        "name" : "TM10 Tabelle Datei"
+      },
+      "articleModelGroup" : {
+        "id" : 900029,
+        "level" : 0,
+        "code" : "AMG_TABLE",
+        "name" : "Daten - Tabelle"
+      }
+    },
+    "description" : {
+      "titles" : {
+        "main" : "LIK, Totalindex auf allen Indexbasen  [INDEXIERUNGSTABELLEN]"
+      },
+      "categorization" : {
+        "collection" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "code" : "STAT_GEN",
+          "name" : "Allgemeine Statistik"
+        }, {
+          "id" : 900015,
+          "level" : 0,
+          "code" : "TAB_CC",
+          "name" : "Tab CC"
+        }, {
+          "id" : 900040,
+          "level" : 0,
+          "code" : "ODIN",
+          "name" : "ODIN"
+        } ],
+        "prodima" : [ {
+          "id" : 900084,
+          "level" : 0,
+          "code" : "05",
+          "name" : "Preise"
+        }, {
+          "id" : 900086,
+          "level" : 1,
+          "code" : "05.02",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "inquiry" : [ {
+          "id" : 900002,
+          "level" : 0,
+          "name" : "Stichprobenerhebung"
+        }, {
+          "id" : 8,
+          "level" : 1,
+          "code" : "LIK",
+          "abbrev" : "LIK",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "spatialdivision" : [ {
+          "id" : 900091,
+          "level" : 0,
+          "code" : "p_suis",
+          "name" : "Schweiz"
+        }, {
+          "id" : 900001,
+          "level" : 1,
+          "code" : "suis",
+          "name" : "Schweiz"
+        } ],
+        "classification" : [ ],
+        "institution" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "name" : "Bundesamt für Statistik"
+        }, {
+          "id" : 900065,
+          "level" : 1,
+          "code" : "BFS",
+          "abbrev" : "BFS",
+          "name" : "Bundesamt für Statistik"
+        } ],
+        "publisher" : [ ],
+        "tags" : [ {
+          "id" : 900051,
+          "level" : 0,
+          "code" : "ODIN",
+          "name" : "ODIN Open Data Inventory"
+        } ],
+        "dataSource" : [ ],
+        "copyrights" : [ ],
+        "termsOfUse" : [ {
+          "id" : 900004,
+          "level" : 0,
+          "code" : "OPEN-BY",
+          "abbrev" : "Freie Nutzung - Quellenangabe ist Pflicht",
+          "name" : "Open use - Must provide the source"
+        } ],
+        "serie" : [ ],
+        "periodicity" : [ ]
+      },
+      "bibliography" : {
+        "period" : "1914-2020"
+      },
+      "language" : "DE",
+      "highlight" : false,
+      "discontinued" : false,
+      "downloadable" : true
+    },
+    "shop" : {
+      "orderNr" : "cc-d-05.02.08",
+      "stock" : false
+    },
+    "links" : [ {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/15284636",
+      "rel" : "self"
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/15284636/master",
+      "rel" : "master",
+      "format" : "xlsx",
+      "size" : 109115
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/15284636/thumbnail",
+      "rel" : "thumbnail"
+    }, {
+      "href" : "/de/daten-statistiken-verstehen/erhebungen/lik/revisionen",
+      "rel" : "related-factsheet-inquiry",
+      "text" : "Landesindex der Konsumentenpreise"
+    }, {
+      "href" : "/bfs/de/home/statistiken/preise.html",
+      "rel" : "related-theme-entrypage",
+      "text" : "Preise"
+    } ]
+  }, {
+    "ids" : {
+      "uuid" : "499efc75-b48d-45ba-b0fe-c06e7538dae8",
+      "damId" : 12427188,
+      "contentId" : 335150,
+      "languageCopyId" : 12427162,
+      "gnp" : "2020-0402"
+    },
+    "bfs" : {
+      "embargo" : "2020-04-02T06:30:00Z",
+      "lifecycle" : {
+        "id" : 900400,
+        "level" : 0,
+        "code" : "OLD",
+        "name" : "Diffundiert/alt  Letzt jüngere Instanz des Assets"
+      },
+      "lifecycleGroup" : "NON_CURRENT",
+      "provisional" : false,
+      "articleModel" : {
+        "id" : 900030,
+        "level" : 1,
+        "code" : "TABL",
+        "name" : "TM10 Tabelle Datei"
+      },
+      "articleModelGroup" : {
+        "id" : 900029,
+        "level" : 0,
+        "code" : "AMG_TABLE",
+        "name" : "Daten - Tabelle"
+      }
+    },
+    "description" : {
+      "titles" : {
+        "main" : "LIK, Totalindex auf allen Indexbasen  [INDEXIERUNGSTABELLEN]"
+      },
+      "categorization" : {
+        "collection" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "code" : "STAT_GEN",
+          "name" : "Allgemeine Statistik"
+        }, {
+          "id" : 900015,
+          "level" : 0,
+          "code" : "TAB_CC",
+          "name" : "Tab CC"
+        }, {
+          "id" : 900040,
+          "level" : 0,
+          "code" : "ODIN",
+          "name" : "ODIN"
+        } ],
+        "prodima" : [ {
+          "id" : 900084,
+          "level" : 0,
+          "code" : "05",
+          "name" : "Preise"
+        }, {
+          "id" : 900086,
+          "level" : 1,
+          "code" : "05.02",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "inquiry" : [ {
+          "id" : 900002,
+          "level" : 0,
+          "name" : "Stichprobenerhebung"
+        }, {
+          "id" : 8,
+          "level" : 1,
+          "code" : "LIK",
+          "abbrev" : "LIK",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "spatialdivision" : [ {
+          "id" : 900091,
+          "level" : 0,
+          "code" : "p_suis",
+          "name" : "Schweiz"
+        }, {
+          "id" : 900001,
+          "level" : 1,
+          "code" : "suis",
+          "name" : "Schweiz"
+        } ],
+        "classification" : [ ],
+        "institution" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "name" : "Bundesamt für Statistik"
+        }, {
+          "id" : 900065,
+          "level" : 1,
+          "code" : "BFS",
+          "abbrev" : "BFS",
+          "name" : "Bundesamt für Statistik"
+        } ],
+        "publisher" : [ ],
+        "tags" : [ {
+          "id" : 900051,
+          "level" : 0,
+          "code" : "ODIN",
+          "name" : "ODIN Open Data Inventory"
+        } ],
+        "dataSource" : [ ],
+        "copyrights" : [ ],
+        "termsOfUse" : [ {
+          "id" : 900004,
+          "level" : 0,
+          "code" : "OPEN-BY",
+          "abbrev" : "Freie Nutzung - Quellenangabe ist Pflicht",
+          "name" : "Open use - Must provide the source"
+        } ],
+        "serie" : [ ],
+        "periodicity" : [ ]
+      },
+      "bibliography" : {
+        "period" : "1.3.2020-31.3.2020"
+      },
+      "language" : "DE",
+      "highlight" : false,
+      "discontinued" : false,
+      "downloadable" : true
+    },
+    "shop" : {
+      "orderNr" : "cc-d-05.02.08",
+      "stock" : false
+    },
+    "links" : [ {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12427188",
+      "rel" : "self"
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12427188/master",
+      "rel" : "master",
+      "format" : "xlsx",
+      "size" : 141485
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12427188/thumbnail",
+      "rel" : "thumbnail"
+    }, {
+      "href" : "/de/daten-statistiken-verstehen/erhebungen/lik/revisionen",
+      "rel" : "related-factsheet-inquiry",
+      "text" : "Landesindex der Konsumentenpreise"
+    }, {
+      "href" : "/bfs/de/home/statistiken/preise.html",
+      "rel" : "related-theme-entrypage",
+      "text" : "Preise"
+    } ]
+  }, {
+    "ids" : {
+      "uuid" : "01c9dc0f-91f5-4d27-a252-6c811dfafb45",
+      "damId" : 12107710,
+      "contentId" : 335150,
+      "languageCopyId" : 12107691,
+      "gnp" : "2020-0401"
+    },
+    "bfs" : {
+      "embargo" : "2020-03-04T07:30:00Z",
+      "lifecycle" : {
+        "id" : 900400,
+        "level" : 0,
+        "code" : "OLD",
+        "name" : "Diffundiert/alt  Letzt jüngere Instanz des Assets"
+      },
+      "lifecycleGroup" : "NON_CURRENT",
+      "provisional" : false,
+      "articleModel" : {
+        "id" : 900030,
+        "level" : 1,
+        "code" : "TABL",
+        "name" : "TM10 Tabelle Datei"
+      },
+      "articleModelGroup" : {
+        "id" : 900029,
+        "level" : 0,
+        "code" : "AMG_TABLE",
+        "name" : "Daten - Tabelle"
+      }
+    },
+    "description" : {
+      "titles" : {
+        "main" : "LIK, Totalindex auf allen Indexbasen  [INDEXIERUNGSTABELLEN]"
+      },
+      "categorization" : {
+        "collection" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "code" : "STAT_GEN",
+          "name" : "Allgemeine Statistik"
+        }, {
+          "id" : 900015,
+          "level" : 0,
+          "code" : "TAB_CC",
+          "name" : "Tab CC"
+        }, {
+          "id" : 900040,
+          "level" : 0,
+          "code" : "ODIN",
+          "name" : "ODIN"
+        } ],
+        "prodima" : [ {
+          "id" : 900084,
+          "level" : 0,
+          "code" : "05",
+          "name" : "Preise"
+        }, {
+          "id" : 900086,
+          "level" : 1,
+          "code" : "05.02",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "inquiry" : [ {
+          "id" : 900002,
+          "level" : 0,
+          "name" : "Stichprobenerhebung"
+        }, {
+          "id" : 8,
+          "level" : 1,
+          "code" : "LIK",
+          "abbrev" : "LIK",
+          "name" : "Landesindex der Konsumentenpreise"
+        } ],
+        "spatialdivision" : [ {
+          "id" : 900091,
+          "level" : 0,
+          "code" : "p_suis",
+          "name" : "Schweiz"
+        }, {
+          "id" : 900001,
+          "level" : 1,
+          "code" : "suis",
+          "name" : "Schweiz"
+        } ],
+        "classification" : [ ],
+        "institution" : [ {
+          "id" : 900001,
+          "level" : 0,
+          "name" : "Bundesamt für Statistik"
+        }, {
+          "id" : 900065,
+          "level" : 1,
+          "code" : "BFS",
+          "abbrev" : "BFS",
+          "name" : "Bundesamt für Statistik"
+        } ],
+        "publisher" : [ ],
+        "tags" : [ {
+          "id" : 900051,
+          "level" : 0,
+          "code" : "ODIN",
+          "name" : "ODIN Open Data Inventory"
+        } ],
+        "dataSource" : [ ],
+        "copyrights" : [ ],
+        "termsOfUse" : [ {
+          "id" : 900004,
+          "level" : 0,
+          "code" : "OPEN-BY",
+          "abbrev" : "Freie Nutzung - Quellenangabe ist Pflicht",
+          "name" : "Open use - Must provide the source"
+        } ],
+        "serie" : [ ],
+        "periodicity" : [ ]
+      },
+      "bibliography" : {
+        "period" : "1.1.1914-29.2.2020"
+      },
+      "language" : "DE",
+      "highlight" : false,
+      "discontinued" : false,
+      "downloadable" : true
+    },
+    "shop" : {
+      "orderNr" : "cc-d-05.02.08",
+      "stock" : false
+    },
+    "links" : [ {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12107710",
+      "rel" : "self"
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12107710/master",
+      "rel" : "master",
+      "format" : "xlsx",
+      "size" : 141353
+    }, {
+      "href" : "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12107710/thumbnail",
+      "rel" : "thumbnail"
+    }, {
+      "href" : "/de/daten-statistiken-verstehen/erhebungen/lik/revisionen",
+      "rel" : "related-factsheet-inquiry",
+      "text" : "Landesindex der Konsumentenpreise"
+    }, {
+      "href" : "/bfs/de/home/statistiken/preise.html",
+      "rel" : "related-theme-entrypage",
+      "text" : "Preise"
+    } ]
+  } ],
+  "_embedded" : {
+    "labels" : {
+      "asset.bfs.embargo" : "Veröffentlicht am",
+      "asset.bfs.lastupdated" : "Letzte Aktualisierung",
+      "asset.bfs.model.name" : "Typ",
+      "asset.bfs.originalembargo" : "Ursprüngliches Publikationsdatum",
+      "asset.bfs.provisional" : "Datenstand",
+      "asset.bfs.status" : "Status",
+      "asset.content.format" : "Format",
+      "asset.content.href" : "Anhang",
+      "asset.description.abstractShort" : "Zusammenfassung",
+      "asset.description.bibliography.author" : "Autor(en)",
+      "asset.description.bibliography.copyright" : "Copyright",
+      "asset.description.bibliography.doi" : "Persistenter Link",
+      "asset.description.bibliography.info" : "Bibliographische Angaben",
+      "asset.description.bibliography.pages" : "Seiten",
+      "asset.description.bibliography.period" : "Dargestellter Zeitraum",
+      "asset.description.bibliography.source" : "Quelle(n)",
+      "asset.description.bibliography.termsofuse" : "Nutzungsbedingungen",
+      "asset.description.categorization.classification" : "Nomenklatur(en)",
+      "asset.description.categorization.geography" : "Raumgliederung",
+      "asset.description.categorization.inquiry" : "Erhebung, Statistik",
+      "asset.description.categorization.institution" : "Herausgeber",
+      "asset.description.categorization.keyword" : "Schlagworte",
+      "asset.description.categorization.periodicity" : "Periodizität",
+      "asset.description.categorization.prodima" : "Thema",
+      "asset.description.categorization.publisher" : "Verlag",
+      "asset.description.categorization.serie" : "Reihe",
+      "asset.description.categorization.tags" : "Tags",
+      "asset.description.language" : "Sprache",
+      "asset.descriptions.title.main" : "Titel",
+      "asset.shop.ordernr" : "BFS-Nummer",
+      "asset.shop.price" : "Preis",
+      "link.rel.appendix" : "Zusätzliche Daten",
+      "links.rel.mostrecentissue" : "Aktuellste Ausgabe",
+      "links.rel.otherlanguages" : "Weitere Sprachen",
+      "links.rel.relateddocuments" : "Verwandte Dokumente"
+    }
+  }
+}
