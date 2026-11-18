@@ -31,7 +31,9 @@
 "src": "MS NOW",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"AOL.com"
+],
 "desc": "",
 "id": "6cd552f745c9",
 "score": null,
@@ -1282,7 +1284,8 @@
 "SRN News",
 "The Lufkin Daily News",
 "WTVB",
-"The Star"
+"The Star",
+"KLSE Screener"
 ],
 "desc": "",
 "id": "74f4647473f7",
