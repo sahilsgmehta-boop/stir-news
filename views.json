@@ -1,5 +1,5 @@
 {
- "_about": "Cheat sheet of each policymaker's stated rate views, for the Summary on the dashboard's CB commentary page. Written by the scheduled labelling task (and by hand); keyed 'Bank|Name' as in speakers.json. Only what the person has actually said, paraphrased; leave a field empty rather than guess. Fields: votes {year: true/false} for yearly rotations (Fed), or {\"YYYY-MM-DD\": true/false} per meeting where the vote rotates meeting by meeting (ECB governors) - a meeting date wins over a year; stance hawk|lean hawk|centre|lean dove|dove (their own rate view, not market impact); next / following {call, note} for the next two rate-setting meetings - call is one of '+50', '+25 or +50', '+25', 'hold or +25', 'hold', '-25', 'open', '' (no view given); path {total, by, note} = the total move they want from here and by when, if they said; view = 1-2 sentences on their view of rates now; shift = how their view has changed recently; last = date of their last remark on rates (YYYY-MM-DD), ev = where; basis verbatim|reports; conf high|medium|low = how clearly they have said it; asof = when this entry was last reviewed.",
+ "_about": "Cheat sheet of each policymaker's stated rate views, for the Summary on the dashboard's CB commentary page. Written by the scheduled labelling task (and by hand); keyed 'Bank|Name' as in speakers.json. Only what the person has actually said, paraphrased; leave a field empty rather than guess. Fields: votes {year: true/false} for yearly rotations (Fed), or {\"YYYY-MM-DD\": true/false} per meeting where the vote rotates meeting by meeting (ECB governors) - a meeting date wins over a year; stance hawk|lean hawk|centre|lean dove|dove (their own rate view, not market impact); next / following {call, note} for the next two rate-setting meetings - call is one of '+50', '+25 or +50', '+25', 'hike' (wants a hike, size not said), 'hold or +25', 'hold', '-25', 'open', '' (no view given); how = 'said' (they named this meeting or the move), 'implied' (follows from what they said, e.g. 'more hikes soon' or 'at least two more', without naming the meeting), or 'vote' (from their latest vote or minutes explanation); path {total, by, note} = the total move they want from here and by when, if they said; view = 1-2 sentences on their view of rates now; shift = how their view has changed recently; last = date of their last remark on rates (YYYY-MM-DD), ev = where; basis verbatim|reports; conf high|medium|low = how clearly they have said it; asof = when this entry was last reviewed.",
  "banks": {
   "Fed": {
    "rate": "3.75-4.00%",
@@ -84,11 +84,13 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "Gives no forward guidance; did not push back on December hike pricing at the Oct 28 press conference."
+    "note": "Gives no forward guidance; did not push back on December hike pricing at the Oct 28 press conference.",
+    "how": "said"
    },
    "following": {
     "call": "open",
-    "note": ""
+    "note": "",
+    "how": "said"
    },
    "path": {
     "total": "",
@@ -111,7 +113,8 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "Inflation will set his next move; adjustments decided by careful reading of the data. No size or timing given."
+    "note": "Inflation will set his next move; adjustments decided by careful reading of the data. No size or timing given.",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -138,7 +141,8 @@
    "stance": "lean dove",
    "next": {
     "call": "open",
-    "note": "Not committed: will look at October PCE and November payrolls first; wants more information on the effect of the September hike."
+    "note": "Not committed: will look at October PCE and November payrolls first; wants more information on the effect of the September hike.",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -165,11 +169,13 @@
    "stance": "hawk",
    "next": {
     "call": "+50",
-    "note": "Nov 18: the Fed should hike 50bp in December or signal faster increases; may need to 'shock' expectations. (Nov 10: 25bp base case, 50bp if October core CPI ran hot - it did.)"
+    "note": "Nov 18: the Fed should hike 50bp in December, or else hike 25bp and signal faster increases; says a 'shock' may be needed. (Nov 10: 25bp base case, 50bp if October core CPI ran hot - it did.)",
+    "how": "said"
    },
    "following": {
-    "call": "+25 or +50",
-    "note": "Wants a faster pace than 25bp a meeting if December is only 25."
+    "call": "+25",
+    "note": "Not named. Implied by wanting faster hikes and 75-100bp or more in total.",
+    "how": "implied"
    },
    "path": {
     "total": "+75 to +100bp or more",
@@ -192,7 +198,8 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "Dissented on Oct 28 in favour of a 25bp hike; no rate remarks since."
+    "note": "Dissented on Oct 28 for a 25bp hike; no rate remarks since.",
+    "how": "vote"
    },
    "following": {
     "call": "",
@@ -273,11 +280,13 @@
    "stance": "centre",
    "next": {
     "call": "+25",
-    "note": "More hikes likely needed, but no need for 'dramatic action': rules out a jumbo (50bp) move in December."
+    "note": "Ruled out a jumbo (50bp) move for December and says more hikes are likely needed, implying 25bp.",
+    "how": "implied"
    },
    "following": {
     "call": "open",
-    "note": "Gradual, data-led steps 'over time'."
+    "note": "Gradual, data-led steps 'over time'.",
+    "how": "said"
    },
    "path": {
     "total": "more hikes, gradually",
@@ -300,11 +309,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "Prefers small, steady 25bp steps over larger moves; dissented for a hike on Oct 28."
+    "note": "Says more hikes are needed in small, steady 25bp steps and dissented for a hike in October; has not named December.",
+    "how": "implied"
    },
    "following": {
     "call": "+25",
-    "note": "'Gradual' read as a hike every meeting; flags that bigger moves could become necessary."
+    "note": "'Gradual' read (by investingLive) as a hike every meeting; she flags bigger moves could become necessary.",
+    "how": "implied"
    },
    "path": {
     "total": "open",
@@ -327,11 +338,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "At least two more 25bp hikes needed; the pace could be quicker this winter than in the fall."
+    "note": "At least two more 25bp hikes needed, possibly faster this winter (Nov 10); December not named.",
+    "how": "implied"
    },
    "following": {
     "call": "+25",
-    "note": "Second of the 'at least two' hikes; skipping a meeting doesn't change the destination."
+    "note": "The second of the 'at least two' hikes, if they come back to back; not named.",
+    "how": "implied"
    },
    "path": {
     "total": "+50bp at least",
@@ -354,7 +367,8 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Pencilled in one more hike in 2026 (as of late September)."
+    "note": "Pencilled in one more hike in 2026 (late September); December is the only meeting left.",
+    "how": "implied"
    },
    "following": {
     "call": "",
@@ -381,11 +395,13 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Further gradual tightening seems appropriate."
+    "note": "Further gradual tightening 'seems appropriate'; no meeting or size named.",
+    "how": "implied"
    },
    "following": {
-    "call": "+25",
-    "note": "Gradual follow-up; would move faster if expectations drift up, wage pressures build or underlying inflation rises."
+    "call": "",
+    "note": "Gradual; would move faster if expectations, wages or underlying inflation rise. No meeting named.",
+    "how": ""
    },
    "path": {
     "total": "",
@@ -407,12 +423,14 @@
    },
    "stance": "hawk",
    "next": {
-    "call": "+25",
-    "note": "Backs tightening but declined to prejudge the size; no call for 50bp."
+    "call": "hike",
+    "note": "Wants more tightening and says hikes may need to be aggressive up front, but declined to prejudge size or timing.",
+    "how": "implied"
    },
    "following": {
     "call": "open",
-    "note": "Central bankers must be 'aggressive up front'; stubborn inflation could force more aggressive hikes."
+    "note": "Not prejudging; stubborn inflation could force more aggressive hikes.",
+    "how": "said"
    },
    "path": {
     "total": "open",
@@ -435,7 +453,8 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "No base case for December."
+    "note": "No base case for December.",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -461,12 +480,14 @@
    },
    "stance": "lean hawk",
    "next": {
-    "call": "+25",
-    "note": "'In all likelihood' rates need to rise; did not call for 50bp."
+    "call": "open",
+    "note": "Rates 'in all likelihood' need to rise, but how much and when is 'not a decision for right now'.",
+    "how": "said"
    },
    "following": {
     "call": "",
-    "note": "How much and when is not a decision for now."
+    "note": "",
+    "how": ""
    },
    "path": {
     "total": "",
@@ -489,11 +510,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "Backs the December hike; acting sooner is less costly."
+    "note": "Hike needed 'soon' (Oct 30) and several before spring 2027; no size named for December.",
+    "how": "implied"
    },
    "following": {
     "call": "+25",
-    "note": "Several hikes needed before spring 2027."
+    "note": "Several hikes needed before spring 2027 implies January or March too; not named.",
+    "how": "implied"
    },
    "path": {
     "total": "+100bp, up to +150bp",
@@ -515,12 +538,14 @@
    },
    "stance": "hawk",
    "next": {
-    "call": "+25",
-    "note": "Backs the hike priced for December."
+    "call": "hike",
+    "note": "Calls for tighter policy and sees policy as accommodative; no meeting or size named.",
+    "how": "implied"
    },
    "following": {
     "call": "",
-    "note": "Leans against an early-2027 pause."
+    "note": "Leans against an early-2027 pause; no meeting named.",
+    "how": ""
    },
    "path": {
     "total": "more than one hike",
@@ -543,11 +568,13 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Some additional tightening warranted 'soon'; cool on a 50bp move - prefers careful adjustment."
+    "note": "Additional tightening warranted 'soon'; asked about 50bp she stressed careful adjustment, implying 25bp.",
+    "how": "implied"
    },
    "following": {
-    "call": "+25",
-    "note": "Steady, gradual hikes."
+    "call": "",
+    "note": "Steady, gradual hikes; no meeting named.",
+    "how": ""
    },
    "path": {
     "total": "",
@@ -597,7 +624,8 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "Inflation will stay high over the coming quarters but she sees little reason to change course; no commitment on December (Nov 7-9)."
+    "note": "Inflation will stay high over the coming quarters but she sees little reason to change course; no commitment on December (Nov 7-9).",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -624,11 +652,13 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "December hike looks 'very likely' (Nov 18)."
+    "note": "December hike looks 'very likely' (Nov 18); 25bp is the ECB's usual step.",
+    "how": "said"
    },
    "following": {
     "call": "open",
-    "note": ""
+    "note": "",
+    "how": "said"
    },
    "path": {
     "total": "more in 2027",
@@ -651,11 +681,13 @@
    "stance": "centre",
    "next": {
     "call": "+25",
-    "note": "A December hike is prudent if the data don't shift (Nov 10-11)."
+    "note": "A December hike is prudent if the data don't shift (Nov 10-11); conditional.",
+    "how": "said"
    },
    "following": {
     "call": "open",
-    "note": "Sets a very high bar for directional guidance; depends on wage and price spillovers."
+    "note": "Sets a very high bar for directional guidance; depends on wage and price spillovers.",
+    "how": "said"
    },
    "path": {
     "total": "",
@@ -758,11 +790,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "A December hike looks 'rather obvious' (Nov 10); very likely necessary."
+    "note": "A December hike looks 'rather obvious' (Nov 10); 'very likely necessary' (Nov 3).",
+    "how": "said"
    },
    "following": {
     "call": "open",
-    "note": "Further tightening possible after December; another hike 'highly probable' (Nov 13-18)."
+    "note": "Further tightening possible after December; another hike 'highly probable' (Nov 13-18).",
+    "how": "said"
    },
    "path": {
     "total": "more than one hike possible",
@@ -784,7 +818,8 @@
    "stance": "lean hawk",
    "next": {
     "call": "open",
-    "note": "Further increases could prove necessary, calibrated gradually given higher bond yields (Oct 30)."
+    "note": "Further increases could prove necessary, calibrated gradually given higher bond yields (Oct 30).",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -836,7 +871,8 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "Calls the rates outlook highly complex; no direction on December (Nov 2)."
+    "note": "Calls the rates outlook highly complex; no direction on December (Nov 2).",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -862,11 +898,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "A December hike is likely; further tightening is necessary (Nov 12)."
+    "note": "A December hike is likely; further tightening necessary (Nov 12).",
+    "how": "said"
    },
    "following": {
     "call": "open",
-    "note": "Judgements on further hikes are getting 'more nuanced' (Nov 10)."
+    "note": "Judgements on further hikes are getting 'more nuanced' (Nov 10).",
+    "how": "said"
    },
    "path": {
     "total": "",
@@ -888,11 +926,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "A December hike is his central scenario."
+    "note": "A December hike is his central scenario (Nov 16).",
+    "how": "said"
    },
    "following": {
     "call": "open",
-    "note": ""
+    "note": "",
+    "how": "said"
    },
    "path": {
     "total": "more in 2027 possible",
@@ -914,7 +954,8 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Seriously considered voting for a hike in October; upside risks to inflation remain."
+    "note": "Seriously considered voting for a hike in October and says upside risks remain; has not named December.",
+    "how": "implied"
    },
    "following": {
     "call": "",
@@ -939,8 +980,9 @@
    },
    "stance": "lean hawk",
    "next": {
-    "call": "+25",
-    "note": "The ECB will have to hike if the situation does not improve soon (Oct 30)."
+    "call": "hold or +25",
+    "note": "The ECB will have to hike if the situation does not improve soon (Oct 30): conditional.",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -966,7 +1008,8 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Sees a 'rather big chance' of a December hike (Nov 5)."
+    "note": "Sees a 'rather big chance' of a December hike (Nov 5).",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -1175,11 +1218,13 @@
    "stance": "centre",
    "next": {
     "call": "+25",
-    "note": "Would consider a further hike without softening news; a second hike is 'more likely than not' if the war goes on."
+    "note": "A second hike is 'more likely than not' if the war goes on (Nov 5); more hikes needed if the conflict lasts (Nov 18). Conditional on the war, which is continuing.",
+    "how": "implied"
    },
    "following": {
     "call": "open",
-    "note": "Conditional, meeting by meeting."
+    "note": "Conditional, meeting by meeting.",
+    "how": "said"
    },
    "path": {
     "total": "",
@@ -1202,7 +1247,8 @@
    "stance": "hawk",
    "next": {
     "call": "+25 or +50",
-    "note": "Voted for 50bp on Nov 5 for risk management and credibility; no remarks since."
+    "note": "Voted for 50bp on Nov 5 for risk management and credibility; no remarks since, so her December view is inferred from that vote.",
+    "how": "vote"
    },
    "following": {
     "call": "",
@@ -1229,11 +1275,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "One 25bp hike is unlikely to be enough; very low chance the conflict ends soon, so more near-term tightening is probably needed."
+    "note": "One 25bp hike unlikely to be enough, more near-term tightening probably needed; sees a very low chance the war ends soon.",
+    "how": "implied"
    },
    "following": {
     "call": "open",
-    "note": "Later moves depend on evidence of persistence in pay and pricing."
+    "note": "Later moves depend on evidence of persistence in pay and pricing.",
+    "how": "said"
    },
    "path": {
     "total": "~90bp, in line with market pricing",
@@ -1256,11 +1304,13 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "Additional hikes will likely be required; tighten proactively rather than wait for second-round effects."
+    "note": "Additional hikes will likely be required; tighten proactively. December not named.",
+    "how": "implied"
    },
    "following": {
-    "call": "+25",
-    "note": "Proactive tightening against pay growth stuck around 3.5%."
+    "call": "",
+    "note": "Proactive tightening against sticky pay growth; no meeting named.",
+    "how": ""
    },
    "path": {
     "total": "",
@@ -1283,11 +1333,13 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Likely case for a further near-term increase unless inflation pressure weakens."
+    "note": "Likely case for a further near-term increase unless inflation pressure weakens (minutes, Nov 10 speech); told the Guardian she does not rule out December.",
+    "how": "implied"
    },
    "following": {
     "call": "open",
-    "note": "Later rates conditional on the economy and energy."
+    "note": "Later rates conditional on the economy and energy.",
+    "how": "said"
    },
    "path": {
     "total": "",
@@ -1310,7 +1362,8 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "Expects more tightening if energy prices stay high, but financial conditions are restrictive enough for now (Nov minutes)."
+    "note": "Expects more tightening if energy prices stay high, but financial conditions are restrictive enough for now (Nov minutes).",
+    "how": "vote"
    },
    "following": {
     "call": "",
@@ -1337,7 +1390,8 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "No commitment to further hikes; less confident disinflation will continue and sees second-round risks rising (Nov minutes)."
+    "note": "No commitment to further hikes; less confident disinflation will continue and sees second-round risks rising (Nov minutes).",
+    "how": "vote"
    },
    "following": {
     "call": "",
@@ -1364,7 +1418,8 @@
    "stance": "lean dove",
    "next": {
     "call": "open",
-    "note": "Would need clear evidence of recovering pricing power and wage-price pressure before keeping rates high for longer."
+    "note": "Would need clear evidence of recovering pricing power and wage-price pressure before keeping rates high for longer.",
+    "how": "vote"
    },
    "following": {
     "call": "",
@@ -1391,7 +1446,8 @@
    "stance": "dove",
    "next": {
     "call": "open",
-    "note": "Called November a 'one-for-now' insurance hike, not the start of a cycle; next move could be up, down or sideways."
+    "note": "Called November a 'one-for-now' insurance hike, not the start of a cycle; next move could be up, down or sideways.",
+    "how": "vote"
    },
    "following": {
     "call": "",
@@ -1418,7 +1474,8 @@
    "stance": "lean hawk",
    "next": {
     "call": "hold or +25",
-    "note": "There could be a need to raise the rate further, but the Bank will proceed carefully, one meeting at a time."
+    "note": "There could be a need to raise the rate further, but the Bank will proceed carefully, one meeting at a time.",
+    "how": "said"
    },
    "following": {
     "call": "",
@@ -1580,7 +1637,8 @@
    "stance": "centre",
    "next": {
     "call": "open",
-    "note": "Won't say what the SNB will do in December; would not hesitate to adjust policy if price stability were at risk."
+    "note": "Won't say what the SNB will do in December; would not hesitate to adjust policy if price stability were at risk.",
+    "how": "said"
    },
    "following": {
     "call": "",
