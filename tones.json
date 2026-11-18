@@ -8530,6 +8530,70 @@
    "lead": "ac9916652da5",
    "at": "2026-11-17T20:59:20Z",
    "by": "claude"
+  },
+  "5488a88d42dc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Cook's legal fight over her removal; no comment on rates or the economy.",
+   "lead": "38b5f46272e4",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
+  },
+  "1812f0aabbb8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Cook skips the White House hearing; independence story, no rate signal.",
+   "lead": "38b5f46272e4",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
+  },
+  "6cd552f745c9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Cook to skip the removal hearing; no comment on policy or rates.",
+   "lead": "38b5f46272e4",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
+  },
+  "9f7e88020aaf": {
+   "tone": "neutral",
+   "score": -2,
+   "read": "Rules out a jumbo December hike; leans against faster-than-priced tightening.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
+  },
+  "98b7e243f9ad": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Says inflation doesn't call for dramatic action; tempers calls for bigger hikes.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
+  },
+  "d20b17ce5280": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Inflation still high but no need to act aggressively; fits the gradual priced path.",
+   "lead": "0c26ffb1a055",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
+  },
+  "31de4db5aed4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Payments and tokenized settlement remarks; no rate signal.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
+  },
+  "496bef6e5036": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Recap of Warsh's AI scenarios and job-loss risks; no guidance on rates.",
+   "lead": "21d2dfd3cfaf",
+   "at": "2026-11-18T06:54:45Z",
+   "by": "claude"
   }
  }
 }
