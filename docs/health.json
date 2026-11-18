@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T15:52:01Z",
+ "built": "2026-11-18T16:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 3,
+   "kept": 60,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed governor Lisa Cook will skip White House tribunal on her firing",
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "Top Fed official: AI boom could fuel more rate hikes in 2027",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
     "The Fed's inflation headache",
-    "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so",
-    "Fed\u2019s October meeting minutes in the spotlight"
+    "POINT: Tariffs aren\u2019t driving inflation \u2013 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -80,17 +80,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 2,
    "error": "",
    "near_misses": [
+    "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed may need to hike rates four times, says central bank official",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
-    "Top Fed official: AI boom could fuel more rate hikes in 2027",
     "Traders Now See a 95% Chance the Fed Hikes Rates in December",
     "Kevin Warsh has Fed staff building Wall Street-style contingencies for AI outcomes: From growth boom to bad actors attacking critical infrastructure",
     "AI could transform the economy, but the Fed is struggling to predict how"
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
+   "fetched": 62,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -109,12 +109,12 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "Germany names its candidate to replace Christine Lagarde as ECB head",
+    "German Cabinet Backs Brunnermeier as ECB Chief Economist",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde to 'tee up' December hike in upcoming speech as Eurozone data disappoints expectations",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "German Government Nominates Brunnermeier for ECB Board Seat",
-    "German Cabinet Backs Brunnermeier as ECB Chief Economist",
-    "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
+    "Deadline extended for ECB chief economist and market operations candidacies",
     "ECB's \u20ac4.4B Bank Savings Plan Gains Support Despite Warning It Could Cross Into Tax Policy"
    ]
   },
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 7,
+   "fetched": 19,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -145,9 +145,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 3,
-   "added": 0,
+   "fetched": 26,
+   "kept": 4,
+   "added": 1,
    "error": "",
    "near_misses": [
     "BOE to Test How Private Credit Market Could Amplify Shocks",
@@ -166,21 +166,36 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 49,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
+    "Bank of Canada Governor Macklem to step down once term ends in 2027",
+    "Macklem to exit Bank of Canada as successor search begins",
+    "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
+    "Bank of Canada governor Tiff Macklem to step down in June",
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "OCEANE Enters Saudi Market with SNB Capital to Provide Liquidity for SAB Invest Hong Kong ETF (9411)"
+   ]
   },
   {
    "id": "ft_cb",
@@ -325,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
