@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T02:37:00Z",
+ "built": "2026-11-18T02:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,8 +56,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 3,
+   "kept": 60,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
@@ -165,7 +165,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 58,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -175,11 +175,11 @@
     "Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
     "Bank of Canada governor Tiff Macklem to step down in June",
-    "Macklem to exit Bank of Canada as successor search begins",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
+    "Macklem to exit Bank of Canada as successor search begins",
     "Bank Of Canada Starts The Search For Macklem\u2019s Successor",
     "Bank of Canada\u2019s Tiff Macklem won\u2019t seek a 2nd term as governor",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027"
+    "Bank of Canada governor Tiff Macklem to step down in June"
    ]
   },
   {
