@@ -2,7 +2,7 @@
 
   Government yields  2Y, 5Y, 10Y, 30Y for the US, Germany, UK, Japan, France,
                      Italy and Canada: the benchmark bond's yield from CNBC for
-                     every day CNBC has daily data (since early 2024), read at
+                     every day CNBC has daily data (since October 2024), read at
                      each market's own close where recorded (CNBC's intraday
                      bars), and today from CNBC's quote (about 15 minutes
                      delayed); weekend-dated bars and one-day spikes are dropped.
@@ -11,7 +11,8 @@
                      England, Japan's Ministry of Finance, Bank of Canada),
                      lifted by a constant to meet the benchmark where CNBC's
                      daily data starts. France and Italy have no free official
-                     curve, so their history is CNBC's weekly bars.
+                     curve, so their history starts in October 2024. Market
+                     holidays (days the official curve skips) are dropped.
   US curve shape     Treasury's official daily par yield curve, 1M to 30Y
   US inflation       Treasury's official daily real (TIPS) yield curve;
                      breakeven = nominal par yield - real yield, same maturity,
@@ -394,6 +395,12 @@ def main():
     off["US"] = {t: {d: ust[d][k] for d in ust if k in ust[d]}
                  for t, k in (("2Y", "2 YR"), ("5Y", "5 YR"), ("10Y", "10 YR"), ("30Y", "30 YR"))}
     today = {s: (d, v) for s, (d, v, t) in quotes.items()}
+    # Market holidays: CNBC still prints a bar on days the bond market is shut (Christmas, Easter Monday,
+    # US Veterans Day...), usually a stale or drifting quote. The official curves are only published on
+    # days the market is open, so up to an official curve's last day, a CNBC day it does not have is a
+    # holiday and is dropped. France and Italy use the Bundesbank's (euro-area) calendar.
+    cal = {c: set().union(*[set(v) for v in (off.get(c) or {}).values()]) if off.get(c) else set() for c in COUNTRIES}
+    cal["FR"] = cal["IT"] = cal.get("DE", set())
     countries, src = {}, {}
     for c, ss in COUNTRIES.items():
         countries[c] = {}
@@ -401,14 +408,17 @@ def main():
             cl = closes.get(s, {})
             raw = despike(weekdays(hist.get(s, {})))
             o = (off.get(c) or {}).get(t) or {}
-            # The benchmark bond from CNBC is the series for every day CNBC has daily data (about the last
-            # year), so the 1-day to 1-year changes are the benchmark's own moves and match the Markets page.
+            # The benchmark bond from CNBC is the series for every day CNBC has daily data (since
+            # October 2024), so the 1-day to 1-year changes are the benchmark's own moves and match the Markets page.
             # Each market's close (cl) replaces CNBC's end-of-day bar where we have it. Before CNBC's daily
             # data starts, the official curve fills the history, lifted to meet the benchmark there.
             # (Until 18 Nov 2026 the official curve was used right up to the last day and CNBC only appended
             # after it, so a 1-day change could compare CNBC with the official curve: several bp of noise,
             # and the Bundesbank curve, built from prices earlier in the day, ran partly a day out of step.)
             ser, src[c] = build_series(raw, cl, o)
+            if len(cal[c]) > 200:
+                last_open = max(cal[c])
+                ser = {d: v for d, v in ser.items() if d in cal[c] or d >= last_open}
             if s in today and date.fromisoformat(today[s][0]).weekday() < 5 and today[s][0] > max(ser or [""]):
                 ser[today[s][0]] = today[s][1]
             sr = series(ser)
