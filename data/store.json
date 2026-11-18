@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T23:06:01Z",
+"bank": "Fed",
+"speaker": "Kashkari",
+"hl": "Fed’s Kashkari: Markets believe central bank will have to hike more than officials now expect",
+"url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOW55eFcyRi1pd01QaVluS0R5bFFZeEZ0eEhlVmdjbnQ5VjNaNlBfeC1vSUZlUXNZWUkzUUFjdU8yd1MyekpOQm4wYUhMZl81Y1EwN3V6QzRjd0hrRTJPMFc1RUExRzA0S0JJNDlFRmFfNzZrNGFVNlBVUnhocEhuT0xENmJQLWJRS1lTRzY3cjd2XzBWLWRYQWdxczBsYVR3cUljdWV1N1dWd2tvZ0RJTEpVZFF5Z09rcUdsdXlOSTJ1RGJIekd4cnJYSDJZN2M?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "097ba57ac4ec",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T22:31:40Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -2366,6 +2386,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-16T23:21:45Z",
+"bank": "Fed",
+"speaker": "Hammack",
+"hl": "Broadening inflation sees Fed's Hammack favour gradual rate rises",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTliZVRwaE1xZ05vemZYejVlLUswZ1A0Qnl4TjBhR1ljYzBzbUNsekg2YmVjUWZHalQ5aG9oVWl6Q1dYSXNQbGYzUFYxakFrTHNZV2lzODhoZEZKTjlMRHQ3cHhyLXdfS0ZTOHVjSlAwenhITE9GRVVIVmQ2a203cTBnNTNHQURaMVdCdXN4WTJfb3Y1MElQaTdOZXVEd2paT3FNZ09va0ctWGowaUxGMHBKaExzcU1ZWGJyMg?oc=5",
+"src": "www.tmgm.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "cbef9962f241",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-16T22:41:11Z",
 "bank": "Fed",
 "speaker": "Hammack",
@@ -2498,7 +2538,8 @@
 "tone": "hawk",
 "also": [
 "Crain's Cleveland",
-"Investing.com"
+"Investing.com",
+"Bloomberg Tax"
 ],
 "desc": "",
 "id": "a1234a42794a",
@@ -2655,7 +2696,8 @@
 "The Lufkin Daily News",
 "WTVB",
 "The Star",
-"KLSE Screener"
+"KLSE Screener",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "74f4647473f7",
@@ -3022,7 +3064,8 @@
 "WFTV",
 "Boston Herald",
 "AP News",
-"Toronto Star"
+"Toronto Star",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "72a2679b23ec",
@@ -4543,7 +4586,8 @@
 "FXStreet",
 "www.tmgm.com",
 "NST Online",
-"Investing.com Australia"
+"Investing.com Australia",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "22b59b30f85a",
@@ -4913,7 +4957,8 @@
 "WTVB",
 "Central Oregon Daily",
 "The Economic Times",
-"KFGO"
+"KFGO",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "4ee39113b263",

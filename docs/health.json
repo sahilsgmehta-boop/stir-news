@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T23:07:00Z",
+ "built": "2026-11-18T23:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,8 +55,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
-   "added": 2,
+   "kept": 56,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 1,
+   "kept": 66,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
@@ -104,8 +104,8 @@
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
-    "What kind of ECB is Europe getting after Lagarde?",
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
+    "What kind of ECB is Europe getting after Lagarde?",
     "Deadline extended for ECB chief economist and market operations candidacies",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "German Government Nominates Brunnermeier for ECB Board Seat",
@@ -140,18 +140,30 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 23,
+   "kept": 3,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "What the Bank of England\u2019s latest comments signal about a rate hike",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "Bank of England warns of further interest rate rises",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
+    "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
+    "Bank of England raises rates for first time since 2023, warns another move likely",
+    "Bank of England likely to raise interest rates further in 2027",
+    "Pound eases as UK inflation undershoots Bank of England forecast",
+    "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
+   ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 33,
    "kept": 2,
    "added": 0,
    "error": "",
