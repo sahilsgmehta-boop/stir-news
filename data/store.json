@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-18T19:12:00Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Fed minutes show growing unease about the outlook for inflation",
+"url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+"src": "MarketWatch",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "At the October meeting, there was some discussion of an aggressive rate hike at the Federal Reserve’s December meeting.",
+"id": "caec92e04ac8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T19:00:00Z",
 "bank": "Fed",
 "speaker": "",
@@ -52,10 +72,33 @@
 "also": [
 "Yahoo Finance",
 "Investing.com",
-"AOL.com"
+"AOL.com",
+"Reuters"
 ],
 "desc": "",
 "id": "7a276609db79",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T18:39:42Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr supports further rate hikes as inflation remains too high",
+"url": "https://investinglive.com/central-banks/fed-s-barr-supports-further-rate-hikes-as-inflation-remains-too-high/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [
+"investingLive"
+],
+"desc": "Comments from the Fed Governor: Supports raising rates further if economy performs as expected Inflation is 'too high' and pressuring many families Critical for Fed to lower inflation to 2% in a timely way Will watch data to determine Fed's next move Economy strong with low unemployment Federal Reserve Governor Michael Barr said he supports raising interest rates further if the economy performs as expected, reinforcing his hawkish stance as policymakers struggle to bring inflation back to target. Barr described the US economy as strong, with low unemployment, but warned that inflation remains ",
+"id": "5e20c6c42070",
 "score": null,
 "read": "",
 "sum": "",
@@ -1007,6 +1050,26 @@
 "also": [],
 "desc": "",
 "id": "79ee80f7a3a2",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T00:00:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Watch Fed’s Barr: Higher Rates Are Likely ‘Appropriate’",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXhPSjA1UFZ2dV9zTUlYTFA0VFc0SkRiZkJnVDJVbjRPclBOUi1VTDFROHFHM1U4akpZcHFRUVJnQ0xrdDVGc1d1MEcyVXhVRXQtOGJfa1hMX09VTkZaSkJZR015YnpKRWd3dWZYMml6SmV2aVlKNVVxUW5MYW5YbWJaQnk3UkV4WjRVLUFhbTYySkh3N1h5TnpZbkVZOTYxd0RxR1JycnhuQQ?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "bc6797acc341",
 "score": null,
 "read": "",
 "sum": "",
