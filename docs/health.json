@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T04:07:00Z",
+ "built": "2026-11-18T04:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,20 +56,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 2,
    "error": "",
    "near_misses": [
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "The Fed's 'Immaculate Disinflation' Strategy Will Fail",
-    "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Lawyer for Fed governor says Lisa Cook will not participate in White House hearing",
     "The Fed\u2019s new freedom to fight inflation",
+    "Fed governor Lisa Cook will skip White House tribunal on her firing",
     "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
     "Fed\u2019s Guynn: reform \u2018increased the intensity of supervision\u2019",
-    "Top Fed official: AI boom could fuel more rate hikes in 2027",
-    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month"
+    "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month",
+    "Top Fed official: AI boom could fuel more rate hikes in 2027"
    ]
   },
   {
@@ -126,13 +126,13 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "ECB VP says AI, debt have become prominent stability risks",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB warns AI share boom could end in 'abrupt repricing'",
     "ECB warns of market risks if AI boom stalls",
-    "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB warns AI risks now extend beyond valuations",
     "The rush towards AI could prove costly for investors, ECB warns",
     "ECB Highlights AI and Government Debt as Financial Stability Risks"
