@@ -9,7 +9,10 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance",
+"Investing.com"
+],
 "desc": "",
 "id": "7a276609db79",
 "score": null,
@@ -29,9 +32,31 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"StreetInsider"
+],
 "desc": "",
 "id": "c1d1abc93cfe",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T18:38:43Z",
+"bank": "BoC",
+"speaker": "Gravelle",
+"hl": "Bank of Canada's Gravelle: Energy price inflation spreading",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFJiMS1vVlBwM1kta0dfR1BlY0xFeTVjUnRUTHVTNjg3UEp3QUN6Zk5CWHMwWjNGcHRjZDhZYUpGX0hlQ2JiUzJuM1U2ZU1HMXF0ZWp6MDJveUhsS3ZSdFllUUoyZHVZWjk5em5xaGJkZVpPUnhoRmFDaks5NHhULXctaHhncGpoaElpU1lqMk1pYWczUjMxWkxLRnRzYWpk0gGmAUFVX3lxTFAyRWo4T0dUWDAydXVBUXJtYXgyMVUzNU9FRld0Tm4zNkhjNDFWOENPa1RhanQ2SFF2Z3UxeDdtOUk4dTY2U0N0NkU3SllXRjdXWlNSLXhUZzRQY3o1RUxaZ1hZek84NFVISS1QUTNDZXctLThqMWxvUl93YmNCUENMV1RFYW5iQ1FvYlduSWdtY190dWdwR0lCNjJLcWozdFJYdXBJZkE?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3ee511f1500d",
 "score": null,
 "read": "",
 "sum": "",
@@ -69,7 +94,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "3a31077b756a",
 "score": null,

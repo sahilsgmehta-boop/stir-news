@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T18:41:40Z",
+ "built": "2026-11-18T18:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 10,
-   "added": 2,
+   "added": 0,
    "error": ""
   },
   {
@@ -58,8 +58,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
-   "added": 7,
+   "kept": 59,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
@@ -103,7 +103,7 @@
    "ok": true,
    "fetched": 70,
    "kept": 15,
-   "added": 3,
+   "added": 0,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
@@ -150,13 +150,13 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England warns of further interest rate rises",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "Bank of England economist sounds a big warning over interest rates | Mortgage Introducer",
     "Bank of England likely to raise interest rates further in 2027",
     "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Pound eases as UK inflation undershoots Bank of England forecast"
@@ -168,8 +168,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 39,
-   "kept": 1,
-   "added": 0,
+   "kept": 2,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
@@ -177,11 +177,11 @@
     "Bank of Canada says scenarios help make monetary policy more effective",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official downplays need for more forward guidance on rate path",
+    "Bank of Canada says April scenario analysis telegraphed hike",
     "Bank of Canada governor Tiff Macklem to step down in 2027",
     "Could another Bank of Canada rate hike hit in December? Why financial experts are divided",
     "Bank of Canada Governor Macklem to step down once term ends in 2027",
-    "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-    "Who will be the next Bank of Canada governor? These are some contenders"
+    "Bank of Canada Governor Tiff Macklem to step down in June 2027"
    ]
   },
   {
@@ -221,7 +221,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 11,
-   "added": 4,
+   "added": 3,
    "error": ""
   },
   {
@@ -301,7 +301,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 9,
-   "added": 4,
+   "added": 2,
    "error": ""
   },
   {
@@ -340,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   }
