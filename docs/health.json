@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T00:22:00Z",
+ "built": "2026-11-19T00:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,13 +55,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 56,
    "added": 2,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
-    "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
+    "Supersized December rate hike could be ahead: Fed governor",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 57,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -107,8 +107,8 @@
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "What kind of ECB is Europe getting after Lagarde?",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "German Government Nominates Brunnermeier for ECB Board Seat",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
+    "German Government Nominates Brunnermeier for ECB Board Seat",
     "Deadline extended for ECB chief economist and market operations candidacies",
     "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Deadline extended for ECB chief economist and market operations candidacies",
@@ -120,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 18,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -132,7 +132,8 @@
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
-    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey"
+    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey",
+    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
    ]
   },
   {
@@ -140,7 +141,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -162,11 +163,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 37,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
@@ -175,8 +177,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada says April scenario analysis telegraphed hike",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "Bank of Canada says public trust in 2% inflation target helps anchor expectations"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
