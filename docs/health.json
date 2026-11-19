@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T02:52:00Z",
+ "built": "2026-11-19T03:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 1,
+   "kept": 58,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
+   "fetched": 74,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -143,7 +143,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -152,12 +152,12 @@
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bank of England warns of further interest rate rises",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
     "Bank of England likely to raise interest rates further in 2027",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
    ]
   },
   {
