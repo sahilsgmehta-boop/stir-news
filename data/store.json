@@ -199,6 +199,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-19T00:00:00Z",
+"bank": "ECB",
+"speaker": "Schnabel",
+"hl": "Made in Europe",
+"url": "https://www.bis.org/speeches/20261119-made-europe",
+"src": "BIS central bankers' speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the Economics Conference, organised by the Bank of Lithuania, Vilnius, 13 November 2026.",
+"id": "5e2db52c5ef3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T23:43:30Z",
 "bank": "BoC",
 "speaker": "Macklem",
