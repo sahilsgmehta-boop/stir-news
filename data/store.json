@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-19T19:36:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr: AI must comply with financial sector rules",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1N6b3RaUVFSZ0F5emFyOGdlMXNVMW95T09wZVFZdG9ZWEJhMFRHMWZraElQX0JZdXVVTkRyeFV6N1ctbmR4dDhTYUNVdFVHZElPTjRQXzVacUhqWXJTYzlxUFVMZDlOanhraS1ESnozUjRVeFp5bklQb01uTi03cVpRVVFlc0c2QldLUUhoS2hvQkU4TE5UaUh3azFQYUJV?oc=5",
+"src": "Breakingthenews.net",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "5fac8667f668",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T19:21:14Z",
 "bank": "Fed",
 "speaker": "Barr",
@@ -104,7 +124,8 @@
 "93.3 The Drive",
 "KELO-AM",
 "US News Money",
-"Investing.com"
+"Investing.com",
+"Kitco"
 ],
 "desc": "",
 "id": "8cf675214fab",
