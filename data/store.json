@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-19T20:52:00Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Media Availability: Economic Club of Canada",
+"url": "https://www.bankofcanada.ca/multimedia/media-availability-economic-club-of-canada/",
+"src": "Bank of Canada speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Outlook for the Canadian economy and the challenges facing monetary policy — Governor Tiff Macklem takes questions from reporters following his remarks (14:00 (ET) approx.)",
+"id": "9a03f0e16990",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T20:34:57Z",
 "bank": "Fed",
 "speaker": "Goolsbee",
@@ -9,9 +29,32 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"Investing.com"
+],
 "desc": "",
 "id": "4c85b87cc5d0",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-19T20:30:00Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Fed’s Goolsbee Says All Options on FOMC Table Amid Hot Inflation",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXR0LTlxSDlZclBKRURtajdwUHZPcUhwcHhvNC1zYi1NWVhkamc2QURJYmNjWW1UcjlPSmNCVTBqX2ZXRjc0Z3p4NU5nQWJzYk5CZzd6RGFlOFdQTmxrZDlIOEdIdGNBQVV6R1FTcUgta3ZWakpoMFV2QkVOSHJHYkMtRVAyNjAtT0NMVVhuUDhTcTBQc0FtekRWRTRqVWE4aDlvM09mUDJkR3FDRVhCXzBkaV8ydw?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "af530bbf940f",
 "score": null,
 "read": "",
 "sum": "",
@@ -126,7 +169,8 @@
 "www.marketscreener.com",
 "marketscreener.com",
 "Devdiscourse",
-"U.S. News & World Report"
+"U.S. News & World Report",
+"SRN News"
 ],
 "desc": "",
 "id": "40a59aec4b95",
@@ -197,7 +241,8 @@
 "KELO-AM",
 "US News Money",
 "Investing.com",
-"Kitco"
+"Kitco",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "8cf675214fab",
@@ -221,6 +266,26 @@
 "also": [],
 "desc": "",
 "id": "a60e452dbc45",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-19T18:23:10Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Fed's Goolsbee: Multiple months of borderline disturbing inflation",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHdJVmdOT0RITzVTeFFtbTdWNHpGSlR3UFV2ZC1jSTRndnF1cjhvd3VuMk9Rc1dLNkprVUx6T0dGV1RyeGNzazUzZzZXZ1pmSkYzMkI2bU1lYWU3WjNha2tMWWZjcEdkZU1TQkpXU3lOR0JZVExVWmRTQnE5UVdHcTNUY0FFXzNPWG5icGtSUHhMLV9faVJnWWFSRXROUXNMclZDc1dDQ3hFZ9IBrwFBVV95cUxQR3VwNE9wWDF4SE1paXU1cVZnOGVsNDlwQlQ5VnM4TkZHajRmN1lKQ1BMNGdpTW1mc0F5VFdzTTF1aDFZYW1RSVAzcTVwTnN4dldwRUNtYmNxWFg5VDVEUzRfaUVlb21xYzB3aGRoR244ektXZVV3WTJBRVppS2FYMDVuZDZIZFlwTElrdTRuQnVWTVJib2hxQ1lxeUprOFJQQkl0UHFUdmRWTGNNTGRn?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "0e94155c13dd",
 "score": null,
 "read": "",
 "sum": "",
@@ -2396,7 +2461,8 @@
 "Reuters",
 "The Lufkin Daily News",
 "Forex Factory",
-"Yahoo Finance"
+"Yahoo Finance",
+"WTVB"
 ],
 "desc": "",
 "id": "b7790baa4f40",
