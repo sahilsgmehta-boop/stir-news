@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T00:52:00Z",
+ "built": "2026-11-19T01:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 11,
-   "added": 0,
+   "kept": 10,
+   "added": 1,
    "error": ""
   },
   {
@@ -20,7 +20,9 @@
    "kept": 6,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflation mindset"
+   ]
   },
   {
    "id": "cnbc",
@@ -55,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 56,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -77,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -98,9 +100,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
-   "kept": 13,
-   "added": 0,
+   "fetched": 74,
+   "kept": 14,
+   "added": 1,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
@@ -120,7 +122,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 19,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -128,6 +130,7 @@
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
+    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
@@ -141,7 +144,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 25,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -154,8 +157,8 @@
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
     "Bank of England likely to raise interest rates further in 2027",
-    "Bank of England Hike Now Rests on Inflation Hitting 3.7%",
-    "Pound eases as UK inflation undershoots Bank of England forecast"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
    ]
   },
   {
@@ -163,7 +166,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 38,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -174,10 +177,10 @@
     "Bank of Canada says scenarios help make monetary policy more effective",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
+    "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada says April scenario analysis telegraphed hike",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "Bank of Canada says public trust in 2% inflation target helps anchor expectations"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {

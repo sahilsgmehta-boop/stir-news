@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-19T00:54:27Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Watch: Christine Lagarde Wants to Fight Fake News",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzUyVGpFbk5XVVNOSXBkSWdLbUZIV2Q3QVFRX2FDaEwtSHRNZVJEY3J3UDMwX2FHendZNFN1UUF2VENtNmRDeTlYQWVjcGN6QUp4aC1LdTFvRTNyQlhDejRxeUpaZXhTdk5uRndtdGdNVzR3eFltTWY0RWhPbEpra2hvRUtlVC1DcDVYMnF6UjhmeXJicTk2LVQ5SXRtV2NoREIyZWRLcTJDdw?oc=5",
+"src": "The New York Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fbdb1ecb2f6a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-19T00:28:25Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflation mindset",
+"url": "https://investinglive.com/central-banks/four-fed-officials-push-for-more-hikes-as-waller-floats-50bp-to-break-3-inflation-mindset/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "The combined message supports the dollar and keeps front-end Treasury yields firm, though markets aren’t chasing Waller’s call for a bigger move. That leaves room for a repricing if December data run hot. If Waller’s communication-first approach wins out, the risk is a more hawkish statement and press conference even with a 25bp hike, which could push expectations for the rate path higher. Gold faces a headwind from rising hike expectations, as it has throughout this cycle. Rate-sensitive AI and growth stocks remain exposed after a bruising week. Elevated oil prices are part of the inflation p",
+"id": "8b24bea0ebec",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T23:43:30Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -2066,7 +2106,8 @@
 "The Lufkin Daily News",
 "Scotsman Guide",
 "Bloomberg Law News",
-"Seoul Economic Daily"
+"Seoul Economic Daily",
+"CUToday"
 ],
 "desc": "",
 "id": "74f308581650",
