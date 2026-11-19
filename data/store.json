@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-19T20:34:57Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Fed's Goolsbee says AI surge could strain US capacity, overheat economy",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYVN2eTFHbWZpQlBEX1d6c1hUXzYxdEZWRmhSYVR6cm4yTGZJeU9vTmMxVXRFX1J2RWoxUTQ4alA5dnBfaXNiVng5M2hYSTVRbTJrSnBlSVBreTJVeC1adHRKekZYQ1I5MGpTX253X2NUYXNKbHF6UVM3N3pCUG9mQjRDTnFDbmp1MVhUbVVrMGtGNVM3ZVBCQ3dzLWNoY1hBUnlJdU5OUFpGT0hNa3lWVTJhclhUbS1hT0Y3OGVyOHBWdw?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4c85b87cc5d0",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T19:58:59Z",
 "bank": "Fed",
 "speaker": "Barr",
@@ -10,7 +30,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Investing.com Australia"
+"Investing.com Australia",
+"Investing.com"
 ],
 "desc": "",
 "id": "0496cc306bf8",
@@ -33,7 +54,9 @@
 "tone": "",
 "also": [
 "StreetInsider",
-"US News Money"
+"US News Money",
+"Investing.com",
+"AOL.com"
 ],
 "desc": "",
 "id": "23279a98b334",
