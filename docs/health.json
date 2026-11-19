@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T18:37:00Z",
+ "built": "2026-11-19T18:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 56,
-   "added": 4,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
@@ -86,13 +86,13 @@
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "The Fed's next moves come into focus",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Supersized December rate hike could be ahead: Fed governor",
-    "St. Louis Fed president says several rate hikes are likely to be needed before spring"
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -100,9 +100,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 23,
-   "added": 0,
+   "fetched": 76,
+   "kept": 24,
+   "added": 1,
    "error": "",
    "near_misses": [
     "What kind of ECB is Europe getting after Lagarde?",
@@ -113,8 +113,8 @@
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
     "Meet the European Central Bank\u2019s new squad",
-    "Lagarde Eyes WEF Role After Early ECB Exit",
-    "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?"
+    "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
+    "Lagarde Eyes WEF Role After Early ECB Exit"
    ]
   },
   {
@@ -122,14 +122,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 11,
-   "added": 0,
+   "fetched": 19,
+   "kept": 13,
+   "added": 1,
    "error": "",
    "near_misses": [
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
-    "Rates Spark: ECB reserve rethink would bring funding pressure closer",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
     "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
    ]
@@ -138,11 +137,23 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 29,
+   "kept": 3,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "What the Bank of England\u2019s latest comments signal about a rate hike",
+    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
+    "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
+    "Bank of England warns of further interest rate rises",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Bank of England Weekly Report 18 November 2026",
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates"
+   ]
   },
   {
    "id": "gn_boc",

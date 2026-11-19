@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-19T18:45:00Z",
+"bank": "ECB",
+"speaker": "Panetta",
+"hl": "ECB's Panetta hopes US-Russia-China summit yields little, given EU absence",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzR6ZzdEV3NXeElTNDBtNTh3LUVIYnM0amJMNEZFNXpBTmZ6dlZNWENGdUd4dXpDektoMXRXQS1iZkJRcmZiR085N05oX2k3bmNwYjFYcmFNcGJYSW9yaVE5Y0J2VmpTeTNONmx4X0dIRzlaX2ZET253WUt3U3BOVGJESVNscDJydUtYR25QVlE5WDRpV1k5Y2ZMTG9MMWFiMWRISXliWTFvQQ?oc=5",
+"src": "The Straits Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "40a59aec4b95",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T18:35:38Z",
 "bank": "Fed",
 "speaker": "Goolsbee",
@@ -9,9 +29,31 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "deb138543fd1",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-19T18:32:19Z",
+"bank": "ECB",
+"speaker": "Panetta",
+"hl": "ECB’s Panetta Says Inflation Mustn’t Be Allowed to Take Root",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDQ4Z0tLMjZQalQyV3NZNm45cWZSdHRhWE1tUmxvSTFiRVFZVHNIVXlVNDlwZTZfenBtREJIV05aczRmSkJzZU5nOXM4RWJFVnplNVYxdjhQb1lUNXNqUVNURjdSM3UyQWtWN3hkYWM2bm9OOXNBcjBzTFlEaWc4eHRVc0F4Vy05SkhGVkdJeVNBREJKMzBLSVBNa2c4WTNsTlAxYlcyTlJaX0V0ODVpRg?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "da8d979ce0d4",
 "score": null,
 "read": "",
 "sum": "",
@@ -29,7 +71,10 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Wichita Eagle",
+"Yahoo Finance"
+],
 "desc": "",
 "id": "8cf675214fab",
 "score": null,
@@ -132,7 +177,9 @@
 "src": "Breakingthenews.net",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"marketscreener.com"
+],
 "desc": "",
 "id": "b5ffaf71b780",
 "score": null,
@@ -579,7 +626,9 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"StreetInsider"
+],
 "desc": "",
 "id": "383c95195d14",
 "score": 1,
