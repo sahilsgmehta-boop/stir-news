@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T06:22:00Z",
+ "built": "2026-11-19T06:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 55,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -66,11 +66,11 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
-    "India\u2019s Stocks Open Flat As The Fed\u2019s Tone Turns Hawkish"
+    "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
+    "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem"
    ]
   },
   {
@@ -90,8 +90,8 @@
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Supersized December rate hike could be ahead: Fed governor",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed may need to hike rates four times, says central bank official"
    ]
   },
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 77,
+   "fetched": 78,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -129,13 +129,13 @@
    "near_misses": [
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
-    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
-    "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
+    "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
-    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey"
+    "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey",
+    "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
    ]
   },
   {
@@ -165,7 +165,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 35,
    "kept": 3,
    "added": 0,
    "error": "",
