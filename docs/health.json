@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T10:52:01Z",
+ "built": "2026-11-19T11:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 2,
+   "kept": 57,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
@@ -89,8 +89,8 @@
     "The Fed's next moves come into focus",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
-    "Supersized December rate hike could be ahead: Fed governor",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Supersized December rate hike could be ahead: Fed governor",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
     "Fed Minutes Show Almost All Officials Expect More Rate Hikes"
    ]
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
-   "kept": 21,
+   "fetched": 73,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -111,10 +111,10 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
-    "WEF role \u2018option\u2019 for Lagarde after leaving ECB",
     "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say"
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
+    "German Government Nominates Brunnermeier for ECB Board Seat"
    ]
   },
   {
@@ -122,8 +122,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 9,
+   "fetched": 18,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -164,7 +164,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 34,
    "kept": 3,
    "added": 0,
    "error": "",
