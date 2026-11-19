@@ -9027,6 +9027,293 @@
    "basis": "reports",
    "at": "2026-11-18T20:54:35Z",
    "by": "claude"
+  },
+  "3b6179fd8cdc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "1fa9d18bf166": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "a44cae115bbb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "e9f5d2bb0e08": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "72534f159aa7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "8b24bea0ebec": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Recaps Waller floating a 50bp December hike amid hawkish Fed chorus.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "20f5505e2082": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Waller wants a 50bp December hike to break the inflation mindset.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "216270289e56": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Waller warns of an inflation shock, backing a more aggressive response.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "62774ef45e91": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Waller pushes a bigger December hike than the 25bp priced.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "537fd5653ca1": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Backs further hikes but at a measured pace.",
+   "lead": "e7a778a43ee6",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "eee61d96268e": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says consumer spending is resilient across incomes; descriptive.",
+   "lead": "e7a778a43ee6",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "cbef9962f241": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Favours gradual rate rises as inflation broadens.",
+   "lead": "bea3185bc064",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "bf08af3b7f6c": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Stresses keeping inflation expectations anchored as officials turn hawkish.",
+   "sum": "Kashkari said the Fed must keep inflation expectations anchored and noted markets expect more hikes than officials now project.",
+   "pts": [
+    "The Fed must make sure inflation expectations stay anchored.",
+    "Markets believe the Fed will have to hike more than officials currently expect.",
+    "Interest rates can affect, and temper, tech and AI investment."
+   ],
+   "rr": "Adds to the hawkish chorus behind the December hike but gave no size or meeting, so no push towards 50bp. Only news paraphrases were available.",
+   "ev": "Remarks (Minneapolis Fed President)",
+   "basis": "reports",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "2662c57b84b6": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Notes markets price more hikes than officials; adds to hawkish Fed chorus.",
+   "lead": "bf08af3b7f6c",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "097ba57ac4ec": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says markets see more hikes than officials expect; no pushback on pricing.",
+   "lead": "bf08af3b7f6c",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "383c95195d14": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says rates can affect tech investment; no direct rate-path signal.",
+   "lead": "bf08af3b7f6c",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "6be3b337a163": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says policy can temper AI investment; no direct rate-path signal.",
+   "lead": "bf08af3b7f6c",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "b6a114c22886": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Lagarde discusses leaving the ECB early; no rate content.",
+   "sum": "Lagarde says she will step down early as ECB president to help counter election misinformation, with a World Economic Forum role an option afterwards.",
+   "pts": [
+    "She is leaving the ECB before her term ends.",
+    "She cites countering election misinformation and fake news as the reason.",
+    "A role at the World Economic Forum is an option after she leaves.",
+    "No comment on interest rates was reported."
+   ],
+   "rr": "No direct read for the December decision. Succession is now live, with Spain’s de Cos reported as a frontrunner; a longer-run issue, not a pricing driver. Only news paraphrases were available.",
+   "ev": "Interview, The New York Times",
+   "basis": "reports",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "a8851dbade19": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Explains early ECB exit; no rate content.",
+   "lead": "b6a114c22886",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "035123912d50": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says she will leave the ECB to counter misinformation; no rate content.",
+   "lead": "b6a114c22886",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "fbdb1ecb2f6a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "On fighting fake news after the ECB; no rate content.",
+   "lead": "b6a114c22886",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "2fc725e2b438": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Supervisory remark on Greek bank exposures; no rate content.",
+   "sum": "Vujčić flagged Greek banks’ concentrated exposure to around ten business groups, a supervisory point with no reported comment on rates.",
+   "basis": "reports",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "8a3dc2d04dd6": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says further hikes likely appropriate as inflation stays too high.",
+   "sum": "Barr, speaking on investment in underserved communities, said further rate increases are likely to be appropriate if the economy performs as he expects.",
+   "pts": [
+    "Inflation remains too high and pressures persist.",
+    "Further rate increases are likely to be appropriate if the outlook holds.",
+    "No meeting or size was named.",
+    "The speech itself focused on capital for underserved communities."
+   ],
+   "rr": "Supports the December 25bp hike priced; no push towards 50bp. Only news paraphrases were available.",
+   "ev": "Speech, New York Fed \"Making Missing Markets\" conference",
+   "basis": "reports",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "649ec066bde1": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs tighter policy as inflation pressures persist.",
+   "lead": "8a3dc2d04dd6",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "dbea10a75a84": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Almost all see further hikes likely; a couple open to more than 25bp.",
+   "sum": "October FOMC minutes show almost all participants expect further hikes, and a couple said more than 25bp could warrant consideration in December if inflation data disappoint.",
+   "pts": [
+    "Almost all participants judged further increases in the funds rate likely appropriate under their baseline.",
+    "A couple said an increase of more than 25bp could warrant consideration at the next meeting if inflation data were unfavourable.",
+    "Inflation seen as elevated and broad based, with upside risks mainly from energy and fuel supply.",
+    "Labour market stable near maximum employment; risks broadly balanced.",
+    "Hold was 10-2; Cook and Hammack dissented for 25bp, warning delay could entrench inflation.",
+    "Reserve management purchases kept at zero; reserves still ample."
+   ],
+   "rr": "Firms the December hike already priced; with October CPI hot since the meeting, it gives some cover to a 50bp tail. Survey median of one hike in December and another in March 2027 looks consistent with the committee.",
+   "ev": "FOMC minutes, Oct 27-28 meeting",
+   "basis": "verbatim",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "2cf3216395cb": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "More hikes likely the longer energy prices stay high; no preset path.",
+   "sum": "Bailey said Bank Rate is not on a pre-set path, but the longer the Middle East conflict keeps energy prices high, the higher rates are likely to need to go.",
+   "pts": [
+    "Explained the 25bp hike to 4%, justified by inflationary pressure in the pipeline.",
+    "CPI was 3.6% in October and is projected near 5% by mid-2027 before falling.",
+    "Limited evidence so far of energy costs spreading to other prices and wages.",
+    "A longer conflict raises the risk of persistent inflation and would require higher rates.",
+    "Slack remains in the labour market but has stabilised.",
+    "Main theme: regional productivity gaps reflect unused national capacity."
+   ],
+   "rr": "Keeps a December hike live but conditional on energy persistence, so supports pricing of further tightening without adding to it. The no-preset-path line tempers any push for a faster pace.",
+   "ev": "Speech, Institute of Economic Development conference (London)",
+   "basis": "verbatim",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "b54961d0b14d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on financial-system transparency; no rate content.",
+   "sum": "Deputy Governor Braddick spoke on transparency and predictability as a foundation for financial-system resilience; no monetary policy content was in the available description.",
+   "ev": "Speech, UK Finance Annual Dinner (London)",
+   "basis": "reports",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "f8c0a03a7eea": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Speech on scenario-based communication; notes energy inflation spreading.",
+   "sum": "Gravelle said scenarios help the Bank of Canada communicate and manage risks in uncertain times, while noting energy price inflation is spreading.",
+   "pts": [
+    "Communication is a core part of monetary policy in uncertain times.",
+    "Scenarios help the Bank weigh different outcomes and explain its choices.",
+    "Energy price inflation is spreading more broadly.",
+    "No signal on the next rate decision was reported."
+   ],
+   "rr": "Little direct read for the December meeting; the spreading-energy point leans slightly against any easing in pricing. Only news paraphrases were available.",
+   "ev": "Speech on monetary policy communications (Edmonton)",
+   "basis": "reports",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
+  },
+  "e5f016bc045a": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Companion piece on communication in uncertain times.",
+   "lead": "f8c0a03a7eea",
+   "at": "2026-11-19T06:57:20Z",
+   "by": "claude"
   }
  }
 }

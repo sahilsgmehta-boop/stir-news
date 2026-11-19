@@ -394,7 +394,7 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Pencilled in one more hike in 2026 (late September); December is the only meeting left.",
+    "note": "Pencilled in one more hike in 2026 (late September); December is the only meeting left. Nov 18 remarks on anchoring expectations fit that, without naming December.",
     "how": "implied",
     "quote": "pencils in one more hike this year",
     "qsrc": "headline (investingLive), late September"
@@ -408,13 +408,13 @@
     "by": "end-2027",
     "note": "One more hike in 2026 and another in 2027; neutral rate may be higher than thought."
    },
-   "view": "Inflation too high at about 3%, across the economy and not just energy; economy resilient. No rate remarks in the last six weeks.",
+   "view": "Inflation too high; Nov 18 said the Fed must keep inflation expectations anchored and noted markets expect more hikes than officials do. No size or meeting named.",
    "shift": "",
-   "last": "2026-09-30",
+   "last": "2026-11-18",
    "ev": "Remarks",
    "basis": "reports",
-   "conf": "low",
-   "asof": "2026-11-18"
+   "conf": "medium",
+   "asof": "2026-11-19"
   },
   "Fed|Paulson": {
    "votes": {
@@ -1297,30 +1297,30 @@
    "stance": "centre",
    "next": {
     "call": "+25",
-    "note": "A second hike is 'more likely than not' if the war goes on (Nov 5); more hikes needed if the conflict lasts (Nov 18). Conditional on the war, which is continuing.",
+    "note": "Nov 18: the longer the Middle East conflict keeps energy prices high, the higher rates likely need to go; conflict is in its ninth month. (Nov 5: second hike more likely than not if war goes on.)",
     "how": "implied",
     "quote": "second BOE hike more likely than not if war goes on",
     "qsrc": "headline (Bloomberg), Nov 5"
    },
    "following": {
     "call": "open",
-    "note": "Conditional, meeting by meeting.",
+    "note": "Nov 18: policy is not on a pre-set path; reviewed meeting by meeting, and the longer energy prices stay high the higher rates likely go.",
     "how": "said",
-    "quote": "length of Iran war key to rate path",
-    "qsrc": "headline (Bloomberg), Nov 18"
+    "quote": "monetary policy is not on a pre-set path",
+    "qsrc": "speech, IED conference, Nov 18"
    },
    "path": {
     "total": "",
     "by": "",
-    "note": "How long the Iran conflict lasts is the key to the rate path; more hikes needed if it lasts (Nov 18)."
+    "note": "Higher rates the longer energy prices stay high; no pre-set path (Nov 18 speech)."
    },
-   "view": "Upside risks to inflation; the labour market is no longer loosening, though some slack remains.",
+   "view": "Pipeline inflation pressure justified the hike to 4%; little evidence yet of energy costs spreading to wages and prices, but a longer conflict would need higher rates. Slack has stabilised.",
    "shift": "",
    "last": "2026-11-18",
-   "ev": "Speech on regional growth",
-   "basis": "reports",
+   "ev": "Speech, Institute of Economic Development conference (London)",
+   "basis": "verbatim",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-19"
   },
   "BoE|Mann": {
    "votes": {
