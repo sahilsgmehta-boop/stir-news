@@ -1,0 +1,22 @@
+name: debtlimit
+# First build and code changes only; the 15-minute collect loop runs debtlimit.py after that (it paces itself to every 3 hours).
+on:
+  push:
+    branches: [main]
+    paths: [debtlimit.py, data/debtlimit_sources.json, .github/workflows/debtlimit.yml]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: { group: debtlimit, cancel-in-progress: true }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - run: DL_FORCE=1 timeout 1200 python3 debtlimit.py || true
+      - run: |
+          git config user.name "stir-news-bot"; git config user.email "stir-news-bot@users.noreply.github.com"
+          git add docs/debtlimit.js data/debtlimit_cache.json || true
+          git commit -q -m "debt limit $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3; do git pull -q --rebase -X theirs origin main && git push -q && break; sleep 5; done

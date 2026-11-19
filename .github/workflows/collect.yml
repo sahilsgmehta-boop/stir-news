@@ -47,6 +47,8 @@ jobs:
       #   cftc.py         CFTC positioning (paces itself, every 6 hours)
       #   econ.py         economic data for US, euro area, UK, Canada, Switzerland
       #                   (paces itself, every 3 hours)
+      #   debtlimit.py    debt-limit tracker: room, binding and X-date model, betting markets
+      #                   (paces itself, every 3 hours)
       - name: Collect (loop)
         env:
           TWELVE_DATA_KEY: ${{ secrets.TWELVE_DATA_KEY }}
@@ -62,7 +64,7 @@ jobs:
             # never stay stuck: clear any half-finished rebase, then start the pass from the latest main
             git rebase --abort 2>/dev/null || true
             git fetch -q origin main && git reset -q --hard origin/main || echo "fetch failed"
-            for s in collect.py fixings.py oi.py oi_intl.py calendar_feed.py curves.py markets.py repo.py fx.py cftc.py econ.py; do
+            for s in collect.py fixings.py oi.py oi_intl.py calendar_feed.py curves.py markets.py repo.py fx.py cftc.py econ.py debtlimit.py; do
               timeout 600 python "$s" || echo "$s failed"
             done
             git add docs data
