@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T00:37:00Z",
+ "built": "2026-11-19T00:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,13 +55,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 2,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
-    "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Supersized December rate hike could be ahead: Fed governor",
+    "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 58,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -87,8 +87,8 @@
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
     "Fed Officials Expect Further Interest Rate Hikes After Pausing Last Month",
+    "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes"
    ]
@@ -168,7 +168,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
@@ -177,7 +176,8 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada says April scenario analysis telegraphed hike",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
+    "Bank of Canada says public trust in 2% inflation target helps anchor expectations"
    ]
   },
   {
