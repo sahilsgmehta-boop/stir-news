@@ -10,7 +10,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Bloomberg"
+"Bloomberg",
+"Bloomberg.com"
 ],
 "desc": "",
 "id": "3b69dd9e3a4f",
@@ -4014,8 +4015,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "neutral",
-"also": [],
-"desc": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Seventh Annual Association for Computing Machinery International Conference on “Artificial Intelligence in finance”, Milan, 16 November 2026.",
 "id": "52ffae408881",
 "score": 0,
 "read": "Financial-stability speech on AI risks; no monetary policy or rates signal.",

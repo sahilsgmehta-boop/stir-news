@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T12:22:00Z",
+ "built": "2026-11-19T12:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
-   "added": 2,
+   "kept": 56,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
-    "Fed officials expect December rate hike",
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed's Hawks Are Squawking",
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
-    "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone"
+    "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
+    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 56,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
+   "fetched": 70,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -122,14 +122,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
-    "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
@@ -335,7 +334,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 11,
+   "kept": 12,
    "added": 0,
    "error": ""
   }
