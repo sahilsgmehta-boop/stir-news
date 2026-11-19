@@ -1458,7 +1458,9 @@
 "src": "Reuters",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"CNBC"
+],
 "desc": "",
 "id": "ff240fc97576",
 "score": 9,

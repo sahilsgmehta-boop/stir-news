@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T06:07:00Z",
+ "built": "2026-11-19T06:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -87,8 +87,8 @@
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "The Fed's next moves come into focus",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Supersized December rate hike could be ahead: Fed governor",
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
+   "fetched": 77,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -109,10 +109,10 @@
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "What kind of ECB is Europe getting after Lagarde?",
+    "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "German Government Nominates Brunnermeier for ECB Board Seat",
-    "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
     "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist"
    ]
@@ -143,11 +143,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
@@ -156,8 +157,7 @@
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
-    "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
    ]
   },
   {
@@ -176,9 +176,9 @@
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
+    "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Bank of Canada official downplays need for more forward guidance on rate path",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
