@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T04:22:00Z",
+ "built": "2026-11-19T04:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 59,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -66,11 +66,11 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "India\u2019s Stocks Open Flat As The Fed\u2019s Tone Turns Hawkish",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing"
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "The Fed's AI Bank Run Nightmare Is Suddenly Coming True"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 77,
+   "fetched": 78,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -149,15 +149,15 @@
    "error": "",
    "near_misses": [
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
     "Bank of England warns of further interest rate rises",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "Bank of England likely to raise interest rates further in 2027",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
+    "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
    ]
   },
   {
@@ -176,9 +176,9 @@
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
+    "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada says public trust in 2% inflation target helps anchor expectations"
    ]
   },
