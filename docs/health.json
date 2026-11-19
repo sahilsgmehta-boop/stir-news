@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T21:37:01Z",
+ "built": "2026-11-19T21:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 0,
+   "kept": 60,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
@@ -79,20 +79,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 60,
    "added": 3,
    "error": "",
    "near_misses": [
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Worried about an AI bust? So is the Federal Reserve.",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-    "The Fed's next moves come into focus",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-    "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "The Fed's next moves come into focus",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk"
    ]
   },
   {
@@ -100,16 +100,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 33,
+   "fetched": 79,
+   "kept": 26,
    "added": 0,
    "error": "",
    "near_misses": [
     "What kind of ECB is Europe getting after Lagarde?",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
     "Meet the European Central Bank\u2019s new squad",
@@ -145,12 +145,12 @@
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
-    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
+    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "Bank of England warns of further interest rate rises",
-    "Bank of England Weekly Report 18 November 2026",
-    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates"
+    "Bank of England Weekly Report 18 November 2026"
    ]
   },
   {

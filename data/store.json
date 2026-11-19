@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-19T21:44:00Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Fed’s Goolsbee Won’t Rule Out Larger Rate Increases as Inflation Risks Mount",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTFGMDRXN2VXbkQ4bzZYY21Sa2g1dG9ndTR1WjNkRXFlOW1ITktEcWMwcERsQXNkZUZQSlJiNk1zQ09VT1NreWNQT2EyNVp2THVyU1drS0QxRnFuRWRuUHhtOGI0UGNKV3FaUTRvM2dfSnVzaEVWWU1WTS14bXdfc1hPa1h5QmN6QlFLLUR6MU81Zw?oc=5",
+"src": "Barron's",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1118402feddf",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T21:00:16Z",
 "bank": "Fed",
 "speaker": "Goolsbee",
@@ -53,7 +73,8 @@
 "Reuters",
 "Investing.com",
 "Yahoo",
-"CNA"
+"CNA",
+"The State"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",
