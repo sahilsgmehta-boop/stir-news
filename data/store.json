@@ -177,7 +177,8 @@
 "The State",
 "Kitco",
 "SRN News",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Centre Daily Times"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",
@@ -247,7 +248,8 @@
 "StreetInsider",
 "US News Money",
 "Investing.com",
-"AOL.com"
+"AOL.com",
+"Fort Worth Star-Telegram"
 ],
 "desc": "",
 "id": "23279a98b334",
@@ -639,7 +641,8 @@
 "tone": "hawk",
 "also": [
 "CNA",
-"Reuters"
+"Reuters",
+"Yahoo"
 ],
 "desc": "",
 "id": "31b3c7527712",
