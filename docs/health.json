@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T12:37:01Z",
+ "built": "2026-11-19T12:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,8 +68,8 @@
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
+    "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
    ]
   },
@@ -100,12 +100,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 21,
-   "added": 0,
+   "fetched": 72,
+   "kept": 22,
+   "added": 1,
    "error": "",
    "near_misses": [
     "What kind of ECB is Europe getting after Lagarde?",
+    "Meet the European Central Bank\u2019s new squad",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde Eyes WEF Role After Early ECB Exit",
@@ -113,8 +114,7 @@
     "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
-    "German Government Nominates Brunnermeier for ECB Board Seat",
-    "Germany backs Markus Brunnermeier for ECB role, boosting Pablo Hernandez de Cos in presidency race"
+    "German Government Nominates Brunnermeier for ECB Board Seat"
    ]
   },
   {
@@ -155,7 +155,7 @@
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
-    "Bank of England raises rates for first time since 2023, warns another move likely"
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
    ]
   },
   {
@@ -334,7 +334,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
