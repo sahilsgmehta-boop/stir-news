@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T07:22:00Z",
+ "built": "2026-11-19T07:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 56,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -66,10 +66,10 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
-    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
+    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem"
    ]
   },
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -91,8 +91,8 @@
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Supersized December rate hike could be ahead: Fed governor",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-    "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes"
+    "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
+    "Fed Minutes Show Almost All Officials Expect More Rate Hikes"
    ]
   },
   {
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 77,
+   "fetched": 78,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -127,12 +127,12 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
     "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey",
     "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
@@ -154,10 +154,10 @@
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England warns of further interest rate rises",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
-    "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
-    "Bank of England Hike Now Rests on Inflation Hitting 3.7%"
+    "Bank of England raises rates for first time since 2023, warns another move likely",
+    "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027"
    ]
   },
   {
