@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T16:22:00Z",
+ "built": "2026-11-19T16:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 53,
-   "added": 3,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
@@ -70,7 +70,7 @@
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
     "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
-    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
+    "Fed governor favors half-point rate hike in December unless Fed signals January increase"
    ]
   },
   {
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 30,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -149,35 +149,23 @@
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England warns of further interest rate rises",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
-    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Bank of England Weekly Report 18 November 2026",
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates"
    ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 32,
-   "kept": 2,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
-    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
-    "Bank of Canada says scenarios help make monetary policy more effective",
-    "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
-    "Stop hiking interest rates, Tiff Macklem, they\u2019re doing no good",
-    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
-    "Bank of Canada official discusses guidance on interest rate path",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
-    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",
