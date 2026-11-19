@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T09:37:00Z",
+ "built": "2026-11-19T09:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,19 +57,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 58,
    "added": 2,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
-    "Fed's Hawks Are Squawking",
     "Supersized December rate hike could be ahead: Fed governor",
+    "Fed's Hawks Are Squawking",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
-    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem"
    ]
   },
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
+   "fetched": 74,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -178,8 +178,8 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
@@ -336,7 +336,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": ""
   }
