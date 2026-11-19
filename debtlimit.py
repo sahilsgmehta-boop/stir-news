@@ -217,7 +217,11 @@ def pct(vals, q):
 
 
 # ------------------------------------------------------------------ prediction markets
-WORDS = ("debt ceiling", "debt limit", "default on its debt", "us defaults", "u.s. default", "debt default")
+WORDS = ("debt ceiling", "debt limit", "us defaults", "u.s. defaults", "us default", "u.s. default")
+
+
+def EXCL(t):
+    return any(w in t for w in ("france", "eu ", "european", "uk ", "japan", "china", "italy", "downgrade", "peak us national debt"))
 
 
 def markets():
@@ -229,7 +233,7 @@ def markets():
                                + (f"&cursor={cur}" if cur else "")))
             for ev in j.get("events", []):
                 t = (ev.get("title") or "").lower()
-                if any(w in t for w in WORDS) or "DCEIL" in (ev.get("series_ticker") or ""):
+                if (any(w in t for w in WORDS) and not EXCL(t)) or "DCEIL" in (ev.get("series_ticker") or ""):
                     for m in ev.get("markets", []):
                         px = m.get("last_price_dollars") or m.get("last_price")
                         px = num(px)
@@ -247,7 +251,7 @@ def markets():
         for q in ("debt ceiling", "debt limit", "default on debt"):
             j = json.loads(get("https://gamma-api.polymarket.com/public-search?q=" + urllib.parse.quote(q) + "&limit_per_type=25&events_status=active"))
             for ev in j.get("events", []):
-                if ev.get("closed"):
+                if ev.get("closed") or EXCL((ev.get("title") or "").lower()) or not any(w in (ev.get("title") or "").lower() for w in WORDS):
                     continue
                 for m in ev.get("markets", []) or []:
                     if m.get("closed"):
@@ -339,14 +343,20 @@ def main():
     b10, b50, b90 = pct(binds, .1), pct(binds, .5), pct(binds, .9)
     x10, x50, x90 = pct(xs, .1), pct(xs, .5), pct(xs, .9)
 
-    # backtest: the same machinery as of 19 Jan 2023, analog = calendar 2022, EM from 2023 itself (in-sample)
+    # backtest, out of sample: stand on 21 Jan 2025 (binding day) knowing only data up to then,
+    # analog = calendar 2024, EM from 2023 scaled to 2025's debt. The limit was raised on 4 Jul 2025,
+    # so compare with what CBO and Treasury projected at the time.
     bt = {}
-    if em23:
-        b = D(2023, 1, 19)
-        LAST[0], keep = D(2023, 1, 18), LAST[0]          # only data known on that day
-        x, _ = run_out(net, b, tga.get(b, 0) + em23, 1, 1.0, P["buffer"], 0)
+    b = D(2025, 1, 21)
+    if em23 and b in tga:
+        keep = LAST[0]
+        LAST[0] = D(2025, 1, 20)
+        k = deficit_scale(net, b, 1)
+        em25 = em23 * (dsl.get(b, 36100.0) / 31400.0)
+        x, _ = run_out(net, b, tga[b] + em25, 1, k, P["buffer"], 145.0 * (dsl.get(b, 36100.0) / 31400.0))
         LAST[0] = keep
-        bt["2023"] = {"bind": iso(b), "model_x": iso(x) if x else None, "treasury_x": "2023-06-05"}
+        bt["2025"] = {"bind": iso(b), "model_x": iso(x) if x else None, "em": round(em25), "scale": round(k, 2),
+                      "then": "CBO (Mar 2025): Aug–Sep 2025; Treasury (Bessent, May 2025): mid-to-late August; limit raised 4 Jul 2025"}
 
     yr = (b50 or today).year
     key = [
