@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T16:37:00Z",
+ "built": "2026-11-19T16:40:21Z",
  "sources": [
   {
    "id": "il_cb",
@@ -89,8 +89,8 @@
     "The Fed's next moves come into focus",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Supersized December rate hike could be ahead: Fed governor"
    ]
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
+   "fetched": 69,
    "kept": 22,
    "added": 0,
    "error": "",
@@ -161,11 +161,23 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 31,
+   "kept": 3,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
+    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
+    "Bank of Canada says scenarios help make monetary policy more effective",
+    "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
+    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
+    "Bank of Canada official discusses guidance on interest rate path",
+    "Bank of Canada official downplays need for more forward guidance on rate path",
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
+   ]
   },
   {
    "id": "gn_snb",
