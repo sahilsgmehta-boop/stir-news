@@ -32,7 +32,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"StreetInsider"
+"StreetInsider",
+"US News Money"
 ],
 "desc": "",
 "id": "23279a98b334",
@@ -73,7 +74,9 @@
 "src": "Forex Factory",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Newsquawk"
+],
 "desc": "",
 "id": "aed4be660e0d",
 "score": null,
@@ -99,7 +102,8 @@
 "Internazionale",
 "www.marketscreener.com",
 "marketscreener.com",
-"Devdiscourse"
+"Devdiscourse",
+"U.S. News & World Report"
 ],
 "desc": "",
 "id": "40a59aec4b95",
@@ -652,6 +656,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-19T00:00:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Watch Inflation Calls for Rate Policy Adjustment: Fed's Barr",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUk5eGNESEstSkFGeVQyYXNhd2hPYUJsOFBWYWoyYTNQTXQ3U2tMWVpzc240MFQ0amtLTVkwQmg1OUVhNHhwem4wZWIydWh2TVZoaFhLeUktcFZzX1JaM0picldwQ0h0aUQwUmtrWjAyNXVra05mbElVU0R1aXlMeEE2SnZ0R01XZy1SMktIa0VwSjNfMGFCTEZXVTRHMkszLW1MTzl1c3VYZndV?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "998fb0e25093",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T23:43:30Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -1059,7 +1083,12 @@
 "Yahoo News Singapore",
 "marketscreener.com",
 "livetube.tv",
-"Yahoo"
+"Yahoo",
+"San Luis Obispo Tribune",
+"Bellingham Herald",
+"Modesto Bee",
+"Columbus Ledger-Enquirer",
+"Charlotte Observer"
 ],
 "desc": "",
 "id": "7a276609db79",
@@ -3985,7 +4014,8 @@
 "CNA",
 "Investing.com",
 "The Lufkin Daily News",
-"The Straits Times"
+"The Straits Times",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "ee4453ae3cf0",
@@ -5380,7 +5410,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Investing.com"
+"Investing.com",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "6b314e5a1ced",
