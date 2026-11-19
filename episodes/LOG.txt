@@ -1,0 +1,35 @@
+sofr: 2156 rows
+tgcr: 2156 rows
+bgcr: 2156 rows
+effr: 2230 rows
+obfr: 2230 rows
+reverserepo 2018: FAIL HTTP Error 400: Bad Request
+reverserepo 2019: FAIL HTTP Error 400: Bad Request
+reverserepo 2020: FAIL HTTP Error 400: Bad Request
+reverserepo 2021: FAIL HTTP Error 400: Bad Request
+reverserepo 2022: FAIL HTTP Error 400: Bad Request
+reverserepo 2023: FAIL HTTP Error 400: Bad Request
+reverserepo 2024: FAIL HTTP Error 400: Bad Request
+reverserepo 2025: FAIL HTTP Error 400: Bad Request
+reverserepo 2026: FAIL HTTP Error 400: Bad Request
+reverserepo ops: 0 rows
+repo 2018: FAIL HTTP Error 400: Bad Request
+repo 2019: FAIL HTTP Error 400: Bad Request
+repo 2020: FAIL HTTP Error 400: Bad Request
+repo 2021: FAIL HTTP Error 400: Bad Request
+repo 2022: FAIL HTTP Error 400: Bad Request
+repo 2023: FAIL HTTP Error 400: Bad Request
+repo 2024: FAIL HTTP Error 400: Bad Request
+repo 2025: FAIL HTTP Error 400: Bad Request
+repo 2026: FAIL HTTP Error 400: Bad Request
+repo ops: 0 rows
+operating_cash_balance: 7836 rows
+debt_subject_to_limit: 16400 rows
+ofr_search_reserve: 2 bytes
+ofr_search_mmf: 5818 bytes
+ofr_mnemonics_fnyr: 2914 bytes
+ofr_mnemonics_mmf: 6537 bytes
+dbn_fed_datasets: 393564 bytes
+dbn_h41_search: 45570 bytes
+fed_h41_ddp: 84895 bytes
+done
