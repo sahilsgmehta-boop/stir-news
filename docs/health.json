@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T12:07:00Z",
+ "built": "2026-11-19T12:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
-   "added": 3,
+   "kept": 55,
+   "added": 2,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Fed officials expect December rate hike",
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed's Hawks Are Squawking",
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
-    "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
-    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
+    "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone"
    ]
   },
   {
@@ -89,8 +89,8 @@
     "The Fed's next moves come into focus",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Supersized December rate hike could be ahead: Fed governor",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
+    "Supersized December rate hike could be ahead: Fed governor",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
     "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflation mindset"
    ]
@@ -100,13 +100,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
+   "fetched": 71,
    "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
     "What kind of ECB is Europe getting after Lagarde?",
-    "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde Eyes WEF Role After Early ECB Exit",
@@ -114,7 +113,8 @@
     "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
-    "German Government Nominates Brunnermeier for ECB Board Seat"
+    "German Government Nominates Brunnermeier for ECB Board Seat",
+    "Germany backs Markus Brunnermeier for ECB role, boosting Pablo Hernandez de Cos in presidency race"
    ]
   },
   {
@@ -164,7 +164,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 33,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -336,7 +336,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 11,
-   "added": 1,
+   "added": 0,
    "error": ""
   }
  ]
