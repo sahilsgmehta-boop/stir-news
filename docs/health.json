@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T06:37:00Z",
+ "built": "2026-11-19T06:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 56,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -67,8 +67,8 @@
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem"
    ]
@@ -92,7 +92,7 @@
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Supersized December rate hike could be ahead: Fed governor",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed may need to hike rates four times, says central bank official"
+    "Fed Minutes Show Almost All Officials Expect More Rate Hikes"
    ]
   },
   {
@@ -127,12 +127,12 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
     "Fed and ECB flag AI as a financial risk, ranked first in the Fed survey",
     "ECB Warns Hedge Funds Boost Volatility Risks for Sovereign Bonds"
@@ -143,7 +143,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 30,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -157,7 +157,7 @@
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr"
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
    ]
   },
   {
@@ -177,8 +177,8 @@
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
