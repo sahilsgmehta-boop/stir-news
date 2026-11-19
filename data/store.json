@@ -1,6 +1,28 @@
 {
 "items": [
 {
+"t": "2026-11-19T02:30:00Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "‘Sham hearing’: Symone eviscerates bogus White House hearing targeting Fed's Lisa Cook",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mQlZONWxUUDhWcVQ0cVJjaXVkRWFrdF9tRWVjTlNDV1dlZzNnMUtONHRWNUVyQ2hLUUM3UVg2V3VjWG4xQk1Jdmw1LTZZSHBmbzdudFNyZ0p5UWR5TGtN0gFcQVVfeXFMTnk0YkFWajgxYnNFYnFxWGNaakNZR0Y5M3oxOS13RUkyc0pibFdlUXQtRWxVcjdncW9PNHpGajJJdW54bUpHdHR4ZEk2WUNEZWZNcmhNSTc2eExxT3Y?oc=5",
+"src": "Modern Ghana",
+"tier": "comment",
+"tone": "",
+"also": [
+"WSJ"
+],
+"desc": "",
+"id": "3b6179fd8cdc",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T00:54:27Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -91,7 +113,8 @@
 "tone": "",
 "also": [
 "Bloomberg.com",
-"The Edge Malaysia"
+"The Edge Malaysia",
+"Bloomberg"
 ],
 "desc": "",
 "id": "20f5505e2082",
@@ -369,7 +392,8 @@
 "AOL.com",
 "Reuters",
 "Yahoo News Singapore",
-"marketscreener.com"
+"marketscreener.com",
+"livetube.tv"
 ],
 "desc": "",
 "id": "7a276609db79",
@@ -1115,7 +1139,8 @@
 "Mezha.net",
 "Investing.com",
 "US News Money",
-"Kitco"
+"Kitco",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "d4741a41c7c4",
