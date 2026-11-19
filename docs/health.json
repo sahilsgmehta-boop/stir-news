@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T00:13:22Z",
+ "built": "2026-11-19T00:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -120,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 17,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -128,7 +128,6 @@
     "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble",
     "Germany poised to nominate Brunnermeier as ECB chief economist",
-    "ECB Cipollone Positions Digital Euro As Tokenized Asset Settlement Layer At ESM Talk",
     "Germany nominates Markus Brunnermeier to succeed Philip Lane as chief economist at ECB",
     "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
     "ECB Highlights AI and Government Debt as Financial Stability Risks",
@@ -141,15 +140,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 23,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
-    "Bank of England warns of further interest rate rises",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Bank of England warns of further interest rate rises",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
@@ -168,7 +167,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
@@ -177,7 +175,8 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada says April scenario analysis telegraphed hike",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
+    "Bank of Canada says public trust in 2% inflation target helps anchor expectations"
    ]
   },
   {
