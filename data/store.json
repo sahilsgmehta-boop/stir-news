@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-19T14:44:58Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "The Fed's Jefferson discusses how different shocks affect monetary policy",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnRUOF9mOEI4Mk1zOWU1Y0NZbFZGUENGd2o0enBkb21pUFAzYThnT1p2UkNIcGhCYWVYY3BGR3h2MkN3c2FYS093ZzROemhBU2kzZ2JILW1nOUxxc1VEazhncHQ4TU5tWGlyZkRhd2xod291bVIycFk1Y3RxeUFIaEdsd0xVUFFCbEU5V3V2Q2VvSmVwT0dEaW1KcnhYQ05mcnFVNG9TZUdCQQ?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c80c2e39204e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T14:26:45Z",
 "bank": "Fed",
 "speaker": "Jefferson",
@@ -9,7 +29,9 @@
 "src": "Bellingham Herald",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"CNA"
+],
 "desc": "",
 "id": "31b3c7527712",
 "score": null,
