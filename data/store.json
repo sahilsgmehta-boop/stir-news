@@ -73,7 +73,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Crain's Chicago Business"
+],
 "desc": "",
 "id": "af530bbf940f",
 "score": null,
@@ -191,7 +193,8 @@
 "marketscreener.com",
 "Devdiscourse",
 "U.S. News & World Report",
-"SRN News"
+"SRN News",
+"Hilton Head Island Packet"
 ],
 "desc": "",
 "id": "40a59aec4b95",
