@@ -1,0 +1,18 @@
+OK sofr 2156 2018-04-02 2026-11-18
+OK tgcr 2156 2018-04-02 2026-11-18
+OK effr 4239 2010-01-04 2026-11-17
+OK obfr 2692 2016-03-01 2026-11-17
+OK rrp 3285 2013-09-23 2026-11-18
+FAIL repoops <HTTPError 400: 'Bad Request'>
+OK tga 4136 2010-06-01 2026-11-17
+ types ['Account Short-Term Cash Investments (Table V)', 'Account Tax and Loan Note Accounts (Table V)', 'Federal Reserve Account', 'Financial Institution Account', 'Short-Term Cash Investments (Table V)', 'Supplementary Financing Prog', 'Supplementary Financing Program', 'Supplementary Financing Program Account', 'Supplementary Financing Programs', 'Tax and Loan Note Accounts (Table V)', 'Total TGA Deposits (Table II)', 'Total TGA Withdrawals (Table II) (-)', 'Treasury General Account (TGA)', 'Treasury General Account (TGA) Closing Balance', 'Treasury General Account (TGA) Opening Balance']
+OK bills 202 2010-01-31 2026-10-31
+OK dsl 4136 2010-06-01 2026-11-17
+ catg ['Debt Held by the Public', 'Debt Not Subject to Limit', 'Intragovernmental Holdings', 'Less Debt Not Subject to Limit', 'Other Debt Subject to Limit', 'Plus Other Debt Subject to Limit', 'Statutory Debt Limit']
+FAIL ofr search <HTTPError 403: 'Forbidden'>
+OK OFR REPO-GCF_AR_T-P 2130 ['2018-05-07', 1.77] ['2026-11-17', 3.96]
+OK OFR REPO-GCF_AR_AG-P 2130 ['2018-05-07', 1.78] ['2026-11-17', 3.97]
+OK OFR REPO-TRI_AR_OO-P 3036 ['2014-08-22', 0.08] ['2026-11-16', 3.91]
+OK OFR REPO-DVP_AR_OO-P 2130 ['2018-05-07', None] ['2026-11-17', 3.94]
+OK OFR FNYR-EFFR-A 2692 ['2016-03-01', 0.36] ['2026-11-17', 3.88]
+OK OFR FNYR-SOFR-A 2155 ['2018-04-02', 1.8] ['2026-11-17', 3.92]
