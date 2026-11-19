@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T15:52:01Z",
+ "built": "2026-11-19T16:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 53,
-   "added": 3,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -88,8 +88,8 @@
     "The Fed's next moves come into focus",
     "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Supersized December rate hike could be ahead: Fed governor"
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
+   "fetched": 70,
    "kept": 22,
    "added": 0,
    "error": "",

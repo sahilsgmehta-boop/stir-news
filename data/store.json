@@ -104,6 +104,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-19T11:09:21Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller Says Rates May Need to Shock Public, Reviving Jumbo-Hike Debate",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkdJMC1wZ1liWElUZzVwX3Z3UVUtSkVhSnNEMjFDLS1KZ2RiTTQyeUVLU0JBOGJDbkdueWxETHVaelY3cXU3VFlCenZsd3VTVWhwT2pWRWNWbVN0S2R0aHgxWDVLM3oxVkQwVDIwRE5GQlFSU2FXWWtOaU94R0NpZ3M2a1ZZMTlyT2xTU3FRbjhVc2I2ZGItSGE4X04?oc=5",
+"src": "Seoul Economic Daily",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "52bd889d5439",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T10:23:05Z",
 "bank": "ECB",
 "speaker": "Nagel",
@@ -374,7 +394,8 @@
 "also": [
 "Bloomberg.com",
 "The Edge Malaysia",
-"Bloomberg"
+"Bloomberg",
+"The Edge Singapore"
 ],
 "desc": "",
 "id": "20f5505e2082",
