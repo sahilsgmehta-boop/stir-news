@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-19T18:00:55Z",
+"bank": "ECB",
+"speaker": "Panetta",
+"hl": "ECB's Panetta: Must fight inflation without hurting growth too much",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHZTNWtCcnE0Z01fSXlYSzRwRzRoNzJmMDNocEtSeEdKSDdiYjh0eWZIbGVkam4wYmxtMTRmcmNBQ1FrVHhrUWYzNVBSVVpja0NrcWJWMUdCOHY4ZmhlX0Q1dUR0Zll0UzQxQXdiZVdnSEFXTUFLSEtLN2ZGdEFCUkR1eklmZWFFS25zWkJtRlRwOUVSano5SkNQTnQ4d2PSAaQBQVVfeXFMTjVjc0lhZ2FKZHFjUFZPdG5yUlFsRmdwZG13dmF4SmprOTZ3ZHVKekY4cFF0aXQ2WXlsZ082ZGEzbHBnZnBfelF4TzE5QkJ3R1BhT24ybGczZWhseHBrbFJMc1NJcldxR2NqS2dPSl9KZ2c2Qnl6cDRqLTJObDJPMWtUejBELXpodmZIUEw4WFVuQW9CMHc5SlhIWVRJdENEanp0enQ?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "989bb265839a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-19T17:59:40Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "Jefferson: inflation must return to 2% before Fed changes target",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcENSOFdhVEcwS29EY0k1c0VEYVFMY2lQN1pOVnN2RTlkaWFVU0FrSmVkeFhDRGNBUjNaa2pnRW9Rb3BaZ1FMdVotbUVFYXpOMmVVanp2ZzFUcnN2M3h3aHBuQ1oxQjhLUUFHNUVIUTJQRkROLUJXOFQ4Uk8wazJNc0Y1bnctekxQU1I4VTBUN3Jmcl9ydDhCTEZrcUhkc00?oc=5",
+"src": "American Banker",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "323f556c5ae7",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T17:43:41Z",
 "bank": "Fed",
 "speaker": "Goolsbee",
@@ -10,7 +50,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"investingLive"
+"investingLive",
+"investingLive central banks"
 ],
 "desc": "Comments from Chicago Fed President Austan Goolsbee, a 2027 FOMC voter, crossed the wires on inflation, jobs and consumer demand. The impact of tariffs has been more persistent than expected. The job market is stable, but inflation is “way higher” than the Fed’s 2% target. Consumer demand has been very strong and solid. AI seems promising as a boost to productivity but the day job of the Fed is to determine if the economy is overheating now The job market is stable. The Fed failure has been on inflation. Analysis The tone is hawkish. If tariffs are still feeding through to prices, one source o",
 "id": "468245d111e7",
@@ -2541,7 +2582,8 @@
 "The Lufkin Daily News",
 "SRN News",
 "WTVB",
-"Disruption Banking"
+"Disruption Banking",
+"Kitco"
 ],
 "desc": "",
 "id": "4b26dc1cb540",
