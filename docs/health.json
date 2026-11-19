@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T22:22:01Z",
+ "built": "2026-11-19T22:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,18 +55,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Fed's Rate Pause Masks A Double AI Risk",
     "The Fed's next moves come into focus",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
-    "Fed's Hawks Are Squawking",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
-    "Worried about an AI bust? So is the Federal Reserve.",
+    "Fed's Hawks Are Squawking",
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny"
    ]
@@ -78,7 +78,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 59,
-   "added": 3,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
+   "fetched": 77,
    "kept": 25,
    "added": 0,
    "error": "",
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 16,
+   "fetched": 18,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -156,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 28,
    "kept": 3,
    "added": 0,
    "error": "",
