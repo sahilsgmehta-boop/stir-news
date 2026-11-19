@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T07:52:00Z",
+ "built": "2026-11-19T08:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 56,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -66,11 +66,11 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
-    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
     "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
+    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem"
    ]
   },
   {
@@ -92,7 +92,7 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
-    "Fed Minutes Show Almost All Officials Expect More Rate Hikes"
+    "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike"
    ]
   },
   {
@@ -107,12 +107,12 @@
    "near_misses": [
     "What kind of ECB is Europe getting after Lagarde?",
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
-    "Lagarde Eyes WEF Role After Early ECB Exit",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
+    "Lagarde Eyes WEF Role After Early ECB Exit",
     "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "German Government Nominates Brunnermeier for ECB Board Seat",
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Germany to Propose Markus Brunnermeier as ECB Chief Economist"
    ]
@@ -187,7 +187,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 3,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -336,7 +336,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": ""
   }

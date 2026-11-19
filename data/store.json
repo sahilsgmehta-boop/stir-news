@@ -22806,28 +22806,6 @@
 "rr": "",
 "ev": "",
 "basis": ""
-},
-{
-"t": "2026-10-05T08:00:00Z",
-"bank": "ECB",
-"speaker": "Lane",
-"hl": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-"url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-"src": "ECB press, speeches, interviews",
-"tier": "official",
-"tone": "",
-"also": [
-"BIS central bankers' speeches"
-],
-"id": "517b42d1a3c0",
-"score": null,
-"read": "",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
 }
 ]
 }
