@@ -41,6 +41,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-19T21:59:00Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "Fed’s Jefferson says AI build-out ‘exerting upward pressure’ on inflation",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3UlA4MmVUaEFqenExU0QycTh3dmV3TE45NUdzck0zMUdDNmo0YmxMcFUtMlREaUV6UzlHSk5UQ0staDE3ODZwcHdfME0zbDJBbzgxcWRIWkJWZFJ0VXVocnQ3NlZPSzFkdE1hWUNXSHFGTW1J0gF6QVVfeXFMT0hUUmxwcnJTOTl3ckdPZXRMUlpIVUJDZkE4dXQ2aTRBWEdHNGZmdzlPTUdPTDhDWkRXc2JyUnhCemJyMmE5cmZDQWxUTU02UTVHOEJ6S1Rkd2ZzWTlvemxBUXlOUkx6RXFicURKdmRWRFNlMnpCdW9hUXc?oc=5",
+"src": "The Hill",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6051caaf7168",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T21:58:37Z",
 "bank": "Fed",
 "speaker": "Jefferson",
@@ -178,7 +198,8 @@
 "Kitco",
 "SRN News",
 "The Lufkin Daily News",
-"Centre Daily Times"
+"Centre Daily Times",
+"Rock Hill Herald"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",

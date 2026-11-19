@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T23:22:00Z",
+ "built": "2026-11-19T23:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 0,
+   "kept": 58,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Fed's Rate Pause Masks A Double AI Risk",
     "The Fed's next moves come into focus",
-    "Fed officials expect December rate hike",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
     "Fed's Hawks Are Squawking",
+    "May Need to 'Shock People,' Says Fed Governor, Suggesting 50 BP Rate Increase May be Needed",
     "Supersized December rate hike could be ahead: Fed governor",
-    "May Need to 'Shock People,' Says Fed Governor, Suggesting 50 BP Rate Increase May be Needed"
+    "Worried about an AI bust? So is the Federal Reserve."
    ]
   },
   {
@@ -77,16 +77,16 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 3,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Worried about an AI bust? So is the Federal Reserve.",
-    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "The Fed's next moves come into focus",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
@@ -97,23 +97,11 @@
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": true,
-   "fetched": 78,
-   "kept": 25,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "What kind of ECB is Europe getting after Lagarde?",
-    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
-    "A Favorite Emerges to Succeed Christine Lagarde",
-    "Mamdani, Musk, Altman, Lagarde, A.I. and Other DealBook Summit Highlights",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "How to interpret the ECB's policy signals from Lagarde's remarks today",
-    "Meet the European Central Bank\u2019s new squad",
-    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
-    "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb2",
@@ -134,7 +122,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 28,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -156,7 +144,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -170,7 +158,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided"
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
    ]
   },
   {
