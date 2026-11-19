@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T21:22:00Z",
+ "built": "2026-11-19T21:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -100,17 +100,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 79,
-   "kept": 26,
+   "fetched": 94,
+   "kept": 33,
    "added": 0,
    "error": "",
    "near_misses": [
     "What kind of ECB is Europe getting after Lagarde?",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
     "Meet the European Central Bank\u2019s new squad",
     "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
@@ -158,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 29,
    "kept": 3,
    "added": 0,
    "error": "",

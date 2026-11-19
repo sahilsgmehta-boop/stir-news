@@ -52,7 +52,8 @@
 "also": [
 "Reuters",
 "Investing.com",
-"Yahoo"
+"Yahoo",
+"CNA"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",
@@ -194,7 +195,8 @@
 "Devdiscourse",
 "U.S. News & World Report",
 "SRN News",
-"Hilton Head Island Packet"
+"Hilton Head Island Packet",
+"Bellingham Herald"
 ],
 "desc": "",
 "id": "40a59aec4b95",
