@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T07:37:00Z",
+ "built": "2026-11-19T07:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 58,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -65,12 +65,12 @@
     "Fed's Hawks Are Squawking",
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
-    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
-    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
-    "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem"
+    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
+    "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
+   "fetched": 77,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -187,7 +187,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
