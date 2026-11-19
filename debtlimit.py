@@ -308,7 +308,7 @@ def main():
     em23 = calibrate_em(days)
     growth = debt / 31400.0            # federal debt subject to limit was ~$31.4tn in Jan 2023
     em_c = round((em23 or 330.0) * growth, 0)
-    P = {"buffer": 30.0, "jun30": round(145.0 * growth, 0), "em": em_c, "em23": em23}
+    P = {"buffer": 75.0, "jun30": round(145.0 * growth, 0), "em": em_c, "em23": em23}
 
     analogs = [s for s in (3, 1) if same_day(today, s) >= D(2022, 7, 1)]    # 2023-24 and 2025-26 same calendar days
     binds, xs, paths = [], [], {}
