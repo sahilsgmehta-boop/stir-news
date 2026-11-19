@@ -9404,6 +9404,235 @@
    "lead": "06388ab5c8ca",
    "at": "2026-11-19T11:49:41Z",
    "by": "claude"
+  },
+  "468245d111e7": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says inflation is way above 2% while jobs are stable, keeping the focus on prices.",
+   "sum": "Goolsbee said the job market is stable but inflation is far above 2%, and the Fed's job now is to stop the AI investment surge overheating the economy.",
+   "pts": [
+    "Inflation is running well above the 2% target; tariff effects have proved more persistent than expected.",
+    "The job market looks stable, so the labour side gives no reason to hold back.",
+    "The AI data-centre boom could strain US capacity and overheat the economy.",
+    "Stagflation would be seen as a Fed failure, so inflation must not be allowed to settle."
+   ],
+   "rr": "A 2027 voter leaning against any let-up: supports the 25bp December hike priced and keeps further 2027 hikes in play, though he named no size or meeting. Only news paraphrases were available.",
+   "ev": "Remarks, Chicago Fed (Nov 19)",
+   "basis": "reports",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "a60e452dbc45": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warns stagflation would be seen as the Fed failing; keeps inflation the priority.",
+   "lead": "468245d111e7",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "8cf675214fab": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says the Fed's job now is to keep the AI surge from overheating the economy.",
+   "lead": "468245d111e7",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "deb138543fd1": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Warns the AI boom risks overheating the economy, a case for tighter policy.",
+   "lead": "468245d111e7",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "4c85b87cc5d0": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says the AI surge could strain capacity and overheat the economy.",
+   "lead": "468245d111e7",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "2bf6fff55f95": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI and financial regulation remarks; no rates content.",
+   "sum": "Barr used the FinRegLab AI symposium to warn that rule changes could weaken financial oversight and that AI in finance must follow existing rules.",
+   "pts": [
+    "Regulatory changes under way could weaken oversight and raise risks in the financial sector.",
+    "AI tools used by financial firms must comply with existing financial-sector rules.",
+    "AI could widen access to financial services if deployed responsibly.",
+    "No comment on inflation or the rate path was reported."
+   ],
+   "rr": "No read for the December hike priced or the 2027 path; his rate view stands as on Nov 18 (further hikes likely if the outlook holds). Only news paraphrases were available.",
+   "ev": "FinRegLab AI Symposium 2026, Day 2",
+   "basis": "reports",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "aed4be660e0d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says AI could boost access to financial services; no rates content.",
+   "lead": "2bf6fff55f95",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "5fac8667f668": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says AI must comply with financial rules; no rates content.",
+   "lead": "2bf6fff55f95",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "23279a98b334": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Worries regulation changes raise financial risks; supervisory, not a rates remark.",
+   "lead": "2bf6fff55f95",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "0496cc306bf8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warns rule changes may weaken oversight; supervisory, not a rates remark.",
+   "lead": "2bf6fff55f95",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "998fb0e25093": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Video of Barr saying inflation still calls for further rate increases.",
+   "lead": "bc6797acc341",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "989bb265839a": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Wants inflation fought without hurting growth too much; firm but measured.",
+   "sum": "Panetta said the ECB must not let inflation take root, but should fight it without hurting growth too much.",
+   "pts": [
+    "Inflation must not be allowed to become entrenched in the euro area.",
+    "The fight against inflation should avoid inflicting excessive damage on growth.",
+    "Separately, he hoped a US-Russia-China summit without the EU yields little."
+   ],
+   "rr": "A December voter backing the hike already priced while signalling a gradual pace; no support for pricing a faster ECB path into 2027. Only news paraphrases were available.",
+   "ev": "Remarks (Nov 19)",
+   "basis": "reports",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "da8d979ce0d4": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Insists inflation mustn't be allowed to take root, backing further tightening.",
+   "lead": "989bb265839a",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "40a59aec4b95": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Geopolitical comment on a summit; no rates content.",
+   "lead": "989bb265839a",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "c8279dbe2376": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says the AI buildout is adding to inflation pressure; productivity gains only later.",
+   "sum": "Jefferson's Brasília speech on policy amid frequent shocks said the AI buildout is adding to inflation now, with any productivity payoff only possible later.",
+   "pts": [
+    "The AI investment buildout is putting upward pressure on inflation.",
+    "Any productivity boost from AI is possible in the future, not yet visible.",
+    "Policy must respond differently depending on the type of shock hitting the economy.",
+    "Inflation must return to 2% before any change to the Fed's target is considered."
+   ],
+   "rr": "From the vice chair, mildly supportive of the 25bp December hike priced and of further 2027 tightening; no backing for 50bp. Only news paraphrases were available.",
+   "ev": "Speech, IMF/Central Bank of Brazil conference (Brasília)",
+   "basis": "reports",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "31b3c7527712": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says AI is boosting inflation now, with productivity gains only later.",
+   "lead": "c8279dbe2376",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "b5ffaf71b780": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says the AI buildout is putting pressure on inflation.",
+   "lead": "c8279dbe2376",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "c80c2e39204e": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Framework discussion of how shocks shape policy; no new rate signal.",
+   "lead": "c8279dbe2376",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "323f556c5ae7": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Rules out changing the 2% target before inflation gets back there.",
+   "lead": "c8279dbe2376",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "5e2db52c5ef3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural speech on European production; no rate signal identified.",
+   "sum": "Schnabel's 13 November Vilnius speech, 'Made in Europe', addressed European economic themes; its text could not be read for this run.",
+   "rr": "No new signal for the December ECB hike priced; the speech is a week old. Only news paraphrases were available.",
+   "ev": "Speech, Bank of Lithuania Economics Conference (Vilnius)",
+   "basis": "reports",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "cb41cf370931": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Climate insurance remarks; no monetary policy content.",
+   "sum": "Lagarde called for wider climate insurance cover after this summer's extreme heat.",
+   "pts": [
+    "Extreme summer heat exposed gaps in climate insurance cover.",
+    "She urged a boost to insurance protection against climate risks."
+   ],
+   "rr": "No bearing on the December ECB decision or the rate path. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "7ea150d92dc3": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Recaps Waller calling inflation too high as firms plan 2027 price rises.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
+  },
+  "52bd889d5439": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Recaps Waller's call for a 'shock' 50bp hike.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-19T20:55:18Z",
+   "by": "claude"
   }
  }
 }

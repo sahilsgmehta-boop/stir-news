@@ -131,13 +131,13 @@
     "by": "",
     "note": ""
    },
-   "view": "Inflation, not jobs, is the main signal for policy; PCE inflation still 3.6%, energy the main channel; upbeat on growth.",
+   "view": "Inflation, not jobs, is the main signal for policy; says the AI buildout is adding to inflation now, with productivity gains only later.",
    "shift": "",
-   "last": "2026-11-14",
-   "ev": "Speech, UC San Diego Economic Roundtable",
+   "last": "2026-11-19",
+   "ev": "Speech, IMF/Central Bank of Brazil conference (Brasília)",
    "basis": "reports",
    "conf": "medium",
-   "asof": "2026-11-18"
+   "asof": "2026-11-19"
   },
   "Fed|Bowman": {
    "votes": {
@@ -472,13 +472,13 @@
     "by": "",
     "note": "Fed is not on a path back to 2% and must re-establish credibility."
    },
-   "view": "October CPI 'borderline disturbing'; AI data-centre boom looks like old-fashioned demand overheating.",
-   "shift": "Moved from centre to hawk through October-November.",
-   "last": "2026-11-15",
-   "ev": "Interview, CNBC",
+   "view": "Inflation is way above 2% with tariff effects persistent and jobs stable; the Fed's job is to stop the AI investment surge overheating the economy.",
+   "shift": "Moved from centre to hawk through October-November; Nov 19 repeated the overheating warning without naming a size.",
+   "last": "2026-11-19",
+   "ev": "Remarks, Chicago Fed",
    "basis": "reports",
    "conf": "medium",
-   "asof": "2026-11-18"
+   "asof": "2026-11-19"
   },
   "Fed|Barkin": {
    "votes": {
@@ -893,13 +893,13 @@
     "by": "",
     "note": ""
    },
-   "view": "Inflation above target for an extended period, risks to the upside; warns of a wage-price spiral.",
+   "view": "Inflation must not be allowed to take root, but should be fought without hurting growth too much; risks to inflation to the upside.",
    "shift": "Was among the doves: Oct 22 stressed that higher yields brake growth; Oct 30 said more hikes may be needed.",
-   "last": "2026-10-30",
-   "ev": "Remarks, Rome",
+   "last": "2026-11-19",
+   "ev": "Remarks",
    "basis": "reports",
    "conf": "medium",
-   "asof": "2026-11-18"
+   "asof": "2026-11-19"
   },
   "ECB|Moulin": {
    "votes": {
