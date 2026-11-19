@@ -9,7 +9,11 @@
 "src": "The Straits Times",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"Yahoo",
+"Internazionale"
+],
 "desc": "",
 "id": "40a59aec4b95",
 "score": null,
@@ -73,7 +77,9 @@
 "tone": "",
 "also": [
 "Wichita Eagle",
-"Yahoo Finance"
+"Yahoo Finance",
+"Reuters",
+"93.3 The Drive"
 ],
 "desc": "",
 "id": "8cf675214fab",
@@ -2692,7 +2698,8 @@
 "SRN News",
 "WTVB",
 "Disruption Banking",
-"Kitco"
+"Kitco",
+"Bellingham Herald"
 ],
 "desc": "",
 "id": "4b26dc1cb540",
@@ -3792,7 +3799,8 @@
 "Boston Herald",
 "AP News",
 "Toronto Star",
-"Yahoo Finance"
+"Yahoo Finance",
+"WRAL"
 ],
 "desc": "",
 "id": "72a2679b23ec",
