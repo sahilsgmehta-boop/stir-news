@@ -847,14 +847,14 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "A December hike looks 'rather obvious' (Nov 10); 'very likely necessary' (Nov 3).",
+    "note": "Another hike would send a clear signal (Nov 19); a December hike looks 'rather obvious' (Nov 10).",
     "how": "said",
     "quote": "December rate hike is looking 'rather obvious'",
     "qsrc": "headline (Bloomberg), Nov 10"
    },
    "following": {
     "call": "open",
-    "note": "Further tightening possible after December; another hike 'highly probable' (Nov 13-18).",
+    "note": "Further rate adjustments may be needed (Nov 19); another hike 'highly probable' (Nov 13-18). No meeting named.",
     "how": "said",
     "quote": "further tightening possible, sees no wage-price spiral",
     "qsrc": "headline (Bloomberg), Nov 18"
@@ -862,15 +862,15 @@
    "path": {
     "total": "more than one hike possible",
     "by": "",
-    "note": "Sees no wage-price spiral yet (Nov 18)."
+    "note": "Further adjustments may be needed; sees no wage-price spiral and says this is not 2022 (Nov 18-19)."
    },
-   "view": "Energy is pushing inflation up and the ECB is far from its target; German recovery stronger than forecast.",
+   "view": "Inflation is challenging but not like 2022; another hike would send a clear signal and further moves may be needed.",
    "shift": "",
-   "last": "2026-11-18",
+   "last": "2026-11-19",
    "ev": "Remarks",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-19"
   },
   "ECB|Panetta": {
    "votes": {

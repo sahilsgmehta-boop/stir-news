@@ -9314,6 +9314,96 @@
    "lead": "f8c0a03a7eea",
    "at": "2026-11-19T06:57:20Z",
    "by": "claude"
+  },
+  "3b69dd9e3a4f": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says another ECB hike would send a clear signal; further adjustments may be needed.",
+   "sum": "Nagel said further ECB rate adjustments may be needed and another hike would send a clear signal, while seeing no wage-price spiral.",
+   "pts": [
+    "Another rate increase would send a clear signal on inflation.",
+    "Further rate adjustments may be needed after the hikes already made.",
+    "Inflation remains challenging but the situation is not comparable to 2022.",
+    "Sees no wage-price spiral; second-round risk much lower than in 2022.",
+    "Confident the ECB will reach its inflation target."
+   ],
+   "rr": "Reinforces the December ECB hike largely priced and keeps further 2027 tightening open; the 'not like 2022' framing argues against an aggressive path. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
+  },
+  "e0f2033041e0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Climate change affecting monetary policy; a structural point with no rate signal.",
+   "sum": "Kocher warned that a changing climate is affecting monetary policy, a structural theme with no reported comment on the next rate moves.",
+   "pts": [
+    "Climate change is increasingly affecting the conduct of monetary policy.",
+    "No reported view on the December meeting or the rate path."
+   ],
+   "rr": "No read for December ECB pricing or 2027 hike bets. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
+  },
+  "857925eeea2a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "French fiscal comments; no direct rate signal.",
+   "sum": "Moulin said euro-area inflation remains high and the ECB must stay vigilant, but he sees no second-round effects yet; he also urged France to face its debt.",
+   "pts": [
+    "Euro-area inflation remains high.",
+    "He does not see second-round effects yet.",
+    "The ECB needs to stay vigilant on inflation.",
+    "France cannot ignore the reality of high debt and deficits."
+   ],
+   "rr": "Neither firms nor resists the December ECB hike priced; 'no second-round effects yet' from a dovish-leaning member tempers 2027 hike pricing slightly. French fiscal remarks bear on OAT spreads more than rates. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
+  },
+  "d37e3e88b1b3": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "No second-round effects yet but ECB must stay vigilant; balanced.",
+   "lead": "857925eeea2a",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
+  },
+  "2ebf2349dc62": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Says euro-area inflation remains high; no explicit rate call.",
+   "lead": "857925eeea2a",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
+  },
+  "0339b741c02c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Explains leaving the ECB early to speak freely; no rate content.",
+   "lead": "b6a114c22886",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
+  },
+  "762bed2dcdb9": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Waller wants a 50bp December hike; says AI is not a bubble.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
+  },
+  "34ddbf05dcc2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "'Skinny' master account plan nearing completion; payments, no rate content.",
+   "lead": "06388ab5c8ca",
+   "at": "2026-11-19T11:49:41Z",
+   "by": "claude"
   }
  }
 }
