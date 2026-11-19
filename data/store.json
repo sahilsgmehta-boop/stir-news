@@ -12,7 +12,8 @@
 "also": [
 "Reuters",
 "Yahoo",
-"Internazionale"
+"Internazionale",
+"www.marketscreener.com"
 ],
 "desc": "",
 "id": "40a59aec4b95",
@@ -79,7 +80,9 @@
 "Wichita Eagle",
 "Yahoo Finance",
 "Reuters",
-"93.3 The Drive"
+"93.3 The Drive",
+"KELO-AM",
+"US News Money"
 ],
 "desc": "",
 "id": "8cf675214fab",
@@ -140,7 +143,9 @@
 "src": "American Banker",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "323f556c5ae7",
 "score": null,

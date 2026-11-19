@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T19:07:01Z",
+ "built": "2026-11-19T19:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 55,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -87,8 +87,8 @@
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "The Fed's next moves come into focus",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
+    "The Fed's next moves come into focus",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Supersized December rate hike could be ahead: Fed governor",
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 80,
+   "fetched": 81,
    "kept": 27,
    "added": 0,
    "error": "",
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 28,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -146,9 +146,9 @@
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England warns of further interest rate rises",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England Weekly Report 18 November 2026",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates"
    ]
@@ -158,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 29,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -172,7 +172,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
-    "Bank of Canada official downplays need for more forward guidance on rate path"
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
    ]
   },
   {
