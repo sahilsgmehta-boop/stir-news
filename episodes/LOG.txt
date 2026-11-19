@@ -33,3 +33,15 @@ dbn_fed_datasets: 393564 bytes
 dbn_h41_search: 45570 bytes
 fed_h41_ddp: 84895 bytes
 done
+--- v3
+reserves: 492 rows (RESH4R_N.WW: Weekly (Wednesday) – Liabilities and Capital – Other Factors Draining Reserve Balances – R)
+rrp_others: 492 rows (RESPPLLRD_N.WW: Weekly (Wednesday) – Liabilities and Capital – Liabilities – Reverse repurchase agreements)
+rrp_total: 492 rows (RESPPLLR_N.WW: Weekly (Wednesday) – Liabilities and Capital – Liabilities – Reverse repurchase agreements)
+tga_h41: 492 rows (RESPPLLDT_N.WW: Weekly (Wednesday) – Liabilities and Capital – Liabilities – Deposits with FR Banks, other)
+fed_total_assets: no match
+fed_treasuries: 492 rows (RESPPALGUOB_N.WW: Weekly (Wednesday) – Assets – Securities Held Outright – U.S. Treasury securities: Bills –)
+MMF-MMF_TOT-M: 3998 bytes
+MMF-MMF_RP_TOT-M: 3978 bytes
+MMF-MMF_T_TOT-M: 3967 bytes
+MMF-MMF_RP_OO-M: 3954 bytes
+done v3
