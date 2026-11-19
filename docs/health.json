@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T11:22:01Z",
+ "built": "2026-11-19T11:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 57,
    "added": 3,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
-    "Fed officials expect December rate hike",
-    "Fed's Hawks Are Squawking",
     "Supersized December rate hike could be ahead: Fed governor",
+    "Fed's Hawks Are Squawking",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call",
     "104.00: United States Dollar Index hits fresh 19-month high on Fed\u2019s hawkish undertone",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
+    "Fed governor favors half-point rate hike in December unless Fed signals January increase",
+    "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem"
    ]
   },
   {
@@ -79,15 +79,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 58,
    "added": 1,
    "error": "",
    "near_misses": [
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "The Fed's next moves come into focus",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Supersized December rate hike could be ahead: Fed governor",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
@@ -124,7 +124,7 @@
    "ok": true,
    "fetched": 20,
    "kept": 10,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
