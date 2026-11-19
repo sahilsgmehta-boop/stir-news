@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-19T19:21:14Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr: AI could boost access to financial services",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTlnOXdzVURzQU5hMjE0bjYtZHBCNC1jZjBUOGphdFRjaS0wME1pRDNtU3JQVGZjYm9CdGQ3OGo1RWtDXzdhYzNfVUxpU3R4dzFoRVluZXBQSUtCQVZ3X3lUbVlzQmFUUDZOakdLa2lBMktzMGRqNWFwTmhjSVgxVmN4TTBEeG5NS0xhdkNhONIBlAFBVV95cUxOdGc4cm1oTGpRdVVaZ0ZIdWJCbkhkSUVzcHRzdWFQczdqdXBWUGdzVUk0LWxENkdWdE5odTk5Xy10QnlKekhKcWFpWW9qRE42alkxMC1NdHJLdG81czluWjFvOEVBZG1RdDJjUzRVOG1KcHJwNXhKb2U4dll5RlBiNzd0aWhZdk1xa0E0SDZYZmNmbFBW?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "aed4be660e0d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T18:45:00Z",
 "bank": "ECB",
 "speaker": "Panetta",
@@ -13,7 +33,8 @@
 "Reuters",
 "Yahoo",
 "Internazionale",
-"www.marketscreener.com"
+"www.marketscreener.com",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "40a59aec4b95",
@@ -82,7 +103,8 @@
 "Reuters",
 "93.3 The Drive",
 "KELO-AM",
-"US News Money"
+"US News Money",
+"Investing.com"
 ],
 "desc": "",
 "id": "8cf675214fab",
@@ -106,6 +128,26 @@
 "also": [],
 "desc": "",
 "id": "a60e452dbc45",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-19T18:18:00Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr: FinRegLab AI Symposium 2026 - Day 2",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVVN0R1NjRURTNEstaVUycTVaOGtNYjhUQjFjTVZYS2xrX3NNdzNxMXFPeTN5WklheWpyQkhPelJUVGFnNnR2ZHE1S1pHNWVReDZnMWtiZHNld3Vkb2p5a2JWRHE4Q2owSkJyLU5UaGNTd3ZDVlhmNXlOaGltckdFSjlPWTVrdkRjQlk00gGQAUFVX3lxTFBLT19xMDhsQWdXOTJ5LXlucGxteXdXdGZKMDE2RWU4eEU5U0VSbTI0d0M1ejVHU1NWcUhmRlpkSFRSVGFoMW5VZ2xHbUd2d1M4N2pKbEhTeTk0ZHZvZDhibzN1RjBkZElqclE2SkhySGhRM202QUE4RTNtQ0RJVHpyR2VKa1pCamo3YS1TemRETw?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2bf6fff55f95",
 "score": null,
 "read": "",
 "sum": "",
