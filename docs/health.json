@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T00:07:00Z",
+ "built": "2026-11-19T00:13:22Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -83,9 +83,9 @@
    "near_misses": [
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
     "Fed Officials Expect Further Interest Rate Hikes After Pausing Last Month",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
+   "fetched": 72,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -147,9 +147,9 @@
    "error": "",
    "near_misses": [
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bank of England warns of further interest rate rises",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027",
     "Bank of England raises rates for first time since 2023, warns another move likely",
@@ -176,8 +176,8 @@
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada says April scenario analysis telegraphed hike",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
