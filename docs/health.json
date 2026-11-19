@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T15:07:01Z",
+ "built": "2026-11-19T15:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -90,9 +90,9 @@
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
-    "Supersized December rate hike could be ahead: Fed governor",
-    "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflation mindset"
+    "Supersized December rate hike could be ahead: Fed governor"
    ]
   },
   {
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 73,
+   "fetched": 71,
    "kept": 22,
    "added": 0,
    "error": "",
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 28,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -149,23 +149,35 @@
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England warns of further interest rate rises",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
+    "Bank of England raises rates for first time since 2023, warns another move likely"
    ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 33,
+   "kept": 3,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+    "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
+    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
+    "Bank of Canada says scenarios help make monetary policy more effective",
+    "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
+    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
+    "Bank of Canada official discusses guidance on interest rate path",
+    "Bank of Canada official downplays need for more forward guidance on rate path",
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
+   ]
   },
   {
    "id": "gn_snb",
@@ -272,7 +284,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 37,
-   "added": 27,
+   "added": 28,
    "error": ""
   },
   {
