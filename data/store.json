@@ -5229,8 +5229,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "neutral",
-"also": [],
-"desc": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the University of California, San Diego Economic Roundtable, San Diego, California, 13 November 2026.",
 "id": "9ea035670127",
 "score": 2,
 "read": "Inflation guides policy; AI may lift productivity; no push for faster hikes.",
