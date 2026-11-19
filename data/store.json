@@ -290,6 +290,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-18T19:30:42Z",
+"bank": "Fed",
+"speaker": "Barr",
+"hl": "Fed's Barr Backs Tighter Policy as Inflation Pressures Persist - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3A5anJjcEhLOHgwUzFLUi13bUNoYUhtc2VMUWFLRFZmVEdwQUEwXzcxYXJTRXd4MGJMdm5sNGxXTWo4YzA3WWszQTRqNTVPN2doNHV0eG5BYzhDLWtLeVJGejZTWHpVWW9uTlQ4SmRXeHNoVDI1ZzYyVWxxN2YwTlN2N2lNSEZDZnZOT2tZU2NwUE1tcGlscVg5RHNvUnFwMkJYTkZhWm1NbW9XXzQ3cVFR?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "649ec066bde1",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-18T19:12:00Z",
 "bank": "Fed",
 "speaker": "",
@@ -393,7 +413,8 @@
 "Reuters",
 "Yahoo News Singapore",
 "marketscreener.com",
-"livetube.tv"
+"livetube.tv",
+"Yahoo"
 ],
 "desc": "",
 "id": "7a276609db79",

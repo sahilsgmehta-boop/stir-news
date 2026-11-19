@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T04:07:00Z",
+ "built": "2026-11-19T04:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
-   "added": 2,
+   "kept": 54,
+   "added": 3,
    "error": "",
    "near_misses": [
     "The Fed's next moves come into focus",
@@ -66,11 +66,11 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
     "Fed governor favors half-point rate hike in December unless Fed signals January increase",
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "WEEKLY WEBCAST: Slicing & Dicing The Fed\u2019s Inflation Problem",
     "India\u2019s Stocks Open Flat As The Fed\u2019s Tone Turns Hawkish",
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "The Fed's AI Bank Run Nightmare Is Suddenly Coming True"
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -100,14 +100,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
+   "fetched": 77,
    "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
-    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Lagarde Eyes WEF Role After Early ECB Exit",
+    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "What kind of ECB is Europe getting after Lagarde?",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
@@ -176,10 +176,10 @@
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
-    "Bank of Canada official downplays need for more forward guidance on rate path",
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided",
-    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
+    "Bank of Canada official downplays need for more forward guidance on rate path",
+    "Bank of Canada says public trust in 2% inflation target helps anchor expectations"
    ]
   },
   {
