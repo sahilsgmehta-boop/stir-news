@@ -156,7 +156,8 @@
 "CNA",
 "The State",
 "Kitco",
-"SRN News"
+"SRN News",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",
@@ -554,7 +555,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"marketscreener.com"
+"marketscreener.com",
+"The Hill"
 ],
 "desc": "",
 "id": "b5ffaf71b780",

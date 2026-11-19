@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19T22:37:00Z",
+ "built": "2026-11-19T22:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -65,10 +65,10 @@
     "The Fed's next moves come into focus",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
-    "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
     "Fed's Hawks Are Squawking",
-    "Supersized December rate hike could be ahead: Fed governor",
-    "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny"
+    "May Need to 'Shock People,' Says Fed Governor, Suggesting 50 BP Rate Increase May be Needed",
+    "Worried about an AI bust? So is the Federal Reserve.",
+    "Supersized December rate hike could be ahead: Fed governor"
    ]
   },
   {
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 4,
+   "kept": 60,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -107,8 +107,8 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Meet the European Central Bank\u2019s new squad",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
     "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?",
@@ -143,8 +143,8 @@
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
-    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "Bank of England warns of further interest rate rises",
     "Bank of England Weekly Report 18 November 2026",
@@ -156,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -169,8 +169,8 @@
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
-    "Bank of Canada official downplays need for more forward guidance on rate path",
-    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
    ]
   },
   {
