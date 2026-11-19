@@ -307,7 +307,8 @@
 "Yahoo Finance",
 "Investing.com",
 "AOL.com",
-"Reuters"
+"Reuters",
+"Yahoo News Singapore"
 ],
 "desc": "",
 "id": "7a276609db79",
@@ -22653,26 +22654,6 @@
 "BIS central bankers' speeches"
 ],
 "id": "517b42d1a3c0",
-"score": null,
-"read": "",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-10-05T00:00:00Z",
-"bank": "Fed",
-"speaker": "Williams",
-"hl": "Unwavering dedication",
-"url": "https://www.bis.org/speeches/20261005-unwavering-dedication",
-"src": "BIS central bankers' speeches",
-"tier": "official",
-"tone": "",
-"also": [],
-"id": "55480021c794",
 "score": null,
 "read": "",
 "desc": "",

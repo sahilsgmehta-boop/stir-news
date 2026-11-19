@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T23:52:01Z",
+ "built": "2026-11-19T00:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 56,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -77,20 +77,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 1,
    "error": "",
    "near_misses": [
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
     "Fed Officials Expect Further Interest Rate Hikes After Pausing Last Month",
     "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
-    "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes"
    ]
   },
   {
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 71,
-   "kept": 14,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -112,7 +112,7 @@
     "Deadline extended for ECB chief economist and market operations candidacies",
     "Germany names its candidate to replace Christine Lagarde as ECB head",
     "Deadline extended for ECB chief economist and market operations candidacies",
-    "German Cabinet Backs Brunnermeier as ECB Chief Economist"
+    "Italy's Meloni met ECB president frontrunner de Cos"
    ]
   },
   {
@@ -141,13 +141,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 25,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bank of England warns of further interest rate rises",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
@@ -163,9 +163,9 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 38,
    "kept": 3,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
@@ -176,8 +176,8 @@
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada says April scenario analysis telegraphed hike",
-    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
+    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
    ]
   },
   {
