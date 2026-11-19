@@ -9,7 +9,9 @@
 "src": "Forex Factory",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg"
+],
 "desc": "",
 "id": "3b69dd9e3a4f",
 "score": null,
@@ -435,6 +437,26 @@
 "rr": "Supports December hike pricing and a tail for 50bp. Only news paraphrases were available.",
 "ev": "FOMC minutes, Oct 27-28 meeting",
 "basis": "reports"
+},
+{
+"t": "2026-11-18T19:03:55Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed’s Waller Wants a 50bp Hike but Sees No AI Bubble Pricing",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdThtUko5WWkzZVA3MmZZbm9qcTlQNGpJZXY0TjVMbHJVY3NoOGYweHgtbkhkOGVlblB1blBYSVpjU3lnOHFVNkRfTTRaMXljWHdDcDJWb0JIYTR3dktkRE44YnI2V25ndGE2TkJ6cXByWUVweG9GTzlOaDR0TGdETnNpckctU1QyLVhPSVNvUTI?oc=5",
+"src": "FourWeekMBA",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "762bed2dcdb9",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-18T19:03:20Z",
@@ -1829,7 +1851,8 @@
 "tone": "neutral",
 "also": [
 "marketscreener.com",
-"Seeking Alpha"
+"Seeking Alpha",
+"Action Forex"
 ],
 "desc": "",
 "id": "37ef5d5768bd",
