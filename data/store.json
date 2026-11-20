@@ -30,7 +30,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Investing.com India"
+"Investing.com India",
+"Investing.com South Africa"
 ],
 "desc": "",
 "id": "809b13067419",
@@ -2383,7 +2384,9 @@
 "src": "IndexBox",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "88a98e7127d3",
 "score": 9,
