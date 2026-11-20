@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T09:48:59Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed’s Lisa Cook speaks ahead of hearing",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3NlcFpZR1FBdTZlZ1pZS1g4UGc1Z1pjOEVMRnBpbUUtX3h0VFF6SHNNWmRjQmFUNTQ0T1c0bW1TZWg3NldndVFXMnY1OUQ0OEd5X2RfSGhxVmJwWTM5Nmx0QU5Jc0l1VFk4SHFXOWFQZnU4cTJVRnNqTG9TS3ViSDYtb0JQb3NSS01KOVJ5TQ?oc=5",
+"src": "Yahoo",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "cbf60869c34f",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T09:40:37Z",
 "bank": "ECB",
 "speaker": "Sleijpen",
@@ -29,7 +49,11 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com",
+"The Lufkin Daily News",
+"CNA"
+],
 "desc": "",
 "id": "f5155491a813",
 "score": null,
@@ -71,7 +95,9 @@
 "src": "Zprávy Kurzy.cz",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Forex Factory"
+],
 "desc": "",
 "id": "2c02378f3d5f",
 "score": null,

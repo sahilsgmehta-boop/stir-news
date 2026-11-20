@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T09:52:00Z",
+ "built": "2026-11-20T10:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,7 +59,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 58,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
@@ -68,8 +68,8 @@
     "The Fed\u2019s intentions remain key for the markets",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
-    "Chicago Fed president says overheating economy worries him more than gas prices",
     "The Fed's next moves come into focus",
+    "Chicago Fed president says overheating economy worries him more than gas prices",
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny"
    ]
@@ -80,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
-   "added": 1,
+   "kept": 62,
+   "added": 3,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -100,24 +100,36 @@
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 81,
+   "kept": 36,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "What kind of ECB is Europe getting after Lagarde?",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
+    "A Favorite Emerges to Succeed Christine Lagarde",
+    "Meet the European Central Bank\u2019s new squad",
+    "Lagarde Eyes WEF Role After Early ECB Exit",
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
+    "How to interpret the ECB's policy signals from Lagarde's remarks today",
+    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
+    "German Government Nominates Brunnermeier for ECB Board Seat",
+    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates"
+   ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 16,
-   "added": 1,
+   "fetched": 22,
+   "kept": 18,
+   "added": 0,
    "error": "",
    "near_misses": [
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
-    "Rates Spark: ECB reserve rethink would bring funding pressure closer"
+    "Rates Spark: ECB reserve rethink would bring funding pressure closer",
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say"
    ]
   },
   {
@@ -137,9 +149,9 @@
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
-    "Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
-    "Bank of England warns of further interest rate rises"
+    "Bank of England warns of further interest rate rises",
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
    ]
   },
   {
@@ -147,7 +159,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 3,
    "added": 0,
    "error": "",
