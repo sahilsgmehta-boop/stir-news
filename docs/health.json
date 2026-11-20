@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T01:22:01Z",
+ "built": "2026-11-20T01:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,8 +66,8 @@
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Fed's Rate Pause Masks A Double AI Risk",
-    "The Fed's next moves come into focus",
     "Chicago Fed president says overheating economy worries him more than gas prices",
+    "The Fed's next moves come into focus",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
     "Fed's Hawks Are Squawking"
@@ -79,40 +79,52 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 3,
+   "kept": 65,
+   "added": 1,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Worried about an AI bust? So is the Federal Reserve.",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "Worried about an AI bust? So is the Federal Reserve.",
     "The Fed's next moves come into focus",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike"
+    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 78,
+   "kept": 26,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "What kind of ECB is Europe getting after Lagarde?",
+    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
+    "A Favorite Emerges to Succeed Christine Lagarde",
+    "Mamdani, Musk, Altman, Lagarde, A.I. and Other DealBook Summit Highlights",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
+    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
+    "How to interpret the ECB's policy signals from Lagarde's remarks today",
+    "Meet the European Central Bank\u2019s new squad",
+    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
+    "Lagarde Eyes WEF Role After Early ECB Exit"
+   ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 16,
-   "added": 1,
+   "fetched": 19,
+   "kept": 15,
+   "added": 0,
    "error": "",
    "near_misses": [
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",

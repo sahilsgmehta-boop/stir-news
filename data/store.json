@@ -12,7 +12,9 @@
 "also": [
 "Yahoo Finance",
 "The Lufkin Daily News",
-"The State"
+"The State",
+"KLSE Screener",
+"Durham Herald Sun"
 ],
 "desc": "",
 "id": "d13243932ad3",
@@ -76,7 +78,9 @@
 "src": "marketscreener.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Breakingthenews.net"
+],
 "desc": "",
 "id": "631d4a9800ef",
 "score": null,
@@ -482,7 +486,9 @@
 "src": "Briefs Finance",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg.com"
+],
 "desc": "",
 "id": "3ebb5a3a2c82",
 "score": null,
@@ -1629,7 +1635,8 @@
 "Bellingham Herald",
 "Modesto Bee",
 "Columbus Ledger-Enquirer",
-"Charlotte Observer"
+"Charlotte Observer",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "7a276609db79",
@@ -2916,7 +2923,8 @@
 "Forex Factory",
 "Yahoo Finance",
 "WTVB",
-"Kitco"
+"Kitco",
+"Yahoo! Finance Canada"
 ],
 "desc": "",
 "id": "b7790baa4f40",
@@ -4491,7 +4499,8 @@
 "Toronto Star",
 "Yahoo Finance",
 "WRAL",
-"Courthouse News Service"
+"Courthouse News Service",
+"Courthouse News"
 ],
 "desc": "",
 "id": "72a2679b23ec",
