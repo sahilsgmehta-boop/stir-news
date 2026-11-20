@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T05:07:00Z",
+ "built": "2026-11-20T05:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "No, the Fed isn\u2019t pumping $1.756 billion into markets on Friday morning: what that viral post gets wrong",
@@ -56,11 +56,23 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 57,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Chicago Fed president says overheating economy worries him more than gas prices",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+    "The Fed's next moves come into focus",
+    "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
+    "Supersized December rate hike could be ahead: Fed governor",
+    "Fed's Rate Pause Masks A Double AI Risk"
+   ]
   },
   {
    "id": "gn_fed2",
@@ -68,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -78,8 +90,8 @@
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
     "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
-    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "Supersized December rate hike could be ahead: Fed governor",
+    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
@@ -99,11 +111,11 @@
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Meet the European Central Bank\u2019s new squad",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
-    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates"
+    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
+    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say"
    ]
   },
   {
@@ -111,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 15,
+   "fetched": 22,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -135,7 +147,7 @@
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
@@ -148,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -162,7 +174,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
