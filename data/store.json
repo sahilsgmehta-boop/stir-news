@@ -241,6 +241,26 @@
 "basis": "reports"
 },
 {
+"t": "2026-11-20T04:10:59Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Fed's Anna Paulson: More Rate Hikes Needed to Curb Inflation - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmlfRkJ5OHJXeGdBWUVraEdfUGpJblE2N0lfaHFLazQzYVViZlZGZUlFUHVNSXpteG5HblMtaDRpUmNkVldGeENQN0R6OWR1RHJHNTd0V0xqbUxwUmZqQ0YwVGxSTE8xMldDNVFOSzhxc1JDSS1EZ09ib0t0SmNmQzhhVlM0Ulo3WF9SOFRvbDZDMnRqcTVEU3g2c0RYX0szeXc?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ec5f539c1b14",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T04:08:37Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -436,7 +456,8 @@
 "also": [
 "Reuters",
 "The Lufkin Daily News",
-"Investing.com"
+"Investing.com",
+"Merced Sun-Star"
 ],
 "desc": "",
 "id": "9fb3bc087f07",
@@ -698,7 +719,8 @@
 "The Lufkin Daily News",
 "Centre Daily Times",
 "Rock Hill Herald",
-"Hilton Head Island Packet"
+"Hilton Head Island Packet",
+"Idaho Statesman"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",
@@ -743,7 +765,8 @@
 "tone": "neutral",
 "also": [
 "Investing.com Australia",
-"Investing.com"
+"Investing.com",
+"StreetInsider"
 ],
 "desc": "",
 "id": "0496cc306bf8",
@@ -964,7 +987,8 @@
 "Kitco",
 "marketscreener.com",
 "WTVB",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Yahoo"
 ],
 "desc": "",
 "id": "8cf675214fab",

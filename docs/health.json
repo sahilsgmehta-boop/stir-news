@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T12:07:01Z",
+ "built": "2026-11-20T12:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 13,
+   "kept": 12,
    "added": 0,
    "error": ""
   },
@@ -55,11 +55,23 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 100,
+   "kept": 59,
+   "added": 1,
+   "error": "",
+   "near_misses": [
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
+    "The Fed\u2019s intentions remain key for the markets",
+    "The Fed's next moves come into focus",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Supersized December rate hike could be ahead: Fed governor",
+    "Fed's Hawks Are Squawking",
+    "Chicago Fed president says overheating economy worries him more than gas prices"
+   ]
   },
   {
    "id": "gn_fed2",
@@ -88,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 90,
-   "kept": 45,
+   "fetched": 85,
+   "kept": 43,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -110,8 +122,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 14,
+   "fetched": 21,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -123,11 +135,23 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 30,
+   "kept": 4,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
+    "What the Bank of England\u2019s latest comments signal about a rate hike",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
+    "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
+    "BOE to Test How Private Credit Market Could Amplify Shocks",
+    "Bank of England warns of further interest rate rises",
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
+   ]
   },
   {
    "id": "gn_boc",
