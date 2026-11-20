@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T00:30:13Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Fed's Paulson: Communications need to be clear on perspectives",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3BVakJBa25oaE5rYUdNT3YxSS1tcXBld2tlUmUwZ3FaRm1TRkI0R2RMazZ2SVJ0c0FUOFlDbGNjU1JodS10WVdNbXN2dGdBeTl6akNKSkJtQTlSN0xLREM3c3Q0TTlEbmRBY1FKWUpPMjdqcHVtQmdGYnN2amdEcWh3ZWJJc2RQWEgxZVluMnZFMWZrS1Z3YTN5VkswcjhoSlhZVjFR?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "22a0e77919ba",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T00:29:15Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -115,6 +135,26 @@
 "also": [],
 "desc": "The focus for the dollar shifts from how big the December hike will be to how long the hiking continues. That leans toward front-end Treasury yields staying high into the first quarter. It’s a constructive backdrop for the dollar against lower-yielding currencies, although intervention risk near 160 limits the upside in USD/JPY. Gold faces the same headwind it has struggled with all year, as longer-lasting high US rates raise the cost of holding it. Freight and diesel costs are a direct channel from oil to US core inflation, so oil prices now feed straight into Fed pricing. --- Barclays says t",
 "id": "6dcf4964fd4c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-19T22:17:03Z",
+"bank": "Fed",
+"speaker": "Jefferson",
+"hl": "Fed Vice Chair Jefferson says AI is adding to inflationary pressure — The Hill",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ01qTTFIMGFQV01SV3BpU2FXNHh0RGh5QjZERzZSNXhGZmVQdEhXT2hSZ28zdktQc0RWTUJrZWJNMXZOTTdFLUtHbXRETHljRi01T0xhN1VkU21yM0xUV2plXzMwRkVXdzJGUGhGWC1jajV6WGVQc1JlYXkxX0F2aC0tUUFOeDZmMlN6ZTQ5cnlyd3JLWnRIZFZOZjNzVTVHUzNPNjhybVFpYkNQQnc?oc=5",
+"src": "UA.NEWS",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "fb043564d45f",
 "score": null,
 "read": "",
 "sum": "",
@@ -302,7 +342,8 @@
 "SRN News",
 "The Lufkin Daily News",
 "Centre Daily Times",
-"Rock Hill Herald"
+"Rock Hill Herald",
+"Hilton Head Island Packet"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",

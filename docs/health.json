@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T00:37:01Z",
+ "built": "2026-11-20T00:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 1,
+   "kept": 58,
+   "added": 2,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
-    "Fed's Rate Pause Masks A Double AI Risk",
     "The Fed's next moves come into focus",
+    "Fed's Rate Pause Masks A Double AI Risk",
+    "Fed officials expect December rate hike",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
-    "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
-    "Fed's Hawks Are Squawking",
-    "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk"
+    "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 61,
    "added": 3,
    "error": "",
    "near_misses": [
@@ -92,7 +92,7 @@
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike"
    ]
   },
   {
@@ -100,21 +100,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 77,
+   "fetched": 78,
    "kept": 24,
    "added": 0,
    "error": "",
    "near_misses": [
     "What kind of ECB is Europe getting after Lagarde?",
+    "Bundesbank: December ECB rate hike likely",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "A Favorite Emerges to Succeed Christine Lagarde",
-    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "Mamdani, Musk, Altman, Lagarde, A.I. and Other DealBook Summit Highlights",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
+    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Meet the European Central Bank\u2019s new squad",
-    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
-    "Lagarde Eyes WEF Role After Early ECB Exit"
+    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates"
    ]
   },
   {
@@ -172,7 +172,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
    ]
   },
   {
