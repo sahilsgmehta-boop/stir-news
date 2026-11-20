@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T15:22:01Z",
+ "built": "2026-11-20T15:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,32 +77,44 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 100,
+   "kept": 65,
+   "added": 2,
+   "error": "",
+   "near_misses": [
+    "Why would the Fed consider a half-percentage-point hike in December?",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+    "The Fed's next moves come into focus",
+    "Supersized December rate hike could be ahead: Fed governor",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "Fed may need to hike rates four times, says central bank official",
+    "Worried about an AI bust? So is the Federal Reserve."
+   ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 49,
-   "added": 1,
+   "fetched": 98,
+   "kept": 50,
+   "added": 2,
    "error": "",
    "near_misses": [
-    "Candidate or kingmaker: could Lagarde sway French presidential race?",
     "Lagarde appointed European Central Bank's head",
     "ECB's Pereira: Energy-driven inflation pressures remain significant",
     "What kind of ECB is Europe getting after Lagarde?",
     "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "A Favorite Emerges to Succeed Christine Lagarde",
     "Meet the European Central Bank\u2019s new squad",
+    "A Favorite Emerges to Succeed Christine Lagarde",
+    "WEF role \u2018option\u2019 for Lagarde after leaving ECB",
     "Lagarde Eyes WEF Role After Early ECB Exit",
-    "WEF role \u2018option\u2019 for Lagarde after leaving ECB"
+    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech"
    ]
   },
   {
@@ -123,7 +135,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -131,8 +143,8 @@
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
-    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England warns of further interest rate rises",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
@@ -145,7 +157,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 30,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -166,11 +178,12 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
@@ -225,8 +238,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 100,
-   "kept": 76,
-   "added": 72,
+   "kept": 77,
+   "added": 73,
    "error": ""
   },
   {
