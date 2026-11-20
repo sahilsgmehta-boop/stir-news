@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T16:07:30Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB's Nagel Signals December Policy Tightening as Inflation Stays High",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYVQxNmthd3lIY2xFUTVmU1JYanB5NWZmMmp0OGxoQTk5aVdzZ1Azdl9LeWd6eTVBRy1WakwxNzhRbk5aRms4VkxOcDFfNzdtQThTX1h4SjhyVER3ZFhnc1JtTDk4eTZSV0xkRlJJOWZPX25ibFEzVC05ZHNrZUswVFRIYU9oeVl2M2pzYk80dlBjUnNlMmJuRzJSSWtnUQ?oc=5",
+"src": "Global Banking & Finance Review",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ef336d142a33",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T16:02:09Z",
 "bank": "ECB",
 "speaker": "Nagel",
@@ -9,7 +29,9 @@
 "src": "Reuters",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Euronext Markets: Real-time Stock Market Data | live"
+],
 "desc": "",
 "id": "989454aa78cc",
 "score": null,
