@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T16:02:09Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB's Nagel: Will likely need to act in December but price expectations remain anchored",
+"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUWc1a293TENnZHVueTh5aDU1YXNCSDZPNnY1Y0J0bDhpaWtWdk1PcHRSbEdnOWtmWjRENFhMQ2lDRDlsMVF6b0o4UWx5aVhoWmRqTkQ5alZ2RXA0Tkx6OEhMckdLanNXLXladWt4dzZ2YXlNdTNMSTYzeFduQXJuanNZb2MwR05YRXJXaUU5S3NhdWNQRkt3eFNYbHR5aUVTemhEYXdqRUxfTTdXRUY1VllpeWxJLWZXRmtXUF9HelhqNkE4?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "989454aa78cc",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T15:45:02Z",
 "bank": "ECB",
 "speaker": "Santos Pereira",
@@ -294,7 +314,9 @@
 "src": "Yahoo",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Semafor"
+],
 "desc": "",
 "id": "cbf60869c34f",
 "score": 0,
@@ -991,7 +1013,8 @@
 "The Lufkin Daily News",
 "Hilton Head Island Packet",
 "Yahoo Finance",
-"Sacramento Bee"
+"Sacramento Bee",
+"95 KQDS"
 ],
 "desc": "",
 "id": "23279a98b334",
@@ -2567,7 +2590,8 @@
 "Reuters",
 "The Lufkin Daily News",
 "Bradenton Herald",
-"WTVB"
+"WTVB",
+"WHTC"
 ],
 "desc": "",
 "id": "5acece2ae0e4",
