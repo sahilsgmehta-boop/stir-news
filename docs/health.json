@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T22:52:01Z",
+ "built": "2026-11-20T23:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -77,20 +77,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 56,
    "added": 6,
    "error": "",
    "near_misses": [
-    "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
+    "Why would the Fed consider a half-percentage-point hike in December?",
     "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology'",
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "The Fed's next moves come into focus",
-    "Supersized December rate hike could be ahead: Fed governor"
+    "The Fed's next moves come into focus"
    ]
   },
   {
@@ -99,13 +99,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
@@ -136,21 +136,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 2,
+   "fetched": 26,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
+    "GBP supported by hawkish BoE rate hike",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
+    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow",
-    "Bank of England Starts \u00a3160m Headquarters Renovation"
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
    ]
   },
   {
@@ -158,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 21,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -170,7 +170,6 @@
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Media Interview \u2013 Barrie 360",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-    "Inflation has tracked Bank of Canada's high-oil scenario, one that called for repeated rate hikes, deputy governor says",
     "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
     "Bank of Canada Says Scenarios Signalled October Rate Hike"
    ]
