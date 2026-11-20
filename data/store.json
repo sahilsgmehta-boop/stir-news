@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T18:13:15Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed's Cook says central bank watching AI industry financing",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YWXJneGJrRXB4bjlRejFQMDZSTU9KalQ1RDd1SXJhaUQyMnNJTVA0VmNpR0pFdDJkQ192YVljbEU2WUVKTWVIbndFSC12aDZKRVhCbFNZRC1hZDQ5aWd0b20zcko3UXZTTmd3LThaNlN6aHM2WVFpZFc0M2U4anc?oc=5",
+"src": "Yahoo",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "45c98fa71ce9",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T17:57:19Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -9,7 +29,9 @@
 "src": "Investing.com Australia",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com"
+],
 "desc": "",
 "id": "edb7f8c35417",
 "score": null,
@@ -154,7 +176,9 @@
 "src": "ProtoThema English",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"sofokleous10.gr"
+],
 "desc": "",
 "id": "b09bdaac2cc7",
 "score": null,
@@ -298,7 +322,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"MLQ.ai"
+],
 "desc": "",
 "id": "5e4acda856e8",
 "score": null,
