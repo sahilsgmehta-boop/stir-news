@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T02:22:00Z",
+ "built": "2026-11-20T02:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -62,14 +62,14 @@
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Chicago Fed president says overheating economy worries him more than gas prices",
     "The Fed's next moves come into focus",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
-    "Fed's Rate Pause Masks A Double AI Risk",
     "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
+    "Fed's Rate Pause Masks A Double AI Risk",
     "Supersized December rate hike could be ahead: Fed governor"
    ]
   },
@@ -88,8 +88,8 @@
     "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-    "Worried about an AI bust? So is the Federal Reserve.",
     "The Fed's next moves come into focus",
+    "Worried about an AI bust? So is the Federal Reserve.",
     "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
@@ -110,8 +110,8 @@
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Meet the European Central Bank\u2019s new squad",
+    "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
     "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?"
@@ -121,18 +121,22 @@
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 18,
+   "kept": 14,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
+    "ECB says the AI borrowing boom has echoes of the subprime bubble"
+   ]
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 3,
    "added": 0,
    "error": "",
