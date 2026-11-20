@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T06:37:00Z",
+ "built": "2026-11-20T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,7 +66,7 @@
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
-    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "Chicago Fed president says overheating economy worries him more than gas prices",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
@@ -80,13 +80,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 1,
+   "kept": 63,
+   "added": 3,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
@@ -101,16 +101,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 36,
+   "fetched": 74,
+   "kept": 27,
    "added": 0,
    "error": "",
    "near_misses": [
+    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "What kind of ECB is Europe getting after Lagarde?",
     "A Favorite Emerges to Succeed Christine Lagarde",
-    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Meet the European Central Bank\u2019s new squad",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 26,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -174,7 +174,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
