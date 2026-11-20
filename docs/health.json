@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T11:52:00Z",
+ "built": "2026-11-20T12:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -55,23 +55,11 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 57,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
-    "The Fed\u2019s intentions remain key for the markets",
-    "The Fed's next moves come into focus",
-    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
-    "Fed\u2019s October minutes confirm December increase and float faster tightening",
-    "Supersized December rate hike could be ahead: Fed governor",
-    "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
-    "Fed governor favors half-point rate hike in December unless Fed signals January increase"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
@@ -100,11 +88,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
+   "fetched": 90,
    "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Lagarde appointed European Central Bank's head",
     "What kind of ECB is Europe getting after Lagarde?",
     "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
@@ -113,8 +102,7 @@
     "Meet the European Central Bank\u2019s new squad",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
-    "German Government Nominates Brunnermeier for ECB Board Seat"
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say"
    ]
   },
   {
@@ -122,8 +110,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 17,
+   "fetched": 18,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -135,30 +123,18 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": true,
-   "fetched": 25,
-   "kept": 4,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
-    "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
-    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
-    "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
-    "Bank of England warns of further interest rate rises",
-    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 28,
    "kept": 3,
    "added": 0,
    "error": "",
