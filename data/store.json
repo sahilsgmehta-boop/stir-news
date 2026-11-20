@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-20T18:32:42Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Fed's Paulson: Open to considering consecutive rate hikes",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcF94SnRxTWtyZWs2eUpuRjVDVHBxWHc0eUpXeGx6Zk5MdDFoTkx6cm84VjFfckxGQlpwWllMbmtWcHE1Z05HTDVmd1lnSzBWUUNUNncxZFVwTGJOaUVOVGEwR2E4a19XcXl4TmRGSTM4NkY0WTZQNTZZR0tIVFJWTkJnbkVYdWZ4QzcxSDZCTzIyaDZlWGxQT1liTDlSUdIBowFBVV95cUxQbXVteExGRGRsRzJJZTd3SWo4RFVkalJDRmRaZUN6SHUxTFU0SE82Q215QnJHdUN4U3pCTnVxM3ZJWjVtTkFoZGVrRnJiV1RZYWZPTnFoTXhUNGJfU0VzVHZPTUxuVkJRLUQtZzhGNGZTMWtub0J1a3NNMzRfMkJvSEQzYW1xUTkwRkRTaDdtNHJqV1FLWGhKSFRoUXZ1d2pSUnNv?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4001a4e36f31",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T18:25:23Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzNrVGozWDhWTXBGWDE1dEt5SlgtZElGUWtERk03U3ZrQ1g1aXg1dUpWZ1ZkMUJsdFNwZ3lSeGNKTDNkajMyZEVOWHA2anFINmJYWHUzY2FUMk9vZ0pxcEJjS3Q1OWpnYzV1VnRZaWJtaDZLWThERzhoenZvbUdzMlFtUzluSDNkNXpteDZzQTl1NDNnbjgwR3dXaXpIYnlIQ1dDYmtEdW5XT0ZDY1MyWGQ5Y2U1UQ?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9edf37e9bc86",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T18:22:11Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -31,7 +71,8 @@
 "tone": "",
 "also": [
 "Reuters",
-"Yahoo Finance"
+"Yahoo Finance",
+"AOL.com"
 ],
 "desc": "",
 "id": "45c98fa71ce9",
@@ -894,6 +935,26 @@
 "id": "69daf50383a0",
 "score": 3,
 "read": "Sees more tightening to do, at a deliberate pace; backs priced hikes, not a jumbo.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T00:00:00Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Watch US Economy: Fed’s Cook Sees Growing Urgency to Tackle Inflation",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcks5WThYRmV4cjRBcWZTMXhpYVU0MjZJSjZrLTM4bGJlOTFoNjBfcXlrTnpkNXhuTWJxVFQ0N0Qwd1gzWjBiem84OUtmNzRCdEk3em94dE1pbV9POHBYWTZldXdxc2ZqNnpUZDZZdHlqd2VlSlZORUw1YkdKRHRwTnZDRlFZRUw3MmxpYU9wS3lRc1RiSVZCemJiTkFWVFAzZWJHcWVkVkZmUQ?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "399f6aa3b306",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -2475,7 +2536,8 @@
 "Modesto Bee",
 "Columbus Ledger-Enquirer",
 "Charlotte Observer",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Kitco"
 ],
 "desc": "",
 "id": "7a276609db79",
