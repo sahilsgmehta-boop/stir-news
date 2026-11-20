@@ -10045,6 +10045,240 @@
    "read": "Not a policy remark.",
    "at": "2026-11-20T15:48:56Z",
    "by": "claude"
+  },
+  "da9cc5ebd5f3": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says policy isn't restrictive enough and the Fed can't wait; firmly backs a December hike.",
+   "sum": "Cook says current policy is not restrictive enough, September's hike fell short, and the Fed cannot afford to wait before raising rates again.",
+   "pts": [
+    "Current policy stance is not providing the restraint needed to curb inflation.",
+    "The September hike was likely not enough to bring price pressures down.",
+    "Data since September point to the need for tighter policy; inflation is of great concern.",
+    "Holding off raises the risk that high inflation becomes embedded; waiting has a cost.",
+    "Growth is strong and the labour market healthy, so the economy can bear tighter policy.",
+    "Said her October dissent for a hike reflected the urgency of the inflation fight."
+   ],
+   "rr": "A voting governor firmly behind a December hike: supports the 25bp priced for Dec 9 and adds to the case for follow-up hikes in early 2027, though she did not call for 50bp. Only news paraphrases were available.",
+   "ev": "Speech, Central Bank of Chile annual conference (Santiago)",
+   "basis": "reports",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "399f6aa3b306": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Sees growing urgency to tackle inflation, pointing to a December hike.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "122a10334a19": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says rate hikes are needed to bring high inflation down.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "5ed1b01bff0f": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Policy not restrictive enough; no room to be patient with high inflation.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "b321cc0a1e98": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Recent data show the need for tighter policy.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "520303dc5ab6": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Wire summary flags a hawkish tone from a voting governor.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "2b8477f0b81e": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "No luxury to wait for further hikes; urges acting promptly.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "90854fbefb90": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Waiting when an adjustment is needed has a cost; backs a hike soon.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "68c93b1d8a48": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Ties her October hike dissent to the urgency of the inflation fight.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "edb7f8c35417": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "September hike likely insufficient, so more tightening is needed.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "1e1e8872787c": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Questions whether one move is enough, implying further tightening.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "45c98fa71ce9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Watching AI industry financing; nothing on the rate path.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "3c0344c9ceec": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Won't rule out a large December hike, adding 50bp risk to 25bp pricing.",
+   "lead": "468245d111e7",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "3c61e00a5f93": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenization rules call; nothing on rates.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "b09bdaac2cc7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on anticipating crises; nothing on the rate path.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "073cb0b4050b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenized markets warning; nothing on rates.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "5e4acda856e8": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Wants a December hike taking rates into restrictive territory, hinting at more beyond.",
+   "sum": "Nagel says the ECB needs to hike in December and move policy into restrictive territory, arguing tighter policy would not derail the growth outlook.",
+   "pts": [
+    "The ECB will likely need to act in December with another hike.",
+    "Wants policy moved into the restrictive zone, not just to neutral.",
+    "Inflation remains too high, though price expectations are still anchored.",
+    "Argues tightening would not undermine the growth outlook."
+   ],
+   "rr": "Supports the December hike priced for Dec 17; 'restrictive zone' language leans toward at least one more hike in early 2027. Anchored expectations argue against a bigger step. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "85c16341dc09": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Signals a December hike and says tightening won't hurt growth.",
+   "lead": "5e4acda856e8",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "989454aa78cc": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Likely needs to act in December, but expectations anchored; no urgency for more.",
+   "lead": "5e4acda856e8",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "ef336d142a33": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Signals December tightening as inflation stays high.",
+   "lead": "5e4acda856e8",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "8099d7a277ba": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Flags risk energy inflation spreads, a shift from 'not spreading' in October.",
+   "sum": "Santos Pereira highlights the risk that energy-driven inflation spreads across the euro-area economy.",
+   "pts": [
+    "Warns energy price inflation could spread into broader prices.",
+    "That marks a firmer tone than his October view that inflation was not spreading beyond energy."
+   ],
+   "rr": "Mildly supportive of the December hike priced, coming from a usual dove; no explicit rate call. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "9edf37e9bc86": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Backs deliberate further hikes; opening to back-to-back moves firms the 2027 path.",
+   "sum": "Paulson argues for deliberate rate hikes to tame inflation and says she is open to considering consecutive hikes.",
+   "pts": [
+    "More rate hikes are needed to bring inflation down.",
+    "Prefers a deliberate pace over jumbo moves.",
+    "Open to considering hikes at consecutive meetings."
+   ],
+   "rr": "Supports 25bp on Dec 9 and adds weight to a January follow-up; does not back 50bp. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "4001a4e36f31": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Open to consecutive hikes, supporting December and January moves.",
+   "lead": "9edf37e9bc86",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
+  },
+  "c0b2601e077a": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Commitment to return inflation to 2%; no rate signal beyond that.",
+   "sum": "Moulin says the ECB must bring inflation back to its 2% target.",
+   "pts": [
+    "Stresses the ECB's commitment to returning inflation to 2%.",
+    "Gave no explicit view on the December decision in the reported remarks."
+   ],
+   "rr": "Slightly firmer than his usual tone but no rate call; neutral for December pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-20T20:54:38Z",
+   "by": "claude"
   }
  }
 }

@@ -209,28 +209,28 @@
    },
    "stance": "hawk",
    "next": {
-    "call": "+25",
-    "note": "Dissented on Oct 28 for a 25bp hike; no rate remarks since.",
-    "how": "vote",
-    "quote": "preferred to raise the target range by 1/4 percentage point",
-    "qsrc": "FOMC statement, Oct 28"
+    "call": "hike",
+    "how": "implied",
+    "note": "Nov 20: policy not restrictive enough and the Fed cannot afford to wait; size not named (dissented for 25bp Oct 28).",
+    "quote": "Does Not Have Luxury to Wait for Further Rate Increases",
+    "qsrc": "headline (marketscreener), Nov 20"
    },
    "following": {
     "call": "",
     "note": ""
    },
    "path": {
-    "total": "",
+    "total": "more tightening",
     "by": "",
-    "note": ""
+    "note": "September hike likely insufficient; data since then point to tighter policy (Nov 20)."
    },
-   "view": "Only signal is her October dissent for a hike. Her recent news is the White House removal hearing (set for Dec 14), which she will not attend on its current terms.",
-   "shift": "",
-   "last": "2026-10-28",
-   "ev": "FOMC dissent",
-   "basis": "verbatim",
-   "conf": "medium",
-   "asof": "2026-11-18"
+   "view": "Policy is not yet restrictive enough; high inflation leaves no room for patience and waiting risks embedding it.",
+   "shift": "More hawkish: from an October dissent for 25bp (Oct 28) to saying the Fed cannot wait and policy is not restrictive (Nov 20).",
+   "last": "2026-11-20",
+   "ev": "Speech, Central Bank of Chile conference",
+   "basis": "reports",
+   "conf": "high",
+   "asof": "2026-11-21"
   },
   "Fed|Barr": {
    "votes": {
@@ -430,9 +430,11 @@
     "qsrc": "headline (Forex Factory), Nov 19"
    },
    "following": {
-    "call": "",
-    "note": "Says October's pause was never meant as a stop; would move faster if expectations, wages or underlying inflation rise. No meeting named.",
-    "how": ""
+    "call": "hold or +25",
+    "how": "implied",
+    "note": "Nov 20: open to considering consecutive hikes, so a January follow-up is possible; not a 2027 voter.",
+    "quote": "Open to considering consecutive rate hikes",
+    "qsrc": "headline (Forex Factory), Nov 20"
    },
    "path": {
     "total": "more tightening",
@@ -440,12 +442,12 @@
     "note": "More tightening to do at a deliberate pace (Nov 19); policy needs to be somewhat restrictive."
    },
    "view": "Higher rates are needed to bring inflation down; prefers deliberate hikes to jumbo moves, and the October pause was not the end.",
-   "shift": "Firmer: from 'gradual tightening seems appropriate' (Nov 10) to 'more tightening to do' and 'pause was not a stop' (Nov 19).",
-   "last": "2026-11-19",
-   "ev": "Speech and Q&A on Fed communication",
+   "shift": "Firmer: from 'gradual tightening' (Nov 10) to 'more tightening to do' (Nov 19) and open to consecutive hikes (Nov 20).",
+   "last": "2026-11-20",
+   "ev": "Remarks",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-20"
+   "asof": "2026-11-21"
   },
   "Fed|Goolsbee": {
    "votes": {
@@ -847,10 +849,10 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "Another hike would send a clear signal (Nov 19); a December hike looks 'rather obvious' (Nov 10).",
+    "note": "Nov 20: ECB will likely need to act in December, taking rates into restrictive territory.",
     "how": "said",
-    "quote": "December rate hike is looking 'rather obvious'",
-    "qsrc": "headline (Bloomberg), Nov 10"
+    "quote": "ECB Needs December Rate Hike Into Restrictive Zone",
+    "qsrc": "headline (Bloomberg), Nov 20"
    },
    "following": {
     "call": "open",
@@ -860,17 +862,17 @@
     "qsrc": "headline (Bloomberg), Nov 18"
    },
    "path": {
-    "total": "more than one hike possible",
+    "total": "into restrictive territory",
     "by": "",
-    "note": "Further adjustments may be needed; sees no wage-price spiral and says this is not 2022 (Nov 18-19)."
+    "note": "Wants policy moved into the restrictive zone (Nov 20); expectations still anchored, no wage-price spiral."
    },
-   "view": "Inflation is challenging but not like 2022; another hike would send a clear signal and further moves may be needed.",
-   "shift": "",
-   "last": "2026-11-19",
+   "view": "A December hike is needed to move policy into restrictive territory; tightening would not undermine growth.",
+   "shift": "Firmer: from 'a hike would send a clear signal' (Nov 19) to wanting rates in restrictive territory (Nov 20).",
+   "last": "2026-11-20",
    "ev": "Remarks",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-19"
+   "asof": "2026-11-21"
   },
   "ECB|Panetta": {
    "votes": {
