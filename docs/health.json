@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T02:37:01Z",
+ "built": "2026-11-20T02:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -65,12 +65,12 @@
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "Chicago Fed president says overheating economy worries him more than gas prices",
     "The Fed's next moves come into focus",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
-    "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
     "Fed's Rate Pause Masks A Double AI Risk",
-    "Supersized December rate hike could be ahead: Fed governor"
+    "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It"
    ]
   },
   {
@@ -79,13 +79,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 2,
+   "kept": 61,
+   "added": 4,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "The Fed's next moves come into focus",
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 25,
+   "fetched": 75,
+   "kept": 24,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -109,12 +109,12 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "Meet the European Central Bank\u2019s new squad",
+    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
-    "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?"
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say"
    ]
   },
   {
