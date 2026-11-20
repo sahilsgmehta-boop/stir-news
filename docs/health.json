@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T20:07:01Z",
+ "built": "2026-11-20T20:09:52Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -65,8 +65,8 @@
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Chicago Fed president won't rule out a larger rate hike for December",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
+    "Chicago Fed president won't rule out a larger rate hike for December",
     "The Fed's next moves come into focus",
     "The Fed\u2019s intentions remain key for the markets",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
@@ -101,12 +101,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 48,
-   "added": 2,
+   "kept": 49,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
@@ -114,7 +113,8 @@
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
     "Lagarde appointed European Central Bank's head",
-    "Behind the 4% Inflation Rate: ECB\u2019s Pereira Warns of Winter Energy Shock Risks"
+    "What kind of ECB is Europe getting after Lagarde?",
+    "ECB's Pereira: Energy-driven inflation pressures remain significant"
    ]
   },
   {
@@ -122,8 +122,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 14,
+   "fetched": 22,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
