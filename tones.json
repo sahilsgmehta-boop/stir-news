@@ -9855,6 +9855,126 @@
    "ev": "Media availability, Economic Club of Canada",
    "at": "2026-11-20T06:57:12Z",
    "by": "claude"
+  },
+  "ab85fe6952ab": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Repeats that the Fed still needs to raise rates further, in line with her Q&A.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "a5e2ab9c136e": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "A usual dove flags energy-driven inflation pressure as a concern, nudging toward December hike.",
+   "sum": "Santos Pereira said energy-driven inflation pressures are a concern, a firmer tone than his October view that inflation was not spreading beyond energy.",
+   "pts": [
+    "Called energy-driven inflation pressures a concern for the euro area.",
+    "In mid-October he had said inflation was not spreading beyond energy.",
+    "No comment on the December decision was reported in the headlines."
+   ],
+   "rr": "Removes a dovish voice of resistance to the December hike that is largely priced; no direct signal on 2027 pricing. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "2c02378f3d5f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech on acting on financial risks early; no signal on the rate path.",
+   "sum": "Lagarde urged Europe to tackle financial risks before they materialise, named AI-driven cyber threats her top worry and said the ECB will widen euro swap lines.",
+   "pts": [
+    "Speech titled \"Acting in time\" urged policymakers to address risks before they materialise.",
+    "Said AI-boosted cyber threats are her top worry for the financial system.",
+    "Said the ECB will expand euro swap and liquidity lines and make them more accessible globally.",
+    "No remarks on inflation or the December rate decision were reported."
+   ],
+   "rr": "No read-across to December or 2027 pricing; financial-stability and euro-role themes only. Only news paraphrases were available.",
+   "ev": "Speech, \"Acting in time\"",
+   "basis": "reports",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "6af752ec3d63": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About wider access to euro swap lines, not the rate path.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "f5155491a813": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI-driven cyber risk is a financial-stability theme, not a rate signal.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "809b13067419": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI-driven cyber risk is a financial-stability theme, not a rate signal.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "9bf80ccc8dfb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Call to tackle financial risks early; nothing on rates.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "899939c7bb91": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About expanding euro swap lines, not the rate path.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "cbf60869c34f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About her White House removal hearing, not monetary policy.",
+   "sum": "Cook spoke ahead of the White House hearing on her removal; the report carries no remarks on inflation or rates.",
+   "pts": [
+    "Remarks came ahead of the White House hearing on her removal from the Board.",
+    "No comments on inflation, the economy or the December decision were reported."
+   ],
+   "rr": "No rates signal; her last policy signal remains the October dissent for a 25bp hike. Only news paraphrases were available.",
+   "ev": "Remarks ahead of removal hearing",
+   "basis": "reports",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "9f89000debd3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Stablecoin financial-stability warning; no bearing on the rate path.",
+   "sum": "Sleijpen warned that a run on stablecoins could be serious enough to force central banks to rethink policy.",
+   "pts": [
+    "Said a stablecoin run is a financial-stability risk.",
+    "Suggested such a run could force a rethink of central bank policy tools.",
+    "Nothing on inflation or the December decision was reported."
+   ],
+   "rr": "No read-across to ECB rate pricing; he does not vote in December. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
+  },
+  "e0b832012588": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial Stability Review point on hedge funds and bond selloff; not a rate signal.",
+   "lead": "f3082e5740a6",
+   "at": "2026-11-20T11:54:52Z",
+   "by": "claude"
   }
  }
 }
