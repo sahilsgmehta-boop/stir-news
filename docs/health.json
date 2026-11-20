@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T19:07:00Z",
+ "built": "2026-11-20T19:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 55,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,8 +66,8 @@
     "Chicago Fed president won't rule out a larger rate hike for December",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "The Fed\u2019s intentions remain key for the markets",
-    "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "The Fed's next moves come into focus",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike"
    ]
   },
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 53,
+   "fetched": 94,
+   "kept": 54,
    "added": 6,
    "error": "",
    "near_misses": [
     "Why would the Fed consider a half-percentage-point hike in December?",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
-    "Worried about an AI bust? So is the Federal Reserve."
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027"
    ]
   },
   {
@@ -104,15 +104,15 @@
    "error": "",
    "near_misses": [
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
     "Lagarde appointed European Central Bank's head",
     "ECB's Pereira: Energy-driven inflation pressures remain significant",
     "What kind of ECB is Europe getting after Lagarde?",
-    "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
-    "Mamdani, Musk, Altman, Lagarde, A.I. and Other DealBook Summit Highlights"
+    "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks"
    ]
   },
   {
@@ -120,9 +120,9 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 13,
-   "added": 0,
+   "fetched": 21,
+   "kept": 14,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
@@ -134,8 +134,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 2,
+   "fetched": 28,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -145,10 +145,10 @@
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "Why Is The BoE Stress Testing Private Credit?",
-    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "British Pound: Downside risks reinforced by BoE path \u2013 BBH"
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
+    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow"
    ]
   },
   {
@@ -190,7 +190,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 8,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [

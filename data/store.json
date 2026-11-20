@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T18:53:00Z",
+"bank": "ECB",
+"speaker": "Moulin",
+"hl": "ECB Must Bring Inflation Back to 2%, France’s Moulin Says",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUV2X3NvMUlxQnRNWWJPYmFNdTJjTUJ5UUJRVTBhZFUyXy1qNzJvTzZNWkdOd21FeHZxVC04WldsU21rTV9wV0Z1d0RXVTZfQTl6dFlhejBscEtobWJtNk5oTlVtNTRwN1FlbG1tM0IxMUxmWFZiMWRlZFJtaGVHNEJ1T3NiZjd1ZUhVY0J2WUJ4UkRYZEhQUTVqRzFjZlkxb1dPSlZwVG9EUQ?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c0b2601e077a",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T18:32:42Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -10,7 +30,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"StreetInsider"
+"StreetInsider",
+"Investing.com"
 ],
 "desc": "",
 "id": "4001a4e36f31",
