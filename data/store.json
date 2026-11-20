@@ -9,7 +9,9 @@
 "src": "StreetInsider",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"WNWN-FM"
+],
 "desc": "",
 "id": "a5e2ab9c136e",
 "score": null,
@@ -29,7 +31,9 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"marketscreener.com"
+],
 "desc": "",
 "id": "899939c7bb91",
 "score": null,
@@ -138,7 +142,8 @@
 "The Lufkin Daily News",
 "CNA",
 "ASHARQ AL-AWSAT English",
-"Euronext Markets: Real-time Stock Market Data | live"
+"Euronext Markets: Real-time Stock Market Data | live",
+"Reuters"
 ],
 "desc": "",
 "id": "f5155491a813",
@@ -600,7 +605,9 @@
 "src": "investingLive",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"MLQ.ai"
+],
 "desc": "Goolsbee’s comments on inflation, interest rates and AI investment crossed the wires. What is happening with services inflation is important in understanding whether price pressures stem from demand or things like energy costs. Inflation has proven to be far more persistent than was thought in 2025, and data center demand and AI-related wealth impact is adding to it. The steepness of the interest-rate path will be rooted in whether “borderline disturbingly high” inflation is seen returning to Fed’s 2% target. Does not see at this point that inflation is on the path back to 2%. It is not just c",
 "id": "24e79f068359",
 "score": 5,
