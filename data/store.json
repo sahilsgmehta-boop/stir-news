@@ -120,7 +120,9 @@
 "src": "Bloomberg Law News",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Bloomberg.com"
+],
 "desc": "",
 "id": "9bf80ccc8dfb",
 "score": 0,
@@ -835,7 +837,8 @@
 "Fort Worth Star-Telegram",
 "The Lufkin Daily News",
 "Hilton Head Island Packet",
-"Yahoo Finance"
+"Yahoo Finance",
+"Sacramento Bee"
 ],
 "desc": "",
 "id": "23279a98b334",
