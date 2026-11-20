@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T17:57:19Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed’s Cook says September rate hike likely insufficient to curb price pressures",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2NNT244NEF4aGdZT0Ztc0hrdzVQcUlLcGluY09kdXRaRGdZeVh6SE02Vk5QZnR5ZTd1U1Rablg5ZzJHdlk0VThydTVtdjFMNjFRZGtLc1JFNUQzUUs4MWxNNWIyeS1vcGRJQnFWRGpiU0ZsUkFubmtFRHhEalZFZ25kM1pxV3hzODBqT0ZIWTVGNFphUUZCTnFXaU1zaXFERTBwd0czdnZ5cExwaW9IRTVuaFAwSjZibHhEd2tFdUdLX2RYWFZvaw?oc=5",
+"src": "Investing.com Australia",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "edb7f8c35417",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T17:41:00Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -52,6 +72,26 @@
 "also": [],
 "desc": "",
 "id": "520303dc5ab6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T17:21:55Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed’s Cook says monetary policy isn’t restrictive enough",
+"url": "https://investinglive.com/central-banks/fed-s-cook-says-monetary-policy-isn-t-restrictive-enough/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "The Fed’s Cook weighed in on inflation, the labor market and the need for tighter monetary policy in remarks that crossed the wires. Fed’s current monetary policy stance is not providing needed restraint. September’s interest rate hike was not enough to curtail high inflation. High inflation does not give U.S. central bank space to be patient. Holding off on rate hikes increases risk that inflation will embed in economy. Data since September points to need for tighter monetary policy. Current level of inflation is of “great concern.” U.S. economic growth is strong, labor market is healthy and ",
+"id": "5ed1b01bff0f",
 "score": null,
 "read": "",
 "sum": "",
@@ -250,6 +290,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-20T13:56:09Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV2FaSnBlSURnVUdyMTJoVVdsWkd2eFUycFd4UmdROUx6MndJdEZBajVoTm5DcUpUMUJWa1U4MGlNWHczNDAwamdtMWRHOUNnck1zRFhDOFJTeXBQUUR0cFpsRzZGMlhrdXY5Ql9JRUVZc010X2I5UlhxS3lwTWN6eFRHQjdpR1RkT1pXeHFJN0lvY1ZONXM1QWxCWXFPWTJMelR5aGlYOEdELXd3cmxPVnZPSDA3VlRkdmVmODZ5dEgzcUN2SVE?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "5e4acda856e8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T13:36:02Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -397,7 +457,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"marketscreener.com"
+"marketscreener.com",
+"Investing.com India"
 ],
 "desc": "",
 "id": "899939c7bb91",
