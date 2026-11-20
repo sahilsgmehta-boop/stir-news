@@ -9975,6 +9975,76 @@
    "lead": "f3082e5740a6",
    "at": "2026-11-20T11:54:52Z",
    "by": "claude"
+  },
+  "ec5f539c1b14": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says more hikes are needed to curb inflation, repeating her Q&A message.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "ca0aa651cee2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Speech theme of acting early on risks; nothing on the rate path.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "6af2d412ef73": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Urges Europe to act on threats early; no rate signal.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "c37d1ce701fa": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says Europe is too hesitant on crises; policy-coordination theme, not rates.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "70fb575b66d6": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Industrial-funding idea for chip plants and data centres; no rate content.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "892895672b5d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warning on tokenized-asset markets; no bearing on rates.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "2f11b8a86351": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Industrial-funding idea for chip plants and data centres; no rate content.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "6579ee7759e8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
+  },
+  "81146ead465c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-20T15:48:56Z",
+   "by": "claude"
   }
  }
 }
