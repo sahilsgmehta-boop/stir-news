@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T14:39:50Z",
+ "built": "2026-11-20T14:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
-   "kept": 50,
+   "fetched": 99,
+   "kept": 51,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -135,7 +135,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 22,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -143,13 +143,13 @@
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England warns of further interest rate rises",
-    "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
+    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
    ]
   },
   {
@@ -157,11 +157,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 30,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
@@ -170,7 +171,6 @@
     "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada official discusses guidance on interest rate path",
-    "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Media Interview \u2013 Barrie 360"
    ]
   },
@@ -178,12 +178,11 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 1,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": []
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
