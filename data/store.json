@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T13:36:02Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Christine Lagarde warns EU risks losing tokenized financial assets market",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUZkNFVaOGZ3c3ZtOTJ4cjZRZW5tR3pfMlNERXJRLWRfT2NRWVRqSENTeWRFN0NfTy1PWE1qZ29hZzJFMm9pbk8xU01jSUVKWlBXalJ5M1hacGVYQWh6Rk50N0Ywd05iTTBDbzJhQmMyci1ZMi1uMkVaZWprNHdoV3hWdzctY1pKT0VTalg4MUQzXzJOVlZfLVktbmxzTmo1MHFTNFg5am0yaHFrOEJqZlZEdUdkLWtHM2U1VjBR?oc=5",
+"src": "NewsBytes",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "892895672b5d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T12:52:15Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -10,7 +30,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Superpower Daily"
+"Superpower Daily",
+"Unite.AI"
 ],
 "desc": "",
 "id": "70fb575b66d6",
@@ -287,7 +308,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"Forex Factory"
+"Forex Factory",
+"EIN News"
 ],
 "desc": "",
 "id": "2c02378f3d5f",
@@ -408,7 +430,8 @@
 "tone": "hawk",
 "also": [
 "Bloomberg.com",
-"The Edge Singapore"
+"The Edge Singapore",
+"Yahoo Finance UK"
 ],
 "desc": "",
 "id": "4ea45ea615fd",
@@ -670,7 +693,9 @@
 "src": "Barron's",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Quartz"
+],
 "desc": "",
 "id": "1118402feddf",
 "score": 6,
