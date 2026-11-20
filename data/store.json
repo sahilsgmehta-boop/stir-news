@@ -53,7 +53,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "c37d1ce701fa",
 "score": null,
@@ -117,7 +119,8 @@
 "WNWN-FM",
 "Yahoo",
 "The Lufkin Daily News",
-"Reuters"
+"Reuters",
+"WKZO"
 ],
 "desc": "",
 "id": "a5e2ab9c136e",
@@ -293,6 +296,26 @@
 "id": "6af752ec3d63",
 "score": 0,
 "read": "About wider access to euro swap lines, not the rate path.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T09:00:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde: The cost of inaction is real",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPczNraEMtVjRUb0hoZGQ4cDdzM3JPb1NxenhzYTdsU01tbGZ4MnJSTzBOTWZSWHdkODROVFN3dDJFdmNQczBKdlNvV0NkZUxvSmJ0Y2JOYlVfQnZhWlpsZGhkT1NMZm9IbzB2RG04TVo0eW9XZU91dGpnS0NaenppWlFUa3MtR09LSlE?oc=5",
+"src": "Breakingthenews.net",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ca0aa651cee2",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
