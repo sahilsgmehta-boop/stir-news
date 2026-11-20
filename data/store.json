@@ -9,7 +9,9 @@
 "src": "Forex Factory",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"StreetInsider"
+],
 "desc": "",
 "id": "4001a4e36f31",
 "score": null,
@@ -2027,7 +2029,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"WSJ"
+"WSJ",
+"MS NOW"
 ],
 "desc": "",
 "id": "3b6179fd8cdc",
@@ -2939,7 +2942,8 @@
 "The Lufkin Daily News",
 "Bradenton Herald",
 "WTVB",
-"WHTC"
+"WHTC",
+"US News Money"
 ],
 "desc": "",
 "id": "5acece2ae0e4",
