@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T08:30:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Christine Lagarde: Acting in time",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKa3l6RlppSWJKQjNFT1UzMUNlUUQ5VWxaUS1PblZNZE1vTzY1ZzdPVnpXQml4alRDVEozVUlsTmdkN1Fsei1lVTJ6azBVWDN6b0pZa2toNDB4SW9CQ19ZTzhmWkJjNnI3d3cyVUprTWZVdw?oc=5",
+"src": "Zprávy Kurzy.cz",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2c02378f3d5f",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T04:08:37Z",
 "bank": "Fed",
 "speaker": "Paulson",
