@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T20:52:00Z",
+ "built": "2026-11-20T21:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,16 +61,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Chicago Fed president won't rule out a larger rate hike for December",
     "The Fed's next moves come into focus",
-    "The Fed\u2019s intentions remain key for the markets",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
-    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike"
+    "The Fed\u2019s intentions remain key for the markets"
    ]
   },
   {
@@ -101,20 +101,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 48,
-   "added": 1,
+   "kept": 47,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
     "Lagarde appointed European Central Bank's head",
-    "What kind of ECB is Europe getting after Lagarde?",
-    "ECB's Pereira: Energy-driven inflation pressures remain significant"
+    "What kind of ECB is Europe getting after Lagarde?"
    ]
   },
   {
@@ -122,11 +122,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 21,
    "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
@@ -158,7 +159,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 18,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -166,7 +167,7 @@
     "Bank of Canada warns against excessive reliance on rate signals",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
-    "Bank of Canada official discusses guidance on interest rate path",
+    "Bank of Canada official downplays need for more forward guidance on rate path",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Media Interview \u2013 Barrie 360",
