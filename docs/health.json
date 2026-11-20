@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T06:07:00Z",
+ "built": "2026-11-20T06:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 2,
+   "kept": 62,
+   "added": 1,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -93,7 +93,7 @@
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table."
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 73,
+   "fetched": 74,
    "kept": 27,
    "added": 0,
    "error": "",
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 15,
+   "fetched": 21,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
