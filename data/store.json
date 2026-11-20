@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-20T17:41:00Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
+"src": "WSJ",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "68c93b1d8a48",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T17:37:26Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed Governor Cook Says FOMC Does Not Have Luxury to Wait for Further Rate Increases",
+"url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRDhxT3Voajd0dVNPT3U5cUg2ZTNySkRfQ3VJRnE5cWNtYnlUdTJQMzFVazNJM1ItTS1JXzdMYnhXVlFwem5wM2pvY0dzdGlyTjZ5TzNVeFBGQnQwdldTMlk3bjRfMzRPMDNkd1QtZ3BLMTlfYTlick9SZXN3dEtrdkh1RUNrRVpZVjVFT2g0U1hDX1RpOHpsTndrcHpGX3gtUXNEM3J5VjREcXNYYWtidEtpSExxMGhGZHMtX1JjdmI0TEZFQUM1WG5XRTVwWVYyOXc?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "2b8477f0b81e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T17:29:00Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -32,7 +72,8 @@
 "also": [
 "www.marketscreener.com",
 "The Korea Times",
-"marketscreener.com"
+"marketscreener.com",
+"Reuters"
 ],
 "desc": "",
 "id": "122a10334a19",
