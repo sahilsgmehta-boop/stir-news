@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T14:52:00Z",
+ "built": "2026-11-20T15:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 99,
-   "kept": 51,
+   "fetched": 96,
+   "kept": 48,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -111,10 +111,10 @@
     "What kind of ECB is Europe getting after Lagarde?",
     "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
-    "A Favorite Emerges to Succeed Christine Lagarde",
     "Meet the European Central Bank\u2019s new squad",
+    "A Favorite Emerges to Succeed Christine Lagarde",
     "Lagarde Eyes WEF Role After Early ECB Exit",
-    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech"
+    "WEF role \u2018option\u2019 for Lagarde after leaving ECB"
    ]
   },
   {
@@ -163,8 +163,8 @@
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada says scenarios help make monetary policy more effective",
@@ -178,11 +178,12 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 1,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
