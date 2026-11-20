@@ -423,6 +423,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-20T15:05:32Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB’s Nagel Signals December Rate Hike, Says Tightening Would Not Undermine Growth Outlook",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlVyakkxR2haM1dwcW5paFlrbFVyTDF2a2JDaUVKdTNFU0paaG9MT1pTX1Zkd0VrMHVxX2N4M05EUzFxUFNpX0ZaQlJLa3FHamZTVy1uTEVHTGVHZTVDTEpvRHhla1J6bVpzUWVqX1V4TENlWkJLc1hzSVhMclV4Y2pSeVBPeVNWS2hUNzRZWWVNb3YzZTUzUVFnTUxjMlNa0gGgAUFVX3lxTE1SVXJqSTFHaFozV3BxbmloWWtsVXJMMXZrYkNpRUp1M0VTSlpob0xPWlNfVmR3RWswdXFfY3gzTkRTMXFQU2lfRlpCUktrcUdqZlNXLW5MRUdMZUdlNUNMSm9EeGVrUnptWnNRZWpfVXhMQ2VaQktzWHNJWExyVXhjalJ5UE95U1ZLaFQ3NFlZZU1vdjNlNTNRUWdNTGMyU1o?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "85c16341dc09",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T14:58:46Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -478,6 +498,26 @@
 "id": "892895672b5d",
 "score": 0,
 "read": "Warning on tokenized-asset markets; no bearing on rates.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T13:21:57Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB President Lagarde urges EU to align tokenization rules — CoinDesk",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODFjeGNncFE5Wkdta053Ql9KMVNTMDZmRnIxSWdtTWw1eHpxVmwxaGNCME4tWnNxd0VqcTRFLTBFb0hmSGE2QnN2bXNKYXFQRUh0ek9DU3hZbG5TWkVOd2Z0ZW5fNlhmbHhwYm5qeFNvZU5LM1dmTklybldhUkVOWkFCN3ByUlFrSXBhYkRYOUZBZDVKaHhtTGs1X2Z5VkRlcWpzQUQ3eDJ1RklpMGc?oc=5",
+"src": "UA.NEWS",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3c61e00a5f93",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
@@ -737,7 +777,8 @@
 "ASHARQ AL-AWSAT English",
 "Euronext Markets: Real-time Stock Market Data | live",
 "Reuters",
-"Wichita Eagle"
+"Wichita Eagle",
+"AOL.co.uk"
 ],
 "desc": "",
 "id": "f5155491a813",
@@ -760,7 +801,8 @@
 "tone": "neutral",
 "also": [
 "The Lufkin Daily News",
-"Yahoo"
+"Yahoo",
+"The Daily News | Texas' Oldest Newspaper"
 ],
 "desc": "",
 "id": "6af752ec3d63",
@@ -1350,7 +1392,8 @@
 "Idaho Statesman",
 "Merced Sun-Star",
 "Yahoo! Finance Canada",
-"Wisevoter"
+"Wisevoter",
+"Bellingham Herald"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",
