@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T21:37:01Z",
+ "built": "2026-11-20T21:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 59,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology'",
@@ -65,8 +65,8 @@
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Chicago Fed president won't rule out a larger rate hike for December",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "The Fed's next moves come into focus",
     "Fed\u2019s October minutes confirm December increase and float faster tightening"
    ]
@@ -76,8 +76,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 99,
-   "kept": 56,
+   "fetched": 96,
+   "kept": 55,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -136,21 +136,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 2,
+   "fetched": 28,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
     "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
-    "Bank of England Starts \u00a3160m Headquarters Renovation",
-    "Why Is The BoE Stress Testing Private Credit?"
+    "GBP supported by hawkish BoE rate hike",
+    "Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure"
    ]
   },
   {
@@ -171,8 +171,8 @@
     "Bank of Canada Media Interview \u2013 Barrie 360",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Inflation has tracked Bank of Canada's high-oil scenario, one that called for repeated rate hikes, deputy governor says",
-    "Bank of Canada Says Scenarios Signalled October Rate Hike",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
+    "Bank of Canada Says Scenarios Signalled October Rate Hike"
    ]
   },
   {
