@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T03:52:00Z",
+ "built": "2026-11-20T04:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,10 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
+    "No, the Fed isn\u2019t pumping $1.756 billion into markets on Friday morning: what that viral post gets wrong",
     "Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide"
    ]
   },
@@ -91,7 +92,7 @@
     "The Fed's next moves come into focus",
     "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
-    "Worried about an AI bust? So is the Federal Reserve.",
+    "Supersized December rate hike could be ahead: Fed governor",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
@@ -100,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
+   "fetched": 94,
    "kept": 35,
    "added": 0,
    "error": "",
