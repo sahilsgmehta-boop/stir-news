@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T17:29:00Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "U.S. Fed's Cook - Hawkish tone",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fNm9qZV93TmpwcFI3RTZ4amdhczc2dm4xNGV1ZG53dEh6Nkl2MU9IUWVHVW51Q3RacUVwb3g5N0VfdkJvQ3Bvb0p3aWU2cVJaZjR3eEx0SU92clE4clJlbGVRTGMwR2pDalRvM0dwUmN0dzZrWVE?oc=5",
+"src": "Continuum Economics",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "520303dc5ab6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T17:21:24Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -10,7 +30,9 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"www.marketscreener.com"
+"www.marketscreener.com",
+"The Korea Times",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "122a10334a19",
@@ -800,6 +822,26 @@
 "basis": "reports"
 },
 {
+"t": "2026-11-19T23:00:32Z",
+"bank": "Fed",
+"speaker": "Goolsbee",
+"hl": "Fed's Goolsbee Says Large Rate Hike Not Ruled Out for December Meeting",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0UWg3dC1vdWRyLW5GdVhpYkE1cjA1aXBSMXhPQVRjeE5tVDlLem9SS0RpTlBkbzB0ZDltblZxZUk1VS1fMUVqanJ3VGNLb1JadHB4SnotWUJ4Zw?oc=5",
+"src": "TOKENPOST",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "3c0344c9ceec",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T22:30:05Z",
 "bank": "Fed",
 "speaker": "",
@@ -1028,7 +1070,8 @@
 "Hilton Head Island Packet",
 "Idaho Statesman",
 "Merced Sun-Star",
-"Yahoo! Finance Canada"
+"Yahoo! Finance Canada",
+"Wisevoter"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",

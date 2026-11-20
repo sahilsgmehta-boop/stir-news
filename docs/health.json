@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T17:22:00Z",
+ "built": "2026-11-20T17:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 53,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 58,
-   "added": 6,
+   "fetched": 82,
+   "kept": 49,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Why would the Fed consider a half-percentage-point hike in December?",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Worried about an AI bust? So is the Federal Reserve."
+    "Worried about an AI bust? So is the Federal Reserve.",
+    "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk",
+    "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike"
    ]
   },
   {
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 49,
+   "kept": 48,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -112,7 +112,7 @@
     "What kind of ECB is Europe getting after Lagarde?",
     "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
     "Mamdani, Musk, Altman, Lagarde, A.I. and Other DealBook Summit Highlights",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down"
+    "A Favorite Emerges to Succeed Christine Lagarde"
    ]
   },
   {
@@ -120,12 +120,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
-   "kept": 12,
+   "fetched": 18,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Rates Spark: ECB reserve rethink would bring funding pressure closer"
+    "Rates Spark: ECB reserve rethink would bring funding pressure closer",
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
   {
@@ -133,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 25,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -155,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 29,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -207,7 +208,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 11,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
