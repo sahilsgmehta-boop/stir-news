@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T07:52:00Z",
+ "built": "2026-11-20T08:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 4,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -56,42 +56,66 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 59,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Chicago Fed president says overheating economy worries him more than gas prices",
+    "The Fed's next moves come into focus",
+    "Supersized December rate hike could be ahead: Fed governor",
+    "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
+    "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny"
+   ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 100,
+   "kept": 63,
+   "added": 3,
+   "error": "",
+   "near_misses": [
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "The Fed's next moves come into focus",
+    "Supersized December rate hike could be ahead: Fed governor",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+   ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
-   "kept": 35,
+   "fetched": 75,
+   "kept": 28,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bitcoin miners turned AI landlords now carry billions in debt into the ECB's subprime warning",
+    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "What kind of ECB is Europe getting after Lagarde?",
     "A Favorite Emerges to Succeed Christine Lagarde",
-    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Meet the European Central Bank\u2019s new squad",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say"
+    "German Government Nominates Brunnermeier for ECB Board Seat"
    ]
   },
   {
@@ -104,8 +128,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble"
    ]
   },
@@ -114,21 +138,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Cryptocurrencies are failing as money: Bank of England's Carney",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
+    "Cryptocurrencies are failing as money: Bank of England's Carney",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "Bank of England warns of further interest rate rises",
-    "Bank of England Weekly Report 18 November 2026"
+    "UK Inflation Hits One-Year High of 3.6% as Bank of England Warns of 5% in 2027"
    ]
   },
   {
