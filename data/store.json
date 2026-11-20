@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T11:20:00Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Anna Paulson: Fed still needs to raise interest rates further",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEFmbDY4QjQzTDZOOUNMak9nQXR2OG5MY1FTQ2Z3Z0JOVEo3RUszbm13d2kwRkViek5IamlrSFNFUFdxU0FNR1p6TW5hd2JKbVM1bGJ3Y0ZOQ3ZSRndhT0ZmSkNlWHY1UmFXTHlNT0hQanYwd0ttQWtRbkxCYmI0Q3BZVlhXV1FrckRxMm1jWURMVEtPNlRjQW1KeEVqWUlTUEdz?oc=5",
+"src": "IDNFinancials",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ab85fe6952ab",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T10:53:42Z",
 "bank": "ECB",
 "speaker": "Santos Pereira",
@@ -10,7 +30,9 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"WNWN-FM"
+"WNWN-FM",
+"Yahoo",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "a5e2ab9c136e",
