@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T16:30:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde: Europe must anticipate crises, not play catch-up – A warning over the economy",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZktHWW44UjQxaE8wTGRtNlBMam9QRE41QWZxRTdDcFVqRHhOODd3QWNkVjlSMFJjY2tDVkV0MllvNFdhVmhaSUFiTUxhRjhCaUJsWjFWd2pVZGoxLTdvZjZ6Yjc2cmd0eWpaWkZLUy1zRTlLVUNGQ3Y2NEZfcjMyVVNSTzNiSlRJYjhiaC1rSElmZ2R1VmNyUmVCV182RHJVTDNwQmd6ODZMdkUyVWdnN1MwMGRDNUQ5SG5J?oc=5",
+"src": "ProtoThema English",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b09bdaac2cc7",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T16:07:30Z",
 "bank": "ECB",
 "speaker": "Nagel",
@@ -30,7 +50,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Euronext Markets: Real-time Stock Market Data | live"
+"Euronext Markets: Real-time Stock Market Data | live",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "989454aa78cc",
@@ -315,7 +336,8 @@
 "also": [
 "Investing.com India",
 "Investing.com South Africa",
-"Investing.com Nigeria"
+"Investing.com Nigeria",
+"Investing.com Australia"
 ],
 "desc": "",
 "id": "809b13067419",
