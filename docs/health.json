@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T05:22:00Z",
+ "built": "2026-11-20T05:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 56,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 65,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -91,8 +91,8 @@
     "The Fed's next moves come into focus",
     "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
@@ -114,8 +114,8 @@
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say"
+    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
+    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates"
    ]
   },
   {
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 17,
+   "fetched": 20,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -138,15 +138,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
-   "kept": 3,
+   "fetched": 30,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 28,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -174,7 +174,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
+    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided"
    ]
   },
   {
