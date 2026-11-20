@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T09:33:45Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB's Lagarde: cyber threat boosted by AI is my top worry",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHJJV1BEVTQxZ2tWcllxclhjV0xOQUNOVkxZci1FbFg0eGZjOUVsQmYwUjBCQmZrMGQtbm51ZTl4MlgzMTRCQTZxMDdZXzRwS3JEZURUUHQ3b0JXM2xxRXA2MlQ0UnVZak5BNFRHM2oyY2cyWjJwSjFaVHdXUV9PSjQ1U21XUVE5Qm9XRTdESnUwTEhOMW9fNEszeGIxWFJTSl9oQlQ3NDMxQWM1ZG1V?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "f5155491a813",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T09:12:56Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -9,7 +29,9 @@
 "src": "Reuters",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"The Lufkin Daily News"
+],
 "desc": "",
 "id": "6af752ec3d63",
 "score": null,
@@ -149,7 +171,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "22a0e77919ba",
 "score": 0,
@@ -590,7 +614,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Bloomberg.com"
+"Bloomberg.com",
+"MLQ.ai"
 ],
 "desc": "",
 "id": "3ebb5a3a2c82",
@@ -2711,6 +2736,26 @@
 "id": "1514982406fd",
 "score": 0,
 "read": "Financial stability warning on AI stocks; no rate signal.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-18T09:38:23Z",
+"bank": "ECB",
+"speaker": "Vujcic",
+"hl": "Hedge funds helped fuel government bond selloff, ECB's Vujcic says",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjF5a3BvU2RLZEZHWVVNWG5uOTJhR1lRRjczSUh4MmdIa0Jsb3ZkMEtkT3hQbGZlVE5zbXdDMnJMS0pyaVVRSk95VUFzQy0wekl3bF9vZWtiTUMzNG9tbkw4NVBlSnh3a01ONzJxR2R3TDdhT0NHVEw2X3BQc2loTFo4Y0NGUkhfeVVQR1hOWEpDNXNHTHBJSEhaTHdGanVvSUpTMVZveGtBSVBwVUd5QVFjQ0d4ZTA0WXc?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e0b832012588",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
