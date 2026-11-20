@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T20:37:01Z",
+ "built": "2026-11-20T20:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
-   "added": 1,
+   "kept": 59,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Why would the Fed consider a half-percentage-point hike in December?",
@@ -78,7 +78,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
+   "fetched": 96,
    "kept": 56,
    "added": 6,
    "error": "",
@@ -102,11 +102,10 @@
    "ok": true,
    "fetched": 100,
    "kept": 48,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
@@ -114,7 +113,8 @@
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
     "Lagarde appointed European Central Bank's head",
-    "Behind the 4% Inflation Rate: ECB\u2019s Pereira Warns of Winter Energy Shock Risks"
+    "What kind of ECB is Europe getting after Lagarde?",
+    "ECB's Pereira: Energy-driven inflation pressures remain significant"
    ]
   },
   {
@@ -158,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 15,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -167,9 +167,9 @@
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Bank of Canada official discusses guidance on interest rate path",
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Media Interview \u2013 Barrie 360",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Inflation has tracked Bank of Canada's high-oil scenario, one that called for repeated rate hikes, deputy governor says",
     "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
     "Bank of Canada Says Scenarios Signalled October Rate Hike"

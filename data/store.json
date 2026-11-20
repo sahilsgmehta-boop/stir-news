@@ -118,7 +118,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Investing.com"
+"Investing.com",
+"www.marketscreener.com"
 ],
 "desc": "",
 "id": "edb7f8c35417",
@@ -849,6 +850,26 @@
 "id": "ca0aa651cee2",
 "score": 0,
 "read": "Speech theme of acting early on risks; nothing on the rate path.",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T08:45:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde urges public backing for data centers",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORE5hcEJnYlZhMnZZYnJ6cDI1cDVPOGhQaDhPWndTTTZ1NFBsVnljNWtMQ3haN01ZalNIS1gzbUpiYUxOMWg3VEZSTEJhSEFwbnlKUWZiaVByRVViblR0OGNxWnFrZ3dza29OUUZlVE8wWTU0cDVYNWtvY2RsQlJrcDdWX3JKRFhLQ2hKNmprdnZKMU45?oc=5",
+"src": "Breakingthenews.net",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "cc88829c4f02",
+"score": null,
+"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
