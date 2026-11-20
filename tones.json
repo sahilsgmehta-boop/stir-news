@@ -9633,6 +9633,228 @@
    "lead": "ff240fc97576",
    "at": "2026-11-19T20:55:18Z",
    "by": "claude"
+  },
+  "352d4b53c42f": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Speech argues shared understanding guides rates better than explicit guidance; no December steer.",
+   "sum": "Paulson gave no December steer in her speech but told the Q&A the Fed has more tightening to do, moving deliberately rather than in jumbo steps.",
+   "pts": [
+    "Prepared remarks focused on communication: shared understanding of the Fed's views works better than explicit forward guidance.",
+    "In Q&A she said the Fed still has more tightening to do to bring inflation down.",
+    "Moving deliberately leaves the Fed better placed to absorb new information.",
+    "Said October's pause was never meant as a stop to the hiking cycle.",
+    "Earlier named rising inflation expectations, wages or underlying inflation as triggers for faster hikes."
+   ],
+   "rr": "Supports the 25bp December hike priced and further hikes into 2027; her deliberate-pace message leans against Waller's 50bp. Firms Q1 2027 pricing more than December. Only news paraphrases were available.",
+   "ev": "Speech and Q&A on Fed communication",
+   "basis": "reports",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "9fb3bc087f07": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Communication remarks: understanding beats guidance; no rate signal in the headline.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "c2db5920bbab": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Silent on December but says October's pause was never a stop, so hikes continue.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "69daf50383a0": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Sees more tightening to do, at a deliberate pace; backs priced hikes, not a jumbo.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "631d4a9800ef": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says higher rates are needed to combat inflation.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "22a0e77919ba": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Communication remarks; no rate signal.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "d13243932ad3": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Backs further rate hikes, consistent with the gradual path priced.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "59e0554d9624": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Q&A: more tightening to do, steadily; supports hikes into 2027 rather than 50bp.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "17eb7fbdd7d1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "778b183f2455": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says market bets on a 2027 ECB hike look reasonable, validating further tightening.",
+   "sum": "Vujcic said market bets on an ECB hike in 2027 do not look unreasonable, endorsing tightening beyond December.",
+   "pts": [
+    "Said pricing of a further ECB hike in 2027 does not seem unreasonable.",
+    "Builds on his view that a December hike looks very likely.",
+    "Energy prices and the Iran war keep pushing euro-area inflation up."
+   ],
+   "rr": "Validates the December hike and the 2027 hike priced; no pushback on the curve, mildly supportive of the 2027 strip. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "4ea45ea615fd": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Recap: Waller floats a 50bp hike, lifting December jumbo odds to about 10%.",
+   "sum": "Recap of Waller's call for a half-point December hike, which lifted market odds of a 50bp move to about 10%.",
+   "pts": [
+    "Waller argued the Fed should hike 50bp in December or signal faster increases.",
+    "Says inflation is broadening and the Fed needs to be more aggressive.",
+    "Markets moved December 50bp odds up to about 10%."
+   ],
+   "rr": "Adds tail risk of 50bp in December above the 25bp priced; supports higher terminal pricing. Only news paraphrases were available.",
+   "ev": "Recap of CNBC interview (Nov 18)",
+   "basis": "reports",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "fb043564d45f": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says AI is adding to inflation pressure, supporting further hikes.",
+   "lead": "c8279dbe2376",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "6051caaf7168": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Says the AI build-out is pushing inflation up, backing tighter policy.",
+   "lead": "c8279dbe2376",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "1239b85e00e0": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Jefferson flags AI-driven inflation as JPMorgan moves to hikes at the next three meetings.",
+   "lead": "c8279dbe2376",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "1118402feddf": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Won't rule out larger hikes, adding to 50bp risk beyond the 25bp priced.",
+   "lead": "468245d111e7",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "24e79f068359": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Sees no clear path back to 2%, supporting a steeper hike path.",
+   "lead": "468245d111e7",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "af530bbf940f": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "All options on the table amid hot inflation, including bigger moves.",
+   "lead": "468245d111e7",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "0e94155c13dd": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Calls months of inflation borderline disturbing; backs more tightening.",
+   "lead": "468245d111e7",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "655d26fb7900": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Stresses Fed independence for curbing inflation; no new rate signal.",
+   "lead": "468245d111e7",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "3ebb5a3a2c82": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says a December ECB hike would send a strong signal; backs the priced hike.",
+   "lead": "3b69dd9e3a4f",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "4193c83fa801": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI financial-stability remarks; no rates content.",
+   "lead": "2bf6fff55f95",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "59f1f456d4ed": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "6dcf4964fd4c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "646a6e563fbf": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
+  },
+  "9a03f0e16990": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Media availability notice; the remarks themselves could not be read.",
+   "ev": "Media availability, Economic Club of Canada",
+   "at": "2026-11-20T06:57:12Z",
+   "by": "claude"
   }
  }
 }

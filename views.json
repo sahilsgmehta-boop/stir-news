@@ -424,28 +424,28 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Further gradual tightening 'seems appropriate'; no meeting or size named.",
+    "note": "Nov 19 Q&A: more tightening to do, moving deliberately; gave no December steer in the speech. Implies a 25bp step, not 50bp.",
     "how": "implied",
-    "quote": "gradual tightening seems appropriate for now",
-    "qsrc": "headline, Nov 10"
+    "quote": "Think we have more tightening to do",
+    "qsrc": "headline (Forex Factory), Nov 19"
    },
    "following": {
     "call": "",
-    "note": "Gradual; would move faster if expectations, wages or underlying inflation rise. No meeting named.",
+    "note": "Says October's pause was never meant as a stop; would move faster if expectations, wages or underlying inflation rise. No meeting named.",
     "how": ""
    },
    "path": {
-    "total": "",
+    "total": "more tightening",
     "by": "",
-    "note": "Policy needs to be somewhat restrictive; puts underlying inflation at 2.5-3%."
+    "note": "More tightening to do at a deliberate pace (Nov 19); policy needs to be somewhat restrictive."
    },
-   "view": "October CPI shows inflation pressures are still very much with us; more work to do.",
-   "shift": "Was among the doves on the tracker; now backs gradual hikes.",
-   "last": "2026-11-11",
-   "ev": "Speech, Conshohocken PA",
+   "view": "Higher rates are needed to bring inflation down; prefers deliberate hikes to jumbo moves, and the October pause was not the end.",
+   "shift": "Firmer: from 'gradual tightening seems appropriate' (Nov 10) to 'more tightening to do' and 'pause was not a stop' (Nov 19).",
+   "last": "2026-11-19",
+   "ev": "Speech and Q&A on Fed communication",
    "basis": "reports",
-   "conf": "medium",
-   "asof": "2026-11-18"
+   "conf": "high",
+   "asof": "2026-11-20"
   },
   "Fed|Goolsbee": {
    "votes": {
@@ -455,10 +455,10 @@
    "stance": "hawk",
    "next": {
     "call": "hike",
-    "note": "Wants more tightening and says hikes may need to be aggressive up front, but declined to prejudge size or timing.",
+    "note": "Wants more tightening; Nov 19 said all options are on the table and would not rule out larger increases. No size named.",
     "how": "implied",
-    "quote": "central bankers must be 'aggressive up front'",
-    "qsrc": "headline, Nov 11"
+    "quote": "Goolsbee Won't Rule Out Larger Rate Increases",
+    "qsrc": "headline (Barron's), Nov 19"
    },
    "following": {
     "call": "open",
@@ -472,13 +472,13 @@
     "by": "",
     "note": "Fed is not on a path back to 2% and must re-establish credibility."
    },
-   "view": "Inflation is way above 2% with tariff effects persistent and jobs stable; the Fed's job is to stop the AI investment surge overheating the economy.",
-   "shift": "Moved from centre to hawk through October-November; Nov 19 repeated the overheating warning without naming a size.",
+   "view": "Inflation is borderline disturbingly high with no clear path back to 2%; the Fed must keep the AI surge from overheating the economy and won't rule out larger hikes.",
+   "shift": "More hawkish: from 'not prejudging' size (Nov 12) to not ruling out larger hikes (Nov 19).",
    "last": "2026-11-19",
    "ev": "Remarks, Chicago Fed",
    "basis": "reports",
    "conf": "medium",
-   "asof": "2026-11-19"
+   "asof": "2026-11-20"
   },
   "Fed|Barkin": {
    "votes": {
