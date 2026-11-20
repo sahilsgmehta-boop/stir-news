@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T18:22:01Z",
+ "built": "2026-11-20T18:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -65,8 +65,8 @@
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Chicago Fed president won't rule out a larger rate hike for December",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
-    "The Fed's next moves come into focus",
     "The Fed\u2019s intentions remain key for the markets",
+    "The Fed's next moves come into focus",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike"
    ]
@@ -89,8 +89,8 @@
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Worried about an AI bust? So is the Federal Reserve.",
-    "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk"
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Worried about an AI bust? So is the Federal Reserve."
    ]
   },
   {
@@ -134,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 28,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -143,12 +143,12 @@
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
     "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
+    "Bank of England Begins 160 Million Pound Headquarters Revamp",
     "Britain's long wait for 2% inflation tests public faith in Bank of England",
-    "Why Is The BoE Stress Testing Private Credit?",
-    "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure"
+    "Why Is The BoE Stress Testing Private Credit?"
    ]
   },
   {
@@ -156,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -170,7 +170,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Media Interview \u2013 Barrie 360",
-    "Gravelle: Setting the scenario: Monetary policy communications in uncertain times"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {

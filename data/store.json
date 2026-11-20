@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T18:22:11Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed’s Cook questions whether one rate cut is enough",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbnR1ZGdnUkoyVDJISWhfelhMMnpBd2llcHlVUndjOTRDaEUyX1Yya1dkWXFvQ0M2REJJclZvM1R0VkJPQlJUQXAybUtzNjBGZnFRSUtMbHhvcTVzX2xxeTNFR3FPRF93Q1RnZXZIRFA4cFlWZW5CTVQ3cFpYT2ktTHZoRndPUTNoYXp6bXAxYVM?oc=5",
+"src": "American Banker",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "1e1e8872787c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T18:13:15Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -9,7 +29,10 @@
 "src": "Yahoo",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Reuters",
+"Yahoo Finance"
+],
 "desc": "",
 "id": "45c98fa71ce9",
 "score": null,
@@ -135,7 +158,8 @@
 "www.marketscreener.com",
 "The Korea Times",
 "marketscreener.com",
-"Reuters"
+"Reuters",
+"Kitco"
 ],
 "desc": "",
 "id": "122a10334a19",
