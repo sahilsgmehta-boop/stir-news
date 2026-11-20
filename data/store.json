@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T01:09:54Z",
+"bank": "ECB",
+"speaker": "Vujcic",
+"hl": "Vujcic says bets on ECB hike in 2027 don’t seem unreasonable",
+"url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxUTRhMlN1eDVWbnZkM3k5TDlLbERNYlpRZVBmTXN3Q25KZGJFU0RYQlcyLVhKdTFWTGU1eDhwUnVIWU0xdGxSZTJoUUJfaHhi?oc=5",
+"src": "The Edge Malaysia",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "778b183f2455",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T01:01:31Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -469,7 +489,8 @@
 "Investing.com",
 "AOL.com",
 "Fort Worth Star-Telegram",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Hilton Head Island Packet"
 ],
 "desc": "",
 "id": "23279a98b334",
