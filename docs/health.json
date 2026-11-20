@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T13:22:00Z",
+ "built": "2026-11-20T13:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -70,7 +70,7 @@
     "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
     "Supersized December rate hike could be ahead: Fed governor",
     "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
-    "Fed governor favors half-point rate hike in December unless Fed signals January increase"
+    "Fed's Hawks Are Squawking"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 62,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -100,32 +100,35 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 49,
+   "fetched": 91,
+   "kept": 48,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Lagarde appointed European Central Bank's head",
     "What kind of ECB is Europe getting after Lagarde?",
-    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
+    "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Meet the European Central Bank\u2019s new squad",
     "Lagarde Eyes WEF Role After Early ECB Exit",
-    "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
-    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech"
+    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
+    "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates"
    ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 17,
+   "kept": 14,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Rates Spark: ECB reserve rethink would bring funding pressure closer"
+   ]
   },
   {
    "id": "gn_boe",
@@ -139,8 +142,8 @@
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
@@ -153,33 +156,22 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 23,
-   "kept": 2,
-   "added": 0,
-   "error": "",
-   "near_misses": [
-    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
-    "Speech by Tiff Macklem, Governor of the Bank of Canada",
-    "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
-    "Bank of Canada says scenarios help make monetary policy more effective",
-    "Bank of Canada Scenario Publishing Boosts Policy Credibility: Gravelle - News and Statistics",
-    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
-    "Bank of Canada official discusses guidance on interest rate path",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
-    "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
-    "Bank of Canada official downplays need for more forward guidance on rate path"
-   ]
-  },
-  {
-   "id": "gn_snb",
-   "name": "Google News: SNB",
-   "kind": "news",
    "ok": false,
    "fetched": 0,
    "kept": 0,
    "added": 0,
    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "id": "gn_snb",
+   "name": "Google News: SNB",
+   "kind": "news",
+   "ok": true,
+   "fetched": 1,
+   "kept": 0,
+   "added": 0,
+   "error": "",
+   "near_misses": []
   },
   {
    "id": "ft_cb",
@@ -205,7 +197,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 11,
-   "added": 2,
+   "added": 1,
    "error": ""
   },
   {
