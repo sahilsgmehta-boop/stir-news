@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T05:52:01Z",
+ "built": "2026-11-20T06:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,17 +58,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
-    "Chicago Fed president says overheating economy worries him more than gas prices",
-    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
     "The Fed's next moves come into focus",
+    "Chicago Fed president says overheating economy worries him more than gas prices",
     "Supersized December rate hike could be ahead: Fed governor",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
     "Fed's Rate Pause Masks A Double AI Risk"
@@ -80,13 +80,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 60,
    "added": 2,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
@@ -101,13 +101,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
+   "fetched": 73,
    "kept": 27,
    "added": 0,
    "error": "",
    "near_misses": [
-    "What kind of ECB is Europe getting after Lagarde?",
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
+    "What kind of ECB is Europe getting after Lagarde?",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Meet the European Central Bank\u2019s new squad",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
@@ -149,8 +149,8 @@
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
-    "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
+    "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "Bank of England warns of further interest rate rises",
     "Bank of England Weekly Report 18 November 2026"
    ]
