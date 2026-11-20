@@ -1,6 +1,48 @@
 {
 "items": [
 {
+"t": "2026-11-20T10:19:42Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB to expand currency swap lines, Lagarde says",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeUVzcFZ6YkRvWW16eGdFYjVkTUpiNkJoTk9zM2I2bWVlSFF0NU1CTXpyNmx2dU1IUktYVEdDcEMyaHF4bFUzVVZKRmxEc09lWFV4eXpra1NzQ1lPTUswSXN3cjRZQ1lidE5kWERYX0xsTlRIN0k5cnFJclZsdlNWVVZDbjhrZmlQWm85NHVPQ3dZU0dldkVDMG9MdHZtMmQxT3V4MHBkblIzOGhGNkd3?oc=5",
+"src": "Investing.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "899939c7bb91",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T10:14:42Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde warns AI-powered cyber threats top risk for finance",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUC1rcXhRT25wN3lvU01aSVdOUFdOTVVUVm03em5jdXVWMFdic2lPVW5Gd0lyWVhWMDY4cXR3WWNSbkZBbkZBa0trYlhENjZwd0d6TllRUmRDOTlOZ2tqS0pvQmIyQkMyTHV0M3ExWWF0eG9CeGNHNlBETzJyVDU1NlZfUFlPdFQ2ejU4RmxJNFVMaEVpX1UwTjJKYWJ4Tmh5U05pUHRPQndBVjBUNm1OWS1QdnRJZw?oc=5",
+"src": "Investing.com",
+"tier": "comment",
+"tone": "",
+"also": [
+"Investing.com India"
+],
+"desc": "",
+"id": "809b13067419",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T09:48:59Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -52,7 +94,9 @@
 "also": [
 "Investing.com",
 "The Lufkin Daily News",
-"CNA"
+"CNA",
+"ASHARQ AL-AWSAT English",
+"Euronext Markets: Real-time Stock Market Data | live"
 ],
 "desc": "",
 "id": "f5155491a813",
@@ -74,7 +118,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Yahoo"
 ],
 "desc": "",
 "id": "6af752ec3d63",
