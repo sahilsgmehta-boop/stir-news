@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T07:07:01Z",
+ "built": "2026-11-20T07:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,11 +56,23 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 60,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Chicago Fed president says overheating economy worries him more than gas prices",
+    "The Fed's next moves come into focus",
+    "Supersized December rate hike could be ahead: Fed governor",
+    "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
+    "Fed's Rate Pause Masks A Double AI Risk"
+   ]
   },
   {
    "id": "gn_fed2",
@@ -74,13 +86,13 @@
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
@@ -89,16 +101,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
-   "kept": 27,
+   "fetched": 75,
+   "kept": 28,
    "added": 0,
    "error": "",
    "near_misses": [
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "What kind of ECB is Europe getting after Lagarde?",
     "A Favorite Emerges to Succeed Christine Lagarde",
-    "Meet the European Central Bank\u2019s new squad",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
+    "Meet the European Central Bank\u2019s new squad",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
@@ -111,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 16,
+   "fetched": 20,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -133,9 +145,9 @@
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
+    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
