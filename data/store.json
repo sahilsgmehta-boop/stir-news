@@ -1,6 +1,48 @@
 {
 "items": [
 {
+"t": "2026-11-20T17:21:24Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Fed's Cook says rate hikes needed to lower high inflation",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVJocjhlTFd4Rm9tRkVIZEdZRW5LUGJGT1FiMktuTzhfS1poZi1rMjVVajlWcUptU00zN29BQWJwLVJCQkdoNXk0MnFROXk2LTlobWJ6cGt0bHpOd3pYXzZzVnBQYUlxUlR1MWZhLUhhVXUyREpnNDNIaS1zb3JvUEIwalA5b21DRXRjRGZrWDA0THNUcmtUQVZ2OVdXczFpaEs3ODZuY0RSSG5C?oc=5",
+"src": "StreetInsider",
+"tier": "comment",
+"tone": "",
+"also": [
+"www.marketscreener.com"
+],
+"desc": "",
+"id": "122a10334a19",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T17:15:00Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Cook, The U.S. Economy in Global Context",
+"url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+"src": "Federal Reserve speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
+"id": "da9cc5ebd5f3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T16:30:00Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -51,7 +93,8 @@
 "tone": "",
 "also": [
 "Euronext Markets: Real-time Stock Market Data | live",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"US News Money"
 ],
 "desc": "",
 "id": "989454aa78cc",
@@ -737,7 +780,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"www.tokenpost.com"
+],
 "desc": "",
 "id": "352d4b53c42f",
 "score": 1,
@@ -2937,7 +2982,8 @@
 "also": [
 "Investing.com",
 "Yahoo Finance",
-"Kriptofoni"
+"Kriptofoni",
+"Investing.com Canada"
 ],
 "desc": "",
 "id": "de3fd511c600",
