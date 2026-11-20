@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T09:10:04Z",
+ "built": "2026-11-20T09:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,12 +80,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 2,
+   "kept": 63,
+   "added": 3,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
@@ -101,16 +101,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 28,
-   "added": 0,
+   "fetched": 77,
+   "kept": 29,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "What kind of ECB is Europe getting after Lagarde?",
     "A Favorite Emerges to Succeed Christine Lagarde",
-    "Meet the European Central Bank\u2019s new squad",
+    "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
+    "Meet the European Central Bank\u2019s new squad",
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
@@ -138,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 28,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -152,7 +152,7 @@
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
     "Bank of England warns of further interest rate rises",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates"
    ]
   },
   {
