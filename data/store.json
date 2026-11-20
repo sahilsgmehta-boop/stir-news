@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T09:40:37Z",
+"bank": "ECB",
+"speaker": "Sleijpen",
+"hl": "ECB’s Sleijpen Says Stablecoin Run Could Force Policy Rethink",
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Z1E2TEQtZkhQWEgxS3ZzTnc2c0RrbDBmdHpHc1BQMmpFakk3ZDJFOEZiY1hRaEd5UzBiRkV6REM4Rk56a3BsdjBhMXRIMW9NelJBT3Z4UVpuVUE?oc=5",
+"src": "www.tokenpost.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9f89000debd3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T09:33:45Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -2419,7 +2439,8 @@
 "also": [
 "MarketWatch",
 "The Hill",
-"Seoul Economic Daily"
+"Seoul Economic Daily",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "d9957c43fdf3",
