@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T13:52:00Z",
+ "built": "2026-11-20T14:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,64 +57,52 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Chicago Fed president won't rule out a larger rate hike for December",
     "The Fed\u2019s intentions remain key for the markets",
     "The Fed's next moves come into focus",
-    "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny",
-    "Chicago Fed president says overheating economy worries him more than gas prices"
+    "Fed\u2019s AI Warning Puts Banks\u2019 Credit Denials Under Scrutiny"
    ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 63,
-   "added": 1,
-   "error": "",
-   "near_misses": [
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "The Fed's next moves come into focus",
-    "Supersized December rate hike could be ahead: Fed governor",
-    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed may need to hike rates four times, says central bank official",
-    "Worried about an AI bust? So is the Federal Reserve."
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 50,
-   "added": 1,
+   "fetched": 100,
+   "kept": 55,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Lagarde appointed European Central Bank's head",
     "ECB's Pereira: Energy-driven inflation pressures remain significant",
+    "Bitcoin miners turned AI landlords now carry billions in debt into the ECB's subprime warning",
     "What kind of ECB is Europe getting after Lagarde?",
-    "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
+    "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Meet the European Central Bank\u2019s new squad",
-    "Lagarde Eyes WEF Role After Early ECB Exit",
-    "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "Lagarde is betting on strengthening the euro\u2019s global weight as a priority for the ECB"
+    "Lagarde Eyes WEF Role After Early ECB Exit"
    ]
   },
   {
@@ -122,15 +110,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 17,
+   "fetched": 17,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Rates Spark: ECB reserve rethink would bring funding pressure closer",
-    "Exclusive-ECB to discuss raising reserve requirement next week, sources say",
-    "ECB policymakers warn of inflation spike if Iran war lasts",
-    "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports"
+    "Rates Spark: ECB reserve rethink would bring funding pressure closer"
    ]
   },
   {
@@ -145,8 +130,8 @@
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
-    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
+    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England warns of further interest rate rises",
@@ -165,8 +150,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
+    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada is publishing more scenarios as economic uncertainty rises, deputy governor says",
     "Bank of Canada says scenarios help make monetary policy more effective",
