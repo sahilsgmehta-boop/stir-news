@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T10:37:00Z",
+ "built": "2026-11-20T10:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -80,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 3,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -102,8 +102,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 87,
-   "kept": 41,
-   "added": 0,
+   "kept": 42,
+   "added": 1,
    "error": "",
    "near_misses": [
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
@@ -114,8 +114,8 @@
     "Lagarde Eyes WEF Role After Early ECB Exit",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
-    "German Government Nominates Brunnermeier for ECB Board Seat",
-    "How to interpret the ECB's policy signals from Lagarde's remarks today"
+    "How to interpret the ECB's policy signals from Lagarde's remarks today",
+    "German Government Nominates Brunnermeier for ECB Board Seat"
    ]
   },
   {
@@ -137,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 25,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -145,8 +145,8 @@
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
-    "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "Analysis-Britain\u2019s long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
     "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",

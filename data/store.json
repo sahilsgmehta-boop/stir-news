@@ -21,6 +21,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-20T10:15:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde Tells Europe to Tackle Risks Before They Materialize (1)",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXYzZk5PWXpYVFFXYlJ2UFhGX3lZVWNxSndfamxKWFBhSnBOQ2h1MFlib1o4LW9pdmx1QmhOUHY5Z3ZUcmNzSFBxRDdfYktaZGJGdUh6SHZrNXhzZmtZVFR5MHpyN2dpYktDOFNhcVN1cjFfaTBrNVE5VGNDcWJtQk9KR1ZXdXp5RGpoSjZfVWVnUzVBdkpVWUJkZFBTMGpaZEtvZVBRdw?oc=5",
+"src": "Bloomberg Law News",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9bf80ccc8dfb",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T10:14:42Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -31,7 +51,8 @@
 "tone": "",
 "also": [
 "Investing.com India",
-"Investing.com South Africa"
+"Investing.com South Africa",
+"Investing.com Nigeria"
 ],
 "desc": "",
 "id": "809b13067419",
@@ -3643,7 +3664,8 @@
 "WTVB",
 "Disruption Banking",
 "Kitco",
-"Bellingham Herald"
+"Bellingham Herald",
+"Fresno Bee"
 ],
 "desc": "",
 "id": "4b26dc1cb540",
