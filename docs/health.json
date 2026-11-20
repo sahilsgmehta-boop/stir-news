@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T00:22:01Z",
+ "built": "2026-11-20T00:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -64,7 +64,7 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
-    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "Fed's Rate Pause Masks A Double AI Risk",
     "The Fed's next moves come into focus",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 2,
+   "kept": 63,
+   "added": 3,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
+   "fetched": 77,
    "kept": 24,
    "added": 0,
    "error": "",
@@ -109,12 +109,12 @@
     "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
     "A Favorite Emerges to Succeed Christine Lagarde",
     "Euro gains ground against Canadian Dollar ahead of ECB Lagarde\u2019s speech",
+    "Mamdani, Musk, Altman, Lagarde, A.I. and Other DealBook Summit Highlights",
     "Video: Christine Lagarde Explains Why She Is Stepping Down",
     "How to interpret the ECB's policy signals from Lagarde's remarks today",
     "Meet the European Central Bank\u2019s new squad",
     "Hern\u00e1ndez de Cos assures all support to become ECB president despite Eurogroup's delay in naming candidates",
-    "Lagarde Eyes WEF Role After Early ECB Exit",
-    "Who is Markus Brunnermeier, Germany\u2019s nominee for ECB chief economist?"
+    "Lagarde Eyes WEF Role After Early ECB Exit"
    ]
   },
   {
@@ -172,7 +172,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
