@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T21:07:00Z",
+ "built": "2026-11-20T21:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,16 +61,16 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology'",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Chicago Fed president won't rule out a larger rate hike for December",
     "The Fed's next moves come into focus",
-    "Fed\u2019s October minutes confirm December increase and float faster tightening",
-    "The Fed\u2019s intentions remain key for the markets"
+    "Fed\u2019s October minutes confirm December increase and float faster tightening"
    ]
   },
   {
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
+   "fetched": 98,
    "kept": 56,
    "added": 6,
    "error": "",
    "near_misses": [
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology'",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -101,17 +101,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 47,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
     "Lagarde appointed European Central Bank's head",
     "What kind of ECB is Europe getting after Lagarde?"
@@ -123,11 +123,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 21,
-   "kept": 13,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "Bundesbank: December ECB rate hike likely",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
@@ -137,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -168,8 +169,8 @@
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Bank of Canada official downplays need for more forward guidance on rate path",
-    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Bank of Canada official downplays need for more forward guidance on rate path",
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Bank of Canada Media Interview \u2013 Barrie 360",
     "Inflation has tracked Bank of Canada's high-oil scenario, one that called for repeated rate hikes, deputy governor says",
     "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
