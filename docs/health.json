@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T19:22:01Z",
+ "built": "2026-11-20T19:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -47,7 +47,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "The Fed is too busy fighting inflation to rescue the stock market"
+   ]
   },
   {
    "id": "gn_fed",
@@ -55,8 +57,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
-   "added": 0,
+   "kept": 56,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Why would the Fed consider a half-percentage-point hike in December?",
@@ -99,8 +101,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 47,
-   "added": 0,
+   "kept": 49,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
@@ -108,11 +110,11 @@
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
     "Lagarde appointed European Central Bank's head",
     "ECB's Pereira: Energy-driven inflation pressures remain significant",
     "What kind of ECB is Europe getting after Lagarde?",
-    "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks"
+    "Christine Lagarde announces that the European Central Bank will make swap lines more accessible to protect the euro area from financial shocks",
+    "Mamdani, Musk, Altman, Lagarde, A.I. and Other DealBook Summit Highlights"
    ]
   },
   {
@@ -122,7 +124,7 @@
    "ok": true,
    "fetched": 21,
    "kept": 14,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
@@ -135,7 +137,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 28,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 16,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -164,13 +166,13 @@
     "Bank of Canada warns against excessive reliance on rate signals",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
-    "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Media Interview \u2013 Barrie 360",
     "Canadian dollar hits 19-month low after hawkish Fed governor comments",
     "Inflation has tracked Bank of Canada's high-oil scenario, one that called for repeated rate hikes, deputy governor says",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
+    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty",
+    "Bank of Canada Says Scenarios Signalled October Rate Hike"
    ]
   },
   {

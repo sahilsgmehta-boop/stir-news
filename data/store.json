@@ -31,7 +31,8 @@
 "tone": "",
 "also": [
 "StreetInsider",
-"Investing.com"
+"Investing.com",
+"Investing.com South Africa"
 ],
 "desc": "",
 "id": "4001a4e36f31",
@@ -150,6 +151,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-20T17:38:03Z",
+"bank": "Fed",
+"speaker": "Cook",
+"hl": "Waiting to act when a policy adjustment is required has a cost, says Fed's Cook (ARTY:NYSEARCA)",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWhZNVZ5WTQyaVFUT0R0VkxLOVc2Ujd0cTNobjh0Rk1FODc5enNFZTF5U1VxT0hCRl83eVMzYWxwZ1loZ2lFR1NZUDh0aW4waG9lX1I3SEZNWmRzV0FRZVlRUUpNaDJLdjNNZHlSQ0VNb0NnblU3cXBBSmt6Mks1ZElVLXF2azVmUmlDRHVsaGNkeW5ZbmxnUmhXc2pDWWpvQ2xXdlNRS2dTWnNuRmFNS19aSEZWdw?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "90854fbefb90",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T17:37:26Z",
 "bank": "Fed",
 "speaker": "Cook",
@@ -247,6 +268,26 @@
 "also": [],
 "desc": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
 "id": "da9cc5ebd5f3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T16:30:12Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Lagarde Warns Europe Risks Falling Behind In Tokenized Markets Unity",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU3pmZ0NVbzBmUTA0WjY2b01va2JycFJoR3ZnMmlFRWRvVTAyd1JwbERxWFJnMEZ6WnQ0bVFvLXU5SWhkNC1tbmJ1VzZ3cmJYWnpfeTIzVjJNQi0tSlBCcWswcXB3WnAzZXA3R0hwWU1ZcG9yNG9QSjNHQ20zM2dRRDZYUUFjcWJpakI4eXkxSVpiWkFFM1lSRGh6YlNQNjQ?oc=5",
+"src": "Menafn",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "073cb0b4050b",
 "score": null,
 "read": "",
 "sum": "",
