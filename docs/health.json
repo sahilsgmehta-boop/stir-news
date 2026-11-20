@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T23:22:00Z",
+ "built": "2026-11-20T23:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -99,12 +99,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 46,
-   "added": 2,
+   "kept": 43,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Ecb's Moulin: French inflation is currently clearly too high",
@@ -112,7 +111,8 @@
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
-    "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019"
+    "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
+    "Lagarde appointed European Central Bank's head"
    ]
   },
   {
@@ -158,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
