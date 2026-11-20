@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-20T01:01:31Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Fed's Paulson backs further rate hikes, says shared understanding beats guidance",
+"url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSHV6c3loSzl5Q2g1SGRHTHV4dWFJU182Z0U2QTZHdnFhT1JkUFBCT1hGUG1rQmpZTlpuX2FwSUVHY2Rick4zYkcwX01ONGhYTmhZakNRdDNHMVVTeWxEX05aODlvN1dXRU9QNFI4RTFJWHNXMEJYM19aX0hBZFRWb3M2MExfX0NoZl90U1dnS1lUSnY2eHkya0M2UzRkekppbG5PS3lWaDhHM3lIMGFzUEFxQk1WWEJsZFVoRjh1VTY4eVdUMmNGZHZUZVo?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d13243932ad3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-20T00:40:22Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed's Waller Signals Possible Half-Point Hike, Lifting December Odds to 10%",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDZkREFjaDlEWkVzVGotcWlzM1hvMTFhVkF2bU5pUUViRkFMdE1lNjVDeFhycjVDTG94TUNQTnlFU0lhTnN0X21uLWxDdkNFOTVDTm83Rk1iUTh4Znd6RXJFMUlxUjJjUV9vamp5NzQ4S0RMbVB2LUJGWTI2SXFIWmNxR1M2MUNfMEFUc0gtelVGLWc3MW00RHRn?oc=5",
+"src": "Seoul Economic Daily",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "4ea45ea615fd",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T00:30:13Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -582,7 +622,8 @@
 "Investing.com",
 "Kitco",
 "marketscreener.com",
-"WTVB"
+"WTVB",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "8cf675214fab",

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T00:52:00Z",
+ "built": "2026-11-20T01:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 60,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -66,11 +66,11 @@
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
     "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
-    "The Fed's next moves come into focus",
     "Fed's Rate Pause Masks A Double AI Risk",
-    "Fed officials expect December rate hike",
+    "The Fed's next moves come into focus",
     "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
-    "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It"
+    "AI Just Topped the Fed\u2019s List of Financial Risks. 4 Ways to See How Much of Your Retirement Rides on It",
+    "Fed's Hawks Are Squawking"
    ]
   },
   {
@@ -122,11 +122,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 18,
    "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bundesbank: December ECB rate hike likely",
     "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
     "ECB says the AI borrowing boom has echoes of the subprime bubble"
    ]
@@ -158,7 +159,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -172,7 +173,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Bank of Canada Expands Economic Scenarios Amid Rising Uncertainty"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
