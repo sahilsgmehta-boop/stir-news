@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T05:37:00Z",
+ "built": "2026-11-20T05:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,19 +58,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Fed\u2019s October minutes confirm December increase and float faster tightening",
+    "Retirees Are Buying Annuities at a Record Pace Following the Fed\u2019s September Rate Hike",
     "Chicago Fed president says overheating economy worries him more than gas prices",
     "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "The Fed's next moves come into focus",
-    "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
     "Supersized December rate hike could be ahead: Fed governor",
+    "ChatGPT AI Predicts What XRP Could Be Worth After the Fed\u2019s December Decision",
     "Fed's Rate Pause Masks A Double AI Risk"
    ]
   },
@@ -80,20 +80,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
-   "added": 1,
+   "kept": 63,
+   "added": 2,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
-    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
     "Supersized December rate hike could be ahead: Fed governor",
+    "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
     "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table."
    ]
   },
   {
@@ -149,8 +149,8 @@
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Analysis-Britain's long wait for 2% inflation tests public faith in Bank of England",
     "BOE to Test How Private Credit Market Could Amplify Shocks",
-    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England governor Andrew Bailey sounds alarm over public trust in AI amid fears it could go rogue",
+    "Bailey Says UK Labour Market No Longer Loosening, Slack Stabilises - News and Statistics",
     "Bank of England warns of further interest rate rises",
     "Bank of England Weekly Report 18 November 2026"
    ]
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 26,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -174,7 +174,7 @@
     "Bank of Canada official discusses guidance on interest rate path",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Gravelle: Setting the scenario: Monetary policy communications in uncertain times",
-    "Could another Bank of Canada rate hike hit in December? Why financial experts are divided"
+    "Canadian dollar hits 19-month low after hawkish Fed governor comments"
    ]
   },
   {
