@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-20T00:05:32Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Philly Fed's Paulson : Think we have more tightening to do; moving deliberately 'leaves us in a better place' to absorb new information",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmJ5d2ZYbi10QlB2bG41R2JTYlpPUVRLdHRxM2VwZ2FFbmtwWXRxT2dvaWhvNnNtazdJeS1aYVJpZ3gxdkhYaHdYV2d6WmtXU0UwblA4TThjbkNPeUZ0RVJYOXdBMTFvLTBfSUtiSW01M0FqYlRyS0otRE15RWczaDA2cTE1QlHSAYwBQVVfeXFMTUZoZ1dacS16RHc1UjFGbF8tRnVzVkNUMEh3aWRPV1p1aDU3ZkhTTWFqcHlwbGxJUGQ3YmJ1V29xdFktenMxaHBVSWl2ZXhOSGZkMGtrSEIzaGp0WFNKVmZyZE1ybW1JSks0eDljdEFWdlZTWUprcVpvaWFpY2gydG8wX2RzVjlxVF9CSS0?oc=5",
+"src": "Forex Factory",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "69daf50383a0",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-19T23:49:26Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -30,7 +50,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Reuters"
+"Reuters",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "9fb3bc087f07",
@@ -499,7 +520,8 @@
 "US News Money",
 "Investing.com",
 "Kitco",
-"marketscreener.com"
+"marketscreener.com",
+"WTVB"
 ],
 "desc": "",
 "id": "8cf675214fab",
