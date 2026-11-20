@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T22:22:01Z",
+ "built": "2026-11-20T22:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,15 +55,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology'",
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "Chicago Fed president won't rule out a larger rate hike for December",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -86,8 +86,8 @@
     "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology'",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor"
@@ -136,21 +136,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 27,
    "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
+    "GBP supported by hawkish BoE rate hike",
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
-    "GBP supported by hawkish BoE rate hike",
-    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure"
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
+    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow",
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning"
    ]
   },
   {
