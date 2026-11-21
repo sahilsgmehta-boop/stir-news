@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T05:22:00Z",
+ "built": "2026-11-21T05:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 55,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -89,8 +89,8 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "The Fed's next moves come into focus",
-    "Supersized December rate hike could be ahead: Fed governor"
+    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "The Fed's next moves come into focus"
    ]
   },
   {
