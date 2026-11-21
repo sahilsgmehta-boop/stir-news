@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T07:07:00Z",
+ "built": "2026-11-21T07:09:25Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
    ]
   },
   {
@@ -136,21 +136,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Bank of England Begins 160 Million Pound Headquarters Revamp",
     "Bank of England Starts \u00a3160m Headquarters Renovation",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Why Is The BoE Stress Testing Private Credit?",
-    "Bank of England Begins 160m Pound Headquarters Revamp"
+    "Bank of England Begins 160m Pound Headquarters Revamp",
+    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
+    "Bank of England Begins 160 Million Pound Headquarters Revamp"
    ]
   },
   {
