@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T05:37:00Z",
+ "built": "2026-11-21T05:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,8 +67,8 @@
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says"
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
   {
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 10,
+   "fetched": 21,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 46,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -144,13 +144,13 @@
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Why Is The BoE Stress Testing Private Credit?",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Bank of England Begins 160m Pound Headquarters Revamp",
     "Bank of England Starts \u00a3160m Headquarters Renovation",
-    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
+    "Why Is The BoE Stress Testing Private Credit?",
+    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
+    "Rising UK inflation strengthens case for further BoE rate hikes, lending support to British Pound",
+    "Bank of England Begins 160m Pound Headquarters Revamp"
    ]
   },
   {
