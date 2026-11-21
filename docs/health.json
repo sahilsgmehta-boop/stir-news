@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T07:52:00Z",
+ "built": "2026-11-21T08:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,12 +63,12 @@
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
+    "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy"
    ]
   },
   {
@@ -78,7 +78,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 54,
-   "added": 3,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
@@ -99,12 +99,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 42,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
@@ -120,17 +120,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 13,
+   "fetched": 21,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "France and Germany complete political deal for ECB leadership",
     "Bundesbank: December ECB rate hike likely",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "ECB policymakers warn of inflation spike if Iran war lasts",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -139,21 +136,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 46,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Why Is The BoE Stress Testing Private Credit?",
+    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Bank of England Begins 160m Pound Headquarters Revamp",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England Starts \u00a3160m Headquarters Renovation",
-    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
-    "Bank of England Begins 160 Million Pound Headquarters Revamp"
+    "Rising UK inflation strengthens case for further BoE rate hikes, lending support to British Pound",
+    "Bank of England Begins 160m Pound Headquarters Revamp",
+    "Rising UK inflation underpins British Pound and case for further BoE rate hikes",
+    "Bank of England Starts \u00a3160m Headquarters Renovation"
    ]
   },
   {
