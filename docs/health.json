@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T21:37:00Z",
+ "built": "2026-11-21T21:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,9 +54,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 45,
-   "added": 1,
+   "fetched": 100,
+   "kept": 50,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
@@ -67,8 +67,8 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 54,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -88,9 +88,9 @@
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 46,
+   "fetched": 98,
+   "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "France and Germany complete political deal for ECB leadership",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019"
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
+    "Ecb's Moulin: French inflation is currently clearly too high"
    ]
   },
   {
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 5,
+   "fetched": 19,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -130,11 +130,10 @@
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB says financial system recalls subprime bubble that sparked 2008 crisis",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
     "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says"
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
   {
