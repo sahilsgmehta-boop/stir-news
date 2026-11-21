@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T23:39:40Z",
+ "built": "2026-11-21T23:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 81,
-   "kept": 38,
+   "fetched": 73,
+   "kept": 35,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -63,12 +63,12 @@
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
+    "Why would the Fed consider a half-percentage-point hike in December?",
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -90,7 +90,7 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -108,11 +108,11 @@
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France and Germany complete political deal for ECB leadership",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
+    "France and Germany complete political deal for ECB leadership",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "Ecb's Moulin: French inflation is currently clearly too high",
-    "ECB chief urges public funding to attract private investment in chip plants, data centers"
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
+    "Ecb's Moulin: French inflation is currently clearly too high"
    ]
   },
   {
@@ -157,7 +157,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
