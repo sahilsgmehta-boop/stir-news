@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T17:22:00Z",
+ "built": "2026-11-21T17:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -89,8 +89,8 @@
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-    "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+    "Supersized December rate hike could be ahead: Fed governor"
    ]
   },
   {
@@ -99,20 +99,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 46,
+   "kept": 44,
    "added": 0,
    "error": "",
    "near_misses": [
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
-    "Ecb's Moulin: French inflation is currently clearly too high"
+    "France and Germany complete political deal for ECB leadership",
+    "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "Bundesbank: December ECB rate hike likely"
    ]
   },
   {
@@ -120,12 +120,11 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 16,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France and Germany complete political deal for ECB leadership",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "Bundesbank: December ECB rate hike likely",
@@ -138,13 +137,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 30,
-   "kept": 1,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
-    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
     "GBP/USD Price Forecast \u2014 GBP/USD (1.3118) 1.3250 Upside Target on BoE Hike Bets and 1.31 Range Floor"
