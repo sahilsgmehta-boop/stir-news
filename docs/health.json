@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T05:52:01Z",
+ "built": "2026-11-21T06:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,15 +77,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
-   "added": 3,
+   "kept": 60,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 42,
+   "kept": 43,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -120,14 +120,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 11,
+   "fetched": 25,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "France and Germany complete political deal for ECB leadership",
     "Bundesbank: December ECB rate hike likely",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
+    "ECB policymakers warn of inflation spike if Iran war lasts",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -136,21 +138,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 27,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
-    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England Starts \u00a3160m Headquarters Renovation",
     "Why Is The BoE Stress Testing Private Credit?",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-    "Rising UK inflation strengthens case for further BoE rate hikes, lending support to British Pound",
-    "Bank of England Begins 160m Pound Headquarters Revamp"
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
+    "Bank of England Begins 160m Pound Headquarters Revamp",
+    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
+    "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp"
    ]
   },
   {
