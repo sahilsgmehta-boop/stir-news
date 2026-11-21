@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T01:39:43Z",
+ "built": "2026-11-21T01:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 54,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -77,20 +77,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
-   "added": 5,
+   "kept": 56,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "The Fed's next moves come into focus",
-    "Supersized December rate hike could be ahead: Fed governor"
+    "The Fed's next moves come into focus"
    ]
   },
   {
@@ -106,13 +106,13 @@
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
-    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
     "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
-    "France, Germany to take key ECB roles, with Spain set for presidency"
+    "What kind of ECB is Europe getting after Lagarde?"
    ]
   },
   {
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -148,9 +148,9 @@
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
     "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
     "Why Is The BoE Stress Testing Private Credit?",
-    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure"
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
+    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow"
    ]
   },
   {
@@ -158,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
