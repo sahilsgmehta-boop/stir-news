@@ -10279,6 +10279,69 @@
    "basis": "reports",
    "at": "2026-11-20T20:54:38Z",
    "by": "claude"
+  },
+  "416845e66883": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Waiting risks falling behind the curve; argues for raising rates promptly.",
+   "lead": "da9cc5ebd5f3",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "25800b5b6d86": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Industrial-funding idea for chip plants and data centres; no rate content.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "b5a811c16fef": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenized-asset market warning; nothing on the rate path.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "d0328bae0c3f": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenization rules call; no bearing on rates.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "334490f9ba8b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenization rules call; no bearing on rates.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "cc88829c4f02": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Public backing for data centres is an industrial theme, not a rate signal.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "7aca3219db00": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Usual dove flags energy-driven inflation risk with inflation at 4%, nudging toward a hike.",
+   "lead": "a5e2ab9c136e",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "8fb8fb58039c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
   }
  }
 }
