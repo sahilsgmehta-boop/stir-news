@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T18:37:00Z",
+ "built": "2026-11-21T18:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 52,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -64,11 +64,11 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma"
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
    ]
   },
   {
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
-   "added": 6,
+   "kept": 56,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
@@ -87,10 +87,10 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Supersized December rate hike could be ahead: Fed governor"
    ]
   },
   {
@@ -98,14 +98,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 45,
+   "fetched": 97,
+   "kept": 42,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Tokenization Is Lagarde's Vision for a Single European Market",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 5,
+   "fetched": 15,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
