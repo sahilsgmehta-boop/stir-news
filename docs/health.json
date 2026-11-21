@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T06:22:00Z",
+ "built": "2026-11-21T06:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -63,11 +63,11 @@
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "Chicago Fed president won't rule out a larger rate hike for December",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
@@ -89,8 +89,8 @@
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "The Fed's next moves come into focus",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
+    "The Fed's next moves come into focus"
    ]
   },
   {
@@ -158,14 +158,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada warns against excessive reliance on rate signals",
-    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Bank of Canada Media Interview \u2013 Barrie 360",
     "Bank of Canada Says Scenarios Signalled October Rate Hike"
    ]
