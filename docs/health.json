@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T10:37:00Z",
+ "built": "2026-11-21T10:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -65,10 +65,10 @@
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy"
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
    ]
   },
   {
@@ -77,20 +77,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 1,
+   "kept": 55,
+   "added": 3,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount"
+    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "The Fed's next moves come into focus"
    ]
   },
   {
@@ -107,11 +107,11 @@
     "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
-    "ECB's Pereira Warns of Rising Inflation, December Hike",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
+    "ECB's Pereira Warns of Rising Inflation, December Hike",
+    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "France and Germany complete political deal for ECB leadership",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB president \u2018says AI cyber threats are significant concern\u2019"
    ]
   },
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 29,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -155,7 +155,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
