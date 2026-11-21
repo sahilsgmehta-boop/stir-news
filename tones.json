@@ -9852,9 +9852,17 @@
    "tone": "neutral",
    "score": 0,
    "read": "Media availability notice; the remarks themselves could not be read.",
-   "ev": "Media availability, Economic Club of Canada",
-   "at": "2026-11-20T06:57:12Z",
-   "by": "claude"
+   "ev": "Speech and media availability, Economic Club of Canada",
+   "at": "2026-11-21T11:55:11Z",
+   "by": "claude",
+   "sum": "Macklem spoke at the Economic Club of Canada on the outlook and monetary policy challenges; the only reported detail is that he discussed AI-model risks with the Fed chair.",
+   "pts": [
+    "Speech on the outlook for the Canadian economy and the challenges for monetary policy, followed by questions from reporters.",
+    "Said he had spoken with the Fed chair about risks from Anthropic's Mythos AI model.",
+    "No rate guidance was found in the available reports."
+   ],
+   "rr": "No new signal found for the Dec 9 decision; his Nov 3 line that further hikes could be needed still stands. Only news paraphrases were available.",
+   "basis": "reports"
   },
   "ab85fe6952ab": {
    "tone": "hawk",
@@ -10341,6 +10349,14 @@
    "score": 0,
    "read": "Not a policy remark.",
    "at": "2026-11-21T06:54:46Z",
+   "by": "claude"
+  },
+  "a3108b56397d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI-model risk talks with the Fed chair; no rate signal.",
+   "lead": "9a03f0e16990",
+   "at": "2026-11-21T11:55:11Z",
    "by": "claude"
   }
  }
