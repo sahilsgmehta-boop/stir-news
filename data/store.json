@@ -387,7 +387,9 @@
 "src": "OneBullEx",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Hokanews"
+],
 "desc": "",
 "id": "b5a811c16fef",
 "score": 0,
