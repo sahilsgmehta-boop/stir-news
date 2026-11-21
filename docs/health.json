@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T08:52:00Z",
+ "built": "2026-11-21T09:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 67,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -68,7 +68,7 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy"
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
    ]
   },
   {
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
-   "added": 0,
+   "kept": 54,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
@@ -99,12 +99,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
+   "kept": 43,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
@@ -120,14 +120,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 27,
    "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France and Germany complete political deal for ECB leadership",
     "Bundesbank: December ECB rate hike likely",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "Panetta: \u2018Inflation is rising again; we must resist the temptation to respond with tax cuts\u2019",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -136,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 30,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -144,10 +148,10 @@
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England Starts \u00a3160m Headquarters Renovation",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Why Is The BoE Stress Testing Private Credit?",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England Begins 160m Pound Headquarters Revamp",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
     "Bank of England Begins 160 Million Pound Headquarters Revamp"
