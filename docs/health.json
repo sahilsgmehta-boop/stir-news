@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T20:07:00Z",
+ "built": "2026-11-21T20:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -78,19 +78,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 55,
-   "added": 4,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 40,
+   "fetched": 98,
+   "kept": 42,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -140,13 +140,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 1,
+   "fetched": 22,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
     "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-    "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
