@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T08:37:00Z",
+ "built": "2026-11-21T08:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 56,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -65,10 +65,10 @@
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
+    "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy"
    ]
   },
   {
@@ -89,8 +89,8 @@
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
-    "The Fed's next moves come into focus",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
+    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "The Fed's next moves come into focus"
    ]
   },
   {
@@ -99,12 +99,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 42,
+   "kept": 44,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 12,
+   "fetched": 22,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,19 +136,19 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
+    "Bank of England Starts \u00a3160m Headquarters Renovation",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Why Is The BoE Stress Testing Private Credit?",
-    "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England Begins 160m Pound Headquarters Revamp",
-    "Bank of England Starts \u00a3160m Headquarters Renovation",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
     "Bank of England Begins 160 Million Pound Headquarters Revamp"
    ]
