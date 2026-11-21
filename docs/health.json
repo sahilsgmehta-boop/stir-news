@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T12:37:00Z",
+ "built": "2026-11-21T12:39:38Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 56,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
-    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says"
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
    ]
   },
   {
@@ -83,8 +83,8 @@
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Why would the Fed consider a half-percentage-point hike in December?",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Why would the Fed consider a half-percentage-point hike in December?",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
+   "kept": 43,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 41,
    "kept": 1,
    "added": 0,
    "error": "",
