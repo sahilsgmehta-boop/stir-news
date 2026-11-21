@@ -318,7 +318,8 @@
 "marketscreener.com",
 "Reuters",
 "Kitco",
-"The Lufkin Daily News"
+"The Lufkin Daily News",
+"Yahoo"
 ],
 "desc": "",
 "id": "122a10334a19",
@@ -761,6 +762,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-20T11:20:50Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Fed's Paulson calls for clarity in communicating perspectives",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzdMV0Z4SGNuVkxrcTlXbkloUkNaQWg2VERMQ09wUXR3Y295azY4a0pGTG9JOERGUHVEZWlmckhLNHp4YUxOd1o3X3JDancxWFFGX25xbGtaLTlzZlRsMnZVc3lBV1Yxd3h0NV94MXh3QXBNeDJsS19oNkxad01LYUVCS0F6WlBsTjRpWXlsbGlwTWh1WTdEQlV1UHZLTFhXYUFIdHAzelV1Qy14R29RdWN3Y21DaFdYaFM1WS01OUJPUy1IR0p2TQ?oc=5",
+"src": "www.tmgm.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "c8759810539e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T11:20:00Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -1182,7 +1203,8 @@
 "tier": "comment",
 "tone": "neutral",
 "also": [
-"www.tmgm.com"
+"www.tmgm.com",
+"Mitrade"
 ],
 "desc": "",
 "id": "22a0e77919ba",
@@ -1553,11 +1575,15 @@
 "id": "9a03f0e16990",
 "score": 0,
 "read": "Media availability notice; the remarks themselves could not be read.",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "Media availability, Economic Club of Canada",
-"basis": ""
+"sum": "Macklem spoke at the Economic Club of Canada on the outlook and monetary policy challenges; the only reported detail is that he discussed AI-model risks with the Fed chair.",
+"pts": [
+"Speech on the outlook for the Canadian economy and the challenges for monetary policy, followed by questions from reporters.",
+"Said he had spoken with the Fed chair about risks from Anthropic's Mythos AI model.",
+"No rate guidance was found in the available reports."
+],
+"rr": "No new signal found for the Dec 9 decision; his Nov 3 line that further hikes could be needed still stands. Only news paraphrases were available.",
+"ev": "Speech and media availability, Economic Club of Canada",
+"basis": "reports"
 },
 {
 "t": "2026-11-19T20:34:57Z",
@@ -2135,12 +2161,12 @@
 "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTGdUeGpzbG9VZHNKc21iM2pBYXRzNkZYVDlnMDlWMEc2VUp4ckJpb0pLS1FBdGlPTkhnMWlTTGdnQVdNYzFaRDhidXk0NDZ1aXEtSXhRbjZZZkVpMm9LZVZyZkZ6UmhpT1Rwd1lxVnZhdmk1cmpla01CR01heE5pUFhVQ2h6SGFaUWgybWZkaURMT00?oc=5",
 "src": "Financial Post",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "desc": "",
 "id": "a3108b56397d",
-"score": null,
-"read": "",
+"score": 0,
+"read": "AI-model risk talks with the Fed chair; no rate signal.",
 "sum": "",
 "pts": [],
 "rr": "",

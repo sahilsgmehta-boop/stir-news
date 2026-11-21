@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T11:52:01Z",
+ "built": "2026-11-21T12:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,8 +55,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 0,
+   "kept": 67,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
@@ -83,8 +83,8 @@
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
