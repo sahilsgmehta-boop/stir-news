@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T20:22:00Z",
+ "built": "2026-11-21T20:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,8 +55,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
-   "added": 0,
+   "kept": 52,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
@@ -78,19 +78,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 55,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -99,13 +99,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 98,
-   "kept": 42,
+   "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "Tokenization Is Lagarde's Vision for a Single European Market",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Tokenization Is Lagarde's Vision for a Single European Market",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
@@ -125,6 +125,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France and Germany complete political deal for ECB leadership",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
@@ -141,13 +142,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 22,
-   "kept": 2,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
+    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
    ]

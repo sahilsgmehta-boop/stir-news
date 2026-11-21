@@ -41,6 +41,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-21T14:20:21Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Tokenised finance needs central bank money as foundation: Fed’s Christopher Waller",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm9SUndNeVR1WEgtS0tOSXlJSUNwZmV1amsybkhFR0Jzam54M1hRRUx0ZUV6eXZSQlpyREVGNGx3c28yenFOZjM2OXNFTUlQY3Qwb2x4endmTHBNeHA0Z2YwWWVnanRYRXdDRWg3aHg0RHJjM3VHRzdaVE4xR29yeFp0dVJtWmhzRC1HYVBwQ29LMDQzc0xTR09rSnBfMkN2NnZtMkVvdlZhRnVSUTZsNUNfdFowZU8xd3c4b3NHanBtV1VwckV3?oc=5",
+"src": "Zee Business",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "17d3bcd493bb",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T22:18:09Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -116,7 +136,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"The Economic Times"
+],
 "desc": "",
 "id": "9edf37e9bc86",
 "score": 4,
