@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T04:22:00Z",
+ "built": "2026-11-21T04:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 55,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -63,12 +63,12 @@
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "Chicago Fed president won't rule out a larger rate hike for December"
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says"
    ]
   },
   {
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
-   "added": 1,
+   "kept": 56,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
@@ -108,11 +108,11 @@
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
-    "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "ECB chief urges public funding to attract private investment in chip plants, data centers",
-    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
+    "ECB chief urges public funding to attract private investment in chip plants, data centers"
    ]
   },
   {
@@ -121,7 +121,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 21,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,21 +136,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
-    "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
     "Why Is The BoE Stress Testing Private Credit?",
     "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure"
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
+    "Bank of England Begins 160m Pound Headquarters Revamp",
+    "Bank of England Starts \u00a3160m Headquarters Renovation"
    ]
   },
   {
@@ -158,14 +158,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 28,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada warns against excessive reliance on rate signals",
-    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
+    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Bank of Canada official downplays need for more forward guidance on rate path",
     "Bank of Canada Media Interview \u2013 Barrie 360",
     "Bank of Canada Says Scenarios Signalled October Rate Hike"
