@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T23:52:00Z",
+ "built": "2026-11-21T00:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology'",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
+    "Fed governor admits people now think higher inflation is the new normal: \u2018That\u2019s the kind of psychology we need to start breaking\u2019",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "Chicago Fed president won't rule out a larger rate hike for December",
-    "Fed\u2019s October minutes confirm December increase and float faster tightening",
-    "The Fed\u2019s intentions remain key for the markets"
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Fed\u2019s October minutes confirm December increase and float faster tightening"
    ]
   },
   {
@@ -100,7 +100,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 42,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
@@ -112,7 +112,7 @@
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
     "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
-    "Lagarde appointed European Central Bank's head"
+    "France, Germany to take key ECB roles, with Spain set for presidency"
    ]
   },
   {
