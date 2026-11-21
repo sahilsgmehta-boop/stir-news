@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T00:52:01Z",
+ "built": "2026-11-21T01:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 55,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "Barkin Says Appropriate Direction of Monetary Policy Relatively Straightforward",
     "Chicago Fed president won't rule out a larger rate hike for December",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Fed\u2019s October minutes confirm December increase and float faster tightening"
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says"
    ]
   },
   {
@@ -87,8 +87,8 @@
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "The Fed's next moves come into focus"
    ]
@@ -99,20 +99,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
-   "added": 2,
+   "kept": 41,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
-    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
+    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
+    "\"EU growth relied too much on others\": Lagarde\u2019s J\u2019accuse\u2019",
+    "France, Germany to take key ECB roles, with Spain set for presidency"
    ]
   },
   {
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 48,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -145,12 +145,12 @@
     "What the Bank of England\u2019s latest comments signal about a rate hike",
     "Grade I interiors, gold bars, cost fears: Bank of England faces headache over \u00a3160m revamp",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
-    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
-    "Cyber attacks: FCA and Bank of England make new resilience plans as threats grow",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Bank of England Starts \u00a3160m Headquarters Renovation"
+    "Sterling Slips as Bank of England Warns Inflation to Rise, Reinforcing Higher-for-longer Rates",
+    "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
+    "Bank of England Starts \u00a3160m Headquarters Renovation",
+    "Why Is The BoE Stress Testing Private Credit?"
    ]
   },
   {
