@@ -10366,6 +10366,54 @@
    "lead": "352d4b53c42f",
    "at": "2026-11-21T15:49:02Z",
    "by": "claude"
+  },
+  "0adf668db537": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Follow-up coverage of Cook's hawkish Nov 20 speech, framing more and larger hikes as ahead.",
+   "sum": "Coverage of Cook's Santiago remarks frames the voting governor as warning that further, possibly larger, rate hikes lie ahead as policy is not yet restrictive enough.",
+   "pts": [
+    "Repeats Cook's message that current policy is not restrictive enough to curb inflation.",
+    "Frames her view as pointing to larger rate increases ahead; no specific size or meeting was reported.",
+    "Builds on her Nov 20 point that the September hike was likely insufficient and waiting has a cost."
+   ],
+   "rr": "Adds to support for the December hike and for follow-up hikes in early 2027; does not on its own establish a call for 50bp in December. Only news paraphrases were available.",
+   "ev": "Follow-up report on speech, Central Bank of Chile conference",
+   "basis": "reports",
+   "at": "2026-11-21T20:48:45Z",
+   "by": "claude"
+  },
+  "d6ca9c08fa94": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "About who benefits from AI gains; nothing on the rate path.",
+   "sum": "Warsh's AI remarks focus on who captures the gains from artificial intelligence, steering clear of the near-term inflation and rate outlook.",
+   "pts": [
+    "Discusses how AI's economic gains may be distributed.",
+    "Fed staff are building scenarios for AI outcomes, from a productivity boom to disappointment.",
+    "No signal on December or the path of rates was reported."
+   ],
+   "rr": "No read-through for December pricing; Warsh keeps giving no forward guidance. Only news paraphrases were available.",
+   "ev": "Report on AI remarks",
+   "basis": "reports",
+   "at": "2026-11-21T20:48:45Z",
+   "by": "claude"
+  },
+  "17d3bcd493bb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Payments and tokenisation topic; says nothing about rates.",
+   "sum": "Waller says tokenised finance should be built on central bank money as its settlement foundation.",
+   "pts": [
+    "Argues tokenised markets need central bank money as the settlement asset.",
+    "Remarks concern payments infrastructure, not monetary policy.",
+    "No new comment on December or his 50bp call was reported."
+   ],
+   "rr": "No impact on rate pricing; his Nov 18 push for a 50bp December hike stands. Only news paraphrases were available.",
+   "ev": "Remarks on tokenisation and payments",
+   "basis": "reports",
+   "at": "2026-11-21T20:48:45Z",
+   "by": "claude"
   }
  }
 }
