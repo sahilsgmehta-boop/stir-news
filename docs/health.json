@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T07:37:00Z",
+ "built": "2026-11-21T07:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -120,14 +120,17 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 11,
+   "fetched": 26,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "France and Germany complete political deal for ECB leadership",
     "Bundesbank: December ECB rate hike likely",
     "Rates Spark: ECB reserve rethink would bring funding pressure closer",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "ECB policymakers warn of inflation spike if Iran war lasts",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -143,12 +146,12 @@
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Bank of England Starts \u00a3160m Headquarters Renovation",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Why Is The BoE Stress Testing Private Credit?",
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England Begins 160m Pound Headquarters Revamp",
+    "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
+    "Bank of England Starts \u00a3160m Headquarters Renovation",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
     "Bank of England Begins 160 Million Pound Headquarters Revamp"
    ]
