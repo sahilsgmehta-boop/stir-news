@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T17:52:00Z",
+ "built": "2026-11-21T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,18 +77,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 6,
+   "kept": 60,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
@@ -103,15 +103,15 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "France and Germany complete political deal for ECB leadership",
-    "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "Bundesbank: December ECB rate hike likely"
    ]
   },
@@ -120,11 +120,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 9,
+   "fetched": 17,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France and Germany complete political deal for ECB leadership",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "Bundesbank: December ECB rate hike likely",
@@ -136,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 40,
    "kept": 1,
    "added": 0,
    "error": "",
