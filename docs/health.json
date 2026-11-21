@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T14:52:00Z",
+ "built": "2026-11-21T15:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,10 +55,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 56,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
@@ -67,8 +68,7 @@
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "Why would the Fed consider a half-percentage-point hike in December?"
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
    ]
   },
   {
