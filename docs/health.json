@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T18:22:00Z",
+ "built": "2026-11-21T18:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 54,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -65,8 +65,8 @@
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma"
    ]
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -104,8 +104,8 @@
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "Tokenization Is Lagarde's Vision for a Single European Market",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Tokenization Is Lagarde's Vision for a Single European Market",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 7,
+   "fetched": 14,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 36,
    "kept": 2,
    "added": 0,
    "error": "",
@@ -145,8 +145,7 @@
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3118) 1.3250 Upside Target on BoE Hike Bets and 1.31 Range Floor"
+    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
    ]
   },
   {
@@ -154,7 +153,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
