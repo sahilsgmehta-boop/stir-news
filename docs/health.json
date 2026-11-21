@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T12:39:38Z",
+ "built": "2026-11-21T12:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 54,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 43,
+   "kept": 44,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 29,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -156,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
