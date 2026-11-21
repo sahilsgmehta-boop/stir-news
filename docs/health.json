@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T08:22:01Z",
+ "built": "2026-11-21T08:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 58,
+   "kept": 59,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
-    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Why would the Fed consider a half-percentage-point hike in December?",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
+    "Why would the Fed consider a half-percentage-point hike in December?",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
   {
@@ -89,8 +89,8 @@
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "The Fed's next moves come into focus"
+    "The Fed's next moves come into focus",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
   {
@@ -143,8 +143,8 @@
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Why Is The BoE Stress Testing Private Credit?",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
+    "Why Is The BoE Stress Testing Private Credit?",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England Begins 160m Pound Headquarters Revamp",
@@ -158,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -166,8 +166,7 @@
     "Bank of Canada warns against excessive reliance on rate signals",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
-    "Bank of Canada Media Interview \u2013 Barrie 360",
-    "Bank of Canada Says Scenarios Signalled October Rate Hike"
+    "Bank of Canada Media Interview \u2013 Barrie 360"
    ]
   },
   {
