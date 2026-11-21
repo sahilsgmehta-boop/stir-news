@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T15:37:01Z",
+ "built": "2026-11-21T15:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,13 +55,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
+   "kept": 57,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
@@ -77,20 +77,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 56,
    "added": 6,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-    "The Fed's next moves come into focus",
-    "Supersized December rate hike could be ahead: Fed governor"
+    "Supersized December rate hike could be ahead: Fed governor",
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -99,20 +99,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
+   "kept": 46,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
     "Tokenization Is Lagarde's Vision for a Single European Market",
+    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
-    "France and Germany complete political deal for ECB leadership",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019"
+    "France and Germany complete political deal for ECB leadership"
    ]
   },
   {
@@ -160,8 +160,8 @@
    "error": "",
    "near_misses": [
     "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Bank of Canada warns against excessive reliance on rate signals",
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Bank of Canada Media Interview \u2013 Barrie 360"
    ]
