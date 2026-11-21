@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T23:37:00Z",
+ "built": "2026-11-21T23:39:40Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 84,
+   "fetched": 81,
    "kept": 38,
    "added": 0,
    "error": "",
@@ -63,12 +63,12 @@
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "Why would the Fed consider a half-percentage-point hike in December?"
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
    ]
   },
   {
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
-   "added": 5,
+   "kept": 51,
+   "added": 4,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -90,7 +90,7 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 48,
+   "fetched": 97,
+   "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "France and Germany complete political deal for ECB leadership",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019"
+    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers"
    ]
   },
   {
@@ -157,7 +157,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
