@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T22:37:01Z",
+ "built": "2026-11-21T22:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
-   "kept": 41,
+   "fetched": 100,
+   "kept": 48,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,9 +66,9 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -77,12 +77,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
-   "added": 5,
+   "kept": 53,
+   "added": 6,
    "error": "",
    "near_misses": [
-    "Barkin: US and Virginia workforce remain flat",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Barkin: US and Virginia workforce remain flat",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 5,
+   "fetched": 19,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -130,11 +130,10 @@
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB says financial system recalls subprime bubble that sparked 2008 crisis",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
     "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says"
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
   {
@@ -148,9 +147,9 @@
    "error": "",
    "near_misses": [
     "Cryptocurrencies are failing as money: Bank of England's Carney",
+    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
    ]
   },
