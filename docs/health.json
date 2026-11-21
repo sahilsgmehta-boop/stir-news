@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T12:22:00Z",
+ "built": "2026-11-21T12:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -53,11 +53,23 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 57,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
+    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
+    "Why would the Fed consider a half-percentage-point hike in December?",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says"
+   ]
   },
   {
    "id": "gn_fed2",
@@ -70,14 +82,14 @@
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
-    "Why would the Fed consider a half-percentage-point hike in December?",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Why would the Fed consider a half-percentage-point hike in December?",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
     "The Fed's next moves come into focus"
    ]
   },
@@ -108,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 9,
+   "fetched": 16,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -144,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 16,
    "kept": 1,
    "added": 0,
    "error": "",
