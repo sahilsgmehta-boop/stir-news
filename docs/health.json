@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T21:07:00Z",
+ "built": "2026-11-21T21:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,20 +54,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 48,
+   "fetched": 90,
+   "kept": 46,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
    ]
   },
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
+   "fetched": 99,
    "kept": 41,
    "added": 0,
    "error": "",
@@ -109,8 +109,8 @@
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany complete political deal for ECB leadership",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Ecb's Moulin: French inflation is currently clearly too high"
    ]
@@ -141,7 +141,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -164,8 +164,7 @@
    "error": "",
    "near_misses": [
     "Bank of Canada warns against excessive reliance on rate signals",
-    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
-    "Bank of Canada Media Interview \u2013 Barrie 360"
+    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz"
    ]
   },
   {
