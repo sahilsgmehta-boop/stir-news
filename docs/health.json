@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T19:07:00Z",
+ "built": "2026-11-21T19:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,8 +55,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "added": 1,
+   "kept": 52,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 42,
+   "fetched": 96,
+   "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 24,
    "kept": 2,
    "added": 0,
    "error": "",
