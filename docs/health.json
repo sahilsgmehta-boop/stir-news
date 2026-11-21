@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T19:37:00Z",
+ "built": "2026-11-21T19:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 53,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,9 +66,9 @@
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
+    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution."
    ]
   },
   {
@@ -77,14 +77,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 56,
-   "added": 6,
+   "kept": 55,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 41,
+   "fetched": 100,
+   "kept": 46,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
+    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany complete political deal for ECB leadership",
-    "Ecb's Moulin: French inflation is currently clearly too high",
-    "Bundesbank: December ECB rate hike likely"
+    "ECB chief urges public funding to attract private investment in chip plants, data centers"
    ]
   },
   {
@@ -120,15 +120,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
-   "kept": 5,
+   "fetched": 13,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France and Germany complete political deal for ECB leadership",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "Bundesbank: December ECB rate hike likely",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -137,11 +136,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 2,
+   "fetched": 34,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
@@ -154,7 +154,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
