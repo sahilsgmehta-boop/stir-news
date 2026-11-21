@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T11:37:00Z",
+ "built": "2026-11-21T11:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 55,
+   "kept": 56,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -107,10 +107,10 @@
     "Ignore the European Central Bank\u2019s AI Warning at Your Peril",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
-    "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France and Germany complete political deal for ECB leadership",
+    "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
+    "France and Germany complete political deal for ECB leadership",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB president \u2018says AI cyber threats are significant concern\u2019"
    ]
@@ -120,14 +120,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 24,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Bundesbank: December ECB rate hike likely",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "Panetta: \u2018Inflation is rising again; we must resist the temptation to respond with tax cuts\u2019",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -156,11 +160,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 17,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Bank of Canada warns against excessive reliance on rate signals",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
