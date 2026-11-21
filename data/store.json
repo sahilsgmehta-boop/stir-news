@@ -21,6 +21,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-21T15:27:20Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Warsh Asks Who Profits From AI",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVElQTldobkN3U1NUeVpjYllSUHdUd0FtWi1OZUhOMi1fTkxRb1NVeVZtNU4xeVFuM0FmQnNhZlFRcWt6QW9IcnZnR3BhQ1NyeUNkWTdMQTQyOFdyZzg1ekxnazNGTS1qa2hhR2ZnY2NrOVdYVnRTdzAzNjZ2dUtfRGdCSmgtQzBMYm5BQTBRTTFFWVlzNG9lNkh6LTljZDJPVThpTUhR?oc=5",
+"src": "StartupHub.ai",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d6ca9c08fa94",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T22:18:09Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -147,7 +167,8 @@
 "Centre Daily Times",
 "Kansas City Star",
 "Investing.com",
-"Kitco"
+"Kitco",
+"95 KQDS"
 ],
 "desc": "",
 "id": "45c98fa71ce9",
@@ -1720,7 +1741,8 @@
 "95 KQDS",
 "Tacoma News Tribune",
 "Miami Herald",
-"Y100 WNCY"
+"Y100 WNCY",
+"Myrtle Beach Sun News"
 ],
 "desc": "",
 "id": "23279a98b334",
@@ -1836,7 +1858,8 @@
 "U.S. News & World Report",
 "SRN News",
 "Hilton Head Island Packet",
-"Bellingham Herald"
+"Bellingham Herald",
+"San Luis Obispo Tribune"
 ],
 "desc": "",
 "id": "40a59aec4b95",
