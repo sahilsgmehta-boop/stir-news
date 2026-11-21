@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T20:52:00Z",
+ "built": "2026-11-21T21:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,16 +54,16 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 99,
-   "kept": 51,
+   "fetched": 94,
+   "kept": 48,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
@@ -78,7 +78,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 55,
-   "added": 4,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Barkin: US and Virginia workforce remain flat",
@@ -146,7 +146,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
@@ -159,7 +158,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
