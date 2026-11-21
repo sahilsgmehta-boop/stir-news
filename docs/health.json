@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T06:37:01Z",
+ "built": "2026-11-21T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
+   "kept": 58,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,21 +136,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 28,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
     "Cryptocurrencies are failing as money: Bank of England's Carney",
-    "Why Is The BoE Stress Testing Private Credit?",
     "FTSE 100 Edges Lower as UK Consumer Confidence Weakens and Bank of England Warns of Inflation Risks",
-    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
-    "Bank of England Starts \u00a3160m Headquarters Renovation",
+    "Why Is The BoE Stress Testing Private Credit?",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-    "Rising UK inflation strengthens case for further BoE rate hikes, lending support to British Pound",
+    "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
     "Bank of England Begins 160m Pound Headquarters Revamp",
-    "Rising UK inflation underpins British Pound and case for further BoE rate hikes"
+    "Bank of England Starts \u00a3160m Headquarters Renovation",
+    "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact",
+    "Bank of England Begins 160 Million Pound Headquarters Revamp"
    ]
   },
   {
@@ -164,8 +164,8 @@
    "error": "",
    "near_misses": [
     "Bank of Canada warns against excessive reliance on rate signals",
-    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
+    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz",
     "Bank of Canada Media Interview \u2013 Barrie 360",
     "Bank of Canada Says Scenarios Signalled October Rate Hike"
    ]
