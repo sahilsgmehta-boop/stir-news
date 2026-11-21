@@ -1153,6 +1153,26 @@
 "basis": "reports"
 },
 {
+"t": "2026-11-20T08:12:09Z",
+"bank": "Fed",
+"speaker": "Paulson",
+"hl": "Fed's Paulson says the Fed has 'more tightening to do' after a speech on how markets read the October pause",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFdlN0dDUVFFNDB6MURmZHItZU9BdjBJME9KNUNyYlVHVHNVVXNYem0zM0l5NDF4ZWQ0N25TTU9naTIyQWNXT1padTNBQmI1V0g2X0tOT3Vab0U0VFJ5YUxGaGw1anRaeHNpbkJoTnpYTWNYcmJVSVY3NjNVbDM5cnh3T01rakJZZkg0SnZxSWRzMHo0QWY5aGo5RXFrTDRsOFRHaWhSakpua3BNOUljbjFUR2RkUndSNXhtN0NHdEpYdEk?oc=5",
+"src": "MLQ.ai",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "b1b55fe6d22c",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-20T04:10:59Z",
 "bank": "Fed",
 "speaker": "Paulson",
@@ -1698,7 +1718,8 @@
 "Sun Herald",
 "Columbus Ledger-Enquirer",
 "Belleville News-Democrat",
-"Lexington Herald Leader"
+"Lexington Herald Leader",
+"The Star"
 ],
 "desc": "",
 "id": "4c85b87cc5d0",
