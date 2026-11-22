@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T00:22:01Z",
+ "built": "2026-11-22T00:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 37,
+   "fetched": 71,
+   "kept": 34,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,8 +66,8 @@
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
+   "kept": 52,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -106,13 +106,13 @@
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "ECB's Pereira Warns of Rising Inflation, December Hike",
     "Tokenization Is Lagarde's Vision for a Single European Market",
+    "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "France and Germany complete political deal for ECB leadership",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
-    "Ecb's Moulin: French inflation is currently clearly too high",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019"
+    "Ecb's Moulin: French inflation is currently clearly too high"
    ]
   },
   {
@@ -157,7 +157,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
