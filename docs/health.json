@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T09:07:00Z",
+ "built": "2026-11-22T09:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
+   "fetched": 59,
    "kept": 26,
    "added": 0,
    "error": "",
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 85,
+   "fetched": 86,
    "kept": 36,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
+    "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France and Germany complete political deal for ECB leadership",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "Ecb's Moulin: French inflation is currently clearly too high",
+    "France and Germany complete political deal for ECB leadership",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
-    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
+    "Ecb's Moulin: French inflation is currently clearly too high"
    ]
   },
   {
@@ -126,14 +126,14 @@
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
-    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
+    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles"
    ]
   },
   {
@@ -141,15 +141,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 26,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
     "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-    "Britain's long wait for 2% inflation tests public faith in Bank of England"
+    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
+    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble"
    ]
   },
   {
@@ -171,11 +170,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 3,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper"
