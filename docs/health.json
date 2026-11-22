@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T03:52:00Z",
+ "built": "2026-11-22T04:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 92,
+   "fetched": 91,
    "kept": 38,
    "added": 0,
    "error": "",
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
