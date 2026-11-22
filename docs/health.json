@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T01:22:00Z",
+ "built": "2026-11-22T01:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 29,
+   "fetched": 61,
+   "kept": 28,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,8 +67,8 @@
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
   },
   {
@@ -89,8 +89,8 @@
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Supersized December rate hike could be ahead: Fed governor"
+    "Supersized December rate hike could be ahead: Fed governor",
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
+   "fetched": 94,
    "kept": 39,
    "added": 0,
    "error": "",
@@ -126,8 +126,8 @@
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
-    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
@@ -142,7 +142,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 26,
    "kept": 1,
    "added": 0,
    "error": "",
