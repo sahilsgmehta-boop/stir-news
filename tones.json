@@ -10446,6 +10446,38 @@
    "lead": "ff240fc97576",
    "at": "2026-11-22T15:49:10Z",
    "by": "claude"
+  },
+  "cebd846b8feb": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Late recap of Cook's Nov 20 call for more hikes; adds nothing new to December pricing.",
+   "sum": "A late report of Cook's Nov 20 Santiago speech repeats her view that further rate hikes are needed to bring high inflation down.",
+   "pts": [
+    "Repeats that rate hikes are needed to lower high inflation.",
+    "Content matches her Nov 20 speech: policy not restrictive enough and waiting has a cost.",
+    "No new remarks or meeting-specific guidance in this report."
+   ],
+   "rr": "Reinforces support for the 25bp hike priced for Dec 9 from a voting governor; no call for 50bp and no new signal for 2027. Only news paraphrases were available.",
+   "ev": "Report on Nov 20 speech (Santiago)",
+   "basis": "reports",
+   "at": "2026-11-22T20:49:04Z",
+   "by": "claude"
+  },
+  "fdf2a326b9b1": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Recycles Paulson's Nov 20 openness to back-to-back hikes; no fresh signal.",
+   "sum": "A late write-up of Paulson's Nov 20 remarks repeats that she is open to back-to-back rate hikes while favouring a deliberate pace.",
+   "pts": [
+    "Repeats openness to hiking at consecutive meetings.",
+    "Same message as Nov 19-20: more tightening to do, moved deliberately.",
+    "No new remarks or meeting-specific guidance in this report."
+   ],
+   "rr": "Keeps support for 25bp on Dec 9 and a possible January follow-up; does not argue for 50bp. Only news paraphrases were available.",
+   "ev": "Report on Nov 20 remarks",
+   "basis": "reports",
+   "at": "2026-11-22T20:49:04Z",
+   "by": "claude"
   }
  }
 }
