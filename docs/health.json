@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T21:39:37Z",
+ "built": "2026-11-22T21:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,7 +55,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 32,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
-   "added": 5,
+   "kept": 53,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 25,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 17,
    "kept": 1,
    "added": 0,
    "error": "",
