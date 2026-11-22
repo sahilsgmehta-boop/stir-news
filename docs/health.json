@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T23:07:00Z",
+ "built": "2026-11-22T23:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,9 +54,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 11,
-   "added": 1,
+   "fetched": 29,
+   "kept": 10,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
-   "added": 1,
+   "kept": 51,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 2,
+   "fetched": 20,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -116,16 +116,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "France Taps Laurence Boone for ECB Board Seat with Markets Remit in View",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "Radev: ECB must be ready to raise rates again in December"
    ]
