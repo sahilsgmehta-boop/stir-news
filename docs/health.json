@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T16:09:43Z",
+ "built": "2026-11-22T16:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "error": "",
    "near_misses": [
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high",
@@ -90,7 +90,7 @@
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -98,17 +98,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 9,
+   "fetched": 41,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany complete political deal for ECB leadership",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
@@ -167,7 +167,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
