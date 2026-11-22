@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T07:07:01Z",
+ "built": "2026-11-22T07:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,9 +54,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 35,
-   "added": 0,
+   "fetched": 62,
+   "kept": 28,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
@@ -64,11 +64,11 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Iran Peace Deal No Silver Bullet for Fed\u2019s Inflation Dilemma: Mike Dolan",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
+    "Why would the Fed consider a half-percentage-point hike in December?",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "Why would the Fed consider a half-percentage-point hike in December?"
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -141,7 +141,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 30,
    "kept": 1,
    "added": 0,
    "error": "",
