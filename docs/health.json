@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T10:22:01Z",
+ "built": "2026-11-22T10:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,9 +66,9 @@
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
   {
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 2,
+   "fetched": 14,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -132,9 +132,7 @@
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
-    "France and Germany close their candidates for the ECB and clear the way for De Cos"
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
   {
@@ -147,7 +145,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble"
    ]
@@ -162,8 +159,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada warns against excessive reliance on rate signals",
-    "Who is favoured to replace Bank of Canada Governor Tiff Macklem? Take our business and investing news quiz"
+    "Bank of Canada warns against excessive reliance on rate signals"
    ]
   },
   {
@@ -181,7 +177,7 @@
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper"
    ]
   },
   {
