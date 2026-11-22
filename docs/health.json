@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T19:22:00Z",
+ "built": "2026-11-22T19:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
-   "kept": 15,
+   "fetched": 37,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -64,8 +64,8 @@
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high"
@@ -77,20 +77,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 50,
+   "kept": 52,
    "added": 5,
    "error": "",
    "near_misses": [
+    "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -120,19 +120,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
+    "France Taps Laurence Boone for ECB Board Seat with Markets Remit in View",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "ECB reorganizes its leadership in 2027 / Spain is expected to take over the institution\u2019s presidency, while France and Germany propose candidates for key positi",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
-    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February"
+    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February",
+    "Radev: ECB must be ready to raise rates again in December"
    ]
   },
   {
@@ -140,20 +142,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Britain's long wait for 2% inflation tests public faith in Bank of England"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
