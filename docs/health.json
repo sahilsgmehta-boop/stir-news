@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T00:37:00Z",
+ "built": "2026-11-22T00:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 34,
+   "fetched": 68,
+   "kept": 31,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -65,8 +65,8 @@
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
@@ -126,14 +126,14 @@
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says"
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles"
    ]
   },
   {
