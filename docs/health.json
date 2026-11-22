@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T04:52:00Z",
+ "built": "2026-11-22T05:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 35,
+   "fetched": 62,
+   "kept": 28,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,8 +67,8 @@
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "Iran Peace Deal No Silver Bullet for Fed\u2019s Inflation Dilemma: Mike Dolan",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 53,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 43,
+   "kept": 44,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -142,7 +142,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 25,
    "kept": 1,
    "added": 0,
    "error": "",
