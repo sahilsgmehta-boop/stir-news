@@ -8,17 +8,21 @@
 "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUJQVE1LYnQ0S0NLYnh2UjRreXlkdndOMUJlMmhwdjZEUXU3eEJQUmNyWkQ0dlNQNExJZm41VEFIZGZwalUyeWlXd0JPREliSTh4b0FpamVLTEdPb1VDeW1qMUV5NVpyaWM3RFdkSFJfWmdVRk1YZFBpVGR6azd6bTFXTHNERzd3LThXejhQWURYdkhqWDRKZ0xOM3hOb3BHS085UHVwdE5XYnNBQ290UHJvVFRJRXlfSmpkbzhfWEg1b3M?oc=5",
 "src": "IndexBox",
 "tier": "comment",
-"tone": "",
+"tone": "hawk",
 "also": [],
 "desc": "",
 "id": "fdf2a326b9b1",
-"score": null,
-"read": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
+"score": 4,
+"read": "Recycles Paulson's Nov 20 openness to back-to-back hikes; no fresh signal.",
+"sum": "A late write-up of Paulson's Nov 20 remarks repeats that she is open to back-to-back rate hikes while favouring a deliberate pace.",
+"pts": [
+"Repeats openness to hiking at consecutive meetings.",
+"Same message as Nov 19-20: more tightening to do, moved deliberately.",
+"No new remarks or meeting-specific guidance in this report."
+],
+"rr": "Keeps support for 25bp on Dec 9 and a possible January follow-up; does not argue for 50bp. Only news paraphrases were available.",
+"ev": "Report on Nov 20 remarks",
+"basis": "reports"
 },
 {
 "t": "2026-11-22T14:18:00Z",
@@ -28,17 +32,21 @@
 "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0VQWEJ4MzhjUDFSdENrNEtyR2dpQzh1d0xmdGtRUTgtQkRRWnZ4RUFwSHQwR3J5eU90MUlXQTlScTNXS21oakRrWEpQc0I2c29tT0NENzAxWnoxWmdTZDVYWlpURW5XTm1ldE9YVUNOUXBhd1B4ZzRlbDUwY1EtU3Z0UjlLYTJtZ2MtVjQ3MDI4bE9JS3A1NE5YNms2eVZIaGxuTTlR?oc=5",
 "src": "Malaya Business Insight",
 "tier": "comment",
-"tone": "",
+"tone": "hawk",
 "also": [],
 "desc": "",
 "id": "cebd846b8feb",
-"score": null,
-"read": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
+"score": 5,
+"read": "Late recap of Cook's Nov 20 call for more hikes; adds nothing new to December pricing.",
+"sum": "A late report of Cook's Nov 20 Santiago speech repeats her view that further rate hikes are needed to bring high inflation down.",
+"pts": [
+"Repeats that rate hikes are needed to lower high inflation.",
+"Content matches her Nov 20 speech: policy not restrictive enough and waiting has a cost.",
+"No new remarks or meeting-specific guidance in this report."
+],
+"rr": "Reinforces support for the 25bp hike priced for Dec 9 from a voting governor; no call for 50bp and no new signal for 2027. Only news paraphrases were available.",
+"ev": "Report on Nov 20 speech (Santiago)",
+"basis": "reports"
 },
 {
 "t": "2026-11-21T16:03:00Z",
