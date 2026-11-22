@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T14:37:00Z",
+ "built": "2026-11-22T14:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
-   "kept": 30,
+   "fetched": 52,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Fed chair discloses wife's transactions in pet-care investments"
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
+    "Fed chair discloses wife's transactions in pet-care investments",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
    ]
   },
   {
@@ -78,7 +78,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 51,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 14,
+   "fetched": 62,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany complete political deal for ECB leadership",
-    "ECB chief urges public funding to attract private investment in chip plants, data centers",
-    "Ecb's Moulin: French inflation is currently clearly too high"
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers"
    ]
   },
   {
@@ -120,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -132,7 +132,6 @@
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -154,7 +153,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -167,11 +166,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB watching for second-round inflation effects, vice chairman says",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
