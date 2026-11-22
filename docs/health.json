@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T05:37:00Z",
+ "built": "2026-11-22T05:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 28,
+   "fetched": 60,
+   "kept": 27,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 92,
+   "fetched": 91,
    "kept": 39,
    "added": 0,
    "error": "",
@@ -126,14 +126,14 @@
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
-    "Ecb's Moulin: French inflation is currently clearly too high",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles"
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
   {
