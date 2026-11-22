@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T16:07:00Z",
+ "built": "2026-11-22T16:09:43Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 21,
+   "fetched": 63,
+   "kept": 28,
    "added": 0,
    "error": "",
    "near_misses": [
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
-    "Fed chair discloses wife's transactions in pet-care investments",
+    "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
+    "Fed chair discloses wife's transactions in pet-care investments"
    ]
   },
   {
@@ -77,14 +77,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 50,
-   "added": 5,
+   "kept": 58,
+   "added": 1,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 46,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -106,9 +106,9 @@
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany complete political deal for ECB leadership",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
@@ -145,7 +145,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Britain's long wait for 2% inflation tests public faith in Bank of England"
+    "Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
    ]
   },
   {
