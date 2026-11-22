@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T15:22:00Z",
+ "built": "2026-11-22T15:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 52,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -66,8 +66,8 @@
     "Fed holds interest rates steady as inflation hits 3-year high",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
-    "Fed chair discloses wife's transactions in pet-care investments",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
+    "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
    ]
   },
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
+   "kept": 50,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -98,20 +98,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 14,
+   "fetched": 47,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
+    "France and Germany complete political deal for ECB leadership",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "France and Germany complete political deal for ECB leadership",
-    "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
    ]
   },
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -153,7 +153,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
