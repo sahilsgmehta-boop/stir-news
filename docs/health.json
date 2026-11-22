@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T08:37:00Z",
+ "built": "2026-11-22T08:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 61,
    "kept": 27,
    "added": 0,
    "error": "",
@@ -77,14 +77,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 57,
-   "added": 1,
+   "kept": 52,
+   "added": 5,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
@@ -141,14 +141,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 20,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble"
+    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
+    "Britain's long wait for 2% inflation tests public faith in Bank of England"
    ]
   },
   {
@@ -170,14 +170,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 2,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper"
    ]
   },
@@ -205,7 +203,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 11,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
