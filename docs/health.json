@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T11:22:00Z",
+ "built": "2026-11-22T11:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 54,
+   "kept": 53,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 28,
+   "fetched": 74,
+   "kept": 27,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -167,7 +167,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -177,8 +177,7 @@
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "SNB Vice Chairman comes forward after inflation accelerates to a second-round",
-    "SNB closely watching for second-round inflation effects, vice chairman tells paper"
+    "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
   {
