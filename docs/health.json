@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T09:37:00Z",
+ "built": "2026-11-22T09:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 25,
+   "fetched": 55,
+   "kept": 24,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -106,8 +106,8 @@
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "Tokenization Is Lagarde's Vision for a Single European Market",
+    "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany complete political deal for ECB leadership",
@@ -120,18 +120,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 2,
+   "fetched": 14,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says"
    ]
   },
@@ -145,9 +145,9 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
+    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble"
    ]
   },
   {
@@ -169,13 +169,14 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB watching for second-round inflation effects, vice chairman says",
+    "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper"
    ]
