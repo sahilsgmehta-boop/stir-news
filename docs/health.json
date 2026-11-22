@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T18:07:00Z",
+ "built": "2026-11-22T18:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 16,
+   "fetched": 36,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -65,8 +65,8 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
    ]
@@ -77,11 +77,10 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 50,
+   "kept": 51,
    "added": 5,
    "error": "",
    "near_misses": [
-    "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
@@ -90,7 +89,8 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
   {
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 5,
+   "fetched": 42,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France Taps Laurence Boone for ECB Board Seat with Markets Remit in View",
+    "ECB Opens Project Appia Trials For Tokenized Deposits Settling Against Central Bank Money On November 20",
     "ECB president warns Europe is paying the price for slow reforms.",
-    "ECB names new board members, next chief may already be agreed",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "ECB names new board members, next chief may already be agreed",
-    "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says"
+    "ECB names new board members, next chief may already be agreed"
    ]
   },
   {
@@ -120,16 +120,19 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 14,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles"
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
+    "ECB reorganizes its leadership in 2027 / Spain is expected to take over the institution\u2019s presidency, while France and Germany propose candidates for key positi",
+    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February"
    ]
   },
   {
@@ -150,7 +153,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
