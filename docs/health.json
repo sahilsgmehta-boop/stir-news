@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T08:22:00Z",
+ "built": "2026-11-22T08:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 35,
+   "fetched": 60,
+   "kept": 27,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Iran Peace Deal No Silver Bullet for Fed\u2019s Inflation Dilemma: Mike Dolan",
+    "Why would the Fed consider a half-percentage-point hike in December?",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "Why would the Fed consider a half-percentage-point hike in December?"
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
   {
@@ -77,14 +77,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
-   "added": 5,
+   "kept": 57,
+   "added": 1,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
-   "kept": 38,
+   "fetched": 86,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -141,14 +141,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 28,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
-    "Britain's long wait for 2% inflation tests public faith in Bank of England"
+    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble"
    ]
   },
   {
@@ -170,12 +170,15 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche"
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper"
    ]
   },
   {
