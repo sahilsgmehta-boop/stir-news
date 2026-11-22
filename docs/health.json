@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T01:37:00Z",
+ "built": "2026-11-22T01:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 62,
    "kept": 28,
    "added": 0,
    "error": "",
@@ -68,7 +68,7 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
    ]
   },
   {
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 39,
+   "fetched": 93,
+   "kept": 38,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -126,8 +126,8 @@
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
@@ -142,7 +142,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 1,
    "added": 0,
    "error": "",
