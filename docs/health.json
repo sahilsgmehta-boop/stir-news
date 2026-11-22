@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T06:37:01Z",
+ "built": "2026-11-22T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,20 +77,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
-   "added": 5,
+   "kept": 59,
+   "added": 1,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -110,8 +110,8 @@
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "France and Germany complete political deal for ECB leadership",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
    ]
   },
@@ -146,8 +146,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
    ]
