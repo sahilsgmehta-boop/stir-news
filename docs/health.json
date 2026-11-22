@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T02:52:00Z",
+ "built": "2026-11-22T03:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
-   "kept": 27,
+   "fetched": 64,
+   "kept": 30,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
-   "added": 4,
+   "kept": 52,
+   "added": 5,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -90,7 +90,7 @@
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
    ]
   },
   {
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 45,
+   "fetched": 92,
+   "kept": 38,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France and Germany complete political deal for ECB leadership",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019"
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
+    "Ecb's Moulin: French inflation is currently clearly too high",
+    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
    ]
   },
   {
@@ -120,21 +120,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 3,
+   "fetched": 25,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
+    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
-    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
     "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says"
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
+    "ECB says financial system recalls subprime bubble that sparked 2008 crisis"
    ]
   },
   {
@@ -150,6 +150,7 @@
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
     "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
     "Bank of England raises interest rates to 4% as Welsh households face mortgage pressure",
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
    ]
   },
@@ -158,7 +159,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
