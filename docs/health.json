@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T17:37:00Z",
+ "built": "2026-11-22T17:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,9 +54,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
-   "kept": 17,
-   "added": 0,
+   "fetched": 39,
+   "kept": 14,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
@@ -105,14 +105,14 @@
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "Ecb's Moulin: French inflation is currently clearly too high",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president warns Europe is paying the price for slow reforms.",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "ECB names new board members, next chief may already be agreed",
     "ECB names new board members, next chief may already be agreed",
-    "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says"
+    "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says",
+    "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
   {
@@ -137,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
