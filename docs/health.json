@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T15:37:00Z",
+ "built": "2026-11-22T15:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
+   "fetched": 50,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -78,7 +78,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 50,
-   "added": 4,
+   "added": 5,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -98,20 +98,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 12,
+   "fetched": 51,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "France and Germany complete political deal for ECB leadership",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "France and Germany complete political deal for ECB leadership",
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
    ]
   },
@@ -127,12 +127,12 @@
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France and Germany complete political deal for ECB leadership",
-    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
+    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
+    "ECB president \u2018says AI cyber threats are significant concern\u2019"
    ]
   },
   {
@@ -140,12 +140,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 22,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Britain's long wait for 2% inflation tests public faith in Bank of England"
+    "Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
    ]
   },
   {
@@ -153,7 +154,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
