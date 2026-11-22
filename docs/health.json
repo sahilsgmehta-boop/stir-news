@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T17:22:00Z",
+ "built": "2026-11-22T17:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 21,
+   "fetched": 43,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 51,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 34,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president warns Europe is paying the price for slow reforms.",
-    "ECB names new board members, next chief may already be agreed",
     "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "ECB names new board members, next chief may already be agreed"
+    "ECB names new board members, next chief may already be agreed",
+    "ECB names new board members, next chief may already be agreed",
+    "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says"
    ]
   },
   {
@@ -120,15 +120,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 8,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB: Spain to take the presidency; Paris and Berlin to play key roles"
    ]
   },
@@ -137,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
