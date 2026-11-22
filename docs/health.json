@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T17:52:00Z",
+ "built": "2026-11-22T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,9 +54,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 14,
-   "added": 1,
+   "fetched": 38,
+   "kept": 16,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
@@ -65,8 +65,8 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
    ]
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
+   "kept": 50,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 6,
+   "fetched": 32,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -110,9 +110,9 @@
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president warns Europe is paying the price for slow reforms.",
     "ECB names new board members, next chief may already be agreed",
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "ECB names new board members, next chief may already be agreed",
-    "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says",
-    "ECB Chief Urges Public Funds Back Chip Plants"
+    "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says"
    ]
   },
   {
@@ -137,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
