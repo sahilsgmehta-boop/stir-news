@@ -184,10 +184,10 @@
    },
    "following": {
     "call": "+25",
-    "note": "Not named. Implied by wanting faster hikes and 75-100bp or more in total.",
+    "note": "Not named. Implied by wanting faster hikes, 75-100bp or more in total, and seeing at least two more hikes (Nov 18).",
     "how": "implied",
-    "quote": "Will have to take back the 3 insurance cuts, maybe more",
-    "qsrc": "headline (Forex Factory), Nov 18"
+    "quote": "sees at least two more hikes",
+    "qsrc": "headline (Yahoo Finance), Nov 18"
    },
    "path": {
     "total": "+75 to +100bp or more",
@@ -200,7 +200,7 @@
    "ev": "Interview, CNBC",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-22"
   },
   "Fed|Cook": {
    "votes": {
