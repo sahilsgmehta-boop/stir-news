@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T22:07:01Z",
+ "built": "2026-11-22T22:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -18,7 +18,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 2,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": []
   },
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -62,13 +62,13 @@
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
+    "Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma"
    ]
   },
   {
@@ -98,19 +98,18 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 4,
+   "fetched": 23,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president warns Europe is paying the price for slow reforms.",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB names new board members, next chief may already be agreed",
     "ECB names new board members, next chief may already be agreed",
-    "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
@@ -119,7 +118,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -129,7 +128,8 @@
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Taps Laurence Boone for ECB Board Seat with Markets Remit in View",
-    "France, Germany to take key ECB roles, with Spain set for presidency"
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Radev: ECB must be ready to raise rates again in December"
    ]
   },
   {
@@ -137,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 12,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -153,6 +153,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
    ]
   },
