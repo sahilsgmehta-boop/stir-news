@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T15:07:00Z",
+ "built": "2026-11-22T15:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
+   "fetched": 50,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -65,9 +65,9 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Fed chair discloses wife's transactions in pet-care investments",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
    ]
   },
@@ -90,7 +90,7 @@
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 50,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -107,11 +107,11 @@
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "France and Germany complete political deal for ECB leadership",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "France and Germany complete political deal for ECB leadership",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
    ]
   },
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 23,
    "kept": 0,
    "added": 0,
    "error": "",
