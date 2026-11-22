@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T22:37:00Z",
+ "built": "2026-11-22T22:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 11,
+   "fetched": 31,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,8 +67,8 @@
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Fed holds interest rates steady as inflation hits 3-year high",
-    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma"
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
+    "Fed holds interest rates steady as inflation hits 3-year high"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 21,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -106,8 +106,8 @@
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB president warns Europe is paying the price for slow reforms.",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB names new board members, next chief may already be agreed",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
