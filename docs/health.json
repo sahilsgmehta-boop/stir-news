@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T06:52:00Z",
+ "built": "2026-11-22T07:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
-   "kept": 27,
+   "fetched": 76,
+   "kept": 35,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -64,11 +64,11 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Why would the Fed consider a half-percentage-point hike in December?",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "Iran Peace Deal No Silver Bullet for Fed\u2019s Inflation Dilemma: Mike Dolan",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
+    "Why would the Fed consider a half-percentage-point hike in December?"
    ]
   },
   {
@@ -77,14 +77,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
-   "added": 1,
+   "kept": 53,
+   "added": 5,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 41,
+   "fetched": 92,
+   "kept": 40,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -110,8 +110,8 @@
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "France and Germany complete political deal for ECB leadership",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
    ]
   },
@@ -141,7 +141,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 31,
    "kept": 1,
    "added": 0,
    "error": "",
