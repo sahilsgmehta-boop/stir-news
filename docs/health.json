@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T21:22:00Z",
+ "built": "2026-11-22T21:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 33,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -66,9 +66,9 @@
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma"
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
    ]
   },
   {
@@ -84,8 +84,8 @@
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -111,8 +111,7 @@
     "ECB names new board members, next chief may already be agreed",
     "ECB names new board members, next chief may already be agreed",
     "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says",
-    "ECB Chief Urges Public Funds Back Chip Plants",
-    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February"
+    "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
   {
@@ -120,7 +119,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -129,8 +128,7 @@
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
-    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February"
+    "France, Germany to take key ECB roles, with Spain set for presidency"
    ]
   },
   {
@@ -138,8 +136,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
-   "kept": 0,
+   "fetched": 13,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -149,7 +147,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
