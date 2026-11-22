@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T16:52:01Z",
+ "built": "2026-11-22T17:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
+   "kept": 50,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -99,19 +99,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 36,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "Ecb's Moulin: French inflation is currently clearly too high",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "Ecb's Moulin: French inflation is currently clearly too high",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role",
     "ECB president warns Europe is paying the price for slow reforms.",
     "ECB names new board members, next chief may already be agreed",
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "ECB names new board members, next chief may already be agreed"
    ]
   },
@@ -120,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -129,7 +129,8 @@
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
-    "France, Germany to take key ECB roles, with Spain set for presidency"
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles"
    ]
   },
   {
@@ -137,13 +138,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-    "Britain's long wait for 2% inflation tests public faith in Bank of England"
+    "Britain's long wait for 2% inflation tests public faith in Bank of England",
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
    ]
   },
   {
