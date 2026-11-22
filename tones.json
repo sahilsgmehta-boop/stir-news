@@ -10414,6 +10414,22 @@
    "basis": "reports",
    "at": "2026-11-21T20:48:45Z",
    "by": "claude"
+  },
+  "b1b55fe6d22c": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Repeats that the Fed has more tightening to do; backs the gradual priced path.",
+   "lead": "352d4b53c42f",
+   "at": "2026-11-22T06:48:39Z",
+   "by": "claude"
+  },
+  "69ac046ff5e5": {
+   "tone": "hawk",
+   "score": 9,
+   "read": "Urges a 50bp hike, more than the 25bp priced for December.",
+   "lead": "ff240fc97576",
+   "at": "2026-11-22T06:48:39Z",
+   "by": "claude"
   }
  }
 }
