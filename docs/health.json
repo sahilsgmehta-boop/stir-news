@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T05:07:00Z",
+ "built": "2026-11-22T05:09:26Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,14 +77,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
-   "added": 5,
+   "kept": 58,
+   "added": 1,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 44,
+   "fetched": 91,
+   "kept": 38,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "France and Germany complete political deal for ECB leadership",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle"
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
+    "Ecb's Moulin: French inflation is currently clearly too high",
+    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
    ]
   },
   {
