@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T21:52:01Z",
+ "built": "2026-11-22T22:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
-   "added": 0,
+   "kept": 2,
+   "added": 1,
    "error": "",
    "near_misses": []
   },
@@ -54,13 +54,13 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 31,
    "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
+    "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed chair discloses wife's transactions in pet-care investments",
@@ -77,8 +77,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 53,
-   "added": 6,
+   "kept": 51,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -119,7 +119,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -128,6 +128,7 @@
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France Taps Laurence Boone for ECB Board Seat with Markets Remit in View",
     "France, Germany to take key ECB roles, with Spain set for presidency"
    ]
   },
@@ -136,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 13,
    "kept": 1,
    "added": 0,
    "error": "",

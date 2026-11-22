@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-22T21:26:35Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
+"url": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "With a quarter-point hike in December close to fully priced, Bessent's comments mainly push back against the governors (well, one, looking at you Waller!) arguing for 50 basis points. They do little to dislodge 25bp as the base case. If the equity correction deepens, the bigger risk for rate markets is that a hold gets priced back in. For oil, the administration's argument depends on crude-driven inflation fading, so softer energy prices would strengthen Bessent's case and a new spike would back the hawks. Gold has tended to fall on rising hike expectations, so any easing of that pricing could",
+"id": "bdff13698210",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-22T18:40:57Z",
 "bank": "Fed",
 "speaker": "Paulson",
