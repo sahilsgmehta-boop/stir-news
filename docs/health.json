@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T11:07:01Z",
+ "built": "2026-11-22T11:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 24,
+   "fetched": 55,
+   "kept": 23,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,8 +67,8 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
    ]
   },
   {
@@ -97,19 +97,31 @@
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 75,
+   "kept": 28,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Candidate or kingmaker: could Lagarde sway France's presidential race?",
+    "Tokenization Is Lagarde's Vision for a Single European Market",
+    "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
+    "ECB's Pereira Warns of Rising Inflation, December Hike",
+    "France and Germany complete political deal for ECB leadership",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "ECB chief urges public funding to attract private investment in chip plants, data centers",
+    "Ecb's Moulin: French inflation is currently clearly too high",
+    "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
+   ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 2,
+   "fetched": 14,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -119,10 +131,8 @@
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
-    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
-    "France and Germany close their candidates for the ECB and clear the way for De Cos"
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
   {
