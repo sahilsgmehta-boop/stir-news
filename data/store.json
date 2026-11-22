@@ -33,7 +33,9 @@
 "src": "Malaya Business Insight",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"kalkine.com"
+],
 "desc": "",
 "id": "cebd846b8feb",
 "score": 5,
