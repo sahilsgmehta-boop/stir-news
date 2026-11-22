@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T04:07:01Z",
+ "built": "2026-11-22T04:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 29,
+   "fetched": 64,
+   "kept": 30,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -64,8 +64,8 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 53,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -126,15 +126,15 @@
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
+    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
-    "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
     "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
-    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says"
+    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
+    "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
   {
@@ -160,7 +160,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
