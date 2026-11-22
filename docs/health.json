@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T11:37:00Z",
+ "built": "2026-11-22T11:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -78,7 +78,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 53,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
@@ -98,18 +98,18 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
-   "kept": 27,
+   "fetched": 71,
+   "kept": 25,
    "added": 0,
    "error": "",
    "near_misses": [
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
     "Tokenization Is Lagarde's Vision for a Single European Market",
-    "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
-    "France and Germany complete political deal for ECB leadership",
+    "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
+    "France and Germany complete political deal for ECB leadership",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
     "Ecb's Moulin: French inflation is currently clearly too high",
     "Eurogroup says Germany\u2019s Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role"
@@ -140,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -158,9 +158,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Bank of Canada warns against excessive reliance on rate signals"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_snb",
