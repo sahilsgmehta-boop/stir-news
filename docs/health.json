@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T13:07:00Z",
+ "built": "2026-11-22T13:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
+   "fetched": 56,
    "kept": 22,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
+    "Fed holds interest rates steady as inflation hits 3-year high",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Fed chair discloses wife's transactions in pet-care investments",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019"
    ]
   },
   {
@@ -89,8 +89,8 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+    "Tech leaders tell Fed chairman Warsh how AI could transform the economy"
    ]
   },
   {
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 23,
+   "fetched": 67,
+   "kept": 22,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -128,8 +128,8 @@
     "France and Germany complete political deal for ECB leadership",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
@@ -145,8 +145,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Britain's long wait for 2% inflation tests public faith in Bank of England",
-    "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble"
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
    ]
   },
   {
