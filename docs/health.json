@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T00:07:00Z",
+ "built": "2026-11-22T00:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
-   "kept": 36,
+   "fetched": 75,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -65,8 +65,8 @@
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
     "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so"
    ]
@@ -82,8 +82,8 @@
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Barkin: US and Virginia workforce remain flat",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed minutes: Higher interest rates needed in December as inflation worries mount",
@@ -106,13 +106,13 @@
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "Candidate or kingmaker: could Lagarde sway France's presidential race?",
-    "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB's Pereira Warns of Rising Inflation, December Hike",
+    "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB Plans Wider Access to Euro Swap Lines as Lagarde Seeks to Strengthen Currency's Global Role",
     "France and Germany complete political deal for ECB leadership",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "ECB chief urges public funding to attract private investment in chip plants, data centers",
-    "Ecb's Moulin: French inflation is currently clearly too high"
+    "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019"
    ]
   },
   {
@@ -126,14 +126,14 @@
    "error": "",
    "near_misses": [
     "France and Germany complete political deal for ECB leadership",
-    "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "Ecb's Moulin: French inflation is currently clearly too high",
+    "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles"
+    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
+    "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says"
    ]
   },
   {
@@ -141,7 +141,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 25,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -157,7 +157,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
