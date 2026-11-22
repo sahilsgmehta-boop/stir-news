@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T19:37:00Z",
+ "built": "2026-11-22T19:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
-   "kept": 11,
+   "fetched": 38,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -68,7 +68,7 @@
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "Fed holds interest rates steady as inflation hits 3-year high"
+    "Take a sneak peek inside the minds leading the Fed\u2019s AI task force"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 29,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -106,13 +106,13 @@
     "Tokenization Is Lagarde's Vision for a Single European Market",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "ECB president warns Europe is paying the price for slow reforms.",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "ECB president warns Europe is paying the price for slow reforms.",
     "ECB names new board members, next chief may already be agreed",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "ECB names new board members, next chief may already be agreed",
     "Europe\u2019s Tokenized Asset Market Needs Common Rules, ECB Says",
-    "ECB Chief Urges Public Funds Back Chip Plants"
+    "ECB Chief Urges Public Funds Back Chip Plants",
+    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February"
    ]
   },
   {
@@ -120,21 +120,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
-    "France Taps Laurence Boone for ECB Board Seat with Markets Remit in View",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "ECB reorganizes its leadership in 2027 / Spain is expected to take over the institution\u2019s presidency, while France and Germany propose candidates for key positi",
-    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February",
-    "Radev: ECB must be ready to raise rates again in December"
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Spain\u2019s Hernandez de Cos Set to Lead ECB From February"
    ]
   },
   {
@@ -142,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
