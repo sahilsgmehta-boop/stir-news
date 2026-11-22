@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T14:07:00Z",
+ "built": "2026-11-22T14:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
+   "fetched": 51,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -63,8 +63,8 @@
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Fed holds interest rates steady as inflation hits 3-year high",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "Fed chair discloses wife's transactions in pet-care investments",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
+   "fetched": 55,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -120,16 +120,17 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 15,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France and Germany complete political deal for ECB leadership",
     "Statement by Eurogroup President Kyriakos Pierrakakis on the nominations for the post of ECB executive board members",
     "Ecb's Moulin: French inflation is currently clearly too high",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
@@ -157,7 +158,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
+   ]
   },
   {
    "id": "gn_snb",
