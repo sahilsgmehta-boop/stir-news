@@ -537,7 +537,8 @@
 "Euronext Markets: Real-time Stock Market Data | live",
 "The Lufkin Daily News",
 "US News Money",
-"Investing.com"
+"Investing.com",
+"Centre Daily Times"
 ],
 "desc": "",
 "id": "989454aa78cc",
@@ -702,7 +703,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"MLQ.ai"
+"MLQ.ai",
+"Bloomberg"
 ],
 "desc": "",
 "id": "5e4acda856e8",
