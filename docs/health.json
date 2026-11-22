@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T06:22:00Z",
+ "built": "2026-11-22T06:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 60,
    "kept": 27,
    "added": 0,
    "error": "",
@@ -64,11 +64,11 @@
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Take a sneak peek inside the minds leading the Fed\u2019s AI task force",
     "\u2018Unacceptably high\u2019 inflation warrants forceful Fed action, Cook contends",
-    "Opinion | Anthropic\u2019s IPO is worth celebrating. So is the Fed\u2019s caution.",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
-    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008"
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
+    "Peter Schiff Warns Fed\u2019s Inflation Fight Means \u2018Greater Financial Crisis' Than 2008",
+    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
    ]
   },
   {
@@ -98,8 +98,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 39,
+   "fetched": 93,
+   "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 4,
+   "fetched": 18,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -131,9 +131,8 @@
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB president \u2018says AI cyber threats are significant concern\u2019",
-    "ECB\u2019s Pereira Says Inflation Pressure Is Significant and Rising",
-    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "Germany\u2019s Brunnermeier to Start at ECB in June, Klingbeil Says",
+    "ECB: Spain to take the presidency; Paris and Berlin to play key roles",
     "France and Germany present their candidates to replace Schnabel and Lane on the ECB Executive Committee"
    ]
   },
@@ -142,13 +141,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
+    "Britain's long wait for 2% inflation tests public faith in Bank of England",
     "IMF, BIS and Bank of England warn of an AI correction, but none calls it a bubble",
     "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact"
    ]
