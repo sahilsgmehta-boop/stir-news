@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T04:37:00Z",
+ "built": "2026-11-23T04:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,10 +68,10 @@
     "Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
-    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
+    "The Fed will raise interest rates in December: Not when, but by how much?",
     "Fed holds interest rates steady as inflation hits 3-year high"
    ]
   },
@@ -120,7 +120,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -138,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
