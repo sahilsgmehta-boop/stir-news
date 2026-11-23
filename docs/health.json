@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T06:52:00Z",
+ "built": "2026-11-23T07:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -67,9 +67,9 @@
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
+    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
     "The Fed will raise interest rates in December: Not when, but by how much?",
     "The Fed's leverage weakened, and the USD stalled after a four-week surge.",
     "Chicago Fed President: AI Data Center Investment Driving Inflation"
@@ -89,12 +89,12 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
    ]
   },
   {
@@ -113,8 +113,7 @@
     "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Invites Industry to Appia Tokenization Experiments",
-    "ECB Lines Up Industry Partners For Tokenized Deposits Trials"
+    "ECB Invites Industry to Appia Tokenization Experiments"
    ]
   },
   {
@@ -122,7 +121,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -130,7 +129,6 @@
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France and Germany to take key ECB roles",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "France Nominates Laurence Boone to ECB Board",
     "Radev: ECB must be ready to raise rates again in December"
    ]
@@ -140,26 +138,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Bank of England directors illegally profited from post-abolition enslavement in Cuba"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 5,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",
