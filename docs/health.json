@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T12:52:00Z",
+ "built": "2026-11-23T13:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 33,
    "kept": 11,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
+    "Midterm Election Outcome Will Embolden Fed's Pursuit of Price Stability",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Fed\u2019s Inflation Fight May Require More Hikes",
     "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Ringgit closes slightly lower against US dollar as investors eye Fed's hawkish stance",
-    "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes"
+    "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations"
    ]
   },
   {
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
-   "kept": 39,
-   "added": 6,
+   "fetched": 100,
+   "kept": 57,
+   "added": 11,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
-    "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation"
+    "Fed plans to eliminate some rate-setting meetings, chairman says"
    ]
   },
   {
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 16,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -146,7 +146,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
