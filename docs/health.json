@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T19:52:01Z",
+ "built": "2026-11-23T20:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "error": "",
    "near_misses": [
     "Fed President pitches FedNow",
-    "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
+    "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
-   "kept": 25,
-   "added": 5,
+   "fetched": 100,
+   "kept": 62,
+   "added": 14,
    "error": "",
    "near_misses": [
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent warns on Fed hike as AI bubble fears mount",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
+    "Fed plans to eliminate some rate-setting meetings, chairman says"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -113,7 +113,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 5,
    "added": 0,
    "error": "",
