@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T04:52:00Z",
+ "built": "2026-11-23T05:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -72,7 +72,7 @@
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
     "The Fed will raise interest rates in December: Not when, but by how much?",
-    "Fed holds interest rates steady as inflation hits 3-year high"
+    "The Fed's leverage weakened, and the USD stalled after a four-week surge."
    ]
   },
   {
@@ -87,8 +87,8 @@
    "near_misses": [
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
@@ -112,7 +112,9 @@
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France Nominates Laurence Boone to ECB Board",
-    "ECB Chief Urges Public Funds Back Chip Plants"
+    "ECB Chief Urges Public Funds Back Chip Plants",
+    "ECB Invites Industry to Appia Tokenization Experiments",
+    "ECB Lines Up Industry Partners For Tokenized Deposits Trials"
    ]
   },
   {
@@ -138,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -151,11 +153,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
    ]
   },
