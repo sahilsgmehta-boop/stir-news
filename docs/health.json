@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T20:37:01Z",
+ "built": "2026-11-23T20:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
+   "fetched": 40,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -66,9 +66,9 @@
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
+    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury ",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
-    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea"
+    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 58,
-   "kept": 24,
+   "kept": 25,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -143,13 +143,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
   },
