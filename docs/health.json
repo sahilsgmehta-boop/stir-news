@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T17:22:00Z",
+ "built": "2026-11-23T17:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 38,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -76,7 +76,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
+   "fetched": 67,
    "kept": 29,
    "added": 5,
    "error": "",
@@ -98,20 +98,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 19,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
-    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
-    "Meloni\u2019s diplomatic balancing act: The ECB, FAO and Italy\u2019s bid for global influence",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
-    "France and Germany set to take key ECB roles",
-    "France Nominates Laurence Boone to ECB Board",
-    "ECB Rate Hike May Not Fully Tame Inflation"
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -133,14 +127,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 4,
+   "fetched": 19,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
-    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
     "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
