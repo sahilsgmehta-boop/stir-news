@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T20:07:00Z",
+ "built": "2026-11-23T20:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 62,
-   "added": 14,
+   "fetched": 59,
+   "kept": 25,
+   "added": 5,
    "error": "",
    "near_misses": [
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Fed plans to eliminate some rate-setting meetings, chairman says"
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
   {
