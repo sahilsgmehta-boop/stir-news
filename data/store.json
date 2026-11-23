@@ -1,6 +1,48 @@
 {
 "items": [
 {
+"t": "2026-11-23T21:00:13Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "More work needed to bring inflation to target, NY Fed's Williams says",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTZDeDBxeFlpMmdTcExQa2pwRURJUVlnNXdLanlIMHc3b2hZREJkcUt1Q3R6ekhwTHBpeHZONE1QcXV2VjVncEl2M0RrY0JFaEZMb1dRM0Z5YVNxLW9YLTRCOUlaQTI4ei1RTGpPV2w0ZGo4X0NrMVU3bGFtd0cyQ0FmVFV3NjBkTGdDTUpMd2tGSllTeFZMU3YwdExQbWJLb094SGhrWXI?oc=5",
+"src": "Seeking Alpha",
+"tier": "comment",
+"tone": "",
+"also": [
+"www.marketscreener.com"
+],
+"desc": "",
+"id": "bfb4311b1234",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-23T21:00:00Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed’s Williams Says Officials Must Act ‘Over Time’ On Inflation",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2hFTElab1BSaGQzN2hEczFEakZGaGV3TW00N2laRU0zb3prdDc4am9uR3MwOGtucDNsRU9UT0d6eG5aZjYzcnpIUXRnOGJ0eFhuX0pCRnoyLXJCMEJnMnMtd01xVXd0MVItSVVPUWZ3QzE3UGdTNVVFWkZiUkxoNW9BcG94WnNnQ21FejZnQUs1Nm9HdFMyeUxlazZEY2hOSUhFaFl5dWNUdG5HdDBDM3ZR?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "a12c1ce41341",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-23T15:25:46Z",
 "bank": "Fed",
 "speaker": "Waller",
@@ -54,17 +96,21 @@
 "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWlBSzJsRzcyVDFydmpkd0ZpQ01IR3dWb21tTkFKb2pBZzJDSmJqMEl2OHpfd3RTbGhrV2NTN0gtX1hnYllwV05VT3JGUWowdklrZ3FybXhBXzl0RDNKQmlMOVBmYm5sM2cyZXlhWW1sdUFQcmZ6cWxTWGdnd2VPU3RLay10bGJYRWtqaGQ2dTB5S19mR2NTd01nLUxoMGVBWW5WXw?oc=5",
 "src": "Newsquawk",
 "tier": "comment",
-"tone": "",
+"tone": "neutral",
 "also": [],
 "desc": "",
 "id": "a3a513a4e13b",
-"score": null,
-"read": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
+"score": 0,
+"read": "Analytical climate text with no signal on rates or the December decision.",
+"sum": "Lane published a text on climate change and monetary policy; it sits in the analytical stream and carries no reported signal on the rate path.",
+"pts": [
+"Text titled \"Climate change and monetary policy\" was posted on the ECB site on 23 November.",
+"No reported comment on current inflation, the December meeting or the path of rates.",
+"Any market relevance lies in possible operational follow-ups, such as collateral or asset-purchase tilts, not rates."
+],
+"rr": "No bearing on the December hike now priced or on 2027 pricing. Only news paraphrases were available.",
+"ev": "Published text (ECB website)",
+"basis": "reports"
 },
 {
 "t": "2026-11-23T14:36:59Z",
