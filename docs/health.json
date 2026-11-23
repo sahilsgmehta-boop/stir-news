@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T21:52:01Z",
+ "built": "2026-11-23T22:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 13,
-   "added": 0,
+   "kept": 15,
+   "added": 2,
    "error": ""
   },
   {
@@ -17,10 +17,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
+   "kept": 1,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
+   ]
   },
   {
    "id": "cnbc",
@@ -54,21 +56,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 14,
-   "added": 2,
+   "fetched": 58,
+   "kept": 17,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed president pitches FedNow",
-    "Fed's watchdog investigates whether Bowman violated communications rules - report",
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
+    "Fed's watchdog investigates whether Bowman violated communications rules - report",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
-    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
-    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
-    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?"
+    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
+    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
+    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance"
    ]
   },
   {
@@ -76,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 26,
-   "added": 5,
+   "fetched": 100,
+   "kept": 64,
+   "added": 14,
    "error": "",
    "near_misses": [
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "Bessent warns on Fed hike as AI bubble fears mount",
     "Barkin: US and Virginia workforce remain flat",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
+    "Fed plans to eliminate some rate-setting meetings, chairman says"
    ]
   },
   {
@@ -117,19 +119,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 12,
    "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Warns of Payment Fragmentation Risks, Higher Costs, Weaker Ties",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "France and Germany set to take key ECB roles",
-    "ECB expands acceptance of DLT-based assets as Eurosystem collateral",
-    "ECB warns of financial stability Risks Linked to AI Valuations",
-    "PBoC Governor Pan meets with ECB officials; PBoC Governor Pan says China and the EU should strengthen communication",
-    "ECB Rate Hike May Not Fully Tame Inflation",
-    "France Nominates Laurence Boone to ECB Board"
+    "France and Germany set to take key ECB roles"
    ]
   },
   {
@@ -137,8 +133,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 4,
+   "fetched": 20,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -153,7 +149,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -168,7 +164,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 13,
    "kept": 2,
    "added": 0,
    "error": "",
