@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T19:22:01Z",
+ "built": "2026-11-23T19:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,8 +63,8 @@
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
-    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
+    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
     "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea",
@@ -76,12 +76,11 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 58,
    "kept": 25,
    "added": 5,
    "error": "",
    "near_misses": [
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
@@ -90,7 +89,8 @@
     "Bessent warns on Fed hike as AI bubble fears mount",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -113,7 +113,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -127,7 +127,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -143,7 +143,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
