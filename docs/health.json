@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T05:07:00Z",
+ "built": "2026-11-23T05:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -71,8 +71,8 @@
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
-    "The Fed will raise interest rates in December: Not when, but by how much?",
-    "The Fed's leverage weakened, and the USD stalled after a four-week surge."
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "The Fed will raise interest rates in December: Not when, but by how much?"
    ]
   },
   {
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -122,7 +122,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -153,12 +153,11 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
    ]
   },
