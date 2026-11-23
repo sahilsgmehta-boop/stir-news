@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T19:07:00Z",
+ "built": "2026-11-23T19:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 39,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -76,18 +76,18 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 26,
+   "fetched": 60,
+   "kept": 25,
    "added": 5,
    "error": "",
    "near_misses": [
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Bessent warns on Fed hike as AI bubble fears mount",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Bessent warns on Fed hike as AI bubble fears mount",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
@@ -98,14 +98,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 20,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
-    "France and Germany set to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board"
    ]
   },
@@ -120,7 +119,6 @@
    "error": "",
    "near_misses": [
     "ECB Warns of Payment Fragmentation Risks, Higher Costs, Weaker Ties",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France and Germany set to take key ECB roles"
    ]
   },
