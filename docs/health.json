@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T13:52:00Z",
+ "built": "2026-11-23T14:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,8 +68,8 @@
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Midterm Election Outcome Will Embolden Fed's Pursuit of Price Stability",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
-    "Fed\u2019s Inflation Fight May Require More Hikes",
     "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
+    "Fed\u2019s Inflation Fight May Require More Hikes",
     "Ringgit closes slightly lower against US dollar as investors eye Fed\u2019s hawkish stance",
     "Will the Fed raise interest rates this year? Divided economists weigh in"
    ]
@@ -101,21 +101,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 16,
    "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
-    "Meloni\u2019s diplomatic balancing act: The ECB, FAO and Italy\u2019s bid for global influence",
-    "France and Germany set to take key ECB roles",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
-    "Euro strengthens as ECB hints interest rate rise",
-    "ECB names new board members",
     "France Nominates Laurence Boone to ECB Board",
-    "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Rate Hike May Not Fully Tame Inflation"
+    "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
   {
@@ -142,7 +135,6 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning"
    ]
   },
@@ -165,12 +157,11 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB watching for second-round inflation effects, vice chairman says",
     "SNB monitoring second-round inflation effects",
