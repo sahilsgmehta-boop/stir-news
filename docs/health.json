@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T04:22:00Z",
+ "built": "2026-11-23T04:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 24,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -66,10 +66,10 @@
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Fed\u2019s Inflation Fight May Require More Hikes",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "Crude Oil Prices Slide as Bessent Challenges Fed\u2019s Hawkish Rate Expectations",
+    "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
     "Fed holds interest rates steady as inflation hits 3-year high"
@@ -138,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -151,12 +151,11 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
    ]
   },
