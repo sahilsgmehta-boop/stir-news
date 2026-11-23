@@ -10,10 +10,32 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"www.marketscreener.com"
+"www.marketscreener.com",
+"Reuters",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "bfb4311b1234",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-23T21:00:01Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEpFREZWNnVpcVBFY3pxbHBnbkFJTWRxZjlBOHNLdFkxb1JEVWdUX2VfWlJhU0dwZEFJc0RUY2w2THFBaWVjbkxpSGRubWxQdHdSYWJFdmc2VVhUX0F1S1gwYXYxcUlsQUY0T0pIQnhhNkNFRXFCWHA3M2xVZWRITtIBhgFBVV95cUxNN0wxOFpVd01FWG9EWlppMC02d1RtcG5wZ1V1a3N1bklHZGFHWDYzUk80cnMwa00yblpXZUdfQV9SMk1fVVRrM0c0OWZuSDlGWjQtN0hUWW1mMTNHVTZObmhSeTllcDZIUE85S2duamlXdE5hNExsamtsaDU2LUJveEF0Q1ZIQQ?oc=5",
+"src": "CNBC",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "0248c60f1fd0",
 "score": null,
 "read": "",
 "sum": "",
