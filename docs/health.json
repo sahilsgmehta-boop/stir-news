@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T11:52:00Z",
+ "built": "2026-11-23T12:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -22,8 +22,7 @@
    "error": "",
    "near_misses": [
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
-    "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role"
+    "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession"
    ]
   },
   {
@@ -68,10 +67,10 @@
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
+    "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Ringgit closes slightly lower against US dollar as investors eye Fed's hawkish stance",
-    "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
    ]
   },
@@ -79,23 +78,11 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": true,
-   "fetched": 88,
-   "kept": 43,
-   "added": 6,
-   "error": "",
-   "near_misses": [
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb",
@@ -104,7 +91,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
@@ -118,15 +105,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "France and Germany set to take key ECB roles",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "ECB Rate Hike May Not Fully Tame Inflation",
-    "France Nominates Laurence Boone to ECB Board"
+    "ECB Rate Hike May Not Fully Tame Inflation"
    ]
   },
   {
@@ -147,15 +133,11 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 7,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",
