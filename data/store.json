@@ -33,7 +33,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"MLQ.ai"
+],
 "desc": "",
 "id": "6f8cc776c90f",
 "score": 5,
@@ -74,7 +76,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Euronext Markets: Real-time Stock Market Data | live"
+"Euronext Markets: Real-time Stock Market Data | live",
+"AOL.com"
 ],
 "desc": "",
 "id": "94de0d65208a",
