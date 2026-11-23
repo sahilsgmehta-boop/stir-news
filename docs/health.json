@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T00:52:00Z",
+ "built": "2026-11-23T01:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -56,20 +56,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 51,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Fed\u2019s Inflation Fight May Require More Hikes",
+    "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Crude Oil Prices Slide as Bessent Challenges Fed\u2019s Hawkish Rate Expectations",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "Fed holds interest rates steady as inflation hits 3-year high"
    ]
   },
@@ -86,10 +86,10 @@
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
@@ -105,11 +105,11 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB names new board members, next chief may already be agreed",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
@@ -118,17 +118,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "France and Germany to take key ECB roles",
+    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France Nominates Laurence Boone to ECB Board",
     "Radev: ECB must be ready to raise rates again in December"
    ]
   },
@@ -165,7 +166,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
