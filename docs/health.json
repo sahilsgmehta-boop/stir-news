@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T15:07:00Z",
+ "built": "2026-11-23T15:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -65,12 +65,12 @@
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
+    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
     "What Could the Fed's Beige Book on November 25 Mean for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
+    "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea",
     "Midterm Election Outcome Will Embolden Fed's Pursuit of Price Stability",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
-    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
-    "Fed\u2019s Inflation Fight May Require More Hikes",
-    "Ringgit closes slightly lower against US dollar as investors eye Fed\u2019s hawkish stance"
+    "Fed\u2019s Interest Rate Hike Could Extend Beyond December"
    ]
   },
   {
@@ -78,7 +78,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
+   "fetched": 69,
    "kept": 32,
    "added": 6,
    "error": "",
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 18,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -116,7 +116,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -131,12 +131,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 19,
-   "kept": 1,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
+    "Students meet the Bank of England Governor",
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning"
    ]
   },
   {
@@ -144,7 +145,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -159,8 +160,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
-   "kept": 1,
+   "fetched": 12,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -169,6 +170,7 @@
     "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
