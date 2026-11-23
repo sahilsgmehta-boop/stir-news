@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T08:07:00Z",
+ "built": "2026-11-23T08:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,12 +80,11 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
+   "fetched": 97,
    "kept": 52,
    "added": 6,
    "error": "",
    "near_misses": [
-    "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
@@ -94,7 +93,8 @@
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
   {
@@ -114,8 +114,7 @@
     "France and Germany to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Invites Industry to Appia Tokenization Experiments",
-    "ECB Lines Up Industry Partners For Tokenized Deposits Trials"
+    "ECB Invites Industry to Appia Tokenization Experiments"
    ]
   },
   {
@@ -144,7 +143,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England directors illegally profited from post-abolition enslavement in Cuba"
+    "Bank of England directors illegally profited from post-abolition enslavement in Cuba | Slavery"
    ]
   },
   {
@@ -152,7 +151,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
