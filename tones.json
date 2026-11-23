@@ -10635,6 +10635,22 @@
    "basis": "reports",
    "at": "2026-11-23T15:49:13Z",
    "by": "claude"
+  },
+  "a3a513a4e13b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Analytical climate text with no signal on rates or the December decision.",
+   "sum": "Lane published a text on climate change and monetary policy; it sits in the analytical stream and carries no reported signal on the rate path.",
+   "pts": [
+    "Text titled \"Climate change and monetary policy\" was posted on the ECB site on 23 November.",
+    "No reported comment on current inflation, the December meeting or the path of rates.",
+    "Any market relevance lies in possible operational follow-ups, such as collateral or asset-purchase tilts, not rates."
+   ],
+   "rr": "No bearing on the December hike now priced or on 2027 pricing. Only news paraphrases were available.",
+   "ev": "Published text (ECB website)",
+   "basis": "reports",
+   "at": "2026-11-23T20:54:30Z",
+   "by": "claude"
   }
  }
 }
