@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-23T10:57:00Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
+"url": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+"src": "MarketWatch",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "The Pershing Square Capital Management CEO wrote in a post on X that he thinks financial conditions have already considerably tightened.",
+"id": "2564590be3af",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-23T10:15:19Z",
 "bank": "Fed",
 "speaker": "Williams",

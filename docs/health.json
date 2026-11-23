@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T10:52:00Z",
+ "built": "2026-11-23T11:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -48,8 +48,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 10,
-   "kept": 0,
-   "added": 0,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": []
   },
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 27,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -69,8 +69,8 @@
     "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
     "Ringgit closes slightly lower against greenback as investors eye Fed's hawkish stance",
+    "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "The Fed will raise interest rates in December: Not when, but by how much?"
    ]
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
-   "kept": 46,
+   "fetched": 89,
+   "kept": 45,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -148,7 +148,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
