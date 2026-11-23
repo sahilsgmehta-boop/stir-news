@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T17:52:01Z",
+ "built": "2026-11-23T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 39,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -76,7 +76,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
+   "fetched": 64,
    "kept": 29,
    "added": 5,
    "error": "",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 26,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -106,7 +106,10 @@
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
     "France and Germany set to take key ECB roles",
-    "France Nominates Laurence Boone to ECB Board"
+    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
+    "France Nominates Laurence Boone to ECB Board",
+    "ECB Rate Hike May Not Fully Tame Inflation"
    ]
   },
   {
@@ -129,7 +132,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 20,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -137,7 +140,8 @@
     "Students meet the Bank of England Governor",
     "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
