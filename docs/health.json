@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T14:07:01Z",
+ "built": "2026-11-23T14:09:38Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 35,
    "kept": 11,
    "added": 0,
    "error": "",
