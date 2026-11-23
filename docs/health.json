@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T14:09:38Z",
+ "built": "2026-11-23T14:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 11,
+   "fetched": 33,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
+    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Midterm Election Outcome Will Embolden Fed's Pursuit of Price Stability",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
-    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Fed\u2019s Inflation Fight May Require More Hikes",
-    "Ringgit closes slightly lower against US dollar as investors eye Fed\u2019s hawkish stance",
+    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Will the Fed raise interest rates this year? Divided economists weigh in"
    ]
   },
@@ -90,8 +90,8 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
@@ -130,7 +130,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 30,
    "kept": 0,
    "added": 0,
    "error": "",
