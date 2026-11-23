@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T23:52:00Z",
+ "built": "2026-11-23T00:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -20,7 +20,9 @@
    "kept": 2,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role"
+   ]
   },
   {
    "id": "cnbc",
@@ -55,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 27,
-   "kept": 9,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -64,10 +66,10 @@
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "Fed chair discloses wife's transactions in pet-care investments",
-    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Crude Oil Prices Slide as Bessent Challenges Fed\u2019s Hawkish Rate Expectations",
+    "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
+    "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Fed holds interest rates steady as inflation hits 3-year high"
    ]
   },
@@ -88,9 +90,9 @@
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "The Fed's next moves come into focus",
     "Supersized December rate hike could be ahead: Fed governor",
-    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes"
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
    ]
   },
   {
@@ -116,7 +118,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -126,6 +128,7 @@
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France and Germany to take key ECB roles",
     "Radev: ECB must be ready to raise rates again in December"
    ]
   },
@@ -138,7 +141,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
+   ]
   },
   {
    "id": "gn_boc",
