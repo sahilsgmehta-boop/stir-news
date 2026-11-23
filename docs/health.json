@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T07:07:00Z",
+ "built": "2026-11-23T07:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -107,6 +107,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "France and Germany to take key ECB roles",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB names new board members, next chief may already be agreed",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
@@ -121,14 +122,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France and Germany to take key ECB roles",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France Nominates Laurence Boone to ECB Board",
     "Radev: ECB must be ready to raise rates again in December"
    ]
@@ -148,11 +149,14 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
+   ]
   },
   {
    "id": "gn_snb",
