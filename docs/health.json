@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T00:07:00Z",
+ "built": "2026-11-23T00:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,13 +56,13 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 52,
    "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Fed\u2019s Inflation Fight May Require More Hikes",
+    "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
@@ -79,15 +79,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 52,
+   "kept": 53,
    "added": 6,
    "error": "",
    "near_misses": [
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Supersized December rate hike could be ahead: Fed governor",
@@ -105,11 +105,11 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB names new board members, next chief may already be agreed",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
@@ -118,7 +118,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -137,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
