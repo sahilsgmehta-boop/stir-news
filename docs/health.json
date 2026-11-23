@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T09:52:01Z",
+ "built": "2026-11-23T10:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,12 +80,11 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 48,
+   "fetched": 90,
+   "kept": 47,
    "added": 6,
    "error": "",
    "near_misses": [
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
@@ -94,7 +93,8 @@
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
   {
@@ -102,15 +102,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
-   "kept": 2,
+   "fetched": 14,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "France and Germany to take key ECB roles",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
-    "ECB names new board members, next chief may already be agreed",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
@@ -121,7 +119,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 7,
-   "kept": 2,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -135,7 +133,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -240,7 +238,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": ""
   },
