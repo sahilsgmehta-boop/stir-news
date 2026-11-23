@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T18:07:00Z",
+ "built": "2026-11-23T18:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,12 +54,13 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
+   "fetched": 40,
    "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed President pitches FedNow",
+    "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
@@ -67,8 +68,7 @@
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea",
-    "What Could the Fed's Beige Book on November 25 Mean for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?"
+    "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea"
    ]
   },
   {
@@ -76,8 +76,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
-   "kept": 29,
+   "fetched": 61,
+   "kept": 26,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -86,8 +86,8 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 19,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -106,10 +106,7 @@
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
     "France and Germany set to take key ECB roles",
-    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
-    "France Nominates Laurence Boone to ECB Board",
-    "ECB Rate Hike May Not Fully Tame Inflation"
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -132,7 +129,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 18,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -140,8 +137,8 @@
     "Students meet the Bank of England Governor",
     "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -149,14 +146,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
   },
