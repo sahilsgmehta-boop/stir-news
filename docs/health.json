@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T12:07:00Z",
+ "built": "2026-11-23T12:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 28,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -69,8 +69,8 @@
     "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Ringgit closes slightly lower against US dollar as investors eye Fed's hawkish stance",
+    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
    ]
   },
@@ -78,18 +78,30 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 82,
+   "kept": 42,
+   "added": 6,
+   "error": "",
+   "near_misses": [
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Why would the Fed consider a half-percentage-point hike in December?",
+    "Barkin: US and Virginia workforce remain flat",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
+   ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -105,14 +117,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "France and Germany set to take key ECB roles",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "ECB Rate Hike May Not Fully Tame Inflation"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
    ]
   },
   {
@@ -133,11 +144,15 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
+   ]
   },
   {
    "id": "gn_snb",
