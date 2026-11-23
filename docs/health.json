@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T00:22:00Z",
+ "built": "2026-11-23T00:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,18 +56,18 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 10,
+   "fetched": 28,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Fed\u2019s Inflation Fight May Require More Hikes",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
+    "Fed\u2019s Inflation Fight May Require More Hikes",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "Crude Oil Prices Slide as Bessent Challenges Fed\u2019s Hawkish Rate Expectations",
     "Chicago Fed president warns inflation is headed the \u2018wrong way\u2019",
+    "Crude Oil Prices Slide as Bessent Challenges Fed\u2019s Hawkish Rate Expectations",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
     "Crash Signals: Tech Wreck, Credit Stress, and the Fed\u2019s Dilemma",
     "Fed holds interest rates steady as inflation hits 3-year high"
@@ -137,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -150,7 +150,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
