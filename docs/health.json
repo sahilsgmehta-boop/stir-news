@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T07:52:00Z",
+ "built": "2026-11-23T08:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 24,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -66,9 +66,9 @@
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
     "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
+    "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "The Fed will raise interest rates in December: Not when, but by how much?",
     "The Fed's leverage weakened, and the USD stalled after a four-week surge.",
@@ -102,14 +102,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB names new board members, next chief may already be agreed",
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
     "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France and Germany to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board",
@@ -123,14 +123,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France and Germany to take key ECB roles",
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France Nominates Laurence Boone to ECB Board",
     "Radev: ECB must be ready to raise rates again in December"
    ]
@@ -144,7 +143,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Bank of England directors illegally profited from post-abolition enslavement in Cuba"
+   ]
   },
   {
    "id": "gn_boc",
@@ -312,7 +313,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 20,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": ""
   },
