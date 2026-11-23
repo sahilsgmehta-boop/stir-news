@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T12:22:00Z",
+ "built": "2026-11-23T12:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -71,7 +71,7 @@
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Ringgit closes slightly lower against US dollar as investors eye Fed's hawkish stance",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
+    "Ringgit closes slightly lower against greenback as investors eye Fed's hawkish stance"
    ]
   },
   {
@@ -101,13 +101,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 4,
+   "fetched": 29,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "Meloni\u2019s diplomatic balancing act: The ECB, FAO and Italy\u2019s bid for global influence",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
+    "France and Germany set to take key ECB roles",
+    "Euro strengthens as ECB hints interest rate rise",
+    "ECB names new board members",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
@@ -117,13 +123,20 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
-   "kept": 4,
+   "fetched": 24,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "PBoC Governor Pan meets with ECB officials; PBoC Governor Pan says China and the EU should strengthen communication",
+    "ECB Warns of Financial Stability Risks Linked to AI Valuations",
     "France and Germany set to take key ECB roles",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
+    "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "ECB Rate Hike May Not Fully Tame Inflation",
+    "Panetta Warns Payment Systems Becoming Geopolitical Tools",
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -144,15 +157,11 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 7,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",
