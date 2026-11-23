@@ -10478,6 +10478,59 @@
    "basis": "reports",
    "at": "2026-11-22T20:49:04Z",
    "by": "claude"
+  },
+  "5a8ccc2df74e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Martin flags watching second-round effects after inflation hit 1.5%, firming December SNB hike pricing.",
+   "sum": "SNB Vice Chairman Martin says the bank is watching for second-round effects after Swiss inflation rose to 1.5%, a firmer tone ahead of December.",
+   "pts": [
+    "Swiss inflation has jumped to 1.5%, and Martin is focused on whether it spreads via second-round effects.",
+    "He flagged currency risk, suggesting the SNB stays willing to lean against excessive franc strength.",
+    "No explicit commitment to a December move is reported in his own words."
+   ],
+   "rr": "Supports the market's lean toward a hike at the Dec 10 SNB assessment rather than adding a new signal; 2027 path unchanged. Only news paraphrases were available.",
+   "ev": "Remarks (reported by investingLive)",
+   "basis": "reports",
+   "at": "2026-11-23T06:51:30Z",
+   "by": "claude"
+  },
+  "0c194ef26181": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Retrospective on Waller's swing to a 50bp hike call; no new remarks from him.",
+   "sum": "A 24/7 Wall St. piece traces Waller's shift from backing a 50bp cut to pushing for a 50bp hike within a year; it carries no new remarks.",
+   "pts": [
+    "Recaps Waller's turn from dovish to hawkish over the past year.",
+    "His latest stated view (Nov 18) is a 50bp December hike or 25bp with a signal of faster increases.",
+    "No fresh comments or meeting guidance in this article."
+   ],
+   "rr": "No new information for Dec 9 pricing, where 25bp remains the base case; it only restates the hawkish tail risk of 50bp. Only news paraphrases were available.",
+   "ev": "Article, 24/7 Wall St.",
+   "basis": "reports",
+   "at": "2026-11-23T06:51:30Z",
+   "by": "claude"
+  },
+  "c2e9516b84cd": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-23T06:51:30Z",
+   "by": "claude"
+  },
+  "51c8523f4850": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-23T06:51:30Z",
+   "by": "claude"
+  },
+  "bdff13698210": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-23T06:51:30Z",
+   "by": "claude"
   }
  }
 }
