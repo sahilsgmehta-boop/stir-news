@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T13:37:01Z",
+ "built": "2026-11-23T13:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 45,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -79,8 +79,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 35,
+   "fetched": 72,
+   "kept": 34,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -101,14 +101,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 29,
    "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "Meloni\u2019s diplomatic balancing act: The ECB, FAO and Italy\u2019s bid for global influence",
+    "France and Germany set to take key ECB roles",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
+    "Euro strengthens as ECB hints interest rate rise",
+    "ECB names new board members",
     "France Nominates Laurence Boone to ECB Board",
-    "ECB Chief Urges Public Funds Back Chip Plants"
+    "ECB Chief Urges Public Funds Back Chip Plants",
+    "ECB Rate Hike May Not Fully Tame Inflation"
    ]
   },
   {
@@ -116,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -157,11 +164,20 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 11,
+   "kept": 1,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "SNB watching for second-round inflation effects, vice chairman says",
+    "SNB monitoring second-round inflation effects",
+    "Swiss inflation is in range. The SNB isn't taking a victory lap.",
+    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
+   ]
   },
   {
    "id": "ft_cb",
