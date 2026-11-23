@@ -1362,7 +1362,7 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "One 25bp hike unlikely to be enough, more near-term tightening probably needed; sees a very low chance the war ends soon.",
+    "note": "Nov 23: action needed now to keep inflation credibility; Nov 14: one 25bp hike unlikely to be enough, more near-term tightening probably needed.",
     "how": "implied",
     "quote": "we have further to go",
     "qsrc": "interview, Financial Times, Nov 14"
@@ -1379,13 +1379,13 @@
     "by": "end-2027",
     "note": "Called the ~90bp of tightening priced by end-2027 'not outrageous'; rates probably rise further in 2027; 'we waited too long'."
    },
-   "view": "Second-round wage effects from the energy shock are the main worry.",
-   "shift": "More hawkish: Nov 6 said rates could hold or even fall if growth stalls; Nov 14 sees further rises into 2027.",
-   "last": "2026-11-16",
-   "ev": "Interview, Financial Times",
+   "view": "Second-round wage effects from the energy shock are the main worry; says the BoE must act now and cannot take its credibility for granted.",
+   "shift": "More hawkish: Nov 6 said rates could hold or even fall if growth stalls; Nov 14 sees further rises into 2027; Nov 23 urges action now.",
+   "last": "2026-11-23",
+   "ev": "Speech, OeNB conference (Vienna)",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-23"
   },
   "BoE|Greene": {
    "votes": {

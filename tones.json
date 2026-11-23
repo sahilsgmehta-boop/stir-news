@@ -10571,6 +10571,70 @@
    "basis": "reports",
    "at": "2026-11-23T11:48:55Z",
    "by": "claude"
+  },
+  "73c9bb6351e2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Payments-fragmentation warning; nothing on the rate path.",
+   "sum": "Panetta warned that fragmenting payment systems would raise costs and weaken economic ties, a structural message with no monetary-policy content.",
+   "pts": [
+    "Fragmentation of payment systems risks higher transaction costs.",
+    "It could also weaken trade and financial ties between economies.",
+    "No comments on inflation, the December meeting or the rate path were reported."
+   ],
+   "rr": "No signal for the Dec 17 ECB meeting or the 2027 curve; his earlier view that further hikes may be needed stands. Only news paraphrases were available.",
+   "ev": "Remarks on payments",
+   "basis": "reports",
+   "at": "2026-11-23T15:49:13Z",
+   "by": "claude"
+  },
+  "776337509bc0": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-23T15:49:13Z",
+   "by": "claude"
+  },
+  "94de0d65208a": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says action is needed now to keep inflation credibility, backing a December hike.",
+   "sum": "Pill said the BoE needs to act now to secure medium-term price stability and keep public confidence that inflation returns to the 2% target.",
+   "pts": [
+    "Action is needed now to meet the inflation target on a lasting basis at longer horizons.",
+    "Maintaining public confidence that inflation will return to target is the priority.",
+    "The BoE cannot take its hard-earned credibility for granted, with inflation below target in only three of the last 62 months.",
+    "No size or timing for further hikes was reported."
+   ],
+   "rr": "Reinforces pricing for a 25bp hike on Dec 17 and his earlier view that rates rise further in 2027; nothing pointing to 50bp. Only news paraphrases were available.",
+   "ev": "Speech, OeNB conference on European economic integration (Vienna)",
+   "basis": "reports",
+   "at": "2026-11-23T15:49:13Z",
+   "by": "claude"
+  },
+  "6f8cc776c90f": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Action needed to preserve inflation credibility; supports December tightening.",
+   "lead": "94de0d65208a",
+   "at": "2026-11-23T15:49:13Z",
+   "by": "claude"
+  },
+  "6489220fbdfb": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenization and payments remarks; nothing on rates.",
+   "sum": "A write-up of Waller's payments remarks: central bank money stays the foundation of settlement as tokenized markets develop; nothing on monetary policy.",
+   "pts": [
+    "Central bank money remains the trust and settlement anchor for tokenized markets.",
+    "Traditional payment rails and tokenized markets can work together.",
+    "No comments on inflation or the December FOMC were included."
+   ],
+   "rr": "No new signal for Dec 9; his Nov 18 call for a 50bp hike or 25bp with faster increases stands. Only news paraphrases were available.",
+   "ev": "Write-up of payments speech (JD Supra)",
+   "basis": "reports",
+   "at": "2026-11-23T15:49:13Z",
+   "by": "claude"
   }
  }
 }
