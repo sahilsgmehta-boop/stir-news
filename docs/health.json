@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T09:22:00Z",
+ "built": "2026-11-23T09:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -80,19 +80,19 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
-   "kept": 49,
+   "fetched": 95,
+   "kept": 48,
    "added": 6,
    "error": "",
    "near_misses": [
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
+    "Barkin: US and Virginia workforce remain flat",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Barkin: US and Virginia workforce remain flat",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
    ]
@@ -123,15 +123,15 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Warns of Financial Stability Risks Linked to AI Valuations",
     "France and Germany to take key ECB roles",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "France Nominates Laurence Boone to ECB Board",
-    "Radev: ECB must be ready to raise rates again in December"
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -145,7 +145,6 @@
    "error": "",
    "near_misses": [
     "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-    "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning"
    ]
   },
