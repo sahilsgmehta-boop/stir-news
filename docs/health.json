@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T15:52:00Z",
+ "built": "2026-11-23T16:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -20,9 +20,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause"
-   ]
+   "near_misses": []
   },
   {
    "id": "cnbc",
@@ -56,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 11,
+   "fetched": 49,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -77,43 +75,27 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": true,
-   "fetched": 70,
-   "kept": 32,
-   "added": 5,
-   "error": "",
-   "near_misses": [
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
-    "Bessent warns on Fed hike as AI bubble fears mount",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 20,
    "kept": 6,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
     "France and Germany set to take key ECB roles",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
-    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
-    "Meloni\u2019s diplomatic balancing act: The ECB, FAO and Italy\u2019s bid for global influence",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France Nominates Laurence Boone to ECB Board",
-    "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Rate Hike May Not Fully Tame Inflation"
+    "ECB Chief Urges Public Funds Back Chip Plants"
    ]
   },
   {
@@ -135,7 +117,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -151,7 +133,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
