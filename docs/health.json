@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T11:22:00Z",
+ "built": "2026-11-23T11:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 29,
+   "fetched": 28,
    "kept": 10,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
@@ -70,9 +70,9 @@
     "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
-    "Ringgit closes slightly lower against greenback as investors eye Fed's hawkish stance",
-    "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
-    "Ringgit closes slightly lower against US dollar as investors eye Fed's hawkish stance"
+    "WTI and Brent Crude Oil Prices Fall as Bessent Challenges Fed's Hawkish Rate Expectations",
+    "Ringgit closes slightly lower against US dollar as investors eye Fed's hawkish stance",
+    "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers"
    ]
   },
   {
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 90,
-   "kept": 44,
+   "fetched": 88,
+   "kept": 43,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -89,8 +89,8 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
@@ -148,12 +148,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
   },
   {
