@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T16:37:01Z",
+ "built": "2026-11-23T16:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -44,7 +44,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 10,
-   "kept": 1,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": []
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
+   "fetched": 37,
    "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed President pitches FedNow",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
-    "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
+    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
-    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
+    "What Could the Fed's Beige Book on November 25 Mean for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea",
-    "What Could the Fed's Beige Book on November 25 Mean for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?"
+    "Why Does the Fed's AI Debt Concern Matter After Invesco QQQ Trust (NASDAQ:QQQ) Dropped 10.51% Last Week?"
    ]
   },
   {
@@ -76,20 +76,20 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 30,
-   "added": 5,
+   "fetched": 100,
+   "kept": 58,
+   "added": 11,
    "error": "",
    "near_misses": [
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent warns on Fed hike as AI bubble fears mount",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Barkin: US and Virginia workforce remain flat",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
    ]
   },
@@ -119,8 +119,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "France and Germany set to take key ECB roles",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "France and Germany set to take key ECB roles"
    ]
   },
   {
@@ -128,13 +128,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 32,
    "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
@@ -150,7 +151,6 @@
    "near_misses": [
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
   },
