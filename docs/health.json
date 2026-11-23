@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T02:07:00Z",
+ "built": "2026-11-23T02:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 12,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -57,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
+   "fetched": 53,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -87,8 +87,8 @@
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Supersized December rate hike could be ahead: Fed governor",
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 36,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -109,9 +109,12 @@
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB names new board members, next chief may already be agreed",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France Nominates Laurence Boone to ECB Board",
-    "ECB Chief Urges Public Funds Back Chip Plants"
+    "ECB Chief Urges Public Funds Back Chip Plants",
+    "ECB Invites Industry to Appia Tokenization Experiments"
    ]
   },
   {
@@ -119,7 +122,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -127,7 +130,6 @@
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
-    "France, Germany to take key ECB roles, with Spain set for presidency",
     "France, Germany to take key ECB roles, with Spain set for presidency",
     "France and Germany to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board",
@@ -139,13 +141,11 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 14,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Bank of England directors illegally profited from post-abolition enslavement in Cuba"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_boc",
