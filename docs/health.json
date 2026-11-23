@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T09:07:00Z",
+ "built": "2026-11-23T09:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 50,
+   "fetched": 96,
+   "kept": 49,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -103,19 +103,19 @@
    "kind": "news",
    "ok": true,
    "fetched": 21,
-   "kept": 2,
-   "added": 1,
+   "kept": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Who runs the ECB? Capitals haggle as experts call for merit",
     "France and Germany to take key ECB roles",
+    "Meloni\u2019s diplomatic balancing act: The ECB, FAO and Italy\u2019s bid for global influence",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB names new board members, next chief may already be agreed",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Invites Industry to Appia Tokenization Experiments",
-    "ECB Lines Up Industry Partners For Tokenized Deposits Trials"
+    "ECB Invites Industry to Appia Tokenization Experiments"
    ]
   },
   {
@@ -123,13 +123,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France and Germany to take key ECB roles",
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France Nominates Laurence Boone to ECB Board",
     "Radev: ECB must be ready to raise rates again in December"
    ]
@@ -139,12 +139,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+    "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning"
    ]
   },
   {
