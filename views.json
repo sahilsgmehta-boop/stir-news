@@ -997,30 +997,30 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "A December hike is his central scenario (Nov 16).",
+    "note": "Backs a December hike but doubts 25bp alone will fully control inflation (Nov 23).",
     "how": "said",
-    "quote": "a December hike is his central scenario",
-    "qsrc": "interview with Econostream, Nov 16, as reported"
+    "quote": "a 25-basis-point rate hike in December",
+    "qsrc": "interview with Reuters, Nov 23"
    },
    "following": {
-    "call": "open",
-    "note": "",
-    "how": "said",
-    "quote": "further tightening next year might be necessary",
-    "qsrc": "headline, Nov 16"
+    "call": "hold",
+    "note": "Sees no major pressure to move again quickly after December (Nov 23).",
+    "how": "implied",
+    "quote": "major pressure to act quickly again after December",
+    "qsrc": "interview with Reuters, Nov 23"
    },
    "path": {
-    "total": "more in 2027 possible",
+    "total": "+25bp in December, more possible in 2027",
     "by": "2027",
-    "note": "Further tightening next year might be necessary as second-round effects begin to show."
+    "note": "Further tightening next year may be needed if inflation pressures persist; depends on wage deals."
    },
-   "view": "Sees early second-round effects in expectations and firms' pricing; 2027 inflation forecasts could go up.",
-   "shift": "",
-   "last": "2026-11-16",
-   "ev": "Interview, Econostream",
+   "view": "Doubts a 25bp December hike will be enough given early second-round effects, but prefers a measured pace with no rush to follow up in early 2027.",
+   "shift": "Pace clarified: Feb view from open (Nov 16) to no rush after December (Nov 23), while stressing more may be needed.",
+   "last": "2026-11-23",
+   "ev": "Interview, Reuters",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-23"
   },
   "ECB|Makhlouf": {
    "votes": {

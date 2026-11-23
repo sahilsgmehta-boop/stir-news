@@ -10531,6 +10531,46 @@
    "read": "Not a policy remark.",
    "at": "2026-11-23T06:51:30Z",
    "by": "claude"
+  },
+  "2564590be3af": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-23T11:48:55Z",
+   "by": "claude"
+  },
+  "34b2b33f40b7": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-23T11:48:55Z",
+   "by": "claude"
+  },
+  "640f46cd0e64": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-23T11:48:55Z",
+   "by": "claude"
+  },
+  "f6097c6ba4aa": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Doubts 25bp in December suffices and flags second-round risks, but sees no rush after.",
+   "sum": "Simkus doubts a 25bp December hike will fully control inflation and expects second-round effects, but sees no major pressure to move again quickly afterwards.",
+   "pts": [
+    "A 25bp hike in December may not be enough to fully bring inflation under control.",
+    "Early warning signs of second-round effects are visible in consumer and corporate surveys and firms' pricing plans.",
+    "Food, fuel and utility costs could weigh heavily on household inflation expectations.",
+    "How much more tightening is needed depends heavily on wage negotiations; unions seeking real-income catch-up is natural.",
+    "No major pressure to act again quickly after December; more tightening next year possible if pressures persist.",
+    "Low gas storage into winter is an upside risk to energy costs."
+   ],
+   "rr": "Backs the 25bp December hike and leans toward more in 2027, supporting the one-to-two hikes priced next year, but pushes back on an early follow-up in February. Only news paraphrases were available.",
+   "ev": "Interview, Reuters",
+   "basis": "reports",
+   "at": "2026-11-23T11:48:55Z",
+   "by": "claude"
   }
  }
 }
