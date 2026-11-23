@@ -9,7 +9,9 @@
 "src": "investingLive",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"investingLive central banks"
+],
 "desc": "Martin's focus on second-round effects is a hawkish signal, and it supports pricing for a December SNB hike. A tightening Swiss central bank alongside a hiking Fed changes the usual rate-differential story for the franc. Combined with strong safe-haven demand during the equity rout, that could keep the franc well bid, especially against the euro. That is the very currency risk Martin flagged, so the SNB may stay willing to lean against excessive franc strength even as it tightens. UBS shares remain exposed to headlines on the capital rules and any further talk of a headquarters move. --- Swiss",
 "id": "5a8ccc2df74e",
 "score": null,
@@ -1591,7 +1593,8 @@
 "tone": "neutral",
 "also": [
 "www.tokenpost.com",
-"Wisevoter"
+"Wisevoter",
+"TOKENPOST"
 ],
 "desc": "",
 "id": "352d4b53c42f",

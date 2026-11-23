@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T01:07:00Z",
+ "built": "2026-11-23T01:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,15 +56,15 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 25,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Fed\u2019s Inflation Fight May Require More Hikes",
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
+    "Fed\u2019s Inflation Fight May Require More Hikes",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
+    "Will the Fed raise interest rates this year? Divided economists weigh in",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "Crude Oil Prices Slide as Bessent Challenges Fed\u2019s Hawkish Rate Expectations",
     "Point: Tariffs aren\u2019t driving inflation \u2014 the Fed\u2019s numbers say so",
@@ -88,8 +88,8 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 35,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -109,8 +109,12 @@
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB names new board members, next chief may already be agreed",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France Nominates Laurence Boone to ECB Board",
-    "ECB Chief Urges Public Funds Back Chip Plants"
+    "ECB Chief Urges Public Funds Back Chip Plants",
+    "ECB Invites Industry to Appia Tokenization Experiments"
    ]
   },
   {
@@ -127,8 +131,8 @@
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "France and Germany to take key ECB roles",
     "France, Germany to take key ECB roles, with Spain set for presidency",
+    "France and Germany to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board",
     "Radev: ECB must be ready to raise rates again in December"
    ]
@@ -143,7 +147,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England"
+    "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+    "Bank of England directors illegally profited from post-abolition enslavement in Cuba"
    ]
   },
   {
