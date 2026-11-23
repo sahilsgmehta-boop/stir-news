@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T01:52:00Z",
+ "built": "2026-11-23T02:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,10 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 3,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
     "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role"
    ]
   },
@@ -56,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 52,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -86,10 +87,10 @@
     "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Barkin: US and Virginia workforce remain flat",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Barkin: US and Virginia workforce remain flat",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Supersized December rate hike could be ahead: Fed governor",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
@@ -100,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -109,7 +110,6 @@
     "France Nominates Laurence Boone to ECB Executive Board Amid Key Reshuffle",
     "ECB names new board members, next chief may already be agreed",
     "France, Germany to take key ECB roles, with Spain set for presidency",
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
@@ -139,11 +139,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Bank of England directors illegally profited from post-abolition enslavement in Cuba"
+   ]
   },
   {
    "id": "gn_boc",
