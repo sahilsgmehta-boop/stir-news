@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T22:52:01Z",
+ "built": "2026-11-23T23:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,9 +56,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 18,
-   "added": 0,
+   "fetched": 60,
+   "kept": 19,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed president pitches FedNow",
@@ -66,11 +66,11 @@
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
-    "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
-    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
+    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury "
+    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury ",
+    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance"
    ]
   },
   {
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 64,
-   "added": 12,
+   "fetched": 58,
+   "kept": 27,
+   "added": 5,
    "error": "",
    "near_misses": [
+    "Why would the Fed consider a half-percentage-point hike in December?",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "Why would the Fed consider a half-percentage-point hike in December?",
     "Barkin: US and Virginia workforce remain flat",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Fed plans to eliminate some rate-setting meetings, chairman says"
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -119,12 +119,17 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 18,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France and Germany set to take key ECB roles"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "France and Germany set to take key ECB roles",
+    "ECB expands acceptance of DLT-based assets as Eurosystem collateral",
+    "ECB warns of financial stability Risks Linked to AI Valuations",
+    "ECB Rate Hike May Not Fully Tame Inflation",
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -148,13 +153,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
   },
