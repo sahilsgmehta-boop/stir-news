@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T05:22:00Z",
+ "built": "2026-11-23T05:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
+   "fetched": 23,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
-    "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Fed\u2019s Inflation Fight May Require More Hikes",
+    "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
-    "Fed holds interest rates steady as inflation hits 3-year high",
-    "The Fed will raise interest rates in December: Not when, but by how much?"
+    "The Fed will raise interest rates in December: Not when, but by how much?",
+    "The Fed's leverage weakened, and the USD stalled after a four-week surge."
    ]
   },
   {
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 51,
+   "kept": 52,
    "added": 6,
    "error": "",
    "near_misses": [
