@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T10:37:00Z",
+ "built": "2026-11-23T10:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 51,
    "kept": 9,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
@@ -70,9 +70,9 @@
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
+    "Ringgit closes slightly lower against greenback as investors eye Fed's hawkish stance",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
-    "The Fed will raise interest rates in December: Not when, but by how much?",
-    "The Fed's leverage weakened, and the USD stalled after a four-week surge."
+    "The Fed will raise interest rates in December: Not when, but by how much?"
    ]
   },
   {
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 47,
+   "fetched": 88,
+   "kept": 46,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -91,8 +91,8 @@
     "Barkin: US and Virginia workforce remain flat",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
    ]
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 15,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -119,7 +119,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 8,
-   "kept": 2,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 17,
    "kept": 0,
    "added": 0,
    "error": "",
