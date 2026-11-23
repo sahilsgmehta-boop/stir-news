@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T08:22:00Z",
+ "built": "2026-11-23T08:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 52,
+   "fetched": 96,
+   "kept": 51,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
@@ -114,7 +114,8 @@
     "France and Germany to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Invites Industry to Appia Tokenization Experiments"
+    "ECB Invites Industry to Appia Tokenization Experiments",
+    "ECB Lines Up Industry Partners For Tokenized Deposits Trials"
    ]
   },
   {
@@ -122,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -138,12 +139,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England directors illegally profited from post-abolition enslavement in Cuba | Slavery"
+    "Sterling stalls near 12-month low as retail sales lift fades amid Fed rate expectations"
    ]
   },
   {
