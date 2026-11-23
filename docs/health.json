@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T06:37:01Z",
+ "built": "2026-11-23T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -67,12 +67,12 @@
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
-    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
     "The Fed will raise interest rates in December: Not when, but by how much?",
-    "The Fed's leverage weakened, and the USD stalled after a four-week surge."
+    "The Fed's leverage weakened, and the USD stalled after a four-week surge.",
+    "Chicago Fed President: AI Data Center Investment Driving Inflation"
    ]
   },
   {
@@ -89,12 +89,12 @@
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
-    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
+    "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
   {
@@ -102,21 +102,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 20,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB names new board members, next chief may already be agreed",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
-    "Euro strengthens as ECB hints interest rate rise",
-    "ECB Appia Splits Tokenized Deposits And Securities Settlement Into Two Tracks With Dec 11 Deadline",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Invites Industry to Appia Tokenization Experiments"
+    "ECB Invites Industry to Appia Tokenization Experiments",
+    "ECB Lines Up Industry Partners For Tokenized Deposits Trials"
    ]
   },
   {
@@ -124,7 +122,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -176,8 +174,8 @@
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB watching for second-round inflation effects, vice chairman says",
-    "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB monitoring second-round inflation effects",
+    "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
@@ -188,10 +186,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 7,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
+    "The Federal Reserve\u2019s balance sheet yo-yo",
     "AI borrowing binge has \u2018historic parallels\u2019 with subprime bubble, says ECB",
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
     "Bank of England raises interest rates to 4% in bid to tame inflation",
