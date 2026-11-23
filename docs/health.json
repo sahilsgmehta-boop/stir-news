@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T06:22:01Z",
+ "built": "2026-11-23T06:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,15 +59,15 @@
    "kind": "news",
    "ok": true,
    "fetched": 23,
-   "kept": 7,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
-    "Fed\u2019s Inflation Fight May Require More Hikes",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes",
     "WTI and Brent Crude Oil Prices Slide as Bessent Challenges Fed's Hawkish Rate Expectations",
+    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "I'm a Mortgage Lender: What the Fed's Rate Increase Means for First-Time Homebuyers",
     "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
@@ -102,19 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 33,
    "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
+    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
     "ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel",
     "ECB names new board members, next chief may already be agreed",
-    "De Cos Awaits Europe\u2019s Call as ECB Nemesis to the Bond Vigilantes",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "Euro strengthens as ECB hints interest rate rise",
+    "ECB Appia Splits Tokenized Deposits And Securities Settlement Into Two Tracks With Dec 11 Deadline",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants",
-    "ECB Invites Industry to Appia Tokenization Experiments",
-    "ECB Lines Up Industry Partners For Tokenized Deposits Trials"
+    "ECB Invites Industry to Appia Tokenization Experiments"
    ]
   },
   {
@@ -174,8 +176,8 @@
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB watching for second-round inflation effects, vice chairman says",
-    "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
+    "SNB monitoring second-round inflation effects",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
