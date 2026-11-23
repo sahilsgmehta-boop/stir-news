@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T19:37:01Z",
+ "built": "2026-11-23T19:39:10Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,6 +60,7 @@
    "error": "",
    "near_misses": [
     "Fed President pitches FedNow",
+    "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
@@ -67,8 +68,7 @@
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea",
-    "What Could the Fed's Beige Book on November 25 Mean for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?"
+    "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 19,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -113,7 +113,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -127,7 +127,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 3,
    "added": 0,
    "error": "",
