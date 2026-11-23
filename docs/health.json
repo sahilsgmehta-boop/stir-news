@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T15:37:00Z",
+ "built": "2026-11-23T15:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 39,
    "kept": 11,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed President pitches FedNow",
@@ -67,8 +67,8 @@
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
-    "What Could the Fed's Beige Book on November 25 Mean for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "What Could Stop the Fed's December Hike After a 10.51% Weekly Fall? Look at Invesco QQQ Trust (NASDAQ:QQQ), Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares 20+ Yea",
+    "What Could the Fed's Beige Book on November 25 Mean for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "Why Does the Fed's AI Debt Concern Matter After Invesco QQQ Trust (NASDAQ:QQQ) Dropped 10.51% Last Week?",
     "Midterm Election Outcome Will Embolden Fed's Pursuit of Price Stability"
    ]
@@ -78,40 +78,51 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 57,
-   "added": 12,
+   "fetched": 70,
+   "kept": 32,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent warns on Fed hike as AI bubble fears mount",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Barkin: US and Virginia workforce remain flat",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 26,
+   "kept": 6,
+   "added": 1,
+   "error": "",
+   "near_misses": [
+    "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "France and Germany set to take key ECB roles",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
+    "Meloni\u2019s diplomatic balancing act: The ECB, FAO and Italy\u2019s bid for global influence",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
+    "France Nominates Laurence Boone to ECB Board",
+    "ECB Chief Urges Public Funds Back Chip Plants",
+    "ECB Rate Hike May Not Fully Tame Inflation"
+   ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
-   "kept": 5,
+   "fetched": 11,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -126,7 +137,7 @@
    "ok": true,
    "fetched": 19,
    "kept": 3,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
@@ -140,11 +151,12 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
