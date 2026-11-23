@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T17:37:01Z",
+ "built": "2026-11-23T17:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -76,7 +76,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
+   "fetched": 66,
    "kept": 29,
    "added": 5,
    "error": "",
@@ -98,13 +98,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "France and Germany set to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board"
    ]
   },
@@ -113,11 +114,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
-   "kept": 6,
+   "fetched": 12,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Warns of Payment Fragmentation Risks, Higher Costs, Weaker Ties",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "France and Germany set to take key ECB roles"
    ]
@@ -127,7 +129,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 18,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -143,13 +145,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
   },
