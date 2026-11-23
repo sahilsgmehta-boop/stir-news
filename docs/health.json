@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T14:37:00Z",
+ "built": "2026-11-23T14:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,10 +68,10 @@
     "Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court",
     "Watch Fed\u2019s Inflation Fight May Require More Hikes",
     "Midterm Election Outcome Will Embolden Fed's Pursuit of Price Stability",
-    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
     "Fed\u2019s Inflation Fight May Require More Hikes",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
-    "This Stock Market Selloff Could Block the Fed\u2019s Rate Hikes"
+    "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
+    "Ringgit closes slightly lower against US dollar as investors eye Fed\u2019s hawkish stance",
+    "Will the Fed raise interest rates this year? Divided economists weigh in"
    ]
   },
   {
@@ -79,8 +79,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
-   "kept": 34,
+   "fetched": 71,
+   "kept": 33,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -92,7 +92,7 @@
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed governor admits people see higher inflation as normal, vows to break that \u2018kind of psychology\u2019",
     "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "The Fed is too busy fighting inflation to rescue the stock market",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks"
    ]
   },
@@ -101,12 +101,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 17,
    "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "France and Germany set to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board",
     "ECB Chief Urges Public Funds Back Chip Plants"
    ]
@@ -130,9 +131,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 0,
-   "added": 0,
+   "fetched": 18,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning"
@@ -148,6 +149,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
