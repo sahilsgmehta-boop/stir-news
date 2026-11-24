@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T12:22:00Z",
+ "built": "2026-11-24T12:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,32 +57,44 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 48,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
+    "Fed president pitches FedNow",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
+    "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
+    "Fed's watchdog investigates whether Bowman violated communications rules - report",
+    "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
+    "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
+    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation"
+   ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 33,
-   "added": 6,
+   "fetched": 100,
+   "kept": 70,
+   "added": 9,
    "error": "",
    "near_misses": [
     "AI boom looms over Warsh\u2019s Fed as inflation worries grow",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-    "WATCH: Kevin Warsh testifies in Senate Banking confirmation hearing for Fed chair",
-    "Kevin Warsh sworn in as Fed chair as Trump seeks interest rate cuts"
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Interrogating confusion at the Fed",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
    ]
   },
   {
@@ -92,7 +104,7 @@
    "ok": true,
    "fetched": 35,
    "kept": 15,
-   "added": 2,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
@@ -143,7 +155,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 17,
    "kept": 0,
    "added": 0,
    "error": "",
