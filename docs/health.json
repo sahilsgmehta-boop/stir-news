@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T14:22:00Z",
+ "built": "2026-11-24T14:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 89,
-   "kept": 42,
+   "fetched": 100,
+   "kept": 47,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -72,7 +72,7 @@
     "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
-    "Fed\u2019s preferred inflation index to show price gains well above target - Truflation"
+    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation"
    ]
   },
   {
@@ -89,31 +89,23 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
     "Bessent warns on Fed hike as AI bubble fears mount",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
     "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-    "Kevin Warsh sworn in as Fed chair as Trump seeks interest rate cuts",
-    "WATCH: Kevin Warsh testifies in Senate Banking confirmation hearing for Fed chair"
+    "Kevin Warsh sworn in as Fed chair as Trump seeks interest rate cuts"
    ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": true,
-   "fetched": 33,
-   "kept": 15,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "Lagarde appointed European Central Bank's head",
-    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
-    "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
-    "France and Germany set to take key ECB roles",
-    "France Nominates Laurence Boone to ECB Board"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb2",
@@ -136,14 +128,16 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 39,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
     "Middle East conflict could force interest rates higher, Bailey warns",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -151,7 +145,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -167,7 +161,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 5,
    "added": 0,
    "error": "",
