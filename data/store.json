@@ -30,7 +30,9 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Yahoo Finance"
+"Yahoo Finance",
+"Investing.com UK",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "64f7f77ccec3",
@@ -51,7 +53,9 @@
 "src": "investingLive central banks",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"investingLive"
+],
 "desc": "The openness to consecutive hikes adds upside risk to Fed pricing beyond December, with traders more likely to build in a follow-up move in early 2027. That should keep short-dated Treasury yields supported and give the US dollar a firmer floor, especially against currencies whose central banks are moving toward cuts. For equities, Williams set a high bar for market weakness to change his view, which limits hopes that renewed tech volatility would slow the Fed. Energy remains central to his inflation outlook, so any rise in oil prices would add weight to the case for a faster pace of hikes. --",
 "id": "a5ddb3856e33",
 "score": null,
@@ -304,7 +308,8 @@
 "tone": "",
 "also": [
 "FXStreet",
-"MLQ.ai"
+"MLQ.ai",
+"Asset Securitization Report"
 ],
 "desc": "",
 "id": "a12c1ce41341",
@@ -2989,7 +2994,8 @@
 "CNA",
 "Reuters",
 "Yahoo",
-"WTAQ"
+"WTAQ",
+"Kitco"
 ],
 "desc": "",
 "id": "31b3c7527712",
