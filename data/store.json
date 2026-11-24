@@ -39,7 +39,8 @@
 "BusinessLine",
 "The Star",
 "NST Online",
-"KLSE Screener"
+"KLSE Screener",
+"The Straits Times"
 ],
 "desc": "",
 "id": "64f7f77ccec3",
@@ -523,7 +524,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"AOL.com"
+],
 "desc": "",
 "id": "640f46cd0e64",
 "score": 0,
