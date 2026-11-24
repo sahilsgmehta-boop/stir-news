@@ -35,7 +35,11 @@
 "Yahoo Finance",
 "Investing.com UK",
 "The Lufkin Daily News",
-"Investing.com India"
+"Investing.com India",
+"BusinessLine",
+"The Star",
+"NST Online",
+"KLSE Screener"
 ],
 "desc": "",
 "id": "64f7f77ccec3",
@@ -202,7 +206,8 @@
 "tone": "",
 "also": [
 "marketscreener.com",
-"Reuters"
+"Reuters",
+"Briefs Finance"
 ],
 "desc": "",
 "id": "276fba20171e",
