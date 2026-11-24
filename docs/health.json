@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T07:07:00Z",
+ "built": "2026-11-24T07:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 87,
    "kept": 38,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
@@ -78,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 37,
-   "added": 6,
+   "fetched": 100,
+   "kept": 66,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -88,11 +88,11 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-    "US Fed Official Williams Reaffirms Commitment To Lower Inflation To 2% Target"
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
+    "Interrogating confusion at the Fed"
    ]
   },
   {
@@ -118,7 +118,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -164,8 +164,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
-   "kept": 1,
+   "fetched": 14,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -174,6 +174,7 @@
     "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
