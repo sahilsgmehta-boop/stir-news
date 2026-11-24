@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T13:52:00Z",
+ "built": "2026-11-24T14:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 34,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -121,15 +121,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 19,
    "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Openness, adaptation key to economic resilience, ECB vice president says",
-    "France and Germany set to take key ECB roles",
-    "ECB Rate Hike May Not Fully Tame Inflation",
-    "France Nominates Laurence Boone to ECB Board"
+    "France and Germany set to take key ECB roles"
    ]
   },
   {
@@ -137,16 +135,16 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
-   "kept": 8,
-   "added": 2,
+   "fetched": 40,
+   "kept": 9,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
     "Middle East conflict could force interest rates higher, Bailey warns",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -154,7 +152,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 17,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -170,7 +168,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -184,7 +182,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [

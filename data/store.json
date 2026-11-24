@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T13:59:26Z",
+"bank": "BoE",
+"speaker": "Greene",
+"hl": "BoE’s Greene Backs Rate Hike | 24 Nov 2026",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wOWpZa0VlNXZFTHBpMUE3MkxaN0hhbjBBN3phVW5YVXpQczRNWFhudzE4Z2NSenh1M0kxMWxtQVpGU2t5X1o2R0tld2tCY3d4NWM0dG5fUU14T3huOEhrNS1EbndsYjlKY3MtekFUTFowT21CQzNhbUFjT2Y?oc=5",
+"src": "www.tmgm.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "ed43cf9e4a36",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T13:48:07Z",
 "bank": "BoE",
 "speaker": "Greene",
@@ -9,7 +29,9 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com India"
+],
 "desc": "",
 "id": "0d0f009a7399",
 "score": null,
