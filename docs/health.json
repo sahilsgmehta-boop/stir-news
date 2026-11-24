@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T07:22:00Z",
+ "built": "2026-11-24T07:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,9 +56,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
-   "kept": 38,
-   "added": 0,
+   "fetched": 88,
+   "kept": 40,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
@@ -66,11 +66,11 @@
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
+    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
-    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week"
+    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance"
    ]
   },
   {
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 66,
-   "added": 1,
+   "kept": 70,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -89,10 +89,10 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Fed plans to eliminate some rate-setting meetings, chairman says",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar",
-    "Interrogating confusion at the Fed"
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "Interrogating confusion at the Fed",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
    ]
   },
   {
@@ -118,7 +118,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -147,25 +147,19 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": true,
-   "fetched": 16,
+   "ok": false,
+   "fetched": 0,
    "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Speech by Tiff Macklem, Governor of the Bank of Canada",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
-    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
-   "kept": 2,
+   "fetched": 10,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -174,7 +168,6 @@
     "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
