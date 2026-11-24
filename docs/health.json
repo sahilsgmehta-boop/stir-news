@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T01:22:00Z",
+ "built": "2026-11-24T01:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,8 +56,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 31,
+   "fetched": 74,
+   "kept": 30,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
-   "kept": 36,
-   "added": 6,
+   "fetched": 100,
+   "kept": 69,
+   "added": 11,
    "error": "",
    "near_misses": [
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
-    "Rabobank Flags December Fed Hike Pricing | 20 Nov 2026"
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Interrogating confusion at the Fed",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
    ]
   },
   {
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 27,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -108,6 +108,9 @@
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
+    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
+    "France and Germany set to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board"
    ]
   },
@@ -116,7 +119,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -129,7 +132,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 17,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -160,7 +163,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
+   "fetched": 19,
    "kept": 3,
    "added": 0,
    "error": "",
