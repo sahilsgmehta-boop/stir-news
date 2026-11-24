@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T14:07:53Z",
+ "built": "2026-11-24T00:07:51Z",
  "corra": {
   "2026-03-30": 2.27,
   "2026-03-31": 2.27,
@@ -1003,11 +1003,11 @@
   "2026-11-19": 3.9841
  },
  "status": {
-  "corra": "ok, 134 fixings, latest 2026-11-20",
-  "effr": "ok, 136 fixings, latest 2026-11-20",
-  "estr": "ok, 141 fixings, latest 2026-11-20",
-  "saron": "ok, 139 fixings, latest 2026-11-20 via snb:snbgwdzid (2dp; SIX failed: hsrron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; h_saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; links seen: )",
-  "sofr": "ok, 135 fixings, latest 2026-11-20",
-  "sonia": "ok, 138 fixings, latest 2026-11-19"
+  "corra": "ok, 133 fixings, latest 2026-11-20",
+  "effr": "ok, 135 fixings, latest 2026-11-20",
+  "estr": "ok, 140 fixings, latest 2026-11-20",
+  "saron": "ok, 138 fixings, latest 2026-11-20 via snb:snbgwdzid (2dp; SIX failed: hsrron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; h_saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; saron.csv: no rows [<!doctype html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\" default-src 'self'; script-src 'self' https://code.jquery.com https://cdn.cookielaw.org https://www.google.com]; links seen: )",
+  "sofr": "ok, 134 fixings, latest 2026-11-20",
+  "sonia": "ok, 137 fixings, latest 2026-11-19"
  }
 }

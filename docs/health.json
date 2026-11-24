@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T23:52:01Z",
+ "built": "2026-11-24T00:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 14,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -17,7 +17,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 1,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -56,9 +56,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 23,
-   "added": 1,
+   "fetched": 65,
+   "kept": 24,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed president pitches FedNow",
@@ -67,10 +67,10 @@
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
-    "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
+    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
-    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?"
+    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury "
    ]
   },
   {
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 30,
-   "added": 6,
+   "fetched": 100,
+   "kept": 67,
+   "added": 12,
    "error": "",
    "near_misses": [
-    "Why would the Fed consider a half-percentage-point hike in December?",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Federal Reserve officials sound alarm over AI boom\u2019s growing inflation risks",
-    "Rabobank Flags December Fed Hike Pricing | 20 Nov 2026",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
+    "Interrogating confusion at the Fed"
    ]
   },
   {
@@ -134,7 +134,7 @@
    "ok": true,
    "fetched": 20,
    "kept": 4,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
@@ -163,8 +163,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
-   "kept": 1,
+   "fetched": 13,
+   "kept": 2,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -173,6 +173,7 @@
     "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
