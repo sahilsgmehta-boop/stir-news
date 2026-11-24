@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T06:07:00Z",
+ "built": "2026-11-24T06:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,21 +56,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
-   "kept": 39,
+   "fetched": 87,
+   "kept": 38,
    "added": 0,
    "error": "",
    "near_misses": [
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
     "Fed president pitches FedNow",
-    "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
+    "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
-    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
+    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
-    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?"
+    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week"
    ]
   },
   {
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 70,
    "added": 9,
    "error": "",
    "near_misses": [
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "kept": 8,
    "added": 0,
    "error": "",
@@ -110,6 +110,7 @@
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
     "France Nominates Laurence Boone to ECB Board"
    ]
   },
@@ -118,12 +119,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 18,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France and Germany set to take key ECB roles"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "France and Germany set to take key ECB roles",
+    "ECB warns of financial stability Risks Linked to AI Valuations",
+    "ECB Rate Hike May Not Fully Tame Inflation",
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -131,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 4,
    "added": 0,
    "error": "",
