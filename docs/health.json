@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T17:37:00Z",
+ "built": "2026-11-24T17:39:47Z",
  "sources": [
   {
    "id": "il_cb",
@@ -89,11 +89,11 @@
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
     "Bessent warns on Fed hike as AI bubble fears mount"
    ]
   },
@@ -136,15 +136,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 8,
+   "fetched": 39,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England officials hint at faster rate hikes ahead",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Students meet the Bank of England Governor",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Middle East conflict could force interest rates higher, Bailey warns",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -154,7 +156,7 @@
    "ok": true,
    "fetched": 17,
    "kept": 1,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Chief Warns of Oil Passthrough, Sticky Inflation",
@@ -282,7 +284,7 @@
    "ok": true,
    "fetched": 10,
    "kept": 9,
-   "added": 2,
+   "added": 0,
    "error": ""
   },
   {
