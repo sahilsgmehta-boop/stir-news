@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T04:07:01Z",
+ "built": "2026-11-24T04:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,10 +58,11 @@
    "kind": "news",
    "ok": true,
    "fetched": 87,
-   "kept": 39,
-   "added": 1,
+   "kept": 37,
+   "added": 0,
    "error": "",
    "near_misses": [
+    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
     "Fed president pitches FedNow",
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
@@ -70,8 +71,7 @@
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
-    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance"
+    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week"
    ]
   },
   {
@@ -101,14 +101,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 27,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "France and Germany set to take key ECB roles",
+    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
     "France Nominates Laurence Boone to ECB Board"
    ]
   },
@@ -130,7 +133,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 38,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -145,19 +148,25 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
+    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
+   ]
   },
   {
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
-   "kept": 2,
+   "fetched": 10,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -166,7 +175,6 @@
     "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
