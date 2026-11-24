@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T18:52:01Z",
+ "built": "2026-11-24T19:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,17 +59,17 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 46,
+   "fetched": 94,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Fed president pitches FedNow",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
     "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
@@ -89,10 +89,10 @@
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
+    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
     "Bessent warns on Fed hike as AI bubble fears mount",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
@@ -103,15 +103,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
-   "kept": 16,
+   "fetched": 35,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
@@ -138,15 +136,18 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 8,
+   "fetched": 41,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England officials hint at faster rate hikes ahead",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Students meet the Bank of England Governor",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Middle East conflict could force interest rates higher, Bailey warns",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -154,21 +155,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 5,
+   "fetched": 28,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
-    "Bank of Canada Chief Warns of Oil Passthrough, Sticky Inflation",
+    "Bank of Canada Warns of Oil Passthrough, Sticky Inflation",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
-    "Bank of Canada Governor Delivers Remarks in Toronto",
+    "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Canadian Dollar: Macklem speech key for December hike \u2013 BBH",
-    "Speech by Tiff Macklem, Governor of the Bank of Canada",
-    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
+    "Bank of Canada Governor Delivers Remarks in Toronto",
+    "Canadian Dollar: Macklem speech key for December hike \u2013 BBH"
    ]
   },
   {

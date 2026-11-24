@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T19:00:00Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+"url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+"src": "Federal Reserve monetary policy",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "04af64fc022b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T17:56:59Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -10,7 +30,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"CBC"
+"CBC",
+"marketscreener.com"
 ],
 "desc": "",
 "id": "0d96f732db09",
