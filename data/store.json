@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-24T17:56:59Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Bank of Canada Gov. Macklem Expects Inflation to Remain Persistent",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmV5U2pibTRfUmJObWdlQl9rS1JlZ2xqQ0hkTTE5UG4zODdpTWRjbFNyQUxaY2pYRHdhTG1JNHFFUExBWV96S1dXaWRTV1llaEh3U0ZkeU9oLU5VRGVBajVhcmRpemh4SkZncUlvb2ROUlVwdVQtSzJZU2Z3WEREMXp2SndmeW0wTWI4RWpIaDlwS2dNYzZXN2FfYkhURmlPUENCX1hqMnV0MWdxX2xPWGh5bmlfLW10VGc?oc=5",
+"src": "WSJ",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "0d96f732db09",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-24T17:52:45Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "BoC’s Macklem signals rate hike risk as Oil shock fuels inflation",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXlUQmlvLWU1VlkzWkdIWGRWSWg3ZkdFeHZtTHRBcFBaT1JNWkZCblUtblE3amRFNVZLMzk0VjN6UjdCRlN5WWdxSkN0bmN4ajJsQ0JQTkY2b0xybkJuYWdnVVNhM0ZqcVl0RkVkQTktVTktRWFRMW1zRksyTjdIa2ZXMWdVZFhLTFJqNXZtSURJZkR5bFRCaFgtaE9JaEx4QzRoRGxvR052Sjg?oc=5",
+"src": "FXStreet",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e848865dccd7",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T17:46:00Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -9,7 +49,9 @@
 "src": "Investing.com UK",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Investing.com India"
+],
 "desc": "",
 "id": "dd99f92d5fc6",
 "score": null,
@@ -787,7 +829,9 @@
 "src": "AOL.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"www.sharewise.com"
+],
 "desc": "",
 "id": "8f18639d1bed",
 "score": 0,
