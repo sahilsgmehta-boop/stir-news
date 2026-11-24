@@ -10841,6 +10841,60 @@
    "read": "Commentary on Warsh's AI scenarios; nothing on the rate path.",
    "at": "2026-11-24T06:50:10Z",
    "by": "claude"
+  },
+  "7b245da97993": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T11:55:00Z",
+   "by": "claude"
+  },
+  "f70168b44276": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T11:55:00Z",
+   "by": "claude"
+  },
+  "de1bd98d2933": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Speech title for the address that signalled more hikes over time.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T11:55:00Z",
+   "by": "claude"
+  },
+  "bcebfb20c6e3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Analytical blog on scenario methods for risk assessment; no rate signal.",
+   "at": "2026-11-24T11:55:00Z",
+   "by": "claude"
+  },
+  "91b77711d7bf": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says more tightening may be needed in 2027 if inflation persists, beyond December.",
+   "sum": "Simkus backs a December ECB hike as prudent with inflation broadening, and says further tightening in 2027 may be needed if price pressures persist.",
+   "pts": [
+    "Calls a rate hike prudent as inflation pressures broaden.",
+    "Treats a December hike as his central case.",
+    "Says more tightening may be needed in 2027 if inflation proves persistent.",
+    "Frames further moves as conditional on inflation and how policy transmits."
+   ],
+   "rr": "Supports the 25bp hike priced for December 17 and lends weight to further 2027 tightening pricing, though conditional; no signal of a February follow-up. Only news paraphrases were available.",
+   "ev": "Remarks (reported by Bloomberg)",
+   "basis": "reports",
+   "at": "2026-11-24T11:55:00Z",
+   "by": "claude"
+  },
+  "7c1f5b2603da": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Calls a hike prudent as inflation broadens; backs December tightening.",
+   "lead": "91b77711d7bf",
+   "at": "2026-11-24T11:55:00Z",
+   "by": "claude"
   }
  }
 }
