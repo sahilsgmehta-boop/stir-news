@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-24T17:15:43Z",
+"bank": "Fed",
+"speaker": "Waller",
+"hl": "Fed Governor Waller warns of \"zombie chains\" as tokenization grows",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVdKMHJ3ZkV2MGZuUUg3ajNTRVFoNU1sd2VWYXpxSTBuOFZXcFZOcng4VUs3Sm5lcVB0VG5TX2ltNTJyUDhYS2NoRVQ5dy1ZTU1KbEtCWXhPVjFCNEI3OG9QUXR2Mk1tUnVPLTRrNk9tRDRhUXJtZ2gtVkdFYm5BOUtSUmhWblp6TU1kVnBKT2JuWGpTQVBVM1lSemRIMGdyMzBIM2F3ejVXbXpT?oc=5",
+"src": "DL News",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "47eff0562b56",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-24T17:11:53Z",
+"bank": "ECB",
+"speaker": "Sleijpen",
+"hl": "ECB's Sleijpen, Simkus, Kaasik and Kazaks line up behind a December rate hike",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGpPQzk4aVl2TERNMVl2V2hiQ2hpR00xdndjR2NKQW1YVzFUbWF2aEVGcUNxZjFWUWF1VmktZGdBX2I3aVVZSXhuZEhidVd4ekpTTHZpUjNDUFJ6akhsY2pYU2VLRGwzMlJkbWdyX2MtQ2ZDSWRuMkJwS2JFVjFEdEZTLTNxQzVNY0tEN2xFTVI0V3l2eUVPOU9hOA?oc=5",
+"src": "MLQ.ai",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "bad81c487e2b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T15:29:57Z",
 "bank": "ECB",
 "speaker": "Sleijpen",
@@ -148,7 +188,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Investing.com India"
+"Investing.com India",
+"Investing.com UK"
 ],
 "desc": "",
 "id": "0d0f009a7399",

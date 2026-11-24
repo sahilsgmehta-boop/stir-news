@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T17:07:00Z",
+ "built": "2026-11-24T17:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 49,
+   "fetched": 92,
+   "kept": 46,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -79,32 +79,20 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 66,
-   "added": 7,
-   "error": "",
-   "near_misses": [
-    "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Bessent warns on Fed hike as AI bubble fears mount"
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 16,
-   "added": 0,
+   "fetched": 40,
+   "kept": 17,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
@@ -123,8 +111,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 20,
+   "fetched": 27,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -137,15 +125,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 18,
-   "kept": 8,
+   "fetched": 39,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England officials hint at faster rate hikes ahead",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Students meet the Bank of England Governor",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Middle East conflict could force interest rates higher, Bailey warns",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -153,13 +143,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Bank of Canada Governor Delivers Remarks in Toronto",
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Canadian Dollar: Macklem speech key for December hike \u2013 BBH",
     "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
