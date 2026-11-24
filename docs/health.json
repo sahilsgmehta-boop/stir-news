@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T13:07:00Z",
+ "built": "2026-11-24T13:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,14 +58,14 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 43,
+   "fetched": 100,
+   "kept": 47,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Fed president pitches FedNow",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
     "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
@@ -102,8 +102,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 14,
+   "fetched": 35,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -121,16 +121,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 20,
    "kept": 13,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Openness, adaptation key to economic resilience, ECB vice president says",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "France and Germany set to take key ECB roles",
-    "ECB Rate Hike May Not Fully Tame Inflation",
-    "France Nominates Laurence Boone to ECB Board"
+    "France and Germany set to take key ECB roles"
    ]
   },
   {
@@ -139,8 +136,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 46,
-   "kept": 5,
-   "added": 1,
+   "kept": 4,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
@@ -155,7 +152,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 18,
    "kept": 0,
    "added": 0,
    "error": "",
