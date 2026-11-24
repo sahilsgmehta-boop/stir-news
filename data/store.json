@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T20:40:29Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Macklem says inflation forecast is lower, but oil price pressures are lingering",
+"url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONk9kenZWcEltcTlRU1JwdjQ5S3dmR2JXQUctaF9YLUM0UnU4ZVU3bmFHUGl2TGwyMkNUTGUwbU16QVRybEhaSUlITjR4b3F2aGxJMk1OeVdRaVoxZUJlU0pELU0xYldpNXoxTDRQTUNXQzY1V2ZXSXkyNnpxTkVIcV9RYWR3SklKb1Z0dDRWUjZmT0tNVEs3Q19nU3VhLWJaenZ0aDZlZHV4ZDMzRG8xaFVPTFBfX1M4bF9MODZvWU5FbzJtMmFQWWI2NkUxTmZqWjBMc1VzZlFmOEZjbGxwVXZPcWEwQ1RXZWlCSXJxT1VQVVE?oc=5",
+"src": "Toronto Star",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "eaa850268e47",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T19:17:26Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -9,7 +29,9 @@
 "src": "Global News",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Forex Factory"
+],
 "desc": "",
 "id": "ad7b736419a2",
 "score": null,
