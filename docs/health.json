@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T22:07:00Z",
+ "built": "2026-11-24T22:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,15 +57,15 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 48,
+   "fetched": 97,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Fed president pitches FedNow",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
@@ -101,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 14,
+   "fetched": 35,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -139,8 +139,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
+    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Students meet the Bank of England Governor",
     "Middle East conflict could force interest rates higher, Bailey warns",
     "Bank of England Must Act Now or Lose Credibility, Says Pill",
@@ -160,9 +160,9 @@
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
+    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
@@ -175,8 +175,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
-   "kept": 5,
+   "fetched": 10,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
