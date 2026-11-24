@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T13:22:01Z",
+ "built": "2026-11-24T13:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,44 +57,32 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 47,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
-    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
-    "Fed president pitches FedNow",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
-    "Fed's watchdog investigates whether Bowman violated communications rules - report",
-    "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
-    "Fed\u2019s preferred inflation index to show price gains well above target - Truflation"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 70,
-   "added": 9,
+   "fetched": 58,
+   "kept": 34,
+   "added": 6,
    "error": "",
    "near_misses": [
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Fed plans to eliminate some rate-setting meetings, chairman says",
-    "Interrogating confusion at the Fed",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+    "WATCH: Kevin Warsh testifies in Senate Banking confirmation hearing for Fed chair",
+    "Kevin Warsh sworn in as Fed chair as Trump seeks interest rate cuts"
    ]
   },
   {
@@ -135,16 +123,16 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 4,
-   "added": 0,
+   "fetched": 26,
+   "kept": 6,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
     "Middle East conflict could force interest rates higher, Bailey warns",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -159,7 +147,6 @@
    "near_misses": [
     "Speech by Tiff Macklem, Governor of the Bank of Canada",
     "Canadian Dollar: Macklem speech key for December hike \u2013 BBH",
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
     "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
     "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
    ]
@@ -169,7 +156,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -183,7 +170,7 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
