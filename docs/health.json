@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T08:52:00Z",
+ "built": "2026-11-24T09:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,21 +56,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 80,
+   "fetched": 82,
    "kept": 38,
    "added": 0,
    "error": "",
    "near_misses": [
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
     "Fed president pitches FedNow",
+    "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
+    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
-    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
-    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
-    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury "
+    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
+    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?"
    ]
   },
   {
@@ -78,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 36,
-   "added": 6,
+   "fetched": 100,
+   "kept": 69,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -88,11 +88,11 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed"
+    "Interrogating confusion at the Fed"
    ]
   },
   {
@@ -100,9 +100,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 28,
    "kept": 9,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
@@ -118,12 +118,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
+   "fetched": 19,
    "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France and Germany set to take key ECB roles"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "France and Germany set to take key ECB roles",
+    "ECB warns of financial stability Risks Linked to AI Valuations",
+    "ECB Rate Hike May Not Fully Tame Inflation",
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -131,7 +135,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 48,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -163,18 +167,17 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 16,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
     "SNB watching for second-round inflation effects, vice chairman says",
-    "Swiss Inflation Edges Higher; SNB Signals Watchful Pause",
-    "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "Swiss inflation accelerates as SNB signals concern over broader price pressures",
+    "Swiss Inflation Edges Higher; SNB Signals Watchful Pause",
+    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
