@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T16:52:00Z",
+ "built": "2026-11-24T17:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 45,
-   "added": 0,
+   "fetched": 100,
+   "kept": 49,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
@@ -71,8 +71,8 @@
     "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
     "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
-    "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
-    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation"
+    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation",
+    "Market turmoil puts Fed\u2019s rate-hike plans under pressure"
    ]
   },
   {
@@ -86,9 +86,9 @@
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
@@ -102,8 +102,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 15,
+   "fetched": 39,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
