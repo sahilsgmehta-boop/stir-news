@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T11:07:00Z",
+ "built": "2026-11-24T11:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,8 +57,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
-   "kept": 41,
+   "fetched": 99,
+   "kept": 46,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -119,16 +119,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 16,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "France and Germany set to take key ECB roles",
-    "ECB warns of financial stability Risks Linked to AI Valuations",
-    "ECB Rate Hike May Not Fully Tame Inflation",
-    "France Nominates Laurence Boone to ECB Board"
+    "Openness, adaptation key to economic resilience, ECB vice president says",
+    "France and Germany set to take key ECB roles"
    ]
   },
   {
@@ -136,12 +133,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 48,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
+    "Middle East conflict could force interest rates higher, Bailey warns",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
     "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
@@ -152,7 +150,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
