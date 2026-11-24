@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-24T11:50:08Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed’s Bowman investigated over BofA dinner; StanChart investigated investment banking chief over staff complaints",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4MXA2bTl6WXFTNmFwMi1FYXVXTjA4REpKMnNBNlE5cjkyVmdYcnYtYmdtSlJoNkNLV0VYcDlsVkZoZFlVaWpHUDV6NWFhT2tMSnVIamxjZFhUaVRYekxQTTVzSW9Ba3dBWmJBYWVSamh6QjF5VTdGeFB3?oc=5",
+"src": "TheBanker.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "6c3983b85e79",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-24T11:24:32Z",
+"bank": "ECB",
+"speaker": "Simkus",
+"hl": "ECB’s Simkus Backs Raising Minimum Reserve Levels for Banks",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVm9RUWRaOU9sVWMtYTdsT0J4SnROLWxlS1RuLXQwT3dkWUhCc01hQ2tnUzhPWnlXdmlxUk1lS01TU2FSU29pRjJkemptMFBodEJDeU1EaF81bkhjUGxJbG50UmczelRrNlE0VXBFcHhRNmF0Ymx4eFVJdUkxdl8wLUxKVzFiTjFacFhTUTNXQk1Jdkw5TlBMejdoUThEa2NGS2FWTjJ1Q0JDMXJERTRR?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e5e53e2a73a3",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T10:00:00Z",
 "bank": "ECB",
 "speaker": "",
@@ -52,7 +92,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo! Finance Canada"
+],
 "desc": "",
 "id": "7c1f5b2603da",
 "score": null,

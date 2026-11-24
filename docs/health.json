@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T11:37:00Z",
+ "built": "2026-11-24T11:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,9 +57,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 45,
-   "added": 0,
+   "fetched": 86,
+   "kept": 42,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
@@ -80,8 +80,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
-   "added": 9,
+   "kept": 68,
+   "added": 8,
    "error": "",
    "near_misses": [
     "AI boom looms over Warsh\u2019s Fed as inflation worries grow",
@@ -89,11 +89,11 @@
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Why would the Fed consider a half-percentage-point hike in December?",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Fed likely to need to raise rates amid worsening inflation: Daly",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Fed plans to eliminate some rate-setting meetings, chairman says"
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Fed Minutes and Governor Waller Point Toward a December Rate Increase"
    ]
   },
   {
@@ -101,9 +101,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 10,
-   "added": 0,
+   "fetched": 33,
+   "kept": 11,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
@@ -111,6 +111,7 @@
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+    "France and Germany set to take key ECB roles",
     "France Nominates Laurence Boone to ECB Board"
    ]
   },
@@ -119,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
-   "kept": 9,
+   "fetched": 17,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -133,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 25,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -141,8 +142,8 @@
     "Students meet the Bank of England Governor",
     "Middle East conflict could force interest rates higher, Bailey warns",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -150,7 +151,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 17,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -166,7 +167,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 4,
    "added": 0,
    "error": "",
