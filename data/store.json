@@ -209,7 +209,9 @@
 "src": "Yahoo Finance",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"AOL.co.uk"
+],
 "desc": "",
 "id": "467993601baf",
 "score": null,
@@ -258,6 +260,26 @@
 ],
 "desc": "",
 "id": "276fba20171e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-23T21:12:37Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "ECB’s Christine Lagarde Warns Europe Could Lose Control of Growing Tokenized Asset Market",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHkxeFZVZmVnUGpXM04weDhsY0JLVXlDb2dLMVpUcUcweWZuT0E5Umc5NmxlX1duQW15eW1yeFVLdTdFd25RVGlvSDMwY2FqUHkzSXhldE9rS0t6MVQwdGgwUm5rckV1bE1tX0hQNFBjanREQkR4azFZTGRvMTFEWk15TTZQV2pKNUNiMVY3QVFfb3hlVk95XzZyaHkyN0gtOVkwa0tadVh0NWpzNDZFcmdJVQ?oc=5",
+"src": "Tekedia",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d9892d56d2bc",
 "score": null,
 "read": "",
 "sum": "",
@@ -318,7 +340,8 @@
 "also": [
 "www.marketscreener.com",
 "Reuters",
-"marketscreener.com"
+"marketscreener.com",
+"Briefs Finance"
 ],
 "desc": "",
 "id": "bfb4311b1234",
