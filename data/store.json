@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-24T15:00:55Z",
+"bank": "ECB",
+"speaker": "Sleijpen",
+"hl": "ECB policy direction clear for December but uncertain after, Sleijpen says",
+"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWE9jVTJxbDZwTHpHSnZuLWJYeUppX3paOVd3dWVoakx5bVNvWUlITXRlVXRURUtvbU1uNGpFdGIxbmZWdUQ3SEZTc0gyNEdzaVhOczU0LVR4Zk5hTjg5X09lQ0V5dHZGUms4SlIyVWVzR1BiV2xsTGtBUDYyUEVueWlfcHRRbS1yYnlVZ19ieFdVQWowcERqYTVPdVpicm02RnBzT1JkYnJEM3lFSV84MU12Vmh4dkpKNXRZMXZHbkI3d2Jf?oc=5",
+"src": "marketscreener.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "5309cb9fe8f6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-24T14:54:38Z",
+"bank": "ECB",
+"speaker": "Vujcic",
+"hl": "ECB’s Vujčić cautions against economic isolation amid mounting global shocks",
+"url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVTVjT2VPRWJrUWdTUVgyNUhyd3pTdWVOUklOemhMVkl1aXdnU2hBWGxnMXo3VG1JbjVWOGNqc2dtd2VsVVM2MjRMbGFMeVc0ZXhIMjY0NmdRNTctMlFydFZxYl9qVjlHZ1V5TDVpLUljekFZNE0wOENkdC1NUU0wQ2lVdDljZ1dtSW4wZUhJa180MlNGVi00WHBSRmRvRUZzOWMxazRBX2NVbmM3ZnhzbzhjYmdOZlo0R1ZIU2stTlRNRDc4bEtTejM3Ynkyc1lxSEV3a1ZtbnpYcG8?oc=5",
+"src": "INSIGHT EU MONITORING",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "0f3bcbb607ad",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T13:59:26Z",
 "bank": "BoE",
 "speaker": "Greene",
@@ -446,7 +486,9 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"investingLive"
+"investingLive",
+"24/7 Wall St.",
+"Yahoo Finance"
 ],
 "desc": "The openness to consecutive hikes adds upside risk to Fed pricing beyond December, with traders more likely to build in a follow-up move in early 2027. That should keep short-dated Treasury yields supported and give the US dollar a firmer floor, especially against currencies whose central banks are moving toward cuts. For equities, Williams set a high bar for market weakness to change his view, which limits hopes that renewed tech volatility would slow the Fed. Energy remains central to his inflation outlook, so any rise in oil prices would add weight to the case for a faster pace of hikes. --",
 "id": "a5ddb3856e33",
