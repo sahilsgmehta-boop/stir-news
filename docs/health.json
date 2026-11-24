@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T21:22:01Z",
+ "built": "2026-11-24T21:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,21 +59,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
-   "kept": 45,
+   "fetched": 100,
+   "kept": 47,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Fed president pitches FedNow",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
     "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
-    "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation"
+    "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner"
    ]
   },
   {
@@ -81,7 +81,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
+   "fetched": 67,
    "kept": 35,
    "added": 6,
    "error": "",
@@ -103,13 +103,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 14,
+   "fetched": 38,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
@@ -136,18 +138,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
-   "kept": 10,
+   "fetched": 19,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England officials hint at faster rate hikes ahead",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Students meet the Bank of England Governor",
-    "Middle East conflict could force interest rates higher, Bailey warns",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -162,14 +161,14 @@
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
-    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
+    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+    "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Bank of Canada Fades Core Inflation, Switches Gauges"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
   {
@@ -177,7 +176,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 9,
    "kept": 5,
    "added": 0,
    "error": "",
