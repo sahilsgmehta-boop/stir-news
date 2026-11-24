@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T09:52:00Z",
+ "built": "2026-11-24T10:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,10 +17,11 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 2,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
+    "German Ifo survey hints at a recovery in November but the ECB still can't get too comfortable",
     "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace"
    ]
   },
@@ -56,7 +57,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
+   "fetched": 94,
    "kept": 44,
    "added": 0,
    "error": "",
@@ -78,7 +79,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
+   "fetched": 65,
    "kept": 36,
    "added": 5,
    "error": "",
@@ -101,8 +102,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 29,
-   "kept": 9,
-   "added": 0,
+   "kept": 10,
+   "added": 1,
    "error": "",
    "near_misses": [
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
@@ -119,7 +120,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 19,
-   "kept": 8,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -151,7 +152,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 12,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -167,7 +168,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "kept": 4,
    "added": 0,
    "error": "",
