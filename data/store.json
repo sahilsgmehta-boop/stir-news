@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T15:11:35Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Treasury yields dip after NY Fed's Williams warns on inflation; 5-year auction eyed",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVhCSmxCQ2Q3bDkybFo3S3A0bUoyZFBlNGtsMllnYTl1enE4b3AwVVZmWm1BM3d6dXNHTTdMaGZfSUwxSlFYQzItbUpIRm5aT01CV2oyQWlRR0xGZUNBR2pSenNlMXJUNF9TZGVNbE5zanN1QnNlM0lzQkNEZkpXYmZXTGhvdG9haGk4MVBpcFdOX0NrMndlYl84b0FFYUZvaG94cHMzUUFqa2dO?oc=5",
+"src": "FlipItMoney",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9bb2ce2301ee",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T15:00:55Z",
 "bank": "ECB",
 "speaker": "Sleijpen",
@@ -9,7 +29,9 @@
 "src": "marketscreener.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "5309cb9fe8f6",
 "score": null,

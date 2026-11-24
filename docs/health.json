@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T15:07:00Z",
+ "built": "2026-11-24T15:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,9 +57,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 48,
-   "added": 0,
+   "fetched": 92,
+   "kept": 45,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 68,
-   "added": 8,
+   "fetched": 66,
+   "kept": 39,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Fed plans to eliminate some rate-setting meetings, chairman says"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed"
    ]
   },
   {
@@ -101,9 +101,9 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 33,
    "kept": 15,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
@@ -120,15 +120,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 15,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Openness, adaptation key to economic resilience, ECB vice president says",
-    "France and Germany set to take key ECB roles",
-    "ECB Rate Hike May Not Fully Tame Inflation",
-    "France Nominates Laurence Boone to ECB Board"
+    "France and Germany set to take key ECB roles"
    ]
   },
   {
@@ -153,7 +151,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
