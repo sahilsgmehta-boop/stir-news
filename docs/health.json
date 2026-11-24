@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T09:22:00Z",
+ "built": "2026-11-24T09:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,9 +56,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 84,
-   "kept": 39,
-   "added": 1,
+   "fetched": 93,
+   "kept": 43,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
@@ -69,8 +69,8 @@
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
-    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
-    "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?"
+    "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
+    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?"
    ]
   },
   {
@@ -78,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 70,
-   "added": 9,
+   "fetched": 66,
+   "kept": 36,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -88,11 +88,11 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Fed plans to eliminate some rate-setting meetings, chairman says",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "Interrogating confusion at the Fed"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed"
    ]
   },
   {
@@ -135,15 +135,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 25,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -167,16 +167,15 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 14,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "SNB watching for second-round inflation effects, vice chairman says",
-    "Swiss inflation is in range. The SNB isn't taking a victory lap.",
+    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
     "Swiss Inflation Edges Higher; SNB Signals Watchful Pause",
-    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING"
+    "Swiss inflation is in range. The SNB isn't taking a victory lap."
    ]
   },
   {
