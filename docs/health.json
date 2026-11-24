@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T09:37:00Z",
+ "built": "2026-11-24T09:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,8 +56,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 43,
+   "fetched": 95,
+   "kept": 44,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
+   "fetched": 29,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -151,7 +151,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -167,15 +167,14 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 12,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
-    "Swiss Inflation Edges Higher; SNB Signals Watchful Pause",
-    "Swiss inflation is in range. The SNB isn't taking a victory lap."
+    "Swiss Inflation Edges Higher; SNB Signals Watchful Pause"
    ]
   },
   {
