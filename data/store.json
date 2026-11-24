@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T11:59:00Z",
+"bank": "ECB",
+"speaker": "Kazaks",
+"hl": "ECB's Kazaks: Rates should be raised to curb inflation",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzRadGppbDNSNGswYWdZTWVGRGZoYm9fT3J3RU8yWG9iUnhqTDNIckpZa3JzTkhLTDZoY1NyV0pCZXJ1T0xSUmVKMjhQRE9HUHdpN2VkQ29kT20ydk1oaHhEcmZqVW1QNlZhLW9WY3hNbnc3RzZybmpQTXVfdnY5cWJxcEdQcjV0SjA5WTlVY2YteUQwUFNfU1hvaVk2dmdF?oc=5",
+"src": "Breakingthenews.net",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "959b72094d8e",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T11:50:08Z",
 "bank": "Fed",
 "speaker": "Bowman",
@@ -93,7 +113,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Yahoo! Finance Canada"
+"Yahoo! Finance Canada",
+"Yahoo Finance"
 ],
 "desc": "",
 "id": "7c1f5b2603da",
@@ -889,6 +910,26 @@
 "rr": "Backs the 25bp December hike and leans toward more in 2027, supporting the one-to-two hikes priced next year, but pushes back on an early follow-up in February. Only news paraphrases were available.",
 "ev": "Interview, Reuters",
 "basis": "reports"
+},
+{
+"t": "2026-11-23T07:40:09Z",
+"bank": "SNB",
+"speaker": "Martin",
+"hl": "SNB’s Martin Flags Second-Round Inflation Risks Ahead of December Policy Decision; Franc Steady",
+"url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGVtSDR5ZVJWRDBSVkJGVExsdFF3N2dLS1FXT2NLN2ZibkdhMm1qcDE3WFFqSEZwVU1rQldVTHA3M2ZVUmcxYkVxdnZuR3JSWmlsWnMxanNyRE1BblBvbC1oeGIwcVBxNllweTR3cVJDNlpidFhuTHZGQi1KUFkwU3plSl9HcE9fMFZsM21NQ1VDdzhfb0lGWWl6OWxPUllNUlM0Y19TN29LQ2cxM3loSTJHYVFEMGVmTmRKbEtGNUVqb3VjeENDdXRNNEJXQmg1b0tsOF93?oc=5",
+"src": "VT Markets",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "16e72c0cefa4",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-23T02:04:59Z",
