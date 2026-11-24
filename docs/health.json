@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T23:37:00Z",
+ "built": "2026-11-24T23:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 49,
+   "kept": 48,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -82,7 +82,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 61,
    "added": 8,
    "error": "",
    "near_misses": [
@@ -103,14 +103,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 17,
+   "fetched": 38,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
@@ -138,18 +138,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
-   "kept": 10,
+   "fetched": 19,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
-    "Middle East conflict could force interest rates higher, Bailey warns",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -157,21 +154,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 13,
-   "added": 0,
+   "fetched": 50,
+   "kept": 14,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of Canada Warns of Persistent Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada says core inflation is an indicator, not a target, as metrics shift",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+    "The Canadian Dollar Rose As Traders Priced In A BoC Hike"
    ]
   },
   {
@@ -179,7 +176,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 9,
    "kept": 4,
    "added": 0,
    "error": "",

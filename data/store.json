@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T23:50:00Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "Macklem Warns Oil Shock Will Sustain Inflation in 2027",
+"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPOVpYSmRyd1NicXZrTXREd0wxZ3I1NU9va3pkWW5YMEtJZFh5aGh2OGQwTWgxV04tcGx5M2lEZkw1WEd0bzF5LWNGUWhINW9GNGhYbVFZZWt1bDFXUTh1d3lidzg2REZw?oc=5",
+"src": "cwibc.co.id",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "630524d64472",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T22:47:42Z",
 "bank": "Fed",
 "speaker": "",
@@ -33,7 +53,8 @@
 "Yahoo! Finance Canada",
 "St. Catharines Standard",
 "BNN Bloomberg",
-"The Spec"
+"The Spec",
+"BOE Report"
 ],
 "desc": "",
 "id": "eaa850268e47",
@@ -164,7 +185,8 @@
 "tone": "hawk",
 "also": [
 "Investing.com India",
-"Investing.com Canada"
+"Investing.com Canada",
+"Investing.com"
 ],
 "desc": "",
 "id": "dd99f92d5fc6",
