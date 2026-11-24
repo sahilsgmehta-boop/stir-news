@@ -21,6 +21,26 @@
 "basis": ""
 },
 {
+"t": "2026-11-24T19:11:22Z",
+"bank": "BoC",
+"speaker": "Macklem",
+"hl": "BOC's Macklem: The housing market is certainly soft, we don't see it leading the recovery",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMlRpT0FQSnlKRWtHNEljN09tdFVsOHI2RGh0dVdBNVRqUGs0TzczUzNsSTRTb1VnVUpWN1Fhd29OdUxhWEhuYjZ1WDlyN1dKVG1YQXFYeEZ4YWtSTGRLdlFJSTJzbGZKYkFIdUhnYWlzdkJPWldDZ0ZyR2kxTFg1ZGNWOXlZaWxyRVM2WWQwT2g5N3BJY09HNncwVFhBMFRLSmZMNXZ1VHNjZDkzUnNoSG5aRXpELURZZE1ZRWRheVZoSi16bDdR?oc=5",
+"src": "investingLive",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "7ac3627c62a5",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T19:00:00Z",
 "bank": "Fed",
 "speaker": "",
@@ -51,7 +71,8 @@
 "tone": "",
 "also": [
 "CBC",
-"marketscreener.com"
+"marketscreener.com",
+"www.marketscreener.com"
 ],
 "desc": "",
 "id": "0d96f732db09",
