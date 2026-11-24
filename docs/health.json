@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T21:37:01Z",
+ "built": "2026-11-24T21:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 47,
-   "added": 0,
+   "kept": 48,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
@@ -123,8 +123,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 19,
+   "fetched": 26,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -154,20 +154,20 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
-   "kept": 11,
+   "fetched": 44,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
@@ -176,7 +176,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 11,
    "kept": 5,
    "added": 0,
    "error": "",

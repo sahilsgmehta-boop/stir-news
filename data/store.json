@@ -11,7 +11,8 @@
 "tone": "",
 "also": [
 "Yahoo! Finance Canada",
-"St. Catharines Standard"
+"St. Catharines Standard",
+"BNN Bloomberg"
 ],
 "desc": "",
 "id": "eaa850268e47",
@@ -319,7 +320,8 @@
 "AOL.com",
 "The Lufkin Daily News",
 "WSAU",
-"Fresno Bee"
+"Fresno Bee",
+"Columbus Ledger-Enquirer"
 ],
 "desc": "",
 "id": "5309cb9fe8f6",
@@ -759,6 +761,26 @@
 "rr": "Supports the 25bp hike priced for December 17 and lends weight to further 2027 tightening pricing, though conditional; no signal of a February follow-up. Only news paraphrases were available.",
 "ev": "Remarks (reported by Bloomberg)",
 "basis": "reports"
+},
+{
+"t": "2026-11-24T08:21:53Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed’s Williams does not rule out hikes at consecutive meetings",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0tYdmFnMnVrQXdYTlJPQndRWnNZSFAtVXZHbmoxZmxGUWtMbkUtS3BYaHp1R0NHNlljQUFwZ3BPRk94NGlDR01wWGRNV2xyaDNMbWNnNHpINnRrUHVmMUJPeDYyVlFrV3ZhbllFLVVSTk9PTjdLNzFpQXliNHJWdWJWRWFHME8td3pxRzZnUzJXZ3dIOTN4M0dfX3d3Nnc?oc=5",
+"src": "Forextraders.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "9f36c22d0152",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-24T07:22:44Z",
