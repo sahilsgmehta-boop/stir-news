@@ -12,7 +12,8 @@
 "also": [
 "Yahoo! Finance Canada",
 "St. Catharines Standard",
-"BNN Bloomberg"
+"BNN Bloomberg",
+"The Spec"
 ],
 "desc": "",
 "id": "eaa850268e47",
@@ -142,7 +143,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"Investing.com India"
+"Investing.com India",
+"Investing.com Canada"
 ],
 "desc": "",
 "id": "dd99f92d5fc6",

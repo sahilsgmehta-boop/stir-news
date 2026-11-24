@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T22:22:01Z",
+ "built": "2026-11-24T22:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -119,8 +119,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 19,
+   "fetched": 28,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,18 +134,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
-   "kept": 10,
+   "fetched": 19,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England officials hint at faster rate hikes ahead",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
+    "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
-    "Middle East conflict could force interest rates higher, Bailey warns",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -161,12 +158,12 @@
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
-    "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
     "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
