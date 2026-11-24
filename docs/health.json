@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T10:22:00Z",
+ "built": "2026-11-24T10:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -79,9 +79,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 36,
-   "added": 5,
+   "fetched": 100,
+   "kept": 69,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -89,11 +89,11 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "The Fed\u2019s Biggest Dove Sees No Clear Path Back to 2% Inflation",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed"
+    "Interrogating confusion at the Fed"
    ]
   },
   {
@@ -101,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 29,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -164,14 +164,12 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 9,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
-    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
-    "Swiss Inflation Edges Higher; SNB Signals Watchful Pause"
+    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING"
    ]
   },
   {
