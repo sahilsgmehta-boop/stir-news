@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T01:21:05Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "BlackRock says markets overprice Fed hikes, sees two not three as energy shock fades",
+"url": "https://investinglive.com/central-banks/blackrock-says-markets-overprice-fed-hikes-sees-two-not-three-as-energy-shock-fades/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "BlackRock's view runs against Monday's hawkish Fed commentary and against market pricing, so the October PCE data becomes a key test. A softer services reading would back BlackRock and could pull Fed pricing toward two hikes, supporting short-dated Treasuries and easing some pressure on the US dollar. For oil, BlackRock's case depends on the recent sharp fall in crude and fuel prices holding. A renewed rise in energy costs would undercut its view and strengthen the case for more Fed tightening. Its expectation of an ECB hike next month, with more depending on energy pass-through, points to tig",
+"id": "55810f791869",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-23T23:48:53Z",
 "bank": "BoE",
 "speaker": "Greene",
@@ -209,7 +229,9 @@
 "src": "IndexBox",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"cwibc.co.id"
+],
 "desc": "",
 "id": "741819d00048",
 "score": null,
