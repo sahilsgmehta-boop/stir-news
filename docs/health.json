@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T19:07:01Z",
+ "built": "2026-11-24T19:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -81,8 +81,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 38,
+   "fetched": 100,
+   "kept": 63,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -91,11 +91,11 @@
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom"
    ]
   },
   {
@@ -103,13 +103,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 14,
+   "fetched": 39,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
@@ -136,7 +138,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 42,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -155,17 +157,17 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 6,
-   "added": 0,
+   "fetched": 30,
+   "kept": 7,
+   "added": 1,
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Oil Passthrough, Sticky Inflation",
-    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Bank of Canada Governor Delivers Remarks in Toronto",
@@ -177,7 +179,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 11,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -220,7 +222,7 @@
    "ok": true,
    "fetched": 15,
    "kept": 15,
-   "added": 11,
+   "added": 10,
    "error": ""
   },
   {
