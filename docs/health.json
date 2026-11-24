@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T01:37:00Z",
+ "built": "2026-11-24T01:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,8 +56,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
-   "kept": 30,
+   "fetched": 82,
+   "kept": 33,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,10 +66,10 @@
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
-    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
+    "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
+    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury ",
     "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance"
    ]
   },
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 69,
-   "added": 11,
+   "kept": 70,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
@@ -111,7 +111,8 @@
     "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
     "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
     "France and Germany set to take key ECB roles",
-    "France Nominates Laurence Boone to ECB Board"
+    "France Nominates Laurence Boone to ECB Board",
+    "ECB Rate Hike May Not Fully Tame Inflation"
    ]
   },
   {
@@ -119,12 +120,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 18,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France and Germany set to take key ECB roles"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "France and Germany set to take key ECB roles",
+    "ECB warns of financial stability Risks Linked to AI Valuations",
+    "ECB Rate Hike May Not Fully Tame Inflation",
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -147,7 +152,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -174,8 +179,8 @@
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
     "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "FILE PHOTO: SNB rate decision in Zurich",
-    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
     "SNB monitoring second-round inflation effects",
+    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
