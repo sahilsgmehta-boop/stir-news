@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T06:52:01Z",
+ "built": "2026-11-24T07:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,9 +56,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 86,
-   "kept": 37,
-   "added": 0,
+   "fetched": 87,
+   "kept": 38,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
@@ -69,8 +69,8 @@
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
     "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
-    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance"
+    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance",
+    "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week"
    ]
   },
   {
@@ -78,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
+   "fetched": 65,
    "kept": 37,
-   "added": 5,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -91,8 +91,8 @@
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
     "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
     "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "US Fed Official Williams Reaffirms Commitment To Lower Inflation To 2% Target",
-    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed"
+    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+    "US Fed Official Williams Reaffirms Commitment To Lower Inflation To 2% Target"
    ]
   },
   {
@@ -118,7 +118,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -131,7 +131,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 48,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -164,8 +164,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 13,
-   "kept": 2,
+   "fetched": 10,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -174,7 +174,6 @@
     "SNB monitoring second-round inflation effects",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
