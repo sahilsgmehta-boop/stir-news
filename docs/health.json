@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T22:37:01Z",
+ "built": "2026-11-24T22:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -92,8 +92,8 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom"
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -101,13 +101,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 15,
+   "fetched": 39,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
@@ -119,8 +121,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 20,
+   "fetched": 27,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,14 +136,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 8,
+   "fetched": 41,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "Middle East conflict could force interest rates higher, Bailey warns",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
@@ -150,15 +155,15 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
-   "kept": 12,
+   "fetched": 48,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
-    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
