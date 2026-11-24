@@ -965,7 +965,7 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "A December hike is likely; further tightening necessary (Nov 12).",
+    "note": "A December hike is likely; further tightening necessary (Nov 12). Nov 24: rates should be raised to curb inflation.",
     "how": "said",
     "quote": "a December rate hike is likely as further tightening is necessary",
     "qsrc": "headline (investingLive), Nov 12"
@@ -984,11 +984,11 @@
    },
    "view": "Policy must stop energy inflation spilling into wider prices.",
    "shift": "",
-   "last": "2026-11-12",
-   "ev": "Remarks",
+   "last": "2026-11-24",
+   "ev": "Remarks (reported by Breakingthenews)",
    "basis": "reports",
-   "conf": "medium",
-   "asof": "2026-11-18"
+   "conf": "high",
+   "asof": "2026-11-24"
   },
   "ECB|Simkus": {
    "votes": {
@@ -1139,10 +1139,13 @@
    "votes": {
     "2026-12-17": true
    },
-   "stance": "",
+   "stance": "lean hawk",
    "next": {
-    "call": "",
-    "note": "No recent remarks on rates."
+    "call": "hike",
+    "how": "implied",
+    "note": "Nov 24: latest data show rates must be raised further; meeting and size not named.",
+    "quote": "Rates Must Be Raised Further",
+    "qsrc": "headline (Bloomberg), Nov 24"
    },
    "following": {
     "call": "",
@@ -1153,13 +1156,13 @@
     "by": "",
     "note": ""
    },
-   "view": "",
+   "view": "Says the latest data call for further rate increases.",
    "shift": "",
-   "last": "",
-   "ev": "",
-   "basis": "",
-   "conf": "low",
-   "asof": "2026-11-18"
+   "last": "2026-11-24",
+   "ev": "Remarks (reported by Bloomberg)",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-24"
   },
   "ECB|Santos Pereira": {
    "votes": {
@@ -1193,25 +1196,31 @@
    },
    "stance": "centre",
    "next": {
-    "call": "",
-    "note": "No view given on December."
+    "call": "hike",
+    "how": "said",
+    "note": "Nov 24: a December hike is likely, the direction is clear; size not given.",
+    "quote": "the direction is clear",
+    "qsrc": "Reuters, Nov 24"
    },
    "following": {
-    "call": "",
-    "note": ""
+    "call": "open",
+    "how": "said",
+    "note": "Nov 24: meeting by meeting; declined to discuss 2027 given uncertainty.",
+    "quote": "meeting-by-meeting approach",
+    "qsrc": "Reuters, Nov 24"
    },
    "path": {
     "total": "",
     "by": "",
     "note": ""
    },
-   "view": "No second-round effects yet, but elevated energy prices are a clear upside risk (Nov 3).",
+   "view": "Expects a December hike but will not commit beyond it; stresses uncertainty about 2027.",
    "shift": "",
-   "last": "2026-11-03",
-   "ev": "Hearing, Dutch Senate",
+   "last": "2026-11-24",
+   "ev": "Remarks to reporters (Amsterdam)",
    "basis": "reports",
    "conf": "medium",
-   "asof": "2026-11-18"
+   "asof": "2026-11-24"
   },
   "ECB|Wunsch": {
    "votes": {
@@ -1395,28 +1404,30 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "Additional hikes will likely be required; tighten proactively. December not named.",
     "how": "implied",
-    "quote": "additional hikes will likely be required",
-    "qsrc": "November MPC minutes"
+    "note": "Nov 24: further tightening appropriate unless data or the war turn around; BoE a little behind the curve. December not named.",
+    "quote": "appropriate to tighten policy further",
+    "qsrc": "Reuters via Investing.com, Nov 24"
    },
    "following": {
-    "call": "",
-    "note": "Proactive tightening against sticky pay growth; no meeting named.",
-    "how": ""
+    "call": "hike",
+    "how": "implied",
+    "note": "Nov 24: UK needs faster rate hikes and the BoE is behind the curve; February not named.",
+    "quote": "a little bit behind the curve now",
+    "qsrc": "Reuters via Investing.com, Nov 24"
    },
    "path": {
     "total": "",
     "by": "",
-    "note": "Raising too much and cutting later beats waiting too long."
+    "note": "No total given; tightening further unless a miraculous turnaround in the data or the war."
    },
-   "view": "Failing to control inflation is the bigger policy mistake; less slack than thought.",
-   "shift": "",
-   "last": "2026-11-16",
-   "ev": "Remarks",
+   "view": "Sees the BoE as behind the curve, with disinflation stalled and wage growth stuck near 3.5%; wants faster tightening.",
+   "shift": "More hawkish: from proactive tightening (Nov 16) to behind the curve and faster hikes needed (Nov 24).",
+   "last": "2026-11-24",
+   "ev": "Roundtable, Signum (London)",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-24"
   },
   "BoE|Lombardelli": {
    "votes": {

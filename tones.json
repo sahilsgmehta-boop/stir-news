@@ -10895,6 +10895,174 @@
    "lead": "91b77711d7bf",
    "at": "2026-11-24T11:55:00Z",
    "by": "claude"
+  },
+  "9c4a6d6a37f9": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Says further tightening is appropriate unless data or the war turn around sharply.",
+   "sum": "Greene says the BoE is a little behind the curve and further tightening is appropriate unless the data or the war turn around miraculously.",
+   "pts": [
+    "Says the BoE is now \"a little bit behind the curve\".",
+    "Further tightening is appropriate barring a sharp turnaround in data or the war.",
+    "Disinflation has stalled; slack has peaked and a tighter jobs market points to stronger pay next year.",
+    "Forward-looking indicators show wage growth stuck around 3.5%, above target-consistent rates.",
+    "Worried more about refined product prices than crude; energy bills seen up about 26% in January.",
+    "Sees the chance of a lasting end to the war as very low."
+   ],
+   "rr": "Firmly supports the 25bp hike largely priced for Dec 17 and leans toward back-to-back moves into February; adds upside risk to the 2027 path. Only news paraphrases were available.",
+   "ev": "Roundtable, Signum (London)",
+   "basis": "reports",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "dce9bfbed3ad": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says disinflation has stalled, backing further tightening.",
+   "lead": "9c4a6d6a37f9",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "96c01d33d954": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Says BoE is behind the curve unless the war ends, urging more tightening.",
+   "lead": "9c4a6d6a37f9",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "0d0f009a7399": {
+   "tone": "hawk",
+   "score": 8,
+   "read": "Calls for faster rate hikes, beyond the gradual pace priced.",
+   "lead": "9c4a6d6a37f9",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "ed43cf9e4a36": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Backs another rate hike as inflation pressures persist.",
+   "lead": "9c4a6d6a37f9",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "5309cb9fe8f6": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Sees a December hike as the clear direction but declines to signal anything beyond.",
+   "sum": "Sleijpen says the ECB is likely to raise rates in December, but the path after that is uncertain and he will not commit on 2027.",
+   "pts": [
+    "The direction for December is clear; a hike is likely.",
+    "The ECB stays meeting-by-meeting and will decide in December.",
+    "Declined to discuss 2027 policy, citing many uncertainties.",
+    "Said rising French debt costs need to be fixed in Paris primarily."
+   ],
+   "rr": "Confirms the hike priced for Dec 17 without adding to it, and gives no support to further 2027 hikes. He does not vote in December. Only news paraphrases were available.",
+   "ev": "Remarks to reporters (Amsterdam)",
+   "basis": "reports",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "eecbd10ee1e6": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "December hike likely; path after that unclear.",
+   "lead": "5309cb9fe8f6",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "4cbae13b4a11": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Structural speech on resilience to shocks; no rate signal reported.",
+   "sum": "Vujčić used a speech on lessons from central and eastern Europe to argue for resilience and against economic isolation amid repeated global shocks.",
+   "pts": [
+    "Speech on how central and eastern Europe weathered successive shocks.",
+    "Cautioned against economic isolation as global shocks mount.",
+    "No new comment on the December decision or the rate path was reported."
+   ],
+   "rr": "No rate signal; leaves pricing for a December ECB hike unchanged. Only news paraphrases were available.",
+   "ev": "Speech, \"Resilience in an age of shocks\"",
+   "basis": "reports",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "0f3bcbb607ad": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warns against economic isolation; nothing on rates.",
+   "lead": "4cbae13b4a11",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "f2e8648beb16": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says latest data show rates must rise further.",
+   "sum": "Kaasik says the latest data show ECB rates must be raised further to bring inflation down.",
+   "pts": [
+    "Says recent data show rates need to go up further.",
+    "Inflation pressure is the reason; no size or meeting named in reports."
+   ],
+   "rr": "Supports the hike priced for Dec 17 and leans toward further tightening beyond it. He votes in December. Only news paraphrases were available.",
+   "ev": "Remarks (reported by Bloomberg)",
+   "basis": "reports",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "959b72094d8e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says rates should be raised to curb inflation, backing December pricing.",
+   "sum": "Kazaks repeats that ECB rates should be raised to curb inflation.",
+   "pts": [
+    "Says rates should go up to rein in inflation.",
+    "No size or timing beyond earlier backing of a December hike was reported."
+   ],
+   "rr": "Reinforces the 25bp hike priced for Dec 17; no new signal on 2027. Only news paraphrases were available.",
+   "ev": "Remarks (reported by Breakingthenews)",
+   "basis": "reports",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "ba0807b3087d": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warns euro weakness could add to inflation, with more hikes possible in 2027.",
+   "lead": "91b77711d7bf",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "e5e53e2a73a3": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Backs higher minimum reserve levels for banks; balance-sheet tool, not a rate signal.",
+   "lead": "91b77711d7bf",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "9bb2ce2301ee": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "6c3983b85e79": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
+  },
+  "16e72c0cefa4": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Flags second-round inflation risks ahead of the December SNB decision.",
+   "lead": "5a8ccc2df74e",
+   "at": "2026-11-24T15:49:20Z",
+   "by": "claude"
   }
  }
 }
