@@ -11063,6 +11063,142 @@
    "lead": "5a8ccc2df74e",
    "at": "2026-11-24T15:49:20Z",
    "by": "claude"
+  },
+  "075636f2326d": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Warns oil costs will keep inflation persistent into 2027, leaving a hike on the table.",
+   "sum": "Macklem says the oil shock will feed through to consumer prices and keep inflation persistent into 2027, and the renewed framework lets the Bank respond sooner to such shocks.",
+   "pts": [
+    "Expects inflation to soften around year-end but warns of second-round price spillovers in 2027.",
+    "Renewed framework: the Bank may respond sooner or more forcefully when supply shocks are large, persistent or broad-based.",
+    "Temporary supply shocks can still be looked through; with anchored expectations any response would be smaller.",
+    "Decisions to rely on scenario analysis and judgment rather than any single model or inflation measure.",
+    "Housing is soft and not expected to lead the recovery; mortgage arrears have normalized.",
+    "Global shocks are likely to be larger and more frequent."
+   ],
+   "rr": "Keeps a Dec 9 hike live without committing; supports the roughly 60bp of BoC hikes priced over the next year rather than adding to it. CAD firmed on the remarks. Only news paraphrases were available.",
+   "ev": "Speech and press conference on the renewed policy framework",
+   "basis": "reports",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "65669cc5a107": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Renewed framework allows an earlier, more forceful response to persistent supply shocks.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "0d96f732db09": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Expects inflation to stay persistent, keeping further tightening in play.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "e848865dccd7": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Signals hike risk as the oil shock passes through to inflation.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "dd99f92d5fc6": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Softer year-end inflation, but warns of 2027 spillover that could need a response.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "288810249ed5": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Framework says BoC may respond sooner or more forcefully to big supply shocks.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "b57d9d5236e5": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Speech title on the framework; the hawkish detail is in the remarks.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "ad7b736419a2": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Expects larger, more frequent global shocks; structural, no direct rate signal.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "7ac3627c62a5": {
+   "tone": "neutral",
+   "score": -1,
+   "read": "Soft housing and anchored expectations would mean a smaller response; tempers hike talk.",
+   "lead": "075636f2326d",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "bad81c487e2b": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Several ECB governors back a December hike; confirms what is priced.",
+   "lead": "5309cb9fe8f6",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "47eff0562b56": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Tokenization risks; nothing on rates.",
+   "sum": "Waller warns that the growth of tokenization could leave abandoned \"zombie chains\", a payments and stability issue with nothing on monetary policy.",
+   "pts": [
+    "Flagged the risk of abandoned blockchains (\"zombie chains\") as tokenization grows.",
+    "No comments on inflation or the December FOMC were reported."
+   ],
+   "rr": "No new signal for Dec 9; his Nov 18 call for a 50bp hike, or 25bp with faster increases, stands. Only news paraphrases were available.",
+   "ev": "Remarks on tokenization (reported by DL News)",
+   "basis": "reports",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "f72cfe7becb3": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says more hikes may be needed to curb inflation; consistent with her hawkish dissent.",
+   "sum": "A report says Cook warned more rate hikes may be needed to curb inflation, in line with her recent message that policy is not yet restrictive enough.",
+   "pts": [
+    "More rate hikes may be needed to bring inflation down.",
+    "The report appears to recap her recent remarks rather than a new appearance.",
+    "No size or meeting was named."
+   ],
+   "rr": "Supports the December hike priced and further tightening into 2027; adds no new size signal. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "8f9e2275cf13": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
+  },
+  "058c0251328a": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T20:54:39Z",
+   "by": "claude"
   }
  }
 }

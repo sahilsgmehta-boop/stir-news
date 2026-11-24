@@ -1584,10 +1584,10 @@
    "stance": "lean hawk",
    "next": {
     "call": "hold or +25",
-    "note": "There could be a need to raise the rate further, but the Bank will proceed carefully, one meeting at a time.",
-    "how": "said",
-    "quote": "there could be a need to raise the policy rate further",
-    "qsrc": "testimony to MPs, Nov 3"
+    "how": "implied",
+    "note": "Nov 24: oil costs will reach consumers and keep inflation persistent into 2027; a hike stays on the table, but a temporary shock can be looked through.",
+    "quote": "signals rate hike risk as Oil shock fuels inflation",
+    "qsrc": "headline (FXStreet), Nov 24"
    },
    "following": {
     "call": "",
@@ -1598,13 +1598,13 @@
     "by": "",
     "note": "No predetermined path; the policy rate is still low enough not to restrain growth."
    },
-   "view": "Can no longer look through the energy shock; businesses plan to pass on more costs; CPI near 3.5% by year-end.",
+   "view": "Inflation set to stay persistent as oil costs pass through, with spillover into 2027; the renewed framework allows a sooner, more forceful response to large persistent shocks.",
    "shift": "",
-   "last": "2026-11-05",
-   "ev": "Testimony, Senate banking committee",
-   "basis": "verbatim",
-   "conf": "high",
-   "asof": "2026-11-18"
+   "last": "2026-11-24",
+   "ev": "Speech and press conference on the renewed policy framework",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-25"
   },
   "BoC|Rogers": {
    "votes": {
