@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T06:22:00Z",
+ "built": "2026-11-24T06:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 87,
-   "kept": 38,
+   "kept": 37,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -78,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 70,
-   "added": 9,
+   "fetched": 66,
+   "kept": 37,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -88,11 +88,11 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Why would the Fed consider a half-percentage-point hike in December?",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Fed plans to eliminate some rate-setting meetings, chairman says",
     "Fed Minutes and Governor Waller Point Toward a December Rate Increase",
-    "Interrogating confusion at the Fed",
-    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting",
+    "Fed governor Waller muddies outlook on possible rate hike later this month",
+    "US Fed Official Williams Reaffirms Commitment To Lower Inflation To 2% Target",
+    "Chairman Warsh drastically alters Fed rate statement. Here's what's changed"
    ]
   },
   {
@@ -167,20 +167,11 @@
    "id": "gn_snb",
    "name": "Google News: SNB",
    "kind": "news",
-   "ok": true,
-   "fetched": 13,
-   "kept": 2,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "SNB watching for second-round inflation effects, vice chairman says",
-    "SNB monitoring second-round inflation effects",
-    "Swiss inflation is in range. The SNB isn't taking a victory lap.",
-    "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
-    "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "ft_cb",
