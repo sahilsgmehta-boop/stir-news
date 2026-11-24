@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T01:09:39Z",
+ "built": "2026-11-24T01:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,9 +56,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 83,
-   "kept": 35,
-   "added": 1,
+   "fetched": 75,
+   "kept": 31,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed president pitches FedNow",
@@ -66,11 +66,11 @@
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
-    "What Might the Fed's Beige Book on November 25 Hold for SPDR S&P Regional Banking ETF (NYSEARCA:KRE)?",
     "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?",
     "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
     "Can a 3.70% Friday Slide in the S&P 500 Stall the Fed's December Rate Hike for Vanguard S&P 500 ETF (NYSEARCA:VOO)?",
-    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury "
+    "What Should Investors Expect From Wednesday's PCE Inflation Report Before the Fed's December Hike Decision, and What Does It Mean for iShares 20+ Year Treasury ",
+    "Ringgit Closes Slightly Lower Against US Dollar As Investors Eye Fed's Hawkish Stance"
    ]
   },
   {
@@ -78,8 +78,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 35,
+   "fetched": 64,
+   "kept": 36,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -100,7 +100,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 22,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -108,11 +108,7 @@
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
-    "ECB Opens Collateral Framework To DLT Pilot Securities In June 2027",
-    "ECB Plans Broader Swap Line Access to Protect Euro Area and Strengthen Euro - News and Statistics",
-    "France and Germany set to take key ECB roles",
-    "France Nominates Laurence Boone to ECB Board",
-    "ECB Rate Hike May Not Fully Tame Inflation"
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -120,7 +116,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -133,15 +129,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 5,
+   "fetched": 16,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
-    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -165,8 +160,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
-   "kept": 0,
+   "fetched": 18,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -174,6 +169,10 @@
     "SNB watching for second-round inflation effects, vice chairman says",
     "Swiss inflation is in range. The SNB isn't taking a victory lap.",
     "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+    "Swiss Inflation Has Been Accelerating, SNB Vice President Tells Le Matin Dimanche",
+    "FILE PHOTO: SNB rate decision in Zurich",
+    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING",
+    "SNB monitoring second-round inflation effects",
     "SNB Vice Chairman comes forward after inflation accelerates to a second-round"
    ]
   },
