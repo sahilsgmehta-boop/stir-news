@@ -1,6 +1,46 @@
 {
 "items": [
 {
+"t": "2026-11-24T13:48:07Z",
+"bank": "BoE",
+"speaker": "Greene",
+"hl": "Bank of England’s Greene says UK needs faster rate hikes",
+"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjFfMmJwSEZ0QjA1QUh3VXF0NFljS25qYXVGS1FtMGkzUW41UVkydVlTYTFqWWZFMjBmbDZzV2FQMGh4emxKbkZOT3FaSG1HWnR1anJUdG1aSlBNY3diLVZWV284eWZkMUpkNHI1UXpiSmkyalZjcnNkUWo3UVFRcXFCT19jdmdJMGZUc1FDbkF4d3Fvb0NWSzNUbU1pWDl5bE54LW9KNGZxTWM?oc=5",
+"src": "Investing.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "0d0f009a7399",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
+"t": "2026-11-24T13:29:43Z",
+"bank": "BoE",
+"speaker": "Greene",
+"hl": "BOE ‘Behind the Curve’ Unless War Miraculously Ends, Greene Says",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1dITno4RzZ1SjI4TndYY0dZTHNkVzl0TnNzU1ZuSVA0d29uMmVIMy1kQkVkZmc4MDJQVFZXSm44Qm42dVZBU09fUVZvRzR1TlFUZ2JaS0VVZVpkblMwS2F1TDc1UlpoRUUzSmtUVWlMSHFjSFJWc1BPenp5SldXZDk4NnFvVEI3WnlaZ0RvZnpxUE10SkxPS2ViRzZUSm1kSWhScVpFUEZvME1UY1BkLUlDcGE2YlBXNUhzbzZ3?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "96c01d33d954",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T13:21:35Z",
 "bank": "BoE",
 "speaker": "Greene",
@@ -705,7 +745,8 @@
 "www.marketscreener.com",
 "Reuters",
 "marketscreener.com",
-"Briefs Finance"
+"Briefs Finance",
+"Rich Picks Daily"
 ],
 "desc": "",
 "id": "bfb4311b1234",
