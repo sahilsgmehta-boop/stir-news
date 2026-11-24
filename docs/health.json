@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T05:22:00Z",
+ "built": "2026-11-24T05:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,8 +56,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
-   "kept": 37,
+   "fetched": 89,
+   "kept": 39,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 71,
+   "kept": 72,
    "added": 9,
    "error": "",
    "near_misses": [
@@ -102,7 +102,7 @@
    "ok": true,
    "fetched": 26,
    "kept": 8,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
@@ -118,16 +118,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
+   "fetched": 12,
    "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
-    "France and Germany set to take key ECB roles",
-    "ECB warns of financial stability Risks Linked to AI Valuations",
-    "ECB Rate Hike May Not Fully Tame Inflation",
-    "France Nominates Laurence Boone to ECB Board"
+    "France and Germany set to take key ECB roles"
    ]
   },
   {
@@ -135,7 +131,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -151,7 +147,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 0,
    "added": 0,
    "error": "",
