@@ -1,6 +1,28 @@
 {
 "items": [
 {
+"t": "2026-11-24T15:29:57Z",
+"bank": "ECB",
+"speaker": "Sleijpen",
+"hl": "ECB rate hike likely in December with future path unclear, Sleijpen says",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlZ0Q3BwdU1Kak9EcmtncHZYVUxNQlpkX1pzZXpOenRybElqMTlZci1HUEt2RWJsaFVKMVF4TzgwWFM1bmkyZW82V2hMYWVRYkJ3bXFKNHhJNjJ2My1XQ2pEMWxYTGxoMy1UcWxfTGgyS2JlblNmVnlYMS1YMmJURlZURkdkQTRGV0V5WGFtVEwzcjd1blBGeFctenNtaU5mdGJyb1hiWGxGVnBwYTAtMWVKMTNVUURaSmhqQmZibw?oc=5",
+"src": "Investing.com Nigeria",
+"tier": "comment",
+"tone": "",
+"also": [
+"Investing.com India"
+],
+"desc": "",
+"id": "eecbd10ee1e6",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T15:11:35Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -9,7 +31,9 @@
 "src": "FlipItMoney",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"CNBC"
+],
 "desc": "",
 "id": "9bb2ce2301ee",
 "score": null,
@@ -30,7 +54,10 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Yahoo Finance"
+"Yahoo Finance",
+"Reuters",
+"Euronext Markets: Real-time Stock Market Data | live",
+"Investing.com"
 ],
 "desc": "",
 "id": "5309cb9fe8f6",
@@ -133,7 +160,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"www.tmgm.com"
+],
 "desc": "",
 "id": "dce9bfbed3ad",
 "score": null,
