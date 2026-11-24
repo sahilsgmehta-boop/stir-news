@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T23:09:38Z",
+ "built": "2026-11-24T23:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,8 +7,8 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 12,
-   "added": 0,
+   "kept": 13,
+   "added": 1,
    "error": ""
   },
   {
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 49,
+   "kept": 48,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -68,8 +68,8 @@
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
-    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Fed president pitches FedNow",
+    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
     "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
     "The Fed\u2019s Determination to Cool Inflation Further Pressures Gold",
@@ -81,9 +81,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 34,
-   "added": 5,
+   "fetched": 100,
+   "kept": 63,
+   "added": 8,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -94,8 +94,8 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -103,15 +103,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 17,
+   "fetched": 35,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
@@ -123,8 +121,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 19,
+   "fetched": 28,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -138,14 +136,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 8,
+   "fetched": 41,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "Middle East conflict could force interest rates higher, Bailey warns",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
@@ -154,8 +155,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
-   "kept": 14,
+   "fetched": 47,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -176,7 +177,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 4,
    "added": 0,
    "error": "",

@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-24T22:47:42Z",
+"bank": "Fed",
+"speaker": "",
+"hl": "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
+"url": "https://investinglive.com/central-banks/us-pce-preview-inflation-seen-near-3-8-in-the-fed-s-last-read-before-a-december-hike/",
+"src": "investingLive central banks",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "With a December hike largely priced, the reaction is more likely to come through expectations for early 2027. A core print of 0.4% or more would probably lift front-end Treasury yields and the dollar as traders add to bets on follow-up hikes in January or March. A 0.2% reading would ease that pressure without removing the December move. Gold is exposed to a hot print, since higher rate expectations have weighed on it throughout this tightening cycle. Thin Thanksgiving liquidity adds to the risk of outsized moves across FX, bonds and equity futures. --- A December Fed hike looks all but settled",
+"id": "64de61092ab8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T20:40:29Z",
 "bank": "BoC",
 "speaker": "Macklem",
