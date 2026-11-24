@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T07:37:00Z",
+ "built": "2026-11-24T07:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "ok": true,
    "fetched": 88,
    "kept": 40,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 70,
+   "kept": 69,
    "added": 9,
    "error": "",
    "near_misses": [
@@ -131,13 +131,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 46,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
-    "Gold Slides to a One-Year Low as Fed Hike Bets Lift the Dollar",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
     "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
@@ -147,11 +146,17 @@
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 16,
    "kept": 0,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Speech by Tiff Macklem, Governor of the Bank of Canada",
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "Why did the Bank of Canada raise interest rates to 2.5 per cent?",
+    "GBP/CAD Week Ahead Forecast: Room to Recover, Macklem Permitting"
+   ]
   },
   {
    "id": "gn_snb",
