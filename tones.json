@@ -10651,6 +10651,196 @@
    "basis": "reports",
    "at": "2026-11-23T20:54:30Z",
    "by": "claude"
+  },
+  "55810f791869": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "5de530946683": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "7ad958dfc782": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "a12c1ce41341": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Higher rates needed over time with inflation too high; keeps December hike and more in play.",
+   "sum": "Williams says inflation is still too high and the Fed must keep raising rates over time, without ruling out back-to-back hikes.",
+   "pts": [
+    "Inflation remains too high; the Fed has more work to do to get it back to 2%.",
+    "He sees inflation ending 2026 around 3.5% and staying above 2% until 2028.",
+    "Policy must be forward-looking; higher rates are likely needed over time.",
+    "He would not rule out consecutive hikes; the pace will depend on the data.",
+    "The economy remains resilient.",
+    "In Q&A he blamed unusual factors for inflation and expects it to fall in 2027."
+   ],
+   "rr": "Supports the 25bp hike priced for December 9 and adds upside risk to a follow-up in January; the softer Q&A tone limits pressure for a 50bp move. Only news paraphrases were available.",
+   "ev": "Speech and Q&A (New York Fed president)",
+   "basis": "reports",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "bfb4311b1234": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "More work needed to bring inflation to target; supports further tightening.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "0248c60f1fd0": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Signals higher rates likely over time to address inflation.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "674f58901eb0": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Stresses bringing inflation to 2%, backing continued tightening.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "276fba20171e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says Fed has work to do on inflation; more hikes implied.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "741819d00048": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Signals further tightening as inflation stays elevated.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "467993601baf": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Forward-looking policy needed to lower inflation; leans to more hikes.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "81df8578ac1b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Notes progress on inflation; descriptive, no new signal on rates.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "402cf08b34e4": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Sees inflation ending 2026 at 3.5%, well above target; supports tightening.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "be9753b67b66": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Q&A blames unusual factors and sees inflation easing in 2027; softer tone.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "a8f7b8204856": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Keeps December hike in play with inflation above 2% until 2028.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "9b58b3206e2c": {
+   "tone": "hawk",
+   "score": 3,
+   "read": "Keeps options open on hike pace; more tightening still expected.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "a6f23ad5af6d": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Describes a resilient economy; mildly supportive of tightening, no new signal.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "a5ddb3856e33": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Won't rule out back-to-back hikes; adds upside risk to January pricing.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "64f7f77ccec3": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Inflation still too high; more hikes possible.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "fef6f52a00ae": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "A known dove says the ECB cannot wait for full energy pass-through before reacting.",
+   "sum": "Stournaras says the ECB cannot wait to see the full wage and price impact of the energy shock before reacting.",
+   "pts": [
+    "The energy shock's effects on wages and prices are still feeding through.",
+    "Waiting for the full impact before acting would risk falling behind.",
+    "Coming from one of the ECB's doves, it signals openness to further tightening."
+   ],
+   "rr": "Hawkish at the margin for a dove: adds weight to pricing of a further ECB hike, though he named no meeting or size. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "d9892d56d2bc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Warning on tokenised asset markets; nothing on rates.",
+   "sum": "Lagarde warns Europe could lose control of the fast-growing market for tokenised assets.",
+   "pts": [
+    "She flagged the rapid growth of tokenised financial assets.",
+    "She warned Europe risks losing control of this market to others."
+   ],
+   "rr": "No implication for the rate path. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
+  },
+  "8f18639d1bed": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Commentary on Warsh's AI scenarios; nothing on the rate path.",
+   "at": "2026-11-24T06:50:10Z",
+   "by": "claude"
   }
  }
 }

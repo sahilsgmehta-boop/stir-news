@@ -297,30 +297,30 @@
    "stance": "centre",
    "next": {
     "call": "+25",
-    "note": "Ruled out a jumbo (50bp) move for December and says more hikes are likely needed, implying 25bp.",
+    "note": "Nov 23: inflation too high, rates likely need to rise over time; kept a December hike in play (Nov 17 ruled out 50bp).",
     "how": "implied",
     "quote": "rules out jumbo rate hike for December",
     "qsrc": "headline, Nov 17"
    },
    "following": {
     "call": "open",
-    "note": "Gradual, data-led steps 'over time'.",
+    "note": "Nov 23: would not rule out back-to-back hikes; pace depends on the data.",
     "how": "said",
-    "quote": "don't need drastic action on rates",
-    "qsrc": "headline (Reuters), Nov 17"
+    "quote": "won't rule out back-to-back rate hikes",
+    "qsrc": "headline (investingLive), Nov 23"
    },
    "path": {
-    "total": "more hikes, gradually",
+    "total": "more hikes, over time",
     "by": "",
-    "note": "Said the AI boom could lead to more hikes in 2027."
+    "note": "Sees inflation ending 2026 near 3.5% and above 2% until 2028; said the AI boom could mean more hikes in 2027 (Nov 17)."
    },
-   "view": "Inflation too high and not moving in the right direction; economy getting stronger; recent gradual steps are working.",
-   "shift": "More hawkish: Oct 13 saw no 2027 hike and Nov 6 wanted to gather more data; now sees more hikes likely, possibly into 2027.",
-   "last": "2026-11-17",
-   "ev": "Axios BFD Summit, New York",
+   "view": "Inflation too high and the Fed has more work to do; higher rates likely needed over time, with the pace set by data.",
+   "shift": "Slightly more hawkish on pace: Nov 17 stressed gradual steps; Nov 23 would not rule out back-to-back hikes.",
+   "last": "2026-11-23",
+   "ev": "Speech and Q&A, New York",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-24"
   },
   "Fed|Hammack": {
    "votes": {
@@ -1127,13 +1127,13 @@
     "by": "",
     "note": ""
    },
-   "view": "",
-   "shift": "",
-   "last": "",
+   "view": "Nov 24: the ECB cannot wait for the full wage and price effects of the energy shock before reacting; no meeting or size named.",
+   "shift": "More hawkish than his usual dovish lean (Nov 24).",
+   "last": "2026-11-24",
    "ev": "",
-   "basis": "",
+   "basis": "reports",
    "conf": "low",
-   "asof": "2026-11-18"
+   "asof": "2026-11-24"
   },
   "ECB|Kaasik": {
    "votes": {
