@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T10:37:00Z",
+ "built": "2026-11-24T10:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,21 +57,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
+   "fetched": 88,
    "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Fed president pitches FedNow",
     "Trump-Picked Fed Vice Chair Faces Probe Over Blackout-Period Dinner",
     "Fed's watchdog investigates whether Bowman violated communications rules - report",
     "Market turmoil puts Fed\u2019s rate-hike plans under pressure",
     "Fed\u2019s preferred inflation index to show price gains well above target - Truflation",
     "Fed chair Kevin Warsh and the FOMC have a new concern, and it has nothing to do with Trumpflation",
-    "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided",
-    "Wall Street Is Doing the Fed's Dirty Work \u2014 But Will It Be Enough to Stop the Rate Hikes?"
+    "Hedge Fund Billionaire Bill Ackman Says the Fed\u2019s 2 Percent Inflation Target Is Misguided"
    ]
   },
   {
@@ -119,12 +119,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 20,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "France and Germany set to take key ECB roles"
+    "Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings U",
+    "France and Germany set to take key ECB roles",
+    "ECB warns of financial stability Risks Linked to AI Valuations",
+    "ECB Rate Hike May Not Fully Tame Inflation",
+    "France Nominates Laurence Boone to ECB Board"
    ]
   },
   {
@@ -132,15 +136,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 46,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Students meet the Bank of England Governor",
     "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -148,7 +152,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
