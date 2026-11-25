@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T06:37:00Z",
+ "built": "2026-11-25T06:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 43,
+   "kept": 44,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -68,10 +68,10 @@
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Fed president pitches FedNow",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
-    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
-    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January"
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update"
    ]
   },
   {
@@ -79,9 +79,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
-   "kept": 37,
-   "added": 5,
+   "fetched": 100,
+   "kept": 63,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -93,7 +93,7 @@
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -101,15 +101,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 16,
+   "fetched": 40,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -118,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 16,
+   "fetched": 25,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -165,8 +167,8 @@
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada keeps 2% inflation target but adjusts what to track"
+    "Bank of Canada keeps 2% inflation target but adjusts what to track",
+    "Bank of Canada refines inflation-targeting framework for shock-prone world"
    ]
   },
   {
