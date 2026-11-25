@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T07:22:01Z",
+ "built": "2026-11-25T07:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -78,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
-   "kept": 37,
-   "added": 5,
+   "fetched": 100,
+   "kept": 63,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -92,7 +92,7 @@
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 16,
+   "fetched": 34,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -147,8 +147,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 13,
+   "fetched": 48,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -169,7 +169,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
