@@ -1058,7 +1058,7 @@
    "stance": "lean hawk",
    "next": {
     "call": "hike",
-    "note": "Says the ECB cannot fall behind the curve on rates (Nov 25), firming his Oct 30 conditional hike view; no size given.",
+    "note": "Nov 25: ECB cannot fall behind the curve; market pricing not unreasonable; inflation outlook likely revised up in December. No size given.",
     "how": "implied"
    },
    "following": {
@@ -1070,10 +1070,10 @@
     "by": "",
     "note": ""
    },
-   "view": "Wants to keep inflation from becoming entrenched and says the ECB cannot fall behind the curve on rates.",
+   "view": "Wants to keep inflation from becoming entrenched; says the ECB cannot fall behind the curve and current market pricing is not unreasonable.",
    "shift": "More hawkish: from a conditional hike (Oct 30) to warning against falling behind the curve (Nov 25).",
    "last": "2026-11-25",
-   "ev": "",
+   "ev": "Remarks (reported by Bloomberg)",
    "basis": "reports",
    "conf": "medium",
    "asof": "2026-11-25"
@@ -1305,11 +1305,11 @@
    },
    "stance": "centre",
    "next": {
-    "call": "+25",
-    "note": "Nov 18: the longer the Middle East conflict keeps energy prices high, the higher rates likely need to go; conflict is in its ninth month. (Nov 5: second hike more likely than not if war goes on.)",
+    "call": "hold or +25",
+    "note": "Nov 25 (TSC): further hikes needed if energy prices stay high; a lower inflation peak if they stabilise.",
     "how": "implied",
-    "quote": "second BOE hike more likely than not if war goes on",
-    "qsrc": "headline (Bloomberg), Nov 5"
+    "quote": "flags further rate hikes if energy prices stay high",
+    "qsrc": "headline (FXStreet), Nov 25"
    },
    "following": {
     "call": "open",
@@ -1323,13 +1323,13 @@
     "by": "",
     "note": "Higher rates the longer energy prices stay high; no pre-set path (Nov 18 speech)."
    },
-   "view": "Pipeline inflation pressure justified the hike to 4%; little evidence yet of energy costs spreading to wages and prices, but a longer conflict would need higher rates. Slack has stabilised.",
-   "shift": "",
-   "last": "2026-11-18",
-   "ev": "Speech, Institute of Economic Development conference (London)",
-   "basis": "verbatim",
-   "conf": "high",
-   "asof": "2026-11-19"
+   "view": "Further tightening depends on energy: hikes needed if prices stay high, while stabilising energy would mean a lower inflation peak than forecast.",
+   "shift": "Slightly softer: from +25 implied (Nov 18) to conditional on energy (Nov 25), as lower oil pulls the peak down.",
+   "last": "2026-11-25",
+   "ev": "Treasury Committee hearing",
+   "basis": "reports",
+   "conf": "medium",
+   "asof": "2026-11-25"
   },
   "BoE|Mann": {
    "votes": {
@@ -1340,26 +1340,27 @@
    "next": {
     "call": "+50",
     "how": "vote",
-    "note": "Her last vote (Nov 5) was for 50bp, citing non-linear inflation risks and credibility. No remarks since, so this is her November vote carried forward, not a new call for December.",
+    "note": "Voted 50bp on Nov 5; on Nov 25 told MPs the best response is to hike more and sooner.",
     "quote": "a 50-basis point hike in Bank Rate is 'good policy'",
     "qsrc": "November MPC minutes"
    },
    "following": {
-    "call": "",
-    "note": ""
+    "call": "hike",
+    "note": "Nov 25: wants rates raised more and sooner; no size named for February.",
+    "how": "implied"
    },
    "path": {
     "total": "",
     "by": "",
-    "note": ""
+    "note": "Wants more and earlier hikes; no level given."
    },
-   "view": "Sees non-linear inflation risks with CPI heading to about 4.9% by mid-2027, and a large inflation risk premium in gilts.",
-   "shift": "Has long argued for 'activist' bigger moves over gradual steps; voted for 25bp hikes in July and September before 50bp in November.",
-   "last": "2026-11-05",
-   "ev": "MPC vote and minutes",
-   "basis": "verbatim",
-   "conf": "medium",
-   "asof": "2026-11-18"
+   "view": "Upside risks to inflation expectations call for bigger, earlier hikes; bigger moves work faster on firms' pricing.",
+   "shift": "",
+   "last": "2026-11-25",
+   "ev": "Treasury Committee hearing",
+   "basis": "reports",
+   "conf": "high",
+   "asof": "2026-11-25"
   },
   "BoE|Pill": {
    "votes": {
@@ -1435,7 +1436,7 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Likely case for a further near-term increase unless inflation pressure weakens (minutes, Nov 10 speech); told the Guardian she does not rule out December.",
+    "note": "Nov 25 (TSC): greater risk of second-round effects and services disinflation may have stalled; earlier said a near-term hike likely and did not rule out December.",
     "how": "implied",
     "quote": "interest rates are likely to rise further",
     "qsrc": "headline (Bloomberg), Nov 10"
@@ -1452,13 +1453,13 @@
     "by": "",
     "note": ""
    },
-   "view": "Risk that persistent inflation crystallises; balance of risks to the upside; labour market in low gear.",
+   "view": "Sees a rising risk of second-round inflation and an economy stronger than expected, though lower oil points to a lower inflation peak.",
    "shift": "",
-   "last": "2026-11-10",
-   "ev": "Speech, BoE Watchers' Conference",
+   "last": "2026-11-25",
+   "ev": "Treasury Committee hearing",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-25"
   },
   "BoE|Breeden": {
    "votes": {
@@ -1523,9 +1524,9 @@
    },
    "stance": "lean dove",
    "next": {
-    "call": "open",
-    "note": "Would need clear evidence of recovering pricing power and wage-price pressure before keeping rates high for longer.",
-    "how": "vote"
+    "call": "hold",
+    "note": "Nov 25 (TSC): disinflation on track; questioned keeping rates high, implying no further hike.",
+    "how": "implied"
    },
    "following": {
     "call": "",
@@ -1536,13 +1537,13 @@
     "by": "",
     "note": ""
    },
-   "view": "Saw the November hike as insurance against stronger pass-through.",
-   "shift": "",
-   "last": "2026-11-05",
-   "ev": "MPC minutes",
-   "basis": "verbatim",
-   "conf": "medium",
-   "asof": "2026-11-18"
+   "view": "Sees disinflation on track and questions the case for keeping rates high.",
+   "shift": "More dovish: from open (Nov 5 minutes) to questioning high rates (Nov 25).",
+   "last": "2026-11-25",
+   "ev": "Treasury Committee hearing",
+   "basis": "reports",
+   "conf": "low",
+   "asof": "2026-11-25"
   },
   "BoE|Taylor": {
    "votes": {

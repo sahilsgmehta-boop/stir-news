@@ -11273,6 +11273,192 @@
    "basis": "reports",
    "at": "2026-11-25T11:54:26Z",
    "by": "claude"
+  },
+  "d1e65cf76888": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Recaps Williams' Nov 23 message that more hikes remain in play; no fresh remark.",
+   "sum": "Nov 25 write-ups recap Williams' Nov 23 message: inflation is still too high and further rate hikes remain in play, with inflation expected to ease in 2027.",
+   "pts": [
+    "No new Williams remarks; the stories repeat his Nov 23 speech and Q&A.",
+    "He said inflation is too high and rates likely need to rise over time.",
+    "He would not rule out hikes at consecutive meetings.",
+    "He expects inflation to come down in 2027 as unusual factors fade."
+   ],
+   "rr": "Keeps support for the 25bp December hike priced and the risk of a January follow-up; adds nothing new to pricing. Only news paraphrases were available.",
+   "ev": "Reports on Nov 23 speech and Q&A",
+   "basis": "reports",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "dab685a01159": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Analysis of Williams' view that inflation can ease without weaker growth; no new remark.",
+   "lead": "d1e65cf76888",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "daf026b0c256": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says the ECB will likely revise its inflation outlook up in December, backing a hike.",
+   "lead": "53f217a1155e",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "ede36f3a1a71": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Calls market pricing not unreasonable, validating the priced December hike without adding to it.",
+   "lead": "53f217a1155e",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "6b5b492fa4b9": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Supervision modernisation remarks; nothing on the economy or rates.",
+   "sum": "Bowman spoke on banking supervision, urging decisive action to modernise supervision and focus on material risks, and gave no view on the economy or monetary policy.",
+   "pts": [
+    "Said decisive action is key to modernising supervision.",
+    "Urged Latin American regulators to prioritise material financial risks.",
+    "Did not comment on the economic or monetary policy outlook."
+   ],
+   "rr": "No signal for the December FOMC; her last rate view (open, data-dependent) stands. Only news paraphrases were available.",
+   "ev": "Remarks, banking supervision conference",
+   "basis": "reports",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "869463765ece": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "No comment on the economic or policy outlook.",
+   "lead": "6b5b492fa4b9",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "acd8b5ab3d87": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Supervisory priorities for regulators; nothing on rates.",
+   "lead": "6b5b492fa4b9",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "bdb136833f82": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "d12db8f0d242": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "131f93aa7315": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Event headline for Bailey's Treasury Committee testimony; the substance is in other reports.",
+   "sum": "Bailey told MPs inflation could peak lower than forecast if energy prices stabilise, but further rate rises would be needed if energy costs stay high.",
+   "pts": [
+    "Lower energy prices could mean a lower inflation peak than in the November forecast.",
+    "If energy prices stay high, further rate hikes would be needed.",
+    "Policy remains tied to how long the energy shock lasts; no pre-set path."
+   ],
+   "rr": "Keeps a December hike live but conditional on energy prices; the lower-peak point slightly softens the case versus his Nov 18 speech. Only news paraphrases were available.",
+   "ev": "Treasury Committee hearing on the November MPR",
+   "basis": "reports",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "953376833a33": {
+   "tone": "dove",
+   "score": -3,
+   "read": "A lower inflation peak if energy stabilises softens the case for further hikes.",
+   "lead": "131f93aa7315",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "1e6b56b19272": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Flags more hikes if energy prices stay high, keeping December in play.",
+   "lead": "131f93aa7315",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "335cbe5dfcdb": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Sees higher risk of second-round effects and stalled services disinflation; backs more tightening.",
+   "sum": "Lombardelli told MPs the risk of energy costs feeding into wages and prices has grown, even though lower oil prices point to a lower inflation peak.",
+   "pts": [
+    "Sees a greater risk of second-round inflation effects.",
+    "Says the economy has been stronger than the Bank expected.",
+    "Services disinflation may have stalled; food inflation seen near 5% next year.",
+    "Lower oil prices mean the inflation peak is likely below the November forecast.",
+    "Called the latest wage data mixed."
+   ],
+   "rr": "Supports a further hike in December; the lower-peak comment tempers any case for faster moves. Only news paraphrases were available.",
+   "ev": "Treasury Committee hearing on the November MPR",
+   "basis": "reports",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "22afdf66f659": {
+   "tone": "dove",
+   "score": -4,
+   "read": "Says disinflation is on track and questions keeping rates high; pushes back on more hikes.",
+   "sum": "Dhingra told MPs disinflation remains on track and questioned the case for keeping rates high, the committee's clearest pushback on further hikes.",
+   "pts": [
+    "Sees disinflation still on track.",
+    "Questions the need to keep rates high."
+   ],
+   "rr": "Leans against the December hike and further tightening; likely a dissent risk on the dovish side. Only news paraphrases were available.",
+   "ev": "Treasury Committee hearing on the November MPR",
+   "basis": "reports",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "68394595ce01": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "Says the best response is to hike more and sooner as inflation-expectation risks rise.",
+   "sum": "Mann told MPs the optimal response to upside inflation-expectation risks is to raise rates more and sooner, arguing bigger moves work faster on firms' pricing.",
+   "pts": [
+    "Risks to inflation expectations are tilted to the upside.",
+    "The optimal response is to hike rates more and sooner.",
+    "Larger moves have more effect on firms' pricing decisions.",
+    "Energy futures have been a poor guide to prices.",
+    "Doubts squeezed profit margins will keep restraining inflation."
+   ],
+   "rr": "Points to a 50bp vote again in December and more hikes into 2027; pushes against the gradual 25bp pace priced. Only news paraphrases were available.",
+   "ev": "Treasury Committee hearing on the November MPR",
+   "basis": "reports",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
+  },
+  "4b3ed1fd96eb": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Recaps Macklem's warning of second-round oil effects as December hike odds rise.",
+   "sum": "A Nov 25 report recaps Macklem's warning that the oil shock risks second-round effects on inflation, as market odds of a December BoC hike rise.",
+   "pts": [
+    "Warns the oil shock could spill into broader prices in 2027.",
+    "Market odds of a December hike have risen.",
+    "Repeats his Nov 24 framework-speech message; no new remarks."
+   ],
+   "rr": "Supports some December hike pricing for the BoC, though Macklem has not committed. Only news paraphrases were available.",
+   "ev": "Report on Nov 24 speech and press conference",
+   "basis": "reports",
+   "at": "2026-11-25T20:55:58Z",
+   "by": "claude"
   }
  }
 }
