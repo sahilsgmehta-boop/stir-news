@@ -145,6 +145,7 @@ def ff_speeches(now):
 # The banks' own published schedules are the most reliable times; they are used
 # first and ForexFactory fills in the rest (regional Fed presidents, BoE, SNB).
 ET, CET = ZoneInfo("America/New_York"), ZoneInfo("Europe/Berlin")
+LON, ZRH = ZoneInfo("Europe/London"), ZoneInfo("Europe/Zurich")
 SPEAK_ECB = re.compile(r"speech|speaks|keynote|remarks|panel|fireside|conversation|hearing|testimony|"
                        r"introductory statement|interview|lecture|press conference|dialogue|address", re.I)
 
@@ -261,9 +262,170 @@ def boc_events(start, end):
     return out
 
 
+MPC = ("Bailey", "Lombardelli", "Breeden", "Ramsden", "Pill", "Mann", "Dhingra", "Greene", "Taylor")
+WEEKDAYS = r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)"
+
+
+def _year_for(day, mon, now):
+    """the year that puts '25 November' nearest to today (pages give no year)"""
+    best = None
+    for y in (now.year - 1, now.year, now.year + 1):
+        try:
+            d = datetime(y, mon, day)
+        except ValueError:
+            continue
+        if best is None or abs((d - now.replace(tzinfo=None)).days) < abs((best - now.replace(tzinfo=None)).days):
+            best = d
+    return best
+
+
+def _ampm(txt):
+    """'(2.15pm)' / '(1pm GMT)' / '(10.30am)' -> (h, m) or None"""
+    m = re.search(r"(\d{1,2})(?:[.:](\d\d))?\s*(am|pm)", txt or "", re.I)
+    if not m:
+        return None
+    h, mi = int(m.group(1)), int(m.group(2) or 0)
+    return h % 12 + (12 if m.group(3).lower() == "pm" else 0), mi
+
+
+def boe_events(start, end):
+    """The Bank of England's 'Upcoming events' page: MPC members' and staff appearances,
+    Treasury Committee hearings and flagship publications, by day, London time."""
+    page = get("https://www.bankofengland.co.uk/events/upcoming-events")
+    a = page.find("<h2>"); b = page.find("Upcoming key publications")
+    body = page[a:b if b > a else len(page)]
+    body = re.sub(r"<br\s*/?>|</p>|</h[1-6]>|</div>|</li>", "\n", body, flags=re.I)
+    lines = [re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", x))).strip() for x in body.split("\n")]
+    now = datetime.now(timezone.utc)
+    out, day = [], None
+    for ln in lines:
+        if not ln:
+            continue
+        dm = re.match(WEEKDAYS + r"\s+(\d{1,2})\s+([A-Za-z]+)\s*$", ln)
+        if dm:
+            try:
+                mon = datetime.strptime(dm.group(3)[:3], "%b").month
+                day = _year_for(int(dm.group(2)), mon, now)
+            except ValueError:
+                day = None
+            continue
+        if re.match(r"\d{1,2}\s+(?:[A-Za-z]+\s+)?(?:to|-|–)\s+\d", ln):
+            day = None                        # a week heading: '30 November to 4 December'
+            continue
+        if day is None or "No upcoming events" in ln:
+            continue
+        ck = _ampm(ln)
+        text = re.sub(r"\s*\([^()]*\d\s*(am|pm)[^()]*\)\s*\.?\s*$", "", ln, flags=re.I).strip(" .")
+        if not text:
+            continue
+        t = day.replace(hour=ck[0], minute=ck[1]) if ck else day.replace(hour=12)
+        if not (start.replace(tzinfo=None) - timedelta(days=1) <= t <= end.replace(tzinfo=None)):
+            continue
+        who, sep, what = text.partition(": ")
+        if sep and len(who) < 120 and not re.search(r"\d{4}", who):
+            names = [n.strip() for n in re.split(r",| and ", who) if n.strip()]
+            sur = [n.split()[-1] for n in names]
+            mpc = [x for x in sur if x in MPC]
+            hearing = re.search(r"Committee", what)
+            verb = "testify" if hearing and len(sur) > 1 else "testifies" if hearing else "speak" if len(sur) > 1 else "speaks"
+            label = f"BoE {', '.join(sur)} {verb}: {what}" + (" (hearing)" if hearing else "")
+            if hearing and re.search(r"Monetary Policy Report", what):
+                imp = 1
+            elif "Bailey" in sur:
+                imp = 1
+            elif mpc:
+                imp = 0
+            else:
+                imp = -1                      # Bank staff outside the MPC
+        else:
+            label = "BoE " + text            # a publication: FSR, FPC record, MPR
+            imp = 0 if re.search(r"Financial Stability Report|Monetary Policy|Financial Policy Committee", text) else -1
+        out.append(_ev("BoE", t, LON, "GB", label[:170], imp, allday=not ck))
+    return out
+
+
+BOE_PARL = re.compile(r"Bank of England|Monetary Policy|Financial Stability|Prudential Regulation|Financial Policy", re.I)
+
+
+def uk_parliament(start, end):
+    """Commons Treasury Committee and Lords Economic Affairs Committee hearings with the
+    Bank of England, from Parliament's committees API (London time)."""
+    out = []
+    for cid, cname in ((158, "Treasury Committee"), (175, "Lords Economic Affairs Committee")):
+        url = ("https://committees-api.parliament.uk/api/Events?CommitteeId=%d&StartDateFrom=%s&StartDateTo=%s&Take=60"
+               % (cid, (start - timedelta(days=1)).strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d")))
+        d = json.loads(get(url, ("Accept: application/json",)))
+        for e in d.get("items") or []:
+            if e.get("cancelledDate"):
+                continue
+            titles = [b.get("title", "") for b in e.get("committeeBusinesses") or []] + [e.get("name", "")]
+            topic = next((x for x in titles if BOE_PARL.search(x)), None)
+            if not topic:
+                continue
+            pub = [a for a in e.get("activities") or [] if not a.get("isPrivate")]
+            st = (pub[0] if pub else e).get("startDate")
+            try:
+                t = datetime.fromisoformat(st[:19])
+            except (TypeError, ValueError):
+                continue
+            wit = []
+            for a in pub:
+                for x in a.get("attendees") or []:
+                    nm = (x.get("name") or "").strip()
+                    if nm:
+                        wit.append(nm.split()[-1])
+            label = f"UK {cname} hearing: {topic}" + (f" ({', '.join(wit[:6])})" if wit else "")
+            imp = 1 if re.search(r"Monetary Policy Report", topic) else 0
+            out.append(_ev("UKParl", t, LON, "GB", label[:170], imp))
+    return out
+
+
+def snb_schedule(start, end):
+    """The SNB's time schedule: news conferences, Governing Board speeches and panels, the
+    summary of the monetary policy discussion and the Financial Stability Report (Zurich time)."""
+    page = get("https://www.snb.ch/en/services-events/digital-services/event-schedule")
+    cut = page.find("Past appearances")
+    page = page[:cut] if cut > 0 else page
+    out = []
+    for li in re.findall(r"<li class=\"col-12 link-list-item\">(.*?)</li>", page, re.S):
+        dm = re.search(r"publication-date[^>]*>\s*(\d\d)\.(\d\d)\.(\d{4})", li)
+        tm = re.search(r"publication-type[^>]*>\s*(\d\d):(\d\d)", li)
+        hm = re.search(r"<h3[^>]*>(.*?)</h3>", li, re.S)
+        if not dm or not hm:
+            continue
+        title = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", hm.group(1)))).replace("﻿", "").strip()
+        try:
+            t = datetime(int(dm.group(3)), int(dm.group(2)), int(dm.group(1)), int(tm.group(1)) if tm else 12, int(tm.group(2)) if tm else 0)
+        except ValueError:
+            continue
+        if not (start.replace(tzinfo=None) - timedelta(days=1) <= t <= end.replace(tzinfo=None)):
+            continue
+        if re.search(r"Monetary policy assessment.*news conference", title, re.I):
+            label, imp = "SNB press conference after the rate decision", 1
+        elif re.search(r"Monetary policy assessment", title, re.I):
+            continue                          # the decision itself comes from TradingView
+        elif re.search(r"Summary of monetary policy discussion", title, re.I):
+            label, imp = "SNB Summary of monetary policy discussion", 0
+        elif re.search(r"Financial Stability Report", title, re.I):
+            label, imp = "SNB " + title, 0
+        elif re.search(r"speech|panel|presentation|fireside|remarks|talk|interview|conversation|lecture", title, re.I):
+            m = re.match(r"(?:Speech by\s+)?(.+?)(?:,\s*|\s*:\s*)(.*)", title)
+            who, what = (m.group(1), m.group(2)) if m else ("", title)
+            sur = [n.strip().split()[-1] for n in re.split(r" and |,", who) if n.strip()][:3]
+            label = f"SNB {', '.join(sur)} speaks: {what}" if sur else "SNB " + title
+            imp = 1 if "Schlegel" in who else 0
+        else:
+            continue                          # balance of payments, annual results, bulletins
+        out.append(_ev("SNB", t, ZRH, "CH", label[:170], imp, allday=not tm))
+    return out
+
+
+OFFICIAL = ("FedBoard", "ECB", "BoC", "BoE", "UKParl", "SNB")
+
 STOP = {"speaks", "speech", "member", "president", "governor", "chair", "deputy", "fomc", "board",
         "vice", "supervision", "remarks", "keynote", "panel", "discussion", "participation", "economic",
-        "outlook", "conference", "german", "buba", "conversation", "external"}
+        "outlook", "conference", "german", "buba", "conversation", "external", "testify", "testifies",
+        "hearing", "committee", "treasury", "select", "bank", "england", "speak"}
 
 
 def _names(s):
@@ -284,10 +446,10 @@ def merge_speeches(events, official, ff):
     A TradingView speech that matches an official one is replaced by it."""
     stats = {"official": len(official), "ff": len(ff), "added": 0, "replaced": 0}
     for o in official:
-        tv = [e for e in events if SPEECH.search(e["title"]) and _same(e, o)]
+        tv = [e for e in events if e.get("src") not in OFFICIAL and SPEECH.search(e["title"]) and _same(e, o)]
         for e in tv:
             events.remove(e); stats["replaced"] += 1
-        if not any(e.get("src") in ("FedBoard", "ECB", "BoC") and _same(e, o, 1) for e in events):
+        if not any(e.get("src") in OFFICIAL and e.get("src") != o["src"] and _same(e, o, 1) for e in events):
             events.append(o); stats["added"] += 1
     for f in ff:
         if any(_same(e, f) for e in events if SPEECH.search(e["title"]) or e.get("src")):
@@ -318,7 +480,8 @@ def main():
             health["errors"].append(f"ForexFactory: {e}"[:200])
     if events and health["source"] == "TradingView":
         official, counts = [], {}
-        for name, fn in (("Fed Board", fed_board), ("ECB", ecb_weekly), ("BoC", boc_events)):
+        for name, fn in (("Fed Board", fed_board), ("ECB", ecb_weekly), ("BoC", boc_events),
+                         ("BoE", boe_events), ("UK Parliament", uk_parliament), ("SNB", snb_schedule)):
             try:
                 got = fn(start, end); official += got; counts[name] = len(got)
             except Exception as e:  # noqa: BLE001
@@ -335,7 +498,7 @@ def main():
         # a coverage check, so a source going quiet is noticed: a normal week has
         # well over a dozen central bank speakers across these banks
         wk = now + timedelta(days=7)
-        n7 = sum(1 for e in events if SPEECH.search(e["title"]) or e.get("src") in ("FedBoard", "ECB", "BoC")
+        n7 = sum(1 for e in events if SPEECH.search(e["title"]) or e.get("src") in OFFICIAL
                  if now - timedelta(hours=12) <= datetime.fromisoformat(e["t"].replace("Z", "+00:00")) <= wk)
         stats["next_7_days"] = n7
         if n7 < 5:
