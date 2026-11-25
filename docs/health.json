@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T18:52:00Z",
+ "built": "2026-11-25T19:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 31,
+   "kept": 29,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -73,7 +73,7 @@
     "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
     "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
     "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
+    "More firms say AI is holding back hiring, Cleveland Fed survey finds"
    ]
   },
   {
@@ -103,15 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 14,
+   "fetched": 51,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
+    "France Makes Leading the ECB a Perilous Job to Fill",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "ECB Approves Wider Tokenized Collateral Access for 2027",
+    "France and Germany candidates set for crucial ECB leadership vote",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
    ]
   },
   {
@@ -133,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
+   "fetched": 32,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -153,8 +159,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 12,
+   "fetched": 75,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
