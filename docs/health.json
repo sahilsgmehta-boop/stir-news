@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T12:37:00Z",
+ "built": "2026-11-25T12:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,19 +58,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 40,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bill Ackman warns the Fed\u2019s obsession with 2% inflation will plunge the world into recession: \u2018Tell me why I am wrong\u2019",
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
-    "Will the Fed raise interest rates this year? Divided economists weigh in",
+    "Inflation report to provide Fed's preferred gauge of prices ahead of possible rate hike",
     "Bond And Credit Markets Signal The Fed's Hawkish Tilt Is Too Tight As Oil Retreats",
     "Fed president pitches FedNow",
     "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
-    "Inflation report to provide Fed's preferred gauge of prices ahead of possible rate hike",
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Most US Treasury Yields Fall Pre-Bell Ahead of Fed's Preferred Inflation Data, Q3 GDP Estimate, Durable Goods Orders",
-    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data"
+    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
+    "Fed holds interest rates steady as inflation hits 3-year high"
    ]
   },
   {
@@ -78,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
-   "kept": 35,
-   "added": 5,
+   "fetched": 65,
+   "kept": 34,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -101,7 +101,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 47,
-   "kept": 18,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -109,12 +109,12 @@
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
+    "France Makes Leading the ECB a Perilous Job to Fill",
     "Who runs the ECB? Capitals haggle as experts call for merit",
     "Lagarde appointed European Central Bank's head",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
-    "France and Germany candidates set for crucial ECB leadership vote",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
+    "France and Germany candidates set for crucial ECB leadership vote"
    ]
   },
   {
@@ -122,8 +122,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 18,
+   "fetched": 21,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 21,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -144,10 +144,8 @@
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
-    "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "New HMRC late payment interest rates confirmed after Bank of England update"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -155,7 +153,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 49,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -163,13 +161,13 @@
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
+    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada refines inflation-targeting framework for shock-prone world"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
   {
@@ -177,7 +175,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
