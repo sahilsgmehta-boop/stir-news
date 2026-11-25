@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T19:07:00Z",
+ "built": "2026-11-25T19:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 29,
+   "kept": 35,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -72,8 +72,8 @@
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
     "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
-    "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-    "More firms say AI is holding back hiring, Cleveland Fed survey finds"
+    "More firms say AI is holding back hiring, Cleveland Fed survey finds",
+    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
    ]
   },
   {
@@ -103,21 +103,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
-   "kept": 18,
+   "fetched": 26,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "France Makes Leading the ECB a Perilous Job to Fill",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "ECB Approves Wider Tokenized Collateral Access for 2027",
-    "France and Germany candidates set for crucial ECB leadership vote",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -139,12 +133,13 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 33,
    "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England Rate-Setters Leave December Hike on the Table",
+    "UK food inflation could hit 5% next year, Bank of England says",
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
     "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee",
     "Higher economic activity and stronger labour market pushed Bank of England to hike rates",
@@ -159,13 +154,13 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
-   "kept": 16,
+   "fetched": 58,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "End-year inflation could be less than forecast, says Bank of Canada",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
