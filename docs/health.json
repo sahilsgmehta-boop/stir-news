@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T09:37:01Z",
+ "built": "2026-11-25T09:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -77,7 +77,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 64,
    "added": 7,
    "error": "",
    "near_misses": [
@@ -98,16 +98,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
-   "kept": 15,
+   "fetched": 45,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
-    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "ECB Expands Tokenized Securities Collateral from June 2027",
+    "ECB Rate Hike May Not Fully Tame Inflation"
    ]
   },
   {
@@ -115,8 +119,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 15,
+   "fetched": 20,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -129,7 +133,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 36,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -149,8 +153,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
-   "kept": 14,
+   "fetched": 46,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -160,10 +164,10 @@
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+    "Bank of Canada refines inflation-targeting framework for shock-prone world"
    ]
   },
   {
@@ -171,7 +175,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
