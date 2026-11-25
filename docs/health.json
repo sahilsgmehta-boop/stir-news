@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T22:07:01Z",
+ "built": "2026-11-25T22:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": ""
   },
@@ -35,8 +35,7 @@
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI risks are the biggest threat to the financial system, Fed survey finds",
-    "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%"
+    "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight"
    ]
   },
   {
@@ -57,21 +56,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 28,
+   "fetched": 100,
+   "kept": 24,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed's Beige Book shows evidence of broadening price pressures",
+    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "Fed\u2019s Beige Book Is a Mixed Bag, but Gives Doves Little Ammunition",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
-    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
-    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
-    "More firms say AI is holding back hiring, Cleveland Fed survey finds"
+    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
    ]
   },
   {
@@ -79,9 +78,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 33,
-   "added": 4,
+   "fetched": 100,
+   "kept": 62,
+   "added": 8,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -93,7 +92,7 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom"
    ]
   },
   {
@@ -153,8 +152,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
-   "kept": 12,
+   "fetched": 63,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -164,10 +163,10 @@
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
+    "Bank of Canada expected to hike interest rate next month, economists say",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
-    "Video: Bank of Canada governor says inflation forecast is lower",
-    "More economists expect Bank of Canada to raise interest rates again at December meeting"
+    "Video: Bank of Canada governor says inflation forecast is lower"
    ]
   },
   {
