@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T05:22:00Z",
+ "built": "2026-11-25T05:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,8 +66,8 @@
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Fed president pitches FedNow",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
@@ -101,17 +101,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 18,
+   "fetched": 34,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -135,7 +133,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
+   "fetched": 41,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -195,6 +193,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Further tightening to come from the ECB to prevent inflation persistence",
     "The Federal Reserve\u2019s balance sheet yo-yo",
     "AI borrowing binge has \u2018historic parallels\u2019 with subprime bubble, says ECB",
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
