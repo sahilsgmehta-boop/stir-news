@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T10:07:01Z",
+ "built": "2026-11-25T10:09:56Z",
  "sources": [
   {
    "id": "il_cb",
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 64,
-   "added": 7,
+   "fetched": 66,
+   "kept": 36,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -132,7 +132,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 36,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -140,7 +140,6 @@
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
-    "China is 'one of the bigger risks' to global economy: BoE's Carney",
     "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
     "Bank of England Must Act Now or Lose Credibility, Says Pill",
@@ -153,8 +152,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 12,
+   "fetched": 56,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -164,10 +163,10 @@
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada refines inflation-targeting framework for shock-prone world"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
   {
