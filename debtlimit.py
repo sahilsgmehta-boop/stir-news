@@ -340,6 +340,15 @@ def main():
                     xs.append(x)
                 if kf == 1.0 and ef == 1.0:
                     paths[str(today.year - s)] = path
+    # the model's daily inputs per analog year (scale 1), so the dashboard can rerun the same logic on another
+    # TGA path (Wrightson's projection, which is subscriber data and never comes through this public feed)
+    daily = {}
+    for s in analogs:
+        rows = []
+        for i in range(1, 821):           # binding search (300d) + run-out (500d)
+            day = today + dt.timedelta(days=i)
+            rows.append([round(ddsl_on(dsl, same_day(day, s)), 2), round(flow_on(net, day, s), 2)])
+        daily[str(today.year - s)] = {"k0": round(deficit_scale(net, today, s), 4), "rows": rows}
     b10, b50, b90 = pct(binds, .1), pct(binds, .5), pct(binds, .9)
     x10, x50, x90 = pct(xs, .1), pct(xs, .5), pct(xs, .9)
 
@@ -378,7 +387,7 @@ def main():
            "bind": {"p10": iso(b10) if b10 else None, "p50": iso(b50) if b50 else None, "p90": iso(b90) if b90 else None},
            "x": {"p10": iso(x10) if x10 else None, "p50": iso(x50) if x50 else None, "p90": iso(x90) if x90 else None},
            "params": P, "analog_years": [today.year - s for s in analogs], "paths": paths, "backtest": bt,
-           "room_hist": hist, "key_dates": key, "sources": sources, "markets": mk, "notes": notes}
+           "room_hist": hist, "daily": daily, "key_dates": key, "sources": sources, "markets": mk, "notes": notes}
     open(OUT, "w").write("window.DEBTLIMIT = " + json.dumps(out, separators=(",", ":")) + ";\n")
     cache["ran"] = time.time()
     json.dump(cache, open(CACHE, "w"), separators=(",", ":"))
