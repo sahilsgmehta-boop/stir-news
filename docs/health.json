@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T23:52:00Z",
+ "built": "2026-11-25T00:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,32 +58,20 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 48,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
-    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
-    "Fed president pitches FedNow",
-    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
-    "The Fed\u2019s Determination to Cool Inflation Further Pressures Gold",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 8,
+   "fetched": 68,
+   "kept": 37,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -94,8 +82,8 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
    ]
   },
   {
@@ -104,7 +92,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 38,
-   "kept": 16,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -154,9 +142,9 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 14,
-   "added": 1,
+   "fetched": 46,
+   "kept": 13,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Warns of Persistent Inflation; Bonds Decline",
@@ -176,8 +164,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
-   "kept": 4,
+   "fetched": 8,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
