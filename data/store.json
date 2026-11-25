@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-25T13:30:36Z",
+"bank": "Fed",
+"speaker": "Bowman",
+"hl": "Fed's Bowman Urges Latin American Regulators to Prioritize Material Risks - News and Statistics",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTJuU01CazRNdkx0UDd1RjJNOEtmUjI2TTZ6SkNzMnNsT2JyX08xUlp6R2YzSkpjUGV0b2xjRVduN054RWRvZDhQVHJHYUE0T2hkN2dyYzR3RXhkWmZwRmo0NGZ2OFVORjEyQjJhR2VKWURqTXEyNER1WXNjN1BTMGJsak13Z0VwVjJtVGprZU80RE0?oc=5",
+"src": "IndexBox",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "acd8b5ab3d87",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-25T13:20:00Z",
 "bank": "BoE",
 "speaker": "Bailey",
@@ -13772,7 +13792,9 @@
 "src": "Investing.com",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Yahoo Finance"
+],
 "desc": "",
 "id": "af7eda2a2f91",
 "score": 0,
