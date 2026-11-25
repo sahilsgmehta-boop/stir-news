@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T11:37:00Z",
+ "built": "2026-11-25T11:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,10 +67,10 @@
     "Fed president pitches FedNow",
     "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
-    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "Fed holds interest rates steady as inflation hits 3-year high",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
-    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January"
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation"
    ]
   },
   {
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 64,
-   "added": 9,
+   "fetched": 65,
+   "kept": 35,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
-    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -100,17 +100,20 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 47,
    "kept": 18,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
     "Lagarde appointed European Central Bank's head",
-    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "France and Germany candidates set for crucial ECB leadership vote",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
     "ECB Expands Tokenized Securities Collateral from June 2027"
    ]
   },
@@ -119,13 +122,14 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Policy Clear for December, Uncertain Beyond: Sleijpen",
-    "Openness, adaptation key to economic resilience, ECB vice president says"
+    "Openness, adaptation key to economic resilience, ECB vice president says",
+    "ECB Warns of Payment Fragmentation Risks, Higher Costs, Weaker Ties"
    ]
   },
   {
@@ -133,7 +137,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 35,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -141,6 +145,7 @@
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "China is 'one of the bigger risks' to global economy: BoE's Carney",
     "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
     "Bank of England Must Act Now or Lose Credibility, Says Pill",
@@ -152,8 +157,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 12,
+   "fetched": 60,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -163,10 +168,10 @@
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada refines inflation-targeting framework for shock-prone world"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
   {
@@ -174,13 +179,11 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Swiss Franc: SNB stance points to gains against Euro \u2013 ING"
-   ]
+   "near_misses": []
   },
   {
    "id": "ft_cb",
