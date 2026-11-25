@@ -722,6 +722,26 @@
 "basis": "reports"
 },
 {
+"t": "2026-11-24T11:00:00Z",
+"bank": "SNB",
+"speaker": "Martin",
+"hl": "2026-11-24 - Interview - Interview with Antoine Martin - Le Matin Dimanche",
+"url": "https://www.snb.ch/en/publications/communication/interviews/int_20261124_anmar",
+"src": "Swiss National Bank news",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "7b1dd270e6a1",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-24T10:00:00Z",
 "bank": "ECB",
 "speaker": "",

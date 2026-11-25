@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T08:22:01Z",
+ "built": "2026-11-25T08:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -76,9 +76,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 37,
-   "added": 5,
+   "fetched": 100,
+   "kept": 64,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -90,7 +90,7 @@
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -98,17 +98,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 18,
+   "fetched": 34,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -117,8 +115,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 24,
-   "kept": 17,
+   "fetched": 23,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -131,8 +129,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 10,
+   "fetched": 37,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -143,8 +141,7 @@
     "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
     "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets"
    ]
   },
   {
@@ -152,8 +149,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 12,
+   "fetched": 56,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -163,10 +160,10 @@
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada says core inflation is an indicator, not a target, as metrics shift",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada refines inflation-targeting framework for shock-prone world"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
   {
@@ -174,7 +171,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -317,8 +314,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 20,
-   "kept": 4,
-   "added": 0,
+   "kept": 5,
+   "added": 1,
    "error": ""
   },
   {
