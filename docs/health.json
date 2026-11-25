@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T15:22:00Z",
+ "built": "2026-11-25T15:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,13 +60,13 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 34,
-   "added": 0,
+   "kept": 40,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
     "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
@@ -135,8 +135,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 25,
-   "kept": 11,
-   "added": 2,
+   "kept": 12,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
@@ -144,8 +144,7 @@
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
-    "New HMRC late payment interest rates confirmed after Bank of England update",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "New HMRC late payment interest rates confirmed after Bank of England update"
    ]
   },
   {
@@ -153,8 +152,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
-   "kept": 14,
+   "fetched": 52,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [

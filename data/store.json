@@ -50,7 +50,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"WSJ"
+"WSJ",
+"The Lufkin Daily News"
 ],
 "desc": "",
 "id": "953376833a33",
@@ -188,6 +189,26 @@
 "rr": "Adds a December voter to the camp behind a hike on Dec 17 and leans against pricing a quick pause in early 2027. Only news paraphrases were available.",
 "ev": "",
 "basis": "reports"
+},
+{
+"t": "2026-11-25T10:49:35Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Russell 2000 Today: Fed's Williams Keeps Hikes in Play",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3JHZ1FLZzZyMXlrdkFfckwtbTEwUDg3MW1LZmhRa3hsdGNZSTN1b21uS0F5ZVBLOVpiTmpCSUVNOExEdk5PSjdQdEoyVFIxWFdrNi03UDh2TWJ4U3FHTFNDc1cydzZ6OTlhWkQ0SFp2d0w2dUVDYlRXYjdSeEhvUHo0QXFHUE9tY0JMMDlUWQ?oc=5",
+"src": "Admirals",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d1e65cf76888",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
 },
 {
 "t": "2026-11-24T23:50:00Z",
