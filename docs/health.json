@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T07:37:01Z",
+ "built": "2026-11-25T07:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,18 +57,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 40,
+   "kept": 41,
    "added": 0,
    "error": "",
    "near_misses": [
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "Fed president pitches FedNow",
+    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
-    "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Fed holds interest rates steady as inflation hits 3-year high"
    ]
@@ -79,7 +79,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 63,
+   "kept": 64,
    "added": 7,
    "error": "",
    "near_misses": [
@@ -107,8 +107,8 @@
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-    "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "Lagarde appointed European Central Bank's head",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -139,6 +139,7 @@
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
@@ -159,9 +160,9 @@
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
-    "Bank of Canada refines inflation-targeting framework for shock-prone world",
-    "Bank of Canada governor says inflation forecast is lower"
+    "Bank of Canada refines inflation-targeting framework for shock-prone world"
    ]
   },
   {
@@ -169,7 +170,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
