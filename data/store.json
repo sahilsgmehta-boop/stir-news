@@ -618,7 +618,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Newsquawk"
+],
 "desc": "",
 "id": "f2e8648beb16",
 "score": 5,
