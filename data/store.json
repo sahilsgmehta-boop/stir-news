@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-25T17:55:01Z",
+"bank": "Fed",
+"speaker": "Attempt",
+"hl": "The Fed’s Attempt to Dismiss Lawsuit Over Bowman’s Corruption with Wall Street Banks Should Fail",
+"url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTV93LTF6RHp6SldRdnF3SFg4LW1XcFI3TEVPMEVHNU95R21Fb000TFkxbU1ERVlEM1dxc2RRcHJvbGtGQzNoZERScWZMdXQ2SkZOSE94MkJEMEozOUc4RE1SMmtyY1RBbDBCOUhwOUFrMHdpLWJKNVBNcUNPUWduWkZRZWRweUJTaHc4VFVnTU5WWXprMDMxU2M3alN0aWtjelItZVFZR2dDWGN5bGc5Q2dTcHRLMGk4MWpLLU9mdEdHcVBwU3I0N3hB?oc=5",
+"src": "Better Markets",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "bdb136833f82",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-25T16:05:09Z",
 "bank": "BoC",
 "speaker": "Macklem",
@@ -49,7 +69,9 @@
 "src": "www.tmgm.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"FXStreet"
+],
 "desc": "",
 "id": "22afdf66f659",
 "score": null,

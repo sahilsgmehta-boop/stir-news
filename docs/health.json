@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T17:52:00Z",
+ "built": "2026-11-25T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 32,
+   "kept": 37,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -71,8 +71,8 @@
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
     "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
-    "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
     "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
+    "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
     "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
    ]
   },
@@ -103,16 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 13,
+   "fetched": 50,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
-    "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
+    "France Makes Leading the ECB a Perilous Job to Fill",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "ECB Approves Wider Tokenized Collateral Access for 2027",
+    "France and Germany candidates set for crucial ECB leadership vote",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
    ]
   },
   {
@@ -134,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 30,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -154,7 +159,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
+   "fetched": 55,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -162,13 +167,13 @@
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
+    "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
     "Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
-    "Bank of Canada keeps 2% inflation target but adjusts what to track"
+    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets"
    ]
   },
   {
