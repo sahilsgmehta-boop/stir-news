@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T03:22:00Z",
+ "built": "2026-11-25T03:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -69,9 +69,9 @@
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Fed president pitches FedNow",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
+    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
     "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
-    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January"
    ]
   },
   {
@@ -86,8 +86,8 @@
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
@@ -101,13 +101,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 15,
+   "fetched": 37,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
@@ -117,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 18,
+   "fetched": 24,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -133,7 +136,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 40,
-   "kept": 10,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -141,6 +144,7 @@
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
     "Middle East conflict could force interest rates higher, Bailey warns",
+    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
     "Bank of England Must Act Now or Lose Credibility, Says Pill",
     "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
     "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
@@ -151,7 +155,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 50,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -173,8 +177,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
-   "kept": 1,
+   "fetched": 5,
+   "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
