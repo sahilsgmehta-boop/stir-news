@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T05:37:01Z",
+ "built": "2026-11-25T05:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,23 +56,11 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 45,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
-    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
-    "Fed president pitches FedNow",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
-    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
-    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
@@ -101,15 +89,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 16,
+   "fetched": 38,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -118,8 +108,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 17,
+   "fetched": 24,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -133,19 +123,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
-   "kept": 9,
+   "fetched": 19,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
-    "Middle East conflict could force interest rates higher, Bailey warns",
-    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -153,21 +139,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 13,
+   "fetched": 48,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
-    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
+    "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada refines inflation-targeting framework for shock-prone world"
+    "Bank of Canada keeps 2% inflation target but adjusts what to track"
    ]
   },
   {
