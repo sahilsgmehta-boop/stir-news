@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T10:52:00Z",
+ "built": "2026-11-25T11:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -79,8 +79,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 65,
-   "added": 9,
+   "kept": 64,
+   "added": 8,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -89,8 +89,8 @@
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
@@ -100,19 +100,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
-   "kept": 17,
+   "fetched": 32,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -120,8 +117,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 15,
+   "fetched": 22,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,14 +131,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 9,
+   "fetched": 34,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
