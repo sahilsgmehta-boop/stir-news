@@ -196,7 +196,8 @@
 "WSJ",
 "The Lufkin Daily News",
 "Yahoo Finance",
-"Bradenton Herald"
+"Bradenton Herald",
+"IndexBox"
 ],
 "desc": "",
 "id": "953376833a33",
@@ -1794,7 +1795,9 @@
 "MLQ.ai",
 "Asset Securitization Report",
 "www.tmgm.com",
-"CNBC"
+"CNBC",
+"Mitrade",
+"American Banker"
 ],
 "desc": "",
 "id": "a12c1ce41341",

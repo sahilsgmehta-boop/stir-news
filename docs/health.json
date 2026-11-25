@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T21:37:00Z",
+ "built": "2026-11-25T21:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -51,8 +51,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Fed says inflation hasn\u2019t gotten any better ahead of its key December vote to raise rates",
-    "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates."
+    "The Fed says inflation hasn\u2019t gotten any better ahead of its key December vote to raise rates"
    ]
   },
   {
@@ -60,8 +59,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 33,
+   "fetched": 97,
+   "kept": 31,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -84,7 +83,7 @@
    "ok": true,
    "fetched": 100,
    "kept": 64,
-   "added": 8,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -112,7 +111,8 @@
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2"
    ]
   },
   {
@@ -134,8 +134,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 14,
+   "fetched": 37,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,8 +156,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 77,
-   "kept": 16,
+   "fetched": 60,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
