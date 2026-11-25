@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T00:52:01Z",
+ "built": "2026-11-25T01:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -23,8 +23,7 @@
    "near_misses": [
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "JPMorgan's 8,200 S&P 500 target for 2027 sits below peers as Fed risk tempers AI upside",
-    "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
-    "Richmond Fed composite Index for November comes in higher at 3 versus -2 last month"
+    "Bank of Canada may need to respond sooner or more forcefully to major supply shocks"
    ]
   },
   {
@@ -60,20 +59,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 48,
+   "kept": 47,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
-    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
-    "Fed president pitches FedNow",
-    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
-    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update"
+    "Fed president pitches FedNow",
+    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
+    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace"
    ]
   },
   {
@@ -82,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
+   "kept": 61,
    "added": 8,
    "error": "",
    "near_misses": [
@@ -103,13 +102,12 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 31,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
@@ -151,21 +149,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 13,
+   "fetched": 52,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
-    "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
+    "End-year inflation could be less than forecast, says Bank of Canada",
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada says core inflation is an indicator, not a target, as metrics shift",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada warns of broadening inflation; bonds decline"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
   {
@@ -173,7 +171,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 7,
    "kept": 2,
    "added": 0,
    "error": "",
