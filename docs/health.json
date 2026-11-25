@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T12:52:00Z",
+ "built": "2026-11-25T13:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -20,7 +20,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "Solana's bearish outlook persists amid Fed tightening, prolonged US-Iran stalemate and growth concerns"
+   ]
   },
   {
    "id": "cnbc",
@@ -48,7 +50,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "This strategist\u2019s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says."
+    "This strategist\u2019s bond-trading model is outperforming by a wide margin. A Fed that\u2019s slowing the economy is a good thing, he says."
    ]
   },
   {
@@ -62,15 +64,15 @@
    "error": "",
    "near_misses": [
     "Bill Ackman warns the Fed\u2019s obsession with 2% inflation will plunge the world into recession: \u2018Tell me why I am wrong\u2019",
-    "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
     "Inflation report to provide Fed's preferred gauge of prices ahead of possible rate hike",
+    "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
     "Bond And Credit Markets Signal The Fed's Hawkish Tilt Is Too Tight As Oil Retreats",
     "Fed president pitches FedNow",
     "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Most US Treasury Yields Fall Pre-Bell Ahead of Fed's Preferred Inflation Data, Q3 GDP Estimate, Durable Goods Orders",
-    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "Fed holds interest rates steady as inflation hits 3-year high"
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data"
    ]
   },
   {
@@ -78,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 34,
-   "added": 4,
+   "fetched": 100,
+   "kept": 64,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -100,21 +102,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
-   "kept": 17,
+   "fetched": 30,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "France Makes Leading the ECB a Perilous Job to Fill",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
     "Lagarde appointed European Central Bank's head",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
-    "France and Germany candidates set for crucial ECB leadership vote"
+    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery"
    ]
   },
   {
@@ -175,7 +173,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
