@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T12:07:00Z",
+ "built": "2026-11-25T12:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,17 +57,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 41,
+   "kept": 44,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bill Ackman warns the Fed\u2019s obsession with 2% inflation will plunge the world into recession: \u2018Tell me why I am wrong\u2019",
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
     "Inflation report to provide Fed's preferred gauge of prices ahead of possible rate hike",
+    "Bond And Credit Markets Signal The Fed's Hawkish Tilt Is Too Tight As Oil Retreats",
     "Fed president pitches FedNow",
     "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
-    "Most US Treasury Yields Fall Pre-Bell Ahead of Fed's Preferred Inflation Data, Q3 GDP Estimate, Durable Goods Orders",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January"
@@ -87,8 +87,8 @@
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
-   "kept": 15,
+   "fetched": 31,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -118,9 +118,9 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 19,
-   "added": 1,
+   "fetched": 22,
+   "kept": 18,
+   "added": 0,
    "error": "",
    "near_misses": [
     "ECB Policy Clear for December, Uncertain Beyond: Sleijpen",
@@ -132,15 +132,17 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 9,
+   "fetched": 35,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
+    "New HMRC late payment interest rates confirmed after Bank of England update",
     "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
@@ -163,7 +165,7 @@
     "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
+    "Bank of Canada refines inflation-targeting framework for shock-prone world"
    ]
   },
   {
@@ -171,7 +173,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
