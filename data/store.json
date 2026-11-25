@@ -1,6 +1,28 @@
 {
 "items": [
 {
+"t": "2026-11-25T14:51:44Z",
+"bank": "BoE",
+"speaker": "Bailey",
+"hl": "BoE's Bailey sees lower inflation peak if energy prices stabilise",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmItUFQ0TDJDczBHR3RFWDhnTWd1MkVMcjcwOVAwSmxxYTNqcWlqUEpYY21kZXFnUWtBMndyWW9JeUtHdVB1dV9hVUtMQUtVcDVFTk9XLW5McVNxcnNCdGpOd3oyTDBlbnJpQndONWpFNVRSYk40R2gycHVIQ0p1blVGWmFDeS1CdUxEZ3FvcThZZHZmWENsODYzY1M4UklWVU5SLWI2NGwyLVhFSGc?oc=5",
+"src": "Reuters",
+"tier": "comment",
+"tone": "",
+"also": [
+"WSJ"
+],
+"desc": "",
+"id": "953376833a33",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-25T13:30:36Z",
 "bank": "Fed",
 "speaker": "Bowman",
