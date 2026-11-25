@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T13:52:01Z",
+ "built": "2026-11-25T14:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,20 +60,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 37,
+   "kept": 36,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
     "Firm Inflation Upholds Fed\u2019s Plan to Raise Rates Again",
+    "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
     "Bill Ackman warns the Fed\u2019s obsession with 2% inflation will plunge the world into recession: \u2018Tell me why I am wrong\u2019",
     "Inflation report to provide Fed's preferred gauge of prices ahead of possible rate hike",
-    "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
     "Will the Fed raise interest rates this year? Divided economists weigh in",
     "Inflation rose to 3.8% in October in Fed\u2019s preferred gauge, adding to affordability woes",
-    "Bond And Credit Markets Signal The Fed's Hawkish Tilt Is Too Tight As Oil Retreats",
-    "Fed president pitches FedNow"
+    "Market volatility won't change the Fed's plan for a rate hike in December, says Roger Ferguson",
+    "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike"
    ]
   },
   {
@@ -91,8 +91,8 @@
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9"
@@ -103,7 +103,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 48,
    "kept": 18,
    "added": 0,
    "error": "",
@@ -157,21 +157,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 14,
+   "fetched": 63,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
+    "Video: Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
-    "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
-    "CIBC flags December rate hike as Macklem doubles down on inflation concerns"
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
+    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets"
    ]
   },
   {
@@ -179,7 +179,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
