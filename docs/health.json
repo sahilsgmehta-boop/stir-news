@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T17:07:01Z",
+ "built": "2026-11-25T17:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,12 +66,12 @@
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
+    "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
     "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
-    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears",
     "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-    "Inflation rose to 3.8% in October in Fed\u2019s preferred gauge, adding to affordability woes"
+    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
    ]
   },
   {
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 66,
-   "added": 9,
+   "fetched": 63,
+   "kept": 33,
+   "added": 5,
    "error": "",
    "near_misses": [
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Fed plans to eliminate some rate-setting meetings, chairman says"
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -101,21 +101,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 17,
+   "fetched": 28,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
-    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "France Makes Leading the ECB a Perilous Job to Fill",
-    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "ECB Approves Wider Tokenized Collateral Access for 2027",
-    "France and Germany candidates set for crucial ECB leadership vote"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -164,13 +159,13 @@
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
+    "Bank of Canada keeps 2% inflation target but adjusts what to track"
    ]
   },
   {
