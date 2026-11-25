@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T07:07:00Z",
+ "built": "2026-11-25T07:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,20 +57,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 44,
+   "kept": 40,
    "added": 0,
    "error": "",
    "near_misses": [
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
-    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Fed president pitches FedNow",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Fed holds interest rates steady as inflation hits 3-year high",
-    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January"
+    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
+    "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
+    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
+    "Fed holds interest rates steady as inflation hits 3-year high"
    ]
   },
   {
@@ -117,14 +117,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 24,
    "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB Policy Clear for December, Uncertain Beyond: Sleijpen",
-    "Openness, adaptation key to economic resilience, ECB vice president says",
-    "France and Germany set to take key ECB roles"
+    "Openness, adaptation key to economic resilience, ECB vice president says"
    ]
   },
   {
@@ -148,7 +147,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 49,
    "kept": 13,
    "added": 0,
    "error": "",
@@ -157,10 +156,10 @@
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
-    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
+    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada governor says inflation forecast is lower"
    ]
@@ -188,6 +187,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Further tightening to come from the ECB to prevent inflation persistence",
     "The Federal Reserve\u2019s balance sheet yo-yo",
     "AI borrowing binge has \u2018historic parallels\u2019 with subprime bubble, says ECB",
     "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
