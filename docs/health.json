@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T19:52:01Z",
+ "built": "2026-11-25T20:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -7,7 +7,7 @@
    "kind": "curated",
    "ok": true,
    "fetched": 25,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": ""
   },
@@ -84,7 +84,7 @@
    "ok": true,
    "fetched": 64,
    "kept": 33,
-   "added": 5,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -104,21 +104,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
-   "kept": 18,
+   "fetched": 26,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "France Makes Leading the ECB a Perilous Job to Fill",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "ECB Approves Wider Tokenized Collateral Access for 2027",
-    "France and Germany candidates set for crucial ECB leadership vote",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -140,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 33,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -161,7 +155,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
+   "fetched": 76,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -172,10 +166,10 @@
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
-    "Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets"
+    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
    ]
   },
   {
