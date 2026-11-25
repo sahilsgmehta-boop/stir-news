@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T21:52:00Z",
+ "built": "2026-11-25T22:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -20,9 +20,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "Solana's bearish outlook persists amid Fed tightening, prolonged US-Iran stalemate and growth concerns"
-   ]
+   "near_misses": []
   },
   {
    "id": "cnbc",
@@ -59,20 +57,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
-   "kept": 31,
+   "fetched": 94,
+   "kept": 28,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
-    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
+    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
     "More firms say AI is holding back hiring, Cleveland Fed survey finds"
    ]
   },
@@ -81,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 64,
-   "added": 9,
+   "fetched": 65,
+   "kept": 33,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -103,7 +101,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -111,8 +109,7 @@
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -164,13 +161,13 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
+    "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "More economists expect Bank of Canada to raise interest rates again at December meeting",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada expected to hike interest rate next month, economists say"
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
