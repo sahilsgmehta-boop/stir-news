@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T20:22:01Z",
+ "built": "2026-11-25T20:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,18 +61,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 28,
+   "kept": 29,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
-    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "More firms say AI is holding back hiring, Cleveland Fed survey finds",
     "Fed\u2019s preferred inflation gauge rises 3.8% annually in October"
    ]
@@ -104,21 +104,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 19,
+   "fetched": 27,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
-    "France Makes Leading the ECB a Perilous Job to Fill",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "ECB Approves Wider Tokenized Collateral Access for 2027",
-    "France and Germany candidates set for crucial ECB leadership vote",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -140,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 34,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -161,8 +155,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 16,
+   "fetched": 61,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -174,8 +168,8 @@
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
+    "More economists expect Bank of Canada to raise interest rates again at December meeting",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {

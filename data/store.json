@@ -1515,7 +1515,9 @@
 "src": "Forex Factory",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Newsquawk"
+],
 "desc": "",
 "id": "81df8578ac1b",
 "score": 0,
