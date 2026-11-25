@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T09:52:00Z",
+ "built": "2026-11-25T10:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -98,14 +98,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 44,
    "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
-    "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
@@ -119,8 +118,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 14,
+   "fetched": 21,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -133,7 +132,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 37,
    "kept": 10,
    "added": 0,
    "error": "",
@@ -141,11 +140,12 @@
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "China is 'one of the bigger risks' to global economy: BoE's Carney",
     "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
     "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -175,7 +175,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -248,7 +248,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 6,
+   "kept": 5,
    "added": 0,
    "error": ""
   },
@@ -258,8 +258,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
-   "added": 10,
+   "kept": 15,
+   "added": 9,
    "error": ""
   },
   {
