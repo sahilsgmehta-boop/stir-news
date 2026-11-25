@@ -358,12 +358,12 @@ def uk_parliament(start, end):
         for e in d.get("items") or []:
             if e.get("cancelledDate"):
                 continue
-            titles = [b.get("title", "") for b in e.get("committeeBusinesses") or []] + [e.get("name", "")]
+            titles = [(b or {}).get("title") or "" for b in e.get("committeeBusinesses") or []] + [e.get("name") or ""]
             topic = next((x for x in titles if BOE_PARL.search(x)), None)
             if not topic:
                 continue
             pub = [a for a in e.get("activities") or [] if not a.get("isPrivate")]
-            st = (pub[0] if pub else e).get("startDate")
+            st = (pub[0] if pub else e).get("startDate") or e.get("startDate") or ""
             try:
                 t = datetime.fromisoformat(st[:19])
             except (TypeError, ValueError):
@@ -371,7 +371,7 @@ def uk_parliament(start, end):
             wit = []
             for a in pub:
                 for x in a.get("attendees") or []:
-                    nm = (x.get("name") or "").strip()
+                    nm = ((x or {}).get("name") or "").strip()
                     if nm:
                         wit.append(nm.split()[-1])
             label = f"UK {cname} hearing: {topic}" + (f" ({', '.join(wit[:6])})" if wit else "")
