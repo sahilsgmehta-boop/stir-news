@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T07:52:00Z",
+ "built": "2026-11-25T08:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -20,9 +20,7 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike"
-   ]
+   "near_misses": []
   },
   {
    "id": "cnbc",
@@ -57,20 +55,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 41,
+   "kept": 42,
    "added": 0,
    "error": "",
    "near_misses": [
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
-    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
-    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "Fed president pitches FedNow",
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
-    "Fed holds interest rates steady as inflation hits 3-year high"
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update"
    ]
   },
   {
@@ -84,11 +82,11 @@
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
+    "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
@@ -101,14 +99,14 @@
    "kind": "news",
    "ok": true,
    "fetched": 34,
-   "kept": 15,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "Lagarde appointed European Central Bank's head",
+    "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -131,16 +129,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 9,
+   "fetched": 39,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "Middle East conflict could force interest rates higher, Bailey warns",
+    "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
