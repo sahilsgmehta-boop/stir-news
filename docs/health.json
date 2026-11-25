@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T01:37:00Z",
+ "built": "2026-11-25T01:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -66,8 +66,8 @@
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Fed president pitches FedNow",
     "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
@@ -80,9 +80,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 8,
+   "fetched": 69,
+   "kept": 36,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -93,8 +93,8 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
    ]
   },
   {
@@ -102,13 +102,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 31,
-   "kept": 14,
+   "fetched": 37,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
@@ -118,8 +121,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 19,
+   "fetched": 26,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -133,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
+   "fetched": 40,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -152,21 +155,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 13,
+   "fetched": 57,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
     "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada says core inflation is an indicator, not a target, as metrics shift",
-    "The Canadian Dollar Rose As Traders Priced In A BoC Hike"
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {
