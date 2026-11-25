@@ -50,7 +50,7 @@ AHEAD_DAYS = 125           # issuance projection: three full calendar months ahe
 # estimates the same evening.
 RUN_SLOTS_IST = [(19, 0), (23, 45)]
 IST = timezone(timedelta(hours=5, minutes=30))
-VERSION = 12                 # bump when the output changes: forces a run straight away
+VERSION = 13                 # bump when the output changes: forces a run straight away
 H41_PER_RUN = int(os.environ.get("REPO_H41_MAX", "60"))   # weekly H.4.1 pages per run while backfilling
 
 health = {"errors": [], "requests": 0}
@@ -350,6 +350,25 @@ def td_recent(days=30):
             "spread": num(r.get("spread")), "hir": num(r.get("highInvestmentRate")),
         })
     return out
+
+
+def td_window(hist, today):
+    """How many days of TreasuryDirect auction history to pull. Treasury's results database
+    (auctions_query) can fall far behind: on 25 Nov 2026 its newest bill was issued 22 Oct, so
+    with a fixed 30-day window the auctions of 21-25 Oct were in neither source - the 8-week
+    bill issued 27 Oct was missing from 22 Dec's maturities, overstating that day's net
+    issuance by about $100bn. The window now reaches back past the
+    database's newest complete result, with three weeks to spare."""
+    last = None
+    for a in hist:
+        if a.get("issue") and a.get("accepted"):
+            d = s2d(a["issue"])
+            if d <= today and (last is None or d > last):
+                last = d
+    lag = (today - last).days if last else 60
+    if lag > 21:
+        note(f"Treasury's auction results database is {lag} days behind; filled from TreasuryDirect")
+    return int(min(180, max(30, lag + 21)))
 
 
 def merge_recent(hist, recent):
@@ -1005,7 +1024,7 @@ def main():
     try:
         hist = auctions(start)
         try:
-            added, filled = merge_recent(hist, td_recent())
+            added, filled = merge_recent(hist, td_recent(td_window(hist, today)))
             print(f"repo: TreasuryDirect added {added} auctions, filled {filled} results")
         except Exception as e:  # noqa: BLE001
             note(f"TreasuryDirect auctioned: {e}")
