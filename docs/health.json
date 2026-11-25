@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T02:22:00Z",
+ "built": "2026-11-25T02:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,20 +58,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 47,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
+    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Fed president pitches FedNow",
     "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 36,
-   "added": 5,
+   "fetched": 100,
+   "kept": 60,
+   "added": 8,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent warns on Fed hike as AI bubble fears mount",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -101,8 +101,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
-   "kept": 17,
+   "fetched": 35,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,18 +134,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
-   "kept": 9,
+   "fetched": 18,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
-    "Middle East conflict could force interest rates higher, Bailey warns",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -153,21 +150,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 13,
+   "fetched": 57,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
-    "Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada refines inflation-targeting framework for shock-prone world",
+    "Bank of Canada governor says inflation forecast is lower",
+    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada says core inflation is an indicator, not a target, as metrics shift"
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {
@@ -175,8 +172,8 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
-   "kept": 2,
+   "fetched": 6,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
