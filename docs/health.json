@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T20:37:00Z",
+ "built": "2026-11-25T20:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -73,8 +73,8 @@
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
-    "More firms say AI is holding back hiring, Cleveland Fed survey finds",
-    "Fed\u2019s preferred inflation gauge rises 3.8% annually in October"
+    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
+    "More firms say AI is holding back hiring, Cleveland Fed survey finds"
    ]
   },
   {
@@ -82,21 +82,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 33,
-   "added": 4,
+   "fetched": 100,
+   "kept": 67,
+   "added": 9,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month",
-    "The Fed - Live Video"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Fed plans to eliminate some rate-setting meetings, chairman says",
+    "Trump talked with Fed chief, but there\u2019s no record of it on Warsh\u2019s calendar"
    ]
   },
   {
@@ -104,15 +104,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
-   "kept": 15,
+   "fetched": 49,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
+    "France Makes Leading the ECB a Perilous Job to Fill",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "ECB Approves Wider Tokenized Collateral Access for 2027",
+    "France and Germany candidates set for crucial ECB leadership vote",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
+    "ECB Expands Tokenized Securities Collateral from June 2027"
    ]
   },
   {
@@ -134,7 +140,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
+   "fetched": 33,
    "kept": 14,
    "added": 0,
    "error": "",
@@ -155,8 +161,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 13,
+   "fetched": 60,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
