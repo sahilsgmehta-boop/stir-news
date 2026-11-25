@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T00:07:00Z",
+ "built": "2026-11-25T00:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,11 +58,23 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 48,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Tracker: The Federal Reserve\u2019s Balance Sheet Assets",
+    "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
+    "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
+    "Fed president pitches FedNow",
+    "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
+    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update",
+    "The Fed\u2019s Determination to Cool Inflation Further Pressures Gold"
+   ]
   },
   {
    "id": "gn_fed2",
@@ -70,8 +82,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 68,
-   "kept": 37,
-   "added": 5,
+   "kept": 38,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -91,8 +103,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 17,
+   "fetched": 37,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -125,17 +137,11 @@
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": true,
-   "fetched": 19,
-   "kept": 8,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
-    "Bank of England officials hint at faster rate hikes ahead",
-    "Students meet the Bank of England Governor",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_boc",
@@ -147,7 +153,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of Canada Warns of Persistent Inflation; Bonds Decline",
+    "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
@@ -164,7 +170,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 8,
+   "fetched": 10,
    "kept": 3,
    "added": 0,
    "error": "",
