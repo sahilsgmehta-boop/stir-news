@@ -11199,6 +11199,54 @@
    "read": "Not a policy remark.",
    "at": "2026-11-24T20:54:39Z",
    "by": "claude"
+  },
+  "630524d64472": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Oil shock to keep inflation persistent into 2027, leaving a BoC hike on the table.",
+   "lead": "075636f2326d",
+   "at": "2026-11-25T06:55:00Z",
+   "by": "claude"
+  },
+  "eaa850268e47": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Lower near-term inflation forecast offset by lingering oil price pressure; balanced.",
+   "lead": "075636f2326d",
+   "at": "2026-11-25T06:55:00Z",
+   "by": "claude"
+  },
+  "64de61092ab8": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-25T06:55:00Z",
+   "by": "claude"
+  },
+  "b5ea74804722": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says more hikes are needed to bring inflation near 2%, beyond December.",
+   "lead": "f2e8648beb16",
+   "at": "2026-11-25T06:55:00Z",
+   "by": "claude"
+  },
+  "9f36c22d0152": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Not ruling out back-to-back hikes adds risk of a January follow-up.",
+   "lead": "a12c1ce41341",
+   "at": "2026-11-25T06:55:00Z",
+   "by": "claude"
+  },
+  "04af64fc022b": {
+   "tone": "neutral",
+   "score": 1,
+   "read": "Discount-rate minutes for the October meetings around the hold; text could not be read.",
+   "ev": "Board discount rate minutes, Oct 19 and Oct 28",
+   "basis": "reports",
+   "at": "2026-11-25T06:55:00Z",
+   "by": "claude"
   }
  }
 }

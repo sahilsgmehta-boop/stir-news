@@ -1152,17 +1152,17 @@
     "note": ""
    },
    "path": {
-    "total": "",
+    "total": "more hikes",
     "by": "",
-    "note": ""
+    "note": "Nov 24: more hikes needed to bring inflation near 2%; size and timing not given."
    },
-   "view": "Says the latest data call for further rate increases.",
+   "view": "Says the latest data call for further rate increases, with more than one hike needed to get inflation near 2%.",
    "shift": "",
    "last": "2026-11-24",
    "ev": "Remarks (reported by Bloomberg)",
    "basis": "reports",
-   "conf": "medium",
-   "asof": "2026-11-24"
+   "conf": "high",
+   "asof": "2026-11-25"
   },
   "ECB|Santos Pereira": {
    "votes": {
