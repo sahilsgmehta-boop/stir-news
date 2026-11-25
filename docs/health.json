@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T04:39:26Z",
+ "built": "2026-11-25T04:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 46,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -101,15 +101,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 16,
+   "fetched": 38,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -118,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 17,
+   "fetched": 26,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -133,15 +135,19 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 19,
-   "kept": 8,
+   "fetched": 40,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill"
+    "Middle East conflict could force interest rates higher, Bailey warns",
+    "Dollar rally lifts DXY towards 104 as markets brace for Fed data and holiday thinning",
+    "Bank of England Must Act Now or Lose Credibility, Says Pill",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
+    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
    ]
   },
   {
@@ -149,21 +155,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 13,
+   "fetched": 49,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "End-year inflation could be less than forecast, says Bank of Canada",
-    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Bank of Canada keeps 2% inflation target but adjusts what to track",
-    "Bank of Canada governor says inflation forecast is lower"
+    "Bank of Canada governor says inflation forecast is lower",
+    "Bank of Canada refines inflation-targeting framework for shock-prone world"
    ]
   },
   {
@@ -171,7 +177,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
