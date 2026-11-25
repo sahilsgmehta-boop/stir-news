@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T08:07:00Z",
+ "built": "2026-11-25T08:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -55,17 +55,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 42,
+   "kept": 45,
    "added": 0,
    "error": "",
    "near_misses": [
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon",
-    "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "Fed president pitches FedNow",
+    "US PCE preview: Inflation seen near 3.8% in the Fed's last read before a December hike",
     "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
     "U.S. Treasury Yields Mixed Ahead of Fed's Preferred Inflation Gauge, GDP Data -- Update"
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 64,
-   "added": 7,
+   "fetched": 67,
+   "kept": 37,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
     "Bill Ackman Says the Fed Is \"About to Make Another Mistake\" on Dec. 9",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -98,15 +98,17 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 34,
-   "kept": 16,
+   "fetched": 38,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
@@ -159,11 +161,11 @@
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada says core inflation is an indicator, not a target, as metrics shift",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
     "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-    "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada refines inflation-targeting framework for shock-prone world"
    ]
   },
