@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T23:22:01Z",
+ "built": "2026-11-25T23:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -47,17 +47,15 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": [
-    "The Fed says inflation hasn\u2019t gotten any better ahead of its key December vote to raise rates"
-   ]
+   "near_misses": []
   },
   {
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 24,
+   "fetched": 91,
+   "kept": 23,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -68,9 +66,9 @@
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "Fed\u2019s Beige Book Is a Mixed Bag, but Gives Doves Little Ammunition",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
-    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
+    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
+    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target"
    ]
   },
   {
@@ -78,8 +76,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 33,
+   "fetched": 64,
+   "kept": 32,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -100,21 +98,14 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 19,
+   "fetched": 25,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
-    "France Makes Leading the ECB a Perilous Job to Fill",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "France and Germany candidates set for crucial ECB leadership vote",
-    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -136,7 +127,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 35,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -145,11 +136,11 @@
     "UK food inflation could hit 5% next year, Bank of England says",
     "Bank of England's Carney speaks following rates decision",
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
-    "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
     "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee",
     "Higher economic activity and stronger labour market pushed Bank of England to hike rates",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
+    "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
     "New HMRC late payment interest rates confirmed after Bank of England update"
    ]
   },
@@ -158,8 +149,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 12,
+   "fetched": 68,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -169,8 +160,8 @@
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Bank of Canada expected to hike interest rate next month, economists say",
+    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
