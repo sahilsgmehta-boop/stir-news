@@ -1057,11 +1057,9 @@
    },
    "stance": "lean hawk",
    "next": {
-    "call": "hold or +25",
-    "note": "The ECB will have to hike if the situation does not improve soon (Oct 30): conditional.",
-    "how": "said",
-    "quote": "ECB will have to hike rates if situation does not improve soon",
-    "qsrc": "headline, Oct 30"
+    "call": "hike",
+    "note": "Says the ECB cannot fall behind the curve on rates (Nov 25), firming his Oct 30 conditional hike view; no size given.",
+    "how": "implied"
    },
    "following": {
     "call": "",
@@ -1072,13 +1070,13 @@
     "by": "",
     "note": ""
    },
-   "view": "Must keep inflation from becoming entrenched; neither acting too early nor waiting idly works.",
-   "shift": "",
-   "last": "2026-11-03",
-   "ev": "Remarks",
+   "view": "Wants to keep inflation from becoming entrenched and says the ECB cannot fall behind the curve on rates.",
+   "shift": "More hawkish: from a conditional hike (Oct 30) to warning against falling behind the curve (Nov 25).",
+   "last": "2026-11-25",
+   "ev": "",
    "basis": "reports",
    "conf": "medium",
-   "asof": "2026-11-18"
+   "asof": "2026-11-25"
   },
   "ECB|Zigman": {
    "votes": {

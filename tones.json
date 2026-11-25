@@ -11247,6 +11247,32 @@
    "basis": "reports",
    "at": "2026-11-25T06:55:00Z",
    "by": "claude"
+  },
+  "53f217a1155e": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "December voter warns the ECB cannot fall behind the curve, backing the priced December hike.",
+   "sum": "ECB Governing Council member Kocher says the ECB cannot afford to fall behind the curve on interest rates, a harder line than his earlier conditional hike talk.",
+   "pts": [
+    "Kocher says the ECB must not fall behind the curve on rates.",
+    "It hardens his Oct 30 view that the ECB would have to hike if the situation did not improve.",
+    "He votes at the December 17 meeting under the rotation.",
+    "No size or timing for a move was reported in the headline."
+   ],
+   "rr": "Adds a December voter to the camp behind a hike on Dec 17 and leans against pricing a quick pause in early 2027. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-25T11:54:26Z",
+   "by": "claude"
+  },
+  "7b1dd270e6a1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Official interview transcript could not be read this run; no new rate signal confirmed.",
+   "ev": "Interview, Le Matin Dimanche",
+   "basis": "reports",
+   "at": "2026-11-25T11:54:26Z",
+   "by": "claude"
   }
  }
 }
