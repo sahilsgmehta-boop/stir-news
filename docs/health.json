@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T04:37:00Z",
+ "built": "2026-11-25T04:39:26Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 45,
+   "kept": 46,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -101,17 +101,15 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 18,
+   "fetched": 34,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises"
    ]
   },
