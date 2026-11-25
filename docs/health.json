@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T10:09:56Z",
+ "built": "2026-11-25T10:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -47,7 +47,9 @@
    "kept": 0,
    "added": 0,
    "error": "",
-   "near_misses": []
+   "near_misses": [
+    "This strategist\u2019s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues"
+   ]
   },
   {
    "id": "gn_fed",
@@ -55,7 +57,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 43,
+   "kept": 42,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -66,9 +68,9 @@
     "Gold Trading Alert: Gold Prices Plunge 2%! Fed\u2019s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
     "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
     "Fed holds interest rates steady as inflation hits 3-year high",
+    "Most US Treasury Yields Fall Pre-Bell Ahead of Fed's Preferred Inflation Data, Q3 GDP Estimate, Durable Goods Orders",
     "Emons: Markets Have Done Part of Fed\u2019s Job, Will Hike Rate in December, Pause in January",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "As it Focuses on Inflation, Fed's Employees Get Real-Life Lesson in Watching Pay Not Keep Pace"
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation"
    ]
   },
   {
@@ -107,8 +109,8 @@
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "Personal Injury Attorney Ross F. Lagarde Clarifies When Comparative Fault Bars Recovery",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB Expands Tokenized Securities Collateral from June 2027",
     "ECB Rate Hike May Not Fully Tame Inflation"
    ]
@@ -133,18 +135,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 36,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "Students meet the Bank of England Governor",
+    "China is 'one of the bigger risks' to global economy: BoE's Carney",
     "Pound to Dollar Forecast: GBP Climbs as BoE Turns Hawkish",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
-    "Bank of England Must Act Now or Lose Credibility, Says Pill",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3113) 1.3250 Upside Target on 82% BoE Hike Bets",
-    "GBP/USD Price Forecast \u2014 GBP/USD (1.3021) 1.3225 Upside Target on BoE Hike Bets and 19-Month Dollar High"
+    "Bank of England Must Act Now or Lose Credibility, Says Pill"
    ]
   },
   {
@@ -152,8 +153,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 14,
+   "fetched": 46,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -163,10 +164,10 @@
     "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
     "Bank of Canada governor says global economic shocks \u2018likely to be larger, more frequent\u2019",
-    "Canadian Dollar Gains Most Since August on BOC Inflation Warning"
+    "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+    "Bank of Canada refines inflation-targeting framework for shock-prone world"
    ]
   },
   {
@@ -174,7 +175,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 4,
    "kept": 0,
    "added": 0,
    "error": "",
