@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T22:22:00Z",
+ "built": "2026-11-25T22:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,21 +56,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 24,
+   "fetched": 95,
+   "kept": 27,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed's Beige Book shows evidence of broadening price pressures",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "Fed\u2019s Beige Book Is a Mixed Bag, but Gives Doves Little Ammunition",
+    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
-    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
+    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target"
    ]
   },
   {
@@ -107,7 +107,6 @@
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
-    "Lagarde appointed European Central Bank's head",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
@@ -130,7 +129,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 34,
    "kept": 15,
    "added": 0,
    "error": "",
@@ -152,8 +151,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 13,
+   "fetched": 78,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -165,8 +164,8 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
-    "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
-    "Video: Bank of Canada governor says inflation forecast is lower"
+    "Video: Bank of Canada governor says inflation forecast is lower",
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
