@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T15:40:06Z",
+ "built": "2026-11-25T15:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,7 +60,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 34,
+   "kept": 40,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -68,12 +68,12 @@
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
     "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
     "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears",
     "Inflation rose to 3.8% in October in Fed\u2019s preferred gauge, adding to affordability woes",
     "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-    "Bill Ackman warns the Fed\u2019s obsession with 2% inflation will plunge the world into recession: \u2018Tell me why I am wrong\u2019",
-    "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon"
+    "Bill Ackman warns the Fed\u2019s obsession with 2% inflation will plunge the world into recession: \u2018Tell me why I am wrong\u2019"
    ]
   },
   {
@@ -81,21 +81,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 62,
-   "kept": 33,
+   "fetched": 64,
+   "kept": 34,
    "added": 5,
    "error": "",
    "near_misses": [
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
+    "Fed governor Waller muddies outlook on possible rate hike later this month"
    ]
   },
   {
@@ -103,16 +103,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 13,
+   "fetched": 48,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
-    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "The Most Fashionable Woman In Finance - 2011-08-17 - Christine Lagarde's Power Dressing",
+    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
+    "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
+    "France Makes Leading the ECB a Perilous Job to Fill",
     "Lagarde appointed European Central Bank's head",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "Who runs the ECB? Capitals haggle as experts call for merit",
+    "France and Germany candidates set for crucial ECB leadership vote",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
    ]
   },
   {
@@ -134,7 +139,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -152,8 +157,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 14,
+   "fetched": 53,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -165,8 +170,8 @@
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "CIBC flags December rate hike as Macklem doubles down on inflation concerns"
+    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
   },
   {
