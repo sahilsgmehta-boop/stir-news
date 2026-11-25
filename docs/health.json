@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T23:37:00Z",
+ "built": "2026-11-25T23:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,11 +61,11 @@
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's Beige Book shows evidence of broadening price pressures",
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target"
@@ -76,8 +76,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
-   "kept": 32,
+   "fetched": 65,
+   "kept": 31,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -87,10 +87,10 @@
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -127,8 +127,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
-   "kept": 15,
+   "fetched": 34,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -149,21 +149,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
-   "kept": 13,
+   "fetched": 83,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
-    "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada expected to hike interest rate next month, economists say",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "More economists expect Bank of Canada to raise interest rates again at December meeting"
+    "More economists expect Bank of Canada to raise interest rates again at December meeting",
+    "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
   },
   {
