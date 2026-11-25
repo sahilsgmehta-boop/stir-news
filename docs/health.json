@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T15:37:00Z",
+ "built": "2026-11-25T15:40:06Z",
  "sources": [
   {
    "id": "il_cb",
@@ -60,8 +60,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 40,
-   "added": 1,
+   "kept": 34,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
@@ -69,10 +69,10 @@
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Fed\u2019s preferred inflation gauge rises 3.8% annually in October",
-    "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
     "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears",
     "Inflation rose to 3.8% in October in Fed\u2019s preferred gauge, adding to affordability woes",
     "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
+    "Bill Ackman warns the Fed\u2019s obsession with 2% inflation will plunge the world into recession: \u2018Tell me why I am wrong\u2019",
     "\u2018Huang Put\u2019 Is the Fed\u2019s Thanksgiving Pardon"
    ]
   },
@@ -81,21 +81,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 32,
-   "added": 4,
+   "fetched": 62,
+   "kept": 33,
+   "added": 5,
    "error": "",
    "near_misses": [
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding her vote at the Federal Open Market Committee\u2019s July 28\u201329 meeting"
    ]
   },
   {
@@ -152,8 +152,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 11,
+   "fetched": 67,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -165,8 +165,8 @@
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Bank of Canada keeps 2% inflation target but adjusts what to track",
     "Bank of Canada governor says inflation forecast is lower",
-    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
-    "Bank of Canada Fades Core Inflation, Switches Gauges"
+    "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "CIBC flags December rate hike as Macklem doubles down on inflation concerns"
    ]
   },
   {
