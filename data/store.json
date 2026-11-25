@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-25T19:22:26Z",
+"bank": "Fed",
+"speaker": "Williams",
+"hl": "Fed Faces a Policy Dilemma as Williams Sees Inflation Falling Without Slower Growt",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjhvd21nTE81WWM0NFo2NV9ET0dUQTNNcGZraUN5OGlKMmpZSzdueGF5RUpPNlBGT3RjZE9GYUw4U0JNTnYwWklpS0c1cjlhSlA4MUFrcFdXVGk3MG9pcW9OcUlzTDJPZWVBc2lKMWhqc1d1NmRyd3pQWkpwZ0hrMERNRC1YRERteEJOZE5MaEFLRUdWYXRYZk5DMkRBWFMxdEpQaUhlSnluUlhhNVYtMWJwaV9mY1hpZ0RjMkI3Zy1QZktiNlE?oc=5",
+"src": "Investing.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "dab685a01159",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-25T18:06:07Z",
 "bank": "ECB",
 "speaker": "Lagarde",
@@ -131,7 +151,9 @@
 "src": "www.tmgm.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"FXStreet"
+],
 "desc": "",
 "id": "1e6b56b19272",
 "score": null,
