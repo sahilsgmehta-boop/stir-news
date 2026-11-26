@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T05:37:01Z",
+ "built": "2026-11-26T05:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -63,8 +63,8 @@
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Fed's Beige Book shows evidence of broadening price pressures",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 64,
-   "added": 8,
+   "fetched": 71,
+   "kept": 36,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -98,21 +98,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 20,
+   "fetched": 28,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Lagarde adds to the Euro dovishness",
     "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
-    "France and Germany candidates set for crucial ECB leadership vote",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
-    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027",
-    "EU leaders seek to close the ECB\u2019s dome and unlock the pulse for common spending"
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
    ]
   },
   {
@@ -144,9 +139,9 @@
     "Bank of England boss puts his legacy on the line with softer touch on banks",
     "Bank of England's Carney speaks following rates decision",
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
+    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee",
     "Higher economic activity and stronger labour market pushed Bank of England to hike rates",
-    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings"
    ]
@@ -156,8 +151,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 21,
+   "fetched": 71,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -168,9 +163,9 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada expected to hike interest rate next month, economists say",
+    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
+    "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
   },
   {
