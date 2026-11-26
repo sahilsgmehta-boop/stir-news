@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T18:52:00Z",
+ "built": "2026-11-26T19:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,9 +80,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 33,
-   "added": 5,
+   "fetched": 100,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -94,7 +94,7 @@
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -102,21 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 96,
-   "kept": 13,
+   "fetched": 100,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Spain's De Cos to take over as ECB president from Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
-    "Spain's De Cos set to be nominated by EU countries as next head of ECB",
+    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
+    "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "Spanish economist to become new European Central Bank chief",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
-    "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "EU Leaders Agree To Appoint Spaniard Pablo Hern\u00e1ndez de Cos ECB President: how 22 outlets framed it",
-    "Spain's Hern\u00e1ndez de Cos set to become new ECB president"
+    "Spain's de Cos to become ECB's next president, FT reports",
+    "EU Leaders Agree To Appoint Spaniard Pablo Hern\u00e1ndez de Cos ECB President: how 22 outlets framed it"
    ]
   },
   {
@@ -124,13 +124,13 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 13,
+   "fetched": 24,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB account shows many policymakers were ready to hike in October",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "ECB account shows many policymakers were ready to hike in October",
     "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
     "ECB meeting accounts are next for a Euro off its 19-month low",
@@ -168,8 +168,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 13,
+   "fetched": 56,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
