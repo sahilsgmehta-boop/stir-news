@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-26T10:30:00Z",
+"bank": "BoE",
+"speaker": "",
+"hl": "Financial Policy Committee Record – November 2026",
+"url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+"src": "Bank of England news",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
+"id": "e6520a247e2b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-26T01:14:15Z",
 "bank": "Fed",
 "speaker": "Warsh",
@@ -6356,7 +6376,9 @@
 "src": "Bank of Canada speeches",
 "tier": "official",
 "tone": "neutral",
-"also": [],
+"also": [
+"BIS central bankers' speeches"
+],
 "desc": "Deputy Governor Toni Gravelle talks about the importance of central bank communications in uncertain times and how scenarios help the Bank consider different paths for the economy and inflation.",
 "id": "f8c0a03a7eea",
 "score": 1,
