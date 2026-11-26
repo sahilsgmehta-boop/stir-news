@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T00:07:00Z",
+ "built": "2026-11-26T00:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,20 +54,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 22,
+   "fetched": 92,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed's Beige Book shows evidence of broadening price pressures",
-    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
+    "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
    ]
   },
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 31,
-   "added": 4,
+   "fetched": 100,
+   "kept": 62,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy"
    ]
   },
   {
@@ -98,21 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 19,
+   "fetched": 50,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Lagarde adds to the Euro dovishness",
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "France Makes Leading the ECB a Perilous Job to Fill",
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "Euro area leaders to consider appointments to several European Central Bank positions",
     "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
     "France and Germany candidates set for crucial ECB leadership vote",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
+    "ECB Expands Tokenized Securities Collateral from June 2027"
    ]
   },
   {
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 18,
+   "fetched": 22,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,8 +134,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
-   "kept": 14,
+   "fetched": 40,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -178,7 +178,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -307,11 +307,11 @@
    "id": "snb_sp",
    "name": "Swiss National Bank speeches",
    "kind": "official",
-   "ok": true,
-   "fetched": 10,
-   "kept": 7,
-   "added": 5,
-   "error": ""
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
   },
   {
    "id": "snb",
