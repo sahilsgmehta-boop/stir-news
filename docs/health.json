@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T07:37:00Z",
+ "built": "2026-11-26T07:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -76,8 +76,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 34,
+   "fetched": 72,
+   "kept": 36,
    "added": 4,
    "error": "",
    "near_misses": [
@@ -87,21 +87,33 @@
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 50,
+   "kept": 21,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Lagarde adds to the Euro dovishness",
+    "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
+    "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
+    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
+    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "Euro area leaders to consider appointments to several European Central Bank positions",
+    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
+    "ECB Expands Tokenized Securities Collateral from June 2027",
+    "EU leaders seek to close the ECB\u2019s dome and unlock the pulse for common spending"
+   ]
   },
   {
    "id": "gn_ecb2",
@@ -122,8 +134,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
-   "kept": 20,
+   "fetched": 45,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -144,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
+   "fetched": 94,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -156,8 +168,8 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets"
    ]
   },
