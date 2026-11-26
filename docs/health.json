@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T14:37:00Z",
+ "built": "2026-11-26T14:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -35,6 +35,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI risks are the biggest threat to the financial system, Fed survey finds",
@@ -57,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 86,
-   "kept": 11,
+   "fetched": 99,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -71,7 +72,7 @@
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
-    "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook"
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again"
    ]
   },
   {
@@ -80,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 59,
+   "kept": 60,
    "added": 1,
    "error": "",
    "near_misses": [
@@ -92,8 +93,8 @@
     "Why would the Fed consider a half-percentage-point hike in December?",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects"
    ]
   },
   {
@@ -101,52 +102,49 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
+   "fetched": 63,
    "kept": 17,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Spain's de Cos to become ECB's next president, FT reports",
     "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
-    "Eurozone leaders back Hern\u00e1ndez de Cos to succeed Lagarde at ECB",
+    "Spaniard Pablo Hernandez de Cos to succeed Lagarde as head of ECB",
+    "Spain's Hern\u00e1ndez de Cos set to become new ECB president",
     "Minutes of ECB\u2019s October meeting confirm tightening bias",
-    "EU leaders set to confirm Spain's de Cos as next ECB President \u2013 Reuters",
-    "Spain's De Cos Set to Be Nominated as Next ECB President by EU",
-    "EU leaders set to confirm backing for Spain's De Cos as next ECB President - report",
-    "Spain's De Cos set to be nominated by EU leaders as new head of ECB"
+    "Instant View: Spain\u2019s De Cos set to be nominated by EU leaders as next ECB chief",
+    "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
+    "EU leaders set to confirm Spain's de Cos as next ECB President \u2013 Reuters"
    ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": true,
-   "fetched": 16,
-   "kept": 14,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "ECB account shows many policymakers were ready to hike in October"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 16,
+   "fetched": 67,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
-    "Bank of England sees potential for lower inflation",
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK food inflation could hit 5% next year, Bank of England says",
+    "Bank of England sees potential for lower inflation",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Bank of England to cut capital requirements for UK-focused lenders",
     "Bank of England boss puts his legacy on the line with softer touch on banks",
@@ -158,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
+   "fetched": 93,
    "kept": 22,
    "added": 0,
    "error": "",
@@ -170,9 +168,9 @@
     "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
-    "Video: Bank of Canada governor says inflation forecast is lower"
+    "Video: Bank of Canada governor says inflation forecast is lower",
+    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets"
    ]
   },
   {
@@ -192,10 +190,12 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
+    "The new ECB team is set for a baptism of fire",
     "Further tightening to come from the ECB to prevent inflation persistence",
     "The Federal Reserve\u2019s balance sheet yo-yo",
     "AI borrowing binge has \u2018historic parallels\u2019 with subprime bubble, says ECB",
