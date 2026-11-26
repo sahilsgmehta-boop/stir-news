@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T13:40:18Z",
+ "built": "2026-11-26T13:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,8 +56,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 14,
+   "fetched": 87,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -77,57 +77,32 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 60,
-   "added": 1,
-   "error": "",
-   "near_misses": [
-    "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Why would the Fed consider a half-percentage-point hike in December?",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
-   ]
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
+   "added": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": true,
-   "fetched": 28,
-   "kept": 13,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Pablo Hern\u00e1ndez de Cos to be next ECB President",
-    "ECB already had large support for rate hike in Oct, accounts show",
-    "The economic calendar offers the ECB\u2019s meeting minutes",
-    "ECB Pres Lagarde Told EU Leaders: AI One Reason Why Economy Has Held Up",
-    "Spain's De Cos set to become next ECB president",
-    "Lagarde adds to the Euro dovishness",
-    "Latvian PM says a decision on the ECB's next president is expected today",
-    "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
-    "EU budget under discussion in Brussels. ECB: many governors in favour of a further rate rise",
-    "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Openness, adaptation key to economic resilience, ECB vice president says",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
     "ECB meeting accounts are next for a Euro off its 19-month low",
@@ -141,7 +116,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
+   "fetched": 56,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -152,10 +127,10 @@
     "Bank of England sees potential for lower inflation",
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK food inflation could hit 5% next year, Bank of England says",
+    "Bank of England sees growing financial risks as AI borrowing surges",
     "Bank of England to cut capital requirements for UK-focused lenders",
     "Bank of England boss puts his legacy on the line with softer touch on banks",
-    "UK inflation may peak at lower rate than BoE forecast, says governor",
-    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee"
+    "UK inflation may peak at lower rate than BoE forecast, says governor"
    ]
   },
   {
@@ -169,12 +144,12 @@
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
+    "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
+    "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
-    "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower"
