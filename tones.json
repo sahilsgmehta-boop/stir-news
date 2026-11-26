@@ -10839,8 +10839,16 @@
    "tone": "neutral",
    "score": 0,
    "read": "Commentary on Warsh's AI scenarios; nothing on the rate path.",
-   "at": "2026-11-24T06:50:10Z",
-   "by": "claude"
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude",
+   "sum": "A commentary piece revisits Warsh's three AI scenarios from the Nov 16 productivity conference, two of which he called less positive.",
+   "pts": [
+    "Recaps Warsh's framing of super-intelligent AI and its economic effects.",
+    "Nothing on inflation, the December meeting or the rate path."
+   ],
+   "rr": "No bearing on Fed pricing. Only news paraphrases were available.",
+   "ev": "Commentary on Fed AI and productivity conference remarks",
+   "basis": "reports"
   },
   "7b245da97993": {
    "tone": "neutral",
@@ -10868,8 +10876,16 @@
    "tone": "neutral",
    "score": 0,
    "read": "Analytical blog on scenario methods for risk assessment; no rate signal.",
-   "at": "2026-11-24T11:55:00Z",
-   "by": "claude"
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude",
+   "sum": "An ECB blog explains how scenario synthesis helps staff assess risks around the baseline projections.",
+   "pts": [
+    "Methodological piece on combining scenarios to gauge risks to the baseline.",
+    "Not a policymaker remark and no policy recommendation reported."
+   ],
+   "rr": "No implication for December pricing. Only news paraphrases were available.",
+   "ev": "ECB blog",
+   "basis": "reports"
   },
   "91b77711d7bf": {
    "tone": "hawk",
@@ -11245,8 +11261,15 @@
    "read": "Discount-rate minutes for the October meetings around the hold; text could not be read.",
    "ev": "Board discount rate minutes, Oct 19 and Oct 28",
    "basis": "reports",
-   "at": "2026-11-25T06:55:00Z",
-   "by": "claude"
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude",
+   "sum": "The Board released minutes of its October 19 and October 28 discount rate meetings, covering Reserve Banks' primary credit rate requests around the October hold.",
+   "pts": [
+    "Covers Board discount rate meetings on Oct 19 and Oct 28, 2026.",
+    "Primary credit requests show how Reserve Banks leaned before the October decision.",
+    "The minutes text could not be read this run, so the split of requests is not summarised."
+   ],
+   "rr": "Backward-looking; no change to December hike pricing. Only news paraphrases were available."
   },
   "53f217a1155e": {
    "tone": "hawk",
@@ -11271,8 +11294,15 @@
    "read": "Official interview transcript could not be read this run; no new rate signal confirmed.",
    "ev": "Interview, Le Matin Dimanche",
    "basis": "reports",
-   "at": "2026-11-25T11:54:26Z",
-   "by": "claude"
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude",
+   "sum": "SNB Vice Chairman Antoine Martin gave an interview to Le Matin Dimanche; the transcript could not be read and no rate comments were reported.",
+   "pts": [
+    "Interview with Le Matin Dimanche published Nov 24.",
+    "No news reports of rate or franc comments were found.",
+    "Official text was not accessible this run."
+   ],
+   "rr": "No confirmed signal for the December SNB assessment. Only news paraphrases were available."
   },
   "d1e65cf76888": {
    "tone": "hawk",
@@ -11515,6 +11545,125 @@
    "ev": "Opening remarks, Productivity and Jobs Task Force Conference (San Francisco)",
    "basis": "reports",
    "at": "2026-11-26T11:54:31Z",
+   "by": "claude"
+  },
+  "d148dcf0a031": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI and cyber-security risks to finance; nothing on the rate path.",
+   "sum": "Bailey warned that unreleased frontier AI models have raised concerns about encryption, and said banks may pass the government's tax rises on to customers.",
+   "pts": [
+    "Unreleased AI models have raised concerns about the security of encryption used in finance.",
+    "Banks may pass the Labour government's tax increases on to their customers.",
+    "Both are financial-stability and banking themes rather than monetary policy.",
+    "No new comment on inflation, energy prices or the December decision was reported."
+   ],
+   "rr": "No bearing on December pricing; his conditional view from the Nov 25 Treasury Committee hearing (hikes if energy stays high) stands. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "e4556c7e2810": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Comment on banks passing tax rises to customers; no rate content.",
+   "lead": "d148dcf0a031",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "9afeb6ba9368": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "80fecde0832e": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "51ec824716c4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "19075dc83d0d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says AI has helped Europe absorb higher energy prices; no rate signal.",
+   "sum": "At the EU leaders' meeting Lagarde said AI is one of the factors keeping the euro-area economy resilient to higher energy prices, and expects the digital euro bill by December.",
+   "pts": [
+    "AI investment and adoption cited as a factor helping Europe withstand the energy price shock.",
+    "Described the bloc's economy as resilient.",
+    "Expects the digital euro legislation to be agreed by December.",
+    "Nothing reported on inflation, the December hike or the rate path."
+   ],
+   "rr": "Resilience message is mildly supportive of the December hike already priced but adds nothing new; no read-across to 2027 pricing. Only news paraphrases were available.",
+   "ev": "EU Council meeting, Brussels",
+   "basis": "reports",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "864ad1ea24ac": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI keeping the bloc resilient; growth colour, no rate signal.",
+   "lead": "19075dc83d0d",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "006b44ba2389": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Digital euro bill timing; not a rate remark.",
+   "lead": "19075dc83d0d",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "a18b70736685": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "BIS repost of her Nov 20 Frankfurt speech on acting early on risks; no rate signal.",
+   "lead": "2c02378f3d5f",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "e6520a247e2b": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Financial-stability record; no direct signal for Bank Rate.",
+   "sum": "The Bank of England's FPC published the record of its November meeting alongside the Financial Stability Report; it concerns financial-stability risks, not Bank Rate.",
+   "pts": [
+    "Record of the FPC's November 2026 policy meeting.",
+    "Covers risks to UK financial stability and the resilience of the banking system.",
+    "The page could not be read this run, so specific judgements are not summarised."
+   ],
+   "rr": "No direct implication for MPC pricing for December; the 4.00% Bank Rate path is set by the MPC. Only news paraphrases were available.",
+   "ev": "FPC record, November 2026",
+   "basis": "reports",
+   "at": "2026-11-26T20:55:08Z",
+   "by": "claude"
+  },
+  "5ca6d5f4205f": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Recap of Mann urging earlier, bigger hikes; leans to more tightening than priced.",
+   "sum": "A market note recaps Mann's Nov 25 call for the BoE to raise rates more and sooner, as traders brace for a hawkish repricing.",
+   "pts": [
+    "Mann, who voted for 50bp in November, wants rate rises brought forward.",
+    "Her case rests on upside risks to inflation expectations.",
+    "The piece recaps her Treasury Committee testimony; no new remarks were found."
+   ],
+   "rr": "Supports hike pricing for December and tail risk of a larger move or a faster follow-up in February; she remains the MPC's most hawkish voice. Only news paraphrases were available.",
+   "ev": "Recap of Treasury Committee hearing (Nov 25)",
+   "basis": "reports",
+   "at": "2026-11-26T20:55:08Z",
    "by": "claude"
   }
  }
