@@ -1421,7 +1421,8 @@
 "Seoul Economic Daily",
 "Asianet Newsable",
 "The Jakarta Post",
-"Investing.com Australia"
+"Investing.com Australia",
+"The Standard (HK)"
 ],
 "desc": "",
 "id": "64f7f77ccec3",
@@ -1637,7 +1638,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"cwibc.co.id"
+"cwibc.co.id",
+"Limapagi"
 ],
 "desc": "",
 "id": "741819d00048",

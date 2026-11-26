@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T00:37:01Z",
+ "built": "2026-11-26T00:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,21 +54,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 21,
+   "fetched": 100,
+   "kept": 22,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed's Beige Book shows evidence of broadening price pressures",
-    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
-    "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike"
+    "Fed\u2019s Beige Book Is a Mixed Bag, but Gives Doves Little Ammunition"
    ]
   },
   {
@@ -82,9 +82,9 @@
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 50,
    "kept": 20,
    "added": 0,
    "error": "",
@@ -134,21 +134,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 37,
    "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK food inflation could hit 5% next year, Bank of England says",
-    "Inflation may not be as high as predicted, says Bank of England",
     "Bank of England's Carney speaks following rates decision",
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
     "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee",
     "Higher economic activity and stronger labour market pushed Bank of England to hike rates",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
-    "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings"
+    "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
+    "New HMRC late payment interest rates confirmed after Bank of England update"
    ]
   },
   {
@@ -168,7 +168,7 @@
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
-    "Bank of Canada expected to hike interest rate next month, economists say",
+    "Bank of Canada Keeps 2 Percent Inflation Target Through 2031",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
