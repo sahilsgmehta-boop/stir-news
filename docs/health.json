@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T17:07:00Z",
+ "built": "2026-11-26T17:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
-   "kept": 11,
+   "fetched": 97,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Fed's Beige Book shows evidence of broadening price pressures",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
-    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Hawkish Fed poised to raise rates despite stock market turmoil",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook",
-    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike"
+    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears"
    ]
   },
   {
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 2,
+   "fetched": 69,
+   "kept": 33,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -102,21 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 80,
-   "kept": 13,
+   "fetched": 97,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
-    "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
-    "ECB turns to crisis veteran De Cos as new strains loom",
-    "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "Minutes of ECB\u2019s October meeting confirm tightening bias",
-    "Spain's Hern\u00e1ndez de Cos set to become new ECB president",
     "Spain's de Cos to become ECB's next president, FT reports",
+    "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
+    "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "Spain's Hern\u00e1ndez de Cos set to become new ECB president",
+    "Minutes of ECB\u2019s October meeting confirm tightening bias",
     "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
-    "Instant View: Spain\u2019s De Cos set to be nominated by EU leaders as next ECB chief"
+    "Eurozone leaders back Spain\u2019s Hern\u00e1ndez de Cos for ECB presidency",
+    "Instant View: Spain's De Cos set to be nominated by EU leaders as next ECB chief"
    ]
   },
   {
@@ -124,8 +124,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 13,
+   "fetched": 25,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -146,9 +146,9 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
-   "kept": 21,
-   "added": 0,
+   "fetched": 72,
+   "kept": 22,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
+   "fetched": 99,
    "kept": 22,
    "added": 0,
    "error": "",
@@ -180,9 +180,9 @@
     "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
     "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
-    "Video: Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
+    "Video: Bank of Canada governor says inflation forecast is lower"
    ]
   },
   {

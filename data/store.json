@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-26T17:13:40Z",
+"bank": "BoE",
+"speaker": "Bailey",
+"hl": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWxtSWdkclhVM25LM250eXk0V3AyWHl5VU82OHdETGpVOHBNeHVwR0tKM1JiVUlmNnpRZHZuX2o5bFctVU16OVctaDVFM0RUTWxLZXladmFDSjdjMUpkLVhiX3dRYVhrTVRDTUpud0R6RU1NYWx3TElCWmlkSndmTjdwTEQ?oc=5",
+"src": "Financial Times",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d148dcf0a031",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-26T14:31:06Z",
 "bank": "ECB",
 "speaker": "Lagarde",
