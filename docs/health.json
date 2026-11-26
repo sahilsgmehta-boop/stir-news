@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T14:07:01Z",
+ "built": "2026-11-26T14:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,11 +56,23 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 86,
+   "kept": 11,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
+    "Fed's Beige Book shows evidence of broadening price pressures",
+    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
+    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
+    "Hotter inflation sharpens debate over the Fed\u2019s next move",
+    "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook"
+   ]
   },
   {
    "id": "gn_fed2",
@@ -68,7 +80,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 60,
+   "kept": 61,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -89,43 +101,47 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 38,
-   "kept": 13,
-   "added": 0,
+   "fetched": 45,
+   "kept": 14,
+   "added": 1,
    "error": "",
    "near_misses": [
-    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
     "Spain's de Cos to become ECB's next president, FT reports",
-    "Pablo Hern\u00e1ndez de Cos to be next ECB President",
+    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
+    "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
+    "Spain's de Cos to become ECB's next president, FT reports",
     "Minutes of ECB\u2019s October meeting confirm tightening bias",
+    "Spain's de Cos to become ECB's next president, FT reports",
     "ECB already had large support for rate hike in Oct, accounts show",
     "EU leaders set to confirm Spain's de Cos as next ECB President \u2013 Reuters",
-    "Eurozone leaders pick Spain\u2019s Hern\u00e1ndez de Cos to succeed Lagarde at ECB",
-    "Pablo Hernndez de Cos is going to be the next ECB president - FT",
-    "Spain's De Cos set to become next ECB president",
-    "Latvian PM says a decision on the ECB's next president is expected today"
+    "EU leaders set to confirm backing for Spain's De Cos as next ECB President - report",
+    "Pablo Hernandez de Cos is going to be the next ECB president - FT"
    ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 16,
+   "kept": 14,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "ECB account shows many policymakers were ready to hike in October"
+   ]
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 68,
-   "kept": 21,
+   "fetched": 54,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
     "Bank of England sees potential for lower inflation",
@@ -134,7 +150,6 @@
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Bank of England to cut capital requirements for UK-focused lenders",
     "Bank of England boss puts his legacy on the line with softer touch on banks",
-    "UK inflation may peak at lower rate than BoE forecast, says governor",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee"
    ]
   },
@@ -149,13 +164,13 @@
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
-    "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
-    "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
+    "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
+    "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
+    "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower"
    ]
