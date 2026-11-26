@@ -11491,6 +11491,31 @@
    "read": "Not a policy remark.",
    "at": "2026-11-26T06:55:15Z",
    "by": "claude"
+  },
+  "7f0b8631916a": {
+   "tone": "neutral",
+   "score": 2,
+   "read": "Generic pledge to act to keep expectations anchored; adds little to December hike pricing.",
+   "lead": "4cbae13b4a11",
+   "at": "2026-11-26T11:54:31Z",
+   "by": "claude"
+  },
+  "e04155c8f5fc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Opening remarks on AI, productivity and jobs; nothing on the rate path.",
+   "sum": "Warsh opened the Fed's Productivity and Jobs Task Force conference by framing how super-intelligent AI could reshape US growth and employment, without discussing near-term policy.",
+   "pts": [
+    "Remarks opened a Fed Board and San Francisco Fed conference on AI, productivity and jobs (Nov 16).",
+    "He set out three possible AI futures for the economy, from a growth boom to job losses.",
+    "Two of the three scenarios were described as less positive for workers.",
+    "No comment on inflation, the December meeting or the rate path was reported."
+   ],
+   "rr": "No rate signal; leaves the 25bp December hike pricing and the 2027 path unchanged. Only news paraphrases were available.",
+   "ev": "Opening remarks, Productivity and Jobs Task Force Conference (San Francisco)",
+   "basis": "reports",
+   "at": "2026-11-26T11:54:31Z",
+   "by": "claude"
   }
  }
 }
