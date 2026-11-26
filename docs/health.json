@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T02:52:00Z",
+ "built": "2026-11-26T03:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -134,21 +134,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 39,
-   "kept": 18,
+   "fetched": 43,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK food inflation could hit 5% next year, Bank of England says",
-    "Inflation may not be as high as predicted, says Bank of England",
     "Bank of England's Carney speaks following rates decision",
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
     "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee",
     "Higher economic activity and stronger labour market pushed Bank of England to hike rates",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
-    "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings"
+    "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings",
+    "New HMRC late payment interest rates confirmed after Bank of England update"
    ]
   },
   {
@@ -156,8 +156,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 20,
+   "fetched": 70,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -168,9 +168,9 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada expected to hike interest rate next month, economists say",
+    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "More economists expect Bank of Canada to raise interest rates again at December meeting"
+    "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
   },
   {
