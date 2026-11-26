@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T11:07:01Z",
+ "built": "2026-11-26T11:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -68,8 +68,8 @@
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
-    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
+    "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike"
    ]
   },
@@ -101,7 +101,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 50,
-   "kept": 19,
+   "kept": 18,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -109,12 +109,12 @@
     "The economic calendar offers the ECB\u2019s meeting minutes",
     "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
+    "European leaders meet in Brussels with budget through 2034, support for Ukraine, and ECB succession on the agenda",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "Euro above 19-month low: What next as ECB meeting accounts loom?",
     "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027"
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
    ]
   },
   {
@@ -122,8 +122,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
-   "kept": 18,
+   "fetched": 20,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -136,7 +136,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 47,
    "kept": 19,
    "added": 0,
    "error": "",
@@ -145,12 +145,12 @@
     "UK food inflation could hit 5% next year, Bank of England says",
     "Bank of England boss puts his legacy on the line with softer touch on banks",
     "UK inflation may peak at lower rate than BoE forecast, says governor",
-    "Bank of England's Carney speaks following rates decision",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
+    "Bank of England's Carney speaks following rates decision",
     "Bank of England officials hint at faster rate hikes ahead",
-    "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
     "The Bank of England (BoE) has left open the possibility of a second interest rate hike in December.",
-    "Higher economic activity and stronger labour market pushed Bank of England to hike rates"
+    "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
+    "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee"
    ]
   },
   {
@@ -170,8 +170,8 @@
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
-    "Video: Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "Video: Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
