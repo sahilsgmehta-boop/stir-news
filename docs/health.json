@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T08:37:00Z",
+ "built": "2026-11-26T08:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,17 +54,17 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 17,
+   "fetched": 87,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
-    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
@@ -76,16 +76,16 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 34,
+   "fetched": 70,
+   "kept": 36,
    "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 27,
-   "kept": 16,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -113,8 +113,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
-   "kept": 20,
+   "fetched": 22,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -127,8 +127,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
-   "kept": 20,
+   "fetched": 46,
+   "kept": 22,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -149,7 +149,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
+   "fetched": 93,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -159,11 +159,11 @@
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
+    "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets"
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {
