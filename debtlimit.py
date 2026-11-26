@@ -396,3 +396,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # the RMP watch rides along (it paces itself): a running collect loop keeps the script list it started
+    # with, so a new collector only joins the loop at its next restart
+    try:
+        import rmp
+        rmp.main()
+    except Exception as e:  # noqa: BLE001
+        print("rmp failed:", e)
