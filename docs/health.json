@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T11:52:01Z",
+ "built": "2026-11-26T12:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,7 +56,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
+   "fetched": 88,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 17,
+   "fetched": 49,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -113,8 +113,8 @@
     "European leaders meet in Brussels with budget through 2034, support for Ukraine, and ECB succession on the agenda",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "ECB meeting accounts are next for a Euro off its 19-month low",
-    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote"
+    "Euro above 19-month low: What next as ECB meeting accounts loom?",
+    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2"
    ]
   },
   {
@@ -122,11 +122,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 20,
-   "kept": 18,
+   "fetched": 18,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Policy Clear for December, Uncertain Beyond: Sleijpen",
     "Openness, adaptation key to economic resilience, ECB vice president says"
    ]
   },
@@ -135,20 +136,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
+   "fetched": 55,
    "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
-    "Bank of England Rate-Setters Leave December Hike on the Table",
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "UK food inflation could hit 5% next year, Bank of England says",
-    "Bank of England boss puts his legacy on the line with softer touch on banks",
     "Bank of England to cut capital requirements for UK-focused lenders",
+    "Bank of England boss puts his legacy on the line with softer touch on banks",
+    "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK inflation may peak at lower rate than BoE forecast, says governor",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England's Carney speaks following rates decision",
-    "The Bank of England (BoE) has left open the possibility of a second interest rate hike in December.",
     "Bank of England officials hint at faster rate hikes ahead"
    ]
   },
@@ -158,7 +159,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 70,
-   "kept": 15,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -168,10 +169,10 @@
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
+    "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Bank of Canada Fades Core Inflation, Switches Gauges"
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {
