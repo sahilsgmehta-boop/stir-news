@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T21:07:00Z",
+ "built": "2026-11-26T21:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
-   "kept": 7,
+   "fetched": 94,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -69,10 +69,10 @@
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed's Beige Book shows evidence of broadening price pressures",
-    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
+    "Pound has only the Fed's quiet period ahead after a flat BoE report",
     "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook",
-    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears",
-    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target"
+    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
+    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears"
    ]
   },
   {
@@ -103,20 +103,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 9,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Spain's De Cos to take over as ECB president from Lagarde",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "Spanish economist to become new European Central Bank chief",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
-    "EU Leaders Agree To Appoint Spaniard Pablo Hern\u00e1ndez de Cos ECB President: how 22 outlets framed it",
-    "Spain's Hern\u00e1ndez de Cos set to become new ECB president"
+    "Spain's de Cos to become ECB's next president, FT reports",
+    "EU Leaders Agree To Appoint Spaniard Pablo Hern\u00e1ndez de Cos ECB President: how 22 outlets framed it"
    ]
   },
   {
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 44,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "ECB account shows many policymakers were ready to hike in October",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos.",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "ECB already had large support for rate hike in Oct, accounts show",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB account shows many policymakers were ready to hike in October",
+    "Spain\u2019s De Cos to take over as ECB president from Lagarde",
+    "Latvian PM says a decision on the ECB's next president is expected today",
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "Euro above 19-month low: What next as ECB meeting accounts loom?",
-    "Euro trades above 19-month low ahead of ECB meeting accounts"
+    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos."
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
+   "fetched": 72,
    "kept": 23,
    "added": 0,
    "error": "",
@@ -154,13 +154,13 @@
     "Bank of England sees growing financial risks as AI borrowing surges",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
-    "Bank of England warns opaque AI borrowing could spread financial stress",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
     "Mortgage payments to rise for millions, Bank of England warns",
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "Bank of England sees potential for lower inflation",
     "UK food inflation could hit 5% next year, Bank of England says",
-    "Bank of England to cut capital requirements for UK-focused lenders"
+    "Bank of England to cut capital requirements for UK-focused lenders",
+    "BoE Lowers Capital Rules for UK Lenders While Flagging AI Debt Risks"
    ]
   },
   {
@@ -168,8 +168,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 5,
+   "fetched": 56,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
