@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T12:52:01Z",
+ "built": "2026-11-26T13:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,13 +61,13 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "Fed's Beige Book shows evidence of broadening price pressures",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
     "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook"
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 35,
-   "added": 4,
+   "fetched": 100,
+   "kept": 60,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Why would the Fed consider a half-percentage-point hike in December?",
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -101,18 +101,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 48,
-   "kept": 16,
-   "added": 1,
+   "kept": 15,
+   "added": 0,
    "error": "",
    "near_misses": [
     "The economic calendar offers the ECB\u2019s meeting minutes",
-    "Ecb Pres Lagarde Told Eu Leaders: AI One Reason Why Economy Has Held Up",
+    "ECB Pres Lagarde Told Eu Leaders: AI One Reason Why Economy Has Held Up",
     "Lagarde adds to the Euro dovishness",
     "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
     "Latvian PM says a decision on the ECB's next president is expected today",
-    "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
-    "ECB already had large support for rate hike in Oct, accounts show",
     "EU budget under discussion in Brussels. ECB: many governors in favour of a further rate rise",
+    "ECB already had large support for rate hike in Oct, accounts show",
+    "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "European leaders meet in Brussels with budget through 2034, support for Ukraine, and ECB succession on the agenda",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle"
    ]
@@ -122,12 +122,18 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
-   "kept": 15,
+   "fetched": 23,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Openness, adaptation key to economic resilience, ECB vice president says"
+    "Openness, adaptation key to economic resilience, ECB vice president says",
+    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
+    "ECB Officials Signal December Rate Hike",
+    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "Euro above 19-month low: What next as ECB meeting accounts loom?",
+    "Euro trades above 19-month low ahead of ECB meeting accounts",
+    "19-month low: Euro regains ground ahead of ECB meeting accounts"
    ]
   },
   {
@@ -135,7 +141,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
+   "fetched": 55,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -157,8 +163,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 16,
+   "fetched": 72,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -170,8 +176,8 @@
     "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy",
-    "Video: Bank of Canada governor says inflation forecast is lower"
+    "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {
