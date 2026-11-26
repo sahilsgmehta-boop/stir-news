@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T12:37:00Z",
+ "built": "2026-11-26T12:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -61,8 +61,8 @@
    "added": 0,
    "error": "",
    "near_misses": [
-    "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's Beige Book shows evidence of broadening price pressures",
+    "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
@@ -70,7 +70,7 @@
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
     "Hotter inflation sharpens debate over the Fed\u2019s next move",
-    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike"
+    "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook"
    ]
   },
   {
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 62,
-   "added": 1,
+   "fetched": 71,
+   "kept": 35,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -101,20 +101,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 48,
-   "kept": 17,
+   "kept": 16,
    "added": 1,
    "error": "",
    "near_misses": [
-    "Latvian PM says a decision on the ECB's next president is expected today",
     "The economic calendar offers the ECB\u2019s meeting minutes",
-    "Lagarde adds to the Euro dovishness",
     "Ecb Pres Lagarde Told Eu Leaders: AI One Reason Why Economy Has Held Up",
+    "Lagarde adds to the Euro dovishness",
     "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
+    "Latvian PM says a decision on the ECB's next president is expected today",
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
-    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
+    "ECB already had large support for rate hike in Oct, accounts show",
+    "EU budget under discussion in Brussels. ECB: many governors in favour of a further rate rise",
     "European leaders meet in Brussels with budget through 2034, support for Ukraine, and ECB succession on the agenda",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
-    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2"
+    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle"
    ]
   },
   {
@@ -122,17 +122,12 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 17,
    "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Openness, adaptation key to economic resilience, ECB vice president says",
-    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "ECB Officials Signal December Rate Hike",
-    "Euro above 19-month low: What next as ECB meeting accounts loom?",
-    "Euro trades above 19-month low ahead of ECB meeting accounts",
-    "19-month low: Euro regains ground ahead of ECB meeting accounts"
+    "Openness, adaptation key to economic resilience, ECB vice president says"
    ]
   },
   {
@@ -148,9 +143,9 @@
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
-    "Bank of England to cut capital requirements for UK-focused lenders",
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK food inflation could hit 5% next year, Bank of England says",
+    "Bank of England to cut capital requirements for UK-focused lenders",
     "Bank of England boss puts his legacy on the line with softer touch on banks",
     "UK inflation may peak at lower rate than BoE forecast, says governor",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
@@ -162,8 +157,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 94,
-   "kept": 22,
+   "fetched": 70,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -184,7 +179,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "kept": 0,
    "added": 0,
    "error": "",
