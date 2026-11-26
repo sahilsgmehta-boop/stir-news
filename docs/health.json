@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T23:22:00Z",
+ "built": "2026-11-26T23:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 7,
-   "added": 1,
+   "added": 0,
    "error": ""
   },
   {
@@ -59,21 +59,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 90,
+   "fetched": 91,
    "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Pound has only the Fed's quiet period ahead after a flat BoE report",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "Fed's Beige Book Says Growth Is Mostly Modest While Cost Pressures Build",
     "Fed's Beige Book shows evidence of broadening price pressures",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
-    "Fed's Beige Book Says Growth Is Mostly Modest While Cost Pressures Build",
+    "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
-    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook"
+    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears"
    ]
   },
   {
@@ -115,8 +115,8 @@
     "Business - Spain's De Cos chosen as next ECB president",
     "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
-    "Spanish economist to become new European Central Bank chief",
     "Spain's De Cos to take over as ECB president from Lagarde",
+    "Spanish economist to become new European Central Bank chief",
     "EU Leaders Agree To Appoint Spaniard Pablo Hern\u00e1ndez de Cos ECB President: how 22 outlets framed it"
    ]
   },
@@ -147,8 +147,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 17,
+   "fetched": 76,
+   "kept": 23,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,12 +156,12 @@
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
-    "Bank of England warns opaque AI borrowing could spread financial stress",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
     "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
+    "Bank of England Rate-Setters Leave December Hike on the Table",
     "Mortgage payments to rise for millions, Bank of England warns",
     "Bank of England sees potential for lower inflation",
-    "Bank of England Rate-Setters Leave December Hike on the Table"
+    "UK food inflation could hit 5% next year, Bank of England says"
    ]
   },
   {
@@ -182,8 +182,8 @@
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Video: Bank of Canada governor says inflation forecast is lower"
+    "Video: Bank of Canada governor says inflation forecast is lower",
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief"
    ]
   },
   {
