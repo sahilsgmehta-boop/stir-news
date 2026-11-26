@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T19:07:00Z",
+ "built": "2026-11-26T19:09:48Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 2,
+   "fetched": 68,
+   "kept": 33,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 12,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -146,15 +146,15 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 71,
-   "kept": 21,
+   "fetched": 57,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
+    "Bank of England warns opaque AI borrowing could spread financial stress",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
     "Mortgage payments to rise for millions, Bank of England warns",
     "Bank of England Rate-Setters Leave December Hike on the Table",
