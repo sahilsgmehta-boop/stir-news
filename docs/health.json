@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T18:37:00Z",
+ "built": "2026-11-26T18:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -67,12 +67,12 @@
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
-    "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Fed's Beige Book shows evidence of broadening price pressures",
     "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears",
-    "Fed\u2019s Beige Book Shows Growth Cooling As Shoppers Get Pickier"
+    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target"
    ]
   },
   {
@@ -102,16 +102,16 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 14,
+   "fetched": 96,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+    "Spain's De Cos set to be nominated by EU countries as next head of ECB",
     "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
-    "Spain's de Cos to become ECB's next president, FT reports",
     "Spanish economist to become new European Central Bank chief",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
+   "fetched": 71,
    "kept": 21,
    "added": 0,
    "error": "",
@@ -168,21 +168,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
-   "kept": 11,
+   "fetched": 76,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
-    "Opinion: The next Bank of Canada governor must heed the lessons of the past",
-    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
+    "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
+    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
+    "Opinion: The next Bank of Canada governor must heed the lessons of the past",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
+    "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
-    "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Video: Bank of Canada governor says inflation forecast is lower"
+    "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
   },
   {
