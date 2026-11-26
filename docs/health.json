@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T16:22:00Z",
+ "built": "2026-11-26T16:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,32 +57,44 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 97,
+   "kept": 11,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
+    "Hawkish Fed poised to raise rates despite stock market turmoil",
+    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Fed's Beige Book shows evidence of broadening price pressures",
+    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
+    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook",
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again"
+   ]
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 33,
-   "added": 5,
+   "fetched": 100,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -90,19 +102,19 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 91,
-   "kept": 18,
+   "fetched": 77,
+   "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
+    "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
     "ECB turns to crisis veteran De Cos as new strains loom",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "Eurozone leaders back Hern\u00e1ndez de Cos to succeed Lagarde at ECB",
     "Minutes of ECB\u2019s October meeting confirm tightening bias",
     "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
-    "Spain's de Cos to become ECB's next president, FT reports",
     "Instant View: Spain\u2019s De Cos set to be nominated by EU leaders as next ECB chief",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB"
    ]
@@ -134,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 16,
+   "fetched": 68,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
-    "Bank of England sees potential for lower inflation",
+    "Mortgage payments to rise for millions, Bank of England warns",
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK food inflation could hit 5% next year, Bank of England says",
+    "Bank of England sees potential for lower inflation",
     "Bank of England sees growing financial risks as AI borrowing surges",
-    "Bank of England reveals cost of the mortgage shock for 6.5M homeowners"
+    "Bank of England to cut capital requirements for UK-focused lenders"
    ]
   },
   {
@@ -156,16 +168,16 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
-   "kept": 16,
+   "fetched": 99,
+   "kept": 22,
    "added": 0,
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
-    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+    "Opinion: The next Bank of Canada governor must heed the lessons of the past",
+    "Canada\u2019s TSX futures flat in holiday-thinned trade and Macklem\u2019s warning",
     "Posthaste: Canadian dollar gets a boost from Bank of Canada, but can momentum last?",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower",
@@ -330,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 17,
+   "kept": 16,
    "added": 0,
    "error": ""
   }
