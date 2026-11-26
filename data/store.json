@@ -881,7 +881,8 @@
 "tier": "comment",
 "tone": "hawk",
 "also": [
-"www.tmgm.com"
+"www.tmgm.com",
+"Mitrade"
 ],
 "desc": "",
 "id": "e848865dccd7",
@@ -27545,26 +27546,6 @@
 "score": 6,
 "read": "Wants more tightening, flexible only on pace.",
 "desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-10-12T17:58:03Z",
-"bank": "Fed",
-"speaker": "Bowman",
-"hl": "Fed’s Bowman announces regional restructuring of Fed supervision",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6UXl4Qk85TTctR05MT3FyXzNoNER3Ny1reDZZUHA3NEJhc1RMMFdGblN4S2thTzBsN3NXdUdQZHBuQXJBbzdTbE5sVDlqdjhXd0Q3cGRtdVA3SWV6c0p3cGFjYVpUcG9seHgyT1BWMEdVS3NpYy00VWhVR05uaWs?oc=5",
-"src": "JD Supra",
-"tier": "comment",
-"tone": "",
-"also": [],
-"desc": "",
-"id": "6b40b9d73d1c",
-"score": null,
-"read": "",
 "sum": "",
 "pts": [],
 "rr": "",
