@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T02:37:00Z",
+ "built": "2026-11-26T02:39:42Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,8 +54,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 95,
-   "kept": 19,
+   "fetched": 100,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -76,21 +76,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 35,
-   "added": 4,
+   "fetched": 100,
+   "kept": 62,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy"
    ]
   },
   {
@@ -99,7 +99,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 49,
-   "kept": 20,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -107,12 +107,12 @@
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "France Makes Leading the ECB a Perilous Job to Fill",
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
     "France and Germany candidates set for crucial ECB leadership vote",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
     "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027"
+    "ECB Expands Tokenized Securities Collateral from June 2027",
+    "EU leaders seek to close the ECB\u2019s dome and unlock the pulse for common spending"
    ]
   },
   {
@@ -120,8 +120,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 19,
+   "fetched": 23,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 38,
    "kept": 18,
    "added": 0,
    "error": "",
@@ -156,8 +156,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
-   "kept": 15,
+   "fetched": 90,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -168,9 +168,9 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada expected to hike interest rate next month, economists say",
-    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada Fades Core Inflation, Switches Gauges"
+    "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
@@ -178,7 +178,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0,
    "added": 0,
    "error": "",
