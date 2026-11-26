@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T05:22:01Z",
+ "built": "2026-11-26T05:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,7 +54,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 92,
+   "fetched": 91,
    "kept": 16,
    "added": 0,
    "error": "",
@@ -98,15 +98,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 28,
-   "kept": 15,
+   "fetched": 48,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
     "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
-    "ECB expands euro liquidity lifelines in push to challenge dollar dominance"
+    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "France and Germany candidates set for crucial ECB leadership vote",
+    "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
+    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
+    "ECB Expands Tokenized Securities Collateral from June 2027",
+    "EU leaders seek to close the ECB\u2019s dome and unlock the pulse for common spending"
    ]
   },
   {
@@ -138,9 +144,9 @@
     "Bank of England boss puts his legacy on the line with softer touch on banks",
     "Bank of England's Carney speaks following rates decision",
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
-    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee",
     "Higher economic activity and stronger labour market pushed Bank of England to hike rates",
+    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
     "How Bank of England Rate Hikes Affect Sterling Volatility and FTSE Exporter Earnings"
    ]
@@ -150,21 +156,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 70,
-   "kept": 14,
+   "fetched": 91,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada expected to hike interest rate next month, economists say",
-    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada Fades Core Inflation, Switches Gauges"
+    "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {
