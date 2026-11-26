@@ -9,7 +9,9 @@
 "src": "Morningstar",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"POLITIS - To the point"
+],
 "desc": "",
 "id": "9afeb6ba9368",
 "score": null,
@@ -49,7 +51,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Bloomberg"
+],
 "desc": "",
 "id": "80fecde0832e",
 "score": null,
@@ -1024,7 +1028,8 @@
 "Fresno Bee",
 "Columbus Ledger-Enquirer",
 "Forextraders.com",
-"Idaho Statesman"
+"Idaho Statesman",
+"KFGO"
 ],
 "desc": "",
 "id": "5309cb9fe8f6",
