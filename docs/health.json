@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T14:52:00Z",
+ "built": "2026-11-26T15:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -17,8 +17,8 @@
    "kind": "headline",
    "ok": true,
    "fetched": 25,
-   "kept": 0,
-   "added": 0,
+   "kept": 1,
+   "added": 1,
    "error": "",
    "near_misses": [
     "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks",
@@ -58,16 +58,16 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 99,
-   "kept": 13,
+   "fetched": 97,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Fed's Beige Book shows evidence of broadening price pressures",
-    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 60,
-   "added": 1,
+   "fetched": 69,
+   "kept": 33,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Why would the Fed consider a half-percentage-point hike in December?",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects"
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
+   "fetched": 67,
    "kept": 17,
    "added": 0,
    "error": "",
@@ -110,41 +110,52 @@
     "Spain's de Cos to become ECB's next president, FT reports",
     "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-    "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
     "Spaniard Pablo Hernandez de Cos to succeed Lagarde as head of ECB",
+    "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
     "Spain's Hern\u00e1ndez de Cos set to become new ECB president",
     "Minutes of ECB\u2019s October meeting confirm tightening bias",
     "Instant View: Spain\u2019s De Cos set to be nominated by EU leaders as next ECB chief",
     "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
-    "EU leaders set to confirm Spain's de Cos as next ECB President \u2013 Reuters"
+    "Eurozone leaders back Spain\u2019s Hern\u00e1ndez de Cos for ECB presidency"
    ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 26,
+   "kept": 14,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "ECB account shows many policymakers were ready to hike in October",
+    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
+    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
+    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "Euro above 19-month low: What next as ECB meeting accounts loom?",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "Euro trades above 19-month low ahead of ECB meeting accounts",
+    "19-month low: Euro regains ground ahead of ECB meeting accounts",
+    "Eurozone leaders back Hern\u00e1ndez de Cos to succeed Lagarde at ECB"
+   ]
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 20,
+   "fetched": 54,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
+    "Bank of England sees potential for lower inflation",
     "Bank of England Rate-Setters Leave December Hike on the Table",
     "UK food inflation could hit 5% next year, Bank of England says",
-    "Bank of England sees potential for lower inflation",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Bank of England to cut capital requirements for UK-focused lenders",
     "Bank of England boss puts his legacy on the line with softer touch on banks",
@@ -156,7 +167,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
+   "fetched": 95,
    "kept": 22,
    "added": 0,
    "error": "",
@@ -170,7 +181,7 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Canadian dollar hits 11-day high as investors raise BoC rate hike bets"
+    "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
   },
   {
@@ -260,8 +271,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
-   "added": 9,
+   "kept": 15,
+   "added": 8,
    "error": ""
   },
   {
