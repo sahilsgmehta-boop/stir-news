@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T13:52:01Z",
+ "built": "2026-11-26T14:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -21,6 +21,7 @@
    "added": 0,
    "error": "",
    "near_misses": [
+    "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks",
     "Gold remains caught between forced liquidations and hawkish Fed bets. What could trigger a reversal?"
    ]
   },
@@ -55,73 +56,76 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 87,
-   "kept": 11,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "Fed's Beige Book shows evidence of broadening price pressures",
-    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
-    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
-    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
-    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
-    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
-    "Hotter inflation sharpens debate over the Fed\u2019s next move",
-    "US inflation accelerates to 3.8% as strong growth complicates Fed's rate outlook"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 100,
+   "kept": 60,
+   "added": 2,
+   "error": "",
+   "near_misses": [
+    "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+   ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 38,
+   "kept": 13,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
+    "Spain's de Cos to become ECB's next president, FT reports",
+    "Pablo Hern\u00e1ndez de Cos to be next ECB President",
+    "Minutes of ECB\u2019s October meeting confirm tightening bias",
+    "ECB already had large support for rate hike in Oct, accounts show",
+    "EU leaders set to confirm Spain's de Cos as next ECB President \u2013 Reuters",
+    "Eurozone leaders pick Spain\u2019s Hern\u00e1ndez de Cos to succeed Lagarde at ECB",
+    "Pablo Hernndez de Cos is going to be the next ECB president - FT",
+    "Spain's De Cos set to become next ECB president",
+    "Latvian PM says a decision on the ECB's next president is expected today"
+   ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
-   "ok": true,
-   "fetched": 22,
-   "kept": 14,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
-    "Euro above 19-month low: What next as ECB meeting accounts loom?",
-    "Euro trades above 19-month low ahead of ECB meeting accounts",
-    "19-month low: Euro regains ground ahead of ECB meeting accounts"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 16,
+   "fetched": 68,
+   "kept": 21,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
     "Bank of England sees potential for lower inflation",
@@ -130,7 +134,8 @@
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Bank of England to cut capital requirements for UK-focused lenders",
     "Bank of England boss puts his legacy on the line with softer touch on banks",
-    "UK inflation may peak at lower rate than BoE forecast, says governor"
+    "UK inflation may peak at lower rate than BoE forecast, says governor",
+    "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee"
    ]
   },
   {
