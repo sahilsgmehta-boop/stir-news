@@ -192,6 +192,26 @@
 "basis": "reports"
 },
 {
+"t": "2026-11-26T00:00:00Z",
+"bank": "ECB",
+"speaker": "Lagarde",
+"hl": "Acting in time",
+"url": "https://www.bis.org/speeches/20261126-acting-time",
+"src": "BIS central bankers' speeches",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "Keynote speech by Ms Christine Lagarde, President of the European Central Bank, at the 36th Frankfurt European Banking Congress, Frankfurt am Main, 20 November 2026.",
+"id": "a18b70736685",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-25T19:22:26Z",
 "bank": "Fed",
 "speaker": "Williams",
@@ -1029,7 +1049,8 @@
 "Columbus Ledger-Enquirer",
 "Forextraders.com",
 "Idaho Statesman",
-"KFGO"
+"KFGO",
+"StreetInsider"
 ],
 "desc": "",
 "id": "5309cb9fe8f6",
