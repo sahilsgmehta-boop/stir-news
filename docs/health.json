@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T10:52:00Z",
+ "built": "2026-11-26T11:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -78,8 +78,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 36,
+   "fetched": 71,
+   "kept": 37,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -100,8 +100,8 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 14,
+   "fetched": 50,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -109,7 +109,12 @@
     "The economic calendar offers the ECB\u2019s meeting minutes",
     "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
-    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle"
+    "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
+    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "Euro above 19-month low: What next as ECB meeting accounts loom?",
+    "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
+    "ECB Expands Tokenized Securities Collateral from June 2027"
    ]
   },
   {
@@ -131,8 +136,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
-   "kept": 22,
+   "fetched": 45,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -143,9 +148,9 @@
     "Bank of England's Carney speaks following rates decision",
     "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England officials hint at faster rate hikes ahead",
-    "The Bank of England (BoE) has left open the possibility of a second interest rate hike in December.",
     "Video: LIVE: Bank of England Governor Andrew Bailey appears before UK Treasury Committee",
-    "JPMorgan Veteran Daniel E. Pinto Appointed to Bank of England Financial Policy Committee"
+    "The Bank of England (BoE) has left open the possibility of a second interest rate hike in December.",
+    "Higher economic activity and stronger labour market pushed Bank of England to hike rates"
    ]
   },
   {
@@ -153,21 +158,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 15,
+   "fetched": 96,
+   "kept": 22,
    "added": 0,
    "error": "",
    "near_misses": [
     "End-year inflation could be less than forecast, says Bank of Canada",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
+    "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Bank of Canada Warns of Broadening Inflation; Bonds Decline",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
-    "Bank of Canada expected to hike interest rate next month, economists say",
-    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada Fades Core Inflation, Switches Gauges"
+    "Bank of Canada Fades Core Inflation, Switches Gauges",
+    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
    ]
   },
   {
