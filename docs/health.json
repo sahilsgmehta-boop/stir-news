@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T01:37:00Z",
+ "built": "2026-11-26T01:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -54,17 +54,17 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 92,
-   "kept": 20,
-   "added": 1,
+   "fetched": 100,
+   "kept": 22,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's Beige Book shows evidence of broadening price pressures",
-    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
-    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Minneapolis Fed\u2019s Mattson named to \u201cTop Women in Finance\u201d list",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target",
@@ -77,11 +77,12 @@
    "kind": "news",
    "ok": true,
    "fetched": 67,
-   "kept": 35,
+   "kept": 34,
    "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
+    "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "AI boom looms over Warsh's Fed as inflation worries grow",
@@ -89,8 +90,7 @@
     "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 48,
    "kept": 20,
    "added": 0,
    "error": "",
@@ -107,12 +107,11 @@
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle",
     "France Makes Leading the ECB a Perilous Job to Fill",
     "The ECB\u2019s new team faces a testing start \u2013 With the skills to match",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB expands euro liquidity lifelines in push to challenge dollar dominance",
     "France and Germany candidates set for crucial ECB leadership vote",
     "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-    "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote",
-    "ECB Expands Tokenized Securities Collateral from June 2027"
+    "ECB Expands Tokenized Securities Collateral from June 2027",
+    "EU leaders seek to close the ECB\u2019s dome and unlock the pulse for common spending"
    ]
   },
   {
@@ -120,8 +119,8 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
-   "kept": 19,
+   "fetched": 23,
+   "kept": 20,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -134,7 +133,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 38,
    "kept": 18,
    "added": 0,
    "error": "",
@@ -156,7 +155,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
+   "fetched": 87,
    "kept": 18,
    "added": 0,
    "error": "",
