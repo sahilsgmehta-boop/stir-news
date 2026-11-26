@@ -11459,6 +11459,38 @@
    "basis": "reports",
    "at": "2026-11-25T20:55:58Z",
    "by": "claude"
+  },
+  "e145f66fe59c": {
+   "tone": "hawk",
+   "score": 6,
+   "read": "Keeps a 50bp December hike on the table, above the 25bp priced.",
+   "sum": "A Nov 25 report says Waller has put a half-point December hike on the table; no fresh remarks beyond his Nov 10 and Nov 18 comments could be found.",
+   "pts": [
+    "Headline: Waller keeps a 50bp December hike in play.",
+    "Nov 10: he backed a 25bp December hike, 50bp if October core CPI ran hot.",
+    "Nov 18: he said the Fed should hike 50bp or hike 25bp and signal faster increases.",
+    "No new venue or quotes were found for Nov 25; this looks like a recap."
+   ],
+   "rr": "Adds tail risk of 50bp on Dec 9 above the 25bp base case and supports higher 2027 pricing, though it adds nothing new to his known call. Only news paraphrases were available.",
+   "ev": "",
+   "basis": "reports",
+   "at": "2026-11-26T06:55:15Z",
+   "by": "claude"
+  },
+  "a2610f7a7d13": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says the ECB is ready to hike again as inflation risks stay elevated.",
+   "lead": "53f217a1155e",
+   "at": "2026-11-26T06:55:15Z",
+   "by": "claude"
+  },
+  "4db9bd9009c3": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-26T06:55:15Z",
+   "by": "claude"
   }
  }
 }
