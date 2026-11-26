@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T10:37:01Z",
+ "built": "2026-11-26T10:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -56,8 +56,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 15,
+   "fetched": 88,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -78,21 +78,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 67,
-   "added": 11,
+   "fetched": 69,
+   "kept": 36,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -100,14 +100,13 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 27,
+   "fetched": 26,
    "kept": 14,
    "added": 0,
    "error": "",
    "near_misses": [
     "Latvian PM says a decision on the ECB's next president is expected today",
     "The economic calendar offers the ECB\u2019s meeting minutes",
-    "Lagarde adds to the Euro dovishness",
     "Sweden's Riksbank to Migrate to ECB's T2 Payment Network by February 2030",
     "General Court upholds ECB\u2019s withdrawal of Banque Havilland\u2019s banking licence over AML/CFT and governance failures",
     "France nominates Laurence Boone to ECB Executive Board amid leadership reshuffle"
@@ -154,8 +153,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 93,
-   "kept": 21,
+   "fetched": 69,
+   "kept": 15,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -166,9 +165,9 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada expected to hike interest rate next month, economists say",
+    "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Bank of Canada Fades Core Inflation, Switches Gauges",
-    "Bank of Canada to maintain 2% inflation target as economic shocks test policy"
+    "Bank of Canada Fades Core Inflation, Switches Gauges"
    ]
   },
   {
@@ -257,7 +256,7 @@
    "ok": true,
    "fetched": 50,
    "kept": 16,
-   "added": 10,
+   "added": 9,
    "error": ""
   },
   {
@@ -326,7 +325,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 13,
+   "kept": 16,
    "added": 0,
    "error": ""
   }

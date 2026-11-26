@@ -1734,7 +1734,8 @@
 "tone": "hawk",
 "also": [
 "cwibc.co.id",
-"Limapagi"
+"Limapagi",
+"Peradaban.id"
 ],
 "desc": "",
 "id": "741819d00048",
@@ -4678,8 +4679,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "hawk",
-"also": [],
-"desc": "Speech At the International Monetary Fund and Central Bank of Brazil Conference “A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead,” Brasília, Brazil",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the International Monetary Fund and Central Bank of Brazil Conference “A quarter century of inflation targeting in Latin America: progress, challenges, and the road ahead”, Brasilia, 19 November 2026.",
 "id": "c8279dbe2376",
 "score": 3,
 "read": "Says the AI buildout is adding to inflation pressure; productivity gains only later.",
@@ -5563,8 +5566,10 @@
 "src": "Federal Reserve speeches",
 "tier": "official",
 "tone": "hawk",
-"also": [],
-"desc": "Speech At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, New York",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the conference “Making missing markets: catalyzing capital and igniting innovation”, organised by the Federal Reserve Bank of New York, New York City, 18 November 2026.",
 "id": "8a3dc2d04dd6",
 "score": 4,
 "read": "Says further hikes likely appropriate as inflation stays too high.",
@@ -5953,8 +5958,10 @@
 "src": "Bank of England speeches",
 "tier": "official",
 "tone": "hawk",
-"also": [],
-"desc": "Given at Institute of Economic Development Conference",
+"also": [
+"BIS central bankers' speeches"
+],
+"desc": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Institute of Economic Development Conference, London, 18 September 2026.",
 "id": "2cf3216395cb",
 "score": 3,
 "read": "More hikes likely the longer energy prices stay high; no preset path.",
