@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T08:37:00Z",
+ "built": "2026-11-27T08:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -78,11 +78,23 @@
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
-   "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "fetched": 100,
+   "kept": 65,
+   "added": 13,
+   "error": "",
+   "near_misses": [
+    "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+   ]
   },
   {
    "id": "gn_ecb",
@@ -90,7 +102,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 6,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -103,7 +115,7 @@
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
-    "Pablo Hern\u00e1ndez De Cos Backed to Lead the ECB After Lagarde"
+    "Spain's De Cos to take over as ECB president from Lagarde"
    ]
   },
   {
@@ -111,7 +123,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
+   "fetched": 44,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -121,29 +133,41 @@
     "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "ECB account shows many policymakers were ready to hike in October",
-    "Latvian PM says a decision on the ECB's next president is expected today",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "Euro area card payments rise to 45%, edging past cash in 2026: ECB",
-    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries"
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
+    "ECB already had large support for rate hike in Oct, accounts show"
    ]
   },
   {
    "id": "gn_boe",
    "name": "Google News: BoE",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 91,
+   "kept": 25,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "Bank of England sees growing financial risks as AI borrowing surges",
+    "Banks may pass on \u00a31.5bn tax rise on to customers, warns Bank of England chief",
+    "Bank of England to defy market pricing and stick with gradual tightening",
+    "Bank of England boss warns AI must benefit humans",
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
+    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
+    "Bank of England sees growing financial risks as AI borrowing surges",
+    "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
+    "Bank of England boss warns banks may pass on costs of Labour\u2019s tax hike to customers",
+    "Bank of England Rate-Setters Leave December Hike on the Table"
+   ]
   },
   {
    "id": "gn_boc",
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 46,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -157,7 +181,7 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH"
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
@@ -318,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
+   "kept": 17,
    "added": 0,
    "error": ""
   }
