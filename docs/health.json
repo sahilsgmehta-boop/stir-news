@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T00:39:28Z",
+ "built": "2026-11-27T00:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,14 +59,14 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 4,
+   "fetched": 86,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "Pound has only the Fed's quiet period ahead after a flat BoE report",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "Pound has only the Fed's quiet period ahead after a flat BoE report",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed's Beige Book Says Growth Is Mostly Modest While Cost Pressures Build",
@@ -81,9 +81,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
-   "kept": 32,
-   "added": 5,
+   "fetched": 100,
+   "kept": 63,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -94,8 +94,8 @@
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -104,7 +104,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 10,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -115,8 +115,8 @@
     "Business - Spain's De Cos chosen as next ECB president",
     "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
-    "Pablo Hern\u00e1ndez De Cos Backed to Lead the ECB After Lagarde",
     "Spain's De Cos to take over as ECB president from Lagarde",
+    "Pablo Hern\u00e1ndez De Cos Backed to Lead the ECB After Lagarde",
     "Spanish economist to become new European Central Bank chief"
    ]
   },
@@ -125,21 +125,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
+   "fetched": 23,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
     "ECB account shows many policymakers were ready to hike in October",
-    "Latvian PM says a decision on the ECB's next president is expected today",
-    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB already had large support for rate hike in Oct, accounts show",
+    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
+    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos.",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "Spain's de Cos to become ECB's next president, FT reports",
-    "ECB already had large support for rate hike in Oct, accounts show"
+    "Euro above 19-month low: What next as ECB meeting accounts loom?",
+    "Euro trades above 19-month low ahead of ECB meeting accounts"
    ]
   },
   {
@@ -169,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 49,
    "kept": 4,
    "added": 0,
    "error": "",
