@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T20:37:01Z",
+ "built": "2026-11-27T20:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,18 +58,18 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
-   "kept": 4,
+   "fetched": 48,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "High Inflation Puts Fed\u2019s Credibility On the Line",
     "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
-    "Fed holds interest rates steady as inflation hits 3-year high",
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "What the Fed's December hike means for the Australian Dollar's bounce",
+    "What a Surprise GDP Upgrade Means for the Fed's December Decision",
     "High inflation has puts US Fed\u2019s credibility on the line",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list"
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 65,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -113,10 +113,10 @@
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "Spain's De Cos to take over as ECB president from Lagarde",
-    "Spanish economist to succeed Lagarde at the ECB",
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
-    "DAX Rose As Europe Lined Up The Next ECB President"
+    "Spanish economist to succeed Lagarde at the ECB",
+    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president"
    ]
   },
   {
@@ -131,11 +131,11 @@
    "near_misses": [
     "ECB's gender gap set to widen further after Lagarde exit",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "ECB may have to raise rates further as inflation stays above 3%",
     "ECB: Germany\u2019s control room behind the Spanish presidency",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "EU leaders remain far apart on budget but reach agreement on next ECB president",
     "Euro area card payments rise to 45%, edging past cash in 2026: ECB"
@@ -146,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
-   "kept": 6,
+   "fetched": 78,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Bank of England to defy market pricing and stick with gradual tightening",
     "Bank of England sees growing financial risks as AI borrowing surges",
+    "Bank of England to defy market pricing and stick with gradual tightening",
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "What Bank of England report means for mortgages, savings and bills",
+    "Bank of England proposes further capital relief for major UK banks",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony"
+    "Bank of England puts AI hyperscaler exposure above $4 trillion"
    ]
   },
   {
@@ -342,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
+   "kept": 17,
    "added": 0,
    "error": ""
   }
