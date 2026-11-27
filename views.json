@@ -703,10 +703,10 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "December hike looks 'very likely' (Nov 18); 25bp is the ECB's usual step.",
+    "note": "Nov 27: the ECB has to act now to avoid falling behind the curve; Nov 18: December hike 'very likely'. 25bp is the usual step.",
     "how": "said",
-    "quote": "December rate hike looks 'very likely'",
-    "qsrc": "headline (Bloomberg), Nov 18"
+    "quote": "ECB has to act now so we don't fall behind",
+    "qsrc": "headline (Breakingthenews.net), Nov 27"
    },
    "following": {
     "call": "open",
@@ -720,13 +720,13 @@
     "by": "",
     "note": "Market bets on further tightening next year 'don't seem unreasonable' (Nov 16)."
    },
-   "view": "Energy prices and the Iran war keep pushing inflation up.",
-   "shift": "",
-   "last": "2026-11-18",
+   "view": "The ECB must hike now to avoid falling behind the curve as energy prices push inflation up.",
+   "shift": "Firmer: from a December hike 'very likely' (Nov 18) to 'act now' to avoid falling behind the curve (Nov 27).",
+   "last": "2026-11-27",
    "ev": "Remarks",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-18"
+   "asof": "2026-11-27"
   },
   "ECB|Lane": {
    "votes": {
@@ -849,10 +849,10 @@
    "stance": "hawk",
    "next": {
     "call": "+25",
-    "note": "Nov 20: ECB will likely need to act in December, taking rates into restrictive territory.",
+    "note": "Nov 27: signalled another hike is needed in December; earlier wanted rates in restrictive territory (Nov 20).",
     "how": "said",
-    "quote": "ECB Needs December Rate Hike Into Restrictive Zone",
-    "qsrc": "headline (Bloomberg), Nov 20"
+    "quote": "Signals Need for Another Rate Hike in December",
+    "qsrc": "headline (Bloomberg), Nov 27"
    },
    "following": {
     "call": "open",
@@ -864,15 +864,15 @@
    "path": {
     "total": "into restrictive territory",
     "by": "",
-    "note": "Wants policy moved into the restrictive zone (Nov 20); expectations still anchored, no wage-price spiral."
+    "note": "Wants policy in restrictive territory (Nov 20); sees inflation durably above 3% in 2027 (Nov 27)."
    },
-   "view": "A December hike is needed to move policy into restrictive territory; tightening would not undermine growth.",
-   "shift": "Firmer: from 'a hike would send a clear signal' (Nov 19) to wanting rates in restrictive territory (Nov 20).",
-   "last": "2026-11-20",
+   "view": "A December hike is needed, with inflation seen durably above 3% in 2027, so policy should move into restrictive territory.",
+   "shift": "",
+   "last": "2026-11-27",
    "ev": "Remarks",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-21"
+   "asof": "2026-11-27"
   },
   "ECB|Panetta": {
    "votes": {
@@ -1250,27 +1250,30 @@
    "votes": {
     "2026-12-17": false
    },
-   "stance": "lean dove",
+   "stance": "lean hawk",
    "next": {
-    "call": "",
-    "note": "No view given on December."
+    "call": "hike",
+    "note": "Nov 27: warned the two hikes so far may not be enough to control inflation; no meeting or size named. Does not vote in December.",
+    "how": "implied",
+    "quote": "two interest rate hikes may not be enough",
+    "qsrc": "headline (Business Upturn), Nov 27"
    },
    "following": {
     "call": "",
     "note": ""
    },
    "path": {
-    "total": "",
+    "total": "more than the two hikes so far",
     "by": "",
-    "note": ""
+    "note": "Nov 27: the two hikes this year may not suffice."
    },
-   "view": "The energy shock is not yet turning into broader price pressure (Oct 30).",
-   "shift": "",
-   "last": "2026-10-30",
+   "view": "More tightening may be needed because the two hikes so far may not be enough to control inflation.",
+   "shift": "More hawkish: from seeing no broadening of the energy shock (Oct 30) to warning two hikes may not be enough (Nov 27).",
+   "last": "2026-11-27",
    "ev": "Remarks",
    "basis": "reports",
-   "conf": "low",
-   "asof": "2026-11-18"
+   "conf": "medium",
+   "asof": "2026-11-27"
   },
   "ECB|Rehn": {
    "votes": {

@@ -11775,6 +11775,78 @@
    "read": "Staff blog on consumer expectations about AI, jobs and prices; no policy signal.",
    "at": "2026-11-27T11:55:36Z",
    "by": "claude"
+  },
+  "149af2070122": {
+   "tone": "dove",
+   "score": -3,
+   "read": "Repeat of his Nov 25 testimony: a lower peak if energy holds softens the hike case.",
+   "lead": "131f93aa7315",
+   "at": "2026-11-27T15:50:17Z",
+   "by": "claude"
+  },
+  "ae2eea211dbf": {
+   "tone": "hawk",
+   "score": 5,
+   "read": "Says the two hikes so far may not be enough, pointing to more tightening into 2027.",
+   "sum": "Dolenc warned that the ECB's two rate hikes so far may not be enough to bring inflation under control.",
+   "pts": [
+    "The two hikes delivered this year may not be sufficient to control inflation.",
+    "Implies further tightening beyond the current 2.50% deposit rate.",
+    "A firmer tone than his October view that the energy shock was not yet broadening.",
+    "He does not vote at the December meeting."
+   ],
+   "rr": "Supports the December hike that is priced and leans toward further hikes in early 2027; adds to hawkish breadth from a previously cautious governor, though he does not vote in December. Only news paraphrases were available.",
+   "ev": "Remarks (reported by Bloomberg)",
+   "basis": "reports",
+   "at": "2026-11-27T15:50:17Z",
+   "by": "claude"
+  },
+  "6027bf80b06e": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Inflation durably above 3% in 2027 argues for a December hike and possibly more.",
+   "sum": "Nagel said euro-area inflation will stay durably above 3% in 2027 and signalled the ECB needs another rate hike in December.",
+   "pts": [
+    "Expects inflation to remain durably above 3% through 2027.",
+    "Signals another hike is needed at the December 17 meeting.",
+    "Repeats his push to take rates into restrictive territory."
+   ],
+   "rr": "Backs the 25bp December hike that is priced; the sticky 2027 inflation view supports pricing of further hikes in 2027 rather than an early pause. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-27T15:50:17Z",
+   "by": "claude"
+  },
+  "e3dbe85fd9f8": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Signals another hike needed in December, in line with pricing but firm.",
+   "lead": "6027bf80b06e",
+   "at": "2026-11-27T15:50:17Z",
+   "by": "claude"
+  },
+  "38917b1c9019": {
+   "tone": "hawk",
+   "score": 7,
+   "read": "The vice-president says the ECB must act now to avoid falling behind the curve.",
+   "sum": "Vice-President Vujčić said the ECB has to act now so that it does not fall behind the curve on inflation.",
+   "pts": [
+    "The ECB must act now rather than wait for more data.",
+    "Warns of the risk of falling behind the curve on inflation.",
+    "Reinforces his Nov 18 view that a December hike is very likely."
+   ],
+   "rr": "Strongly backs a 25bp December hike and leans against any talk of a pause; the behind-the-curve framing supports pricing of further 2027 tightening. Only news paraphrases were available.",
+   "ev": "Remarks",
+   "basis": "reports",
+   "at": "2026-11-27T15:50:17Z",
+   "by": "claude"
+  },
+  "bae98f9760de": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-27T15:50:17Z",
+   "by": "claude"
   }
  }
 }
