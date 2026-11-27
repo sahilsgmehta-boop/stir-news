@@ -11665,6 +11665,74 @@
    "basis": "reports",
    "at": "2026-11-26T20:55:08Z",
    "by": "claude"
+  },
+  "c1c7f97c74d2": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
+  },
+  "0a164a202c08": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
+  },
+  "c38ee3c78d69": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
+  },
+  "820b620619b4": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Not a policy remark.",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
+  },
+  "a79e03ef3430": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Says AI must stay under human control; no rate content.",
+   "lead": "d148dcf0a031",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
+  },
+  "b31b026f3707": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "AI threat to encrypted financial data; financial-stability theme, no rate signal.",
+   "lead": "d148dcf0a031",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
+  },
+  "2a280a877a0c": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Compares Jensen Huang to Henry Ford; AI colour, nothing on rates.",
+   "lead": "d148dcf0a031",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
+  },
+  "a319d4ebe8e2": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Recaps Williams saying inflation is still too high as December hike bets build.",
+   "sum": "A Nov 26 write-up recaps Williams saying inflation is still too high, framing it as support for the hike expected at the December meeting.",
+   "pts": [
+    "No fresh Williams remarks; the story repeats his Nov 23 message.",
+    "He said inflation remains too high and more work is needed to reach 2%.",
+    "The piece links his comments to rising bets on a December rate hike."
+   ],
+   "rr": "Reinforces the 25bp December hike already priced; adds nothing new on a January follow-up or the size of the move. Only news paraphrases were available.",
+   "ev": "Report recapping Nov 23 remarks",
+   "basis": "reports",
+   "at": "2026-11-27T06:49:06Z",
+   "by": "claude"
   }
  }
 }
