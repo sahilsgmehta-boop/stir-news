@@ -27688,49 +27688,6 @@
 "rr": "",
 "ev": "",
 "basis": ""
-},
-{
-"t": "2026-10-13T20:16:22Z",
-"bank": "Fed",
-"speaker": "Collins",
-"hl": "Fed's Collins backs September hike, sees Oil and AI driving inflation",
-"url": "https://www.fxstreet.com/news/feds-collins-backs-september-hike-sees-oil-and-ai-driving-inflation-202610132016",
-"src": "FXStreet",
-"tier": "comment",
-"tone": "hawk",
-"also": [],
-"id": "bab9f745987e",
-"score": 4,
-"read": "Endorses past tightening and names live inflation drivers.",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
-},
-{
-"t": "2026-10-13T20:08:15Z",
-"bank": "Fed",
-"speaker": "Collins",
-"hl": "Fed’s Collins backs another rate hike by year-end, flags three inflation pressures",
-"url": "https://investinglive.com/central-banks/fed-s-collins-backs-another-rate-hike-by-year-end-flags-three-inflation-pressures/",
-"src": "investingLive",
-"tier": "comment",
-"tone": "hawk",
-"also": [
-"Reuters",
-"Yahoo Finance"
-],
-"id": "0b1e1ba1fcd2",
-"score": 5,
-"read": "Explicit support for one more hike this year.",
-"desc": "",
-"sum": "",
-"pts": [],
-"rr": "",
-"ev": "",
-"basis": ""
 }
 ]
 }
