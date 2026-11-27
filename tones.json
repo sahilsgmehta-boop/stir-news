@@ -11733,6 +11733,48 @@
    "basis": "reports",
    "at": "2026-11-27T06:49:06Z",
    "by": "claude"
+  },
+  "03b6dbe3c5b1": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Restates his AI scenarios as illustrations, not forecasts; no rate signal.",
+   "sum": "Warsh's coverage centres on an AI bust scenario he described as an illustration rather than a forecast, with no new guidance on rates.",
+   "pts": [
+    "Framed as one of three possible AI futures he set out, ranging from a growth boom to job losses.",
+    "The bust case pairs disappointing AI returns with a fall in stock prices.",
+    "He stressed the scenarios are not Fed forecasts.",
+    "No comment on inflation, the December meeting or the rate path was reported."
+   ],
+   "rr": "No rate signal; leaves the 25bp December hike pricing and the 2027 path unchanged. Only news paraphrases were available.",
+   "ev": "Coverage of remarks at the Productivity and Jobs Task Force conference",
+   "basis": "reports",
+   "at": "2026-11-27T11:55:36Z",
+   "by": "claude"
+  },
+  "d39f2fe2c8cc": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Payments and tokenization remarks; nothing on rates.",
+   "sum": "Waller set out a role for the central bank in round-the-clock settlement of tokenized markets, arguing traditional rails and new technology can work together.",
+   "pts": [
+    "Sees the Fed providing settlement infrastructure as markets move toward 24/7 trading.",
+    "Says tokenized markets still need central bank money at their core.",
+    "Traditional payment rails and tokenized platforms can operate side by side.",
+    "Suggested AI and tokenization could reinforce each other's development.",
+    "No comment on inflation or the rate path was reported."
+   ],
+   "rr": "No rate signal; leaves December hike pricing unchanged. Only news paraphrases were available.",
+   "ev": "Remarks on payments and tokenized markets",
+   "basis": "reports",
+   "at": "2026-11-27T11:55:36Z",
+   "by": "claude"
+  },
+  "64d095b6874d": {
+   "tone": "neutral",
+   "score": 0,
+   "read": "Staff blog on consumer expectations about AI, jobs and prices; no policy signal.",
+   "at": "2026-11-27T11:55:36Z",
+   "by": "claude"
   }
  }
 }
