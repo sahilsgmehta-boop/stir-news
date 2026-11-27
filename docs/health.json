@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T07:37:01Z",
+ "built": "2026-11-27T07:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,9 +58,9 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 85,
-   "kept": 8,
-   "added": 0,
+   "fetched": 86,
+   "kept": 9,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
@@ -72,7 +72,7 @@
     "US Fed chair says gradual interest rate hike likely",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
     "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears"
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list"
    ]
   },
   {
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
+   "kept": 62,
    "added": 2,
    "error": "",
    "near_misses": [
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 7,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 72,
+   "fetched": 71,
    "kept": 19,
    "added": 0,
    "error": "",
@@ -182,7 +182,7 @@
     "Bank of Canada expected to hike interest rate next month, economists say - National",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England"
+    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH"
    ]
   },
   {
