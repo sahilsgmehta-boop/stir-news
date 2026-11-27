@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T22:07:01Z",
+ "built": "2026-11-27T22:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,20 +58,20 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
-   "kept": 4,
+   "fetched": 45,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "High Inflation Puts Fed\u2019s Credibility On the Line",
-    "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
     "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
+    "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "What the Fed's December hike means for the Australian Dollar's bounce",
-    "What a Surprise GDP Upgrade Means for the Fed's December Decision",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says"
    ]
   },
@@ -80,7 +80,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
+   "fetched": 60,
    "kept": 26,
    "added": 5,
    "error": "",
@@ -110,10 +110,10 @@
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "What the ECB\u2019s new leadership could mean for interest rates",
-    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "Spain's De Cos to take over as ECB president from Lagarde",
-    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
+    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "Spanish economist to succeed Lagarde at the ECB",
     "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president"
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 3,
+   "fetched": 48,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's gender gap set to widen further after Lagarde exit",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "ECB: Germany\u2019s control room behind the Spanish presidency",
-    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
+    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "ECB: Germany\u2019s control room behind the Spanish presidency",
     "ECB may have to raise rates further as inflation stays above 3%",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President"
+    "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "European Central Bank set to appoint its first Spanish leader",
+    "EU leaders remain far apart on budget but reach agreement on next ECB president"
    ]
   },
   {
@@ -146,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 6,
+   "fetched": 77,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
-    "Bank of England to defy market pricing and stick with gradual tightening",
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
+    "Bank of England to defy market pricing and stick with gradual tightening",
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "Bank of England issues economic warning \u2013 what it means for mortgages, savings and bills",
-    "Bank of England flags AI and quantum risks to financial encryption",
+    "Bank of England proposes further capital relief for major UK banks",
     "BoE warns AI financing is deepening links across markets",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "Bank of England Governor warns lenders may pass bank tax hike to customers"
+    "Bank of England flags AI and quantum risks to financial encryption",
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
    ]
   },
   {
@@ -342,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
+   "kept": 17,
    "added": 0,
    "error": ""
   }
