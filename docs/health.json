@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T04:22:00Z",
+ "built": "2026-11-27T04:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -79,21 +79,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 1,
+   "fetched": 67,
+   "kept": 33,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -102,7 +102,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 7,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -111,8 +111,8 @@
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Business - Spain's De Cos chosen as next ECB president",
-    "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
+    "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Pablo Hern\u00e1ndez De Cos Backed to Lead the ECB After Lagarde",
     "Spanish economist to become new European Central Bank chief"
@@ -177,11 +177,11 @@
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
     "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
-    "Bank of Canada shakes up core measures, focuses on 2% inflation target",
+    "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England"
+    "Bank of Canada shakes up core measures, focuses on 2% inflation target"
    ]
   },
   {
@@ -189,7 +189,7 @@
    "name": "Google News: SNB",
    "kind": "news",
    "ok": true,
-   "fetched": 3,
+   "fetched": 2,
    "kept": 0,
    "added": 0,
    "error": "",
