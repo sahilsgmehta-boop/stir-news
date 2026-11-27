@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T17:52:01Z",
+ "built": "2026-11-27T18:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 5,
+   "fetched": 51,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "High Inflation Puts Fed\u2019s Credibility On the Line",
     "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
-    "Fed holds interest rates steady as inflation hits 3-year high",
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "What the Fed's December hike means for the Australian Dollar's bounce",
-    "High inflation has puts US Fed\u2019s credibility on the line",
-    "Fed's Bullard hopes for more trade deals like NAFTA 2.0 to reduce uncertainty",
-    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
+    "Fed's Beige Book shows evidence of broadening price pressures"
    ]
   },
   {
@@ -82,19 +82,19 @@
    "ok": true,
    "fetched": 100,
    "kept": 67,
-   "added": 1,
+   "added": 10,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -109,13 +109,13 @@
    "near_misses": [
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
     "What the ECB\u2019s new leadership could mean for interest rates",
+    "ECB may have to raise rates further as inflation stays above 3%",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
+    "Pablo Hern\u00e1ndez de Cos, the new ECB President, visited MONDRAGON in 2024",
     "Spanish economist to succeed Lagarde at the ECB",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "ECB may have to raise rates further as inflation stays above 3%",
-    "DAX Rose As Europe Lined Up The Next ECB President",
     "Spain\u2019s Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president"
    ]
   },
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 61,
-   "kept": 7,
+   "fetched": 83,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -157,10 +157,10 @@
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "What Bank of England report means for mortgages, savings and bills",
+    "Bank of England proposes further capital relief for major UK banks",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
-    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
+    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony"
    ]
   },
   {
@@ -168,21 +168,21 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 28,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
+    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
     "Bank of Canada expected to hike interest rate next month, economists say - National",
-    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
-    "Bank of Canada expected to hike interest rate next month, economists say",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief"
+    "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England",
+    "Bank of Canada To Hike Rates After Changing Preferred Inflation Measure: BMO",
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
@@ -342,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 17,
+   "kept": 16,
    "added": 0,
    "error": ""
   }
