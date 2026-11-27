@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T22:37:00Z",
+ "built": "2026-11-27T22:39:19Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 4,
+   "fetched": 47,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -67,10 +67,10 @@
     "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
-    "Fed holds interest rates steady as inflation hits 3-year high",
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "What the Fed's December hike means for the Australian Dollar's bounce",
+    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
     "What a Surprise GDP Upgrade Means for the Fed's December Decision",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says"
    ]
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 6,
+   "fetched": 26,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's gender gap set to widen further after Lagarde exit",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
-    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
-    "ECB: Germany\u2019s control room behind the Spanish presidency",
     "ECB may have to raise rates further as inflation stays above 3%",
+    "ECB: Germany\u2019s control room behind the Spanish presidency",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "European Central Bank set to appoint its first Spanish leader",
-    "EU leaders remain far apart on budget but reach agreement on next ECB president"
+    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB Officials Saw More Tightening With Inflation Outlook Worse"
    ]
   },
   {
@@ -146,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 6,
+   "fetched": 77,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
     "Bank of England sees growing financial risks as AI borrowing surges",
+    "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
     "Bank of England to defy market pricing and stick with gradual tightening",
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "Bank of England issues economic warning \u2013 what it means for mortgages, savings and bills",
+    "Bank of England proposes further capital relief for major UK banks",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony"
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 23,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -342,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 17,
+   "kept": 16,
    "added": 0,
    "error": ""
   }
