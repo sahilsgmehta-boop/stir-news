@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T17:37:00Z",
+ "built": "2026-11-27T17:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,8 +58,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 4,
+   "fetched": 54,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -70,9 +70,9 @@
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "What the Fed's December hike means for the Australian Dollar's bounce",
-    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
-    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
-    "US Fed chair says gradual interest rate hike likely"
+    "High inflation has puts US Fed\u2019s credibility on the line",
+    "Fed's Bullard hopes for more trade deals like NAFTA 2.0 to reduce uncertainty",
+    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
    ]
   },
   {
@@ -103,20 +103,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 9,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
     "What the ECB\u2019s new leadership could mean for interest rates",
-    "ECB may have to raise rates further as inflation stays above 3%",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
-    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
     "Spain's De Cos to take over as ECB president from Lagarde",
+    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
     "Spanish economist to succeed Lagarde at the ECB",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "Spain\u2019s Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president",
-    "DAX Rose As Europe Lined Up The Next ECB President"
+    "ECB may have to raise rates further as inflation stays above 3%",
+    "DAX Rose As Europe Lined Up The Next ECB President",
+    "Spain\u2019s Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president"
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 60,
+   "fetched": 61,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -160,7 +160,7 @@
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
     "December Bank of England Rate Rise Not a Formality After Bailey's Testimony",
-    "Bank of England Governor warns lenders may pass bank tax hike to customers"
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 37,
+   "fetched": 36,
    "kept": 0,
    "added": 0,
    "error": "",
