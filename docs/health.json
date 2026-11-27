@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T14:52:01Z",
+ "built": "2026-11-27T15:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
+   "fetched": 50,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -72,7 +72,7 @@
     "What the Fed's December hike means for the Australian Dollar's bounce",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
-    "US Fed chair says gradual interest rate hike likely"
+    "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target"
    ]
   },
   {
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 32,
+   "fetched": 68,
+   "kept": 33,
    "added": 6,
    "error": "",
    "near_misses": [
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 9,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -116,7 +116,7 @@
     "ECB may have to raise rates further as inflation stays above 3%",
     "Spain\u2019s Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "Pablo Hern\u00e1ndez de Cos, the new ECB President, visited MONDRAGON in 2024"
+    "Spain's De Cos to take over as ECB president from Lagarde"
    ]
   },
   {
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
-   "kept": 5,
+   "fetched": 26,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's gender gap set to widen further after Lagarde exit",
-    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "ECB may have to raise rates further as inflation stays above 3%",
-    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "ECB: Germany\u2019s control room behind the Spanish presidency",
+    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "European Central Bank set to appoint its first Spanish leader",
-    "European Council puts forward Pablo Hern\u00e1ndez de Cos as next President of the European Central Bank",
-    "EU leaders remain far apart on budget but reach agreement on next ECB president",
-    "Euro area card payments rise to 45%, edging past cash in 2026: ECB"
+    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "ECB may have to raise rates further as inflation stays above 3%",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "ECB account shows many policymakers were ready to hike in October"
    ]
   },
   {
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 98,
-   "kept": 17,
+   "fetched": 96,
+   "kept": 16,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,7 +156,7 @@
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
-    "What Bank of England report means for mortgages, savings and bills",
+    "Bank of England issues economic warning \u2013 what it means for mortgages, savings and bills",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England proposes further capital relief for major UK banks",
     "Bank of England flags AI and quantum risks to financial encryption",
@@ -168,8 +168,8 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
-   "kept": 2,
+   "fetched": 36,
+   "kept": 1,
    "added": 0,
    "error": "",
    "near_misses": [
