@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-27T13:31:56Z",
+"bank": "ECB",
+"speaker": "Nagel",
+"hl": "ECB’s Nagel Signals Need for Another Rate Hike in December",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlpPOVV2bmRKNmQ0WFI0TlNOS3haQzFnOFJ6R2Y1ME5YUURJV2RMTldFTXBpenJzWWR5UkdfdGc4ZW02aGJFQV80V3RvMDl5S2FTaXdCZ09zS1RUMm15V19HV3FkbXZkMjVkOFJMbTVwbEFxSjNHRjFlZEZ2U3FTaEhyUGtkVFEwNzFVR1c4SGpIcEFWVlhqMERqelBUSWJDbGo5NHNGdzF1d1dPdnc?oc=5",
+"src": "Bloomberg.com",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "e3dbe85fd9f8",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-27T13:25:11Z",
 "bank": "ECB",
 "speaker": "Nagel",
@@ -51,7 +71,9 @@
 "src": "WSJ",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"The Economic Times"
+],
 "desc": "",
 "id": "149af2070122",
 "score": null,
