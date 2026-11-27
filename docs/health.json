@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T19:37:20Z",
+ "built": "2026-11-27T19:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -108,15 +108,15 @@
    "error": "",
    "near_misses": [
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
-    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "What the ECB\u2019s new leadership could mean for interest rates",
+    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "ECB may have to raise rates further as inflation stays above 3%",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Spanish economist to succeed Lagarde at the ECB",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-    "DAX Rose As Europe Lined Up The Next ECB President",
-    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president"
+    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president"
    ]
   },
   {
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 3,
+   "fetched": 48,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's gender gap set to widen further after Lagarde exit",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "ECB: Germany\u2019s control room behind the Spanish presidency",
-    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "ECB: Germany\u2019s control room behind the Spanish presidency",
     "ECB may have to raise rates further as inflation stays above 3%",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "ECB account shows many policymakers were ready to hike in October"
+    "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "EU leaders remain far apart on budget but reach agreement on next ECB president",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President"
    ]
   },
   {
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
-   "kept": 6,
+   "fetched": 79,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -158,9 +158,9 @@
     "Bank of England boss warns AI must benefit humans",
     "What Bank of England report means for mortgages, savings and bills",
     "BoE warns AI financing is deepening links across markets",
+    "Bank of England proposes further capital relief for major UK banks",
     "Bank of England flags AI and quantum risks to financial encryption",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony"
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 36,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -177,11 +177,11 @@
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
     "Bank of Canada expected to hike interest rate next month, economists say - National",
+    "Canadian Dollar draws support from BoC rate hike bets, jobs data in focus",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Bank of Canada Keeps 2 Percent Inflation Target Through 2031",
     "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
