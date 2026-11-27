@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T05:07:00Z",
+ "built": "2026-11-27T05:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -8,7 +8,7 @@
    "ok": true,
    "fetched": 25,
    "kept": 4,
-   "added": 0,
+   "added": 1,
    "error": ""
   },
   {
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 8,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
+   "fetched": 43,
    "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "ECB account shows many policymakers were ready to hike in October",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
-    "ECB already had large support for rate hike in Oct, accounts show",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos.",
+    "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB account shows many policymakers were ready to hike in October",
+    "Latvian PM says a decision on the ECB's next president is expected today",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "Euro above 19-month low: What next as ECB meeting accounts loom?"
+    "Dutch to Back EU Consensus for ECB Jobs, Opening Door to De Cos",
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
+    "ECB already had large support for rate hike in Oct, accounts show"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 49,
    "kept": 4,
    "added": 0,
    "error": "",
