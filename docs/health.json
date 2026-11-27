@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T23:07:01Z",
+ "built": "2026-11-27T23:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -69,10 +69,10 @@
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
-    "What the Fed's December hike means for the Australian Dollar's bounce",
     "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
-    "What a Surprise GDP Upgrade Means for the Fed's December Decision",
-    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says"
+    "What the Fed's December hike means for the Australian Dollar's bounce",
+    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
+    "What a Surprise GDP Upgrade Means for the Fed's December Decision"
    ]
   },
   {
@@ -81,7 +81,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 67,
+   "kept": 68,
    "added": 12,
    "error": "",
    "near_misses": [
@@ -125,7 +125,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 26,
-   "kept": 5,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -138,7 +138,7 @@
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "ECB account shows many policymakers were ready to hike in October"
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries"
    ]
   },
   {
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 78,
-   "kept": 8,
+   "fetched": 57,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -156,11 +156,11 @@
     "Bank of England to defy market pricing and stick with gradual tightening",
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
-    "Bank of England issues economic warning \u2013 what it means for mortgages, savings and bills",
-    "Bank of England proposes further capital relief for major UK banks",
+    "What Bank of England report means for mortgages, savings and bills",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
-    "Bank of England warns frontier AI could put encryption at risk"
+    "Bank of England warns frontier AI could put encryption at risk",
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 22,
+   "fetched": 35,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -182,7 +182,7 @@
     "Canadian Financial Close: Loonie strongly reacts to Macklem\u2019s speech",
     "Macklem Reframes Inflation Focus on Headline CPI, Keeping December Bank of Canada Hike in Play",
     "Bank of Canada Keeps 2 Percent Inflation Target Through 2031",
-    "Bank of Canada Signals Another Rate Hike Is Coming in December"
+    "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects"
    ]
   },
   {
