@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T06:07:01Z",
+ "built": "2026-11-27T06:10:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 31,
-   "added": 5,
+   "fetched": 100,
+   "kept": 61,
+   "added": 2,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 8,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -135,9 +135,9 @@
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "ECB account shows many policymakers were ready to hike in October",
     "Latvian PM says a decision on the ECB's next president is expected today",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
-    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
     "Euro area card payments rise to 45%, edging past cash in 2026: ECB",
+    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
+    "ECB meeting accounts are next for a Euro off its 19-month low",
     "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries"
    ]
   },
@@ -146,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
-   "kept": 25,
+   "fetched": 71,
+   "kept": 19,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Bank of England boss warns AI must benefit humans",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England warns opaque AI borrowing could spread financial stress",
+    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
+    "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
     "Bank of England to defy market pricing and stick with gradual tightening",
-    "Bank of England Rate-Setters Leave December Hike on the Table",
-    "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks"
+    "Bank of England Rate-Setters Leave December Hike on the Table"
    ]
   },
   {
@@ -168,14 +168,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 47,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
+    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
