@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T00:37:01Z",
+ "built": "2026-11-27T00:39:28Z",
  "sources": [
   {
    "id": "il_cb",
@@ -81,9 +81,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 63,
-   "kept": 33,
-   "added": 6,
+   "fetched": 64,
+   "kept": 32,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -104,7 +104,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -125,21 +125,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 44,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "ECB account shows many policymakers were ready to hike in October",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "ECB already had large support for rate hike in Oct, accounts show",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos.",
+    "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB account shows many policymakers were ready to hike in October",
+    "Latvian PM says a decision on the ECB's next president is expected today",
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "Euro above 19-month low: What next as ECB meeting accounts loom?",
-    "Euro trades above 19-month low ahead of ECB meeting accounts"
+    "Spain's de Cos to become ECB's next president, FT reports",
+    "ECB already had large support for rate hike in Oct, accounts show"
    ]
   },
   {
@@ -147,21 +147,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
-   "kept": 17,
+   "fetched": 79,
+   "kept": 23,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
+    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England warns opaque AI borrowing could spread financial stress",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
-    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
+    "Bank of England Rate-Setters Leave December Hike on the Table",
     "Mortgage payments to rise for millions, Bank of England warns",
-    "Bank of England sees potential for lower inflation",
-    "Bank of England Rate-Setters Leave December Hike on the Table"
+    "Bank of England sees potential for lower inflation"
    ]
   },
   {
