@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-27T14:32:17Z",
+"bank": "Fed",
+"speaker": "Warsh",
+"hl": "Fed Chair Warsh Should Follow His Own Advice",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1JVaUxBbVM1OTJUWjdNRWtXM2ZudkpERkxmYU9FV2RuOEotSnRlb18xR0V0WmVNZDRLSFNudklUVnBudWx2ODE2MTVkcXRCYURlcmNqcWd3VFB3NHZCTTRURG4tdGxoUEZmbF9tLWI5d1MwSndpSUJFZUx0dTExblVtR19tX1k2dS1md0oxWGdDc19NZk9IMnk5MA?oc=5",
+"src": "Unleash Prosperity",
+"tier": "comment",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "bae98f9760de",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-27T14:00:00Z",
 "bank": "ECB",
 "speaker": "",
@@ -72,7 +92,8 @@
 "tier": "comment",
 "tone": "",
 "also": [
-"Forex Factory"
+"Forex Factory",
+"Bloomberg.com"
 ],
 "desc": "",
 "id": "ae2eea211dbf",
