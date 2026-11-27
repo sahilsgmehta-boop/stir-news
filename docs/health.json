@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T01:07:00Z",
+ "built": "2026-11-27T01:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,19 +58,19 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 86,
-   "kept": 8,
+   "fetched": 69,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Pound has only the Fed's quiet period ahead after a flat BoE report",
+    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Fed's Beige Book shows evidence of broadening price pressures",
-    "Fed's Beige Book Says Growth Is Mostly Modest While Cost Pressures Build",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
+    "Fed's Beige Book Says Growth Is Mostly Modest While Cost Pressures Build",
     "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears"
    ]
@@ -80,9 +80,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 66,
-   "kept": 34,
-   "added": 5,
+   "fetched": 100,
+   "kept": 70,
+   "added": 15,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -92,9 +92,9 @@
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates"
+    "Fighting inflation likely to be 'painful,' Chicago Fed president says"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 11,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 23,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
     "ECB account shows many policymakers were ready to hike in October",
-    "Latvian PM says a decision on the ECB's next president is expected today",
-    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB already had large support for rate hike in Oct, accounts show",
+    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
+    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos.",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "ECB already had large support for rate hike in Oct, accounts show",
-    "Spain's de Cos to become ECB's next president, FT reports"
+    "Euro above 19-month low: What next as ECB meeting accounts loom?",
+    "Euro trades above 19-month low ahead of ECB meeting accounts"
    ]
   },
   {
@@ -146,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
-   "kept": 17,
+   "fetched": 80,
+   "kept": 23,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
+    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England warns opaque AI borrowing could spread financial stress",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
-    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
     "Mortgage payments to rise for millions, Bank of England warns",
-    "Bank of England sees potential for lower inflation",
-    "Bank of England Rate-Setters Leave December Hike on the Table"
+    "Bank of England Rate-Setters Leave December Hike on the Table",
+    "Bank of England sees potential for lower inflation"
    ]
   },
   {
