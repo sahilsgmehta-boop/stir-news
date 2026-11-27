@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T12:22:00Z",
+ "built": "2026-11-27T12:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,8 +59,8 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 69,
-   "kept": 5,
+   "fetched": 76,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -72,8 +72,8 @@
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
     "Pound has only the Fed's quiet period ahead after a flat BoE report",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears",
-    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says"
+    "US Fed chair says gradual interest rate hike likely",
+    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears"
    ]
   },
   {
@@ -125,21 +125,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 3,
-   "added": 0,
+   "fetched": 25,
+   "kept": 4,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
-    "EU leaders remain far apart on budget but reach agreement on next ECB president",
     "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB account shows many policymakers were ready to hike in October",
     "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
     "ECB recommends Spanish economist as next president",
-    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate"
+    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
+    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos."
    ]
   },
   {
@@ -147,7 +147,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 64,
+   "fetched": 65,
    "kept": 12,
    "added": 0,
    "error": "",
@@ -160,8 +160,8 @@
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
     "Bank of England Governor warns lenders may pass bank tax hike to customers",
-    "Bank of England boss warns banks may pass on costs of Labour\u2019s tax hike to customers",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
+    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony",
+    "Bank of England boss warns banks may pass on costs of Labour\u2019s tax hike to customers"
    ]
   },
   {
@@ -169,7 +169,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
+   "fetched": 39,
    "kept": 3,
    "added": 0,
    "error": "",
