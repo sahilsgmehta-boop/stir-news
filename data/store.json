@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-27T10:00:00Z",
+"bank": "ECB",
+"speaker": "",
+"hl": "AI, jobs and prices: what euro area consumers expect",
+"url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261127~81118f8ec0.en.html",
+"src": "ECB blog",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "64d095b6874d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-27T04:17:07Z",
 "bank": "Fed",
 "speaker": "Warsh",

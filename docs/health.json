@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T09:52:00Z",
+ "built": "2026-11-27T10:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 84,
-   "kept": 7,
+   "fetched": 81,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
-    "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
+    "Fed holds interest rates steady as inflation hits 3-year high",
+    "The Fed\u2019s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It\u2019s Bad News for Wall Street",
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
     "Pound has only the Fed's quiet period ahead after a flat BoE report",
-    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "US Fed chair says gradual interest rate hike likely",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
-    "US Fed chair says gradual interest rate hike likely"
+    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list"
    ]
   },
   {
@@ -146,20 +146,20 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 97,
+   "fetched": 100,
    "kept": 25,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
+    "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England to defy market pricing and stick with gradual tightening",
     "Bank of England boss warns AI must benefit humans",
     "Bank of England flags AI and quantum risks to financial encryption",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
     "Bank of England sees growing financial risks as AI borrowing surges",
-    "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England Governor warns lenders may pass bank tax hike to customers"
    ]
   },
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 43,
+   "fetched": 46,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -182,7 +182,7 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Canadian Dollar: Macklem keeps hike risk alive \u2013 BBH"
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
