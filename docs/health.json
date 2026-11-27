@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T12:52:01Z",
+ "built": "2026-11-27T13:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -81,65 +81,53 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 67,
-   "kept": 32,
-   "added": 6,
+   "fetched": 100,
+   "kept": 64,
+   "added": 12,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates"
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "Williams keeps December Fed hike in play as inflation seen above 2% until 2028"
    ]
   },
   {
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": true,
-   "fetched": 100,
-   "kept": 8,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
-    "What the ECB\u2019s new leadership could mean for interest rates",
-    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
-    "Spanish economist to succeed Lagarde at the ECB",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
-    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
-    "Spain\u2019s Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president",
-    "Spain's De Cos to take over as ECB president from Lagarde",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-    "Business - Spain's De Cos chosen as next ECB president"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 48,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB's gender gap set to widen further after Lagarde exit",
+    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "EU leaders remain far apart on budget but reach agreement on next ECB president",
     "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "Euro area card payments rise to 45%, edging past cash in 2026: ECB",
     "ECB meeting accounts are next for a Euro off its 19-month low",
-    "ECB account shows many policymakers were ready to hike in October",
-    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
-    "ECB recommends Spanish economist as next president",
-    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos."
+    "ECB already had large support for rate hike in Oct, accounts show",
+    "ECB account shows many policymakers were ready to hike in October"
    ]
   },
   {
@@ -149,19 +137,19 @@
    "ok": true,
    "fetched": 65,
    "kept": 11,
-   "added": 0,
+   "added": 1,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
-    "Bank of England to defy market pricing and stick with gradual tightening",
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
+    "Bank of England to defy market pricing and stick with gradual tightening",
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
+    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony",
     "Bank of England Governor warns lenders may pass bank tax hike to customers",
-    "Bank of England boss warns banks may pass on costs of Labour\u2019s tax hike to customers",
-    "December Bank of England Rate Rise Not a Formality After Bailey's Testimony"
+    "Bank of England boss warns banks may pass on costs of Labour\u2019s tax hike to customers"
    ]
   },
   {
@@ -343,7 +331,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
+   "kept": 17,
    "added": 0,
    "error": ""
   }
