@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T06:52:00Z",
+ "built": "2026-11-27T07:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,44 +57,32 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 84,
-   "kept": 8,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
-    "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
-    "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
-    "Fed's Beige Book shows evidence of broadening price pressures",
-    "Pound has only the Fed's quiet period ahead after a flat BoE report",
-    "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears",
-    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 2,
+   "fetched": 64,
+   "kept": 29,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-    "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -124,21 +112,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 8,
+   "fetched": 42,
+   "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
+    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "ECB account shows many policymakers were ready to hike in October",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "ECB already had large support for rate hike in Oct, accounts show",
-    "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos.",
-    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "Latvian PM says a decision on the ECB's next president is expected today",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "Euro above 19-month low: What next as ECB meeting accounts loom?"
+    "ECB meeting accounts are next for a Euro off its 19-month low",
+    "Euro area card payments rise to 45%, edging past cash in 2026: ECB",
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries"
    ]
   },
   {
@@ -146,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 89,
+   "fetched": 90,
    "kept": 25,
    "added": 0,
    "error": "",
@@ -168,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 47,
+   "fetched": 46,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -182,7 +170,7 @@
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Video: Bank of Canada governor says inflation forecast is lower",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England"
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
