@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T13:07:00Z",
+ "built": "2026-11-27T13:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -22,8 +22,7 @@
    "error": "",
    "near_misses": [
     "Connecting the dots: When does the AI selloff become a Fed problem?",
-    "Spanish inflation comes off the boil in November, offering some respite for the ECB",
-    "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation"
+    "Spanish inflation comes off the boil in November, offering some respite for the ECB"
    ]
   },
   {
@@ -59,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 75,
+   "fetched": 65,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -70,9 +69,9 @@
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "What the Fed's December hike means for the Australian Dollar's bounce",
     "Inflation Rose 3.8% in October, Cementing Fed\u2019s Next Rate Hike",
-    "Pound has only the Fed's quiet period ahead after a flat BoE report",
-    "US Fed chair says gradual interest rate hike likely",
+    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed\u2019s preferred inflation metric rose in October as final 2026 rate meeting nears"
    ]
   },
@@ -102,32 +101,44 @@
    "id": "gn_ecb",
    "name": "Google News: ECB",
    "kind": "news",
-   "ok": false,
-   "fetched": 0,
-   "kept": 0,
+   "ok": true,
+   "fetched": 100,
+   "kept": 7,
    "added": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "",
+   "near_misses": [
+    "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
+    "What the ECB\u2019s new leadership could mean for interest rates",
+    "Spanish economist to succeed Lagarde at the ECB",
+    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
+    "Spain\u2019s Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president",
+    "Spain's De Cos to take over as ECB president from Lagarde",
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+    "Business - Spain's De Cos chosen as next ECB president"
+   ]
   },
   {
    "id": "gn_ecb2",
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 48,
+   "fetched": 25,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "ECB's gender gap set to widen further after Lagarde exit",
-    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "EU leaders remain far apart on budget but reach agreement on next ECB president",
+    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "Euro area card payments rise to 45%, edging past cash in 2026: ECB",
     "ECB meeting accounts are next for a Euro off its 19-month low",
-    "ECB already had large support for rate hike in Oct, accounts show",
-    "ECB account shows many policymakers were ready to hike in October"
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
+    "ECB account shows many policymakers were ready to hike in October",
+    "ECB recommends Spanish economist as next president",
+    "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate"
    ]
   },
   {
@@ -135,14 +146,14 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 65,
+   "fetched": 62,
    "kept": 11,
-   "added": 1,
+   "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
-    "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
     "Bank of England to defy market pricing and stick with gradual tightening",
+    "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "BoE warns AI financing is deepening links across markets",
@@ -157,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 41,
+   "fetched": 38,
    "kept": 3,
    "added": 0,
    "error": "",
@@ -169,9 +180,9 @@
     "Bank of Canada expected to hike interest rate next month, economists say - National",
     "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "More economists expect Bank of Canada to raise interest rates again at December meeting",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises"
+    "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
+    "More economists expect Bank of Canada to raise interest rates again at December meeting"
    ]
   },
   {
@@ -331,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 17,
+   "kept": 16,
    "added": 0,
    "error": ""
   }
