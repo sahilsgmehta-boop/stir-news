@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-27T14:00:00Z",
+"bank": "ECB",
+"speaker": "",
+"hl": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+"url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+"src": "ECB press, speeches, interviews",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "d7910a53402b",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-27T13:31:56Z",
 "bank": "ECB",
 "speaker": "Nagel",
@@ -29,7 +49,9 @@
 "src": "FXStreet",
 "tier": "comment",
 "tone": "",
-"also": [],
+"also": [
+"Breakingthenews.net"
+],
 "desc": "",
 "id": "6027bf80b06e",
 "score": null,
