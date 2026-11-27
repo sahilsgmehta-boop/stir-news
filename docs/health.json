@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T00:52:00Z",
+ "built": "2026-11-27T01:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -22,8 +22,7 @@
    "error": "",
    "near_misses": [
     "ECB picks Spain's Hern\u00e1ndez de Cos as president, with 3 tests waiting from day one",
-    "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks",
-    "Gold remains caught between forced liquidations and hawkish Fed bets. What could trigger a reversal?"
+    "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks"
    ]
   },
   {
@@ -66,8 +65,8 @@
    "near_misses": [
     "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
-    "Pound has only the Fed's quiet period ahead after a flat BoE report",
     "Fed\u2019s Preferred Inflation Gauge Accelerated to Three-Year High",
+    "Pound has only the Fed's quiet period ahead after a flat BoE report",
     "Fed's Beige Book shows evidence of broadening price pressures",
     "Fed's Beige Book Says Growth Is Mostly Modest While Cost Pressures Build",
     "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
@@ -81,9 +80,9 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 63,
-   "added": 2,
+   "fetched": 66,
+   "kept": 34,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -94,8 +93,8 @@
     "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates"
    ]
   },
   {
@@ -125,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 23,
+   "fetched": 43,
    "kept": 9,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "ECB account shows many policymakers were ready to hike in October",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
-    "ECB already had large support for rate hike in Oct, accounts show",
     "ECB Officials Saw More Tightening With Inflation Outlook Worse",
-    "Escriv\u00e1 highlights the milestone that a Spaniard presides over the ECB after the election of Hern\u00e1ndez de Cos.",
+    "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President",
+    "ECB account shows many policymakers were ready to hike in October",
+    "Latvian PM says a decision on the ECB's next president is expected today",
+    "Card Payments Overtake Cash in Euro-Area Shops: ECB Survey Finds Cash Still Leads in Ten Countries",
     "ECB meeting accounts are next for a Euro off its 19-month low",
     "ECB in No Rush to Increase Banks\u2019 Minimum Reserves After Debate",
-    "Euro above 19-month low: What next as ECB meeting accounts loom?",
-    "Euro trades above 19-month low ahead of ECB meeting accounts"
+    "ECB already had large support for rate hike in Oct, accounts show",
+    "Spain's de Cos to become ECB's next president, FT reports"
    ]
   },
   {
@@ -147,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 79,
-   "kept": 23,
+   "fetched": 65,
+   "kept": 17,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
-    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "Bank of England warns opaque AI borrowing could spread financial stress",
     "Bank Of England's Bailey: We Cannot Forget About Risks Of Quantum Computing That Are Coming Down The Track While We Focus On AI Risks",
-    "Bank of England Rate-Setters Leave December Hike on the Table",
+    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns",
     "Mortgage payments to rise for millions, Bank of England warns",
-    "Bank of England sees potential for lower inflation"
+    "Bank of England sees potential for lower inflation",
+    "Bank of England Rate-Setters Leave December Hike on the Table"
    ]
   },
   {
@@ -175,15 +174,15 @@
    "error": "",
    "near_misses": [
     "Tiff Macklem clears the way for Bank of Canada rate hike next month",
+    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
-    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
-    "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
-    "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England",
+    "Tiff Macklem clears the way for Bank of Canada rate hike next month",
     "Video: Bank of Canada governor says inflation forecast is lower",
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief"
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
+    "Today in Canada's Political History: November 26, 2012, Mark Carney named Governor of the Bank of England"
    ]
   },
   {
