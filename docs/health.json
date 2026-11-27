@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T18:52:01Z",
+ "built": "2026-11-27T19:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 47,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -70,7 +70,7 @@
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "What the Fed's December hike means for the Australian Dollar's bounce",
     "High inflation has puts US Fed\u2019s credibility on the line",
-    "Fed's Bullard hopes for more trade deals like NAFTA 2.0 to reduce uncertainty",
+    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
     "Fed holds interest rates steady as inflation hits 3-year high",
     "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
    ]
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 68,
-   "added": 12,
+   "fetched": 63,
+   "kept": 29,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Fed plans to eliminate some rate-setting meetings, chairman says"
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -112,8 +112,8 @@
     "ECB may have to raise rates further as inflation stays above 3%",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "Spain's De Cos to take over as ECB president from Lagarde",
-    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
     "Spanish economist to succeed Lagarde at the ECB",
+    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "DAX Rose As Europe Lined Up The Next ECB President",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank"
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 36,
+   "fetched": 29,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -177,12 +177,12 @@
     "Opinion: The next Bank of Canada governor must heed the lessons of the past",
     "Canadian inflation could end the year below Bank of Canada forecast under renewed 2% target",
     "Bank of Canada expected to hike interest rate next month, economists say - National",
-    "Canadian Dollar draws support from BoC rate hike bets, jobs data in focus",
     "Bank of Canada expected to hike interest rate next month, economists say",
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
+    "Bank of Canada To Hike Rates After Changing Preferred Inflation Measure: BMO",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
-    "More economists expect Bank of Canada to raise interest rates again at December meeting"
+    "Bank of Canada Keeps 2 Percent Inflation Target Through 2031"
    ]
   },
   {
@@ -342,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
+   "kept": 17,
    "added": 0,
    "error": ""
   }
