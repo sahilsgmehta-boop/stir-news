@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T00:22:01Z",
+ "built": "2026-11-28T00:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 21,
+   "fetched": 56,
+   "kept": 22,
    "added": 5,
    "error": "",
    "near_misses": [
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Burghley Capital Says Fed Minutes Favour More Hikes",
+    "Fed president pitches FedNow",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI boom looms over Warsh's Fed as inflation worries grow",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates"
    ]
   },
   {
@@ -110,8 +110,8 @@
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "What the ECB\u2019s new leadership could mean for interest rates",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 5,
+   "fetched": 49,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "ECB may have to raise rates further as inflation stays above 3%",
     "ECB: Germany\u2019s control room behind the Spanish presidency",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
-    "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President"
+    "European Central Bank set to appoint its first Spanish leader"
    ]
   },
   {
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 76,
-   "kept": 8,
+   "fetched": 56,
+   "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -157,10 +157,10 @@
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "What Bank of England report means for mortgages, savings and bills",
-    "Bank of England proposes further capital relief for major UK banks",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
-    "Bank of England warns frontier AI could put encryption at risk"
+    "Bank of England warns frontier AI could put encryption at risk",
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 21,
+   "fetched": 34,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -181,8 +181,8 @@
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Canadian Financial Close: Loonie strongly reacts to Macklem\u2019s speech",
     "Macklem Reframes Inflation Focus on Headline CPI, Keeping December Bank of Canada Hike in Play",
-    "Bank of Canada Keeps 2 Percent Inflation Target Through 2031",
-    "Bank of Canada Signals Another Rate Hike Is Coming in December"
+    "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
+    "Canadian bonds extend rally amid AI jitters, Macklem comments By Investing.com"
    ]
   },
   {
@@ -342,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 17,
+   "kept": 16,
    "added": 0,
    "error": ""
   }
