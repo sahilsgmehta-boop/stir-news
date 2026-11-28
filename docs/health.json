@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T17:07:00Z",
+ "built": "2026-11-28T17:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -59,17 +59,17 @@
    "kind": "news",
    "ok": true,
    "fetched": 33,
-   "kept": 3,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "High Inflation Puts Fed\u2019s Credibility On the Line",
-    "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
     "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
+    "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
     "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
     "The Fed\u2019s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It\u2019s Bad News for Wall Street",
-    "Fed\u2019s December Rate Hike Is Priced In, but January Remains Uncertain",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
+    "Fed\u2019s December Rate Hike Is Priced In, but January Remains Uncertain",
     "Macro strategist Greg Faranello talks factors determining Fed's rate timeline",
     "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline"
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
-   "kept": 20,
-   "added": 5,
+   "fetched": 100,
+   "kept": 61,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Burghley Capital Says Fed Minutes Favour More Hikes",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 88,
+   "fetched": 89,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -133,8 +133,8 @@
     "ECB's gender gap set to widen further after Lagarde exit",
     "ECB officials signal further rate hikes as inflation remains elevated",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "European Central Bank set to appoint its first Spanish leader",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "European Central Bank set to appoint its first Spanish leader",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "New ECB Presidential pick could sway digital euro holding limits, boost tokenized deposits",
     "EU leaders remain far apart on budget but reach agreement on next ECB president",
@@ -146,11 +146,12 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
-   "kept": 7,
+   "fetched": 50,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
+    "Bank of England to defy market pricing and stick with gradual tightening",
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
     "Bank of England boss warns AI must benefit humans",
     "Bank of England flags opaque AI financing as systemic threat",
@@ -158,7 +159,6 @@
     "Bank of England proposes further capital relief for major UK banks",
     "Bank of England flags AI and quantum risks to financial encryption",
     "What Bank of England report means for mortgages, savings and bills",
-    "Bank of England to defy market pricing and stick with gradual tightening",
     "Bank of England warns frontier AI could put encryption at risk",
     "Bank of England warns opaque AI borrowing could spread financial stress"
    ]
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 9,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -176,7 +176,8 @@
     "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Canadian Dollar draws support from BoC rate hike bets, jobs data in focus",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
-    "Loonie Steadies as Traders Price December Fed Hike"
+    "Loonie Steadies as Traders Price December Fed Hike",
+    "Bank of Canada Weighs Inflation Risks Ahead of December 9 Decision"
    ]
   },
   {
