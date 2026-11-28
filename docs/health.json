@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T09:52:00Z",
+ "built": "2026-11-28T10:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 37,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -70,9 +70,9 @@
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
     "Fed\u2019s December Rate Hike Is Priced In, but January Remains Uncertain",
     "Macro strategist Greg Faranello talks factors determining Fed's rate timeline",
-    "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
-    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
+    "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
+    "What the Fed's December hike means for the Australian Dollar's bounce"
    ]
   },
   {
@@ -108,15 +108,15 @@
    "error": "",
    "near_misses": [
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
-    "Spain's De Cos to take over as ECB president from Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+    "Spain's De Cos to take over as ECB president from Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "Spain's De Cos to take over as ECB president from Lagarde",
-    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
-    "ECB may have to raise rates further as inflation stays above 3%"
+    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
+    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde"
    ]
   },
   {
@@ -134,8 +134,8 @@
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
-    "ECB may have to raise rates further as inflation stays above 3%",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "ECB may have to raise rates further as inflation stays above 3%",
     "ECB: Germany\u2019s control room behind the Spanish presidency",
     "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "EU Leaders Set To Nominate Spain\u2019s De Cos As New ECB President"
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -179,7 +179,6 @@
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos to take over from Lagarde as European Central Bank chief",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Macklem Reframes Inflation Focus on Headline CPI, Keeping December Bank of Canada Hike in Play",
-    "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
     "Bank of Canada Signals Another Rate Hike Is Coming in December",
     "Loonie Steadies as Traders Price December Fed Hike"
    ]
@@ -341,7 +340,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 17,
+   "kept": 16,
    "added": 0,
    "error": ""
   }
