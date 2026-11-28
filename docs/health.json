@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T06:37:00Z",
+ "built": "2026-11-28T06:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 40,
+   "fetched": 52,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -72,7 +72,7 @@
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Macro strategist Greg Faranello talks factors determining Fed's rate timeline",
     "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
-    "Fed holds interest rates steady as inflation hits 3-year high"
+    "Fed holds interest rates steady in 1st move since Iran war spiked oil prices"
    ]
   },
   {
@@ -80,7 +80,7 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 57,
+   "fetched": 58,
    "kept": 23,
    "added": 6,
    "error": "",
@@ -103,20 +103,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 11,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "What the ECB\u2019s new leadership could mean for interest rates",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
-    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president"
+    "ECB may have to raise rates further as inflation stays above 3%"
    ]
   },
   {
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 4,
+   "fetched": 44,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "ECB may have to raise rates further as inflation stays above 3%",
+    "ECB officials signal further rate hikes as inflation remains elevated",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
-    "ECB: Germany\u2019s control room behind the Spanish presidency",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "EU leaders remain far apart on budget but reach agreement on next ECB president",
-    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift"
+    "European Central Bank set to appoint its first Spanish leader"
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 79,
+   "fetched": 78,
    "kept": 9,
    "added": 0,
    "error": "",
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 30,
+   "fetched": 17,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -180,9 +180,8 @@
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Macklem Reframes Inflation Focus on Headline CPI, Keeping December Bank of Canada Hike in Play",
-    "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
-    "Canadian bonds extend rally amid AI jitters, Macklem comments By Investing.com",
-    "Bank of Canada Signals Another Rate Hike Is Coming in December"
+    "Bank of Canada Signals Another Rate Hike Is Coming in December",
+    "Loonie Steadies as Traders Price December Fed Hike"
    ]
   },
   {
