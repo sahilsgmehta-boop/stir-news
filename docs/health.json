@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T11:37:00Z",
+ "built": "2026-11-28T11:52:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 37,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -80,8 +80,8 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 19,
+   "fetched": 100,
+   "kept": 61,
    "added": 5,
    "error": "",
    "near_misses": [
@@ -89,12 +89,12 @@
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Burghley Capital Says Fed Minutes Favour More Hikes",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -111,11 +111,11 @@
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-    "Spain's De Cos to take over as ECB president from Lagarde",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
-    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
+    "Spain's De Cos to take over as ECB president from Lagarde",
+    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
+    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
     "Spanish economist de Cos to succeed Lagarde as head of ECB"
    ]
   },
@@ -146,21 +146,21 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 74,
+   "fetched": 55,
    "kept": 6,
    "added": 0,
    "error": "",
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Bank of England boss warns AI must benefit humans",
     "Bank of England flags opaque AI financing as systemic threat",
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Bank of England sees growing financial risks as AI borrowing surges",
     "What Bank of England report means for mortgages, savings and bills",
-    "BoE warns AI financing is deepening links across markets",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
-    "Bank of England to defy market pricing and stick with gradual tightening"
+    "Bank of England warns frontier AI could put encryption at risk",
+    "BoE warns AI financing is deepening links across markets"
    ]
   },
   {
