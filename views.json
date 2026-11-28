@@ -703,7 +703,7 @@
    "stance": "lean hawk",
    "next": {
     "call": "+25",
-    "note": "Nov 27: the ECB has to act now to avoid falling behind the curve; Nov 18: December hike 'very likely'. 25bp is the usual step.",
+    "note": "Nov 27-28 (Kurier): December hike pricing fits current conditions; must act now to avoid falling behind the curve. Nov 18: December hike 'very likely'.",
     "how": "said",
     "quote": "ECB has to act now so we don't fall behind",
     "qsrc": "headline (Breakingthenews.net), Nov 27"
@@ -722,11 +722,11 @@
    },
    "view": "The ECB must hike now to avoid falling behind the curve as energy prices push inflation up.",
    "shift": "Firmer: from a December hike 'very likely' (Nov 18) to 'act now' to avoid falling behind the curve (Nov 27).",
-   "last": "2026-11-27",
-   "ev": "Remarks",
+   "last": "2026-11-28",
+   "ev": "Interview, Kurier",
    "basis": "reports",
    "conf": "high",
-   "asof": "2026-11-27"
+   "asof": "2026-11-28"
   },
   "ECB|Lane": {
    "votes": {
