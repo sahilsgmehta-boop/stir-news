@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T17:22:00Z",
+ "built": "2026-11-28T17:37:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,21 +58,21 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 33,
+   "fetched": 49,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "High Inflation Puts Fed\u2019s Credibility On the Line",
-    "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
+    "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
     "The Fed\u2019s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It\u2019s Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "Fed\u2019s December Rate Hike Is Priced In, but January Remains Uncertain",
     "Macro strategist Greg Faranello talks factors determining Fed's rate timeline",
-    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
-    "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline"
+    "Pound has only the Fed's quiet period ahead after a flat BoE report",
+    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
    ]
   },
   {
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 6,
+   "fetched": 53,
+   "kept": 19,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "Burghley Capital Says Fed Minutes Favour More Hikes",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Burghley Capital Says Fed Minutes Favour More Hikes",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
+    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
    ]
   },
   {
@@ -102,7 +102,7 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 89,
+   "fetched": 87,
    "kept": 11,
    "added": 0,
    "error": "",
@@ -114,9 +114,9 @@
     "What the ECB\u2019s new leadership could mean for interest rates",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "Business - Spain's De Cos chosen as next ECB president",
-    "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
-    "Spanish economist to succeed Lagarde at the ECB"
+    "Spanish economist to succeed Lagarde at the ECB",
+    "Pablo Hern\u00e1ndez De Cos Backed to Lead the ECB After Lagarde"
    ]
   },
   {
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 44,
-   "kept": 7,
+   "fetched": 24,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
     "ECB officials signal further rate hikes as inflation remains elevated",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "European Central Bank set to appoint its first Spanish leader",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
-    "New ECB Presidential pick could sway digital euro holding limits, boost tokenized deposits",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "EU leaders remain far apart on budget but reach agreement on next ECB president",
-    "EU leaders remain split on long-term budget, discuss Ukraine funding and ECB succession"
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
+    "ECB may have to raise rates further as inflation stays above 3%",
+    "ECB: Germany\u2019s control room behind the Spanish presidency"
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 42,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -159,8 +159,8 @@
     "Bank of England proposes further capital relief for major UK banks",
     "Bank of England flags AI and quantum risks to financial encryption",
     "What Bank of England report means for mortgages, savings and bills",
-    "Bank of England warns frontier AI could put encryption at risk",
-    "Bank of England warns opaque AI borrowing could spread financial stress"
+    "Bank of England warns opaque AI borrowing could spread financial stress",
+    "Bank of England warns frontier AI could put encryption at risk"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 15,
+   "fetched": 9,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -176,8 +176,7 @@
     "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
     "Canadian Dollar draws support from BoC rate hike bets, jobs data in focus",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
-    "Loonie Steadies as Traders Price December Fed Hike",
-    "Bank of Canada Weighs Inflation Risks Ahead of December 9 Decision"
+    "Loonie Steadies as Traders Price December Fed Hike"
    ]
   },
   {
