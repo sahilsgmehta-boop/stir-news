@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T01:52:01Z",
+ "built": "2026-11-28T02:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
+   "fetched": 42,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 7,
+   "fetched": 77,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -157,10 +157,10 @@
     "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
     "What Bank of England report means for mortgages, savings and bills",
+    "Bank of England proposes further capital relief for major UK banks",
     "BoE warns AI financing is deepening links across markets",
     "Bank of England flags AI and quantum risks to financial encryption",
-    "Bank of England warns frontier AI could put encryption at risk",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
+    "Bank of England warns frontier AI could put encryption at risk"
    ]
   },
   {
