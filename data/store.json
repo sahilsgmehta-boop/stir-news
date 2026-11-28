@@ -345,7 +345,9 @@
 "src": "The Times",
 "tier": "comment",
 "tone": "neutral",
-"also": [],
+"also": [
+"Nacionale"
+],
 "desc": "",
 "id": "e4556c7e2810",
 "score": 0,
