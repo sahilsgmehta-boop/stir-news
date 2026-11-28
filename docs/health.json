@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T14:52:01Z",
+ "built": "2026-11-28T15:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 35,
+   "fetched": 50,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -90,11 +90,11 @@
     "Burghley Capital Says Fed Minutes Favour More Hikes",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "Fed governor Waller muddies outlook on possible rate hike later this month"
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -103,18 +103,18 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 12,
+   "kept": 11,
    "added": 0,
    "error": "",
    "near_misses": [
-    "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+    "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
+    "Spain's De Cos to take over as ECB president from Lagarde",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
     "What the ECB\u2019s new leadership could mean for interest rates",
-    "ECB turns to crisis veteran De Cos as new strains loom",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
+    "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
     "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side"
    ]
@@ -124,7 +124,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
+   "fetched": 26,
    "kept": 4,
    "added": 0,
    "error": "",
