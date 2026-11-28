@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T17:37:00Z",
+ "built": "2026-11-28T17:52:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,14 +58,14 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 33,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "High Inflation Puts Fed\u2019s Credibility On the Line",
-    "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
     "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
+    "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
     "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
     "The Fed\u2019s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It\u2019s Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 53,
-   "kept": 19,
-   "added": 5,
+   "fetched": 100,
+   "kept": 62,
+   "added": 7,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "Burghley Capital Says Fed Minutes Favour More Hikes",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Burghley Capital Says Fed Minutes Favour More Hikes",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -102,21 +102,21 @@
    "name": "Google News: ECB",
    "kind": "news",
    "ok": true,
-   "fetched": 87,
-   "kept": 11,
+   "fetched": 82,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
-    "Spain's De Cos to take over as ECB president from Lagarde",
+    "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "What the ECB\u2019s new leadership could mean for interest rates",
     "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "Business - Spain's De Cos chosen as next ECB president",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "Spanish economist to succeed Lagarde at the ECB",
-    "Pablo Hern\u00e1ndez De Cos Backed to Lead the ECB After Lagarde"
+    "Pablo Hern\u00e1ndez De Cos Backed to Lead the ECB After Lagarde",
+    "Spanish economist to become new European Central Bank chief"
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
+   "fetched": 47,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -159,8 +159,8 @@
     "Bank of England proposes further capital relief for major UK banks",
     "Bank of England flags AI and quantum risks to financial encryption",
     "What Bank of England report means for mortgages, savings and bills",
-    "Bank of England warns opaque AI borrowing could spread financial stress",
-    "Bank of England warns frontier AI could put encryption at risk"
+    "Bank of England warns frontier AI could put encryption at risk",
+    "Banks may pass \u00a31.5bn tax hike on to customers, Bank of England chief warns"
    ]
   },
   {
