@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T10:07:00Z",
+ "built": "2026-11-28T10:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -81,20 +81,20 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 68,
-   "added": 17,
+   "kept": 60,
+   "added": 4,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
     "Burghley Capital Says Fed Minutes Favour More Hikes",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "AI boom looms over Warsh's Fed as inflation worries grow",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
     "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace"
    ]
   },
   {
@@ -114,8 +114,8 @@
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
-    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "De Cos Is Poised to Take ECB Presidency in Era After Lagarde"
    ]
   },
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 78,
    "kept": 6,
    "added": 0,
    "error": "",
@@ -158,9 +158,9 @@
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "What Bank of England report means for mortgages, savings and bills",
     "Bank of England sees growing financial risks as AI borrowing surges",
+    "Bank of England proposes further capital relief for major UK banks",
     "Bank of England warns frontier AI could put encryption at risk",
-    "BoE warns AI financing is deepening links across markets",
-    "Bank of England flags AI and quantum risks to financial encryption"
+    "Bank of England to defy market pricing and stick with gradual tightening"
    ]
   },
   {
