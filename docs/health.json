@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T13:52:00Z",
+ "built": "2026-11-28T14:07:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -57,23 +57,11 @@
    "id": "gn_fed",
    "name": "Google News: Fed",
    "kind": "news",
-   "ok": true,
-   "fetched": 36,
-   "kept": 4,
+   "ok": false,
+   "fetched": 0,
+   "kept": 0,
    "added": 0,
-   "error": "",
-   "near_misses": [
-    "High Inflation Puts Fed\u2019s Credibility On the Line",
-    "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
-    "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
-    "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
-    "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
-    "Fed\u2019s December Rate Hike Is Priced In, but January Remains Uncertain",
-    "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
-    "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
-    "Macro strategist Greg Faranello talks factors determining Fed's rate timeline",
-    "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
-   ]
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "gn_fed2",
@@ -81,8 +69,8 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 61,
-   "added": 7,
+   "kept": 62,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
@@ -115,7 +103,7 @@
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "What the ECB\u2019s new leadership could mean for interest rates",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "Spain's Hern\u00e1ndez de Cos set to become new ECB president",
+    "Europe Picks a Technocrat for the ECB\u2019s Next Crisis",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president"
    ]
   },
@@ -124,16 +112,16 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 4,
+   "fetched": 26,
+   "kept": 5,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "ECB officials signal further rate hikes as inflation remains elevated",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "ECB officials signal further rate hikes as inflation remains elevated",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
@@ -146,7 +134,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 51,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -158,9 +146,9 @@
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "BoE warns AI financing is deepening links across markets",
-    "Bank of England proposes further capital relief for major UK banks",
-    "Bank of England to defy market pricing and stick with gradual tightening",
-    "Bank of England flags AI and quantum risks to financial encryption"
+    "Bank of England flags AI and quantum risks to financial encryption",
+    "Bank of England warns frontier AI could put encryption at risk",
+    "What Bank of England report means for mortgages, savings and bills"
    ]
   },
   {
@@ -168,7 +156,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 14,
+   "fetched": 13,
    "kept": 0,
    "added": 0,
    "error": "",
