@@ -11872,6 +11872,14 @@
    "read": "Non-rate Governing Council decisions; no signal for the rate path.",
    "at": "2026-11-28T11:54:20Z",
    "by": "claude"
+  },
+  "627cbc2bf23f": {
+   "tone": "hawk",
+   "score": 4,
+   "read": "Says markets are likely right to price a December hike; firm but matches pricing.",
+   "lead": "5084671fc64d",
+   "at": "2026-11-28T15:48:38Z",
+   "by": "claude"
   }
  }
 }
