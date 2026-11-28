@@ -73,7 +73,9 @@
 "src": "Bloomberg.com",
 "tier": "comment",
 "tone": "hawk",
-"also": [],
+"also": [
+"Digg"
+],
 "desc": "",
 "id": "e3dbe85fd9f8",
 "score": 4,

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T04:09:53Z",
+ "built": "2026-11-28T04:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
+   "fetched": 40,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 8,
+   "kept": 10,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -113,10 +113,10 @@
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "What the ECB\u2019s new leadership could mean for interest rates",
-    "ECB may have to raise rates further as inflation stays above 3%",
-    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "Spain's De Cos to take over as ECB president from Lagarde"
+    "Spain's De Cos to take over as ECB president from Lagarde",
+    "THINK Ahead: The ECB\u2019s new boss has timing on his side",
+    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president"
    ]
   },
   {
@@ -124,7 +124,7 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 46,
+   "fetched": 45,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -146,8 +146,8 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 56,
-   "kept": 7,
+   "fetched": 76,
+   "kept": 8,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -157,10 +157,10 @@
     "Bank of England flags opaque AI financing as systemic threat",
     "What Bank of England report means for mortgages, savings and bills",
     "Bank of England boss warns AI must benefit humans",
+    "Bank of England proposes further capital relief for major UK banks",
     "BoE warns AI financing is deepening links across markets",
-    "Bank of England flags AI and quantum risks to financial encryption",
-    "Bank of England warns frontier AI could put encryption at risk",
-    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year"
+    "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
+    "Bank of England flags AI and quantum risks to financial encryption"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 32,
+   "fetched": 31,
    "kept": 0,
    "added": 0,
    "error": "",
@@ -180,9 +180,9 @@
     "Bank of Canada publishing more scenarios as economic uncertaint\u00ady rises",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
     "Macklem Reframes Inflation Focus on Headline CPI, Keeping December Bank of Canada Hike in Play",
-    "Canadian bonds extend rally amid AI jitters, Macklem comments",
     "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
-    "BoC rate hike bets underpin Canadian Dollar as focus turns to jobs data"
+    "Canadian bonds extend rally amid AI jitters, Macklem comments By Investing.com",
+    "Bank of Canada Signals Another Rate Hike Is Coming in December"
    ]
   },
   {
@@ -342,7 +342,7 @@
    "kind": "official",
    "ok": true,
    "fetched": 50,
-   "kept": 16,
+   "kept": 17,
    "added": 0,
    "error": ""
   }
