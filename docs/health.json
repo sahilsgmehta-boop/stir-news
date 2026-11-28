@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T07:52:00Z",
+ "built": "2026-11-28T08:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 52,
+   "fetched": 38,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 67,
-   "added": 14,
+   "fetched": 58,
+   "kept": 23,
+   "added": 6,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
     "Burghley Capital Says Fed Minutes Favour More Hikes",
     "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates"
    ]
   },
   {
@@ -116,7 +116,7 @@
     "What the ECB\u2019s new leadership could mean for interest rates",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
-    "De Cos Is Poised to Take ECB Presidency in Era After Lagarde"
+    "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency"
    ]
   },
   {
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 45,
-   "kept": 5,
+   "fetched": 25,
+   "kept": 3,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
-    "ECB officials signal further rate hikes as inflation remains elevated",
     "ECB may have to raise rates further as inflation stays above 3%",
-    "European Central Bank set to appoint its first Spanish leader",
-    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)"
+    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "ECB: Germany\u2019s control room behind the Spanish presidency",
+    "EU leaders remain far apart on budget but reach agreement on next ECB president",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift"
    ]
   },
   {
@@ -153,8 +153,8 @@
    "near_misses": [
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
-    "Bank of England flags opaque AI financing as systemic threat",
     "Bank of England boss warns AI must benefit humans",
+    "Bank of England flags opaque AI financing as systemic threat",
     "What Bank of England report means for mortgages, savings and bills",
     "BOE Ploughs Ahead With Gilt Repo Market Reform Next Year",
     "Bank of England warns frontier AI could put encryption at risk",
@@ -260,8 +260,8 @@
    "kind": "official",
    "ok": true,
    "fetched": 15,
-   "kept": 4,
-   "added": 0,
+   "kept": 5,
+   "added": 1,
    "error": ""
   },
   {

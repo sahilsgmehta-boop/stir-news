@@ -1,6 +1,26 @@
 {
 "items": [
 {
+"t": "2026-11-28T08:00:00Z",
+"bank": "ECB",
+"speaker": "Vujcic",
+"hl": "Boris Vujčić: Interview with Kurier",
+"url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+"src": "ECB press, speeches, interviews",
+"tier": "official",
+"tone": "",
+"also": [],
+"desc": "",
+"id": "5084671fc64d",
+"score": null,
+"read": "",
+"sum": "",
+"pts": [],
+"rr": "",
+"ev": "",
+"basis": ""
+},
+{
 "t": "2026-11-27T15:02:00Z",
 "bank": "ECB",
 "speaker": "Vujcic",
