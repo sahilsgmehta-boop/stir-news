@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T15:09:40Z",
+ "built": "2026-11-28T15:22:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,19 +58,19 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 49,
+   "fetched": 35,
    "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "High Inflation Puts Fed\u2019s Credibility On the Line",
+    "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
     "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
-    "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
     "Fed\u2019s December Rate Hike Is Priced In, but January Remains Uncertain",
-    "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
+    "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "Macro strategist Greg Faranello talks factors determining Fed's rate timeline",
     "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
    ]
@@ -111,12 +111,12 @@
     "World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares",
     "Spain's De Cos to take over as ECB president from Lagarde",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "Christine Lagarde Helped Block Binance\u2019s Foothold in Europe",
     "What the ECB\u2019s new leadership could mean for interest rates",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "Spain\u2019s Hern\u00e1ndez de Cos tapped to succeed fellow \u2018owl\u2019 Lagarde as ECB president",
     "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
-    "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
-    "THINK Ahead: The ECB\u2019s new boss has timing on his side"
+    "Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief"
    ]
   },
   {
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 42,
-   "kept": 6,
+   "fetched": 26,
+   "kept": 4,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
-    "ECB officials signal further rate hikes as inflation remains elevated",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "ECB officials signal further rate hikes as inflation remains elevated",
     "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "European Central Bank set to appoint its first Spanish leader",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "EU leaders remain far apart on budget but reach agreement on next ECB president",
     "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
-    "New ECB Presidential pick could sway digital euro holding limits, boost tokenized deposits"
+    "ECB may have to raise rates further as inflation stays above 3%"
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 58,
+   "fetched": 50,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -158,9 +158,9 @@
     "Bank of England sees growing financial risks as AI borrowing surges",
     "Daniel E. Pinto Appointed to the Bank of England\u2019s Financial Policy Committee",
     "BoE warns AI financing is deepening links across markets",
-    "Bank of England proposes further capital relief for major UK banks",
+    "Bank of England flags AI and quantum risks to financial encryption",
     "Bank of England to defy market pricing and stick with gradual tightening",
-    "Bank of England flags AI and quantum risks to financial encryption"
+    "What Bank of England report means for mortgages, savings and bills"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 17,
+   "fetched": 10,
    "kept": 0,
    "added": 0,
    "error": "",
