@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T00:52:01Z",
+ "built": "2026-11-28T01:07:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 51,
+   "fetched": 45,
    "kept": 5,
    "added": 0,
    "error": "",
@@ -70,7 +70,7 @@
     "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
     "What the Fed's December hike means for the Australian Dollar's bounce",
-    "Gas prices, interest rates weigh on car sales nationwide, Fed's final 2026 Beige Book says",
+    "Australian bank ANZ dropped from NY Fed's foreign exchange counterparty list",
     "What a Surprise GDP Upgrade Means for the Fed's December Decision",
     "Fed holds interest rates steady as inflation hits 3-year high"
    ]
@@ -112,11 +112,11 @@
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
     "What the ECB\u2019s new leadership could mean for interest rates",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "THINK Ahead: The ECB\u2019s new boss has timing on his side",
-    "Spain's De Cos to take over as ECB president from Lagarde",
-    "Spanish central banker Pablo Hern\u00e1ndez de Cos nominated as next ECB president"
+    "ECB may have to raise rates further as inflation stays above 3%",
+    "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift"
    ]
   },
   {
@@ -147,7 +147,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 56,
-   "kept": 6,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
