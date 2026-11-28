@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T14:22:01Z",
+ "built": "2026-11-28T14:37:01Z",
  "sources": [
   {
    "id": "il_cb",
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 100,
-   "kept": 61,
-   "added": 7,
+   "fetched": 55,
+   "kept": 20,
+   "added": 5,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Burghley Capital Says Fed Minutes Favour More Hikes",
-    "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
     "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
     "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace"
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 12,
+   "kept": 13,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 26,
-   "kept": 5,
+   "fetched": 43,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
+    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
+    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
     "Spanish economist de Cos to succeed Lagarde as head of ECB",
     "ECB officials signal further rate hikes as inflation remains elevated",
-    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "European Central Bank set to appoint its first Spanish leader",
     "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
-    "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "EU leaders remain far apart on budget but reach agreement on next ECB president",
     "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
-    "ECB may have to raise rates further as inflation stays above 3%"
+    "New ECB Presidential pick could sway digital euro holding limits, boost tokenized deposits"
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 59,
+   "fetched": 58,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -168,7 +168,7 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 12,
+   "fetched": 19,
    "kept": 0,
    "added": 0,
    "error": "",
