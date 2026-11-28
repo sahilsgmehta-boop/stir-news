@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T16:07:00Z",
+ "built": "2026-11-28T16:22:00Z",
  "sources": [
   {
    "id": "il_cb",
@@ -58,7 +58,7 @@
    "name": "Google News: Fed",
    "kind": "news",
    "ok": true,
-   "fetched": 50,
+   "fetched": 35,
    "kept": 4,
    "added": 0,
    "error": "",
@@ -67,11 +67,11 @@
     "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
     "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
     "Slow and Steady Could Win the Fed\u2019s Next Hiking Cycle",
-    "Macro Strategist Greg Faranello Talks Factors Determining Fed\u2019s Rate Timeline",
+    "The Fed\u2019s Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It\u2019s Bad News for Wall Street",
     "Fed\u2019s December Rate Hike Is Priced In, but January Remains Uncertain",
     "Thanksgiving Inflation, The Fed\u2019s Debt Trap, And Gold\u2019s Eastward Shift",
-    "The Fed's Preferred Inflation Gauge Just Hit a Level Not Seen Since 2023, and It's Bad News for Wall Street",
     "Macro strategist Greg Faranello talks factors determining Fed's rate timeline",
+    "Pound has only the Fed's quiet period ahead after a flat BoE report",
     "Watch Fed's Dec. Meeting May Mark Turning Point for Markets: Economist"
    ]
   },
@@ -80,21 +80,21 @@
    "name": "Google News: Fed names",
    "kind": "news",
    "ok": true,
-   "fetched": 54,
-   "kept": 19,
-   "added": 5,
+   "fetched": 100,
+   "kept": 68,
+   "added": 19,
    "error": "",
    "near_misses": [
     "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
     "Gold may get a relief rally following the Fed, but Warsh\u2019s tone could still hammer prices lower \u2013 BubbleBubble Report\u2019s Colombo",
-    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "Burghley Capital Says Fed Minutes Favour More Hikes",
-    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
-    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes",
-    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "DB flags increasingly hawkish Fed tone as officials signal further rate hikes",
-    "BlackRock Challenges Fed Rate Path as Williams Keeps Door Open to Back-to-Back Hikes"
+    "AI boom looms over Warsh's Fed as inflation worries grow",
+    "Fed president says central bank has \u2018work to do\u2019 to lower inflation",
+    "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "NY Fed chief warned inflation remains too high, won't rule out back-to-back rate hikes"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "kind": "news",
    "ok": true,
    "fetched": 100,
-   "kept": 11,
+   "kept": 12,
    "added": 0,
    "error": "",
    "near_misses": [
@@ -124,21 +124,21 @@
    "name": "Google News: ECB names",
    "kind": "news",
    "ok": true,
-   "fetched": 25,
-   "kept": 4,
+   "fetched": 42,
+   "kept": 7,
    "added": 0,
    "error": "",
    "near_misses": [
     "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
     "ECB's gender gap set to widen further after Lagarde exit",
     "ECB officials signal further rate hikes as inflation remains elevated",
-    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
-    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
     "European Council endorses Pablo Hern\u00e1ndez de Cos as next ECB President",
-    "EU leaders remain far apart on budget but reach agreement on next ECB president",
+    "E.U. leaders nominated Pablo Hern\u00e1ndez de Cos as next ECB president",
+    "European Central Bank set to appoint its first Spanish leader",
+    "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president (VGK:NYSEARCA)",
+    "New ECB Presidential pick could sway digital euro holding limits, boost tokenized deposits",
     "EU Council seeks Hern\u00e1ndez de Cos as ECB president in pivotal leadership shift",
-    "ECB may have to raise rates further as inflation stays above 3%",
-    "ECB: Germany\u2019s control room behind the Spanish presidency"
+    "EU leaders remain split on long-term budget, discuss Ukraine funding and ECB succession"
    ]
   },
   {
@@ -146,7 +146,7 @@
    "name": "Google News: BoE",
    "kind": "news",
    "ok": true,
-   "fetched": 55,
+   "fetched": 50,
    "kept": 7,
    "added": 0,
    "error": "",
@@ -168,15 +168,14 @@
    "name": "Google News: BoC",
    "kind": "news",
    "ok": true,
-   "fetched": 16,
+   "fetched": 15,
    "kept": 0,
    "added": 0,
    "error": "",
    "near_misses": [
-    "Canadian Dollar draws support from BoC rate hike bets, jobs data in focus",
     "Posthaste: Canadian dollar gets a boost back above 70 cents U.S. from Bank of Canada, but can the momentum last?",
+    "Canadian Dollar draws support from BoC rate hike bets, jobs data in focus",
     "Bank of Canada Weighs Inflation Risks Ahead of December Rate Decision",
-    "Bank of Canada Signals Another Rate Hike Is Coming in December",
     "Loonie Steadies as Traders Price December Fed Hike"
    ]
   },
